@@ -1,0 +1,22 @@
+<map id="m0_be_btree_cursor_kv_get" name="m0_be_btree_cursor_kv_get">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga666feccea82d48aa194922d586c4bc05" title="btree_count_items" alt="" coords="223,5,352,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#a54539b1ebcb8573bfe7bdf0622a76d8a" title="cursor_test" alt="" coords="244,56,331,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#gac1037f2d16cd3a23d20cb1be82abb8e9" title="emap_it_open" alt="" coords="236,107,339,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#a6f8452151892ff49885404c0ae4988f4" title="ctg_op_cb" alt="" coords="246,157,329,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#ad01b093b048321aa4649150a809180cf" title="ctg_index_btree_dump" alt="" coords="211,208,364,235"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga6dd9ac945f7eed8d813353c86cf86f21" title="ctgdump" alt="" coords="484,247,556,273"/>
+<area shape="rect" id="node8" href="$d8/d50/ctg__store_8c.html#a8f2e8b3ecb553d3a06fe121549f71ab9" title="versioned_cursor_next_sync" alt="" coords="193,309,381,336"/>
+<area shape="rect" id="node9" href="$d8/d50/ctg__store_8c.html#a05a37ad375095832bd67df15b5df7027" title="versioned_cursor_get_sync" alt="" coords="429,323,611,349"/>
+<area shape="rect" id="node10" href="$d3/d8e/group__cob.html#ga42629c5ac35d14cc78e79ae1963b7ba1" title="m0_cob_bc_iterator_get" alt="" coords="207,411,368,437"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#gae20dc241f328d5e3b7a7b52f2bf2fc75" title="m0_cob_bc_iterator_next" alt="" coords="203,461,371,488"/>
+<area shape="rect" id="node12" href="$d3/d8e/group__cob.html#ga0cacf564dd5c713dc437cdd219d6b6c0" title="m0_cob_bc_entries_dump" alt="" coords="200,512,375,539"/>
+<area shape="rect" id="node13" href="$d3/d8e/group__cob.html#ga994125da14a4d6b717e13ac9ad4c74ff" title="cob_oi_lookup" alt="" coords="235,563,340,589"/>
+<area shape="rect" id="node14" href="$d3/d8e/group__cob.html#ga0383f2107ac7798f7efd4f9fec8cfaa6" title="m0_cob_iterator_get" alt="" coords="217,613,357,640"/>
+<area shape="rect" id="node15" href="$d3/d8e/group__cob.html#ga51d9713ae3a4e51d62e40021523e47f3" title="m0_cob_iterator_next" alt="" coords="214,664,361,691"/>
+<area shape="rect" id="node16" href="$d3/d8e/group__cob.html#gac89d655e6157c1fa4794774e40bc9278" title="m0_cob_ea_iterator_get" alt="" coords="207,715,368,741"/>
+<area shape="rect" id="node17" href="$d3/d8e/group__cob.html#ga0380ac13e09d11b569b098d80cf1377c" title="m0_cob_ea_iterator_next" alt="" coords="203,765,371,792"/>
+<area shape="rect" id="node18" href="$d3/d8e/group__cob.html#gacac2f3efeeebd9f778f66b9c177f9b68" title="m0_cob_alloc_omgid" alt="" coords="215,816,359,843"/>
+<area shape="rect" id="node19" href="$d2/da0/group__cob__fid__ns__iter.html#gacef3dd9de344616cd2b518f39fcdfebe" title="m0_cob_ns_rec_of" alt="" coords="221,867,353,893"/>
+<area shape="rect" id="node20" href="$d2/db5/db_8c.html#a83dc065e5d8c8f993c1c60473c9ef6d4" title="__confdb_free" alt="" coords="235,917,339,944"/>
+<area shape="rect" id="node21" href="$d2/db5/db_8c.html#a9d2cd186e6f4b52a4f340218685815c1" title="confx_fill" alt="" coords="250,968,325,995"/>
+</map>

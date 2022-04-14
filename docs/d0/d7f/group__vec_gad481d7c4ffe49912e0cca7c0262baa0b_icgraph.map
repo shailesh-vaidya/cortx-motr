@@ -1,0 +1,30 @@
+<map id="m0_bufvec_cursor_step" name="m0_bufvec_cursor_step">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga2a19253d39ad85f5d29e837a16280dad" title="m0_layout_decode" alt="" coords="237,5,367,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga68ca77581e2a02200744b9a3a0352df5" title="m0_layout_encode" alt="" coords="237,56,367,83"/>
+<area shape="rect" id="node4" href="$d6/de4/layout_2ut_2layout_8c.html#a81b540d0fae951ec059915b3a933fb90" title="lbuf_verify" alt="" coords="261,107,343,133"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#a59074e133930977b432809b360442000" title="pdclust_layout_buf\l_verify" alt="" coords="437,150,568,191"/>
+<area shape="rect" id="node6" href="$d6/de4/layout_2ut_2layout_8c.html#afa3fba42ebcc66b0cf34a3c39feedfb4" title="pdclust_lbuf_verify" alt="" coords="237,208,367,235"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#a81b03e03f35edddbe48a7d443c980aa7" title="lbuf_compare" alt="" coords="252,259,352,285"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#a0fb9d2b763291763bb21b2525e54ca8c" title="pdclust_layout_buf\l_compare" alt="" coords="437,302,568,343"/>
+<area shape="rect" id="node9" href="$d6/de4/layout_2ut_2layout_8c.html#ad0ef557f3414acec31c998762a78374f" title="pdclust_lbuf_compare" alt="" coords="227,360,377,387"/>
+<area shape="rect" id="node10" href="$dd/dcc/group__linear__enum.html#gadbb933df60ca8c5f633e22c99e335211" title="linear_decode" alt="" coords="251,411,353,437"/>
+<area shape="rect" id="node11" href="$dd/dcc/group__linear__enum.html#ga41c2f1f357605ba6850f0c38b7d1103c" title="linear_encode" alt="" coords="251,461,353,488"/>
+<area shape="rect" id="node12" href="$d5/daa/group__list__enum.html#gabdcd91b8e73c96edbbae8f5d005cf8cb" title="list_decode" alt="" coords="258,512,346,539"/>
+<area shape="rect" id="node13" href="$d5/daa/group__list__enum.html#gaee0c2d76900424558c096e2b0c0012d6" title="list_encode" alt="" coords="258,563,346,589"/>
+<area shape="rect" id="node14" href="$df/d01/group__pdclust.html#gab9b3ac32d7216691df2a5d8947cbe2ee" title="pdclust_decode" alt="" coords="245,613,359,640"/>
+<area shape="rect" id="node15" href="$df/d01/group__pdclust.html#ga7a6029c1e09be1bf365a7767fb22dce7" title="pdclust_encode" alt="" coords="245,664,359,691"/>
+<area shape="rect" id="node16" href="$d6/d47/ut_2vec_8c.html#a09c5ec37372ac684ecdbbb0456e595c6" title="test_bufvec_cursor\l_copyto_copyfrom" alt="" coords="235,715,369,757"/>
+<area shape="rect" id="node17" href="$d7/dde/io__req_8c.html#ab21dc4b3f4b8f41a773065eb4a481794" title="data_buf_copy" alt="" coords="249,781,355,808"/>
+<area shape="rect" id="node18" href="$d7/dde/io__req_8c.html#abeb3c1b55c106cd5c78c261c2ae62dae" title="verify_checksum" alt="" coords="241,832,363,859"/>
+<area shape="rect" id="node19" href="$d1/d9b/write_8c.html#a1040fc68650e711578feccaba8c41288" title="bufvec_cmp" alt="" coords="255,883,349,909"/>
+<area shape="rect" id="node20" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aab739418ea545fe45bce191eb16d7522" title="encode_desc" alt="" coords="253,933,351,960"/>
+<area shape="rect" id="node21" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#afc3305a6d2e7b43318552a52bc0cd47a" title="decode_msg" alt="" coords="254,984,350,1011"/>
+<area shape="rect" id="node22" href="$d2/d68/lnet__ut_8c.html#a420439de83dd830edef84820b56235f7" title="ut_net_buffer_sign" alt="" coords="238,1035,366,1061"/>
+<area shape="rect" id="node23" href="$d2/d68/lnet__ut_8c.html#a13883f1c25e61cb8a5a0a9ab1be7acad" title="ut_net_buffer_authenticate" alt="" coords="215,1085,389,1112"/>
+<area shape="rect" id="node24" href="$d5/d16/group__netsock.html#ga2158d30690db2c9459c9a9226d9d15aa" title="pk_iov_prep" alt="" coords="256,1136,348,1163"/>
+<area shape="rect" id="node25" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga20d8e652df1c45a42822878d369a481f" title="bufvec_xor" alt="" coords="259,1187,345,1213"/>
+<area shape="rect" id="node26" href="$da/d46/parity__math_8c.html#a96990592e6d949fd2c8527d1f413e5ea" title="gfaxpy" alt="" coords="271,1237,333,1264"/>
+<area shape="rect" id="node27" href="$d1/d0e/parity__math__ut_8c.html#a52f56da2fdc13f2beabc368474e2b5d2" title="bufvec_fill" alt="" coords="261,1288,343,1315"/>
+<area shape="rect" id="node28" href="$d1/d0e/parity__math__ut_8c.html#a85399c4a7cb063069df31c4848de2f0c" title="bufvec_buf" alt="" coords="259,1339,345,1365"/>
+<area shape="rect" id="node29" href="$d1/d0e/parity__math__ut_8c.html#a11321327e8bdfacc132bba20bcac3ba6" title="bufvec_eq" alt="" coords="261,1389,343,1416"/>
+</map>

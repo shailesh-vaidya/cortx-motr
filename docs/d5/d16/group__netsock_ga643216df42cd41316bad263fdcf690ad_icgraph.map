@@ -1,0 +1,6 @@
+<map id="pk_io" name="pk_io">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga908d163d92427d231903fa6e41a0abac" title="stream_header" alt="" coords="108,5,216,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga67b3a394cd9c1d7006a0c7c25282654c" title="stream_interval" alt="" coords="107,56,217,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga1020d1d4f82dee7a79a9913595fcd030" title="dgram_header" alt="" coords="110,107,214,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga925c36d21e3c699446204c869a3e521e" title="writer_write" alt="" coords="117,157,207,184"/>
+</map>

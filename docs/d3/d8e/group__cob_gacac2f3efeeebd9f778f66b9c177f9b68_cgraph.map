@@ -1,0 +1,9 @@
+<map id="m0_cob_alloc_omgid" name="m0_cob_alloc_omgid">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="197,5,361,32"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="235,56,324,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gab45a3db2573f356401322f0f514a7d05" title="m0_be_btree_cursor\l_get_sync" alt="" coords="209,107,349,149"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="409,144,476,171"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga37e172c32d70a75ab1483fbbee16c236" title="m0_be_btree_cursor\l_prev_sync" alt="" coords="209,225,349,266"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="209,290,349,331"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="197,356,361,383"/>
+</map>

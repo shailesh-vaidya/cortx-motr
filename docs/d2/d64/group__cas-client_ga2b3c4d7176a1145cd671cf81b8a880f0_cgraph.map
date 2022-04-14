@@ -1,0 +1,11 @@
+<map id="greq_asmbl_fill" name="greq_asmbl_fill">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="367,17,464,44"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga6eeeb69bb6f78fa5ab431e859b0bbf00" title="cas_rep" alt="" coords="207,43,275,69"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga46bd0cd8bbb1624dbbc7d5a603a01212" title="cas_req_to_item" alt="" coords="181,93,300,120"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#ga21cece615cc17d14bb43004412e63202" title="m0_rpc_at_rep_get" alt="" coords="174,144,307,171"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="382,195,449,221"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#gaea2f0ccb9cbeca64e4f5437b600a3119" title="m0_rpc_at_rep_is_bulk" alt="" coords="163,245,319,272"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga5018ffa01375d40f056be1db6f0f6966" title="greq_asmbl_add" alt="" coords="182,296,299,323"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga3811156c9642154af76ce9c882985862" title="creq_recv_fini" alt="" coords="189,347,292,373"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#ga37e5e6a38e9218a1debb0a45bee464b3" title="fid_is_meta" alt="" coords="196,397,285,424"/>
+</map>

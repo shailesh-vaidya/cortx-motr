@@ -1,0 +1,6 @@
+<map id="test_iterator" name="test_iterator">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga34f7a7faad2d0acdbba85f22ee6500b6" title="m0_cob_bc_iterator_init" alt="" coords="148,5,308,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga42629c5ac35d14cc78e79ae1963b7ba1" title="m0_cob_bc_iterator_get" alt="" coords="147,56,309,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#gae20dc241f328d5e3b7a7b52f2bf2fc75" title="m0_cob_bc_iterator_next" alt="" coords="144,107,312,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga2de87a1135482df5e4936fd66cce362e" title="m0_cob_bc_iterator_fini" alt="" coords="148,157,308,184"/>
+</map>

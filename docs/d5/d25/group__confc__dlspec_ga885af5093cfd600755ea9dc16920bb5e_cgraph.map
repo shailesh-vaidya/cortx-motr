@@ -1,0 +1,10 @@
+<map id="connect_to_confd" name="connect_to_confd">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga966f9a3bab9c90ccc6fec3719ad3ee07" title="not_empty" alt="" coords="227,5,310,32"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="211,56,327,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="407,81,473,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="231,157,307,184"/>
+<area shape="rect" id="node6" href="$de/d82/group__rpc__link.html#ga8309b4759cc9f2a221467ac5779d3518" title="m0_rpc_link_connect_sync" alt="" coords="179,208,359,235"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#gae5c59869d80d71ce656a3d94765f5e72" title="confc_deadline" alt="" coords="214,259,323,285"/>
+<area shape="rect" id="node8" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="211,309,327,336"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="200,360,337,387"/>
+</map>

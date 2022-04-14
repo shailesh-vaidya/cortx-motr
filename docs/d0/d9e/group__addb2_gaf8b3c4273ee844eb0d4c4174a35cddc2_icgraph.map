@@ -1,0 +1,8 @@
+<map id="hex" name="hex">
+<area shape="rect" id="node2" href="$d6/dca/namespaceerror__injection.html#ad76dd37d4da253f684c498e7d7358123" title="error_injection.ReadComplete\lRecord" alt="" coords="96,5,291,47"/>
+<area shape="rect" id="node3" href="$d6/dca/namespaceerror__injection.html#a76fbee9a75866e7ecb6e8e28d1a048f4" title="error_injection.CorruptEmap" alt="" coords="339,42,523,69"/>
+<area shape="rect" id="node4" href="$d6/dca/namespaceerror__injection.html#aaff3395db70a3d13191cb5087a67dae3" title="error_injection.InduceRandom\lCorruption" alt="" coords="96,123,291,164"/>
+<area shape="rect" id="node5" href="$d6/dca/namespaceerror__injection.html#afd682a462e73c042a25ad5b55c632a79" title="error_injection.InduceErr\lInAllRecord" alt="" coords="112,188,275,229"/>
+<area shape="rect" id="node6" href="$d6/dca/namespaceerror__injection.html#a25c931672ae68b518b36bae8428e418c" title="error_injection.InduceErr\lInGMDRecords" alt="" coords="112,253,275,295"/>
+<area shape="rect" id="node7" href="$d6/dca/namespaceerror__injection.html#a1eff37051c8de831c9d77e161b75a3b9" title="error_injection.InduceErr\lInDMDRecords" alt="" coords="112,319,275,360"/>
+</map>

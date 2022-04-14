@@ -1,0 +1,25 @@
+<map id="ioservice/io_service.c" name="ioservice/io_service.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="72,80,151,107"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="5,155,84,181"/>
+<area shape="rect" id="node4" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="119,155,218,181"/>
+<area shape="rect" id="node5" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="227,80,305,107"/>
+<area shape="rect" id="node6" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="354,80,450,107"/>
+<area shape="rect" id="node7" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="1008,304,1079,331"/>
+<area shape="rect" id="node8" href="$d1/db2/locality_8h.html" title="lib/locality.h" alt="" coords="630,229,721,256"/>
+<area shape="rect" id="node9" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="797,155,871,181"/>
+<area shape="rect" id="node10" href="$d2/d03/buffer__pool_8h.html" title="net/buffer_pool.h" alt="" coords="841,229,960,256"/>
+<area shape="rect" id="node11" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="889,80,976,107"/>
+<area shape="rect" id="node12" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="947,155,1033,181"/>
+<area shape="rect" id="node13" href="$db/de6/layout_2layout_8h.html" title="layout/layout.h" alt="" coords="1035,229,1142,256"/>
+<area shape="rect" id="node14" href="$d7/d27/reqh__service_8h.html" title="reqh/reqh_service.h" alt="" coords="1450,155,1586,181"/>
+<area shape="rect" id="node15" href="$dd/d3e/io__fops_8h.html" title="ioservice/io_fops.h" alt="" coords="683,80,814,107"/>
+<area shape="rect" id="node16" href="$d0/dda/md__fops_8h.html" title="mdservice/md_fops.h" alt="" coords="626,155,773,181"/>
+<area shape="rect" id="node17" href="$d1/df3/io__service_8h.html" title="ioservice/io_service.h" alt="" coords="1269,80,1417,107"/>
+<area shape="rect" id="node18" href="$df/d8f/ios__start__sm_8h.html" title="ioservice/ios_start_sm.h" alt="" coords="1611,155,1775,181"/>
+<area shape="rect" id="node19" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="1159,80,1245,107"/>
+<area shape="rect" id="node20" href="$d6/d20/pdclust_8h.html" title="layout/pdclust.h" alt="" coords="1109,155,1223,181"/>
+<area shape="rect" id="node21" href="$dd/db3/lnet_8h.html" title="net/lnet/lnet.h" alt="" coords="1543,80,1645,107"/>
+<area shape="rect" id="node22" href="$d8/dd5/fsync__fops_8h.html" title="mdservice/fsync_fops.h" alt="" coords="1669,80,1831,107"/>
+<area shape="rect" id="node23" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1855,80,1983,107"/>
+<area shape="rect" id="node24" href="$d4/d7c/ioservice_2fid__convert_8h.html" title="ioservice/fid_convert.h" alt="" coords="2007,80,2162,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_cm_proxy_lock" name="m0_cm_proxy_lock">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#gab2c7851c2b16e150a69c9ef7e04d427c" title="m0_sns_cm_cp_sw_check" alt="" coords="188,5,368,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#gaeed372e7681a654aa23152e35f1ce1b6" title="cm_replicas_connect" alt="" coords="205,56,351,83"/>
+<area shape="rect" id="node4" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaa66c494f87e2901e2aefd74282a06651" title="m0_cm_proxy_update" alt="" coords="203,107,353,133"/>
+<area shape="rect" id="node5" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga795dc28a265d42dca08cc435d0d52619" title="proxy_sw_onwire_ast_cb" alt="" coords="193,157,363,184"/>
+<area shape="rect" id="node6" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga42904788af6781efe99362e37086b4cd" title="m0_cm_proxy_agid_is\l_in_sw" alt="" coords="202,209,354,250"/>
+<area shape="rect" id="node7" href="$dc/d86/group___c_m_p_r_o_x_y.html#gacec8d0e3eccb2a0137aebc691fa1bfcf" title="px_fail_ast_cb" alt="" coords="225,275,331,301"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="m0_balloc_load_extents" name="m0_balloc_load_extents">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a554bd51242e8c4df36e88cc609db15ef" title="group_fragments_get" alt="" coords="235,5,379,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a759b4019f3330816948cfa44f852a52c" title="group_spare_fragments_get" alt="" coords="216,56,399,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="447,132,592,159"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ad7fecc4ce3e8c6f1964c08a76eb84a2c" title="bgi_mutex" alt="" coords="478,419,561,445"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="274,208,341,235"/>
+<area shape="rect" id="node7" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="263,259,352,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaa9f548e7336004133348ef98d9e67628" title="m0_be_btree_lookup\l_slant" alt="" coords="236,310,379,351"/>
+<area shape="rect" id="node9" href="$d8/d54/group__ext.html#gafe9205f01f4d953a49a39d0eba012340" title="m0_ext_is_partof" alt="" coords="246,376,369,403"/>
+<area shape="rect" id="node10" href="$dd/d12/group__list.html#ga64bd572b16e4877aa56a229a3a95be4e" title="m0_list_add_tail" alt="" coords="249,427,365,453"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#a83d81865a84d47ae636f63fe825bd383" title="group_normal_ext" alt="" coords="245,477,370,504"/>
+<area shape="rect" id="node12" href="$d9/dd5/balloc_8c.html#a296481ce0f3a1fc77d684de0211e48b7" title="zone_params_update" alt="" coords="234,528,381,555"/>
+<area shape="rect" id="node13" href="$d9/dd5/balloc_8c.html#a498a2007d9dc0afcd81ee836e4d38ede" title="group_spare_ext" alt="" coords="248,579,367,605"/>
+<area shape="rect" id="node14" href="$d9/dd5/balloc_8c.html#ac0ddf5f38ec6e8cd44f226dccb3658f1" title="balloc_debug_dump_extent" alt="" coords="217,629,397,656"/>
+<area shape="rect" id="node15" href="$de/d8f/group__balloc.html#ga310d476b96f1dadd84c3f604712f52f8" title="m0_balloc_release_extents" alt="" coords="217,157,397,184"/>
+</map>

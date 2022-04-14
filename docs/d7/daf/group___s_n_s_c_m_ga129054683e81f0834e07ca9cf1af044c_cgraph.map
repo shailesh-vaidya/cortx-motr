@@ -1,0 +1,5 @@
+<map id="m0_sns_cm_buf_wait" name="m0_sns_cm_buf_wait">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="203,5,369,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="225,56,347,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="219,107,353,149"/>
+</map>

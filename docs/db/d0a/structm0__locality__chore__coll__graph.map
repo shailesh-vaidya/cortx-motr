@@ -1,0 +1,7 @@
+<map id="m0_locality_chore" name="m0_locality_chore">
+<area shape="rect" id="node2" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="84,145,159,223"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="23,5,105,83"/>
+<area shape="rect" id="node6" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="389,145,459,223"/>
+<area shape="rect" id="node7" href="$dc/d93/structm0__locality__chore__ops.html" title="{m0_locality_chore_ops\n||}" alt="" coords="604,145,759,223"/>
+<area shape="rect" id="node9" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="896,145,987,223"/>
+</map>

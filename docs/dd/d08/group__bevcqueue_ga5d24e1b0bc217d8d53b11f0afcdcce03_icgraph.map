@@ -1,0 +1,5 @@
+<map id="bev_cqueue_is_empty" name="bev_cqueue_is_empty">
+<area shape="rect" id="node2" href="$dd/d08/group__bevcqueue.html#ga77e31d64b61358e7d0d559a774ceb639" title="bev_cqueue_get" alt="" coords="233,5,351,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga712e8e4b669e191a59cad0d8827ac5fa" title="nlx_kcore_buf_event_wait" alt="" coords="205,56,379,83"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gaceb7d73c016add28bb9a1fcfd74ae248" title="nlx_core_tm_start" alt="" coords="229,107,355,133"/>
+</map>

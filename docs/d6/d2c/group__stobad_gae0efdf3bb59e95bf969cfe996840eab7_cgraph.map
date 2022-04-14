@@ -1,0 +1,18 @@
+<map id="stob_ad_write_prepare" name="stob_ad_write_prepare">
+<area shape="rect" id="node2" href="$d0/d5d/ut_2sm_8c.html#ac5abd8d95e89183f3e34bec16dfa6831" title="head" alt="" coords="269,5,319,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="230,56,358,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="241,107,347,133"/>
+<area shape="rect" id="node5" href="$d6/d2c/group__stobad.html#ga1a2da9c4a7a7eb20fcdf01870a677c1b" title="stob_ad_balloc" alt="" coords="239,208,349,235"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="465,233,532,260"/>
+<area shape="rect" id="node7" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="445,372,552,399"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="461,296,537,323"/>
+<area shape="rect" id="node9" href="$d6/d2c/group__stobad.html#ga18cd7fe070984abe023adb953a767382" title="stob_ad_wext_cursor_init" alt="" coords="209,461,379,488"/>
+<area shape="rect" id="node10" href="$d6/d2c/group__stobad.html#ga70f1c3ba585b39f77507bd742bf6f5a9" title="stob_ad_write_count" alt="" coords="223,512,365,539"/>
+<area shape="rect" id="node11" href="$d6/d2c/group__stobad.html#gabaca8e52a1f0949f24afbadc9db352d1" title="stob_ad_vec_alloc" alt="" coords="229,259,359,285"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#ga405999d78a7365d5774b2f42a5bf5cae" title="m0_vec_cursor_init" alt="" coords="616,639,751,665"/>
+<area shape="rect" id="node13" href="$d6/d2c/group__stobad.html#ga7e67514ab62884fe7fce66a248c4018f" title="stob_ad_write_back_fill" alt="" coords="215,715,373,741"/>
+<area shape="rect" id="node14" href="$d0/d7f/group__vec.html#gaf84e4bef24d1285a0acb734eb508a977" title="m0_ivec_cursor_init" alt="" coords="429,613,568,640"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga89e3db4a74645ed9bf6b85a2cf1b514e" title="stob_ad_write_map_count" alt="" coords="207,563,381,589"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#gab1bb3e721d125bb76c41f98260b37f00" title="stob_ad_write_map" alt="" coords="227,309,361,336"/>
+<area shape="rect" id="node17" href="$d6/d2c/group__stobad.html#ga05b4eb6533c154923ad13d5c68d973a8" title="stob_ad_wext_fini" alt="" coords="231,765,357,792"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ctg_destroy" name="ctg_destroy">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#ab7ac302b46f381bd9943920f0db646c1" title="ctg_state_create" alt="" coords="148,5,267,32"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#a62c6f00ca3e288abea3f75a8ac0e39bb" title="ctg_store_create" alt="" coords="319,56,437,83"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#af65d0bff24c41a55abe31ef8d28529da" title="ctg_state_destroy" alt="" coords="144,107,271,133"/>
+</map>

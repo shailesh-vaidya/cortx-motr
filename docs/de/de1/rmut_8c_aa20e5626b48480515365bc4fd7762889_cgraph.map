@@ -1,0 +1,11 @@
+<map id="local_credits_test" name="local_credits_test">
+<area shape="rect" id="node2" href="$da/d70/lcredits_8c.html#a678fa0a8be74c1b2308756f4eee90807" title="local_credits_init" alt="" coords="211,5,329,32"/>
+<area shape="rect" id="node3" href="$da/d70/lcredits_8c.html#a9e796fcc39ffe80841b174d59168d7a9" title="cached_credits_test" alt="" coords="201,56,339,83"/>
+<area shape="rect" id="node4" href="$da/d70/lcredits_8c.html#acb3d52b9027ba93ca08749b42a578833" title="held_credits_test" alt="" coords="209,107,331,133"/>
+<area shape="rect" id="node5" href="$da/d70/lcredits_8c.html#a0be0e9084a5be4d52f9bccc17f99f367" title="held_non_conflicting_test" alt="" coords="185,157,355,184"/>
+<area shape="rect" id="node6" href="$da/d70/lcredits_8c.html#a590dd44a96d12617fbcc7cf89389700c" title="credits_pinned_number_test" alt="" coords="177,208,363,235"/>
+<area shape="rect" id="node7" href="$da/d70/lcredits_8c.html#aaa1d8b0a750b28d5cec683a290ff112a" title="reserved_credit_get_test" alt="" coords="187,259,353,285"/>
+<area shape="rect" id="node8" href="$da/d70/lcredits_8c.html#a606a068f45c79ab6dafc8029399fd217" title="barrier_on_barrier_test" alt="" coords="195,309,345,336"/>
+<area shape="rect" id="node9" href="$da/d70/lcredits_8c.html#a65e20985e0573c207375aaa328025539" title="failures_test" alt="" coords="223,360,317,387"/>
+<area shape="rect" id="node10" href="$da/d70/lcredits_8c.html#ad500ba1af73666524c8b4201d7e064a6" title="local_credits_fini" alt="" coords="211,411,329,437"/>
+</map>

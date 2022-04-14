@@ -1,0 +1,9 @@
+<map id="layout_composite_io_multi_layers" name="layout_composite_io_multi_layers">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="213,5,367,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#abd192c93a5cbc0a09f750ee8c734aa94" title="layout_composite_add\l_layers" alt="" coords="214,57,366,98"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#a881b4276bf85517a0f245711d691aea6" title="layout_composite_create_obj" alt="" coords="195,123,385,149"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="433,173,503,200"/>
+<area shape="rect" id="node6" href="$d6/dd3/motr_2st_2layout_8c.html#aae831ea40db0f1fc9d778198c3b9ebcf" title="add_extents" alt="" coords="243,224,337,251"/>
+<area shape="rect" id="node7" href="$d6/dd3/motr_2st_2layout_8c.html#a1e0dd6afbec2abc2efb675882769db9b" title="write_io_segs" alt="" coords="239,275,341,301"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="215,325,365,352"/>
+</map>

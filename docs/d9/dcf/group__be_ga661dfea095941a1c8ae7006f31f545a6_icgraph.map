@@ -1,0 +1,10 @@
+<map id="m0_be_io_configure" name="m0_be_io_configure">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gacf3df775130708f4f74228e845cd7760" title="m0_be_io_single" alt="" coords="220,5,339,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gab1771948185c3ac742e9a9c0b93b45e9" title="be_ut_io_sched_thread" alt="" coords="201,56,357,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="415,154,560,195"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga48efd1dd805f5358f4cdd9112246d496" title="be_log_read_plain" alt="" coords="216,157,343,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga6da66f1a1a68e75f541cb5e62f0e750a" title="m0_be_log_store_rbuf\l_io_reset" alt="" coords="204,209,355,250"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8fb421cc00d08679093480ce47d44cdc" title="m0_be_pd_sync" alt="" coords="221,275,338,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga5d6c0224907e2d9016a67c5713198534" title="be_ut_pd_usecase_thread" alt="" coords="192,325,367,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga39521b4bbf533cade17d57c6bf3be5ed" title="m0_be_group_format\l_seg_place_prepare" alt="" coords="207,377,351,418"/>
+</map>

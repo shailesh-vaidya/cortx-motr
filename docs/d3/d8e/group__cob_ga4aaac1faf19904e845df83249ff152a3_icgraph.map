@@ -1,0 +1,10 @@
+<map id="cob_table_lookup" name="cob_table_lookup">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#gac110d276d5c3a01843dbf81f302b1dfb" title="m0_cob_bc_lookup" alt="" coords="185,5,320,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gafac97847006c4c4e0909f4b0bc6eefa3" title="cob_ns_lookup" alt="" coords="198,56,307,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga2f36d6b75be16ebdd920d2e55206e53d" title="cob_fab_lookup" alt="" coords="196,107,309,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gaa8bea019ce13b8f89e92661447318589" title="cob_omg_lookup" alt="" coords="193,157,313,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga7840e004a1c1b8431a212119e27b7bb5" title="m0_cob_create" alt="" coords="197,208,308,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gafd198ff69d5a514c4eb4b783ec745159" title="m0_cob_name_del" alt="" coords="187,259,318,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#gacb5d1a65b13b1b957728a1457415a6a8" title="m0_cob_name_update" alt="" coords="176,309,329,336"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#ga5245edecf49321e292b35d2d53c50705" title="m0_cob_ea_get" alt="" coords="195,360,310,387"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="pdclust_instance_build" name="pdclust_instance_build">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="234,145,358,172"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#ga1e0bd19ae74ef278d19da57bebf77f23" title="pdclust_invariant" alt="" coords="432,44,552,70"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga9f695a7bd0b64f3897a471dff7a96549" title="m0_fid_is_valid" alt="" coords="240,94,352,121"/>
+<area shape="rect" id="node5" href="$df/d01/group__pdclust.html#ga32a677725fdeb48d91f1004fe1ac038a" title="m0_pdclust_perm_cache\l_build" alt="" coords="213,247,379,288"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="459,254,525,281"/>
+<area shape="rect" id="node7" href="$d6/d25/group__parity__math.html#gaf5f627263bcd07d4b21f68ebd558a5e9" title="m0_parity_math_init" alt="" coords="227,196,365,222"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#ga89ba261ad7d05d17cec34449666c9615" title="m0_layout__instance_init" alt="" coords="211,313,381,340"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="243,364,349,390"/>
+<area shape="rect" id="node10" href="$df/d01/group__pdclust.html#gaf6b83528b6743540ad1b75a990a4c107" title="permute_column" alt="" coords="237,414,355,441"/>
+<area shape="rect" id="node11" href="$df/d01/group__pdclust.html#gad2196242a6c9ef0252a3288c0ec446fb" title="pdclust_instance_invariant" alt="" coords="208,44,384,70"/>
+<area shape="rect" id="node12" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="249,516,343,542"/>
+<area shape="rect" id="node13" href="$da/da8/group__layout.html#ga9e15dc29aa4b0356b209342bcddcdc2e" title="m0_layout__log" alt="" coords="239,566,353,593"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="261,617,331,644"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="251,668,341,694"/>
+</map>

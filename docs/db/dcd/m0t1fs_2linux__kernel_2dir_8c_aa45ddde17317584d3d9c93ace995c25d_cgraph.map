@@ -1,0 +1,11 @@
+<map id="m0t1fs_removexattr" name="m0t1fs_removexattr">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad87ae68db1f47a3826d3a3e1e376bd4e" title="M0_ENTRY" alt="" coords="412,5,504,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,68,491,95"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a600ce96d8afbd9986251e19b4af09943" title="m0t1fs_fs_conf_lock" alt="" coords="207,93,349,120"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="420,119,496,145"/>
+<area shape="rect" id="node6" href="$d8/d2b/inode_8c.html#afdb65bd50aec26605e0a85b38c4e8614" title="m0t1fs_inode_fid" alt="" coords="217,195,339,221"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="233,245,323,272"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9c7236811139a3c2074b83ae6541b201" title="m0t1fs_mds_cob_delxattr" alt="" coords="192,296,364,323"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ac5340447ae4f80028855a3315d9774e8" title="m0_fop_put0_lock" alt="" coords="214,347,342,373"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a55c35215841af3dfcbf422f443823776" title="m0t1fs_fs_conf_unlock" alt="" coords="199,397,357,424"/>
+</map>

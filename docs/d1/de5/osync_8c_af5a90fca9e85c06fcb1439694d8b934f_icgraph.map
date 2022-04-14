@@ -1,0 +1,6 @@
+<map id="create_obj" name="create_obj">
+<area shape="rect" id="node2" href="$d1/de5/osync_8c.html#a0e5a764dcdba47eeb50d015777764a12" title="osync_after_each_write" alt="" coords="136,5,296,32"/>
+<area shape="rect" id="node3" href="$d1/de5/osync_8c.html#af80f97ffb56c42e9d540ce952f686c20" title="osync_after_writes" alt="" coords="150,56,282,83"/>
+<area shape="rect" id="node4" href="$d1/de5/osync_8c.html#ad7f5b2b1f2ab3fd7b85d8d837e766c92" title="osync_by_sync_op" alt="" coords="149,107,283,133"/>
+<area shape="rect" id="node5" href="$d1/de5/osync_8c.html#a864aa04b353fe00a5107ac505393e6f4" title="osync_on_op" alt="" coords="167,157,265,184"/>
+</map>

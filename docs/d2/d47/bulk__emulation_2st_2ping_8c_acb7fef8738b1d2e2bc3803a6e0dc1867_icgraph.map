@@ -1,0 +1,6 @@
+<map id="ping_init" name="ping_init">
+<area shape="rect" id="node2" href="$d0/d20/bulk__emulation_2st_2ping_8h.html#af375467d593678498cb9b8231ad86fb7" title="ping_server" alt="" coords="145,5,235,32"/>
+<area shape="rect" id="node3" href="$d0/d20/bulk__emulation_2st_2ping_8h.html#a560f98bd2c0f4908e5e6c5e8e2ccb14a" title="ping_client_init" alt="" coords="136,56,244,83"/>
+<area shape="rect" id="node4" href="$de/dec/lnet_2st_2ping_8c.html#a8eb2f1ddb48690aa3d9eeb3779925973" title="nlx_ping_server" alt="" coords="133,107,247,133"/>
+<area shape="rect" id="node5" href="$de/dec/lnet_2st_2ping_8c.html#a195a60241fb798beb382141c84c071a3" title="nlx_ping_client_init" alt="" coords="124,157,256,184"/>
+</map>

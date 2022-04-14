@@ -1,0 +1,7 @@
+<map id="m0_ios_mds_conn_fini" name="m0_ios_mds_conn_fini">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="216,5,367,32"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="209,56,374,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="208,107,375,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="216,157,367,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="257,208,326,235"/>
+</map>

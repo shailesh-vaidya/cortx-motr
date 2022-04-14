@@ -1,0 +1,9 @@
+<map id="m0_be_ut_log_store_create_random" name="m0_be_ut_log_store_create_random">
+<area shape="rect" id="node2" href="$d4/d6f/ut_2log__store_8c.html#aad8bd958f2f32ca2a932d30cc6b3589c" title="be_ut_log_store_stob\l_domain_init" alt="" coords="204,5,351,47"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="213,71,341,98"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="196,122,359,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gad5142ca1b19b587136ccd3af8da8de37" title="m0_be_log_store_create" alt="" coords="195,173,359,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga2af331c7406d8620bd2245a1643d34a2" title="m0_be_log_store_destroy" alt="" coords="192,223,363,250"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="243,274,312,301"/>
+<area shape="rect" id="node8" href="$d4/d6f/ut_2log__store_8c.html#adaf2f0e8c664ddfd516a72eefacbd659" title="be_ut_log_store_stob\l_domain_fini" alt="" coords="204,325,351,367"/>
+</map>

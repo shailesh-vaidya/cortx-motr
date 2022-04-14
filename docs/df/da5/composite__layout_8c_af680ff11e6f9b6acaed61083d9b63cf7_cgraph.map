@@ -1,0 +1,15 @@
+<map id="m0__dix_layout_get_sync" name="m0__dix_layout_get_sync">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="245,5,365,32"/>
+<area shape="rect" id="node3" href="$df/da5/composite__layout_8c.html#a14815c2b49fecbde397d8cc4a32341f2" title="layout_dix_req_alloc" alt="" coords="235,56,375,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#ga5d7f1d33d83f071cf86ec56a6ae2283a" title="ent_dixc" alt="" coords="269,107,340,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="431,208,507,235"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga1f83d43c294d8f926819a86591892c56" title="m0_dix_req_lock" alt="" coords="245,208,365,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gabed45106679627d08b2b17f46af35cbd" title="m0_dix_layout_get" alt="" coords="239,259,370,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="435,360,502,387"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga411d798a2ba4f1b451d3c15d2d7176bf" title="m0_dix_req_wait" alt="" coords="245,360,365,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga3a1cb354952d38e41643fcd5a248530c" title="m0_dix_req_rc" alt="" coords="251,411,358,437"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga3858b37f3baf14c857723288c2028930" title="m0_dix_layout_rep_get" alt="" coords="227,461,383,488"/>
+<area shape="rect" id="node12" href="$df/da5/composite__layout_8c.html#ae8a2d30d283bbc4d8e11da3c00d05c14" title="layout_dix_req_fini" alt="" coords="239,512,370,539"/>
+<area shape="rect" id="node13" href="$dd/d33/group__dix.html#ga1fa081ea1ad5ca812ba8730ae2551acf" title="m0_dix_req_unlock" alt="" coords="237,563,372,589"/>
+<area shape="rect" id="node14" href="$df/da5/composite__layout_8c.html#a0f7e5bff706e5f0b25fc7fc83642c904" title="layout_dix_req_free" alt="" coords="237,613,372,640"/>
+</map>

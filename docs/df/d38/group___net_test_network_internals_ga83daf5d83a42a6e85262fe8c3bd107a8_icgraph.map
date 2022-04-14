@@ -1,0 +1,5 @@
+<map id="net_test_buf_queue" name="net_test_buf_queue">
+<area shape="rect" id="node2" href="$de/d26/group___net_test_network_d_f_s.html#ga06d412532a8f27933ec22b178bbc8248" title="m0_net_test_network\l_msg_send_ep" alt="" coords="189,5,336,47"/>
+<area shape="rect" id="node3" href="$de/d26/group___net_test_network_d_f_s.html#ga35c7c3540f6b25f69607629d4aaa3364" title="m0_net_test_network\l_msg_recv" alt="" coords="189,71,336,112"/>
+<area shape="rect" id="node4" href="$de/d26/group___net_test_network_d_f_s.html#ga78369f73170e101746c33bb936505fde" title="m0_net_test_network\l_bulk_enqueue" alt="" coords="189,136,336,177"/>
+</map>

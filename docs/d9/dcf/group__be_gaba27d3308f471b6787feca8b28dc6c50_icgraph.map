@@ -1,0 +1,8 @@
+<map id="m0_be_log_record_fini" name="m0_be_log_record_fini">
+<area shape="rect" id="node2" href="$d2/df0/be_2ut_2log_8c.html#a01ee89fd493ea032edc6c90670e6a233" title="be_ut_log_multi_ut" alt="" coords="218,5,349,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#ab6e6943d653cdc03c4f808f330c81367" title="be_ut_log_record_wait\l_fini_one" alt="" coords="207,57,359,98"/>
+<area shape="rect" id="node4" href="$d2/df0/be_2ut_2log_8c.html#a843618798afc974ec6a9efe335c69dc6" title="be_ut_log_recover_and\l_discard" alt="" coords="205,122,361,163"/>
+<area shape="rect" id="node5" href="$dd/d4c/be_2ut_2main_8c.html#a09f9e77157a5a3748c61367537c94e1f" title="m0_be_ut_log_user" alt="" coords="216,188,351,215"/>
+<area shape="rect" id="node6" href="$d2/d39/ut_2recovery_8c.html#ae71141900d9da0d81bb40d124aa282d2" title="be_ut_recovery_log\l_record_fini_one" alt="" coords="216,239,351,281"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0de0cd279fd690183425547f1d56d962" title="be_group_format_level\l_leave" alt="" coords="207,305,360,346"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="bulkio_server_write_fol_rec_verify" name="bulkio_server_write_fol_rec_verify">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="207,5,304,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="196,56,315,83"/>
+<area shape="rect" id="node4" href="$d1/d12/group__fol.html#ga6ee0cdc7b06bb4d36e934a25bf23a5bb" title="m0_fol_rec_init" alt="" coords="200,107,311,133"/>
+<area shape="rect" id="node5" href="$d1/d12/group__fol.html#ga240300d5ac437dd9b6b354a94848807e" title="m0_fol_rec_decode" alt="" coords="188,157,323,184"/>
+<area shape="rect" id="node6" href="$dd/d6d/group__xcode.html#ga0d814138009ba9e2547e3acad524da37" title="m0_xcode_cmp" alt="" coords="198,208,313,235"/>
+<area shape="rect" id="node7" href="$d1/d12/group__fol.html#ga3f4f1a824e9a9f69cc897392f01ae9d2" title="m0_fol_rec_fini" alt="" coords="200,259,311,285"/>
+<area shape="rect" id="node8" href="$d8/dc1/bulkio__common_8c.html#a642841ac9f28126c1474e546b07b3fea" title="io_fops_destroy" alt="" coords="198,309,313,336"/>
+</map>

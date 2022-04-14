@@ -1,0 +1,17 @@
+<map id="m0__entity_instance" name="m0__entity_instance">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="231,5,311,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#a13bd7889127737da9a8a7f45eab1c5e3" title="obj_op_init" alt="" coords="229,56,313,83"/>
+<area shape="rect" id="node4" href="$d7/dcd/motr_2client__internal_8h.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="209,107,333,133"/>
+<area shape="rect" id="node5" href="$d7/dcd/motr_2client__internal_8h.html#a20292f3ffe70c0848ebb1d010916d83e" title="m0__obj_instance" alt="" coords="208,157,335,184"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#a5f428f8f47dc3ccc372393d275a3bc8e" title="m0__idx_instance" alt="" coords="208,208,335,235"/>
+<area shape="rect" id="node7" href="$d7/de3/motr_2layout_8h.html#a7ce5140fb165fa331cc44764e23aa577" title="m0__obj_layout_send" alt="" coords="197,259,345,285"/>
+<area shape="rect" id="node8" href="$dc/d86/motr_2obj_8c.html#acd18d2616848a687b2e651aae611b770" title="m0__oo_instance" alt="" coords="209,309,333,336"/>
+<area shape="rect" id="node9" href="$dc/d86/motr_2obj_8c.html#a13c84074dd7e7177305b1c6cc6631745" title="m0__obj_pool_version\l_is_valid" alt="" coords="196,361,347,402"/>
+<area shape="rect" id="node10" href="$d7/d70/motr_2ut_2obj_8c.html#adab022dc9ec0c17c564b4b65401dc322" title="ut_test_m0__entity\l_instance" alt="" coords="205,426,338,467"/>
+<area shape="rect" id="node11" href="$df/da5/composite__layout_8c.html#a0913585306bdfb34eeffd652b3b77b1a" title="composite_io_op_init" alt="" coords="199,492,343,519"/>
+<area shape="rect" id="node12" href="$d2/db6/idx_8c.html#a3f81feb6bb3a262182915d3a747b1ede" title="oi_instance" alt="" coords="227,543,315,569"/>
+<area shape="rect" id="node13" href="$d5/d65/idx__cass_8c.html#aed1beec4b83b8b870279352b8b96eca7" title="get_cass_inst" alt="" coords="220,593,323,620"/>
+<area shape="rect" id="node14" href="$d2/d61/group__index-dix.html#ga6c463a5cafca7eea23110168ec55b982" title="dix_inst" alt="" coords="238,644,305,671"/>
+<area shape="rect" id="node15" href="$d2/d61/group__index-dix.html#gad0ff997ea15fe4722c3ece6342a75cf2" title="ent_dix_inst" alt="" coords="225,695,317,721"/>
+<area shape="rect" id="node16" href="$d2/d61/group__index-dix.html#ga88bd2bee111d9b376d26184d55672cd9" title="svc_find" alt="" coords="236,745,307,772"/>
+</map>

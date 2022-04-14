@@ -1,0 +1,10 @@
+<map id="spiel_conf_ut_init" name="spiel_conf_ut_init">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="407,252,465,279"/>
+<area shape="rect" id="node3" href="$dd/d4f/conf_2ut_2common_8c.html#afe3774efc4ba0c094d3c9470dd41192a" title="m0_conf_ut_ast_thread_init" alt="" coords="176,49,359,76"/>
+<area shape="rect" id="node4" href="$de/d81/spiel__conf__ut_8c.html#a0f37c0f020f9215cef7e36fc9fd76d06" title="spiel_copy_file" alt="" coords="213,100,321,127"/>
+<area shape="rect" id="node5" href="$df/d55/spiel__ut__common_8c.html#af5e87515f2c22fd83e0266abe2b18166" title="m0_spiel__ut_init" alt="" coords="206,151,329,177"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="210,201,325,228"/>
+<area shape="rect" id="node7" href="$db/dc2/conf_2helpers_8c.html#ac614c6832857d980fa949efe31025a8b" title="m0_confc_expired_cb" alt="" coords="193,252,342,279"/>
+<area shape="rect" id="node8" href="$db/dc2/conf_2helpers_8c.html#aa406086d2c5d55e230ec7423b4e51803" title="m0_confc_ready_cb" alt="" coords="198,303,337,329"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="203,353,331,380"/>
+</map>

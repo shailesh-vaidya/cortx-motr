@@ -1,0 +1,10 @@
+<map id="m0_poolmach_state_transit" name="m0_poolmach_state_transit">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="281,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="500,63,567,89"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#ga64fa62f9da9473b53ba76773dd8fa06e" title="poolmach_equeue_add" alt="" coords="242,107,397,133"/>
+<area shape="rect" id="node5" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="458,120,609,147"/>
+<area shape="rect" id="node6" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="451,183,616,209"/>
+<area shape="rect" id="node7" href="$d8/dec/group__poolmach.html#ga76c8f6fb7cfe7b21ac072b94c4e69f3a" title="spare_usage_arr_update" alt="" coords="237,259,401,285"/>
+<area shape="rect" id="node8" href="$d8/dec/group__poolmach.html#ga615818aaa780aa5cd3bd52f6f253aa08" title="disk_is_in" alt="" coords="279,309,359,336"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#ga68441156a931ed74143c55f872da7cc6" title="m0_poolmach_event_list\l_dump_locked" alt="" coords="236,361,403,402"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="stob_ad_domain2ad" name="stob_ad_domain2ad">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gad6292211e40ce5e435fdf074f0a13b41" title="cob_act" alt="" coords="249,5,317,32"/>
+<area shape="rect" id="node3" href="$d6/d2c/group__stobad.html#gaa2d5e17d6094f56a35aed1d47d8ff1df" title="m0_stob_ad_domain2balloc" alt="" coords="192,56,375,83"/>
+<area shape="rect" id="node4" href="$d6/d2c/group__stobad.html#gaa5a9beffc353da60eaedcae47c3df875" title="stob_ad_domain_fini" alt="" coords="213,107,354,133"/>
+<area shape="rect" id="node5" href="$d6/d2c/group__stobad.html#gae1f72e9ac646105c77c4b2d204a63eec" title="stob_ad_init" alt="" coords="237,157,329,184"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga33f74f28ab2aab5288a0bc433d90b979" title="stob_ad_create_credit" alt="" coords="208,208,359,235"/>
+<area shape="rect" id="node7" href="$d6/d2c/group__stobad.html#ga5cf6eb83338362a7056ed14edfcbb0d0" title="stob_ad_create" alt="" coords="228,259,339,285"/>
+<area shape="rect" id="node8" href="$d6/d2c/group__stobad.html#ga2c3cc23b3ee39da574364473eed1c4f0" title="stob_ad_punch_credit" alt="" coords="209,309,358,336"/>
+<area shape="rect" id="node9" href="$d6/d2c/group__stobad.html#gaf8949dc21052d88b103d7c0ecc67f715" title="ext_punch" alt="" coords="242,360,325,387"/>
+<area shape="rect" id="node10" href="$d6/d2c/group__stobad.html#ga768c7debaad77bd1ddac601ddf293054" title="stob_ad_destroy_credit" alt="" coords="205,411,362,437"/>
+<area shape="rect" id="node11" href="$d6/d2c/group__stobad.html#ga388e1eaf9053c1fbef9cd3b478b6d6af" title="stob_ad_destroy" alt="" coords="224,461,343,488"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#ga764a3cd2b074ced2cfcf5d2c9a37e098" title="stob_ad_block_shift" alt="" coords="214,512,353,539"/>
+<area shape="rect" id="node13" href="$d6/d2c/group__stobad.html#ga25954f60fb4818291ea6c62a154b85fc" title="stob_ad_write_credit" alt="" coords="212,563,355,589"/>
+<area shape="rect" id="node14" href="$d6/d2c/group__stobad.html#ga167500c073d2d0b0201557eb33ddabfa" title="stob_ad_io_launch_prepare" alt="" coords="193,613,373,640"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga6e4ea9dd43e3a7b323da708c56f5c641" title="stob_ad_io_launch" alt="" coords="218,664,349,691"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#ga0716abfc9a9ed6aac7ef6d2e0650a378" title="stob_ad_rec_frag_undo\l_redo_op_cred" alt="" coords="205,715,362,757"/>
+<area shape="rect" id="node17" href="$d6/d2c/group__stobad.html#gad0d5bc3f5c0603ddac53559f38056ac5" title="stob_ad_rec_frag_undo\l_redo_op" alt="" coords="205,781,362,822"/>
+<area shape="rect" id="node18" href="$d9/d6a/group__stob.html#ga1e6b1e406f6c47d9043901309a399337" title="test_punch" alt="" coords="240,847,327,873"/>
+</map>

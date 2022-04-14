@@ -1,0 +1,10 @@
+<map id="osync_after_each_write" name="osync_after_each_write">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="393,187,441,213"/>
+<area shape="rect" id="node3" href="$d1/de5/osync_8c.html#af5a90fca9e85c06fcb1439694d8b934f" title="create_obj" alt="" coords="229,35,312,61"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="376,9,457,36"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga80d414876ff69965367e96d57041c845" title="st_obj_fini" alt="" coords="376,60,457,87"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="217,187,324,213"/>
+<area shape="rect" id="node7" href="$d1/de5/osync_8c.html#a8d3d64cd3ed52855a6bbf57f977e678d" title="write_obj" alt="" coords="233,237,308,264"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="377,288,457,315"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#gaf81b580f1b345e4f20f6cfd45bf63c9c" title="m0_entity_sync" alt="" coords="213,339,328,365"/>
+</map>

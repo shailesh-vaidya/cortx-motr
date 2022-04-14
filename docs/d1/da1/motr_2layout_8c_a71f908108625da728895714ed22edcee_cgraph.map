@@ -1,0 +1,9 @@
+<map id="layout_op_init" name="layout_op_init">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga3cfccc9c9cdbd670f507d9ffcea4b310" title="locality" alt="" coords="197,5,259,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="185,56,271,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="348,81,415,108"/>
+<area shape="rect" id="node5" href="$d1/da1/motr_2layout_8c.html#a629ab596d82d63b8186d57b26cfb2e53" title="layout_op_cb_launch" alt="" coords="156,157,300,184"/>
+<area shape="rect" id="node6" href="$d1/da1/motr_2layout_8c.html#a5ed3459de9cae1b23551747366b12267" title="layout_op_cb_fini" alt="" coords="167,208,289,235"/>
+<area shape="rect" id="node7" href="$d1/da1/motr_2layout_8c.html#a168f8bb9d1f143bf3687be71ee82c7c2" title="layout_op_cb_free" alt="" coords="164,259,292,285"/>
+<area shape="rect" id="node8" href="$d6/db6/motr_2client_8c.html#a6e917deea38911358f4be3afe8680eb7" title="m0__locality_pick" alt="" coords="165,309,291,336"/>
+</map>

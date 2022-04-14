@@ -1,0 +1,17 @@
+<map id="test_msg_body" name="test_msg_body">
+<area shape="rect" id="node2" href="$d2/d68/lnet__ut_8c.html#ae91bcf98f43e83155b0c4023a246730a" title="ut_cbreset" alt="" coords="429,5,511,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gacce89dfe5af29f0c271b458408c6e57e" title="m0_net_buffer_add" alt="" coords="404,56,536,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="403,107,537,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga16dcb753d03ab30508f3b056b3ef5e72" title="m0_net_buffer_del" alt="" coords="185,625,313,652"/>
+<area shape="rect" id="node6" href="$d2/d68/lnet__ut_8c.html#a7957c0bdf96b91a8bc68cc4dda63cd9b" title="ut_chan_timedwait" alt="" coords="184,676,315,703"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="405,157,535,184"/>
+<area shape="rect" id="node8" href="$d9/dd2/group__net.html#ga082ab41ca1cd4100202b7e614335d977" title="m0_net_tm_stats_get" alt="" coords="396,208,544,235"/>
+<area shape="rect" id="node9" href="$d2/d68/lnet__ut_8c.html#a420439de83dd830edef84820b56235f7" title="ut_net_buffer_sign" alt="" coords="406,309,534,336"/>
+<area shape="rect" id="node10" href="$d2/d68/lnet__ut_8c.html#a13883f1c25e61cb8a5a0a9ab1be7acad" title="ut_net_buffer_authenticate" alt="" coords="383,360,557,387"/>
+<area shape="rect" id="node11" href="$d9/dd2/group__net.html#ga156c33ba284b2a346414c38891148114" title="m0_net_end_point_create" alt="" coords="164,727,335,753"/>
+<area shape="rect" id="node12" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="605,411,731,437"/>
+<area shape="rect" id="node13" href="$d2/d68/lnet__ut_8c.html#aa15e64220686145ce669269f7f6ef10c" title="test_msg_send_loop" alt="" coords="178,259,321,285"/>
+<area shape="rect" id="node14" href="$d7/db9/group___l_net_d_f_s.html#ga30f2300b3fc3c5d0d334489dfe903b41" title="m0_net_lnet_tm_set\l_debug" alt="" coords="400,462,540,503"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="417,528,523,555"/>
+<area shape="rect" id="node16" href="$d9/dd2/group__net.html#gaefce6a1c8eeaca5e47c72e728cf89f0c" title="m0_net_end_point_put" alt="" coords="393,411,547,437"/>
+</map>

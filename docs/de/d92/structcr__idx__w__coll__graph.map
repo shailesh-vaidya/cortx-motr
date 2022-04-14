@@ -1,0 +1,8 @@
+<map id="cr_idx_w" name="cr_idx_w">
+<area shape="rect" id="node2" href="$db/d13/structcr__ops__counter.html" title="{cr_ops_counter\n||}" alt="" coords="161,336,272,413"/>
+<area shape="rect" id="node5" href="$d9/dc6/structm0__workload__index.html" title="{m0_workload_index\n|+ num_index\l+ num_kvs\l+ mode\l+ opcode_prcnt\l+ keys_count\l+ key_size\l+ max_key_size\l|}" alt="" coords="517,292,655,457"/>
+<area shape="rect" id="node6" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="625,5,686,83"/>
+<area shape="rect" id="node8" href="$d9/d78/structm0__bitmap.html" title="{m0_bitmap\n||}" alt="" coords="968,336,1055,413"/>
+<area shape="rect" id="node10" href="$d2/ddd/structcr__time__measure__ctx.html" title="{cr_time_measure_ctx\n||}" alt="" coords="1201,336,1347,413"/>
+<area shape="rect" id="node11" href="$dc/d22/structcr__idx__w__results.html" title="{cr_idx_w_results\n||}" alt="" coords="1371,336,1491,413"/>
+</map>

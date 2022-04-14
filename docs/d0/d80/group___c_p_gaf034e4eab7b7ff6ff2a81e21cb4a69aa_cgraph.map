@@ -1,0 +1,5 @@
+<map id="m0_cm_cp_only_init" name="m0_cm_cp_only_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga11af7fb31854c04e69d1bbc77efca995" title="m0_rpc_bulk_init" alt="" coords="195,31,315,57"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="363,5,469,32"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="367,68,465,95"/>
+</map>

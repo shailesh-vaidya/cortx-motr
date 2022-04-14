@@ -1,0 +1,5 @@
+<map id="m0_ha_domain_init" name="m0_ha_domain_init">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga30d56453108093c99dff1f4adffb6f5c" title="m0_rwlock_init" alt="" coords="227,5,337,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga4363b3c9ee2ef7ea9d79c773e0148702" title="default_mon_future" alt="" coords="215,56,349,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gafd685e602b1105e35f1df5dd6cfa0127" title="m0_ha_domain_monitor_add" alt="" coords="188,107,376,133"/>
+</map>

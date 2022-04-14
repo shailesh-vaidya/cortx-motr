@@ -1,0 +1,11 @@
+<map id="balloc_group_write_do" name="balloc_group_write_do">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="232,5,356,32"/>
+<area shape="rect" id="node3" href="$d6/d2c/group__stobad.html#ga2e669610d1fcec4902752e999b992541" title="m0_stob_ad_spares_calc" alt="" coords="209,56,379,83"/>
+<area shape="rect" id="node4" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="249,107,339,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ac0ddf5f38ec6e8cd44f226dccb3658f1" title="balloc_debug_dump_extent" alt="" coords="204,157,384,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a4ce349daa351709a71936a4b775147a6" title="btree_insert_sync" alt="" coords="231,208,357,235"/>
+<area shape="rect" id="node7" href="$de/d8f/group__balloc.html#gad5620a3ed15e55e5842b59dfa53b5ae8" title="m0_balloc_group_desc_init" alt="" coords="205,259,383,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="237,309,351,336"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="230,360,358,387"/>
+<area shape="rect" id="node10" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="235,411,353,437"/>
+</map>

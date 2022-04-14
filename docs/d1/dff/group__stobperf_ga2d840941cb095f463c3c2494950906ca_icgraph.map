@@ -1,0 +1,12 @@
+<map id="stob_perf_container" name="stob_perf_container">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#gacab7133776241cfeae543a2cbfd2341c" title="stob_perf_free" alt="" coords="219,5,325,32"/>
+<area shape="rect" id="node3" href="$d1/dff/group__stobperf.html#ga1950cf5ee86daa7016e401258ce63cb2" title="stob_perf_init" alt="" coords="222,56,322,83"/>
+<area shape="rect" id="node4" href="$d1/dff/group__stobperf.html#gaa7ff4ef2effaed4897091ae16ce67a51" title="stob_perf_fini" alt="" coords="222,107,322,133"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#gada5bfbc661074c9fd796b04a53a0ef34" title="stob_perf_destroy_credit" alt="" coords="189,157,355,184"/>
+<area shape="rect" id="node6" href="$d1/dff/group__stobperf.html#gadb60358bf9fe7fab64c3d4ede9cf9485" title="stob_perf_destroy" alt="" coords="209,208,335,235"/>
+<area shape="rect" id="node7" href="$d1/dff/group__stobperf.html#gab9669ce00c58441f1bce484ffadbe22b" title="stob_perf_punch_credit" alt="" coords="193,259,351,285"/>
+<area shape="rect" id="node8" href="$d1/dff/group__stobperf.html#ga53bbfe63e919a61db53c4aaeda46d140" title="stob_perf_punch" alt="" coords="213,309,331,336"/>
+<area shape="rect" id="node9" href="$d1/dff/group__stobperf.html#ga65ade0794694463671faca6f111e6c58" title="stob_perf_block_shift" alt="" coords="199,360,345,387"/>
+<area shape="rect" id="node10" href="$d1/dff/group__stobperf.html#ga9f68faf184089b2cb09388366aa87f9f" title="stob_perf_fd" alt="" coords="225,411,319,437"/>
+<area shape="rect" id="node11" href="$d1/dff/group__stobperf.html#ga2308e4812c9e3f44d35e848f311746ef" title="stob_perf_io_init" alt="" coords="213,461,331,488"/>
+</map>

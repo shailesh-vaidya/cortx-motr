@@ -1,0 +1,10 @@
+<map id="m0_test_coroutine2" name="m0_test_coroutine2">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="189,5,324,32"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab1eef955bd95c3cc2e3a72cedc7702f8" title="m0_long_lock_init" alt="" coords="193,56,320,83"/>
+<area shape="rect" id="node4" href="$df/d37/group___coroutine.html#ga645d0c2e251b3a69d24017455c60fc5e" title="m0_co_op_init" alt="" coords="203,107,310,133"/>
+<area shape="rect" id="node5" href="$df/d37/group___coroutine.html#gaea78bc8cb13bd18c4d421285d7c69807" title="m0_co_context_init" alt="" coords="189,157,324,184"/>
+<area shape="rect" id="node6" href="$dc/d63/coroutine2_8c.html#ae07b9bdc621018b8c8c6cd5eae48fe2e" title="test_run" alt="" coords="222,208,291,235"/>
+<area shape="rect" id="node7" href="$df/d37/group___coroutine.html#ga0ffd011ede72e105d55781bea156687c" title="m0_co_context_fini" alt="" coords="189,259,324,285"/>
+<area shape="rect" id="node8" href="$df/d37/group___coroutine.html#ga9371e707983d4ef09ee308efa3639e2f" title="m0_co_op_fini" alt="" coords="203,309,310,336"/>
+<area shape="rect" id="node9" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab97f2172a9ef8e23ed79762dce8235db" title="m0_long_lock_fini" alt="" coords="193,360,320,387"/>
+</map>

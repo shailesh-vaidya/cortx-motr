@@ -1,0 +1,8 @@
+<map id="m0_betool_m0_init" name="m0_betool_m0_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa379c27791dab179c5b2a7a87f276374" title="be_recovery_run" alt="" coords="193,5,311,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="368,132,419,159"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gae0dbc36192028c5f39ab3ca83ec8f2a1" title="be_log_resize" alt="" coords="201,107,303,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga1de0d2f01e8143133ecd75e281970f1e" title="scan" alt="" coords="227,157,277,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaffae6d3000ba9dfd9eda672989419ffc" title="m0_betool_st_mkfs" alt="" coords="184,208,320,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gae13b2b3699e12a158e3a15465fe71b19" title="m0_betool_st_run" alt="" coords="189,259,315,285"/>
+</map>

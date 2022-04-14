@@ -1,0 +1,10 @@
+<map id="m0t1fs_inode_layout_init" name="m0t1fs_inode_layout_init">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga9f695a7bd0b64f3897a471dff7a96549" title="m0_fid_is_valid" alt="" coords="253,5,365,32"/>
+<area shape="rect" id="node3" href="$d8/d2b/inode_8c.html#afdb65bd50aec26605e0a85b38c4e8614" title="m0t1fs_inode_fid" alt="" coords="249,56,370,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="220,107,399,133"/>
+<area shape="rect" id="node5" href="$d8/d2b/inode_8c.html#a04b5b068503623b5715f6b5091812a3c" title="m0t1fs_build_layout\l_instance" alt="" coords="240,209,379,250"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="447,189,536,216"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="458,244,525,271"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="228,325,391,352"/>
+<area shape="rect" id="node9" href="$d8/d2b/inode_8c.html#a3ec86502d8eeb476894b88dc292d4c0f" title="m0t1fs_inode_update\l_blksize" alt="" coords="236,377,383,418"/>
+</map>

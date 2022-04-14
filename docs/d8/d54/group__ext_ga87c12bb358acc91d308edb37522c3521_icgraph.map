@@ -1,0 +1,21 @@
+<map id="m0_ext_init" name="m0_ext_init">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a0ebc45c43a3866f98f37e64ddbb492e7" title="balloc_group_write_do" alt="" coords="149,5,299,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a839f1c9aefe2ae96a58169d88c90f26b" title="balloc_init_ac" alt="" coords="173,56,275,83"/>
+<area shape="rect" id="node4" href="$de/d8f/group__balloc.html#gad0279415b5fbb272b244e9438df7e256" title="m0_balloc_load_extents" alt="" coords="143,157,305,184"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#acbe3d3fc78005ecd3199f8ae3367f77b" title="balloc_free_internal" alt="" coords="363,120,498,147"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a22b21a5dde2256a1e49949817f05e010" title="balloc_reserve_extent" alt="" coords="356,196,505,223"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#aca44e5d1880df9cf2a917030af81712f" title="balloc_find_extent\l_buddy" alt="" coords="161,259,287,301"/>
+<area shape="rect" id="node8" href="$d9/dd5/balloc_8c.html#a3ae80a68c8ac683ec586384759de4325" title="balloc_simple_scan\l_group" alt="" coords="363,289,499,330"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#aba68616f57533d86db006db464fc8976" title="balloc_wild_scan_group" alt="" coords="144,376,304,403"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a2b74b082b4fb17783b443da700e4a083" title="balloc_alloc" alt="" coords="179,427,269,453"/>
+<area shape="rect" id="node11" href="$d2/de0/group__extmap.html#gac1037f2d16cd3a23d20cb1be82abb8e9" title="emap_it_open" alt="" coords="173,477,275,504"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga925e51ff7f072401bd2c780e569fe260" title="m0_be_io_sched_add" alt="" coords="150,528,298,555"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga1c6dba88a0dc6d5d639ad7878e19d5d9" title="m0_be_log_sched_add" alt="" coords="353,553,508,580"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga4e216d13c2e9f80aeaafd2c6f7c63d17" title="emap_act" alt="" coords="185,629,263,656"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga1a2da9c4a7a7eb20fcdf01870a677c1b" title="stob_ad_balloc" alt="" coords="169,680,279,707"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#ga5acb0d1088258006756ed4c38e2c3335" title="stob_ad_bfree" alt="" coords="172,731,276,757"/>
+<area shape="rect" id="node17" href="$d6/d2c/group__stobad.html#gae633eb9f38150615691bf69ac39f4dd1" title="stob_ad_seg_free" alt="" coords="368,781,493,808"/>
+<area shape="rect" id="node18" href="$d6/d2c/group__stobad.html#gafb38a675c298d142a1c8be4972646d34" title="stob_ad_write_map_ext" alt="" coords="556,832,716,859"/>
+<area shape="rect" id="node19" href="$d6/d2c/group__stobad.html#gab1bb3e721d125bb76c41f98260b37f00" title="stob_ad_write_map" alt="" coords="764,857,899,884"/>
+<area shape="rect" id="node20" href="$d9/d6a/group__stob.html#ga419a2fc68005a3f12874df7259665c55" title="mock_balloc_alloc" alt="" coords="159,933,289,960"/>
+</map>

@@ -1,0 +1,46 @@
+var note_8h =
+[
+    [ "__MOTR___HA_NOTE_H__", "d8/da6/note_8h.html#a1049eae46d849842e927134194f9c5f5", null ],
+    [ "M0_NVEC_PRINT", "d0/dc7/group__ha-note.html#gad19f3eb3d6f04a45d1192e3ee265fe56", null ],
+    [ "M0_HA_NVEC_SET", "d0/dc7/group__ha-note.html#ggad1df9dc2600f2dda7e99d31c00fd73e0a11f376a45ae4673ce9e679c458b7c84a", null ],
+    [ "M0_HA_NVEC_GET", "d0/dc7/group__ha-note.html#ggad1df9dc2600f2dda7e99d31c00fd73e0abccd2cb12942e97db8b6f4ea44cb40ab", null ],
+    [ "m0_ha_obj_state", "d0/dc7/group__ha-note.html#gaf0d949dd529bf0c2a6b2ed37276a51de", [
+      [ "M0_NC_UNKNOWN", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51deac2fd2a28cef9b1261c7a360200edbbed", null ],
+      [ "M0_NC_ONLINE", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51deae22fa4da96fe9e39e9d4c88436308744", null ],
+      [ "M0_NC_FAILED", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51deadfccc9c826b25e8b7482196c33c3e05b", null ],
+      [ "M0_NC_TRANSIENT", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51deaac0e41957b304e0874f2d5d4fa6f81d4", null ],
+      [ "M0_NC_REPAIR", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51dea18bf33686060446f38e1af635ec7e316", null ],
+      [ "M0_NC_REPAIRED", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51dea67dd5ab3f0d71117244bf8f7cca99dc1", null ],
+      [ "M0_NC_REBALANCE", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51dea7840f91082cc8f87cafa18f090e86d91", null ],
+      [ "M0_NC_DTM_RECOVERING", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51dea989c6723ecfe288689f35bfc51d51c43", null ],
+      [ "M0_NC_NR", "d0/dc7/group__ha-note.html#ggaf0d949dd529bf0c2a6b2ed37276a51dea649d1f456d0076a77235a9e03a5b9098", null ]
+    ] ],
+    [ "m0_ha_state_update_defaults", "d0/dc7/group__ha-note.html#gae9e10f993f214c5b4b2d61d93d874df4", [
+      [ "M0_HA_STATE_UPDATE_LIMIT", "d0/dc7/group__ha-note.html#ggae9e10f993f214c5b4b2d61d93d874df4a4944f30a22cd61d746bdf58ce516d73a", null ]
+    ] ],
+    [ "m0_conf_ha_callback", "d0/dc7/group__ha-note.html#ga8ff6de1f83b79798f22b5400ed242fa3", null ],
+    [ "m0_ha_local_state_set", "d0/dc7/group__ha-note.html#ga43b0a48a5a23e28322a4bd9157c18004", null ],
+    [ "m0_ha_msg_accept", "d0/dc7/group__ha-note.html#ga941e8958ae16fcc6063970ecef6e3f7e", null ],
+    [ "m0_ha_msg_nvec_send", "d0/dc7/group__ha-note.html#ga70a493c747aee469f7393f6b1565fb07", null ],
+    [ "m0_ha_note_handler_add", "d0/dc7/group__ha-note.html#ga184d6a9374e251ef6e2361df21793111", null ],
+    [ "m0_ha_note_handler_fini", "d0/dc7/group__ha-note.html#gac74b2ccfe7aaff31abfa0ffcfb9bcc41", null ],
+    [ "m0_ha_note_handler_init", "d0/dc7/group__ha-note.html#ga0c72c9ed32efa1fe8c0f6a44437c48c7", null ],
+    [ "m0_ha_note_handler_signal", "d0/dc7/group__ha-note.html#ga236140982ec3fd0a2a10a01dd7da6de5", null ],
+    [ "m0_ha_state2str", "d0/dc7/group__ha-note.html#ga92737f70ea3232a705766c4fe02be6b7", null ],
+    [ "m0_ha_state_accept", "d0/dc7/group__ha-note.html#gaa1fae0405820e1c801950248dfb351d5", null ],
+    [ "m0_ha_state_get", "d0/dc7/group__ha-note.html#ga4a51a79edc116331325c507ca29f004a", null ],
+    [ "m0_ha_state_set", "d0/dc7/group__ha-note.html#gaca150e65b9070a7ce475ba6a9bc2245d", null ],
+    [ "m0_ha_state_single_post", "d0/dc7/group__ha-note.html#ga1f51f8f9d653f7492405434939279a8c", null ],
+    [ "M0_XCA_DOMAIN", "d0/dc7/group__ha-note.html#ga04c8c3f515e6534681a34ce064652f5b", null ],
+    [ "hmna_arr", "d8/da6/note_8h.html#a2b532864e696f629b09c753c9c0be3bd", null ],
+    [ "hmnv_arr", "d8/da6/note_8h.html#a241ab0057a6011e8b3708a3262bf214f", null ],
+    [ "hmnv_id_of_get", "d8/da6/note_8h.html#a6428e33c1dfae6de7bb6c19600689986", null ],
+    [ "hmnv_ignore_same_state", "d8/da6/note_8h.html#a2231f90cb9b86b72277a815580851cb1", null ],
+    [ "hmnv_nr", "d8/da6/note_8h.html#a23e83ea42bc69baaa54cb8ce422da8ec", null ],
+    [ "hmnv_type", "d8/da6/note_8h.html#a8582e70ceda66cdc62c2b6c5614402cc", null ],
+    [ "M0_XCA_DOMAIN", "d0/dc7/group__ha-note.html#gab53fd141f4877e60fcafb6d305c9ad50", null ],
+    [ "no_id", "d8/da6/note_8h.html#af7dedd6098c5f433545b1e649a1c2168", null ],
+    [ "no_state", "d8/da6/note_8h.html#aa6297865fad55416f6b8383c8a05bfef", null ],
+    [ "nv_note", "d8/da6/note_8h.html#abaeedb9017aadba29fe84dc304d246f1", null ],
+    [ "nv_nr", "d8/da6/note_8h.html#a0864cd7c80f61c6828a87abe17f538cf", null ]
+];

@@ -1,0 +1,21 @@
+<map id="test_fop_encdec" name="test_fop_encdec">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="419,263,459,290"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="203,60,302,87"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="394,10,483,36"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gac637ee98388a4d1ecc4b6e70717bd526" title="m0_fop_release" alt="" coords="381,111,496,138"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="544,136,613,163"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="390,770,487,796"/>
+<area shape="rect" id="node8" href="$dd/d6d/group__xcode.html#ga5bb940946a3d9aea253ec2ff17befa97" title="m0_xcode_ctx_init" alt="" coords="187,314,318,340"/>
+<area shape="rect" id="node9" href="$dd/d6d/group__xcode.html#gaaa2cf69a9360aafbec9f595eea6e8375" title="m0_xcode_length" alt="" coords="191,364,315,391"/>
+<area shape="rect" id="node10" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="193,415,313,442"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="176,212,329,239"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="172,263,333,290"/>
+<area shape="rect" id="node13" href="$dd/d6d/group__xcode.html#gaef645e9c040f57ec60b5fef674b32310" title="m0_xcode_encode" alt="" coords="187,567,318,594"/>
+<area shape="rect" id="node14" href="$dd/d6d/group__xcode.html#ga98d9e7bca961701035af4b2d0dd1a6a3" title="m0_xcode_alloc" alt="" coords="195,618,311,644"/>
+<area shape="rect" id="node15" href="$dd/d6d/group__xcode.html#ga0cfb4d74b1ae07ae6c0579e72c0851b1" title="m0_xcode_decode" alt="" coords="187,668,318,695"/>
+<area shape="rect" id="node16" href="$dd/d6d/group__xcode.html#ga1c0da24e267302d69f4e486373c60b30" title="m0_xcode_ctx_top" alt="" coords="187,719,319,746"/>
+<area shape="rect" id="node17" href="$d0/def/xcode__fop__test_8c.html#a84252df5dd865bc5a9d41569117c6304" title="fop_verify" alt="" coords="213,871,292,898"/>
+<area shape="rect" id="node18" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="195,820,310,847"/>
+<area shape="rect" id="node19" href="$d0/def/xcode__fop__test_8c.html#a56ac2ab9ebf3d4f2036741ca216ee858" title="fop_free" alt="" coords="218,516,287,543"/>
+<area shape="rect" id="node20" href="$d6/d39/group__fop.html#ga21bba86c3ab57ed9fee7ad32cea04dfa" title="m0_fop_type_fini" alt="" coords="192,922,313,948"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="getballoc" name="getballoc">
+<area shape="rect" id="node2" href="$d5/d8c/group__reqh.html#ga02e3a8c9bf293e7a5032cb6ad9c2c0ab" title="reqh_ut_balloc_init" alt="" coords="133,5,263,32"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#ga24441b2505547a0a5505a84e954f8905" title="reqh_ut_balloc_fini" alt="" coords="133,56,263,83"/>
+<area shape="rect" id="node4" href="$d5/d8c/group__reqh.html#ga295c1ff208117f59a18311c5f54775bd" title="reqh_ut_balloc_alloc" alt="" coords="128,107,268,133"/>
+</map>

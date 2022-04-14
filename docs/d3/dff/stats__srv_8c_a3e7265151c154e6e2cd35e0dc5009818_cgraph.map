@@ -1,0 +1,8 @@
+<map id="stats_update" name="stats_update">
+<area shape="rect" id="node2" href="$d0/d66/group__stats__fop.html#gadd3bedfa0448f739880686a466c89f43" title="m0_stats_update_fop_get" alt="" coords="151,5,323,32"/>
+<area shape="rect" id="node3" href="$d3/dff/stats__srv_8c.html#a00549532edc9a262baa8893a4f1f4880" title="stats_svc_invariant" alt="" coords="169,56,304,83"/>
+<area shape="rect" id="node4" href="$dc/de4/group__stats__svc.html#ga0cb76c88f9dec1a5fd3ccae89d807af3" title="m0_stats_get" alt="" coords="186,107,287,133"/>
+<area shape="rect" id="node5" href="$d3/dff/stats__srv_8c.html#afbdd5b6fd6edfac79e12adcfe2e51d89" title="stats_sum_copy" alt="" coords="371,183,489,209"/>
+<area shape="rect" id="node6" href="$d3/dff/stats__srv_8c.html#ad271823b8bd25cd4180cac6f7b8a5a9c" title="stats_add" alt="" coords="197,208,276,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="397,245,463,272"/>
+</map>

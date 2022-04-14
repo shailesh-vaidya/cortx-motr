@@ -1,0 +1,5 @@
+<map id="fsp_fini" name="fsp_fini">
+<area shape="rect" id="node2" href="$d0/d06/fdmi__sample__plugin_8c.html#a8ab01eae207e443f62579b54c750d6ff" title="fini_fdmi_plugin" alt="" coords="125,5,237,32"/>
+<area shape="rect" id="node3" href="$d0/d06/fdmi__sample__plugin_8c.html#a15428f23e10c2a783588518d6a811cfe" title="fdmi_service_stop" alt="" coords="117,56,245,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#gaf0f36d6063136ad9e6eb0916f2bde26e" title="m0_client_fini" alt="" coords="130,107,233,133"/>
+</map>

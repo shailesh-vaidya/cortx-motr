@@ -1,0 +1,7 @@
+<map id="m0_rm_resource" name="m0_rm_resource">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="45,145,128,223"/>
+<area shape="rect" id="node4" href="$d8/d71/structm0__rm__resource__type.html" title="{m0_rm_resource_type\n||}" alt="" coords="306,300,457,377"/>
+<area shape="rect" id="node6" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="458,145,513,223"/>
+<area shape="rect" id="node7" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="637,300,707,377"/>
+<area shape="rect" id="node8" href="$d3/d16/structm0__rm__resource__ops.html" title="{m0_rm_resource_ops\n||}" alt="" coords="732,300,879,377"/>
+</map>

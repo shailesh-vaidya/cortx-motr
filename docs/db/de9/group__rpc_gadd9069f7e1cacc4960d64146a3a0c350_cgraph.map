@@ -1,0 +1,10 @@
+<map id="rpc_tm_cleanup" name="rpc_tm_cleanup">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="352,5,451,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="335,63,468,89"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga9858ef0b4919bdf6b5abd5fd4186b53a" title="m0_net_tm_stop" alt="" coords="168,303,287,329"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="337,125,466,152"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="178,353,277,380"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="357,176,446,203"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="348,227,455,253"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#ga779a4d468ae994e60dab38f420734bae" title="m0_net_tm_fini" alt="" coords="172,100,283,127"/>
+</map>

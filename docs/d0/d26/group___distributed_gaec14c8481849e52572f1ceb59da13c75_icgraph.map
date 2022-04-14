@@ -1,0 +1,7 @@
+<map id="m0_rm_rwlock_req_init" name="m0_rm_rwlock_req_init">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga16c8369c9fad53c5462cc6ab62344861" title="rconfc_read_lock_get" alt="" coords="219,5,365,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga79b23172f19e36d933712b337c508374" title="rm_lock_req_init" alt="" coords="233,56,351,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#a88abbc46a8462d93d280a3dcfca911cc" title="rwlock_acquire_nowait" alt="" coords="215,107,369,133"/>
+<area shape="rect" id="node5" href="$da/dcf/wlock__helper_8c.html#a963dcceb5180abcc7c4e101a99fb7735" title="_write_lock_get" alt="" coords="235,157,349,184"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa815867d2d323ff3c2743a1cd07a1e0f" title="_spiel_tx_write_lock_get" alt="" coords="209,208,375,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_be_btree" name="m0_be_btree">
+<area shape="rect" id="node2" href="$dd/d7b/structm0__be__rwlock.html" title="{m0_be_rwlock\n||}" alt="" coords="5,421,112,499"/>
+<area shape="rect" id="node3" href="$d2/d8a/structm0__be__bnode.html" title="{m0_be_bnode\n||}" alt="" coords="381,421,483,499"/>
+<area shape="rect" id="node4" href="$d8/d98/structm0__format__footer.html" title="{m0_format_footer\n||}" alt="" coords="142,219,266,296"/>
+<area shape="rect" id="node6" href="$d6/d17/structm0__be__btree__backlink.html" title="{m0_be_btree_backlink\n||}" alt="" coords="356,219,508,296"/>
+<area shape="rect" id="node7" href="$d6/de9/structm0__format__header.html" title="{m0_format_header\n||}" alt="" coords="549,219,680,296"/>
+<area shape="rect" id="node8" href="$d4/d9b/structm0__be__seg.html" title="{m0_be_seg\n||}" alt="" coords="825,320,914,397"/>
+<area shape="rect" id="node9" href="$dd/d2c/structm0__be__btree__kv__ops.html" title="{m0_be_btree_kv_ops\n||}" alt="" coords="921,320,1068,397"/>
+</map>

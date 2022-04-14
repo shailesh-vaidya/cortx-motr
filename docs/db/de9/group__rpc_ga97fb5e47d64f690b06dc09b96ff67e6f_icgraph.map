@@ -1,0 +1,9 @@
+<map id="item_state_name" name="item_state_name">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="197,45,343,86"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="412,111,547,138"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gad548de702d8f344e3c80b1c7627ee723" title="item_timedout" alt="" coords="595,111,699,138"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga6b2ec155dea33b06af0803219f82e68e" title="item_timer_cb" alt="" coords="747,162,851,188"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="600,162,693,188"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="195,264,345,305"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gacb459487d34b747427a6cef754d5f3ec" title="item__on_reply_postprocess" alt="" coords="176,330,364,356"/>
+</map>

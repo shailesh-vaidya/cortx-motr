@@ -1,0 +1,7 @@
+<map id="clink_signal" name="clink_signal">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="162,5,261,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#gab53f0e8acb186ca516b3b35e8b53d1f4" title="m0_enter_awkward" alt="" coords="144,56,279,83"/>
+<area shape="rect" id="node4" href="$df/dca/lib_2misc_8c.html#ac6eccfda5bb621cec26b31db6bf867b2" title="m0_ptr_wrap" alt="" coords="163,131,260,157"/>
+<area shape="rect" id="node5" href="$db/d41/group__kthread.html#ga1a88c5ea8c3a11a6acb9b41d1b3ded9c" title="m0_exit_awkward" alt="" coords="148,181,275,208"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="145,232,277,259"/>
+</map>

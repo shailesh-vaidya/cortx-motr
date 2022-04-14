@@ -1,0 +1,23 @@
+<map id="m0_confc_is_inited" name="m0_confc_is_inited">
+<area shape="rect" id="node2" href="$d1/da8/dtm0_2service_8c.html#ac446f441b3ebb548deae5347bb737029" title="dtm_service__origin_fill" alt="" coords="208,5,367,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#gab9187574cb1d3c40f0e4d2103ebba324" title="abandoned_svc_ctxs\l_cleanup" alt="" coords="215,57,360,98"/>
+<area shape="rect" id="node4" href="$db/dc2/conf_2helpers_8c.html#a8bdfe44e42d8704c7493bbc575d70c77" title="confc_service_find" alt="" coords="222,123,353,149"/>
+<area shape="rect" id="node5" href="$df/d22/conf_2helpers_8h.html#a8dfd8f8563103e404480898cce4ecbe2" title="m0_confc_service_find" alt="" coords="435,148,591,175"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gab3bc8c8ee502514d40b3ff991d314ad8" title="rconfc_herd_link_fini" alt="" coords="217,224,358,251"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga690a2b3e5c2103d12fdbd677753b12c5" title="rconfc_conductor_connect" alt="" coords="200,275,375,301"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga8b6c435bbb014913cf9e3bcd18e17758" title="rconfc_stop_internal" alt="" coords="218,325,357,352"/>
+<area shape="rect" id="node9" href="$df/d15/group__rconfc__dfspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="459,364,566,391"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga70de144f1a092217192b3965ca3522b0" title="rconfc_conductor_engage" alt="" coords="202,427,373,453"/>
+<area shape="rect" id="node11" href="$db/d90/group__rconfc__dlspec.html#ga9d1c8fb2df194543e51785b1d4ec9b69" title="rconfc_version_elected" alt="" coords="435,440,591,467"/>
+<area shape="rect" id="node12" href="$df/d15/group__rconfc__dfspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="212,528,363,555"/>
+<area shape="rect" id="node13" href="$df/d15/group__rconfc__dfspec.html#ga96453650b4c8dc163387c6dc553edbcc" title="m0_rconfc_is_preloaded" alt="" coords="206,579,369,605"/>
+<area shape="rect" id="node14" href="$d5/d9a/ut_2rconfc_8c.html#ac5a22e9eb44409e23ccef4568a056e45" title="_on_death_cb" alt="" coords="236,629,339,656"/>
+<area shape="rect" id="node15" href="$d3/da7/rconfc__link__fom_8c.html#a83ee6d9b099373cd06d7d4ff574a4452" title="rconfc_link_fom_tick" alt="" coords="216,680,359,707"/>
+<area shape="rect" id="node16" href="$d0/dc7/group__ha-note.html#ga4a0f698a72f4b0d982a05c65f744f628" title="ha_state_accept" alt="" coords="228,731,347,757"/>
+<area shape="rect" id="node17" href="$de/de2/client__init_8c.html#afc099ecfa529c2a86af9031f1b841acb" title="initlift_resource_manager" alt="" coords="204,781,371,808"/>
+<area shape="rect" id="node18" href="$df/db4/group__rpc__session.html#ga0736007df3b3422176f08da315743324" title="m0_rpc_conn_ha_unsubscribe" alt="" coords="188,832,387,859"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#ga42a766cdf48df3f999f6bbecb3b3ebec" title="rpc_conn__on_cache\l_expired_cb" alt="" coords="215,883,360,925"/>
+<area shape="rect" id="node20" href="$d9/d50/group__spiel-api-fspec.html#ga4677734ea9c004677e53ab0e6b229f81" title="m0_spiel_proc_counters\l_fetch" alt="" coords="206,949,369,990"/>
+<area shape="rect" id="node21" href="$d9/d50/group__spiel-api-fspec.html#ga43e678211cb80b14022c50295707cb10" title="m0_spiel__fs_stats\l_fetch" alt="" coords="220,1014,355,1055"/>
+<area shape="rect" id="node22" href="$d9/d50/group__spiel-api-fspec.html#gaa2d2b735bd0d7bf555963f988c8db1df" title="m0_spiel_conf_pver\l_status" alt="" coords="218,1079,357,1121"/>
+</map>

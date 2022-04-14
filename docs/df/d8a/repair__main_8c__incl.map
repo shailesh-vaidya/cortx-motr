@@ -1,0 +1,21 @@
+<map id="sns/cm/st/repair_main.c" name="sns/cm/st/repair_main.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="290,80,369,107"/>
+<area shape="rect" id="node3" href="$dd/d02/atomic_8h.html" title="lib/atomic.h" alt="" coords="177,155,266,181"/>
+<area shape="rect" id="node4" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="137,229,223,256"/>
+<area shape="rect" id="node5" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="393,155,468,181"/>
+<area shape="rect" id="node6" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="290,155,369,181"/>
+<area shape="rect" id="node9" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="765,155,843,181"/>
+<area shape="rect" id="node10" href="$dc/df9/getopts_8h.html" title="lib/getopts.h" alt="" coords="444,80,537,107"/>
+<area shape="rect" id="node11" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="5,155,101,181"/>
+<area shape="rect" id="node12" href="$d9/d51/fop_2fop_8h.html" title="fop/fop.h" alt="" coords="805,80,878,107"/>
+<area shape="rect" id="node13" href="$de/dc8/motr_2init_8h.html" title="motr/init.h" alt="" coords="903,80,983,107"/>
+<area shape="rect" id="node14" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1007,80,1135,107"/>
+<area shape="rect" id="node15" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="1159,80,1246,107"/>
+<area shape="rect" id="node16" href="$dd/d4b/rpc__opcodes_8h.html" title="rpc/rpc_opcodes.h" alt="" coords="1327,155,1457,181"/>
+<area shape="rect" id="node17" href="$d3/d24/sns_2cm_2cm_8h.html" title="sns/cm/cm.h" alt="" coords="1668,80,1767,107"/>
+<area shape="rect" id="node18" href="$da/dc4/sns_2cm_2trigger__fop_8h.html" title="sns/cm/trigger_fop.h" alt="" coords="1321,80,1463,107"/>
+<area shape="rect" id="node19" href="$df/dfb/dix_2cm_2cm_8h.html" title="dix/cm/cm.h" alt="" coords="1791,80,1886,107"/>
+<area shape="rect" id="node20" href="$db/d16/dix_2cm_2trigger__fop_8h.html" title="dix/cm/trigger_fop.h" alt="" coords="1910,80,2047,107"/>
+<area shape="rect" id="node21" href="$d7/db8/cm_2repreb_2trigger__fop_8h.html" title="cm/repreb/trigger_fop.h" alt="" coords="1487,80,1643,107"/>
+<area shape="rect" id="node23" href="$da/d9c/repair__cli_8h.html" title="repair_cli.h" alt="" coords="2273,80,2359,107"/>
+</map>

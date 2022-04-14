@@ -1,0 +1,12 @@
+<map id="nlx_xo_bev_deliver_all" name="nlx_xo_bev_deliver_all">
+<area shape="rect" id="node2" href="$d5/dfa/lnet__xo_8c.html#gaa6e85aee1e5a5cb6b06ec6f011bca497" title="nlx_tm_invariant" alt="" coords="440,87,557,114"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="616,192,761,219"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gaea683e854b7a488bec4543247128289d" title="nlx_core_buf_event_get" alt="" coords="214,91,374,118"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga8981f76e729a689a753ea62f6cdc3320" title="nlx_xo_core_bev_to\l_net_bev" alt="" coords="429,185,568,226"/>
+<area shape="rect" id="node6" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga20255e6971d1c631ae7a4c31215fc794" title="nlx_buffer_invariant" alt="" coords="227,142,361,168"/>
+<area shape="rect" id="node7" href="$d8/de0/group___l_net_core.html#ga49d9c45a6a45d18ea72eab307a19af65" title="nlx_core_bevq_release" alt="" coords="217,243,371,270"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="435,294,563,320"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#gaff7a97dce21f4689aba444caaf0dc00b" title="m0_net_buffer_event_post" alt="" coords="207,344,381,371"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="441,370,556,396"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="225,446,363,472"/>
+</map>

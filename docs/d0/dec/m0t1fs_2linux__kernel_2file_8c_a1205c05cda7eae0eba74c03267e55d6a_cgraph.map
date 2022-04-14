@@ -1,0 +1,8 @@
+<map id="ioreq_file_lock" name="ioreq_file_lock">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a9da36324ab093dc664947a583ea15876" title="m0t1fs_file_to_m0inode" alt="" coords="159,5,319,32"/>
+<area shape="rect" id="node3" href="$de/d3f/group___file_lock.html#gab776e9b223dbba8588539c6f9d3e8d7a" title="m0_file_lock" alt="" coords="191,56,286,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="171,107,306,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="175,157,303,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="164,208,313,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="205,259,272,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ctg_ctidx_op_credits" name="ctg_ctidx_op_credits">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a3d8b0d209cd415ccd64c51dc4bfb99dc" title="imask" alt="" coords="251,5,308,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="254,56,305,83"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#a86d17f828608bcf301d728db0441c2a2" title="cas_seg" alt="" coords="244,107,315,133"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#gab33f6eeb5db6e825fd2e5c82ba061c3f" title="insert" alt="" coords="252,157,307,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaf50e9ec1881a65bb62ef9483b4082bc5" title="m0_be_btree_insert\l_credit2" alt="" coords="211,209,347,250"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6c2b0ebe7aee33b0c7b6680bf54d4dc7" title="m0_be_btree_delete\l_credit" alt="" coords="210,274,349,315"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gab7db79554512aa8c5f403dca76c73c69" title="m0_dix_imask_is_empty" alt="" coords="196,340,363,367"/>
+</map>

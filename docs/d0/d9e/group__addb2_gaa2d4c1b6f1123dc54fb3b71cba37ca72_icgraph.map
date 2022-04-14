@@ -1,0 +1,8 @@
+<map id="sys_balance" name="sys_balance">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gae35f8886522855df1c0a5b85302227fd" title="m0_addb2_sys_fini" alt="" coords="352,140,487,166"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gae26add003ebb81097bf8c8b5f409ef14" title="m0_addb2_sys_put" alt="" coords="159,38,293,65"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga2e8db4e859eecf5e3011d8014ba2957b" title="m0_addb2_sys_detach" alt="" coords="148,89,304,116"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga4afca25301b3fae5861c4cb70a190bd6" title="net_stop" alt="" coords="190,140,262,166"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gad1154c6bb14918d69911bbcf20cd4344" title="stor_stop" alt="" coords="188,190,264,217"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga5fb01217ace9ea5bcb92635837872202" title="sys_ast" alt="" coords="192,241,260,268"/>
+</map>

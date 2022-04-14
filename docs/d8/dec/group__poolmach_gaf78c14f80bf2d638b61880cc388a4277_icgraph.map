@@ -1,0 +1,5 @@
+<map id="m0_poolmach_sns_repair_spare_query" name="m0_poolmach_sns_repair_spare_query">
+<area shape="rect" id="node2" href="$d4/d6a/test__pm_8c.html#a168112f21dcf0891381e445baab94193" title="pm_test_spare_slot" alt="" coords="224,5,360,32"/>
+<area shape="rect" id="node3" href="$d4/d6a/test__pm_8c.html#a7edcb49344e9cc70883e2779943d1c72" title="pm_test_multi_fail" alt="" coords="228,56,356,83"/>
+<area shape="rect" id="node4" href="$d7/d0c/parity__repair_8c.html#ac7d482ffc566be9facd95d6095ad34e3" title="_spare_next" alt="" coords="245,107,339,133"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="cob_ios_prepare" name="cob_ios_prepare">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="183,5,331,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#gac631108b8fe2d71bee07ea815deda26c" title="m0_poolmach_gob2cob" alt="" coords="178,56,337,83"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="392,81,559,108"/>
+<area shape="rect" id="node5" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="182,157,333,184"/>
+<area shape="rect" id="node6" href="$d7/d9a/motr_2cob_8c.html#ab9409efc1a6835ca975c81caf563bf97" title="m0_obj_container_id\l_to_session" alt="" coords="187,209,328,250"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#ga2ffe904963370b57917c48d7fc4aaacf" title="m0_reqh_mdpool_service\l_index_to_session" alt="" coords="172,274,343,315"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="219,340,295,367"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="173,391,342,417"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="442,467,509,493"/>
+<area shape="rect" id="node11" href="$d7/d9a/motr_2cob_8c.html#a34473d83b3100799e5ed9bf108ed6bb6" title="cob_ios_fop_get" alt="" coords="199,543,316,569"/>
+<area shape="rect" id="node12" href="$d7/d9a/motr_2cob_8c.html#adffe0899de064893a7ba4f898bec075e" title="cob_ios_fop_fini" alt="" coords="417,568,533,595"/>
+<area shape="rect" id="node13" href="$d7/d9a/motr_2cob_8c.html#a3d123799e165fe6ca59e0b23ba4be9dc" title="cob_ios_fop_populate" alt="" coords="183,492,331,519"/>
+<area shape="rect" id="node14" href="$d6/d39/group__fop.html#gab9513898baaf29424a22ef08d0a8d70d" title="m0_fop_session_machine" alt="" coords="171,644,344,671"/>
+</map>

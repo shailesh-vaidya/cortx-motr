@@ -1,0 +1,10 @@
+<map id="m0_confc_open_by_fid_sync" name="m0_confc_open_by_fid_sync">
+<area shape="rect" id="node2" href="$d2/d72/ut_2confc_8c.html#a20a48f07ad6d756f8ddc3d4313fd5758" title="open_by_fid_test" alt="" coords="269,5,390,32"/>
+<area shape="rect" id="node3" href="$d7/d99/conf_8c.html#ac982eee97d6acaafb3fd8e7a80e16b0a" title="cs_conf_storage_attach\l_by_srv" alt="" coords="249,57,410,98"/>
+<area shape="rect" id="node4" href="$df/dca/group__m0d.html#ga7c62a3ab79844414d7fe796712562c2a" title="cs_conf_storage_init" alt="" coords="463,93,605,120"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga86aa22416fdc2ee542ee2eece9c7729d" title="spiel_endpoints_for\l_device_generic" alt="" coords="262,174,397,215"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#ga70dff6d782b0e9eb1f5d45c15bfbe869" title="spiel_pool_device_collect" alt="" coords="244,240,415,267"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#ga170a453f6778428d2ebe846e569767c2" title="spiel_pool_generic\l_handler" alt="" coords="265,291,394,333"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#gae5851bde4aea4ed20cd2f8c37daede92" title="spiel__proc_is_to_update\l_stats" alt="" coords="245,357,414,398"/>
+<area shape="rect" id="node9" href="$d9/d50/group__spiel-api-fspec.html#ga4677734ea9c004677e53ab0e6b229f81" title="m0_spiel_proc_counters\l_fetch" alt="" coords="248,422,411,463"/>
+</map>

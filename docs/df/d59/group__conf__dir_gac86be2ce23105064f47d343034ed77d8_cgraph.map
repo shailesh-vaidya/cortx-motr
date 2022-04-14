@@ -1,0 +1,14 @@
+<map id="conf_dir_new" name="conf_dir_new">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga707f4a3ef4c929ef9c31de773e263f2a" title="m0_fid_type_getfid" alt="" coords="549,60,681,87"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="359,60,485,87"/>
+<area shape="rect" id="node4" href="$df/d59/group__conf__dir.html#gace9e743e37da35c893866a1b9881dce4" title="conf_dir_id_build" alt="" coords="363,136,481,163"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="343,251,501,278"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="154,99,293,126"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="384,378,460,404"/>
+<area shape="rect" id="node8" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="161,251,285,278"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="389,302,455,328"/>
+<area shape="rect" id="node10" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="163,454,284,480"/>
+<area shape="rect" id="node11" href="$d2/dd9/group__conf__dlspec__cache.html#ga517329ff7dd1fb6b607520088080b777" title="m0_conf_cache_add" alt="" coords="152,302,295,328"/>
+<area shape="rect" id="node12" href="$d2/dd9/group__conf__dlspec__cache.html#gabac23b5ec19fc0493b8ff1e3c1a5ca48" title="m0_conf_cache_del" alt="" coords="154,504,293,531"/>
+<area shape="rect" id="node13" href="$dd/d7b/group__conf__dlspec__objops.html#ga7b1d9b1879b021ed5c57ebb1a97dfe29" title="m0_conf_obj_delete" alt="" coords="154,555,293,582"/>
+</map>

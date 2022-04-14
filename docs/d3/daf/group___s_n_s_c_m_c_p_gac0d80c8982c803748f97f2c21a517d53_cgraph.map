@@ -1,0 +1,6 @@
+<map id="m0_sns_cm_cp_recv_wait" name="m0_sns_cm_cp_recv_wait">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="249,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="242,56,370,83"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#gaaf62f44b106a6e9992705bdd1c661d03" title="cp_reply_post" alt="" coords="255,107,357,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="231,157,381,184"/>
+</map>

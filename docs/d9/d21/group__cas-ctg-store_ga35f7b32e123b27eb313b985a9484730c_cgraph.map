@@ -1,0 +1,7 @@
+<map id="m0_ctg_op_init" name="m0_ctg_op_init">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="164,5,271,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="164,56,271,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="168,107,267,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="168,157,267,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a6f8452151892ff49885404c0ae4988f4" title="ctg_op_cb" alt="" coords="176,208,259,235"/>
+</map>

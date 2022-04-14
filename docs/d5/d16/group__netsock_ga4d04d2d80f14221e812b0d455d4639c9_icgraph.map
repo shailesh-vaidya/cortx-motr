@@ -1,0 +1,9 @@
+<map id="mover_invariant" name="mover_invariant">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gaca062f63e8a27154bb6e046504692bc9" title="buf_invariant" alt="" coords="168,5,264,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga45a84b5062bc213795304baca5b13f74" title="ep_add" alt="" coords="184,56,248,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga29cb5f0cd1ec36cce44a8d9baa6a1746" title="ep_del" alt="" coords="186,107,246,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gaef26c34c66e8e88befd9b30a9cae179c" title="buf_accept" alt="" coords="173,157,259,184"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga429999edeace62099ef3af8bd784d97d" title="mover_init" alt="" coords="175,208,257,235"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga023f04699c602a061ce4d4353e71c78a" title="mover_fini" alt="" coords="175,259,257,285"/>
+<area shape="rect" id="node8" href="$d5/d16/group__netsock.html#ga7b643699db61d5c148110d150136c16a" title="mover_op" alt="" coords="312,284,391,311"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="m0_cm_cp_buf_release" name="m0_cm_cp_buf_release">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="213,5,380,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga206bec9656d7a767323e61aee1dcdd50" title="m0_cm_buffer_put" alt="" coords="232,56,361,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="229,107,364,149"/>
+</map>

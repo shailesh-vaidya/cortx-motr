@@ -1,0 +1,9 @@
+<map id="__conn_ha_subscribe" name="__conn_ha_subscribe">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="229,5,332,32"/>
+<area shape="rect" id="node3" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="254,56,307,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="201,107,360,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga3d163753a609cf687fe6ba251cdf5ba8" title="rpc_conn2confc" alt="" coords="223,157,338,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#ga61e3f64a36e2bd72b1bd45b86782a484" title="m0_conf_obj_get" alt="" coords="220,208,341,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="408,233,497,260"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="229,309,332,336"/>
+</map>

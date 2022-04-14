@@ -1,0 +1,6 @@
+<map id="bufvec_cursor_addr" name="bufvec_cursor_addr">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="193,5,354,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga99b661d2a7ae85138c17689090b8d4f1" title="m0_bufvec_cursor_copy" alt="" coords="191,56,355,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gabe555731c85e1df24eb6a29308197332" title="m0_bufvec_cursor_cmp" alt="" coords="193,107,354,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gaa69c65b4a2b87d7ef52fba9c4fa88b57" title="m0_bufvec_cursor_prefix" alt="" coords="189,157,357,184"/>
+</map>

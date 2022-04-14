@@ -1,0 +1,7 @@
+<map id="ha_ut_link_fini" name="ha_ut_link_fini">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gae731d1e7c23822c9bd59031b3374114f" title="m0_ha_link_stop" alt="" coords="184,5,304,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="191,56,297,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga86629c3fcffb020109f7d196358157b2" title="m0_ha_link_fini" alt="" coords="188,107,300,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="377,132,476,159"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga39d9801c4c64fec526dc4a86e8e639af" title="ha_ut_link_conn_cfg_free" alt="" coords="159,208,329,235"/>
+</map>

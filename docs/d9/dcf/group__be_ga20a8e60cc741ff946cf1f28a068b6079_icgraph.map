@@ -1,0 +1,5 @@
+<map id="btree_pair_release" name="btree_pair_release">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga4f2cef82a89f18f151fcbd4ca8a8a554" title="be_btree_delete_key\l_from_node" alt="" coords="181,5,324,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaceed732a56934cb3082b8f6bdafdc3f7" title="be_btree_destroy" alt="" coords="191,71,314,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0519a65d184c19b2acd109e41868d214" title="btree_truncate" alt="" coords="200,122,305,149"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_cob_update" name="m0_cob_update">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#gae8b6e116e059750e518d6ee987fe9c8a" title="m0_cob_setattr" alt="" coords="193,5,305,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga546ef2aef975c16b72e1514b2f8502e5" title="m0_cob_size_update" alt="" coords="177,56,322,83"/>
+<area shape="rect" id="node4" href="$d1/d29/cob_2ut_2cob_8c.html#a4d8029715873f5f316d618078ee601f8" title="test_create" alt="" coords="206,107,293,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="168,157,331,184"/>
+<area shape="rect" id="node6" href="$d8/d35/mdstore_2mdstore_8c.html#a91e37bb1031a62b2e5d3bd2d854269fa" title="m0_mdstore_dir_nlink\l_update" alt="" coords="175,209,324,250"/>
+<area shape="rect" id="node7" href="$de/d60/group__mdstore.html#ga9354589147ac858b337e6ac95d84b00d" title="m0_mdstore_unlink" alt="" coords="379,245,513,272"/>
+<area shape="rect" id="node8" href="$de/d60/group__mdstore.html#ga6d04a5fa0db37c3a2c56e98d8c5227f1" title="m0_mdstore_link" alt="" coords="189,325,310,352"/>
+</map>

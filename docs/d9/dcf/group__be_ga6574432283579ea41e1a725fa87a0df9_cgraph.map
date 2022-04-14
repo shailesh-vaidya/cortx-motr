@@ -1,0 +1,6 @@
+<map id="m0_be_reg_area_used" name="m0_be_reg_area_used">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga311545d3517be3edbfe4b1352dc7e729" title="m0_be_reg_area__invariant" alt="" coords="207,5,388,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga1af4820641f2a8dce67fe32086dba044" title="m0_be_regmap_first" alt="" coords="227,56,367,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga02e6c51339f03e19e2553527cd4fdced" title="m0_be_regmap_next" alt="" coords="226,107,369,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="224,157,371,184"/>
+</map>

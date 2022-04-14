@@ -1,0 +1,5 @@
+<map id="bulk_cb" name="bulk_cb">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga7755c647e8d28b1b4aa7d3a83cf6947c" title="rpc_bulk_op" alt="" coords="120,31,212,57"/>
+<area shape="rect" id="node3" href="$d9/d05/group__bulkclient_d_f_s.html#ga197d4470b2ca99bca9e2d9b884750126" title="m0_rpc_bulk_store" alt="" coords="260,5,392,32"/>
+<area shape="rect" id="node4" href="$d9/d05/group__bulkclient_d_f_s.html#ga858ffde29d009b5a74eb3b23103ac4d6" title="m0_rpc_bulk_load" alt="" coords="263,68,389,95"/>
+</map>

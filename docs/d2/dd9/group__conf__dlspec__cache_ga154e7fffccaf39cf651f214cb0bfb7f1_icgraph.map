@@ -1,0 +1,9 @@
+<map id="m0_conf_cache_fini" name="m0_conf_cache_fini">
+<area shape="rect" id="node2" href="$dd/da7/conf_2ut_2common_8h.html#a67e4af2d01792f51a8bb8d143d85f3ea" title="m0_conf_ut_cache_fini" alt="" coords="199,5,355,32"/>
+<area shape="rect" id="node3" href="$d0/dca/group__confc__dfspec.html#ga6b9eb7acc491a6c99652596ebf10d5b1" title="m0_confc_init_wait" alt="" coords="210,56,345,83"/>
+<area shape="rect" id="node4" href="$d0/dca/group__confc__dfspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="226,107,329,133"/>
+<area shape="rect" id="node5" href="$df/d1e/group__confd__dfspec.html#ga9cb65c93c3d0bb094ea95647068ff110" title="m0_confd_cache_create" alt="" coords="195,157,359,184"/>
+<area shape="rect" id="node6" href="$df/d1e/group__confd__dfspec.html#ga52f49ea95321dfc5ad5140f3d9668364" title="m0_confd_cache_destroy" alt="" coords="192,208,363,235"/>
+<area shape="rect" id="node7" href="$d9/d50/group__spiel-api-fspec.html#ga844ce99a2a162cb1cbc76741641b2dbb" title="m0_spiel_tx_close" alt="" coords="212,259,343,285"/>
+<area shape="rect" id="node8" href="$de/d81/spiel__conf__ut_8c.html#a9bfd2a7e14c6b71fe5f4e05899bd0774" title="spiel_conf_file" alt="" coords="411,284,516,311"/>
+</map>

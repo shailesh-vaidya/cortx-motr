@@ -1,0 +1,11 @@
+<map id="dix_cp_reply_received" name="dix_cp_reply_received">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="589,33,729,60"/>
+<area shape="rect" id="node3" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975" title="cp2dixcp" alt="" coords="232,262,307,289"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac6187a25fa14442ba52f0e4ec5252b3e" title="cpfom2cm" alt="" coords="228,313,311,340"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="204,60,335,86"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#gab245866b62546bb7093dd0126f5dcfdb" title="m0_rpc_item_generic\l_reply_rc" alt="" coords="383,95,529,136"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga68ee024f7a3ac51ffbfd1bb7d0d3d89d" title="m0_rpc_item_is_generic\l_reply_fop" alt="" coords="577,108,740,150"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="610,186,707,213"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#gade627e51949dfe7829e01aee4f03513f" title="m0_fom_wakeup" alt="" coords="209,364,330,390"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="225,414,314,441"/>
+</map>

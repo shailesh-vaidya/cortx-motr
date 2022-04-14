@@ -1,0 +1,5 @@
+<map id="creq_kv_buf_add" name="creq_kv_buf_add">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga5018ffa01375d40f056be1db6f0f6966" title="greq_asmbl_add" alt="" coords="198,5,315,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga2c62851ce547bf4fbab718a6c3008603" title="nreq_asmbl_prep" alt="" coords="196,56,317,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gaa34f28b2130b09ddac202755b0f4d1d3" title="cas_records_op_prepare" alt="" coords="175,107,339,133"/>
+</map>

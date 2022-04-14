@@ -1,0 +1,12 @@
+<map id="m0_be_seg_dict_insert" name="m0_be_seg_dict_insert">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga036da5dc3f13e82c352508fc7965dda3" title="be_seg_dict_get" alt="" coords="420,11,537,37"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga2761743756b8f8f4259247b27e0ad5d4" title="m0_be_seg__invariant" alt="" coords="209,200,361,227"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="252,251,319,277"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaf056807e1dc2776054ee468417d6c812" title="be_seg_dict_find" alt="" coords="225,48,345,75"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gac40453780dba9b6e1d9b4fb5ce39f0f2" title="be_seg_dict_kv_get" alt="" coords="409,73,548,100"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0d5bd08759329093baaf8d11f7315118" title="be_seg_dict_kv_put" alt="" coords="409,124,548,151"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga822234cbbf700fbd21a96053e409abc9" title="be_seg_dict_kv_begin" alt="" coords="210,301,361,328"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="247,352,323,379"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga0de39989a0dc81761d4b0030cf92675f" title="m0_be_free" alt="" coords="240,403,331,429"/>
+<area shape="rect" id="node11" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga22a393587c271c59b97fbcaafbf9a0b7" title="m0_be_seg_allocator" alt="" coords="213,453,358,480"/>
+</map>

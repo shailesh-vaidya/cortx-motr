@@ -1,0 +1,10 @@
+<map id="ut_test_nw_xfer_tioreq_get" name="ut_test_nw_xfer_tioreq_get">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="240,5,391,32"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="447,31,575,57"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="240,107,391,133"/>
+<area shape="rect" id="node5" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="232,157,399,184"/>
+<area shape="rect" id="node6" href="$de/df0/io__nw__xfer_8c.html#a65d27f4a75ac9060e9b361e5a92be248" title="nw_xfer_tioreq_get" alt="" coords="249,208,381,235"/>
+<area shape="rect" id="node7" href="$de/df0/io__nw__xfer_8c.html#a7239f5857ae3b348ce13740c30ae5f66" title="target_ioreq_fini" alt="" coords="258,259,373,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="264,309,367,336"/>
+<area shape="rect" id="node9" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="241,360,390,387"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="spiel__proc_is_to_update_stats" name="spiel__proc_is_to_update_stats">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="255,5,381,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga39251b65490e1ef465dddedf5335eb56" title="m0_confc_open_by_fid_sync" alt="" coords="223,107,413,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="461,95,537,121"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="466,171,533,197"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="233,208,403,235"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="247,259,389,285"/>
+<area shape="rect" id="node8" href="$db/dc2/conf_2helpers_8c.html#a435e9ce796909b9d277f2043a9d5538a" title="m0_conf_obj_ha_update" alt="" coords="237,309,399,336"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="254,360,382,387"/>
+<area shape="rect" id="node10" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="259,411,377,437"/>
+</map>

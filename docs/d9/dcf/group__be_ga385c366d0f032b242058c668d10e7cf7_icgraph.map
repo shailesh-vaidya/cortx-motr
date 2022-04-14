@@ -1,0 +1,8 @@
+<map id="m0_be_btree_destroy_credit" name="m0_be_btree_destroy_credit">
+<area shape="rect" id="node2" href="$dd/d2d/ut_2btree_8c.html#a3c8f55cbec46aa0a949571cd94280b4d" title="truncate_tree" alt="" coords="238,5,337,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#a269ec41ac7a516f743c54f137dd744ce" title="destroy_tree" alt="" coords="240,56,335,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="218,107,357,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#af03f92e1be37ecff8099bbdc6315c9e3" title="ctg_store_init_creds_calc" alt="" coords="202,157,373,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga834203d92a2f4b53253ebcf3deb339b1" title="m0_cob_domain_destroy" alt="" coords="204,208,371,235"/>
+<area shape="rect" id="node7" href="$da/d4e/db_8h.html#a6dc8adddbefae3d95b10363d4865ca20" title="m0_confdb_destroy_credit" alt="" coords="200,259,375,285"/>
+</map>

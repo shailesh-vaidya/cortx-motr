@@ -1,0 +1,12 @@
+<map id="m0_reqh_service_ctx_fini" name="m0_reqh_service_ctx_fini">
+<area shape="rect" id="node2" href="$da/ddc/group__reqhservice.html#ga1848e8f77b3d99c9a334e205b9db66d4" title="reqh_service_context\l_invariant" alt="" coords="239,5,386,47"/>
+<area shape="rect" id="node3" href="$d8/d46/reqh__service__internal_8h.html#aa830acb4b40c557ac0f5ab7bbe7c0c12" title="reqh_service_ctx_sm_lock" alt="" coords="224,71,401,98"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="268,122,357,149"/>
+<area shape="rect" id="node5" href="$d8/d46/reqh__service__internal_8h.html#aafb9880254f76e9b3077756e8622ae4a" title="reqh_service_ctx_sm\l_unlock" alt="" coords="239,173,386,215"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="249,290,377,317"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="453,265,552,291"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="449,341,556,367"/>
+<area shape="rect" id="node9" href="$d8/d46/reqh__service__internal_8h.html#a67442858f3fb92ab7ad809b5ad41b5c1" title="reqh_service_ctx_flag\l_is_set" alt="" coords="238,392,387,433"/>
+<area shape="rect" id="node10" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="255,458,371,485"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="268,509,357,535"/>
+</map>

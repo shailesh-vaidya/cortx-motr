@@ -1,0 +1,9 @@
+<map id="fdmi_service_start" name="fdmi_service_start">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a502557d09470ce8d9a8d31cfa643b65e" title="motr_mini_prov.start\l_service" alt="" coords="203,5,343,47"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#ga10b0fe66b2921001cec1da2f5e0530ff" title="m0_reqh_service_type_find" alt="" coords="183,71,364,98"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="199,122,348,149"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#gaf2fbb0b70ddfa715b155035529252536" title="m0_reqh_service_allocate" alt="" coords="187,173,360,199"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="412,223,479,250"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#ga88306fc48664fbe1496b46757cadc922" title="m0_reqh_service_init" alt="" coords="201,274,346,301"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#gaaa3ff5976658592e379be7c3b9fbd4b0" title="m0_reqh_service_start" alt="" coords="196,325,351,351"/>
+</map>

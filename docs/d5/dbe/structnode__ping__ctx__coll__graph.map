@@ -1,0 +1,11 @@
+<map id="node_ping_ctx" name="node_ping_ctx">
+<area shape="rect" id="node8" href="$de/d79/structbuf__state.html" title="{buf_state\n||}" alt="" coords="603,204,679,281"/>
+<area shape="rect" id="node11" href="$d5/d6f/structm0__net__test__nh.html" title="{m0_net_test_nh\n||}" alt="" coords="1003,204,1117,281"/>
+<area shape="rect" id="node3" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="13,5,123,83"/>
+<area shape="rect" id="node9" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="144,204,227,281"/>
+<area shape="rect" id="node5" href="$d9/d6d/structm0__net__test__ringbuf.html" title="{m0_net_test_ringbuf\n||}" alt="" coords="1310,204,1450,281"/>
+<area shape="rect" id="node12" href="$d3/df7/structnode__ping__client__ctx.html" title="{node_ping_client_ctx\n||}" alt="" coords="1141,204,1285,281"/>
+<area shape="rect" id="node7" href="$d3/d8f/structnode__ping__server__ctx.html" title="{node_ping_server_ctx\n||}" alt="" coords="704,204,853,281"/>
+<area shape="rect" id="node13" href="$d4/dbd/structm0__net__test__service.html" title="{m0_net_test_service\n||}" alt="" coords="1643,204,1786,281"/>
+<area shape="rect" id="node14" href="$de/d31/structm0__net__test__network__ctx.html" title="{m0_net_test_network_ctx\n||}" alt="" coords="1810,204,1982,281"/>
+</map>

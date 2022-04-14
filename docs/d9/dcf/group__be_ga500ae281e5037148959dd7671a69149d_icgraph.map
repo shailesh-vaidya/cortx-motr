@@ -1,0 +1,5 @@
+<map id="m0_be_tx_bulk_init" name="m0_be_tx_bulk_init">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a3c37cab61c843d618ec6fa9a314b5e20" title="balloc_groups_write" alt="" coords="198,5,335,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa687df1aa848da139154ebab1a29cc07" title="builder_thread" alt="" coords="215,56,318,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gadbb3957d16a7961799b34ff4e5dab6ac" title="be_ut_tx_bulk_test_run" alt="" coords="188,107,345,133"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="test_confdb" name="test_confdb">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7aba1d38f9be1991c965abbb0e5e3bf0" title="dec" alt="" coords="207,5,249,32"/>
+<area shape="rect" id="node3" href="$d1/dc0/group__crate__utils.html#gabb1188ce2b2c11467b2301f7eb93030e" title="check" alt="" coords="199,56,257,83"/>
+<area shape="rect" id="node4" href="$d1/d1c/ut_2db_8c.html#af068e608de605654700d10bd3b2c7ef3" title="profile_check" alt="" coords="179,157,277,184"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="385,208,509,235"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="406,259,489,285"/>
+<area shape="rect" id="node7" href="$d1/d1c/ut_2db_8c.html#a8c0d0e282699c42765d64fb1cdf98d1e" title="node_check" alt="" coords="182,208,274,235"/>
+<area shape="rect" id="node8" href="$d1/d1c/ut_2db_8c.html#a689c5fe1d82ff1c3a7100a0b4c6d9ff3" title="diskv_check" alt="" coords="181,259,275,285"/>
+<area shape="rect" id="node9" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="180,461,276,488"/>
+<area shape="rect" id="node10" href="$d0/dc4/group__conf__dfspec__preload.html#ga34d41b04f28f54ce9ef01deb6c2e06ea" title="m0_confstr_parse" alt="" coords="165,512,291,539"/>
+<area shape="rect" id="node11" href="$d0/dc4/group__conf__dfspec__preload.html#gab546b95a7656688b52ab24f92ec75661" title="m0_confx_free" alt="" coords="393,537,501,564"/>
+<area shape="rect" id="node12" href="$d1/d1c/ut_2db_8c.html#a8749d27709814b62dacbd144f1b02cc6" title="conf_ut_db_init" alt="" coords="173,613,283,640"/>
+<area shape="rect" id="node13" href="$d2/db5/db_8c.html#a53404cf59ef228efce91803a00ebdaf2" title="m0_confdb_create_credit" alt="" coords="144,664,312,691"/>
+<area shape="rect" id="node14" href="$d2/db5/db_8c.html#a6dc8adddbefae3d95b10363d4865ca20" title="m0_confdb_destroy_credit" alt="" coords="360,689,535,716"/>
+<area shape="rect" id="node15" href="$d1/d1c/ut_2db_8c.html#af35829c1fc6aeceb43f141efe9968c8f" title="conf_ut_be_tx_create" alt="" coords="155,765,301,792"/>
+<area shape="rect" id="node16" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="179,816,277,843"/>
+<area shape="rect" id="node17" href="$d2/db5/db_8c.html#a199b13fba8e6060810f67d443d902b6b" title="m0_confdb_create" alt="" coords="163,360,293,387"/>
+<area shape="rect" id="node18" href="$d2/db5/db_8c.html#a767a0f7a32e9d347620d1b0ce4f04a81" title="m0_confdb_destroy" alt="" coords="379,385,515,412"/>
+<area shape="rect" id="node19" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="177,867,279,893"/>
+<area shape="rect" id="node20" href="$d1/d1c/ut_2db_8c.html#a912a8fea0c0eb67f23f20e10d1553984" title="conf_ut_be_tx_fini" alt="" coords="164,917,292,944"/>
+<area shape="rect" id="node21" href="$d2/db5/db_8c.html#a9cab68bc26fe40a3f9c84f7a94a8cafa" title="m0_confdb_read" alt="" coords="169,968,287,995"/>
+<area shape="rect" id="node22" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="193,1019,263,1045"/>
+<area shape="rect" id="node23" href="$d2/db5/db_8c.html#ab75b41431a67696f438d7eeeafe0c71d" title="m0_confdb_fini" alt="" coords="173,1069,283,1096"/>
+<area shape="rect" id="node24" href="$d1/d1c/ut_2db_8c.html#a1bc787714a72205513089a670d4be27a" title="conf_ut_db_fini" alt="" coords="173,1120,283,1147"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cr_task_io_cleanup" name="cr_task_io_cleanup">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#gaa5ad5448b02afac84811bfe16f2abc56" title="m0_obj_fini" alt="" coords="207,5,295,32"/>
+<area shape="rect" id="node3" href="$dd/d85/crate__io_8c.html#a24ee6862d72b52a1a7f62d3a70accfda" title="cr_task_bufs_free" alt="" coords="188,56,315,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="217,107,286,133"/>
+</map>

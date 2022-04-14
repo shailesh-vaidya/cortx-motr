@@ -1,0 +1,5 @@
+<map id="spiel_device_command_send" name="spiel_device_command_send">
+<area shape="rect" id="node2" href="$d9/d50/group__spiel-api-fspec.html#gac704cd032299093348e1e9c86a12c920" title="m0_spiel_device_attach\l_state" alt="" coords="248,5,411,47"/>
+<area shape="rect" id="node3" href="$d9/d50/group__spiel-api-fspec.html#gaca88e60fdb68a98161974685478a5c7b" title="m0_spiel_device_detach" alt="" coords="247,71,412,98"/>
+<area shape="rect" id="node4" href="$d9/d50/group__spiel-api-fspec.html#ga6e88338ce5e786581ad20d677fe49db4" title="m0_spiel_device_format" alt="" coords="248,122,411,149"/>
+</map>

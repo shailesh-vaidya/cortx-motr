@@ -1,0 +1,14 @@
+<map id="stob_create_fom_tick" name="stob_create_fom_tick">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="221,5,336,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gab06dbc1d5e32465ccbd0653dff9b586b" title="m0_stob_create_credit" alt="" coords="201,56,356,83"/>
+<area shape="rect" id="node4" href="$dc/da4/group__stobio.html#ga828ea29fc56baddc156afe8d953dc0f6" title="reqh_ut_stob_domain_find" alt="" coords="405,208,580,235"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga5ce49298eda9038c8fce417d6d77a06b" title="m0_fom_tx_credit" alt="" coords="215,157,342,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga604374b8c983f14fbae8cd5be4791289" title="m0_fom_tick_generic" alt="" coords="205,208,352,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="230,259,327,285"/>
+<area shape="rect" id="node8" href="$dc/da4/group__stobio.html#gaefb6aa3e07ac412b49605bbc09d7c4f4" title="stob_object_find" alt="" coords="220,309,337,336"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gaf0b065ab6e4efa650e330134d4c3930f" title="m0_stob_create" alt="" coords="221,360,336,387"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="209,411,349,437"/>
+<area shape="rect" id="node11" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="200,461,357,488"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga0d4cf60def3ba4390460d35d68902cb7" title="m0_fom_rc" alt="" coords="235,512,322,539"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="230,563,327,589"/>
+</map>

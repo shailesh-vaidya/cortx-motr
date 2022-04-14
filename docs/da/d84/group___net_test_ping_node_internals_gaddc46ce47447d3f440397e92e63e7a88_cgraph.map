@@ -1,0 +1,7 @@
+<map id="node_ping_client_send" name="node_ping_client_send">
+<area shape="rect" id="node2" href="$d4/da0/group___net_test_node_helper_internals.html#gade03198a40b217dd0eccc23316df1c7a" title="m0_net_test_nh_transfer_next" alt="" coords="208,5,407,32"/>
+<area shape="rect" id="node3" href="$da/d84/group___net_test_ping_node_internals.html#ga1a6d87de08541cabc78256d3ad89c679" title="node_ping_timestamp_put" alt="" coords="220,56,395,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#gabc2f6382cc0dbc360acff822c9af6cbe" title="m0_time_add" alt="" coords="257,107,357,133"/>
+<area shape="rect" id="node5" href="$da/d84/group___net_test_ping_node_internals.html#ga9baf8cdea74ddd5bbf2eb7345e054ddd" title="node_ping_buf_enqueue" alt="" coords="226,157,389,184"/>
+<area shape="rect" id="node6" href="$da/d84/group___net_test_ping_node_internals.html#gae8c0f1a01e7b2fe669595d0f86a2d807" title="sd_update" alt="" coords="266,208,349,235"/>
+</map>

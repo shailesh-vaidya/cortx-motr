@@ -1,0 +1,8 @@
+<map id="balloc_fini_internal" name="balloc_fini_internal">
+<area shape="rect" id="node2" href="$de/d8f/group__balloc.html#ga45888c5ea0d950523736a8538b9d1cf2" title="m0_balloc_lock_group" alt="" coords="197,5,348,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#ga310d476b96f1dadd84c3f604712f52f8" title="m0_balloc_release_extents" alt="" coords="183,56,363,83"/>
+<area shape="rect" id="node4" href="$de/d8f/group__balloc.html#ga4eb6adc6482301f4c59a7eae692c8555" title="m0_balloc_unlock_group" alt="" coords="190,107,355,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a8daa39e1fb340395bfce3e5b6047f831" title="balloc_group_info_fini" alt="" coords="199,157,346,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga0a1cbdeb2c427b81f14ee94bfa955aed" title="m0_be_btree_fini" alt="" coords="212,208,333,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="411,233,500,260"/>
+</map>

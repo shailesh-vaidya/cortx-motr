@@ -1,0 +1,6 @@
+<map id="ping_tm_timedwait" name="ping_tm_timedwait">
+<area shape="rect" id="node2" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="187,5,323,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gacf59d500a3c9d8e44c753b64e221b6dd" title="m0_chan_timedwait" alt="" coords="186,56,325,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gac14378833476363fc5dce912b9481de1" title="m0_net_buffer_event\l_deliver_all" alt="" coords="184,107,327,149"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="202,173,309,200"/>
+</map>

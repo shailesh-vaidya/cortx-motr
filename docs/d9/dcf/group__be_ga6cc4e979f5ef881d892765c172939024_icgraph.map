@@ -1,0 +1,9 @@
+<map id="m0_be_log_reserve" name="m0_be_log_reserve">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gafa3458332af4d59a7dc1e38256b432a7" title="be_engine_got_tx_open" alt="" coords="188,5,347,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#abc36de81c01ebaa7daef6d6cb7fd1b79" title="be_ut_log_multi_thread" alt="" coords="189,56,345,83"/>
+<area shape="rect" id="node4" href="$d2/df0/be_2ut_2log_8c.html#a2f827c64579b6d7a2e8920f15a3a79f2" title="be_ut_log_record_init\l_write_one" alt="" coords="195,107,340,149"/>
+<area shape="rect" id="node5" href="$dd/d4c/be_2ut_2main_8c.html#aad5906366a9886eaafb6ee8f6d95f1e6" title="m0_be_ut_log_api" alt="" coords="204,173,331,200"/>
+<area shape="rect" id="node6" href="$dd/d4c/be_2ut_2main_8c.html#a09f9e77157a5a3748c61367537c94e1f" title="m0_be_ut_log_user" alt="" coords="200,224,335,251"/>
+<area shape="rect" id="node7" href="$d2/d39/ut_2recovery_8c.html#ad0bacf106c628c41c3124bafb9ddbe9c" title="be_ut_recovery_log_fill" alt="" coords="190,275,345,301"/>
+<area shape="rect" id="node8" href="$d9/d30/ut_2tx__group__format_8c.html#a24cd8044dc2e7b581579ab7ecfa7adb5" title="be_ut_tgf_group_write" alt="" coords="192,325,343,352"/>
+</map>

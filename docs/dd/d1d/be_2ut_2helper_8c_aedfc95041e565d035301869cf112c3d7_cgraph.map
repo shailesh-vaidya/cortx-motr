@@ -1,0 +1,8 @@
+<map id="m0_be_ut_backend_log_resize" name="m0_be_ut_backend_log_resize">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga7f8e448e3d39332c6a66df1fb639f6d4" title="m0_be_engine_got_log\l_space_cb" alt="" coords="222,5,377,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga2a94b0f0785cd8d928f8d2852d4c8bd7" title="m0_be_engine_full_log_cb" alt="" coords="212,71,387,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa26deb94ef5e8773bcbddb5c910bc527" title="be_domain_log_cleanup" alt="" coords="219,122,380,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3cf1b86d8418a191c42172e4241c380f" title="m0_be_log_create" alt="" coords="235,173,363,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga651d43ee5023acdbba7f032fcbb65a8c" title="m0_be_domain_log" alt="" coords="232,223,367,250"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga4448112de1d61641478271cac17893b4" title="m0_be_log_close" alt="" coords="238,274,361,301"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_stob_addr_open" name="m0_stob_addr_open">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gafc54a8843ef3dada5cd2dd4ba05d5dff" title="frame_io_open" alt="" coords="210,5,317,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gafa4422a273f55270cb66fecd67d875e0" title="be_io_size_unpack" alt="" coords="197,56,330,83"/>
+<area shape="rect" id="node4" href="$d8/dec/isc_8c.html#a3462c7756abec0167113429e561015e3" title="bufvec_open" alt="" coords="215,107,311,133"/>
+<area shape="rect" id="node5" href="$d3/d78/group__stoblinux.html#gadd721a55159fb4959a77f5d76b8df043" title="stob_linux_io_launch" alt="" coords="192,157,335,184"/>
+</map>

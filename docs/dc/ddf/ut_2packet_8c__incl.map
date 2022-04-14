@@ -1,0 +1,17 @@
+<map id="rpc/ut/packet.c" name="rpc/ut/packet.c">
+<area shape="rect" id="node2" href="$db/d65/vec_8h.html" title="lib/vec.h" alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="365,155,461,181"/>
+<area shape="rect" id="node4" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="320,229,407,256"/>
+<area shape="rect" id="node5" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="936,80,1015,107"/>
+<area shape="rect" id="node6" href="$d7/deb/arith_8h.html" title="lib/arith.h" alt="" coords="171,229,246,256"/>
+<area shape="rect" id="node7" href="$da/ddc/ut_8h.html" title="ut/ut.h" alt="" coords="1039,80,1098,107"/>
+<area shape="rect" id="node8" href="$de/dc8/motr_2init_8h.html" title="motr/init.h" alt="" coords="1122,80,1202,107"/>
+<area shape="rect" id="node9" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="1226,80,1325,107"/>
+<area shape="rect" id="node10" href="$d9/d51/fop_2fop_8h.html" title="fop/fop.h" alt="" coords="716,229,789,256"/>
+<area shape="rect" id="node11" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="267,155,340,181"/>
+<area shape="rect" id="node12" href="$dd/d7b/rpc__internal_8h.html" title="rpc/rpc_internal.h" alt="" coords="253,80,375,107"/>
+<area shape="rect" id="node13" href="$dd/d4b/rpc__opcodes_8h.html" title="rpc/rpc_opcodes.h" alt="" coords="823,229,952,256"/>
+<area shape="rect" id="node14" href="$d4/dc6/ping__fop_8h.html" title="rpc/it/ping_fop.h" alt="" coords="695,155,810,181"/>
+<area shape="rect" id="node17" href="$d0/d4b/ping__fom_8c.html" title="rpc/it/ping_fom.c" alt="" coords="451,80,569,107"/>
+<area shape="rect" id="node18" href="$d7/d3e/ping__fop_8c.html" title="rpc/it/ping_fop.c" alt="" coords="594,80,709,107"/>
+</map>

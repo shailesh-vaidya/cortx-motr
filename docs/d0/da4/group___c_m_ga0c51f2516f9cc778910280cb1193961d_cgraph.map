@@ -1,0 +1,10 @@
+<map id="m0_cm_setup" name="m0_cm_setup">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="183,5,259,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="173,56,269,83"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="332,157,459,184"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga545ba1b713b461d030b994c3d42f18f4" title="m0_cm_invariant" alt="" coords="160,157,281,184"/>
+<area shape="rect" id="node6" href="$d0/da4/group___c_m.html#gad131845932d5230a7798a92e2e5cbe3b" title="m0_cm_state_set" alt="" coords="157,208,284,235"/>
+<area shape="rect" id="node7" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="165,259,276,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="176,309,265,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="187,360,254,387"/>
+</map>

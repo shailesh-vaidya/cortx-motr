@@ -1,0 +1,8 @@
+<map id="m0_cob_bc_iterator_init" name="m0_cob_bc_iterator_init">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#gac9ff49cf02b063a7b5cabf8519ac5332" title="m0_cob_bckey_make" alt="" coords="221,5,370,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="425,31,500,57"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="262,107,329,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga8e2da095dce1934935e201c5267a0d5d" title="m0_cob_bcrec_size" alt="" coords="226,157,365,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="261,208,330,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="213,259,377,285"/>
+</map>

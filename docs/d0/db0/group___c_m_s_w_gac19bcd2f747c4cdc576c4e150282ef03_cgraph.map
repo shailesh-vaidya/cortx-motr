@@ -1,0 +1,11 @@
+<map id="m0_cm_sw_remote_update" name="m0_cm_sw_remote_update">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="299,5,347,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="465,208,591,235"/>
+<area shape="rect" id="node4" href="$d6/db9/group___c_m_a_g.html#ga06c578abe93d3b1ba438dae54d22788a" title="m0_cm_ag_in_interval" alt="" coords="247,157,399,184"/>
+<area shape="rect" id="node5" href="$d6/db9/group___c_m_a_g.html#ga4e4e586bbeaf9175a23bb25d121731bc" title="m0_cm_ag_id_copy" alt="" coords="459,107,597,133"/>
+<area shape="rect" id="node6" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="260,208,387,235"/>
+<area shape="rect" id="node7" href="$d6/db9/group___c_m_a_g.html#gaa091f7d062bbb5005e4f2bcb3e51a297" title="m0_cm_ag_out_interval" alt="" coords="243,107,403,133"/>
+<area shape="rect" id="node8" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga0628dbd95062f862076a0efe02418dbe" title="m0_cm_proxy_is_updated" alt="" coords="236,309,411,336"/>
+<area shape="rect" id="node9" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaf5d366e7ee605c9e1b4a5a1b45edb2c5" title="m0_cm_proxy_remote\l_update" alt="" coords="248,361,399,402"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="495,397,561,424"/>
+</map>

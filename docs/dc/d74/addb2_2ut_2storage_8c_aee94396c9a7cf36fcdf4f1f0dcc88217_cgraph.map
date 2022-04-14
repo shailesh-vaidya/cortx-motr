@@ -1,0 +1,6 @@
+<map id="io_thread" name="io_thread">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="143,5,292,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="183,56,252,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gad84119e420af0bea92d6a610321e7782" title="m0_addb2_storage_submit" alt="" coords="128,107,307,133"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="151,157,283,184"/>
+</map>

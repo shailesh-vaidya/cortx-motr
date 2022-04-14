@@ -1,0 +1,12 @@
+<map id="m0_net_test_cmd_ut_multiple2" name="m0_net_test_cmd_ut_multiple2">
+<area shape="rect" id="node2" href="$dc/daf/ut_2commands_8c.html#a209bed555304df3edfdc1636c7874079" title="barrier_init" alt="" coords="241,5,324,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="245,56,320,83"/>
+<area shape="rect" id="node4" href="$dc/daf/ut_2commands_8c.html#a1a1a2ececddabaddcd40c4a5262d6e39" title="make_addr" alt="" coords="239,107,326,133"/>
+<area shape="rect" id="node5" href="$dc/daf/ut_2commands_8c.html#a2e2bdd7c6542939c18df405e0b588b01" title="commands_node_thread2" alt="" coords="197,157,368,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="456,183,525,209"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="416,284,565,311"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="217,309,349,336"/>
+<area shape="rect" id="node9" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="227,360,338,387"/>
+<area shape="rect" id="node10" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="229,411,336,437"/>
+<area shape="rect" id="node11" href="$dc/daf/ut_2commands_8c.html#aa25cdab05faa8c2f53aa45e3ab636a4d" title="barrier_fini" alt="" coords="241,461,324,488"/>
+</map>

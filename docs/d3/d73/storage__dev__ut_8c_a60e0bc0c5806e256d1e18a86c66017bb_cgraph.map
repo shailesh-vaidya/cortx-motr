@@ -1,0 +1,21 @@
+<map id="storage_dev_test" name="storage_dev_test">
+<area shape="rect" id="node2" href="$d3/d73/storage__dev__ut_8c.html#acda9fbd7e2074b4d509ffd76a96b3c58" title="rpc_start" alt="" coords="226,5,299,32"/>
+<area shape="rect" id="node3" href="$d3/d73/storage__dev__ut_8c.html#a8f24b20a513bc169b315596333275daa" title="create_test_file" alt="" coords="207,56,318,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga26937c391b991302136055a890b64f7f" title="m0_pid" alt="" coords="231,107,295,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga82c41c2e3dc93422e65cd2ddeda393f1" title="m0_stob_domain_find\l_by_location" alt="" coords="188,158,337,199"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga91968722d289dbcebea6a9323c179d26" title="m0_storage_devs_init" alt="" coords="188,224,337,251"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="185,275,341,301"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#gaac336122037930c1d78fa9e1029952b4" title="m0_storage_dev_new" alt="" coords="188,325,337,352"/>
+<area shape="rect" id="node9" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="182,376,343,403"/>
+<area shape="rect" id="node10" href="$d0/dfe/group__sdev.html#gae93d0a93b96e46a2db4b99e2da5e9051" title="m0_storage_devs_find\l_by_cid" alt="" coords="397,394,551,435"/>
+<area shape="rect" id="node11" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="213,477,312,504"/>
+<area shape="rect" id="node12" href="$d0/dfe/group__sdev.html#ga7d5a0cbc8671ee327895566c213b633f" title="m0_storage_dev_new\l_by_conf" alt="" coords="188,529,337,570"/>
+<area shape="rect" id="node13" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="211,595,314,621"/>
+<area shape="rect" id="node14" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="195,645,330,672"/>
+<area shape="rect" id="node15" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="176,696,349,723"/>
+<area shape="rect" id="node16" href="$d0/dfe/group__sdev.html#gac7fc7c325810b256681aea457940d725" title="m0_storage_dev_space" alt="" coords="183,747,343,773"/>
+<area shape="rect" id="node17" href="$d0/dfe/group__sdev.html#ga16292f777727b670abb7fc587ee967d0" title="m0_storage_dev_detach" alt="" coords="181,797,345,824"/>
+<area shape="rect" id="node18" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="177,848,348,875"/>
+<area shape="rect" id="node19" href="$d0/dfe/group__sdev.html#ga32d53dc7c596e27d38bf03382600cc73" title="m0_storage_devs_fini" alt="" coords="188,899,337,925"/>
+<area shape="rect" id="node20" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="193,949,333,976"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="verify_max_processors" name="verify_max_processors">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga8c33f37769f2ad3fb0140594feb5be84" title="m0_processors_init" alt="" coords="221,5,355,32"/>
+<area shape="rect" id="node3" href="$d1/d5e/ut_2processor_8c.html#aeec1c014c6f2b9146f6af35665fff5f6" title="get_num_from_file" alt="" coords="223,56,353,83"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#gab53991d09969970bb10218a072d1cd6b" title="m0_processor_nr_max" alt="" coords="211,107,365,133"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga3a235bc41dd368af53d7a2148a3d6ef0" title="m0_processors_fini" alt="" coords="221,157,355,184"/>
+</map>

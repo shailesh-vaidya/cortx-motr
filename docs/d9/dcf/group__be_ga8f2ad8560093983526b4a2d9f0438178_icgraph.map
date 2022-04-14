@@ -1,0 +1,10 @@
+<map id="m0_be_seg_dict_lookup" name="m0_be_seg_dict_lookup">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga3ff73d3e6559c53eef6a0d8d39153a75" title="m0_be_0type_del" alt="" coords="241,5,365,32"/>
+<area shape="rect" id="node3" href="$db/d92/ut_2seg__dict_8c.html#afb7e2c0ab1185a02ca9e9c61be8ee834" title="m0_be_ut_seg_dict" alt="" coords="236,56,371,83"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga928178a243e4997ae317baf217352973" title="m0_ctg_store_init" alt="" coords="241,107,366,133"/>
+<area shape="rect" id="node5" href="$d4/d02/group___c_m_a_g_s_t_o_r_e_f_o_m.html#gae280432cbfca3e83727ce027e2e5e700" title="ag_store_init_load" alt="" coords="240,157,367,184"/>
+<area shape="rect" id="node6" href="$d2/db5/db_8c.html#abcb915319c737993c7bca266d88b0a8d" title="confdb_table_fini" alt="" coords="243,208,363,235"/>
+<area shape="rect" id="node7" href="$da/d4e/db_8h.html#a6dc8adddbefae3d95b10363d4865ca20" title="m0_confdb_destroy_credit" alt="" coords="216,259,391,285"/>
+<area shape="rect" id="node8" href="$da/d4e/db_8h.html#a767a0f7a32e9d347620d1b0ce4f04a81" title="m0_confdb_destroy" alt="" coords="235,309,371,336"/>
+<area shape="rect" id="node9" href="$da/d4e/db_8h.html#a9cab68bc26fe40a3f9c84f7a94a8cafa" title="m0_confdb_read" alt="" coords="244,360,363,387"/>
+</map>

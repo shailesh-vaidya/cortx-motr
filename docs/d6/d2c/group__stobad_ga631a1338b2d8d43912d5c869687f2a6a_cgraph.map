@@ -1,0 +1,8 @@
+<map id="stob_ad_endio" name="stob_ad_endio">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="181,5,309,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gab57a25cceacab190b43894c14a7cec24" title="m0_stob_fid_get" alt="" coords="186,56,305,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga1011dd8f416435c5a5d0f0f7f98d754d" title="m0_time_sub" alt="" coords="195,107,295,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="194,157,297,184"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga1e23c091f2d53c717f850e7f8f15a8d9" title="stob_ad_io_release" alt="" coords="178,208,313,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="160,259,331,285"/>
+</map>

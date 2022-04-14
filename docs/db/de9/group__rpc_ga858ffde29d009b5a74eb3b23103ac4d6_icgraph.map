@@ -1,0 +1,8 @@
+<map id="m0_rpc_bulk_load" name="m0_rpc_bulk_load">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#gabac161dacbcd3406e94a1aae420bd089" title="m0_sns_cm_cp_recv_init" alt="" coords="180,5,351,32"/>
+<area shape="rect" id="node3" href="$d4/d8c/group__conf__foms.html#ga1978e19c477ba1405bb005c201982f81" title="conf_zero_copy_initiate" alt="" coords="186,56,345,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="202,107,329,133"/>
+<area shape="rect" id="node5" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="212,157,319,184"/>
+<area shape="rect" id="node6" href="$d7/df1/group__rpc-at.html#ga6c47168d8f6a226dd92d20685bd5780a" title="rpc_at_bulk_srecv" alt="" coords="201,208,329,235"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#ga81da0e94c1de2e587b05f7fa2acda212" title="rpc_at_bulk_ssend" alt="" coords="200,259,331,285"/>
+</map>

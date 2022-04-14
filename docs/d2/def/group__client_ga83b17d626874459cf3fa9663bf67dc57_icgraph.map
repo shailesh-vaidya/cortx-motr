@@ -1,0 +1,11 @@
+<map id="m0_entity_open" name="m0_entity_open">
+<area shape="rect" id="node2" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#abb68272e41808be593338f6dcbf921cf" title="open_entity" alt="" coords="201,5,290,32"/>
+<area shape="rect" id="node3" href="$d8/de7/motr_2st_2obj_8c.html#ab97a203761e8269c486aaed2f9cb0d7a" title="obj_open_non_existent" alt="" coords="168,56,323,83"/>
+<area shape="rect" id="node4" href="$de/d4b/example1_8c.html#a828e4bf937893e7b99de11dd1302fa93" title="object_open" alt="" coords="199,107,291,133"/>
+<area shape="rect" id="node5" href="$d3/d36/example2_8c.html#a9a0af41ebcc887a71f4576e78c1cd0ca" title="index_delete" alt="" coords="198,157,293,184"/>
+<area shape="rect" id="node6" href="$d6/d4a/ut_2idx__dix_8c.html#aae2ec48441142297e6662f757fcf9296" title="ut_dix_namei_ops" alt="" coords="182,208,309,235"/>
+<area shape="rect" id="node7" href="$dd/d85/crate__io_8c.html#a9f8568d59b40fc2556ff87178605dd62" title="cr_namei_open" alt="" coords="190,259,301,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga0594beb44c5a6867384c0616f4334323" title="index_drop" alt="" coords="203,309,288,336"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="192,360,299,387"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga6135a5854786f84d1112a83c2570262b" title="st_idx_open" alt="" coords="199,411,291,437"/>
+</map>

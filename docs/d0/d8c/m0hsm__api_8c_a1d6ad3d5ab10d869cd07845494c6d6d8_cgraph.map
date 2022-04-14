@@ -1,0 +1,13 @@
+<map id="create_obj_with_layout" name="create_obj_with_layout">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="235,5,323,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="210,56,347,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#gaf234ce1781cd780ff66c6a9120fad5ac" title="m0_entity_create" alt="" coords="217,107,340,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#gacb5663f4ab85c03862a9256b5cfa3638" title="m0_client_layout_op" alt="" coords="208,157,349,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="233,208,324,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="225,259,332,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="233,309,325,336"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="211,360,347,387"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#gae85670fb0d8874eda3ae11c8b36ae057" title="m0_rc" alt="" coords="249,411,308,437"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="236,461,321,488"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="227,512,330,539"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="nlx_xo_tm_fini" name="nlx_xo_tm_fini">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="160,5,305,32"/>
+<area shape="rect" id="node3" href="$d5/dfa/lnet__xo_8c.html#gaa6e85aee1e5a5cb6b06ec6f011bca497" title="nlx_tm_invariant" alt="" coords="174,56,291,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="177,107,288,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="177,157,288,184"/>
+<area shape="rect" id="node6" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="183,208,282,235"/>
+</map>

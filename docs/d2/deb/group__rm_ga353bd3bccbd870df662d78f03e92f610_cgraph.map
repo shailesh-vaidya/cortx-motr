@@ -1,0 +1,8 @@
+<map id="ha_events_handle" name="ha_events_handle">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="210,5,325,32"/>
+<area shape="rect" id="node3" href="$d1/d84/group__queue.html#ga15016e0f58da6180ce23e8319834e6ff" title="m0_queue_get" alt="" coords="214,56,321,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="203,107,331,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gaea280d7e0fb92b01305b6ff986dca433" title="rm_remote_online_handler" alt="" coords="180,157,355,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga85d3cb36f0421ef267794c835b5399ca" title="rm_remote_death_handler" alt="" coords="181,208,353,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="233,259,302,285"/>
+</map>

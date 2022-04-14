@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#ga9e71dbb83acce00e06f5a15b916604b3" title="m0_instance_setup" alt="" coords="104,5,239,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="115,56,228,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga76f3b3c69a5b438dd0442695257fd861" title="st_init" alt="" coords="143,107,200,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#gae6a6b5ae03c3a31e72be47f45f68ab99" title="st_add_suites" alt="" coords="120,157,223,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/st__main_8c.html#a4d0ea231019e0babd8fe03aef57d4429" title="st_get_opts" alt="" coords="126,208,217,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/st__main_8c.html#aed68d76674461d9cadba400c9c5ec592" title="st_init_instance" alt="" coords="115,259,228,285"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga006cbba91fe349982c8deb3a564938ef" title="st_set_nr_workers" alt="" coords="107,309,236,336"/>
+<area shape="rect" id="node9" href="$d3/de4/st__assert_8c.html#a50b9af4e1aab6a56b161583bab144ce6" title="st_cleaner_init" alt="" coords="118,360,225,387"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga842be27a960b1b3e92011528aa7ce9dc" title="st_start_workers" alt="" coords="112,411,231,437"/>
+<area shape="rect" id="node11" href="$d3/d8e/st__main_8c.html#a76af4066afc421233d7254ee46a1eda0" title="st_wait_workers" alt="" coords="113,461,230,488"/>
+<area shape="rect" id="node12" href="$d3/de4/st__assert_8c.html#a7cc50815fa70c57c5d568e88d34c2f14" title="st_cleaner_fini" alt="" coords="118,512,225,539"/>
+<area shape="rect" id="node13" href="$d3/d8e/st__main_8c.html#aea1adced490f6562ebc84f29f97cb0e2" title="st_fini_instance" alt="" coords="115,563,228,589"/>
+<area shape="rect" id="node14" href="$df/df7/group___client.html#ga834d7236ded360156d93c1d83e37ec24" title="st_fini" alt="" coords="143,613,200,640"/>
+</map>

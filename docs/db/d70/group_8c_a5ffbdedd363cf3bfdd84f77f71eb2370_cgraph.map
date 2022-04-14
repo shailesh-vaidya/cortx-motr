@@ -1,0 +1,8 @@
+<map id="rm_server_start" name="rm_server_start">
+<area shape="rect" id="node2" href="$d5/d68/rings_8c.html#a4af5db4b243ac98dbeb119efa46ee94c" title="rings_utdata_ops_set" alt="" coords="167,5,313,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#a7d6ca528fc6faef109c0adfa62af173d" title="rm_ctx_server_start" alt="" coords="171,56,309,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="174,107,306,133"/>
+<area shape="rect" id="node5" href="$db/d70/group_8c.html#a131c6cf36bdb31252e2a44620f05a825" title="server1_tests" alt="" coords="189,157,291,184"/>
+<area shape="rect" id="node6" href="$db/d70/group_8c.html#aaf57db677aec2f854e1102d51781577b" title="server2_tests" alt="" coords="189,208,291,235"/>
+<area shape="rect" id="node7" href="$db/d70/group_8c.html#ae7e8d491836b996b5e99f2481927e90b" title="server3_tests" alt="" coords="189,259,291,285"/>
+</map>

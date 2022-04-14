@@ -1,0 +1,9 @@
+<map id="m0_sns_cm_unit_is_spare" name="m0_sns_cm_unit_is_spare">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="247,5,396,47"/>
+<area shape="rect" id="node3" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#aad98c4dc4ac8936d8f79334136881f2f" title="repair_ag_in_cp_units" alt="" coords="247,71,395,98"/>
+<area shape="rect" id="node4" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a4ef7eff6585b59d69f49250439f435fc" title="repair_ag_is_relevant" alt="" coords="249,122,394,149"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#gaf9ee29688a8917adecea8895762b408b" title="unit_to_cobfid" alt="" coords="270,173,373,199"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#gad5ef68cc247953b6e69a44f39261f6c2" title="__group_skip" alt="" coords="272,223,371,250"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#gaaa7e274c441e1064e221609e3b472d17" title="m0_sns_cm_ag_nr_local\l_units" alt="" coords="238,275,405,316"/>
+<area shape="rect" id="node8" href="$d7/daf/group___s_n_s_c_m.html#ga313ada0b4ad98bcc9df959028203fd1a" title="m0_sns_cm_ag_unrepaired\l_units" alt="" coords="231,340,412,381"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="nlx_xo_core_bev_to_net_bev" name="nlx_xo_core_bev_to_net_bev">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="203,5,348,32"/>
+<area shape="rect" id="node3" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaa6e85aee1e5a5cb6b06ec6f011bca497" title="nlx_tm_invariant" alt="" coords="217,56,334,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gade3c99118f605e1975055c935cf806d6" title="m0_net__buffer_invariant" alt="" coords="192,107,359,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#gabc2f6382cc0dbc360acff822c9af6cbe" title="m0_time_add" alt="" coords="225,157,325,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga9373c9653fb9ddd896b72b8ded9bdaa8" title="m0_net__buffer_event\l_invariant" alt="" coords="200,209,351,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="242,275,309,301"/>
+</map>

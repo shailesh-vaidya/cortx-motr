@@ -1,0 +1,7 @@
+<map id="btree_node_update" name="btree_node_update">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gad4cb810a429472a61af990cb48c9a878" title="be_btree_split_child" alt="" coords="208,5,345,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga665cc99dda5f1e48cf6a5e1ac890057e" title="be_btree_insert_into\l_nonfull" alt="" coords="416,23,555,65"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga3c5eb788b82b6e72077b23d24d2d07ef" title="be_btree_merge_siblings" alt="" coords="193,107,360,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga90a44f5dc6c5b44e099252d9047e298d" title="be_btree_move_parent_key" alt="" coords="185,157,368,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga4f2cef82a89f18f151fcbd4ca8a8a554" title="be_btree_delete_key\l_from_node" alt="" coords="205,209,348,250"/>
+</map>

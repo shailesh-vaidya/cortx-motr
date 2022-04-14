@@ -1,0 +1,8 @@
+<map id="be_tx_is_locked" name="be_tx_is_locked">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gacfcc8125c47ad5d88b83d1a36711f767" title="m0_be_tx_get" alt="" coords="189,5,293,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga9e056c8be3495545fa76d9b7612646a3" title="m0_be_tx_put" alt="" coords="189,56,293,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga931910ccafee7e6f0d1f3c0c1fc59877" title="be_tx_state_move" alt="" coords="360,81,489,108"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga5188480ca425b53ad37b7845ecc339b7" title="m0_be_tx_timedwait" alt="" coords="169,157,312,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga692515e3d6e118368d33fdae4b0ee73e" title="m0_be_tx_fol_add" alt="" coords="177,208,305,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga174f219c25061b07e098c97ad43610bf" title="m0_be_tx_force" alt="" coords="183,259,298,285"/>
+</map>

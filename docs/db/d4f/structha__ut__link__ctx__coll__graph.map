@@ -1,0 +1,6 @@
+<map id="ha_ut_link_ctx" name="ha_ut_link_ctx">
+<area shape="rect" id="node2" href="$de/d38/structm0__ha__link__cfg.html" title="{m0_ha_link_cfg\n||}" alt="" coords="5,5,119,83"/>
+<area shape="rect" id="node4" href="$da/d7e/structm0__ha__link.html" title="{m0_ha_link\n|+ hln_fom_enable_wakeup\l+ hln_replied\l+ hln_released\l+ hln_reconnect_cfg_is_set\l+ hln_quiesced\l+ hln_service_quiescing\l|}" alt="" coords="280,160,463,311"/>
+<area shape="rect" id="node3" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="143,5,218,83"/>
+<area shape="rect" id="node5" href="$da/d97/structm0__ha__link__conn__cfg.html" title="{m0_ha_link_conn_cfg\n||}" alt="" coords="393,5,541,83"/>
+</map>

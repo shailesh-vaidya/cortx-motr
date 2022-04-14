@@ -1,0 +1,5 @@
+<map id="mover_op" name="mover_op">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gaa05d2431e69de06adf149afa0903de7b" title="sock_in" alt="" coords="143,5,209,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gafe6b9b0c71898374d7d07b83666fae36" title="sock_out" alt="" coords="139,56,213,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gaae7a60c600aecff6e08ebb32cf387475" title="sock_close" alt="" coords="132,107,220,133"/>
+</map>

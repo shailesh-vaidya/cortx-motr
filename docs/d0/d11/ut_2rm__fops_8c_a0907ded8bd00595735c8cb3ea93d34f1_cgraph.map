@@ -1,0 +1,7 @@
+<map id="borrow_fop_funcs_test" name="borrow_fop_funcs_test">
+<area shape="rect" id="node2" href="$d5/d68/rings_8c.html#a4af5db4b243ac98dbeb119efa46ee94c" title="rings_utdata_ops_set" alt="" coords="232,5,379,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#afe2108c6bbb5fa1e4b00cedc7c9e882e" title="rm_utdata_init" alt="" coords="253,80,357,107"/>
+<area shape="rect" id="node4" href="$d0/d11/ut_2rm__fops_8c.html#a731deebb7b59635091ca8b97ca4d2b70" title="borrow_request_test" alt="" coords="235,131,375,157"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#a32044969a8396fe5905a47687b40d787" title="borrow_reply_test" alt="" coords="243,181,368,208"/>
+<area shape="rect" id="node6" href="$de/de1/rmut_8c.html#a26c23a913990165333fe9405a7fe8bf4" title="rm_utdata_owner_windup_fini" alt="" coords="208,232,403,259"/>
+</map>

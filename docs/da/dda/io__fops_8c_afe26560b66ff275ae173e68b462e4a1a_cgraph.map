@@ -1,0 +1,15 @@
+<map id="io_fop_di_prepare" name="io_fop_di_prepare">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="392,303,459,330"/>
+<area shape="rect" id="node3" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="195,50,327,76"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="188,100,333,127"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="221,151,300,178"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#a6b00db9928991709ae1a975f52f5cd24" title="m0_client_fop_to_file" alt="" coords="188,202,333,228"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abbd6a7f4935c2a48599902fcdf561565" title="m0_fop_to_file" alt="" coords="207,252,314,279"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga9d3952ccb48e9c0c4afa010795040b29" title="m0_indexvec_wire2mem" alt="" coords="177,303,344,330"/>
+<area shape="rect" id="node9" href="$d0/d5e/group__data__integrity.html#gae1005e036d69a2a542090b72dc8fceaf" title="m0_di_size_get" alt="" coords="204,354,317,380"/>
+<area shape="rect" id="node10" href="$d0/d7f/group__vec.html#ga436467c6ef1eec3f085d814856e10f6f" title="m0_io_count" alt="" coords="213,404,309,431"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="223,455,298,482"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="207,506,314,532"/>
+<area shape="rect" id="node13" href="$d0/d7f/group__vec.html#ga8b9b755c21ca7d185645869d228f1e77" title="m0_indexvec_split" alt="" coords="195,556,326,583"/>
+<area shape="rect" id="node14" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="197,607,325,634"/>
+</map>

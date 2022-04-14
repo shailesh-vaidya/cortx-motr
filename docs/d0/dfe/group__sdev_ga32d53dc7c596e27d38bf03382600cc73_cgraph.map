@@ -1,0 +1,9 @@
+<map id="m0_storage_devs_fini" name="m0_storage_devs_fini">
+<area shape="rect" id="node2" href="$d4/d67/group__thread__pool.html#gabdc66c2f91c4467e90e7a90c058a9c27" title="m0_parallel_pool_terminate_wait" alt="" coords="203,5,413,32"/>
+<area shape="rect" id="node3" href="$d4/d67/group__thread__pool.html#gaa8b0d057d8492bad943f17a656c83678" title="m0_parallel_pool_fini" alt="" coords="237,56,379,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga8900b27581d613004d22da2d62fdd02a" title="m0_clink_cleanup" alt="" coords="245,107,371,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="259,157,357,184"/>
+<area shape="rect" id="node6" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="261,208,355,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="255,259,361,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="263,309,353,336"/>
+</map>

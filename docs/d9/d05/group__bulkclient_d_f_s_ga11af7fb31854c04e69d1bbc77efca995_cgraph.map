@@ -1,0 +1,6 @@
+<map id="m0_rpc_bulk_init" name="m0_rpc_bulk_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="202,5,309,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="206,56,305,83"/>
+<area shape="rect" id="node4" href="$df/dca/lib_2misc_8c.html#a0fecf3ca8cbf0000c35d5b3d70d640dd" title="m0_dummy_id_generate" alt="" coords="173,107,337,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="211,157,300,184"/>
+</map>

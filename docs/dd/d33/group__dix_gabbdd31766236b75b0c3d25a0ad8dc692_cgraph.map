@@ -1,0 +1,8 @@
+<map id="m0_dix_meta_req_init" name="m0_dix_meta_req_init">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga49bf3834ca7288c18651a5e628d7c1a8" title="m0_dix_mreq_init" alt="" coords="217,5,341,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="225,56,332,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="229,107,328,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="229,157,328,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga1f8516f24af43c722ba1b81229a20c3b" title="dix_meta_op_done_cb" alt="" coords="203,208,355,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="234,259,323,285"/>
+</map>

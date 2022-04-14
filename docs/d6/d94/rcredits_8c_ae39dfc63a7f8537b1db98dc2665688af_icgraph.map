@@ -1,0 +1,7 @@
+<map id="credit_get_and_hold" name="credit_get_and_hold">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a0b72820542f8e54e930d8511b3fb6aae" title="credit_get_and_cache" alt="" coords="197,5,346,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#a2d9ceaea822ef317893aa33fddc9db38" title="borrow_and_hold" alt="" coords="211,56,331,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#ab72a0910765911085a70c74e1b11cdce" title="test_starvation" alt="" coords="399,81,507,108"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a872f038c77df5fe845de10278702f40b" title="test_barrier_overcome" alt="" coords="196,157,347,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#a88120a01d5607c07814748a2fd47ef21" title="test_barrier_same_time" alt="" coords="192,208,351,235"/>
+</map>

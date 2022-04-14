@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d9/d54/group__init.html#ga2cf31aef5d867c9769e7fef5e1d71206" title="m0_init" alt="" coords="113,5,177,32"/>
+<area shape="rect" id="node3" href="$d8/dd5/rpc__ping_8c.html#ae67aac42ef31467a0ed32ac0b7617303" title="run_server" alt="" coords="104,56,187,83"/>
+<area shape="rect" id="node4" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="235,81,299,108"/>
+<area shape="rect" id="node5" href="$d8/dd5/rpc__ping_8c.html#a76937d1f5c8b9b130a5001be78e54000" title="run_client" alt="" coords="106,157,185,184"/>
+</map>

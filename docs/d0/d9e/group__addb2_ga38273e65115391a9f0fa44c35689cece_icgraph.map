@@ -1,0 +1,5 @@
+<map id="m0_addb2_sys_stor_stop" name="m0_addb2_sys_stor_stop">
+<area shape="rect" id="node2" href="$d5/d8c/group__reqh.html#ga114bf6bdeff41cef2db128c50959c909" title="m0_reqh_addb2_init" alt="" coords="224,5,363,32"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#gab8a0f9780aec6a5d7564951767269ce1" title="m0_reqh_addb2_fini" alt="" coords="224,56,363,83"/>
+<area shape="rect" id="node4" href="$dc/da6/group__kem__client.html#ga6bb081738d26e5c35420e21d9a766812" title="kem_addb2_fini" alt="" coords="237,107,350,133"/>
+</map>

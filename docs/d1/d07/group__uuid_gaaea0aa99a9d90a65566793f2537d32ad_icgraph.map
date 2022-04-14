@@ -1,0 +1,12 @@
+<map id="m0_uuid_generate" name="m0_uuid_generate">
+<area shape="rect" id="node2" href="$d1/d2c/motr_2ut_2io_8c.html#a51c463cd649354b90baac44a98cf7ece" title="ut_enable_resource\l_manager" alt="" coords="197,5,332,47"/>
+<area shape="rect" id="node3" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#ab8183e40fdbdc866217396a5cca3d25e" title="inst_service_start" alt="" coords="202,71,327,98"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga372cd0071d1117455940811ccdbe33cb" title="dix_service_start" alt="" coords="204,122,325,149"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga66fb0fa971ce7e90bf09d5d6bc468eaf" title="m0_fid_tgenerate" alt="" coords="203,173,326,199"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga7f5e39df92755cb753643defc45fbe92" title="m0_ha_cookie_record" alt="" coords="190,223,339,250"/>
+<area shape="rect" id="node7" href="$db/d2d/ut_2uuid_8c.html#a8112e585fb786cc7b853fc99e84e595f" title="m0_test_lib_uuid" alt="" coords="205,274,325,301"/>
+<area shape="rect" id="node8" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a49c6b48c6b173f56f8c70bd06a75a332" title="m0t1fs_rm_service_start" alt="" coords="181,325,348,351"/>
+<area shape="rect" id="node9" href="$de/de2/client__init_8c.html#afc099ecfa529c2a86af9031f1b841acb" title="initlift_resource_manager" alt="" coords="181,375,348,402"/>
+<area shape="rect" id="node10" href="$df/dca/group__m0d.html#gac4702b15488d28025fab8803d5dbef86" title="process_fid_generate\l_conditional" alt="" coords="191,427,338,468"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga83163fc09d5543c85cd1c1a2a1d9670f" title="m0_rpc_conn_init" alt="" coords="203,493,327,519"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_reqh_service_ctx" name="m0_reqh_service_ctx">
+<area shape="rect" id="node2" href="$d8/d0d/structm0__reqh__service__txid.html" title="{m0_reqh_service_txid\n||}" alt="" coords="243,933,392,1011"/>
+<area shape="rect" id="node14" href="$d5/d33/structm0__pools__common.html" title="{m0_pools_common\n||}" alt="" coords="917,933,1051,1011"/>
+<area shape="rect" id="node5" href="$d8/d51/structm0__rpc__link.html" title="{m0_rpc_link\n||}" alt="" coords="1267,315,1359,392"/>
+<area shape="rect" id="node7" href="$df/da6/structm0__conf__obj.html" title="{m0_conf_obj\n||}" alt="" coords="781,315,877,392"/>
+<area shape="rect" id="node8" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="940,160,1001,237"/>
+<area shape="rect" id="node9" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="416,160,491,237"/>
+<area shape="rect" id="node12" href="$db/d49/structm0__sm.html" title="{m0_sm\n||}" alt="" coords="602,469,667,547"/>
+<area shape="rect" id="node4" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="302,5,373,83"/>
+<area shape="rect" id="node6" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="1139,160,1221,237"/>
+<area shape="rect" id="node10" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="653,315,757,392"/>
+<area shape="rect" id="node11" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="724,639,815,716"/>
+</map>

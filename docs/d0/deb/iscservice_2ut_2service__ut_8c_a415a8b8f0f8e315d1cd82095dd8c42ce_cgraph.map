@@ -1,0 +1,6 @@
+<map id="barrier" name="barrier">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="124,5,239,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="121,56,242,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="112,107,251,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="117,157,245,184"/>
+</map>

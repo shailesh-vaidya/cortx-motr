@@ -1,0 +1,15 @@
+<map id="rm_borrow_ast" name="rm_borrow_ast">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="169,5,315,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="177,56,307,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="193,107,291,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="172,157,312,184"/>
+<area shape="rect" id="node6" href="$da/dd3/group__cookie.html#ga081dda4933eac35f2b914bba42915a0c" title="m0_cookie_is_null" alt="" coords="177,208,307,235"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="197,259,287,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gaf3f28998fc08d06390489ffb18954502" title="m0_rm_credit_decode" alt="" coords="167,309,317,336"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga9ee46e740b261e5665ec5a9b1c6e6a03" title="m0_rm_credit_dup" alt="" coords="177,360,307,387"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gaa492ac7c46e5d6a2b269c42f99e5f3a0" title="m0_rm_loan_alloc" alt="" coords="179,411,305,437"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga1209e29a068f17fa4c1d2f3f600d7c43" title="granted_maybe_reserve" alt="" coords="161,461,323,488"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,512,277,539"/>
+<area shape="rect" id="node13" href="$d7/db2/rm__fops_8c.html#a24b77878582a46d8400cb4637dca8822" title="outreq_fini" alt="" coords="201,563,283,589"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="197,613,287,640"/>
+</map>

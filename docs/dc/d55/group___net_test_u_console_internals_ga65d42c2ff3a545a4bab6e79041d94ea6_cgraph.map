@@ -1,0 +1,5 @@
+<map id="print_stats" name="print_stats">
+<area shape="rect" id="node2" href="$d5/dc5/group___net_test_u_common_internals.html#ga975f09153b1f8a41c8048e0d84acc62e" title="m0_net_test_u_printf_v" alt="" coords="145,5,303,32"/>
+<area shape="rect" id="node3" href="$d4/d3b/group___net_test_stats_internals.html#gacd8161d3a9d30686ff6c3c2c6a501213" title="m0_net_test_stats_avg" alt="" coords="360,81,519,108"/>
+<area shape="rect" id="node4" href="$d4/d3b/group___net_test_stats_internals.html#ga77b02ec85e9bb9f70a23e7e92a9193b4" title="m0_net_test_stats_stddev" alt="" coords="136,107,312,133"/>
+</map>

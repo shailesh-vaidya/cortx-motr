@@ -1,0 +1,17 @@
+<map id="addb2/net.c" name="addb2/net.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="55,80,133,107"/>
+<area shape="rect" id="node3" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="303,304,386,331"/>
+<area shape="rect" id="node4" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="197,229,271,256"/>
+<area shape="rect" id="node5" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="87,155,186,181"/>
+<area shape="rect" id="node6" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="347,229,417,256"/>
+<area shape="rect" id="node7" href="$d0/df8/mutex_8h.html" title="lib/mutex.h" alt="" coords="492,229,579,256"/>
+<area shape="rect" id="node8" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="629,229,725,256"/>
+<area shape="rect" id="node9" href="$d9/d51/fop_2fop_8h.html" title="fop/fop.h" alt="" coords="752,155,825,181"/>
+<area shape="rect" id="node10" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="451,80,524,107"/>
+<area shape="rect" id="node11" href="$d2/dfe/conn_8h.html" title="rpc/conn.h" alt="" coords="341,155,423,181"/>
+<area shape="rect" id="node12" href="$d1/d3b/item__source_8h.html" title="rpc/item_source.h" alt="" coords="448,155,575,181"/>
+<area shape="rect" id="node13" href="$dd/d4b/rpc__opcodes_8h.html" title="rpc/rpc_opcodes.h" alt="" coords="803,80,932,107"/>
+<area shape="rect" id="node14" href="$d7/d66/addb2_2addb2_8h.html" title="addb2/addb2.h" alt="" coords="210,155,317,181"/>
+<area shape="rect" id="node16" href="$de/d84/addb2_2service_8h.html" title="addb2/service.h" alt="" coords="1109,80,1223,107"/>
+<area shape="rect" id="node17" href="$db/dde/internal_8h.html" title="addb2/internal.h" alt="" coords="1247,80,1362,107"/>
+</map>

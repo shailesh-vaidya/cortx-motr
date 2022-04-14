@@ -1,0 +1,5 @@
+<map id="m0_ha_msg_type_get" name="m0_ha_msg_type_get">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga0e1b67998c00615ec26f3e037342f661" title="halon_interface_process\l_failure_check" alt="" coords="204,5,367,47"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gab50d3efa621e6b8c28362134e93288f9" title="ha_link_msg_received" alt="" coords="210,71,361,98"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga69876e8d3f54889d71387ea594e6d6e3" title="ha_link_incoming_fom_tick" alt="" coords="415,97,593,123"/>
+</map>

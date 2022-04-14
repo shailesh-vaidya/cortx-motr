@@ -1,0 +1,8 @@
+<map id="set_paritybuf_type" name="set_paritybuf_type">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="237,5,333,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="223,56,347,83"/>
+<area shape="rect" id="node4" href="$d7/dcd/motr_2client__internal_8h.html#ab94e4442b4d54246b6fa718103cbe8e7" title="m0__is_read_op" alt="" coords="227,107,344,133"/>
+<area shape="rect" id="node5" href="$d7/dcd/motr_2client__internal_8h.html#a2a1805c4ef71b473ffa19344617e5d00" title="m0__obj_is_parity_verify_mode" alt="" coords="183,157,388,184"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#abd2df94def273d3002f84a0afd0c9dd7" title="m0__is_update_op" alt="" coords="220,208,351,235"/>
+<area shape="rect" id="node7" href="$df/d01/group__pdclust.html#gafa1201b5cf349cc9476b6080b09a5022" title="m0_pdclust_is_replicated" alt="" coords="201,259,370,285"/>
+</map>

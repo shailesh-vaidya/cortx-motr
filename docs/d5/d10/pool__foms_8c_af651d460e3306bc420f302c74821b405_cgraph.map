@@ -1,0 +1,10 @@
+<map id="poolmach_query_op" name="poolmach_query_op">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga1499e1e71e1c59d130775ea0e91585fe" title="m0_fom_reqh" alt="" coords="225,5,326,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#gaa8f36db897ac9f5c640dbd4aae743e6e" title="m0_cs_ctx_get" alt="" coords="220,56,331,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="227,107,324,133"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="220,157,331,184"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="201,208,349,235"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="407,233,524,260"/>
+<area shape="rect" id="node8" href="$d8/dec/group__poolmach.html#ga806de6dfe470504a6436b24ccf0dfdff" title="m0_poolmach_fid_to_idx" alt="" coords="192,309,359,336"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="201,361,349,402"/>
+</map>

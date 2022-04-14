@@ -1,0 +1,4 @@
+<map id="m0_sm_ast_wait_loop" name="m0_sm_ast_wait_loop">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="205,5,331,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="215,56,321,83"/>
+</map>

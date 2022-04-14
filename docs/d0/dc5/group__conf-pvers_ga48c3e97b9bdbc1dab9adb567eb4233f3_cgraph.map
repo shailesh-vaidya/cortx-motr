@@ -1,0 +1,10 @@
+<map id="conf_pver_base_w" name="conf_pver_base_w">
+<area shape="rect" id="node2" href="$d0/dc5/group__conf-pvers.html#gacd4d5a91fa13b32d449f72b4681339e8" title="conf_pver_base_obj\l_check" alt="" coords="186,5,325,47"/>
+<area shape="rect" id="node3" href="$d0/dc5/group__conf-pvers.html#ga8cba11d81f4c6470ba3642d2e12b81ce" title="m0_conf_pver_level" alt="" coords="381,42,520,69"/>
+<area shape="rect" id="node4" href="$d0/dc5/group__conf-pvers.html#ga8fb5304a0ea44a780c258a658121e2d2" title="conf_objv_virtual_fid" alt="" coords="185,122,326,149"/>
+<area shape="rect" id="node5" href="$dd/d7b/group__conf__dlspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="186,173,325,199"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="375,223,527,250"/>
+<area shape="rect" id="node7" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="195,274,316,301"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#ga517329ff7dd1fb6b607520088080b777" title="m0_conf_cache_add" alt="" coords="184,325,327,351"/>
+<area shape="rect" id="node9" href="$df/d59/group__conf__dir.html#gab086091155a03f0b3ce88e9d07c6bed7" title="m0_conf_dir_new" alt="" coords="193,375,317,402"/>
+</map>

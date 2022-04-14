@@ -1,0 +1,9 @@
+<map id="ut_test_target_ioreq_locate" name="ut_test_target_ioreq_locate">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga93e17e15f5e23270b07c6bf65f41e499" title="m0_fid_set" alt="" coords="419,40,505,66"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a6ed262366850d6acbd0d1990b3fd1003" title="ut_dummy_xfer_req_create" alt="" coords="191,36,371,62"/>
+<area shape="rect" id="node4" href="$d0/ddc/motr_2ut_2client_8h.html#a07897fc86962ea2527d642756e23b200" title="ut_dummy_target_ioreq\l_create" alt="" coords="201,87,360,128"/>
+<area shape="rect" id="node5" href="$de/df0/io__nw__xfer_8c.html#a064cd03acbf57c7870cd13e32ef4ef2d" title="target_ioreq_locate" alt="" coords="215,153,347,180"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#acebfa9a61ae2957ace18ca283e0eeb5d" title="ut_dummy_target_ioreq\l_delete" alt="" coords="201,204,360,246"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="427,270,497,297"/>
+<area shape="rect" id="node8" href="$d0/ddc/motr_2ut_2client_8h.html#a10a9b59444b4d00802f652b0b5c62ded" title="ut_dummy_xfer_req_delete" alt="" coords="191,321,370,348"/>
+</map>

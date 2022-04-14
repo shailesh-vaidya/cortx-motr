@@ -1,0 +1,17 @@
+<map id="m0_fol_fdmi_src_init" name="m0_fol_fdmi_src_init">
+<area shape="rect" id="node2" href="$d7/dc0/fdmi_2module_8c.html#a36c15ab7807b369c98371bcfe638f7b4" title="m0_fdmi_module__get" alt="" coords="211,5,364,32"/>
+<area shape="rect" id="node3" href="$d0/de2/group__fdmi__sd.html#gaee22134bd7d1ff475f7f01532e9704a2" title="m0_fdmi_source_alloc" alt="" coords="211,56,363,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="249,107,325,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="234,157,341,184"/>
+<area shape="rect" id="node6" href="$dd/dc6/group__fdmi__fol__src.html#ga5ee22d1a77f04f6189f029f7b8af5b6f" title="ffs_op_node_eval" alt="" coords="226,208,349,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="427,512,493,539"/>
+<area shape="rect" id="node8" href="$dd/dc6/group__fdmi__fol__src.html#gab07b5b9582f937f2274c61223541f014" title="ffs_op_get" alt="" coords="246,309,329,336"/>
+<area shape="rect" id="node9" href="$dd/dc6/group__fdmi__fol__src.html#ga225f2143c89e83bce0580b13b1aa6467" title="ffs_op_put" alt="" coords="246,360,329,387"/>
+<area shape="rect" id="node10" href="$dd/dc6/group__fdmi__fol__src.html#ga07826f5d0de99a2b3d33bc4b462031aa" title="ffs_op_begin" alt="" coords="240,411,335,437"/>
+<area shape="rect" id="node11" href="$dd/dc6/group__fdmi__fol__src.html#ga72077b2e14b25e4d96454cf4025b6af2" title="ffs_op_end" alt="" coords="245,461,330,488"/>
+<area shape="rect" id="node12" href="$dd/dc6/group__fdmi__fol__src.html#ga1b72326f4219f4bcad518494f960af1a" title="ffs_op_encode" alt="" coords="234,512,341,539"/>
+<area shape="rect" id="node13" href="$dd/dc6/group__fdmi__fol__src.html#ga0685854eb2ed22c90ec54094a4600b98" title="ffs_op_decode" alt="" coords="234,563,341,589"/>
+<area shape="rect" id="node14" href="$d0/de2/group__fdmi__sd.html#ga421c5e68bc554fcc0b0e892c4a65e204" title="m0_fdmi_source_register" alt="" coords="203,613,371,640"/>
+<area shape="rect" id="node15" href="$d0/de2/group__fdmi__sd.html#ga3d5ce259696db7f15eb2b756d5a80b8e" title="m0_fdmi_source_deregister" alt="" coords="196,664,379,691"/>
+<area shape="rect" id="node16" href="$d0/de2/group__fdmi__sd.html#ga62f14a451b9a0256efdc7d29843dd65e" title="m0_fdmi_source_free" alt="" coords="214,715,361,741"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="m0_conf_cache_del" name="m0_conf_cache_del">
+<area shape="rect" id="node2" href="$d7/d3a/conf_2ut_2cache_8c.html#a492c2e3c658d22e413f68d4098c7eaac" title="ut_conf_obj_delete" alt="" coords="224,5,355,32"/>
+<area shape="rect" id="node3" href="$df/d59/group__conf__dir.html#gac86be2ce23105064f47d343034ed77d8" title="conf_dir_new" alt="" coords="240,56,339,83"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga506c02213fdd8232a26451830820b6fe" title="_confc_phony_cache\l_remove" alt="" coords="217,107,362,149"/>
+<area shape="rect" id="node5" href="$d9/d50/group__spiel-api-fspec.html#ga612aae021e5f1dff1839b102c7f6e9b9" title="m0_spiel_node_add" alt="" coords="221,173,358,200"/>
+<area shape="rect" id="node6" href="$d9/d50/group__spiel-api-fspec.html#gaa4746b294510577e015c9b33d3d318d3" title="m0_spiel_process_add" alt="" coords="212,224,367,251"/>
+<area shape="rect" id="node7" href="$d9/d50/group__spiel-api-fspec.html#ga4094ce0566c3f5b0190bca3b713dce5f" title="m0_spiel_service_add" alt="" coords="214,275,365,301"/>
+<area shape="rect" id="node8" href="$d9/d50/group__spiel-api-fspec.html#ga92b31e4f00d5f12b39e144449736b9eb" title="m0_spiel_device_add" alt="" coords="216,325,363,352"/>
+<area shape="rect" id="node9" href="$d9/d50/group__spiel-api-fspec.html#ga172d4535ea2119d13c34dede051468af" title="m0_spiel_profile_add" alt="" coords="217,376,361,403"/>
+<area shape="rect" id="node10" href="$d9/d50/group__spiel-api-fspec.html#ga9889b635e59f36d1dbd351b83a09adf2" title="m0_spiel_site_add" alt="" coords="224,427,355,453"/>
+<area shape="rect" id="node11" href="$d9/d50/group__spiel-api-fspec.html#ga21d4d2d60f0c55bb0becfa1e478c9188" title="m0_spiel_rack_add" alt="" coords="222,477,357,504"/>
+<area shape="rect" id="node12" href="$d9/d50/group__spiel-api-fspec.html#gae8678fc20a698e58b28218f8bf43cd20" title="m0_spiel_enclosure_add" alt="" coords="207,528,372,555"/>
+<area shape="rect" id="node13" href="$d9/d50/group__spiel-api-fspec.html#gadf4f911a215de1763fb35aadf1e3f07e" title="m0_spiel_controller_add" alt="" coords="208,579,371,605"/>
+<area shape="rect" id="node14" href="$d9/d50/group__spiel-api-fspec.html#gaf7606719312bc92526a86173b2d1a4fb" title="m0_spiel_drive_add" alt="" coords="221,629,358,656"/>
+<area shape="rect" id="node15" href="$d9/d50/group__spiel-api-fspec.html#gaf4e10131e3d159f9d736b346d164a783" title="m0_spiel_pver_actual_add" alt="" coords="201,680,377,707"/>
+<area shape="rect" id="node16" href="$d9/d50/group__spiel-api-fspec.html#ga50f63d30e57bdbd1b2790f5b8dbad6a2" title="m0_spiel_pver_formulaic_add" alt="" coords="192,731,387,757"/>
+<area shape="rect" id="node17" href="$d9/d50/group__spiel-api-fspec.html#ga8562d2958588acf0fcd0800cc1af046f" title="m0_spiel_site_v_add" alt="" coords="217,781,361,808"/>
+<area shape="rect" id="node18" href="$d9/d50/group__spiel-api-fspec.html#ga94d5bf7d8a7204ee03fd733f122827d2" title="m0_spiel_rack_v_add" alt="" coords="215,832,363,859"/>
+<area shape="rect" id="node19" href="$d9/d50/group__spiel-api-fspec.html#ga7b81e5ee6836e90743b4ffb27ee20bdc" title="m0_spiel_enclosure\l_v_add" alt="" coords="221,883,358,925"/>
+<area shape="rect" id="node20" href="$d9/d50/group__spiel-api-fspec.html#ga027559409dbf397761e72688361ac055" title="m0_spiel_controller\l_v_add" alt="" coords="222,949,357,990"/>
+<area shape="rect" id="node21" href="$d9/d50/group__spiel-api-fspec.html#gaadb861f6c034eed71c73049f5c7544d1" title="m0_spiel_drive_v_add" alt="" coords="214,1015,365,1041"/>
+<area shape="rect" id="node22" href="$df/d3a/group__spiel-api-fspec-intr.html#gabaaec7fb30a6ff4d517cce4303225120" title="spiel_objv_remove" alt="" coords="224,1065,355,1092"/>
+<area shape="rect" id="node23" href="$d9/d50/group__spiel-api-fspec.html#ga7edc5b397ba393bb286e5515ef7ea2a3" title="m0_spiel_pool_version_done" alt="" coords="435,1116,624,1143"/>
+<area shape="rect" id="node24" href="$d9/d50/group__spiel-api-fspec.html#ga829775cb219b45fec25ffbfda5385f9a" title="m0_spiel_element_del" alt="" coords="214,1167,365,1193"/>
+</map>

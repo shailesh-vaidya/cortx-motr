@@ -1,0 +1,6 @@
+<map id="m0_be_log_store_rbuf_io_reset" name="m0_be_log_store_rbuf_io_reset">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="204,5,349,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga9206024e215103d8cdc6703474036d76" title="be_log_header_write" alt="" coords="206,71,347,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa2b0bc3040913c35756ce10dfc8989f0" title="m0_be_log_header_read" alt="" coords="397,97,560,123"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga8f801b9f8c038cbb2ed39f2ea638012d" title="be_log_store_level\l_enter" alt="" coords="211,173,342,215"/>
+</map>

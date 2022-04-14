@@ -1,0 +1,16 @@
+<map id="query_fom_test" name="query_fom_test">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="187,5,315,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="413,31,520,57"/>
+<area shape="rect" id="node4" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="201,107,300,133"/>
+<area shape="rect" id="node5" href="$d5/d51/stats__ut__svc_8c.html#a016c4a56fd6f5b6e06e3c0d1bd0bbe6e" title="get_fake_stats_fop" alt="" coords="184,157,317,184"/>
+<area shape="rect" id="node6" href="$d0/d66/group__stats__fop.html#ga0da088845e4332e31b9cce23fb169a8d" title="m0_stats_query_fop_get" alt="" coords="384,259,549,285"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga096e4817dd90e097a4676822fb2655a7" title="m0_fop_rpc_machine_set" alt="" coords="165,259,336,285"/>
+<area shape="rect" id="node8" href="$d3/dff/stats__srv_8c.html#ab0043e9902ffc308058f38eeebd34466" title="stats_query_fom_create" alt="" coords="169,309,332,336"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="190,360,311,387"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="193,411,308,437"/>
+<area shape="rect" id="node11" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="195,461,306,488"/>
+<area shape="rect" id="node12" href="$da/dea/group__cond.html#ga528fb5a1fe32776af5bba9ecacf26b6b" title="m0_cond_wait" alt="" coords="197,512,304,539"/>
+<area shape="rect" id="node13" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="187,563,315,589"/>
+<area shape="rect" id="node14" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="201,613,300,640"/>
+<area shape="rect" id="node15" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="187,664,315,691"/>
+</map>

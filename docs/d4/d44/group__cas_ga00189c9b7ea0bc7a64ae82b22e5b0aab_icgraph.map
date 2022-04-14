@@ -1,0 +1,6 @@
+<map id="vals_mix_create" name="vals_mix_create">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#ga58bba36a1e4fac784c2ffb76167d846d" title="next_bulk" alt="" coords="188,5,267,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga5a8435146b39857d0f12c71919335c4b" title="next_multi_bulk" alt="" coords="171,56,284,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga0a715fb5cf00e8658e04e2e47f570477" title="put_bulk" alt="" coords="192,107,263,133"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#ga763fd9785f2a1d45b3d8d9352dcca57f" title="get_bulk" alt="" coords="192,157,263,184"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="m0_net_test_network_ut_bulk" name="m0_net_test_network_ut_bulk">
+<area shape="rect" id="node2" href="$df/d38/group___net_test_network_internals.html#gae02b66ff50c7ba2c53e102688c14bef9" title="m0_net_test_network\l_timeouts_never" alt="" coords="201,5,348,47"/>
+<area shape="rect" id="node3" href="$df/d38/group___net_test_network_internals.html#ga7a4ec3c1cbf2bc019165a65f7e9e794c" title="m0_net_test_network\l_ctx_init" alt="" coords="201,71,348,112"/>
+<area shape="rect" id="node4" href="$df/d38/group___net_test_network_internals.html#ga7fe069e07ad8fefbbd85d9a8e59d5bdb" title="m0_net_test_network\l_ep_add" alt="" coords="201,136,348,177"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#ga9cbe9ee4ae1b99f78c15b0306c9e9bcf" title="m0_net_test_network\l_buf_fill" alt="" coords="201,201,348,243"/>
+<area shape="rect" id="node6" href="$d3/d88/ut_2network_8c.html#a61fc89502014500456c4d16e3c84be5f" title="net_buf_data_eq" alt="" coords="215,267,334,294"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="207,318,342,345"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#ga35c7c3540f6b25f69607629d4aaa3364" title="m0_net_test_network\l_msg_recv" alt="" coords="201,369,348,411"/>
+<area shape="rect" id="node9" href="$df/d38/group___net_test_network_internals.html#ga78369f73170e101746c33bb936505fde" title="m0_net_test_network\l_bulk_enqueue" alt="" coords="201,435,348,476"/>
+<area shape="rect" id="node10" href="$df/d38/group___net_test_network_internals.html#gae34773d318d4e5ae959892e2b7d0f819" title="m0_net_test_network\l_bd_serialize" alt="" coords="201,500,348,541"/>
+<area shape="rect" id="node11" href="$df/d38/group___net_test_network_internals.html#gad5aea5787656cd4b29d94769bc8a91e0" title="m0_net_test_network\l_bd_nr" alt="" coords="201,565,348,607"/>
+<area shape="rect" id="node12" href="$df/d38/group___net_test_network_internals.html#gac7f0f7d356fc7795161674cde389232d" title="m0_net_test_network\l_msg_send" alt="" coords="201,631,348,672"/>
+<area shape="rect" id="node13" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="200,697,349,723"/>
+<area shape="rect" id="node14" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="207,747,342,774"/>
+<area shape="rect" id="node15" href="$df/d38/group___net_test_network_internals.html#gacef208f1e12227468c1acec1fe10ee3a" title="m0_net_test_network\l_ctx_fini" alt="" coords="201,799,348,840"/>
+</map>

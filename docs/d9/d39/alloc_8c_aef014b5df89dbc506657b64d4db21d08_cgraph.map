@@ -1,0 +1,5 @@
+<map id="be_allocator_stats_update" name="be_allocator_stats_update">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#gad0bcad9ebcf6866d4cac43a6175ff7dc" title="alloc" alt="" coords="384,5,433,32"/>
+<area shape="rect" id="node3" href="$d9/d39/alloc_8c.html#a9448cd45a2c35fe838c9ea2084153487" title="be_allocator_call_stats\l_update" alt="" coords="181,27,336,69"/>
+<area shape="rect" id="node4" href="$d9/d39/alloc_8c.html#a0b1e5590860ff5e2981ebb13a5b0ac1e" title="be_allocator_stats\l_print" alt="" coords="195,93,323,134"/>
+</map>

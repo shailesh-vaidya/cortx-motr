@@ -1,0 +1,8 @@
+<map id="ut_test_m0_op_kick" name="ut_test_m0_op_kick">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="207,5,327,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="192,56,343,83"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="225,107,310,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#gac691966558b0a1cd1f0dada2c3ee4d05" title="m0_op_kick" alt="" coords="221,157,313,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="216,208,319,235"/>
+<area shape="rect" id="node7" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="207,259,327,285"/>
+</map>

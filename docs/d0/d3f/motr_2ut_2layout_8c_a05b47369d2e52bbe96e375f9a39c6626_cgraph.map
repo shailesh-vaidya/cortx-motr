@@ -1,0 +1,9 @@
+<map id="ut_composite_io_op_cb_fini" name="ut_composite_io_op_cb_fini">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="407,5,557,32"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="433,85,531,112"/>
+<area shape="rect" id="node4" href="$d0/d3f/motr_2ut_2layout_8c.html#abbcfb51ce5f858df07da009891f430cb" title="ut_composite_io_op\l_alloc" alt="" coords="206,93,345,134"/>
+<area shape="rect" id="node5" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="431,148,533,175"/>
+<area shape="rect" id="node6" href="$df/da5/composite__layout_8c.html#a437eff2a823e36964dfcc18ab797433d" title="composite_io_op_cb_fini" alt="" coords="193,209,358,236"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="431,235,533,261"/>
+<area shape="rect" id="node8" href="$d0/d3f/motr_2ut_2layout_8c.html#aca44fd9cd4ddb67b6a863a933e2d1839" title="ut_composite_io_op_free" alt="" coords="192,311,359,337"/>
+</map>

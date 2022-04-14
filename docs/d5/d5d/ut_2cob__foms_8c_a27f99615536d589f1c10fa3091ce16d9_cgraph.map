@@ -1,0 +1,5 @@
+<map id="cobfops_destroy" name="cobfops_destroy">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="179,5,331,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#gacd879a192974d7f0d92ee1601658d436" title="m0_fop_put" alt="" coords="210,56,301,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="172,107,339,133"/>
+</map>

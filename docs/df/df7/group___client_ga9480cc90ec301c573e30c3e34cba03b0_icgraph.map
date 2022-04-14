@@ -1,0 +1,9 @@
+<map id="st_layout_op" name="st_layout_op">
+<area shape="rect" id="node2" href="$d6/dd3/motr_2st_2layout_8c.html#a01b71dafcd26af1558107a9c9745df32" title="layout_op_get_obj" alt="" coords="181,5,308,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a8f6a849985959d214fe60f2c288cd934" title="layout_create_capture_obj" alt="" coords="157,157,332,184"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#ade969724bb567e18000aec709153a1b9" title="layout_capture" alt="" coords="418,67,525,93"/>
+<area shape="rect" id="node5" href="$d6/dd3/motr_2st_2layout_8c.html#a4150bd27aaa37b308b6e65a3d84547e5" title="layout_capture_io" alt="" coords="409,128,533,155"/>
+<area shape="rect" id="node6" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="401,201,542,242"/>
+<area shape="rect" id="node7" href="$d6/dd3/motr_2st_2layout_8c.html#a881b4276bf85517a0f245711d691aea6" title="layout_composite_create_obj" alt="" coords="149,259,340,285"/>
+<area shape="rect" id="node8" href="$d6/dd3/motr_2st_2layout_8c.html#aa334280749666474391fdc6a40460758" title="layout_composite_create\l_then_get" alt="" coords="388,283,555,325"/>
+</map>

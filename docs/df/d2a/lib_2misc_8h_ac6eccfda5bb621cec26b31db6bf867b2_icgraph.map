@@ -1,0 +1,9 @@
+<map id="m0_ptr_wrap" name="m0_ptr_wrap">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga7d3ecb3c822646407eae2172543bc402" title="clink_signal" alt="" coords="175,5,265,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="167,56,273,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gacf59d500a3c9d8e44c753b64e221b6dd" title="m0_chan_timedwait" alt="" coords="151,107,289,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="163,157,277,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="156,208,284,235"/>
+<area shape="rect" id="node7" href="$df/d2a/lib_2misc_8h.html#a5f1bc8097525374e860db5cb934349ec" title="m0_ptr_unwrap" alt="" coords="165,259,275,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga86a9c851a2733f04ae882053f934abb5" title="m0_sm_asts_run" alt="" coords="159,309,281,336"/>
+</map>

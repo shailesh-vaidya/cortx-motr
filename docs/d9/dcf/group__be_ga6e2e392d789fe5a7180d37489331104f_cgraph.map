@@ -1,0 +1,6 @@
+<map id="be_ut_log_discard_gp_produce" name="be_ut_log_discard_gp_produce">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="222,5,371,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="239,56,354,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="233,107,361,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga9ce40b4a3c33e444d9eca9fc71f02ac2" title="m0_be_log_discard_item_put" alt="" coords="201,157,392,184"/>
+</map>

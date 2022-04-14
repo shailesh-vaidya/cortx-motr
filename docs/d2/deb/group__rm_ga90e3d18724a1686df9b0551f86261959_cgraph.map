@@ -1,0 +1,7 @@
+<map id="pin_del" name="pin_del">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga6b63c1ac2023db214ce667ea5e24d89e" title="owner_smgrp_is_locked" alt="" coords="116,5,279,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaab4c3399b3cbb30943c6d6bff2704199" title="incoming_pin_nr" alt="" coords="139,56,255,83"/>
+<area shape="rect" id="node4" href="$d3/deb/rm__internal_8h.html#a74d9dfabd7a6d611a7b0ea870dbeab6f" title="incoming_state" alt="" coords="142,107,253,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="163,157,232,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="153,208,242,235"/>
+</map>

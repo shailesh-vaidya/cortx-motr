@@ -1,0 +1,8 @@
+<map id="fop_create_populate" name="fop_create_populate">
+<area shape="rect" id="node2" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#gaf915254407a9ea4a868bc63d662230cb" title="m0_io_fop_init" alt="" coords="214,5,321,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="391,31,469,57"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="192,107,343,133"/>
+<area shape="rect" id="node5" href="$db/d53/bulkio__ut_8c.html#a3a10dc41b12f1d13e97bd72b0d1ed4ad" title="add_buffer_bulk" alt="" coords="211,157,324,184"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#ga0650a51af21c1c091f3e0d2b8b29cd47" title="m0_io_fop_prepare" alt="" coords="201,208,333,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga197d4470b2ca99bca9e2d9b884750126" title="m0_rpc_bulk_store" alt="" coords="201,259,333,285"/>
+</map>

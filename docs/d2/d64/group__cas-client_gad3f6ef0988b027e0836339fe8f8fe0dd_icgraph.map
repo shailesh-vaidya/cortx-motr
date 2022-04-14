@@ -1,0 +1,14 @@
+<map id="m0_cas_req_is_locked" name="m0_cas_req_is_locked">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga48afd8872cd6e6f46f27263d2ff8fd99" title="cas_req_fini" alt="" coords="224,38,316,65"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga01cc6212597795d785c0594ce96b1448" title="m0_cas_req_fini" alt="" coords="397,38,514,65"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gaf50f296b802fe3367ad763bf1e40d6dc" title="cas_fop_send" alt="" coords="219,292,321,318"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga47f3add31d4014d10b9e39b99fd86eae" title="m0_cas_index_create" alt="" coords="381,89,530,116"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#gaa98251abcf47fc53b0d95c9733ec6cda" title="m0_cas_index_delete" alt="" coords="381,140,529,166"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#gaef3376e7ac8ee276de5742f376e0a718" title="m0_cas_index_lookup" alt="" coords="380,192,531,218"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga4a3b90891c9cbd046e63858bdacc7242" title="m0_cas_index_list" alt="" coords="390,244,521,270"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga290a06e847f9a1350d766707501c99d7" title="m0_cas_put" alt="" coords="409,297,502,324"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#ga324be866c4c9c84d5df312fc2bd7de34" title="m0_cas__get" alt="" coords="405,354,505,381"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#ga4bc0f94472ccea508fbbf253816c2c5d" title="m0_cas_next" alt="" coords="405,417,505,444"/>
+<area shape="rect" id="node12" href="$d2/d64/group__cas-client.html#ga3a4c335ba35bbba1e5ea94e0ef412834" title="m0_cas_del" alt="" coords="409,493,501,520"/>
+<area shape="rect" id="node13" href="$d2/d64/group__cas-client.html#ga6616d5fe1ab55995abd50f14f0f5eab9" title="m0_cas_req_wait" alt="" coords="208,545,332,572"/>
+</map>

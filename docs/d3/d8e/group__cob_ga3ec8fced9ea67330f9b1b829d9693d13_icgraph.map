@@ -1,0 +1,12 @@
+<map id="m0_cob_nskey_size" name="m0_cob_nskey_size">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga43ebe982d997359786ac21017e529b3f" title="cob_kv_get" alt="" coords="227,5,316,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga6e3dd9b03a094946229c0394c37b94f7" title="ns_ksize" alt="" coords="234,56,309,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#gafac97847006c4c4e0909f4b0bc6eefa3" title="cob_ns_lookup" alt="" coords="217,107,326,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga0383f2107ac7798f7efd4f9fec8cfaa6" title="m0_cob_iterator_get" alt="" coords="201,157,341,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga51d9713ae3a4e51d62e40021523e47f3" title="m0_cob_iterator_next" alt="" coords="198,208,345,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga17a0d114e6d471a34148a75ebfa512dc" title="m0_cob_update" alt="" coords="214,259,329,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#gac9f957454ccb1b47327348adaea1944c" title="m0_cob_name_add" alt="" coords="204,309,339,336"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#gafd198ff69d5a514c4eb4b783ec745159" title="m0_cob_name_del" alt="" coords="206,360,337,387"/>
+<area shape="rect" id="node10" href="$d3/d8e/group__cob.html#gacb5d1a65b13b1b957728a1457415a6a8" title="m0_cob_name_update" alt="" coords="195,411,348,437"/>
+<area shape="rect" id="node11" href="$d2/da0/group__cob__fid__ns__iter.html#gacef3dd9de344616cd2b518f39fcdfebe" title="m0_cob_ns_rec_of" alt="" coords="205,461,337,488"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_rpc_packet" name="m0_rpc_packet">
+<area shape="rect" id="node3" href="$d7/d0f/structm0__rpc__frm.html" title="{m0_rpc_frm\n||}" alt="" coords="69,363,160,440"/>
+<area shape="rect" id="node4" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="267,145,322,223"/>
+<area shape="rect" id="node5" href="$da/d70/structm0__rpc__packet__onwire__header.html" title="{m0_rpc_packet_onwire\l_header\n||}" alt="" coords="454,247,610,339"/>
+<area shape="rect" id="node7" href="$d9/d36/structm0__rpc__machine.html" title="{m0_rpc_machine\n||}" alt="" coords="295,363,416,440"/>
+</map>

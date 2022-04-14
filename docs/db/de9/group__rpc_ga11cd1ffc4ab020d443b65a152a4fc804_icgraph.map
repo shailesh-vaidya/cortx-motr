@@ -1,0 +1,5 @@
+<map id="rpc_buffer__rmachine" name="rpc_buffer__rmachine">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gac94adc35827917e3d83de2f0aa98f0ce" title="rpc_buffer_submit" alt="" coords="200,5,325,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga16bb1f487d29a22a46b87b0ad5148d02" title="rpc_buffer_fini" alt="" coords="211,56,314,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga977c88f79c6767aea4b6c35c2b34250e" title="buf_send_cb" alt="" coords="373,81,469,108"/>
+</map>

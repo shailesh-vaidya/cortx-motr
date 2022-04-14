@@ -1,0 +1,9 @@
+<map id="m0_storage_dev_stob_put" name="m0_storage_dev_stob_put">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga4fa2916d3284be0f22e81101c6e8c722" title="cp_io" alt="" coords="283,5,336,32"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga5a07858e5b757a8dd106e85801a14807" title="m0_sns_cm_cp_io_wait" alt="" coords="228,56,391,83"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#a40b6b028f0378fbaf25141d03531457d" title="cob_ops_stob_find" alt="" coords="244,107,375,133"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="439,132,567,159"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="228,208,391,235"/>
+<area shape="rect" id="node7" href="$d3/d73/storage__dev__ut_8c.html#ad66c3e0fbc359eeeea8ed4588e2bd543" title="storage_dev_linux" alt="" coords="246,259,373,285"/>
+<area shape="rect" id="node8" href="$d6/d85/group__iscservice.html#ga3ec0b1ec779b038b8873c31802a24fd8" title="m0_isc_io_fini" alt="" coords="257,309,362,336"/>
+</map>

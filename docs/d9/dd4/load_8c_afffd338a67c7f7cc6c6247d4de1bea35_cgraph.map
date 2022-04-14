@@ -1,0 +1,10 @@
+<map id="conf_save_load" name="conf_save_load">
+<area shape="rect" id="node2" href="$d7/de5/group__confd__stob.html#gadbe5ae0b9837be54a19b5ecb8a17b968" title="m0_confd_stob_init" alt="" coords="185,5,319,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="395,81,518,108"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="385,157,528,184"/>
+<area shape="rect" id="node5" href="$d7/de5/group__confd__stob.html#gabf73e6c1c54b1668fdbf5ce03ab3d97a" title="m0_confd_stob_write" alt="" coords="179,208,325,235"/>
+<area shape="rect" id="node6" href="$d7/de5/group__confd__stob.html#ga51c448525548acaca6aaac90408b5de3" title="m0_confd_stob_read" alt="" coords="181,107,323,133"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="193,259,311,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#gaaa46bc11405406b126a597623a5bf1f4" title="m0_stob_domain_destroy\l_location" alt="" coords="167,310,337,351"/>
+<area shape="rect" id="node9" href="$d7/de5/group__confd__stob.html#gab14cfe0e881c0410d4c354e5287dd0db" title="m0_confd_stob_fini" alt="" coords="185,376,319,403"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sync_record_update" name="sync_record_update">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a446257ec77afb0c1b250b99efb984ad3" title="cob_mds_rio_replied" alt="" coords="203,5,344,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#ga93e624d9b765dc4fa9e4703bfc337e39" title="idx_sync_record_update" alt="" coords="192,56,355,83"/>
+<area shape="rect" id="node4" href="$dc/d83/io__req__fop_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="220,107,327,133"/>
+<area shape="rect" id="node5" href="$dc/d83/io__req__fop_8c.html#a6897cfe7356b9f9d30aa63db369193f1" title="ioreq_cc_bottom_half" alt="" coords="200,157,347,184"/>
+<area shape="rect" id="node6" href="$d8/d6f/ut_2sync_8c.html#a5dc4566c3906935f8a078ec5d80669d9" title="ut_test_sync_record\l_update" alt="" coords="203,209,343,250"/>
+</map>

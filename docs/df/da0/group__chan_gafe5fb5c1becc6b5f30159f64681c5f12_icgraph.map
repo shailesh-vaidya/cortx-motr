@@ -1,0 +1,10 @@
+<map id="m0_chan_has_waiters" name="m0_chan_has_waiters">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#gac38699e8c18a593fd4128677df75e251" title="stob_io_invariant" alt="" coords="227,5,347,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga743737aa6426c5610be5b3be98e81777" title="m0_fom_block_enter" alt="" coords="215,56,358,83"/>
+<area shape="rect" id="node4" href="$d0/d16/fom__timedwait__ut_8c.html#aae8b16de2da8f0f675de41c032e9cdb9" title="tw_fom_tick" alt="" coords="240,107,333,133"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a7322dd6b0157ad6526c3e67431ea0e31" title="cob_stob_ref_drop_wait" alt="" coords="207,157,367,184"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#ga39f5e8840e39eefd5196ab1fda88a7bf" title="m0_rpc_bulk_default_cb" alt="" coords="205,208,368,235"/>
+<area shape="rect" id="node7" href="$d9/d05/group__bulkclient_d_f_s.html#ga54b29f9e2a79f822933e9c7127961c50" title="m0_rpc_bulk_store_del\l_unqueued" alt="" coords="209,259,365,301"/>
+<area shape="rect" id="node8" href="$d9/d05/group__bulkclient_d_f_s.html#gae930de5fe77b8e6a549802b724a42815" title="m0_rpc_bulk_store_del" alt="" coords="209,325,365,352"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="238,376,335,403"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="m0_sm_conf_init" name="m0_sm_conf_init">
+<area shape="rect" id="node2" href="$df/d03/group__cas__dfspec.html#gaec501c8d74193045cad652fa1736026f" title="m0_cas_svc_init" alt="" coords="397,67,517,94"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga127aa0504357dd8291b9ef709ecd41c9" title="m0_be_tx_mod_init" alt="" coords="195,42,329,68"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga34cca30a2e97207257e501bc3d7e7733" title="m0_cas_sm_conf_init" alt="" coords="187,92,337,119"/>
+<area shape="rect" id="node5" href="$d6/d81/index__gc_8h.html#a179dde2daf871791d93c3753758eb976" title="m0_cas_gc_init" alt="" coords="205,143,319,170"/>
+<area shape="rect" id="node6" href="$d6/df3/dtm0_2fop_8h.html#a9b28220a2a59e887c275d7f04a5854fe" title="m0_dtm0_fop_init" alt="" coords="199,194,325,220"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga4e75b5feb9c4f155594d35d6159113de" title="m0_fops_init" alt="" coords="214,244,310,271"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga5d3ce3120d7f29226f6982405d8a12cd" title="m0_dix_sm_conf_init" alt="" coords="189,295,335,322"/>
+<area shape="rect" id="node9" href="$d2/d66/group__dtm.html#gaee6c298197aa624d549529f65b964a07" title="m0_dtm0_dtx_domain_init" alt="" coords="175,346,349,372"/>
+<area shape="rect" id="node10" href="$d9/d96/fol__ut_8c.html#a6822a5de7d46273f33a15103d3156d80" title="fdmi_fol_test_ops" alt="" coords="199,396,325,423"/>
+<area shape="rect" id="node11" href="$d1/d59/group__fom.html#ga3e31b2a2da3ccca334d057fab42bf5dc" title="m0_fom_simple_post" alt="" coords="189,447,335,474"/>
+<area shape="rect" id="node12" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a6f251e1b31fbe3b592fb61eb183de4e3" title="test_stats_init" alt="" coords="210,498,314,524"/>
+<area shape="rect" id="node13" href="$dd/d3e/io__fops_8h.html#a0cca6aa7b5ba93a18bbc8d9657d030ee" title="m0_ioservice_fop_init" alt="" coords="188,548,336,575"/>
+<area shape="rect" id="node14" href="$df/d1d/fsync__fops_8c.html#a94598fd299e732d30cb111536e79e656" title="fop_init" alt="" coords="230,599,294,626"/>
+<area shape="rect" id="node15" href="$d7/dcd/motr_2client__internal_8h.html#a7883e38f13e31b3fada3fd43eeb181c2" title="m0_client_global_init" alt="" coords="191,650,333,676"/>
+<area shape="rect" id="node16" href="$d0/d5d/ut_2sm_8c.html#a35597c6cd4065327ff15e683361b7870" title="transition" alt="" coords="225,700,299,727"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m0_be_tx_bulk" name="m0_be_tx_bulk">
+<area shape="rect" id="node8" href="$df/de7/structbe__tx__bulk__worker.html" title="{be_tx_bulk_worker\n||}" alt="" coords="284,499,415,576"/>
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="600,5,683,83"/>
+<area shape="rect" id="node9" href="$d1/d7f/structm0__be__queue.html" title="{m0_be_queue\n||}" alt="" coords="705,175,807,252"/>
+<area shape="rect" id="node3" href="$da/d9f/structm0__be__tx__bulk__cfg.html" title="{m0_be_tx_bulk_cfg\n||}" alt="" coords="343,175,478,252"/>
+<area shape="rect" id="node7" href="$d5/d3a/structm0__be__op.html" title="{m0_be_op\n||}" alt="" coords="127,175,209,252"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="kem_addb2_init" name="kem_addb2_init">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#ga9e71dbb83acce00e06f5a15b916604b3" title="m0_instance_setup" alt="" coords="185,5,320,32"/>
+<area shape="rect" id="node3" href="$d1/d07/group__uuid.html#ga92bfd31fc8175c93312ecde79ed0285a" title="m0_node_uuid_string_set" alt="" coords="167,56,338,83"/>
+<area shape="rect" id="node4" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="196,107,309,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__locality.html#ga77e23fc62e1125b9881363f6aeb509d8" title="m0_fom_dom" alt="" coords="202,157,303,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga6ebb07a74e69dd30872301ad49d6fbb2" title="m0_addb2_global_get" alt="" coords="179,208,327,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gaa1de3834d3468aaa7713daeed67e685a" title="m0_addb2_sys_stor_start" alt="" coords="167,259,339,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga28557e91326f9ff1a89e9b8ddfbedca1" title="m0_addb2_sys_attach" alt="" coords="176,309,329,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga9401f9f09e326c97a837269053125dc5" title="m0_addb2_sys_sm_start" alt="" coords="169,360,337,387"/>
+<area shape="rect" id="node10" href="$d7/da6/group__module.html#gaf67b9c80ea6d4020e59668be75fe8cac" title="m0_module_fini" alt="" coords="196,411,309,437"/>
+</map>

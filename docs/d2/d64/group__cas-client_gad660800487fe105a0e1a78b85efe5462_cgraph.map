@@ -1,0 +1,12 @@
+<map id="creq_asmbl_replied_ast" name="creq_asmbl_replied_ast">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="221,5,351,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga6eeeb69bb6f78fa5ab431e859b0bbf00" title="cas_rep" alt="" coords="451,145,519,172"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga460fc175e553ff3786aef8c2bf7d8c09" title="cas_rep__validate" alt="" coords="223,360,349,387"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="447,335,523,361"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga83bac05c05bd0f39f72c1f18cd4dfb0d" title="greq_asmbl_accept" alt="" coords="219,107,353,133"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#ga2fe722035b135853449cb48f39f3a718" title="nreq_asmbl_accept" alt="" coords="219,157,353,184"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga1154a59e38292c74c102b15215179b61" title="cas_req_reply_handle" alt="" coords="212,208,360,235"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaf2d979af233312b28864ccc46435c975" title="m0_rpc_item_put_lock" alt="" coords="408,221,561,248"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#gaf8bb9c5f4c1cfc0ae2e79a4b61933da8" title="cas_req_state_set" alt="" coords="221,411,351,437"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#ga7239dee7a79cea29c5794ed130877645" title="cas_req_failure" alt="" coords="231,461,341,488"/>
+</map>

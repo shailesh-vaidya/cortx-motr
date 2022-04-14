@@ -1,0 +1,7 @@
+<map id="m0_dix_cli_is_locked" name="m0_dix_cli_is_locked">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga3331eb9e06516fab577b9dce8e9236c7" title="m0_dix_cli_bootstrap" alt="" coords="200,5,345,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga2d29df4a75c30f00c2c2bd16f2f6f59a" title="m0_dix_cli_bootstrap_lock" alt="" coords="393,31,569,57"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gac1f6c7b019fc6d3945033cc3b399a267" title="m0_dix_cli_stop" alt="" coords="215,107,331,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gabe83683c0e21a2c6f09dd54ee3be0b7b" title="m0_dix_cli_fini" alt="" coords="219,157,327,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gadbfead1f18bd92998dffdc9087edfceb" title="m0_dix_cli_fini_lock" alt="" coords="412,183,551,209"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ctg_init" name="ctg_init">
+<area shape="rect" id="node2" href="$d9/d21/group__cas-ctg-store.html#ga9e6ddf4f0854205307809eabf835f791" title="m0_ctg_create" alt="" coords="140,5,248,32"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#a87c30cacc9a77b76c7d6e888663cdd0e" title="ctg_store__init" alt="" coords="141,56,247,83"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga8eee45ba821d6492a9143adb1189d3f9" title="m0_ctg_try_init" alt="" coords="139,107,249,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#ad01b093b048321aa4649150a809180cf" title="ctg_index_btree_dump" alt="" coords="117,157,271,184"/>
+</map>

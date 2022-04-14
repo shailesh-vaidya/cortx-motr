@@ -1,0 +1,10 @@
+<map id="m0_fini" name="m0_fini">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Test server for m0console. " alt="" coords="171,5,222,32"/>
+<area shape="rect" id="node3" href="$d9/de6/group__console.html#gaf4c0a94987fb6e56ab1a8a3a2a37aef1" title="console_init" alt="" coords="151,56,242,83"/>
+<area shape="rect" id="node4" href="$d9/de6/group__console.html#gadbd3f0b6124630091cf71c19d2dc958d" title="console_fini" alt="" coords="151,107,242,133"/>
+<area shape="rect" id="node5" href="$d0/d0a/fdmi__echo_8c.html#ae67aac42ef31467a0ed32ac0b7617303" title="run_server" alt="" coords="155,157,238,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga2f769ee8b0d72f38251d4a6ccd5b92a8" title="m0_halon_interface_fini" alt="" coords="117,208,276,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga9f6880d29eac5da71e31407a592b880a" title="m0_client_init" alt="" coords="145,259,248,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#gaf0f36d6063136ad9e6eb0916f2bde26e" title="m0_client_fini" alt="" coords="145,309,248,336"/>
+<area shape="rect" id="node9" href="$dd/daf/m0tr__main_8c.html#a13e73ff8d0bb58d84c0d3ee71d199367" title="motr_exit" alt="" coords="159,360,235,387"/>
+</map>

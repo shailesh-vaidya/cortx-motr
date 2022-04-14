@@ -1,0 +1,11 @@
+<map id="dgram_header" name="dgram_header">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga0783c9a92d6de5ed67d4e9c382001d5d" title="pk_size" alt="" coords="209,5,276,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="592,132,632,159"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga643216df42cd41316bad263fdcf690ad" title="pk_io" alt="" coords="216,309,269,336"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="422,284,498,311"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#gae0d835e5b33df4f26664af2f5c067f25" title="pk_header_done" alt="" coords="184,360,301,387"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="383,157,537,184"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="376,107,544,133"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga91b552c4f3207320a242bd099e304883" title="m0_data_to_bufvec_copy" alt="" coords="157,208,328,235"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#gab2a4957b29b0ff2f9b6abec6b37d71a6" title="pk_state" alt="" coords="207,411,279,437"/>
+</map>

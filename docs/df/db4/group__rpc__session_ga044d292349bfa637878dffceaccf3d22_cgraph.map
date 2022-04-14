@@ -1,0 +1,10 @@
+<map id="m0_rpc_rcv_conn_init" name="m0_rpc_rcv_conn_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="435,40,617,66"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga06b564ee88a185824693fae7e8a2c31d" title="__conn_init" alt="" coords="251,141,339,168"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gab3904ada342561f647d6794770c8c531" title="m0_rpc_conn_is_rcv" alt="" coords="455,242,597,269"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="493,116,559,142"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="250,192,339,218"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga67dc0348b996a501ac556317ff9f3b91" title="m0_rpc_machine_add_conn" alt="" coords="203,40,387,66"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="217,293,373,320"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="483,318,569,345"/>
+</map>

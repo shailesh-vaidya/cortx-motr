@@ -1,0 +1,8 @@
+<map id="net_tx" name="net_tx">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga88349267a533c01d24f0de9fa4e5a6dd" title="net_enter" alt="" coords="115,5,191,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga5eb6afc30ea6e42ae88b61e02949ad98" title="sim_sleep" alt="" coords="112,56,193,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga4d058e31a2d3a206f4d7c1164386d2c9" title="sim_rnd" alt="" coords="119,107,187,133"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#ga07d21d91aa8686f81164888d63891ac4" title="min" alt="" coords="131,157,174,184"/>
+<area shape="rect" id="node6" href="$d8/d42/group__crate.html#ga217a253d1b8ba93cbd1bac336d3c17b3" title="max" alt="" coords="129,208,176,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#gada0ee5eaed82f58be5de984eee72dba2" title="net_leave" alt="" coords="113,259,192,285"/>
+</map>

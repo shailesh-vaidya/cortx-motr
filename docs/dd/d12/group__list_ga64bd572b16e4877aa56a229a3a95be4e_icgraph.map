@@ -1,0 +1,11 @@
+<map id="m0_list_add_tail" name="m0_list_add_tail">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gaac93440bc93246c5545426277ca7e7d3" title="m0_addb2_sys_counter_add" alt="" coords="169,5,357,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#gad0279415b5fbb272b244e9438df7e256" title="m0_balloc_load_extents" alt="" coords="182,56,345,83"/>
+<area shape="rect" id="node4" href="$dd/d12/group__list.html#gaaa86e8e9e14e8e837ca14b456e9f3290" title="m0_list_move_tail" alt="" coords="200,107,327,133"/>
+<area shape="rect" id="node5" href="$d0/d11/lib_2ut_2main_8c.html#a9e255bcabbcf9d29db307aa1ebea6d83" title="test_list" alt="" coords="229,157,297,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="186,208,341,235"/>
+<area shape="rect" id="node7" href="$d7/d08/group__tlist.html#gafa135d2c4bd639b05aa87feb1e1d30bd" title="m0_tlist_add_tail" alt="" coords="203,259,323,285"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#ga564a7e7cbc5ba4f31ba0a163549ac151" title="mem_wi_add" alt="" coords="214,309,313,336"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#gaa5fda7855ba2cf7b2511ced76acb046d" title="m0_net_tm_init" alt="" coords="208,360,319,387"/>
+<area shape="rect" id="node10" href="$da/db4/group__ut.html#ga8b6fec71c08453a8d99f4df80bcbfd74" title="test_add" alt="" coords="227,411,299,437"/>
+</map>

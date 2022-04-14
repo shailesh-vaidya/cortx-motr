@@ -1,0 +1,7 @@
+<map id="m0__obj_is_di_enabled" name="m0__obj_is_di_enabled">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a85aa71fd1dd8bd2eed8eff5ba6944ac8" title="m0__obj_is_cksum_validation\l_allowed" alt="" coords="211,5,407,47"/>
+<area shape="rect" id="node3" href="$de/df0/io__nw__xfer_8c.html#a43b79742346b98ca315a58d6a059e57d" title="target_ioreq_seg_add" alt="" coords="235,71,382,98"/>
+<area shape="rect" id="node4" href="$de/df0/io__nw__xfer_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="243,123,375,164"/>
+<area shape="rect" id="node5" href="$de/df0/io__nw__xfer_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="251,189,366,215"/>
+<area shape="rect" id="node6" href="$dc/d83/io__req__fop_8c.html#a73ac29f2486bc5ef84d4e84ca5d3ee23" title="application_attribute_copy" alt="" coords="222,239,395,266"/>
+</map>

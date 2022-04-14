@@ -1,0 +1,7 @@
+<map id="rpc_bulk_buf_fini" name="rpc_bulk_buf_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga52a7381b0345f4b0e26127bc33aa3d4c" title="rpc_bulk_buf_deregister" alt="" coords="173,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e" title="m0_net_desc_free" alt="" coords="189,56,318,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="381,107,451,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga1cda4bb9dbf341edc4d154f30f9f7085" title="m0_0vec_fini" alt="" coords="204,157,303,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="209,208,298,235"/>
+</map>

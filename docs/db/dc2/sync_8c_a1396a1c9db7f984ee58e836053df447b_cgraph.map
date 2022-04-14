@@ -1,0 +1,10 @@
+<map id="sync_request_fop_send" name="sync_request_fop_send">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="260,5,336,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="213,56,383,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="432,81,499,108"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="431,183,500,209"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="253,208,343,235"/>
+<area shape="rect" id="node7" href="$db/dc2/sync_8c.html#ab63ac80c785042607d1f6abf8de657b5" title="sync_fop_cleanup" alt="" coords="235,259,361,285"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="233,309,363,336"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="249,360,347,387"/>
+</map>

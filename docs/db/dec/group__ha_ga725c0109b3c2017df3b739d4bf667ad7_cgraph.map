@@ -1,0 +1,21 @@
+<map id="ha_level_enter" name="ha_level_enter">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="420,56,527,83"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="424,157,523,184"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gac2507773e44b2c93de42d87cc691c450" title="ha_entrypoint_state_cb" alt="" coords="181,579,338,605"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga456af3ba272841a368f81e615f123819" title="m0_ha_cookie_init" alt="" coords="194,629,325,656"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga7f5e39df92755cb753643defc45fbe92" title="m0_ha_cookie_record" alt="" coords="185,680,334,707"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="440,233,507,260"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="221,731,297,757"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gaebc1164714c1359ede6ea59f87ca3afb" title="m0_ha_link_service_init" alt="" coords="179,208,340,235"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#gaf3325d9c4503171e87f8282d36f95b81" title="ha_request_received_cb" alt="" coords="178,781,341,808"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#ga583523e652d3a7cd3f94fa11850aa679" title="m0_ha_entrypoint_server_init" alt="" coords="163,5,355,32"/>
+<area shape="rect" id="node12" href="$db/dec/group__ha.html#gaa06b11d439a307f22159b7a9012bfd2f" title="m0_ha_entrypoint_client_init" alt="" coords="166,157,353,184"/>
+<area shape="rect" id="node13" href="$db/dec/group__ha.html#gacdc5180ccbd0447dec06b792211f6359" title="m0_ha_entrypoint_server\l_start" alt="" coords="175,411,343,453"/>
+<area shape="rect" id="node14" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="416,360,531,387"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="409,419,537,445"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#gac8baa4daf7dbd1625b143025632a1d7c" title="ha_link_ctx_init" alt="" coords="203,360,315,387"/>
+<area shape="rect" id="node17" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="407,499,540,525"/>
+<area shape="rect" id="node18" href="$db/dec/group__ha.html#gad3bb5be16db0e0f073e8f3f469a635b6" title="m0_ha_entrypoint_client_chan" alt="" coords="160,832,359,859"/>
+<area shape="rect" id="node19" href="$db/dec/group__ha.html#ga17e5a563e6cef810c6999e6b08eab645" title="m0_ha_entrypoint_client\l_start" alt="" coords="178,883,341,925"/>
+<area shape="rect" id="node20" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="206,949,313,976"/>
+</map>

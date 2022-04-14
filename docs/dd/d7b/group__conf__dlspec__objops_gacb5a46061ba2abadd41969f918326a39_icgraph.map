@@ -1,0 +1,10 @@
+<map id="m0_conf_obj_get_lock" name="m0_conf_obj_get_lock">
+<area shape="rect" id="node2" href="$df/d22/conf_2helpers_8h.html#aa826bda14553a326ba3170660c49a051" title="m0_conf_pver_get" alt="" coords="229,5,358,32"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#gac9d75346af43737ca2ea944fd080f2fb" title="storage_dev_new" alt="" coords="231,56,355,83"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#ga6007a2544fe5708cfd2399f473e35ab5" title="poolmach_state_update" alt="" coords="213,107,373,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#ga7e52c483f80a9850273edb7646df9627" title="poolmach_conf_ready_cb" alt="" coords="208,157,379,184"/>
+<area shape="rect" id="node6" href="$de/df4/group__rm-ha.html#gac525090dd582d4720d0646efbcecfdcd" title="rm_remote_ep_to_rms_obj" alt="" coords="205,208,381,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#gad4753042f4812d4604b6574f5772600d" title="Find object with given obj_fid in provided confc. " alt="" coords="223,259,363,285"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#gaadae9fea7d72c15ceb235d62b96b9ab5" title="_spiel_conf_dir_iterate" alt="" coords="217,309,369,336"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga6dc7fd3c49090409bdf1690fec7b3121" title="spiel_pool__device\l_collection_fill" alt="" coords="227,361,359,402"/>
+</map>

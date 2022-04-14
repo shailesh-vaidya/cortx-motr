@@ -1,0 +1,16 @@
+<map id="m0_rpc_bulk_buflist_empty" name="m0_rpc_bulk_buflist_empty">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#gabac161dacbcd3406e94a1aae420bd089" title="m0_sns_cm_cp_recv_init" alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/d80/group___c_p.html#ga32e66befbd87c40a223f7371cf3fb993" title="m0_cm_cp_only_fini" alt="" coords="207,56,348,83"/>
+<area shape="rect" id="node4" href="$d4/d8c/group__conf__foms.html#ga1978e19c477ba1405bb005c201982f81" title="conf_zero_copy_initiate" alt="" coords="198,107,357,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a202f24ef8ebd59975f86e323c3dc4900" title="irfop_fini" alt="" coords="242,157,313,184"/>
+<area shape="rect" id="node6" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a67185937a057c1233131e9fc1976477d" title="dgmode_readio_test" alt="" coords="208,208,347,235"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="214,259,341,285"/>
+<area shape="rect" id="node8" href="$da/dda/io__fops_8c.html#a116ba102c07038051c72a289d6f96237" title="io_netbufs_prepare" alt="" coords="211,309,343,336"/>
+<area shape="rect" id="node9" href="$da/dda/io__fops_8c.html#a309c9cee737f1a0c685eb18504b27f9a" title="io_fop_desc_ivec_prepare" alt="" coords="411,335,584,361"/>
+<area shape="rect" id="node10" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="224,411,331,437"/>
+<area shape="rect" id="node11" href="$d7/df1/group__rpc-at.html#ga5ea47c2ff1028032fcd1bc618637c375" title="rpc_at_bulk_fini" alt="" coords="221,461,334,488"/>
+<area shape="rect" id="node12" href="$d7/df1/group__rpc-at.html#ga6c47168d8f6a226dd92d20685bd5780a" title="rpc_at_bulk_srecv" alt="" coords="213,512,341,539"/>
+<area shape="rect" id="node13" href="$d7/df1/group__rpc-at.html#ga243668a0f8e83f51672f793b7a7981c6" title="rpc_at_bulk_crecv" alt="" coords="213,563,341,589"/>
+<area shape="rect" id="node14" href="$d7/df1/group__rpc-at.html#ga81da0e94c1de2e587b05f7fa2acda212" title="rpc_at_bulk_ssend" alt="" coords="212,613,343,640"/>
+<area shape="rect" id="node15" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2dc4b3b81119f2ed269b4c552613796a" title="spiel_load_fop_fini" alt="" coords="213,664,342,691"/>
+</map>

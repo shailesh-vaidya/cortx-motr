@@ -1,0 +1,4 @@
+<map id="rpc_buffer_fini" name="rpc_buffer_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga8145d81073138b4730512671e086875f" title="packet_ready" alt="" coords="156,5,256,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga977c88f79c6767aea4b6c35c2b34250e" title="buf_send_cb" alt="" coords="158,56,254,83"/>
+</map>

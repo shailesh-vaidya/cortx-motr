@@ -1,0 +1,11 @@
+<map id="m0_ha_client_del" name="m0_ha_client_del">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga7995cbcfcc5784bcb66a761b18de596b" title="_confc_phony_fini" alt="" coords="202,5,329,32"/>
+<area shape="rect" id="node3" href="$df/d15/group__rconfc__dfspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="403,56,509,83"/>
+<area shape="rect" id="node4" href="$d7/d48/ut_2note_8c.html#a256b1e39a6e18b05833a6a032f641f02" title="test_ha_session_states" alt="" coords="557,81,717,108"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#ga9d1c8fb2df194543e51785b1d4ec9b69" title="rconfc_version_elected" alt="" coords="187,157,343,184"/>
+<area shape="rect" id="node6" href="$d7/d48/ut_2note_8c.html#a78f2629fb489b6fabc75cda951204378" title="test_ha_state_set_and_get" alt="" coords="176,208,355,235"/>
+<area shape="rect" id="node7" href="$d7/d48/ut_2note_8c.html#abb600ed43b519cbfdf7bfc2b4356e5d2" title="test_ha_state_accept" alt="" coords="192,259,339,285"/>
+<area shape="rect" id="node8" href="$d7/d48/ut_2note_8c.html#a064034cf30c1a46da381220888f3ddb1" title="ha_ut_conf_fini" alt="" coords="210,309,321,336"/>
+<area shape="rect" id="node9" href="$d9/d02/rmut_8h.html#a8b23693762639078ea661372f80a2068" title="rm_ctxs_conf_fini" alt="" coords="203,360,328,387"/>
+<area shape="rect" id="node10" href="$d9/dad/spiel__ci__ut_8c.html#ae07614040057b81156aff6f5cba84809" title="test_spiel_fs_stats" alt="" coords="199,411,331,437"/>
+</map>

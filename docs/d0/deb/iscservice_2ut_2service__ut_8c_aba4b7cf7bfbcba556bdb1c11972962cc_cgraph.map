@@ -1,0 +1,14 @@
+<map id="test_remote_err_path" name="test_remote_err_path">
+<area shape="rect" id="node2" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#ad26120808455b3cb04481e760b85bd7a" title="isc_ut_server_start" alt="" coords="207,46,340,73"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="413,21,532,48"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="199,97,348,124"/>
+<area shape="rect" id="node5" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#abee558610228f1e7c6f53680c0875e98" title="fid_get" alt="" coords="243,148,304,174"/>
+<area shape="rect" id="node6" href="$d6/d85/group__iscservice.html#ga6b15fb2986f99384e1b300f9b223d2b1" title="m0_isc_comp_register" alt="" coords="396,249,549,276"/>
+<area shape="rect" id="node7" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a04bf9be01bed7cd028de293e3c84c01e" title="string_update" alt="" coords="423,300,523,326"/>
+<area shape="rect" id="node8" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a86d084112f54a9fd59eb88de5aeb84da" title="isc_ut_client_start" alt="" coords="209,401,337,428"/>
+<area shape="rect" id="node9" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a64301833f9c488ea2238392fbe6d05fd" title="ret_codes_precond" alt="" coords="207,249,339,276"/>
+<area shape="rect" id="node10" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a2c9c60c8913d9b92f6290ebe07cfe0da" title="remote_invocation" alt="" coords="209,452,337,478"/>
+<area shape="rect" id="node11" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a2f93943e602e9a0eccc5eeb4238575e4" title="ret_codes_postcond" alt="" coords="204,300,343,326"/>
+<area shape="rect" id="node12" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a4d5b7dc78f7cab2ae0fdcd79f84767dc" title="isc_ut_client_stop" alt="" coords="210,502,337,529"/>
+<area shape="rect" id="node13" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a8b8bc3ccdf12ccdd8a1b121f306088f7" title="isc_ut_server_stop" alt="" coords="207,553,339,580"/>
+</map>

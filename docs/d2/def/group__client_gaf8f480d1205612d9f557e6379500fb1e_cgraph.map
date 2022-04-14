@@ -1,0 +1,9 @@
+<map id="index_op_tail" name="index_op_tail">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="163,5,269,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="170,56,262,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="328,81,395,108"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#gae53554ca1c5aff7228036c768655ad2c" title="m0_console_printf" alt="" coords="152,157,280,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="173,208,259,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="171,259,261,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="165,309,267,336"/>
+</map>

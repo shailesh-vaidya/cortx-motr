@@ -1,0 +1,8 @@
+<map id="be_engine_got_tx_open" name="be_engine_got_tx_open">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaceb81dff92372aff7f1189675a09118f" title="be_engine_is_locked" alt="" coords="447,33,589,60"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga90615a898de320722a30ed4b4159da0a" title="be_engine_tx_state_post" alt="" coords="222,33,389,60"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf670692fcb3107c61262998a22368cdd" title="be_engine_tx_opening_peek" alt="" coords="212,84,399,110"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga044f22f969951defa364744ffbdf4b05" title="m0_be_tx_credit_le" alt="" coords="238,134,373,161"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaca8b034d9d6db9c37d532a0595b7ce6a" title="m0_be_group_format\l_log_reserved_size" alt="" coords="233,186,377,227"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6cc4e979f5ef881d892765c172939024" title="m0_be_log_reserve" alt="" coords="238,252,373,278"/>
+</map>

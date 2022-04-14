@@ -1,0 +1,7 @@
+<map id="ha_fini" name="ha_fini">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#abcd8a423814b59d396bb0c127ca23f72" title="ha_process_event" alt="" coords="131,5,259,32"/>
+<area shape="rect" id="node3" href="$d1/df2/group__motr.html#ga6699f08ccb2c00b9132c61ded11079f5" title="m0_motr_ha_disconnect" alt="" coords="113,56,277,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="325,132,415,159"/>
+<area shape="rect" id="node5" href="$d1/df2/group__motr.html#gac0356dbaba1078bd19523fd4c9ab4f2d" title="m0_motr_ha_stop" alt="" coords="132,157,259,184"/>
+<area shape="rect" id="node6" href="$d1/df2/group__motr.html#ga69eb5bc3fbd98e6ebc78352a916e3d78" title="m0_motr_ha_fini" alt="" coords="136,208,255,235"/>
+</map>

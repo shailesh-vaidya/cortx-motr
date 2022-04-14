@@ -1,0 +1,10 @@
+<map id="builkio_ut_stob_get" name="builkio_ut_stob_get">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#gac46fb755845a2224cfae67b60e87c6e3" title="m0_cs_storage_devs_get" alt="" coords="188,5,359,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga90d0bf5f7f45ddcf38bf3f3636d43c90" title="m0_stob_get" alt="" coords="225,56,322,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="407,81,536,108"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="195,157,351,184"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#gac0ac8aabf350fbdb3371277a03487251" title="m0_storage_devs_find\l_by_dom" alt="" coords="197,209,350,250"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="226,275,321,301"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#ga0ca23a279747e0964a3346127ba0a463" title="m0_storage_dev_get" alt="" coords="202,325,345,352"/>
+<area shape="rect" id="node9" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="188,376,359,403"/>
+</map>

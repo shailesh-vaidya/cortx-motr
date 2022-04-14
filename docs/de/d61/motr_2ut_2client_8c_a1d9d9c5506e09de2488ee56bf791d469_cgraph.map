@@ -1,0 +1,10 @@
+<map id="ut_test_m0_op_launch" name="ut_test_m0_op_launch">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="222,5,342,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="207,56,357,83"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#a63fa50f83403c5750ba046a783b4a96a" title="ut_init_fake_op" alt="" coords="227,107,337,133"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#a880dfcce639979f95dc34b7f74c627e8" title="ut_launch_cb_pass" alt="" coords="215,157,349,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="229,208,335,235"/>
+<area shape="rect" id="node7" href="$de/d61/motr_2ut_2client_8c.html#a57b3a69eeda549e7820d25178cb3ee6a" title="ut_launch_cb_fail" alt="" coords="221,259,343,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="231,309,333,336"/>
+<area shape="rect" id="node9" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="222,360,342,387"/>
+</map>

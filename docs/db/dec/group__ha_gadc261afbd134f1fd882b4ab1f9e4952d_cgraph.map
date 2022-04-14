@@ -1,0 +1,10 @@
+<map id="halon_interface_msg_received_cb" name="halon_interface_msg_received_cb">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga4643027e14ea9119d386f44702124b29" title="halon_interface_ha2hii" alt="" coords="207,5,358,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gadf6ec5d30fd099e9801ca3a30c76177d" title="m0_ha_rpc_endpoint" alt="" coords="211,56,354,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="417,157,457,184"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga30ec6e28befa28f5792c80d9e0b6cbf4" title="m0_ha_msg_debug_print" alt="" coords="199,157,366,184"/>
+<area shape="rect" id="node6" href="$d5/d7c/group__ha-dispatcher.html#ga54eaf6d070fa0e24617e47d683f278ef" title="m0_ha_dispatcher_handle" alt="" coords="196,208,369,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga0e1b67998c00615ec26f3e037342f661" title="halon_interface_process\l_failure_check" alt="" coords="201,259,364,301"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga48fdb02f57b7b19a649d50ad5fe6d092" title="m0_ha_delivered" alt="" coords="223,325,343,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="238,376,327,403"/>
+</map>

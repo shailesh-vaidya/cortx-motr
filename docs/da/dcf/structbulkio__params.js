@@ -1,0 +1,27 @@
+var structbulkio__params =
+[
+    [ "bp_caddr", "da/dcf/structbulkio__params.html#afeda53b1022e265f56b462a024615a4f", null ],
+    [ "bp_ccbdom", "da/dcf/structbulkio__params.html#a8ebd2b2285bb1d84066d6fa10d0c0dff", null ],
+    [ "bp_cctx", "da/dcf/structbulkio__params.html#acd86cdbdf80980f75618e9b112282c42", null ],
+    [ "bp_cdbname", "da/dcf/structbulkio__params.html#afcbbee426029a502d42c1df5d009ea7e", null ],
+    [ "bp_cnetdom", "da/dcf/structbulkio__params.html#a262babb324158c976f6aa86be42f3196", null ],
+    [ "bp_fids", "da/dcf/structbulkio__params.html#a448334e0311907ec485b59ac25a63977", null ],
+    [ "bp_file", "da/dcf/structbulkio__params.html#a6c61f8ce67be41480c1f85e2b96c7af1", null ],
+    [ "bp_flock_rt", "da/dcf/structbulkio__params.html#ae02a2181d2d706bb6cad1d60f2e26c73", null ],
+    [ "bp_iobuf", "da/dcf/structbulkio__params.html#a72beeaf59ec3812e7c9d70e15fde7d07", null ],
+    [ "bp_offsets", "da/dcf/structbulkio__params.html#a8bdcfedd6be0967870bd8c8381c7dc89", null ],
+    [ "bp_rdom", "da/dcf/structbulkio__params.html#a64c748c770d6467cf3283291f3d0a53e", null ],
+    [ "bp_readbuf", "da/dcf/structbulkio__params.html#a130ff23fb6fa04f2ab75b4f1173127b2", null ],
+    [ "bp_remid", "da/dcf/structbulkio__params.html#aaf7ba876fb5b7c21c2b497e51741a5cd", null ],
+    [ "bp_rfops", "da/dcf/structbulkio__params.html#a21ac8b4a60a5c0e5a6e6e2b608d323c5", null ],
+    [ "bp_rfops_nr", "da/dcf/structbulkio__params.html#a291cc8209fb3049a304c892a60857c31", null ],
+    [ "bp_saddr", "da/dcf/structbulkio__params.html#a1f1841541563984d9d02cac4be6c9eb6", null ],
+    [ "bp_sctx", "da/dcf/structbulkio__params.html#a0c484238e754e698d5a74af6d675fa1a", null ],
+    [ "bp_seg_nr", "da/dcf/structbulkio__params.html#acdc7d42c1f38a012b2bceffb0c18b89d", null ],
+    [ "bp_slogfile", "da/dcf/structbulkio__params.html#ad9a17b9ddf1aa8e15b8efea45c9dd2ae", null ],
+    [ "bp_threads", "da/dcf/structbulkio__params.html#a2d93b74676e2b2788c87381734401b5a", null ],
+    [ "bp_wfops", "da/dcf/structbulkio__params.html#a1bd4f888e6361ff19f1778cbfb821768", null ],
+    [ "bp_wfops_nr", "da/dcf/structbulkio__params.html#a9cf7602155e5181a230b4764d5d37a5f", null ],
+    [ "bp_writebuf", "da/dcf/structbulkio__params.html#a78dfbb2c9efca66bc87261bd282ef8fd", null ],
+    [ "bp_xprt", "da/dcf/structbulkio__params.html#ad8dacbe3a323b8b7141a4412debfe184", null ]
+];

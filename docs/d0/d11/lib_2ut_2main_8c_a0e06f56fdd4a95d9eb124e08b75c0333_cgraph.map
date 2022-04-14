@@ -1,0 +1,28 @@
+<map id="test_locality" name="test_locality">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="169,5,276,32"/>
+<area shape="rect" id="node3" href="$d9/d85/ut_2locality_8c.html#a747f9355ac7d5e4237fc9890171c60a1" title="m0_ut__reqh_init" alt="" coords="162,56,283,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="155,107,290,133"/>
+<area shape="rect" id="node5" href="$d9/d85/ut_2locality_8c.html#a1a5d14fee5fd8d6dcd6d7a51755b379f" title="_cb0" alt="" coords="197,157,248,184"/>
+<area shape="rect" id="node6" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="163,208,283,235"/>
+<area shape="rect" id="node7" href="$d8/dec/group__locality.html#gabc71d9f29c0cc950480c2bc876e1ae07" title="m0_locality_get" alt="" coords="353,259,466,285"/>
+<area shape="rect" id="node8" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="519,284,629,311"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="348,613,471,640"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="148,411,297,437"/>
+<area shape="rect" id="node11" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="167,461,278,488"/>
+<area shape="rect" id="node12" href="$d7/da7/group__processor.html#gab53991d09969970bb10218a072d1cd6b" title="m0_processor_nr_max" alt="" coords="145,512,300,539"/>
+<area shape="rect" id="node13" href="$d7/da7/group__processor.html#ga6d7b1eeb7e64a79985792f29f3b92778" title="m0_processors_online" alt="" coords="147,563,299,589"/>
+<area shape="rect" id="node14" href="$d9/d85/ut_2locality_8c.html#ab9fa1711df2a819484e6a9993efebff0" title="tick_once" alt="" coords="183,613,262,640"/>
+<area shape="rect" id="node15" href="$d9/d85/ut_2locality_8c.html#a4bbf2bb674029c658a2f71c00377d04c" title="free_func" alt="" coords="185,664,261,691"/>
+<area shape="rect" id="node16" href="$d5/d8c/group__reqh.html#ga6c8c49d2292e236f7f005d6dccd189c0" title="m0_reqh_idle_wait" alt="" coords="157,715,288,741"/>
+<area shape="rect" id="node17" href="$d9/d85/ut_2locality_8c.html#ae04942d20df44dc6dc5af8e2b80c8ee2" title="simple_tick" alt="" coords="179,765,267,792"/>
+<area shape="rect" id="node18" href="$d9/d85/ut_2locality_8c.html#ada5ac2765624b6232b499b9b6c8cab1d" title="semisimple_tick" alt="" coords="165,816,281,843"/>
+<area shape="rect" id="node19" href="$d1/d59/group__fom.html#gade627e51949dfe7829e01aee4f03513f" title="m0_fom_wakeup" alt="" coords="162,867,283,893"/>
+<area shape="rect" id="node20" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="160,917,285,944"/>
+<area shape="rect" id="node21" href="$d1/d59/group__fom.html#ga8d6222a9b6fc2accb6495df07ee665e0" title="m0_fom_simple_hoard" alt="" coords="146,968,299,995"/>
+<area shape="rect" id="node22" href="$d9/d85/ut_2locality_8c.html#a0dbc098c68013553657f87b57b5307b1" title="cat_tick" alt="" coords="189,1019,257,1045"/>
+<area shape="rect" id="node23" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="160,1069,285,1096"/>
+<area shape="rect" id="node24" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="155,1120,290,1147"/>
+<area shape="rect" id="node25" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="167,1171,278,1197"/>
+<area shape="rect" id="node26" href="$d9/d85/ut_2locality_8c.html#a9623ccad5486300af0e1e267d1fff669" title="m0_ut__reqh_fini" alt="" coords="162,1221,283,1248"/>
+<area shape="rect" id="node27" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="169,1272,276,1299"/>
+</map>

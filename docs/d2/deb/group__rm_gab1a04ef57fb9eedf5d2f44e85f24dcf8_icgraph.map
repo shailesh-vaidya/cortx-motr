@@ -1,0 +1,22 @@
+<map id="m0_rm_incoming_fini" name="m0_rm_incoming_fini">
+<area shape="rect" id="node2" href="$de/d3f/group___file_lock.html#gafd6834f89c127fefbc03dce4488236dc" title="m0_file_unlock" alt="" coords="237,5,346,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga1e358878872b2545ee4db012be0d1737" title="rm_lock_req_fini" alt="" coords="233,56,350,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga389564d613684c1f52950f0e03664b55" title="incoming_prepare" alt="" coords="229,107,353,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga1fe76f545e092de61f8fdfd31a709169" title="request_pre_process" alt="" coords="440,132,583,159"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gacd3d5bceb6381f5a884569ed5a7c181b" title="request_post_process" alt="" coords="216,208,367,235"/>
+<area shape="rect" id="node7" href="$d0/d26/group___distributed.html#ga38dffb818fa32f65bbabf438c7cbf8b2" title="m0_rm_rwlock_req_fini" alt="" coords="213,259,369,285"/>
+<area shape="rect" id="node8" href="$da/dcf/wlock__helper_8c.html#a35ec5572cdba27ef29eda4022f80806e" title="_write_lock_put" alt="" coords="235,309,348,336"/>
+<area shape="rect" id="node9" href="$db/d70/group_8c.html#ace4b590227394eff6e40595fc86fb0d3" title="ring_get" alt="" coords="257,360,325,387"/>
+<area shape="rect" id="node10" href="$da/d70/lcredits_8c.html#a590dd44a96d12617fbcc7cf89389700c" title="credits_pinned_number_test" alt="" coords="199,411,384,437"/>
+<area shape="rect" id="node11" href="$da/d70/lcredits_8c.html#a9e796fcc39ffe80841b174d59168d7a9" title="cached_credits_test" alt="" coords="222,461,361,488"/>
+<area shape="rect" id="node12" href="$da/d70/lcredits_8c.html#acb3d52b9027ba93ca08749b42a578833" title="held_credits_test" alt="" coords="231,512,352,539"/>
+<area shape="rect" id="node13" href="$da/d70/lcredits_8c.html#a0be0e9084a5be4d52f9bccc17f99f367" title="held_non_conflicting_test" alt="" coords="207,563,376,589"/>
+<area shape="rect" id="node14" href="$da/d70/lcredits_8c.html#aaa1d8b0a750b28d5cec683a290ff112a" title="reserved_credit_get_test" alt="" coords="209,613,374,640"/>
+<area shape="rect" id="node15" href="$da/d70/lcredits_8c.html#a606a068f45c79ab6dafc8029399fd217" title="barrier_on_barrier_test" alt="" coords="216,664,367,691"/>
+<area shape="rect" id="node16" href="$d6/d94/rcredits_8c.html#ad0a07991248a89d48b9d2506d984dda2" title="held_credit_cache" alt="" coords="228,765,355,792"/>
+<area shape="rect" id="node17" href="$d6/d94/rcredits_8c.html#a872f038c77df5fe845de10278702f40b" title="test_barrier_overcome" alt="" coords="436,715,587,741"/>
+<area shape="rect" id="node18" href="$d6/d94/rcredits_8c.html#a88120a01d5607c07814748a2fd47ef21" title="test_barrier_same_time" alt="" coords="432,791,591,817"/>
+<area shape="rect" id="node19" href="$d6/d94/rcredits_8c.html#a3e2a5e3b20fbfe2824d3f856269f443a" title="test_no_borrow_flag" alt="" coords="222,867,361,893"/>
+<area shape="rect" id="node20" href="$d5/d57/rmapi_8c.html#aaea5349197a3f7f9317950776d529a9b" title="credits_api_test" alt="" coords="234,917,349,944"/>
+<area shape="rect" id="node21" href="$df/d3a/group__spiel-api-fspec-intr.html#gaf05a9d9f5f8ebd2bfb99d852d0f748ab" title="_spiel_tx_write_lock_put" alt="" coords="209,968,374,995"/>
+</map>

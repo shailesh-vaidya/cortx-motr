@@ -1,0 +1,9 @@
+<map id="m0_sns_ir_recover" name="m0_sns_ir_recover">
+<area shape="rect" id="node2" href="$df/df3/group__bitmap.html#gaa195fd9b75a24c308a99d791404d80b8" title="m0_bitmap_set_nr" alt="" coords="185,5,315,32"/>
+<area shape="rect" id="node3" href="$da/d46/parity__math_8c.html#a42272c9b1ac7c7ed9fc798683ba93f11" title="is_valid_block_idx" alt="" coords="186,56,314,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga1e27c31e566d16ae1701d211516844a6" title="m0_bitmap_ffs" alt="" coords="197,107,303,133"/>
+<area shape="rect" id="node5" href="$da/d46/parity__math_8c.html#a5107ca57cd0b136f563c7e14c7699646" title="ir_recover" alt="" coords="211,157,289,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="363,183,429,209"/>
+<area shape="rect" id="node7" href="$da/d46/parity__math_8c.html#a98d6e17cfbe7ff402624fb5c0646895c" title="is_usable" alt="" coords="211,259,289,285"/>
+<area shape="rect" id="node8" href="$da/d46/parity__math_8c.html#a96990592e6d949fd2c8527d1f413e5ea" title="gfaxpy" alt="" coords="219,309,281,336"/>
+</map>

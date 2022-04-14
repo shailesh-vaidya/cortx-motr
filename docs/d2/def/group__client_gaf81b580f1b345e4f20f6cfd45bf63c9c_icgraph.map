@@ -1,0 +1,5 @@
+<map id="m0_entity_sync" name="m0_entity_sync">
+<area shape="rect" id="node2" href="$d1/de5/osync_8c.html#a0e5a764dcdba47eeb50d015777764a12" title="osync_after_each_write" alt="" coords="168,5,328,32"/>
+<area shape="rect" id="node3" href="$d1/de5/osync_8c.html#af80f97ffb56c42e9d540ce952f686c20" title="osync_after_writes" alt="" coords="182,56,314,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a27498f6d4abcd758e435ca3bd47f06f8" title="call_m0_obj_sync" alt="" coords="185,107,311,133"/>
+</map>

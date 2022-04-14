@@ -1,0 +1,8 @@
+<map id="m0_rpc_conn_create" name="m0_rpc_conn_create">
+<area shape="rect" id="node2" href="$d3/d5a/rpclib_8h.html#a4a1aeaec26fa5604b23b02420fc4ccd9" title="m0_rpc_client_connect" alt="" coords="199,5,355,32"/>
+<area shape="rect" id="node3" href="$d3/d31/rcv__session_8c.html#a9d873a5dae9d88c7ae37209a6f0f1dae" title="test_conn_establish" alt="" coords="208,56,347,83"/>
+<area shape="rect" id="node4" href="$d3/d31/rcv__session_8c.html#ae5ec2ba8fa9071905679250fd7280491" title="test_session_establish" alt="" coords="200,107,355,133"/>
+<area shape="rect" id="node5" href="$d3/d31/rcv__session_8c.html#ac0b282ebd12f06e6b425ebac4a7dce98" title="test_session_terminate" alt="" coords="199,157,356,184"/>
+<area shape="rect" id="node6" href="$d3/d31/rcv__session_8c.html#a14355841dd2e01ddc6af21b2858e8b5d" title="test_conn_terminate" alt="" coords="207,208,347,235"/>
+<area shape="rect" id="node7" href="$d3/d31/rcv__session_8c.html#a4168742bc5f2e77b7d13584b4fcb2515" title="test_conn_ha_subscribe" alt="" coords="196,259,359,285"/>
+</map>

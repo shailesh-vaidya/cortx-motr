@@ -1,0 +1,8 @@
+<map id="ref_parity_calculate" name="ref_parity_calculate">
+<area shape="rect" id="node2" href="$d9/d5b/repair_2ut_2xform_8c.html#a9788fd300c6b76dc5bd50d88105a8a4b" title="buf_initialize" alt="" coords="228,5,323,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga76bf6ba520361324e84244cec225549c" title="m0_bufvec_to_buf_copy" alt="" coords="193,56,357,83"/>
+<area shape="rect" id="node4" href="$d6/d25/group__parity__math.html#gab2ab27b620b4a74003a52d0a7c9fe2c8" title="m0_parity_math_calculate" alt="" coords="188,107,363,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gad82d74793518bb89c9b61abd16161a27" title="m0_buf_to_bufvec_copy" alt="" coords="193,157,357,184"/>
+<area shape="rect" id="node6" href="$d9/d5b/repair_2ut_2xform_8c.html#aecdfe7d29782596a93b1d59f5acd5bed" title="buf_free" alt="" coords="241,208,310,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="241,259,310,285"/>
+</map>

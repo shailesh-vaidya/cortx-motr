@@ -1,0 +1,10 @@
+<map id="m0_be_tx_group_cfg" name="m0_be_tx_group_cfg">
+<area shape="rect" id="node2" href="$de/d60/structm0__be__log__discard.html" title="{m0_be_log_discard\n||}" alt="" coords="539,248,674,325"/>
+<area shape="rect" id="node9" href="$d5/d1b/structm0__be__domain.html" title="{m0_be_domain\n||}" alt="" coords="631,451,742,528"/>
+<area shape="rect" id="node11" href="$d3/d2e/structm0__be__group__format__cfg.html" title="{m0_be_group_format_cfg\n||}" alt="" coords="873,451,1042,528"/>
+<area shape="rect" id="node4" href="$d0/df0/structm0__be__tx__credit.html" title="{m0_be_tx_credit\n||}" alt="" coords="125,591,243,668"/>
+<area shape="rect" id="node6" href="$d9/da2/structm0__reqh.html" title="{m0_reqh\n||}" alt="" coords="331,349,403,427"/>
+<area shape="rect" id="node7" href="$dd/d9f/structm0__be__log.html" title="{m0_be_log\n||}" alt="" coords="716,248,801,325"/>
+<area shape="rect" id="node8" href="$df/d49/structm0__be__pd.html" title="{m0_be_pd\n||}" alt="" coords="1027,248,1109,325"/>
+<area shape="rect" id="node10" href="$d2/dc6/structm0__be__engine.html" title="{m0_be_engine\n||}" alt="" coords="576,591,683,668"/>
+</map>

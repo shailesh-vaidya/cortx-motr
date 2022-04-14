@@ -1,0 +1,6 @@
+<map id="m0_be_recovery_log_record_get" name="m0_be_recovery_log_record_get">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="233,5,347,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="226,56,354,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga4be45106b4ba34b672f2152d01f8fca7" title="m0_be_log_record_iter_copy" alt="" coords="196,107,384,133"/>
+<area shape="rect" id="node5" href="$da/d75/recovery_8c.html#a3fe8e0974cb1c1278181b26364656177" title="be_recovery_log_record\l_iter_destroy" alt="" coords="210,158,370,199"/>
+</map>

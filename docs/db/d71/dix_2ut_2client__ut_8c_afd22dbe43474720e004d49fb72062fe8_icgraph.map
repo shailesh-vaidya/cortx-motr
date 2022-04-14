@@ -1,0 +1,25 @@
+<map id="dix_index_fini" name="dix_index_fini">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a4a5d47714214bdbdaabfeea88d42a6e3" title="dix_create" alt="" coords="181,5,263,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a6a9f276de9c980a3226ab0d520215593" title="dix_create_crow" alt="" coords="163,56,281,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#afc2fbf32fd1bc9a5f4511f1bcdeafd74" title="dix_create_dgmode" alt="" coords="155,107,289,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a2cd3df487a8393b5f397a4f0694aca9e" title="dix_delete" alt="" coords="181,157,263,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a5b62c112034e4ee767809d7e698f83e9" title="dix_delete_crow" alt="" coords="164,208,280,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#a5f9d8a6e0717f4b29f481e2f754c052c" title="dix_delete_dgmode" alt="" coords="155,259,289,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a3754bb4d87418fb944e26bc1f5ec9af5" title="dix_list" alt="" coords="191,309,253,336"/>
+<area shape="rect" id="node9" href="$db/d71/dix_2ut_2client__ut_8c.html#a9c7cc8b35278658495320301e5338e0e" title="dix_cctgs_lookup" alt="" coords="161,360,283,387"/>
+<area shape="rect" id="node10" href="$db/d71/dix_2ut_2client__ut_8c.html#afff1c05194935818efb75a6e91364c06" title="dix_put" alt="" coords="190,411,254,437"/>
+<area shape="rect" id="node11" href="$db/d71/dix_2ut_2client__ut_8c.html#af86955ceb7d1fa13f2eaafa8bdd90ab6" title="dix_put_overwrite" alt="" coords="160,461,284,488"/>
+<area shape="rect" id="node12" href="$db/d71/dix_2ut_2client__ut_8c.html#a006827d9ed7bc88a619ae6d295b91e35" title="dix_put_crow" alt="" coords="173,512,271,539"/>
+<area shape="rect" id="node13" href="$db/d71/dix_2ut_2client__ut_8c.html#a2e3856ce33b6f6825776b5fedd341e68" title="dix_put_dgmode" alt="" coords="163,563,281,589"/>
+<area shape="rect" id="node14" href="$db/d71/dix_2ut_2client__ut_8c.html#a14e95f51e264634f66dd5462b92ea67c" title="dix_get" alt="" coords="190,613,254,640"/>
+<area shape="rect" id="node15" href="$db/d71/dix_2ut_2client__ut_8c.html#a6734cac47b9bac731278521779a92ebd" title="dix_get_dgmode" alt="" coords="163,664,281,691"/>
+<area shape="rect" id="node16" href="$db/d71/dix_2ut_2client__ut_8c.html#ad6a7f1f1658e57c215b5d5a86bbf5cdd" title="dix_get_resend" alt="" coords="167,715,277,741"/>
+<area shape="rect" id="node17" href="$db/d71/dix_2ut_2client__ut_8c.html#a100ce36bda6630fb7f90520d3f2904e9" title="dix_next" alt="" coords="187,765,257,792"/>
+<area shape="rect" id="node18" href="$db/d71/dix_2ut_2client__ut_8c.html#adb1876f1e2d996e07ab02d1eb85af644" title="dix_next_crow" alt="" coords="169,816,275,843"/>
+<area shape="rect" id="node19" href="$db/d71/dix_2ut_2client__ut_8c.html#ac619cf0b393d0f7b96b9c2ba70e7ca95" title="dix_next_dgmode" alt="" coords="160,867,284,893"/>
+<area shape="rect" id="node20" href="$db/d71/dix_2ut_2client__ut_8c.html#ab874297eb5ba5bd770ad4d1f1a760544" title="dix_del" alt="" coords="191,917,253,944"/>
+<area shape="rect" id="node21" href="$db/d71/dix_2ut_2client__ut_8c.html#af242a3f073a03347c301ae620459292d" title="dix_del_dgmode" alt="" coords="164,968,280,995"/>
+<area shape="rect" id="node22" href="$db/d71/dix_2ut_2client__ut_8c.html#a11c2586daf8a73151aedca88e2456b2f" title="dix_null_value" alt="" coords="170,1019,274,1045"/>
+<area shape="rect" id="node23" href="$db/d71/dix_2ut_2client__ut_8c.html#a436cbfbfdaa7cabeaeb6b1cb737b30ac" title="local_failures" alt="" coords="173,1069,271,1096"/>
+<area shape="rect" id="node24" href="$db/d71/dix_2ut_2client__ut_8c.html#ab492ddd1be567c3d7c79800e26143e80" title="server_is_down" alt="" coords="165,1120,279,1147"/>
+</map>

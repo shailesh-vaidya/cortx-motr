@@ -1,0 +1,8 @@
+<map id="idx_pick_keys" name="idx_pick_keys">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="195,5,269,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#a4b7d475efcee116629d76e2fa5005739" title="get_max_nr_kv_pairs" alt="" coords="159,56,305,83"/>
+<area shape="rect" id="node4" href="$d8/d84/st__misc_8c.html#a79defe9fd0a25c6cb95dcf18bb2bf1dd" title="generate_random" alt="" coords="171,107,293,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#affd69e8099c9d87a162a2a2d0faecccd" title="is_kv_pair_deleted" alt="" coords="167,157,297,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="197,208,267,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="192,259,272,285"/>
+</map>

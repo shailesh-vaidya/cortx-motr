@@ -1,0 +1,12 @@
+<map id="m0_cob_domain_create" name="m0_cob_domain_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="445,39,521,66"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gaa21c50f5365b3cc84517a841539911ed" title="m0_cob_domain_credit_add" alt="" coords="213,39,397,66"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="449,98,518,124"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="450,178,517,204"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga175328f0c01a64b996894fff5a350565" title="m0_be_tx_init" alt="" coords="254,324,357,351"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="250,375,361,402"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gad4b3db1e468c610593a66336fe64f79d" title="m0_be_tx_exclusive\l_open_sync" alt="" coords="235,258,376,300"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#ga31343e8831788670db6c2015e9548ede" title="m0_cob_domain_create\l_prepared" alt="" coords="225,90,385,132"/>
+<area shape="rect" id="node10" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="229,426,381,452"/>
+<area shape="rect" id="node11" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="254,476,357,503"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="m0_rwlockable_domain_type_init" name="m0_rwlockable_domain_type_init">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#gaefc0cef7643e27b6d0459ab6a55e2ea2" title="rlock_ctx_read_domain_init" alt="" coords="212,5,392,32"/>
+<area shape="rect" id="node3" href="$da/dcf/wlock__helper_8c.html#aa067f990c2fa0a01b887f7d8f3db846d" title="wlock_ctx_create" alt="" coords="240,56,364,83"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa07b889c3e4b744a2f2b6461ff6968f1" title="spiel_rwlockable_write\l_domain_init" alt="" coords="225,107,379,149"/>
+</map>

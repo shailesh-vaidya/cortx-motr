@@ -1,0 +1,14 @@
+<map id="m0_sns_cm_fctx_unlock" name="m0_sns_cm_fctx_unlock">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga05640da48fa4d5e3fd739a82f0793a30" title="repair_ag_target_unit" alt="" coords="239,44,381,71"/>
+<area shape="rect" id="node3" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="458,37,607,78"/>
+<area shape="rect" id="node4" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#a39c401bf00dbd7d43783f958320de4cf" title="rebalance_ag_in_cp\l_units" alt="" coords="464,248,601,289"/>
+<area shape="rect" id="node5" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#a6b6a04161d4017142ffc3c9b93f8d980" title="_tgt_check_and_change" alt="" coords="229,399,391,426"/>
+<area shape="rect" id="node6" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa8607f34c03bba78736c5a0eb29620b0" title="is_spare_relevant" alt="" coords="248,298,372,324"/>
+<area shape="rect" id="node7" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa2e678c37e6bea0efaf8169692fb690a" title="rebalance_ag_is_relevant" alt="" coords="448,331,617,358"/>
+<area shape="rect" id="node8" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#aad98c4dc4ac8936d8f79334136881f2f" title="repair_ag_in_cp_units" alt="" coords="459,124,607,151"/>
+<area shape="rect" id="node9" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a4ef7eff6585b59d69f49250439f435fc" title="repair_ag_is_relevant" alt="" coords="460,188,605,215"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#ga5a9a0287f77c2c8e4807e5c86e8141fe" title="iter_cp_setup" alt="" coords="260,450,360,476"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga825630e73647053c800600f8a691263f" title="m0_sns_cm_file_fwd_map" alt="" coords="221,500,399,527"/>
+<area shape="rect" id="node12" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga48db503783d14048a5a5aef21e3cfb31" title="m0_sns_cm_file_bwd_map" alt="" coords="220,551,400,578"/>
+<area shape="rect" id="node13" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="221,95,399,122"/>
+</map>

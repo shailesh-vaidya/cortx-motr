@@ -1,0 +1,9 @@
+<map id="m0_ha_ut_cookie" name="m0_ha_ut_cookie">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga456af3ba272841a368f81e615f123819" title="m0_ha_cookie_init" alt="" coords="192,5,323,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga89283d49a31ae6a1404afaa5bd027b82" title="m0_ha_cookie_is_eq" alt="" coords="385,81,529,108"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga7f5e39df92755cb753643defc45fbe92" title="m0_ha_cookie_record" alt="" coords="183,107,332,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gac1fc5e82f86022077301d07033296367" title="m0_ha_cookie_fini" alt="" coords="192,157,323,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="223,208,292,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gadd9cbca50d676ddc9041871e8612858d" title="m0_ha_cookie_to_xc" alt="" coords="185,259,330,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#gaecd0453ee0fbde21b363e34000a0811c" title="m0_ha_cookie_from_xc" alt="" coords="177,309,337,336"/>
+</map>

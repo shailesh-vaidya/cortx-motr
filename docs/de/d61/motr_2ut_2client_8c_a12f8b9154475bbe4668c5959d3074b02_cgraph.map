@@ -1,0 +1,11 @@
+<map id="ut_test_entity_invariant_locked" name="ut_test_entity_invariant_locked">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="228,5,348,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga536cbbd7d309612ab9d2a4bd37b38e15" title="m0_container_init" alt="" coords="226,56,350,83"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="213,107,363,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="224,157,352,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="421,284,555,311"/>
+<area shape="rect" id="node7" href="$d6/db6/motr_2client_8c.html#aa67abe9c59ccbbb4fba50ac81576cc8a" title="entity_invariant_locked" alt="" coords="211,259,365,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="413,335,563,361"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="237,309,339,336"/>
+<area shape="rect" id="node10" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="228,411,348,437"/>
+</map>

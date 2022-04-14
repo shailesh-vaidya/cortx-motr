@@ -1,0 +1,10 @@
+<map id="m0_conf_obj_get" name="m0_conf_obj_get">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gad4b343fb8c155c7c8662bbd0d004d1e8" title="path_walk_complete" alt="" coords="185,5,326,32"/>
+<area shape="rect" id="node3" href="$d2/d01/group__confd__dlspec.html#gafaeb7813cd094497d66eb7f19513738f" title="confd_path_walk" alt="" coords="195,56,315,83"/>
+<area shape="rect" id="node4" href="$dd/d06/conf_2objs_2dir_8c.html#a2d82dffe457fe264718400909a4daff1" title="dir_readdir" alt="" coords="214,107,297,133"/>
+<area shape="rect" id="node5" href="$d9/d40/group__conf__dfspec__objops.html#gacb5a46061ba2abadd41969f918326a39" title="m0_conf_obj_get_lock" alt="" coords="179,157,331,184"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#gabf8da6dbb2147c2e047e6cf57af305ed" title="m0_reqh_service_ctx\l_subscribe" alt="" coords="182,209,329,250"/>
+<area shape="rect" id="node7" href="$de/df4/group__rm-ha.html#gad902d974530d0fb776b1349352740b9e" title="rm_ha_sbscr_diter_next" alt="" coords="175,275,336,301"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga80e68093fff80af547362ee271a11891" title="__conn_ha_subscribe" alt="" coords="181,325,329,352"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#gac26be0088ad6f5f824644a2fadb147e1" title="spiel_pver_iterator" alt="" coords="191,376,319,403"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="node_ping_test_init_fini" name="node_ping_test_init_fini">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga7ba4301f569cef87364477120b264bda" title="fini" alt="" coords="275,5,313,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="227,56,361,83"/>
+<area shape="rect" id="node4" href="$da/d64/group___net_test_ringbuf_internals.html#ga9c8d8b7998c68fa8da134b1b93cbf00c" title="m0_net_test_ringbuf_init" alt="" coords="212,107,376,133"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#gae02b66ff50c7ba2c53e102688c14bef9" title="m0_net_test_network\l_timeouts_never" alt="" coords="221,158,367,199"/>
+<area shape="rect" id="node6" href="$df/d38/group___net_test_network_internals.html#ga7a4ec3c1cbf2bc019165a65f7e9e794c" title="m0_net_test_network\l_ctx_init" alt="" coords="221,223,367,265"/>
+<area shape="rect" id="node7" href="$df/d38/group___net_test_network_internals.html#ga9f1990e0694e1d764941322e0f9e2049" title="m0_net_test_network\l_ep_add_slist" alt="" coords="221,289,367,330"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#gacef208f1e12227468c1acec1fe10ee3a" title="m0_net_test_network\l_ctx_fini" alt="" coords="221,354,367,395"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="424,445,493,472"/>
+<area shape="rect" id="node10" href="$da/d64/group___net_test_ringbuf_internals.html#ga64a1e0250068d119fcbdbeff164a0334" title="m0_net_test_ringbuf_fini" alt="" coords="212,471,376,497"/>
+<area shape="rect" id="node11" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="227,521,361,548"/>
+</map>

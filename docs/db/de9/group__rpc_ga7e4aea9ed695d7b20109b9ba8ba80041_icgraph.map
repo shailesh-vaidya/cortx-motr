@@ -1,0 +1,4 @@
+<map id="net_buffer_free" name="net_buffer_free">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga2c9f886fa1fc289e8e6990d5c47fd414" title="rpc_buffer_init" alt="" coords="161,5,264,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga16bb1f487d29a22a46b87b0ad5148d02" title="rpc_buffer_fini" alt="" coords="161,56,264,83"/>
+</map>

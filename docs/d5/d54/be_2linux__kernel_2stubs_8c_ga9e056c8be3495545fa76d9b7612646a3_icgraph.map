@@ -1,0 +1,6 @@
+<map id="m0_be_tx_put" name="m0_be_tx_put">
+<area shape="rect" id="node2" href="$dd/dc6/group__fdmi__fol__src.html#ga7066db0162275a126d1c33c4c4eed179" title="be_tx_put_ast_cb" alt="" coords="176,5,301,32"/>
+<area shape="rect" id="node3" href="$dd/dc6/group__fdmi__fol__src.html#ga5f620d4bf9068bbb7a1fcedd2a349393" title="m0_fol_fdmi_src_deinit" alt="" coords="161,56,317,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#gaba86f16aa45c6db1ae1a956c4ec22832" title="m0_fom_tx_logged_wait" alt="" coords="157,107,320,133"/>
+<area shape="rect" id="node5" href="$dc/df5/fsync__foms_8c.html#a3d92cfbd67dc7ba832f8441b5b4ec8c4" title="fsync_fom_tick" alt="" coords="183,157,294,184"/>
+</map>

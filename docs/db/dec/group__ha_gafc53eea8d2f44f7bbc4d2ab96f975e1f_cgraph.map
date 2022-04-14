@@ -1,0 +1,22 @@
+<map id="m0_ha_ut_entrypoint_client" name="m0_ha_ut_entrypoint_client">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gafd7342a48d9d44929bb48eabc93ce0e0" title="m0_ha_ut_rpc_ctx_init" alt="" coords="216,5,369,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gabb2713e1797832a95c379a842872b2fc" title="ha_ut_entrypoint_reply_init" alt="" coords="204,56,381,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gaebd0e24bf403986e9f79f018f692a3d8" title="ha_ut_entrypoint_server\l_start" alt="" coords="212,107,373,149"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gab5b286191927f69c69d0c5f9b2ecb1da" title="ha_ut_entrypoint_client\l_start" alt="" coords="215,427,371,469"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gaf9b40896ec41de36b73b1e2f71ebe9c1" title="m0_ha_entrypoint_client\l_start_sync" alt="" coords="453,427,616,469"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="730,283,829,309"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="713,591,846,617"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gad3bb5be16db0e0f073e8f3f469a635b6" title="m0_ha_entrypoint_client_chan" alt="" coords="680,333,879,360"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="726,384,833,411"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="715,435,844,461"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="730,485,829,512"/>
+<area shape="rect" id="node13" href="$db/dec/group__ha.html#ga0f9167242457338bfb0bfff08529b595" title="ha_ut_entrypoint_reply\l_check" alt="" coords="458,718,611,759"/>
+<area shape="rect" id="node14" href="$db/dec/group__ha.html#ga5136728170d064fa859303601f933f4a" title="ha_ut_entrypoint_client_cb" alt="" coords="204,747,381,773"/>
+<area shape="rect" id="node15" href="$db/dec/group__ha.html#ga70c1cf2656d414cd53e58675045c66e9" title="m0_ha_entrypoint_client\l_request" alt="" coords="211,798,374,839"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#gadcedbf8114d679b44e18d1b34024f20c" title="m0_ha_entrypoint_client_stop" alt="" coords="437,376,632,403"/>
+<area shape="rect" id="node17" href="$db/dec/group__ha.html#gaad466b45bcf9b96b3fa0242385670f31" title="ha_ut_entrypoint_client_stop" alt="" coords="199,376,387,403"/>
+<area shape="rect" id="node18" href="$db/dec/group__ha.html#gac82a9c78168f9b181401c27d6366a7da" title="ha_ut_entrypoint_server_stop" alt="" coords="196,864,389,891"/>
+<area shape="rect" id="node19" href="$db/dec/group__ha.html#gaedcc04841552cbbd0475fe48dcd9244a" title="ha_ut_entrypoint_reply_fini" alt="" coords="204,965,381,992"/>
+<area shape="rect" id="node20" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="500,940,569,967"/>
+<area shape="rect" id="node21" href="$db/dec/group__ha.html#gaede531878205b1e7c812f8ae1f1c9ae2" title="m0_ha_ut_rpc_ctx_fini" alt="" coords="216,1016,369,1043"/>
+</map>

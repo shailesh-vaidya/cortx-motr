@@ -1,0 +1,7 @@
+<map id="m0_pool_device_state_update" name="m0_pool_device_state_update">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga55291f5c631c93dead999da708ab7f80" title="pool_device_index" alt="" coords="436,14,565,40"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="205,152,388,179"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="463,127,539,154"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="467,190,534,216"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga78f19fe8619828cf8fd01c65eff3e7b6" title="pool_device_state_last\l_revert" alt="" coords="219,36,374,77"/>
+</map>

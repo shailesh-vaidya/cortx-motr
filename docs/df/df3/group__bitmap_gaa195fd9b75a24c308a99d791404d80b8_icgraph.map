@@ -1,0 +1,8 @@
+<map id="m0_bitmap_set_nr" name="m0_bitmap_set_nr">
+<area shape="rect" id="node2" href="$d2/d72/ut_2confc_8c.html#a3a400ba6873d6caf8b04a96d95615e3a" title="_proc_cores_add" alt="" coords="205,5,327,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gace619da08b774b0fa880ee804c902381" title="core_mask_apply" alt="" coords="204,56,328,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga1b49b821f4223167c7b660d3ad40d72a" title="m0_fom_domain_init" alt="" coords="397,81,540,108"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga1c3fe38572d7b254bbc30da107cc4833" title="processor_getcpu_check" alt="" coords="183,157,349,184"/>
+<area shape="rect" id="node6" href="$d1/d5e/ut_2processor_8c.html#aefaa1097ce8fe670136ff41a4eb61c07" title="test_processor" alt="" coords="212,208,320,235"/>
+<area shape="rect" id="node7" href="$d8/d6c/group__incremental__recovery.html#ga1a9d7c0d915660f5a25acc11d018c6b0" title="m0_sns_ir_recover" alt="" coords="200,259,332,285"/>
+</map>

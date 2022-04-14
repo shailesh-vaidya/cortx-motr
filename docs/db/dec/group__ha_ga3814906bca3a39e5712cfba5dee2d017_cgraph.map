@@ -1,0 +1,7 @@
+<map id="ha_link_wait_confirmation_check" name="ha_link_wait_confirmation_check">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="251,5,366,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga4f23196f5adeee14a7ab52db7b3d1e25" title="m0_ha_lq_tag_confirmed" alt="" coords="225,56,392,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="245,107,373,133"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="243,157,375,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="264,208,353,235"/>
+</map>

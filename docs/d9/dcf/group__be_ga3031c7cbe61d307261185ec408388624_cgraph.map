@@ -1,0 +1,7 @@
+<map id="be_tx_group_reconstruct_reg_area" name="be_tx_group_reconstruct_reg_area">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gad9c30cbabee448e24bcd2005fe8b5fd1" title="m0_be_group_format\l_reg_nr" alt="" coords="231,5,375,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaf5c2c5801339ea7bc90fd3650fc8e9c4" title="m0_be_group_format\l_reg_get" alt="" coords="231,71,375,112"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga814ba7e12d6bb12930ab45ee5dfe9b33" title="m0_be_domain_seg" alt="" coords="233,137,372,163"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga0dc33358bc8df1809ce4ec0c4d501db4" title="m0_be_reg_area_capture" alt="" coords="219,187,387,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga4c274b178f5b213efda6481e51b384db" title="m0_be_group_format\l_reg_seg_add" alt="" coords="231,239,375,280"/>
+</map>

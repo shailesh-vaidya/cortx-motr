@@ -1,0 +1,9 @@
+<map id="processor_info_get" name="processor_info_get">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga2804b983a857bb3353a70979d343c299" title="processor_numanodeid_get" alt="" coords="185,5,367,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="238,56,314,83"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#ga401bb062d98cbf2af184e79e29b5e578" title="processor_l1_cacheid_get" alt="" coords="189,107,363,133"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga2c56871cf4e1acadc034d27fdce50dff" title="processor_l1_size_get" alt="" coords="200,157,352,184"/>
+<area shape="rect" id="node6" href="$d7/da7/group__processor.html#gad4f97238840ecf06d1ca0e59bea78e8f" title="processor_l2_cacheid_get" alt="" coords="189,208,363,235"/>
+<area shape="rect" id="node7" href="$d7/da7/group__processor.html#gaa144e2e91dcf8f2723a741dd6c9a689a" title="processor_l2_size_get" alt="" coords="200,259,352,285"/>
+<area shape="rect" id="node8" href="$d7/da7/group__processor.html#gace33086def8d54ec227b52c36f0d2a72" title="processor_pipelineid_get" alt="" coords="193,309,359,336"/>
+</map>

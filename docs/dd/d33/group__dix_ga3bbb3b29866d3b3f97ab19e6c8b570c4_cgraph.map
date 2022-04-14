@@ -1,0 +1,7 @@
+<map id="m0_dix_req_fini_lock" name="m0_dix_req_fini_lock">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga31dc0e13ea4c7f8cccb294c863581b8c" title="dix_req_smgrp" alt="" coords="593,5,700,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gad4362b323ad70066afa2929a0fa86bbe" title="m0_dix_req_is_locked" alt="" coords="395,31,545,57"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="205,81,339,108"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga02c23cf122e7c39544ed68e69dd877ad" title="m0_dix_req_fini" alt="" coords="215,132,329,159"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="197,183,347,209"/>
+</map>

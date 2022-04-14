@@ -1,0 +1,25 @@
+var dtx_8c =
+[
+    [ "M0_TRACE_SUBSYSTEM", "d2/d66/group__dtm.html#gae762ad8776496e788bf62e0fa1615b61", null ],
+    [ "M0_DTM_HTYPE_DTX", "d2/d66/group__dtm.html#gga09d9e56f5d4c14bc6d35272c7ee2692da27937981535246a7ec18d57c01a447cb", null ],
+    [ "M0_DTM_HTYPE_DTX_SRV", "d2/d66/group__dtm.html#gga09d9e56f5d4c14bc6d35272c7ee2692dad119b7e50d4e8f906d0cfb6933c9b44e", null ],
+    [ "dtx_find", "d2/d66/group__dtm.html#ga55f3699744bf370207b83f090fc148ed", null ],
+    [ "dtx_fixed", "d2/d66/group__dtm.html#ga5df0ead5b197f9329201bf1d588dc90d", null ],
+    [ "dtx_get", "d2/d66/group__dtm.html#ga902fb04a465735eaa4ce0efd7b04f22e", null ],
+    [ "dtx_id", "d2/d66/group__dtm.html#ga5b22f2c88d05ecfc2f4f3a0548043dad", null ],
+    [ "dtx_noop", "d2/d66/group__dtm.html#gade2b5322b06eb56d6253e1357f9eddcf", null ],
+    [ "dtx_srv_alloc", "d2/d66/group__dtm.html#ga3154634c1b348f36289aa142d6ea90f6", null ],
+    [ "dtx_srv_find", "d2/d66/group__dtm.html#gac7e9e59ae81172183ea7a9cb7392c093", null ],
+    [ "dtx_srv_id", "d2/d66/group__dtm.html#ga7d708d6706ee2baeb17e95dfc8bcab07", null ],
+    [ "m0_dtm_dtx_add", "d2/d66/group__dtm.html#ga4b75dcb74477fdbac48cf290d48f3395", null ],
+    [ "m0_dtm_dtx_close", "d2/d66/group__dtm.html#ga80a645af0745aa25bef55f319679a67c", null ],
+    [ "m0_dtm_dtx_fini", "d2/d66/group__dtm.html#ga09fd369ea1f95310937a8bbc7a0c290b", null ],
+    [ "m0_dtm_dtx_init", "d2/d66/group__dtm.html#ga332c5ce5e23cfab4805e76bf90847cf9", null ],
+    [ "pa_history", "d2/d66/group__dtm.html#ga8adefe8ef195aff8d4c512ca932212f2", null ],
+    [ "dtx_htype_ops", "d2/d66/group__dtm.html#gaeb196bb91a89d8cb926e38ed65e00102", null ],
+    [ "dtx_ops", "d2/d66/group__dtm.html#ga9d796f3acc0f9919bc7016f304fa7437", null ],
+    [ "dtx_srv_htype_ops", "d2/d66/group__dtm.html#ga0060007ba83903fa7dfa74add8814cb6", null ],
+    [ "dtx_srv_ops", "d2/d66/group__dtm.html#ga7904b699ee98fd87280b6324018ecac7", null ],
+    [ "m0_dtm_dtx_htype", "d2/d66/group__dtm.html#ga5978dde64d39dc544e751242ae2c4051", null ],
+    [ "m0_dtm_dtx_srv_htype", "d2/d66/group__dtm.html#gaafe0dd6bccf7bdacac1a456d3c3c4036", null ]
+];

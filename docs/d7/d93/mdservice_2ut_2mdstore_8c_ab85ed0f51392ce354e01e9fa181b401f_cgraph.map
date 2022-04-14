@@ -1,0 +1,12 @@
+<map id="test_mdops" name="test_mdops">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="161,5,289,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="188,56,263,83"/>
+<area shape="rect" id="node4" href="$d7/d93/mdservice_2ut_2mdstore_8c.html#a0ea8f781b1f2b791cd2cdaf71354386f" title="m0_md_lustre_fop_alloc" alt="" coords="144,107,307,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="395,145,464,172"/>
+<area shape="rect" id="node6" href="$d5/d8c/group__reqh.html#ga68422463b149e333355cad87f123d92f" title="m0_reqh_fop_handle" alt="" coords="154,208,297,235"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="355,221,504,248"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="165,309,286,336"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="151,360,300,387"/>
+<area shape="rect" id="node10" href="$d5/d8c/group__reqh.html#ga16d252ada9573ca32df8f74baa3c5621" title="m0_reqh_idle_wait_for" alt="" coords="149,411,301,437"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="161,461,289,488"/>
+</map>

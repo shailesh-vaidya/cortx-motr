@@ -1,0 +1,5 @@
+<map id="m0_fop_type_fini" name="m0_fop_type_fini">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="214,5,329,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga6ef84457807437a3b6988a99feab53e0" title="m0_rpc_item_type_deregister" alt="" coords="175,56,368,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="207,107,335,133"/>
+</map>

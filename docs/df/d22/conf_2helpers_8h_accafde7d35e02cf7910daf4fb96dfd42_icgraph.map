@@ -1,0 +1,7 @@
+<map id="m0_conf_obj2reqh" name="m0_conf_obj2reqh">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga351e0d7aa5301ddd52371dc89960bf4b" title="is_local_svc" alt="" coords="225,5,319,32"/>
+<area shape="rect" id="node3" href="$d7/d99/conf_8c.html#a7c95f2c1d77526b572531d3c190fbb06" title="is_local_service" alt="" coords="215,56,329,83"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga380602ffcd3752835531b37b2b0c6d8b" title="service_event_handler" alt="" coords="196,107,348,133"/>
+<area shape="rect" id="node5" href="$de/df4/group__rm-ha.html#gad902d974530d0fb776b1349352740b9e" title="rm_ha_sbscr_diter_next" alt="" coords="191,157,353,184"/>
+<area shape="rect" id="node6" href="$de/df4/group__rm-ha.html#gaf6ebb70a61ffbd5cb260bcb0515dc6cf" title="m0_rm_ha_subscribe_sync" alt="" coords="181,208,363,235"/>
+</map>

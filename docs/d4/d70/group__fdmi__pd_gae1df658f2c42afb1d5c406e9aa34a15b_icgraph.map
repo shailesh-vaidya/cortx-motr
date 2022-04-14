@@ -1,0 +1,8 @@
+<map id="m0_fdmi_plugin_dock_api_get" name="m0_fdmi_plugin_dock_api_get">
+<area shape="rect" id="node2" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a9e5e890003dd57ee119445e14eeea931" title="init_fdmi_plugin" alt="" coords="233,5,345,32"/>
+<area shape="rect" id="node3" href="$d0/d0a/fdmi__echo_8c.html#a9ae4c848778eee20eb8e8bdef5fddfca" title="init_plugin" alt="" coords="249,56,329,83"/>
+<area shape="rect" id="node4" href="$da/d74/pd__ut_8c.html#ab75101f77765bb498e3776df83c4bdab" title="fdmi_pd_register_filter" alt="" coords="213,107,364,133"/>
+<area shape="rect" id="node5" href="$da/d74/pd__ut_8c.html#aae2062c495e42dba24acf9bea9e0665e" title="__fdmi_pd_fom_norpc" alt="" coords="213,157,364,184"/>
+<area shape="rect" id="node6" href="$da/d74/pd__ut_8c.html#a88d3ea9135070dc63f23a2768895bcc9" title="fdmi_pd_fake_rec_release" alt="" coords="201,208,376,235"/>
+<area shape="rect" id="node7" href="$da/d74/pd__ut_8c.html#afb7bc2bca6275bb3bc4a579e2dbfaeb5" title="fdmi_pd_fake_release\l_nomem" alt="" coords="214,259,363,301"/>
+</map>

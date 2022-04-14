@@ -1,0 +1,16 @@
+<map id="m0_rpc_session_destroy" name="m0_rpc_session_destroy">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a8e63fd237ca099309c27de13793f664d" title="sender_fini" alt="" coords="256,5,341,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gad860d930dee64365948ce78755a6b2a7" title="m0_ha_ut_rpc_session\l_ctx_fini" alt="" coords="221,57,377,98"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gab63186faecd675a41a4c650af43a560f" title="rlock_ctx_disconnect" alt="" coords="226,123,371,149"/>
+<area shape="rect" id="node5" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#ga118a17fbfe5ddf96edfd7938aa42f37c" title="m0_ios_mds_conn_fini" alt="" coords="221,173,376,200"/>
+<area shape="rect" id="node6" href="$d8/d66/pool__trigger_8c.html#af4a5d48baa72d5ae8af6db324815da45" title="poolmach_rpc_ctx_fini" alt="" coords="223,224,375,251"/>
+<area shape="rect" id="node7" href="$da/dcf/wlock__helper_8c.html#af5802fe728e1c4426cf54f671bb181ec" title="wlock_ctx_disconnect" alt="" coords="223,275,374,301"/>
+<area shape="rect" id="node8" href="$d9/d02/rmut_8h.html#ad66f81824a6a6e1f6ab33c3c422b9af6" title="rm_ctx_disconnect" alt="" coords="233,325,365,352"/>
+<area shape="rect" id="node9" href="$d9/dbf/ut_2item_8c.html#ac67cb1d0c924d6d5385167d86d4ce220" title="test_cancel_session" alt="" coords="228,376,369,403"/>
+<area shape="rect" id="node10" href="$d4/d86/ut_2rpc__machine_8c.html#afb095dae6e941cf261ceb728fcd2e775" title="rpc_mc_fini_race_test" alt="" coords="223,427,374,453"/>
+<area shape="rect" id="node11" href="$d3/d5a/rpclib_8h.html#af109f5130291693cd9aebdaca19f2ff4" title="m0_rpc_client_stop\l_stats" alt="" coords="231,478,366,519"/>
+<area shape="rect" id="node12" href="$d3/d31/rcv__session_8c.html#ae5ec2ba8fa9071905679250fd7280491" title="test_session_establish" alt="" coords="221,544,376,571"/>
+<area shape="rect" id="node13" href="$d3/d31/rcv__session_8c.html#ac0b282ebd12f06e6b425ebac4a7dce98" title="test_session_terminate" alt="" coords="220,595,377,621"/>
+<area shape="rect" id="node14" href="$da/d9c/repair__cli_8h.html#a6c9b56689fa4e67f7d5d4d4bcde76bc1" title="repair_rpc_ctx_fini" alt="" coords="235,645,363,672"/>
+<area shape="rect" id="node15" href="$d9/d50/group__spiel-api-fspec.html#ga7352002b4d673754a2423859cb6bd0e5" title="m0_spiel_tx_commit\l_forced" alt="" coords="227,697,370,738"/>
+</map>

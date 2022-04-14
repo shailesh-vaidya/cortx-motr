@@ -1,0 +1,5 @@
+<map id="init_nr" name="init_nr">
+<area shape="rect" id="node2" href="$d9/d54/group__init.html#ga2c6abb9a7d923527cbc1ca6c5c128fc2" title="m0_init_once" alt="" coords="133,5,231,32"/>
+<area shape="rect" id="node3" href="$d9/d54/group__init.html#gadf194979b26870148cce1ccf0394c78d" title="m0_subsystems_init" alt="" coords="111,56,253,83"/>
+<area shape="rect" id="node4" href="$d9/d54/group__init.html#gabf976be731cd15f6f6754752880d0933" title="m0_quiesce_init" alt="" coords="124,107,240,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="m0_stats_query_rep_fop_get" name="m0_stats_query_rep_fop_get">
+<area shape="rect" id="node2" href="$d7/dd1/stats__api_8c.html#aa6131aa3522841a07052b45323487251" title="m0_stats_query" alt="" coords="222,5,337,32"/>
+<area shape="rect" id="node3" href="$d3/dff/stats__srv_8c.html#a6ce8d6d2c1ce559b88d873c907865ec2" title="read_stats" alt="" coords="238,56,321,83"/>
+<area shape="rect" id="node4" href="$d5/d51/stats__ut__svc_8c.html#a33d6ba4cd7aaa9c1b4cc2264d64cf760" title="test_state_query_fom_fini" alt="" coords="193,107,365,133"/>
+</map>

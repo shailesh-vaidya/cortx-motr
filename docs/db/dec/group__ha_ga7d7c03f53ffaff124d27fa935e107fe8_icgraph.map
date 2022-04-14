@@ -1,0 +1,11 @@
+<map id="m0_ha_send" name="m0_ha_send">
+<area shape="rect" id="node2" href="$dc/db1/group__be-ha.html#gabdab9d9f83ca497112184a01576e8452" title="m0_be_io_err_send" alt="" coords="185,5,320,32"/>
+<area shape="rect" id="node3" href="$d8/db6/group__conf-ha.html#ga8198762193c2e5b7f3fe4d861c813874" title="m0_conf_ha_process\l_event_post" alt="" coords="179,57,326,98"/>
+<area shape="rect" id="node4" href="$d8/db6/group__conf-ha.html#gaf2afe2a9d6f1b84a973b1cbbfda48e51" title="m0_conf_ha_service\l_event_post" alt="" coords="181,122,324,163"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#gad82014dc05cf039f3b493804facf7999" title="m0_ha_cm_err_send" alt="" coords="181,188,324,215"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gade4d2f36ccef8017579f3908b47ccbc6" title="m0_halon_interface_send" alt="" coords="167,239,338,265"/>
+<area shape="rect" id="node7" href="$de/d4a/group__m0ham.html#gab46836ff9e34059f80a3bbf1e2d00636" title="ham_send" alt="" coords="211,289,294,316"/>
+<area shape="rect" id="node8" href="$d9/dbf/group__motr-keepalive.html#ga0568c389edc18d9493c159b968449839" title="ha_keepalive_msg_received_cb" alt="" coords="149,340,356,367"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga80416f8084b18cbb52d7314a7249d301" title="reqh_service_ha_state_set" alt="" coords="163,391,342,417"/>
+<area shape="rect" id="node10" href="$d3/d78/group__stoblinux.html#ga60e47b9518edd34cd75b8a99e474093a" title="ioq_io_error" alt="" coords="208,441,297,468"/>
+</map>

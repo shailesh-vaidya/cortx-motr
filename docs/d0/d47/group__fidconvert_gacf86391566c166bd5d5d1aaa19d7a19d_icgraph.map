@@ -1,0 +1,12 @@
+<map id="m0_fid_validate_cob" name="m0_fid_validate_cob">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga95b28ca58ebe3103d582c9e88bfaf7b1" title="cob_prep" alt="" coords="477,16,552,43"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad6292211e40ce5e435fdf074f0a13b41" title="cob_act" alt="" coords="481,79,549,105"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="211,205,377,232"/>
+<area shape="rect" id="node5" href="$d5/d5d/ut_2cob__foms_8c.html#a487c5b24444f37be0dc224ad5220a5c9" title="fid_convert_ut_check" alt="" coords="441,231,588,257"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#gaea18d599ad9639280cd8ac35e6a03aa4" title="m0_fid_convert_cob2gob" alt="" coords="211,256,377,283"/>
+<area shape="rect" id="node7" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="219,307,369,333"/>
+<area shape="rect" id="node8" href="$d0/d47/group__fidconvert.html#gaa480f422e26a74b6d0d1ae249ba33c61" title="m0_fid_convert_cob2adstob" alt="" coords="201,53,387,80"/>
+<area shape="rect" id="node9" href="$d0/d47/group__fidconvert.html#gaf5d5bc64c59b524e4d896da2d9e57e99" title="m0_fid_convert_adstob2cob" alt="" coords="201,357,387,384"/>
+<area shape="rect" id="node10" href="$d0/d47/group__fidconvert.html#gaf83323d2d1c8d028b487178cd85d95ae" title="m0_fid_convert_cob2linuxstob" alt="" coords="195,408,393,435"/>
+<area shape="rect" id="node11" href="$d0/d47/group__fidconvert.html#ga8344954d06300329a1060edea57aad17" title="m0_fid_convert_linuxstob2cob" alt="" coords="195,459,393,485"/>
+</map>

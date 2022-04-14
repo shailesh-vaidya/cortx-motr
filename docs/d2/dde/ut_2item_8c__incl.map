@@ -1,0 +1,13 @@
+<map id="rpc/ut/item.c" name="rpc/ut/item.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="44,155,123,181"/>
+<area shape="rect" id="node4" href="$da/ddc/ut_8h.html" title="ut/ut.h" alt="" coords="159,80,218,107"/>
+<area shape="rect" id="node5" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="353,155,440,181"/>
+<area shape="rect" id="node6" href="$df/d26/fs_8h.html" title="lib/fs.h" alt="" coords="293,80,354,107"/>
+<area shape="rect" id="node7" href="$d6/dc6/semaphore_8h.html" title="lib/semaphore.h" alt="" coords="378,80,493,107"/>
+<area shape="rect" id="node8" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="517,80,613,107"/>
+<area shape="rect" id="node9" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="660,155,747,181"/>
+<area shape="rect" id="node10" href="$d7/da0/clnt__srv__ctx_8c.html" title="rpc/ut/clnt_srv_ctx.c" alt="" coords="687,80,829,107"/>
+<area shape="rect" id="node11" href="$d6/d69/rpc_2ut_2fops_8h.html" title="rpc/ut/fops.h" alt="" coords="853,80,948,107"/>
+<area shape="rect" id="node12" href="$dd/d7b/rpc__internal_8h.html" title="rpc/rpc_internal.h" alt="" coords="973,80,1095,107"/>
+</map>

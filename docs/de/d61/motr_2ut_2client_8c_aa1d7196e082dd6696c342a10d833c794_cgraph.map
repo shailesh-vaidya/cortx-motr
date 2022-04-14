@@ -1,0 +1,6 @@
+<map id="ut_test_m0_op_setup" name="ut_test_m0_op_setup">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="200,5,320,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga8c54fb354d4c9a0ade06465cfdf16b53" title="m0_op_setup" alt="" coords="210,56,310,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="209,107,311,133"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="200,157,320,184"/>
+</map>

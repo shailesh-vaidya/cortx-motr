@@ -1,0 +1,7 @@
+<map id="sync_request_launch" name="sync_request_launch">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="407,57,483,84"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="221,32,336,58"/>
+<area shape="rect" id="node4" href="$db/dc2/sync_8c.html#a1396a1c9db7f984ee58e836053df447b" title="sync_request_fop_send" alt="" coords="199,82,359,109"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="411,108,478,134"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="215,184,343,210"/>
+</map>

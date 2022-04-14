@@ -1,0 +1,22 @@
+<map id="m0_rm_credit_fini" name="m0_rm_credit_fini">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gab183398994b45d0b36d95b99ea536150" title="internal_incoming_fini" alt="" coords="193,5,339,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gad99ce5e28725a8b60da00344bd99de5c" title="m0_rm_loan_fini" alt="" coords="207,107,325,133"/>
+<area shape="rect" id="node4" href="$dd/d39/ut_2rm__foms_8c.html#aaa19c10a3912f979fea00ed118b7f4e4" title="rvk_test_cleanup" alt="" coords="413,69,535,96"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#ae37b1a004277d8a646420af4501142d7" title="post_borrow_cleanup" alt="" coords="401,132,547,159"/>
+<area shape="rect" id="node6" href="$d0/d11/ut_2rm__fops_8c.html#ab8b489ca077c6e96639b113edb6b1434" title="post_revoke_cleanup" alt="" coords="401,183,547,209"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga277b9c3b2e98c422931752f569e631fc" title="cached_credits_clear" alt="" coords="193,259,339,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gaa9cdbff3a446fd6be5bba4e3d8f0eed1" title="cached_credits_remove" alt="" coords="595,385,755,412"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="195,512,337,539"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gaa5aa3c8b4ee05f0f28297629e0004645" title="incoming_check" alt="" coords="416,487,532,513"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga5cee28ba9c8690be93de940f3ee0847c" title="revoke_send" alt="" coords="218,563,314,589"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#gadd0e99a07234dbc54d6b9361543a3534" title="owner_invariant" alt="" coords="417,639,531,665"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#ga495701fcda45f813476fefdfdf492541" title="credit_eq" alt="" coords="229,664,303,691"/>
+<area shape="rect" id="node14" href="$d2/deb/group__rm.html#gaace30262f7b7cb8fa2c8153f84afee27" title="remnant_credit_get" alt="" coords="407,360,541,387"/>
+<area shape="rect" id="node15" href="$d2/deb/group__rm.html#ga9ee46e740b261e5665ec5a9b1c6e6a03" title="m0_rm_credit_dup" alt="" coords="201,309,331,336"/>
+<area shape="rect" id="node16" href="$dd/d39/ut_2rm__foms_8c.html#a9301662ff15225fdca4fb85b35ca553e" title="brw_fop_populate" alt="" coords="204,715,328,741"/>
+<area shape="rect" id="node17" href="$dd/d39/ut_2rm__foms_8c.html#aadc9eef9646ead1c0d79894ba19f0126" title="rvk_fop_populate" alt="" coords="205,765,327,792"/>
+<area shape="rect" id="node18" href="$d0/d11/ut_2rm__fops_8c.html#a6d369b616f28762eea7209f21e970b6a" title="request_test" alt="" coords="219,816,313,843"/>
+<area shape="rect" id="node19" href="$d0/d11/ut_2rm__fops_8c.html#aa212fd0ce5a8f94b6be6e2d545be3b92" title="borrow_fop_validate" alt="" coords="197,867,335,893"/>
+<area shape="rect" id="node20" href="$d0/d11/ut_2rm__fops_8c.html#a7d12abac0dc938736ed84b483d7e7e24" title="revoke_fop_validate" alt="" coords="197,917,335,944"/>
+<area shape="rect" id="node21" href="$de/def/group__rm__service.html#ga979f07b1b8fb5b1f22bbc780fe12c1f1" title="m0_rm_svc_owner_create" alt="" coords="179,968,353,995"/>
+</map>

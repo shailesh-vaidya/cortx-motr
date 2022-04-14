@@ -1,0 +1,15 @@
+<map id="rconfc_link_fom_tick" name="rconfc_link_fom_tick">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga19254f362815fa432e6292ab221d54a7" title="m0_confc2sess" alt="" coords="423,26,537,53"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#gaa8955fd10b52e5e8b522368b7787d291" title="m0_confc2conn" alt="" coords="423,157,537,184"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="218,114,353,141"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="217,165,354,192"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="217,216,353,242"/>
+<area shape="rect" id="node7" href="$d3/da7/rconfc__link__fom_8c.html#ada26646bbaaf79b64f55b214d2cb6f0a" title="rconfc_herd_link_fom\l_wait_on" alt="" coords="212,48,359,90"/>
+<area shape="rect" id="node8" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="218,317,353,344"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga32f9dfc4fd17ee95f26877ae7350cb9c" title="m0_rpc_session_terminate" alt="" coords="196,368,375,394"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga4a547b4cf09c6b1db19b5aa6a1ad6eab" title="m0_rpc__down_timeout" alt="" coords="205,418,365,445"/>
+<area shape="rect" id="node11" href="$d3/da7/rconfc__link__fom_8c.html#a9871da352bf72d0f77297b2cfcc7ba80" title="rconfc_link_fom_clink\l_cleanup_fini" alt="" coords="211,470,359,511"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga4791c259b0df215a07f9bd5b8a2949cb" title="m0_rpc_session_fini" alt="" coords="215,536,356,562"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#ga5e60eacb678413b3d9969d827bccbfa9" title="m0_rpc_conn_terminate" alt="" coords="205,586,366,613"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#gafac3857111012e74e39d7c5d30a817d3" title="m0_rpc_conn_fini" alt="" coords="223,637,347,664"/>
+</map>

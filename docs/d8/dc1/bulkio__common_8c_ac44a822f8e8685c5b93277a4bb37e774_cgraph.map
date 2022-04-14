@@ -1,0 +1,10 @@
+<map id="io_fops_rpc_submit" name="io_fops_rpc_submit">
+<area shape="rect" id="node2" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="197,5,329,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="215,56,312,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="188,107,339,149"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga9cedbe4cab296c0f3dde7f271cc5d367" title="io_rw_rep_get" alt="" coords="212,173,315,200"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="193,224,333,251"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="206,275,321,301"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="206,325,321,352"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="199,376,327,403"/>
+</map>

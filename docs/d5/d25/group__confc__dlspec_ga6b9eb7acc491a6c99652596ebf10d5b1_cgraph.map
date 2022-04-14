@@ -1,0 +1,16 @@
+<map id="m0_confc_init_wait" name="m0_confc_init_wait">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga966f9a3bab9c90ccc6fec3719ad3ee07" title="not_empty" alt="" coords="402,41,485,67"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="204,243,311,270"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga7131632d1b1b034ee18108f26678a3a0" title="confc_lock" alt="" coords="215,294,300,321"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga41fb9a92c20c050f4de586c47b815966" title="confc_cache_create" alt="" coords="188,41,327,67"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="410,91,477,118"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#gace27ac8ff8cd441cad9cea2ae2813a2e" title="confc_unlock" alt="" coords="208,345,307,371"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gaa8955fd10b52e5e8b522368b7787d291" title="m0_confc2conn" alt="" coords="200,395,315,422"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="375,167,512,194"/>
+<area shape="rect" id="node10" href="$d5/d25/group__confc__dlspec.html#ga885af5093cfd600755ea9dc16920bb5e" title="connect_to_confd" alt="" coords="195,91,320,118"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="208,446,307,473"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="208,497,307,523"/>
+<area shape="rect" id="node13" href="$d5/d25/group__confc__dlspec.html#ga27f0e832155df0663a04c6fbafcea597" title="m0_confc_invariant" alt="" coords="190,547,325,574"/>
+<area shape="rect" id="node14" href="$d2/dd9/group__conf__dlspec__cache.html#ga154e7fffccaf39cf651f214cb0bfb7f1" title="m0_conf_cache_fini" alt="" coords="188,598,327,625"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="204,649,311,675"/>
+</map>

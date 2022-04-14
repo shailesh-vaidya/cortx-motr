@@ -1,0 +1,7 @@
+<map id="spiel_process_disconnect_async" name="spiel_process_disconnect_async">
+<area shape="rect" id="node2" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="259,5,395,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="278,56,377,83"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga7d123884a141cef97b3f0f02de6dccdb" title="spiel_proc_item_disconnect_cb" alt="" coords="225,107,429,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="477,157,567,184"/>
+<area shape="rect" id="node6" href="$de/d82/group__rpc__link.html#ga1dc5ef29b543217569aca050e8c26e3e" title="m0_rpc_link_disconnect\l_async" alt="" coords="246,209,409,250"/>
+</map>

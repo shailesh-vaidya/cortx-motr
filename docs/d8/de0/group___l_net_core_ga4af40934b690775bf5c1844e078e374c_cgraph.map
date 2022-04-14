@@ -1,0 +1,8 @@
+<map id="nlx_core_buf_desc_decode" name="nlx_core_buf_desc_decode">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9146ce039a8e7335b7d94608c325331d" title="nlx_core_tm_is_locked" alt="" coords="255,5,410,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="480,31,629,57"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="249,107,416,133"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#gaa4d937234f964e00a9b42ce26e875980" title="nlx_core_buf_desc_checksum" alt="" coords="233,157,432,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="295,208,371,235"/>
+<area shape="rect" id="node7" href="$d8/de0/group___l_net_core.html#ga8adef7619fc7a8427b65343ebd94ef98" title="nlx_core_match_bits\l_decode" alt="" coords="261,259,404,301"/>
+</map>

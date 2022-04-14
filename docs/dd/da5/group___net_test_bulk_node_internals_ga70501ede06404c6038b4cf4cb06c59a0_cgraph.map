@@ -1,0 +1,9 @@
+<map id="node_bulk_cb_server" name="node_bulk_cb_server">
+<area shape="rect" id="node2" href="$df/d38/group___net_test_network_internals.html#gad5aea5787656cd4b29d94769bc8a91e0" title="m0_net_test_network\l_bd_nr" alt="" coords="213,5,359,47"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#ga76f172e23ed9e36bc64c72faa77d14bb" title="sd_update" alt="" coords="463,75,546,102"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#ga69cb493bcce0ea7fc8e26fda116d8405" title="node_bulk_server_transfer\l_start" alt="" coords="199,173,373,215"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga278773f33d44631284956832a1ed83cf" title="node_bulk_state_change" alt="" coords="421,129,588,155"/>
+<area shape="rect" id="node6" href="$df/d38/group___net_test_network_internals.html#ga78369f73170e101746c33bb936505fde" title="m0_net_test_network\l_bulk_enqueue" alt="" coords="431,187,578,228"/>
+<area shape="rect" id="node7" href="$dd/da5/group___net_test_bulk_node_internals.html#gaf55b3202722b5f8f956858a13c8e6747" title="buf_desc_server_free" alt="" coords="431,265,578,291"/>
+<area shape="rect" id="node8" href="$dd/da5/group___net_test_bulk_node_internals.html#gafdbde71484f8350e0a5255e4d0e03fa5" title="buf_desc_swap" alt="" coords="229,341,343,367"/>
+</map>

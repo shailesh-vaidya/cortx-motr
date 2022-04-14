@@ -1,0 +1,12 @@
+<map id="ha_link_outgoing_fom_wakeup" name="ha_link_outgoing_fom_wakeup">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga4b761bc289bae0f073156554ff961399" title="ha_link_rpc_wait_cb" alt="" coords="229,5,369,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gad75bee094c86da6640c94a99d24cb41b" title="ha_link_quiesce_wait_cb" alt="" coords="216,56,383,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gae731d1e7c23822c9bd59031b3374114f" title="m0_ha_link_stop" alt="" coords="239,107,359,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga111e6f8991b92611d621f6336a6a0514" title="m0_ha_link_send" alt="" coords="238,157,361,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gae4202c2418271f3df9e7f28eb726f87e" title="m0_ha_link_delivered" alt="" coords="226,208,373,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gaa48f880dfe066494d6a6b688a59d338f" title="m0_ha_link_cb_disconnecting" alt="" coords="201,259,397,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga58e3a213813ab73a951d7547030880f5" title="m0_ha_link_cb_reused" alt="" coords="222,309,377,336"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#ga1863d4a5e67c700514e3e4606ce44928" title="ha_link_outgoing_item\l_replied" alt="" coords="224,361,375,402"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#gae02c9584bed65621d7441eda0e173380" title="ha_link_outgoing_fop\l_release" alt="" coords="227,426,371,467"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#ga2fef7edc562b5bddfa0916716dd910bc" title="ha_link_outgoing_reconnect\l_timeout" alt="" coords="208,491,391,533"/>
+</map>

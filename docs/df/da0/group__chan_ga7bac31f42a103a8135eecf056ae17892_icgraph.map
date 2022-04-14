@@ -1,0 +1,13 @@
+<map id="m0_chan_fini" name="m0_chan_fini">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga895d1bfaa0c0fb68ffc2b8a6de9375d9" title="m0_cm_fini" alt="" coords="382,24,471,51"/>
+<area shape="rect" id="node3" href="$df/d22/conf_2helpers_8h.html#a6528cb902ea32bd458cdff4cc1073d2d" title="m0_conf_objs_ha_update" alt="" coords="152,278,323,304"/>
+<area shape="rect" id="node4" href="$d9/d40/group__conf__dfspec__objops.html#ga7b1d9b1879b021ed5c57ebb1a97dfe29" title="m0_conf_obj_delete" alt="" coords="168,328,307,355"/>
+<area shape="rect" id="node5" href="$df/d15/group__rconfc__dfspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="373,202,480,228"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga86629c3fcffb020109f7d196358157b2" title="m0_ha_link_fini" alt="" coords="371,75,483,102"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="172,75,303,102"/>
+<area shape="rect" id="node8" href="$d5/d8c/group__reqh.html#gab7c37fd09767755e6859e41e8256e089" title="__reqh_fini" alt="" coords="384,126,469,152"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gafc61a4a3957bc213860676f31429771c" title="m0_rpc_machine_fini" alt="" coords="165,379,310,406"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="193,126,282,152"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga98e9bbed37efae3230a803b7f1d1959c" title="m0_sm_ast_wait_fini" alt="" coords="165,430,310,456"/>
+<area shape="rect" id="node12" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga7d086b5e14639653a7fbb12189fc831f" title="sss_device_fom_ha_fini" alt="" coords="156,480,319,507"/>
+</map>

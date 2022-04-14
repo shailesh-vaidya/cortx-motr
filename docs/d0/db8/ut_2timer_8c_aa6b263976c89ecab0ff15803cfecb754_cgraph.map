@@ -1,0 +1,12 @@
+<map id="timer_locality_default_test" name="timer_locality_default_test">
+<area shape="rect" id="node2" href="$d7/d2c/group__timer.html#gab5524a732935ba5616dac64cdab9e1bb" title="m0_timer_init" alt="" coords="260,5,360,32"/>
+<area shape="rect" id="node3" href="$d0/db8/ut_2timer_8c.html#ae8b25c18439a9821c23aab1239c8d05f" title="locality_default_callback" alt="" coords="228,56,392,83"/>
+<area shape="rect" id="node4" href="$d0/db8/ut_2timer_8c.html#ab02e7252ae018eb41945c5bdd68027be" title="_gettid" alt="" coords="440,81,501,108"/>
+<area shape="rect" id="node5" href="$d0/db8/ut_2timer_8c.html#a32d8aec6cefae876c62f8f4b33907f55" title="sem_init_zero" alt="" coords="259,157,361,184"/>
+<area shape="rect" id="node6" href="$d7/d2c/group__timer.html#ga31b301d443ddefef170565e242f365a8" title="m0_timer_start" alt="" coords="255,208,365,235"/>
+<area shape="rect" id="node7" href="$d0/db8/ut_2timer_8c.html#a94bd47b9dc8f9b739458c262c950679b" title="make_time_abs" alt="" coords="253,259,367,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="235,309,385,336"/>
+<area shape="rect" id="node9" href="$d7/d2c/group__timer.html#gaedad11692d116e8977e7a3bafe9783d7" title="m0_timer_stop" alt="" coords="256,360,364,387"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="243,411,377,437"/>
+<area shape="rect" id="node11" href="$d7/d2c/group__timer.html#ga150850a7bfe9630401a60566383f5013" title="m0_timer_fini" alt="" coords="260,461,360,488"/>
+</map>

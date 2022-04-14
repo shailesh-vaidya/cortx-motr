@@ -1,0 +1,9 @@
+<map id="m0_sm_conf_is_initialized" name="m0_sm_conf_is_initialized">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#ab91350cc9f7e5f0a3ee7ec69c697378d" title="m0_entity_init" alt="" coords="264,5,367,32"/>
+<area shape="rect" id="node3" href="$d7/dcd/motr_2client__internal_8h.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="273,56,358,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gaee6c298197aa624d549529f65b964a07" title="m0_dtm0_dtx_domain_init" alt="" coords="451,208,625,235"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga856f68c1abf3897af48961f12dde261d" title="m0_dtm0_dtx_domain_fini" alt="" coords="228,157,403,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga9f6880d29eac5da71e31407a592b880a" title="m0_client_init" alt="" coords="264,208,367,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#gaf0f36d6063136ad9e6eb0916f2bde26e" title="m0_client_fini" alt="" coords="264,259,367,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga851deafe4c8d220bab667cf4c222bc84" title="m0_sm_conf_init" alt="" coords="255,309,376,336"/>
+</map>

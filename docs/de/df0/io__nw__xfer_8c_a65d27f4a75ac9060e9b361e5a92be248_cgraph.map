@@ -1,0 +1,11 @@
+<map id="nw_xfer_tioreq_get" name="nw_xfer_tioreq_get">
+<area shape="rect" id="node2" href="$de/df0/io__nw__xfer_8c.html#ae5266b3b8a6ac758c86bc265ff418589" title="nw_xfer_request_invariant" alt="" coords="401,44,576,71"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="427,120,551,147"/>
+<area shape="rect" id="node4" href="$de/df0/io__nw__xfer_8c.html#a064cd03acbf57c7870cd13e32ef4ef2d" title="target_ioreq_locate" alt="" coords="203,5,335,32"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="451,208,527,235"/>
+<area shape="rect" id="node6" href="$de/df0/io__nw__xfer_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="212,208,327,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="455,259,522,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="454,309,523,336"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="214,411,325,437"/>
+<area shape="rect" id="node10" href="$de/df0/io__nw__xfer_8c.html#a8a3f308d383bd1621fc0ae770e893346" title="dgmode_rwvec_alloc_init" alt="" coords="185,309,353,336"/>
+</map>

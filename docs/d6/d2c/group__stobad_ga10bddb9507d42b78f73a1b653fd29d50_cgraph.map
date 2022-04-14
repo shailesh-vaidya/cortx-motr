@@ -1,0 +1,16 @@
+<map id="stob_ad_read_prepare" name="stob_ad_read_prepare">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="238,5,381,32"/>
+<area shape="rect" id="node3" href="$d2/de0/group__extmap.html#gab5131acd58e7265465ed9d208d2b3218" title="m0_be_emap_seg_get" alt="" coords="233,56,386,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga520e02e5b8cd487923494d4ff14ed0d1" title="m0_be_emap_caret_move_sync" alt="" coords="204,107,415,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="501,579,567,605"/>
+<area shape="rect" id="node6" href="$d8/d54/group__ext.html#ga26ce8f93c7384de090959681d3e99a96" title="m0_ext_is_in" alt="" coords="260,208,359,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gad3642ee5a501876929a501a7ad68af86" title="m0_vec_cursor_step" alt="" coords="463,208,605,235"/>
+<area shape="rect" id="node8" href="$d2/de0/group__extmap.html#gabb93e4dee26978d14c029fef4d7581a3" title="m0_be_emap_caret_step" alt="" coords="225,309,393,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="496,419,572,445"/>
+<area shape="rect" id="node10" href="$d6/d2c/group__stobad.html#ga5b811ca9b15a43fd3d7d2c170d7cf72b" title="stob_ad_get_checksum\l_for_fragment" alt="" coords="229,411,389,453"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#gaa121fe3251c17d9e5d64fdf465707af3" title="m0_vec_cursor_move" alt="" coords="234,259,385,285"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#gadbdf4787c796309ca7323e3980fe432e" title="stob_ad_cursors_fini" alt="" coords="238,528,381,555"/>
+<area shape="rect" id="node13" href="$d6/d2c/group__stobad.html#gabaca8e52a1f0949f24afbadc9db352d1" title="stob_ad_vec_alloc" alt="" coords="244,477,375,504"/>
+<area shape="rect" id="node14" href="$d6/d2c/group__stobad.html#ga0388ad8e61c3b8e974728533632ec3ae" title="stob_ad_cursors_init" alt="" coords="238,629,381,656"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga852db26328112621b767cead11225387" title="stob_ad_addr_open" alt="" coords="242,680,377,707"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="m0_reqh_service_allocate" name="m0_reqh_service_allocate">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#aa54ebdf6911f2f622c321c8f1153553c" title="sender_service_alloc_init" alt="" coords="227,5,395,32"/>
+<area shape="rect" id="node3" href="$dc/d7a/dtm0_2service_8h.html#a48b4dcf666c1273178a3c4b5de5d8fcd" title="m0_dtm_client_service\l_start" alt="" coords="233,57,389,98"/>
+<area shape="rect" id="node4" href="$dd/d81/reqh_2ut_2service_8c.html#abe0dbbc9ec683c5907be8389a53c607d" title="test_service" alt="" coords="264,123,357,149"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#ga3836e53db28b215a5990d8009e1764bc" title="_init" alt="" coords="287,173,334,200"/>
+<area shape="rect" id="node6" href="$d4/d44/group__cas.html#gaacf56d6cf637ed887f47c7998b339c0d" title="init_fail" alt="" coords="279,224,342,251"/>
+<area shape="rect" id="node7" href="$d4/d44/group__cas.html#ga1a0e5f87a28ce1395cb1bedfe6078000" title="restart" alt="" coords="281,275,340,301"/>
+<area shape="rect" id="node8" href="$d4/d44/group__cas.html#gaa39f3cf9b691d04295f827e607cf35d5" title="lookup_restart" alt="" coords="259,325,363,352"/>
+<area shape="rect" id="node9" href="$d4/d44/group__cas.html#ga4b33f360fab878d450479c0b381516f3" title="cur_N" alt="" coords="282,376,339,403"/>
+<area shape="rect" id="node10" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#ad26120808455b3cb04481e760b85bd7a" title="isc_ut_server_start" alt="" coords="244,427,377,453"/>
+<area shape="rect" id="node11" href="$d1/dfc/cm_2ut_2cm_8c.html#a6d6fd3f175410aabdbbd2a9b59639f05" title="cm_init_failure_ut" alt="" coords="249,477,373,504"/>
+<area shape="rect" id="node12" href="$d8/d69/common__service_8h.html#abba947305a5d4304161eff363075d5fd" title="cm_ut_service_alloc_init" alt="" coords="228,528,393,555"/>
+<area shape="rect" id="node13" href="$d3/da7/conf_2ut_2rpc__helpers_8h.html#a985f04155e9f41c0287e56c8ab7e72c5" title="m0_ut_rpc_service_start" alt="" coords="228,579,393,605"/>
+<area shape="rect" id="node14" href="$d0/df1/iter__ut_8c.html#ab7302241ea5e48493a0434b604de66b3" title="iter_ut_init" alt="" coords="269,629,352,656"/>
+<area shape="rect" id="node15" href="$d2/d66/group__dtm.html#gadb833649ffb8e87564de1db6c8162956" title="rpc_fop_fom_init" alt="" coords="251,680,370,707"/>
+<area shape="rect" id="node16" href="$d0/d06/fdmi__sample__plugin_8c.html#a6f30b9ccee05585573f15a75d903386c" title="fdmi_service_start" alt="" coords="246,731,375,757"/>
+<area shape="rect" id="node17" href="$db/ddb/filterc__ut_8c.html#a91ed0c57c91858b5b4a25fb4a9721a1a" title="ut_filterc_start" alt="" coords="258,781,363,808"/>
+<area shape="rect" id="node18" href="$d5/d34/sd__common_8h.html#a703f0f6af3d987819eba57be5e286ecc" title="fdmi_serv_start_ut" alt="" coords="245,832,376,859"/>
+<area shape="rect" id="node19" href="$d9/d2c/ms__fom__ut_8c.html#ad407a09f2f0d9a701bf0b8d790a8e7a4" title="reqh_start" alt="" coords="271,883,351,909"/>
+<area shape="rect" id="node20" href="$d8/dd3/long__lock__ut_8c.html#a2207e6b9c73c5b25847c4efca0020426" title="test_long_lock_init" alt="" coords="245,933,376,960"/>
+<area shape="rect" id="node21" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a6f251e1b31fbe3b592fb61eb183de4e3" title="test_stats_init" alt="" coords="259,984,363,1011"/>
+<area shape="rect" id="node22" href="$da/d1e/ut_2isc_8c.html#a17fb021b480a1f220d2579807fa2e398" title="init" alt="" coords="291,1035,330,1061"/>
+<area shape="rect" id="node23" href="$d9/d85/ut_2locality_8c.html#a2e511ebef5d5712490ccb7d7e5427cd7" title="fom_simple_svc_start" alt="" coords="235,1085,386,1112"/>
+<area shape="rect" id="node24" href="$d7/d93/mdservice_2ut_2mdstore_8c.html#acba08c3a3319512a31cf338a9871f1a5" title="test_init" alt="" coords="277,1136,345,1163"/>
+<area shape="rect" id="node25" href="$da/ddc/group__reqhservice.html#gae56343b4dc4aa0b7002d201585900136" title="m0_reqh_service_setup" alt="" coords="231,1187,391,1213"/>
+<area shape="rect" id="node26" href="$d5/d8c/group__reqh.html#ga2e2421c376c0c9af69a0443ba10aebf3" title="server_init" alt="" coords="269,1237,352,1264"/>
+<area shape="rect" id="node27" href="$d2/d39/ss__svc_8c.html#a849358a0b92877c90bad65c89ee2720a" title="ss_fom_tick__svc_alloc" alt="" coords="229,1288,392,1315"/>
+</map>

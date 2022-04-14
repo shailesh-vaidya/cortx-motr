@@ -1,0 +1,13 @@
+<map id="m0_sm_conf_fini" name="m0_sm_conf_fini">
+<area shape="rect" id="node2" href="$df/d03/group__cas__dfspec.html#ga5171d7df69839269b7e855cc5b3273f6" title="m0_cas_svc_fini" alt="" coords="397,64,517,91"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gae6167998580b340ed8abaa46f164b7bd" title="m0_be_tx_mod_fini" alt="" coords="195,39,329,65"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gac8f45033b20f1849f9f9084f1b90fdb5" title="m0_cas_sm_conf_fini" alt="" coords="187,89,337,116"/>
+<area shape="rect" id="node5" href="$d6/d81/index__gc_8h.html#a7cb7b0f8902bce9f37db1e2172d53cf4" title="m0_cas_gc_fini" alt="" coords="205,140,319,167"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga534b50e17a6cc5a64156173fc79b63f0" title="m0_fops_fini" alt="" coords="214,191,310,217"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga7ee6ed78b386e9a1941137bc65f22bb0" title="m0_dix_sm_conf_fini" alt="" coords="189,241,335,268"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#ga856f68c1abf3897af48961f12dde261d" title="m0_dtm0_dtx_domain_fini" alt="" coords="175,292,349,319"/>
+<area shape="rect" id="node9" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a8d237a8af1e93485a46b9a985ef2f5ee" title="test_stats_fini" alt="" coords="210,343,314,369"/>
+<area shape="rect" id="node10" href="$dd/d3e/io__fops_8h.html#ac862064a83d1414bafc7f232c29ff297" title="m0_ioservice_fop_fini" alt="" coords="188,393,336,420"/>
+<area shape="rect" id="node11" href="$d8/dd5/fsync__fops_8h.html#a4c642fdd34e2c2a51ef228434ed1dbb4" title="m0_mdservice_fsync\l_fop_fini" alt="" coords="189,445,335,486"/>
+<area shape="rect" id="node12" href="$d7/dcd/motr_2client__internal_8h.html#a8fd7a1c237f8de24b1bdf014fa6078d8" title="m0_client_global_fini" alt="" coords="191,511,333,537"/>
+</map>

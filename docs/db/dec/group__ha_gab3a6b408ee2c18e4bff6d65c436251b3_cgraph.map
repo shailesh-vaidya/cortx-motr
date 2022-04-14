@@ -1,0 +1,10 @@
+<map id="ha_link_tags_apply" name="ha_link_tags_apply">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="195,5,341,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga27acf27b5bd4c83aa6cb449a82e9be98" title="m0_ha_lq_tags_get" alt="" coords="201,56,335,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gadcb79467376b0724f35750445070f045" title="m0_ha_lq_tag_next" alt="" coords="201,107,335,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gac7f715e5e09e7a88b5aedfb04c12d759" title="m0_ha_lq_tag_delivered" alt="" coords="187,157,349,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gadb458619da31f28d0e81ad91151dd134" title="m0_ha_lq_try_unnext" alt="" coords="195,208,341,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gaa1bfa38c5bac587f643d957c2daaa1e6" title="m0_ha_lq_tag_assign" alt="" coords="194,259,342,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga4caf969ea2a36d1b41ca2f094182ff37" title="m0_ha_link_tags_eq" alt="" coords="197,309,339,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="223,360,313,387"/>
+</map>

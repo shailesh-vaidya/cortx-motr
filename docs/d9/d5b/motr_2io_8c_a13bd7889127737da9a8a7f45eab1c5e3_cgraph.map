@@ -1,0 +1,16 @@
+<map id="obj_op_init" name="obj_op_init">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a1bc6dfe6d240d86aa3c7a1e3418f5c44" title="m0__entity_instance" alt="" coords="155,5,298,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="184,107,269,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="364,81,440,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="369,157,435,184"/>
+<area shape="rect" id="node6" href="$d9/d5b/motr_2io_8c.html#a577f0868f3322e4901d97c83f9db3565" title="obj_io_cb_launch" alt="" coords="165,208,288,235"/>
+<area shape="rect" id="node7" href="$d9/d5b/motr_2io_8c.html#a79a9a2cef9714498171a3010c8d31fd4" title="obj_io_cb_cancel" alt="" coords="165,259,288,285"/>
+<area shape="rect" id="node8" href="$d9/d5b/motr_2io_8c.html#a854b962ab7fc5440c8973bfc50ae9898" title="obj_io_cb_fini" alt="" coords="176,309,277,336"/>
+<area shape="rect" id="node9" href="$d9/d5b/motr_2io_8c.html#a490a5e0be1f2a9c3d39414f13004b08c" title="obj_io_cb_free" alt="" coords="173,360,280,387"/>
+<area shape="rect" id="node10" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="163,411,291,437"/>
+<area shape="rect" id="node11" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="153,461,301,488"/>
+<area shape="rect" id="node12" href="$d7/dcd/motr_2client__internal_8h.html#ae92f4b63e3ebd3bce7153afa56487d6d" title="m0__obj_pver" alt="" coords="175,512,278,539"/>
+<area shape="rect" id="node13" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="137,563,316,589"/>
+<area shape="rect" id="node14" href="$d7/dcd/motr_2client__internal_8h.html#a0aca95cdb413eec7b71967cd52cf458f" title="m0__obj_layout_id_get" alt="" coords="149,613,304,640"/>
+<area shape="rect" id="node15" href="$d7/dcd/motr_2client__internal_8h.html#a4743068e33d77f4bd567db584560fc8a" title="m0__obj_layout_instance\l_build" alt="" coords="142,665,311,706"/>
+</map>

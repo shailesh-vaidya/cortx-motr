@@ -1,0 +1,17 @@
+<map id="btree_save" name="btree_save">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga47a9cfd1a3c9fbf15a184db337edeb6e" title="btree_op_fill" alt="" coords="177,5,269,32"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="161,56,285,83"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="147,107,298,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaa341400d4dc0871be794cb218d4035da" title="btree_rwlock" alt="" coords="175,157,271,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gabf6e8de1d5bfffb0df19c9d5b079ead9" title="op_tree" alt="" coords="190,208,255,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaebb0403753a7a5fed67b340695e859b3" title="be_btree_search" alt="" coords="353,436,472,463"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaffabb591b31b4f469321c6839b32894f" title="be_btree_vsize" alt="" coords="167,309,278,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga500f2bed7853087d433be351ebee8758" title="be_btree_delete_key" alt="" coords="151,360,294,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="368,309,457,336"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga7ca96d870d8c1e81ee55967d32aa50b6" title="mem_update" alt="" coords="364,563,461,589"/>
+<area shape="rect" id="node12" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="185,512,260,539"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#gaf148d3c8464d2e3c255488052b197ace" title="mem_alloc" alt="" coords="180,563,265,589"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#gab051fee783fe845df4e6edb039d85fb3" title="be_btree_insert_newkey" alt="" coords="141,461,304,488"/>
+<area shape="rect" id="node15" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="140,664,305,691"/>
+<area shape="rect" id="node16" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="164,715,281,741"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="on_death_cb_install" name="on_death_cb_install">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="233,5,291,32"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#ac5a22e9eb44409e23ccef4568a056e45" title="_on_death_cb" alt="" coords="211,56,313,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gaca2a7aaa70089b679e339d17a4f6f285" title="m0_confc_reconnect" alt="" coords="191,107,333,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="211,157,313,184"/>
+</map>

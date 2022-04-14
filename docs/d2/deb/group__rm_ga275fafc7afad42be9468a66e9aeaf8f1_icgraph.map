@@ -1,0 +1,10 @@
+<map id="credit_diff" name="credit_diff">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga4b57a60665d46ae97ee208de327559d0" title="remnant_loan_get" alt="" coords="140,5,265,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="132,56,273,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga7273c95e912cde4724ebf9b50c9b998f" title="incoming_check_with" alt="" coords="465,132,612,159"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga62a2c4f8fedd86bdc490e7e01870fbf7" title="outgoing_check" alt="" coords="146,157,259,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga3b82c83a419d301c9dce0b79f3b152b9" title="borrow_send" alt="" coords="321,157,417,184"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga85cb09f082444b783889a8ed86cb0f58" title="loan_check" alt="" coords="159,259,247,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga495701fcda45f813476fefdfdf492541" title="credit_eq" alt="" coords="165,309,240,336"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#gaace30262f7b7cb8fa2c8153f84afee27" title="remnant_credit_get" alt="" coords="136,360,269,387"/>
+</map>

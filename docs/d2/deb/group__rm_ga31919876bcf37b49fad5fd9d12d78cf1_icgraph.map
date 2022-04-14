@@ -1,0 +1,8 @@
+<map id="credit_pin_nr" name="credit_pin_nr">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gaa9cdbff3a446fd6be5bba4e3d8f0eed1" title="cached_credits_remove" alt="" coords="149,5,309,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="159,56,300,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga05a84c69027a4fd27c03589e743ac35f" title="credit_is_reserved" alt="" coords="165,107,293,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga09e3405703415fdd9e0cf2faae5fc7d4" title="credit_invariant" alt="" coords="357,132,468,159"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gab04046f6cb890074369980bc1d7c2111" title="conflict_notify" alt="" coords="178,208,281,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga4a7851bec01074631f34ad390d6810f0" title="incoming_release" alt="" coords="168,259,291,285"/>
+</map>

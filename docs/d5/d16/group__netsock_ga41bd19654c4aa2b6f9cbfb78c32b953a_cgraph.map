@@ -1,0 +1,13 @@
+<map id="sock_event" name="sock_event">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gadbe2464eb0dd92b5b19e5f2cfe21b715" title="sock_invariant" alt="" coords="612,348,719,375"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga78251ee15fee7c0c5da7f01379891e47" title="ep_ma" alt="" coords="767,171,828,198"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga88e81fbd6443046da02ec3cb446fa705" title="addr_decode" alt="" coords="143,95,239,122"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gafe00935b90da1e6a5c7315945de225c4" title="addr_invariant" alt="" coords="287,44,389,71"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga87fd9494dc7688b4f4cddb2bc5bfbaaa" title="ep_create" alt="" coords="151,146,230,172"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga3e46e3a9fe0688a77c21473c9b1a3dde" title="sock_init" alt="" coords="153,196,228,223"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="437,196,564,223"/>
+<area shape="rect" id="node9" href="$d5/d16/group__netsock.html#ga85d8da4dc83ae2334a7422a46b355949" title="sock_done" alt="" coords="295,298,381,324"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#gaae7a60c600aecff6e08ebb32cf387475" title="sock_close" alt="" coords="457,348,545,375"/>
+<area shape="rect" id="node11" href="$d5/d16/group__netsock.html#gaa05d2431e69de06adf149afa0903de7b" title="sock_in" alt="" coords="305,450,371,476"/>
+<area shape="rect" id="node12" href="$d5/d16/group__netsock.html#gafe6b9b0c71898374d7d07b83666fae36" title="sock_out" alt="" coords="463,500,538,527"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d0/d06/fdmi__sample__plugin_8c.html#a4842e13fdd6329f2f143b2aef58f6844" title="fsp_usage" alt="" coords="311,22,393,48"/>
+<area shape="rect" id="node3" href="$d0/d06/fdmi__sample__plugin_8c.html#a6281d14da112c30ddf146539c9f0d364" title="fsp_args_parse" alt="" coords="128,47,239,74"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="314,98,390,124"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="116,148,251,175"/>
+<area shape="rect" id="node6" href="$d0/d06/fdmi__sample__plugin_8c.html#a0bed65174e789a6eaaf0c1ff15efb453" title="fsp_init" alt="" coords="151,199,215,226"/>
+<area shape="rect" id="node7" href="$d0/d06/fdmi__sample__plugin_8c.html#a82880756c3d179a66152ad1445214f93" title="fsp_sighandler_init" alt="" coords="118,250,249,276"/>
+<area shape="rect" id="node8" href="$d0/d06/fdmi__sample__plugin_8c.html#a7f93e96e5f09511bf0964d80303872bb" title="fsp_print_params" alt="" coords="122,300,245,327"/>
+<area shape="rect" id="node9" href="$d0/d06/fdmi__sample__plugin_8c.html#a4ead3ed550a7441eeba477ad87be392c" title="fdmi_plugin_record_ack" alt="" coords="104,351,263,378"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="109,402,258,428"/>
+<area shape="rect" id="node11" href="$d0/d06/fdmi__sample__plugin_8c.html#abda48a7f23e6c4fb9218446c8aa6cb67" title="fsp_fini" alt="" coords="151,452,215,479"/>
+<area shape="rect" id="node12" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="116,503,251,530"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="150,554,217,580"/>
+</map>

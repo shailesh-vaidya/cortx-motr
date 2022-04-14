@@ -1,0 +1,7 @@
+<map id="drop_all_items" name="drop_all_items">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="160,5,327,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="182,56,305,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gafc2d206690b3e288dc1ce7ff6c2b5cbe" title="frm_remove" alt="" coords="198,107,289,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="375,157,497,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="176,208,311,235"/>
+</map>

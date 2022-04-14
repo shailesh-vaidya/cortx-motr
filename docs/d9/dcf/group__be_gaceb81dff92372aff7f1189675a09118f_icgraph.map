@@ -1,0 +1,24 @@
+<map id="be_engine_is_locked" name="be_engine_is_locked">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gacb1b88aec55f8b08d9fef4ffa5991b29" title="be_engine_tx_group\l_state_move" alt="" coords="212,567,351,608"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga244d8fc854a8a51a90d75b6713ac13d6" title="be_engine_group_freeze" alt="" coords="433,667,595,694"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaff3ab31b72c9099b202287e3463a80bd" title="be_engine_tx_trygroup" alt="" coords="664,435,817,462"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga32d2cafff20ba83662e53ac964ab923f" title="be_engine_got_tx_grouping" alt="" coords="868,375,1048,402"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga14667fc6be7666fd06f6e16d666618c1" title="be_engine_got_tx_closed" alt="" coords="1539,375,1708,402"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga4729a8fa29c1da2f6ab6a196c6015da8" title="be_engine_tx_group_open" alt="" coords="1096,617,1269,643"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga93e8444f9bf08d7012a8a8ce0faa3155" title="be_engine_group_tryclose" alt="" coords="1317,531,1491,558"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga97a124a3de04f5e202b9a8abe482253c" title="be_engine_try_recovery" alt="" coords="1543,802,1703,829"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga74a675c36dcf9a94fe06f7d302e16726" title="be_engine_tx_group\l_ready" alt="" coords="1335,448,1473,489"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga13eb4292a263307dd96459493c101436" title="be_engine_group_start" alt="" coords="1547,165,1700,191"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga814c593e6578e889f888a692c7acd56d" title="be_engine_invariant" alt="" coords="213,515,350,542"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga0005440568eec2ad81b9c2912a078704" title="be_engine_tx_peek" alt="" coords="214,363,349,390"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#gaf670692fcb3107c61262998a22368cdd" title="be_engine_tx_opening_peek" alt="" coords="421,769,607,795"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#gafa3458332af4d59a7dc1e38256b432a7" title="be_engine_got_tx_open" alt="" coords="661,769,820,795"/>
+<area shape="rect" id="node16" href="$d9/dcf/group__be.html#ga90615a898de320722a30ed4b4159da0a" title="be_engine_tx_state_post" alt="" coords="431,313,597,339"/>
+<area shape="rect" id="node17" href="$d9/dcf/group__be.html#gac62df55090ab87eea4084e9f794a129a" title="is_engine_at_stopped\l_or_done" alt="" coords="207,785,355,827"/>
+<area shape="rect" id="node18" href="$d9/dcf/group__be.html#ga920bdfa5ca3c26722d6fd98b13d77335" title="be_engine_got_tx_done" alt="" coords="435,835,593,862"/>
+<area shape="rect" id="node19" href="$d9/dcf/group__be.html#ga8577cb6dff3a58d8b824e529ca1e7541" title="be_engine_group_timeout_arm" alt="" coords="415,414,613,441"/>
+<area shape="rect" id="node20" href="$d9/dcf/group__be.html#ga3efc149c8b5900700dc914e835bdd83a" title="be_engine_recovery\l_is_finished" alt="" coords="889,992,1027,1033"/>
+<area shape="rect" id="node21" href="$d9/dcf/group__be.html#gac9d4633e6164aece4325663fc760a36e" title="be_engine_recovery\l_finish" alt="" coords="1113,1048,1252,1089"/>
+<area shape="rect" id="node22" href="$d9/dcf/group__be.html#ga49242805fdbf7c43c4af0d38026290e8" title="be_engine_recovery\l_tx_find" alt="" coords="671,263,810,304"/>
+<area shape="rect" id="node23" href="$d9/dcf/group__be.html#gaedeb5139b71ced5f9ae537f4b56edf71" title="be_engine_group_stop_nr" alt="" coords="196,1109,367,1135"/>
+</map>

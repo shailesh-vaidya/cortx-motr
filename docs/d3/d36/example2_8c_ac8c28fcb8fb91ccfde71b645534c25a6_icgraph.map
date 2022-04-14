@@ -1,0 +1,6 @@
+<map id="op_launch_wait_fini" name="op_launch_wait_fini">
+<area shape="rect" id="node2" href="$d3/d36/example2_8c.html#abcab566d1a642034f50b33cae69f5d27" title="index_create" alt="" coords="189,5,285,32"/>
+<area shape="rect" id="node3" href="$d3/d36/example2_8c.html#a9a0af41ebcc887a71f4576e78c1cd0ca" title="index_delete" alt="" coords="190,56,285,83"/>
+<area shape="rect" id="node4" href="$d3/d36/example2_8c.html#ac28de6f1c4ee43595d30191e945386d8" title="index_put" alt="" coords="198,107,277,133"/>
+<area shape="rect" id="node5" href="$d3/d36/example2_8c.html#a8431e6fc4676fce8f99a89949af86649" title="index_get" alt="" coords="198,157,277,184"/>
+</map>

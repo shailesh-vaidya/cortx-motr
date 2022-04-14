@@ -1,0 +1,10 @@
+<map id="layout/plan.c" name="layout/plan.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="459,304,529,331"/>
+<area shape="rect" id="node4" href="$db/dfb/hash_8h.html" title="lib/hash.h" alt="" coords="191,229,269,256"/>
+<area shape="rect" id="node5" href="$d4/dea/motr_2client_8h.html" title="motr/client.h" alt="" coords="293,229,388,256"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html" title="motr/client_internal.h" alt="" coords="160,155,303,181"/>
+<area shape="rect" id="node7" href="$d4/dc1/motr_2io_8h.html" title="motr/io.h" alt="" coords="229,80,303,107"/>
+<area shape="rect" id="node8" href="$db/de6/layout_2layout_8h.html" title="layout/layout.h" alt="" coords="378,155,485,181"/>
+<area shape="rect" id="node9" href="$d9/d4e/plan_8h.html" title="layout/plan.h" alt="" coords="509,155,605,181"/>
+</map>

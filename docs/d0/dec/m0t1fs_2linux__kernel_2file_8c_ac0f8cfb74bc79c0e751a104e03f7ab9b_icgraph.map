@@ -1,0 +1,6 @@
+<map id="data_buf_invariant" name="data_buf_invariant">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0f05b7df22b02742ec3d729976221d1e" title="data_buf_invariant_nr" alt="" coords="181,5,328,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a4f3dc4b286cb1fef9f1a58f25949d1b5" title="data_buf_alloc_init" alt="" coords="189,56,320,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#adf2657e9dc60c6d0ba523dfc333ccdd9" title="data_buf_dealloc_fini" alt="" coords="183,107,327,133"/>
+<area shape="rect" id="node5" href="$d7/dde/io__req_8c.html#ab21dc4b3f4b8f41a773065eb4a481794" title="data_buf_copy" alt="" coords="201,157,308,184"/>
+</map>

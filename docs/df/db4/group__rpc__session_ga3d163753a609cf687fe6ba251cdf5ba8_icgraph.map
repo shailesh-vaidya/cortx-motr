@@ -1,0 +1,8 @@
+<map id="rpc_conn2confc" name="rpc_conn2confc">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#gae0057fbf142d6cb0e3bafb8efebc4a48" title="m0_rpc_conn2svc" alt="" coords="203,5,331,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga80e68093fff80af547362ee271a11891" title="__conn_ha_subscribe" alt="" coords="193,56,341,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga2e05d0210809a117188d872dd5283b0a" title="m0_rpc_conn_ha_subscribe" alt="" coords="415,81,599,108"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga0736007df3b3422176f08da315743324" title="m0_rpc_conn_ha_unsubscribe" alt="" coords="168,157,367,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga15a64b65ba9eca34e4e894461dae3fe5" title="m0_rpc_conn_is_known_dead" alt="" coords="169,208,366,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga42a766cdf48df3f999f6bbecb3b3ebec" title="rpc_conn__on_cache\l_expired_cb" alt="" coords="195,259,340,301"/>
+</map>

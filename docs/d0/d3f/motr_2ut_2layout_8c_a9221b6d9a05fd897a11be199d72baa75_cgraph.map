@@ -1,0 +1,7 @@
+<map id="ut_m0_layout_op" name="ut_m0_layout_op">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="177,5,327,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="175,56,329,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#gacb5663f4ab85c03862a9256b5cfa3638" title="m0_client_layout_op" alt="" coords="181,107,323,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="217,157,287,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="201,208,303,235"/>
+</map>

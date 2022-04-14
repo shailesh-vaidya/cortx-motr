@@ -1,0 +1,10 @@
+<map id="m0_rm_request_out" name="m0_rm_request_out">
+<area shape="rect" id="node2" href="$d7/db2/rm__fops_8c.html#a0708db00afaea296ea02907bbb076ebb" title="rm_out_create" alt="" coords="195,35,300,62"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="352,10,428,36"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="357,136,423,163"/>
+<area shape="rect" id="node5" href="$d7/db2/rm__fops_8c.html#a14204c1204c4bfb24f7f7f9f856b3e9a" title="borrow_fop_fill" alt="" coords="194,136,301,163"/>
+<area shape="rect" id="node6" href="$d7/db2/rm__fops_8c.html#a7b26e266336ef19b2a15fa3e5888844b" title="revoke_fop_fill" alt="" coords="194,187,301,214"/>
+<area shape="rect" id="node7" href="$d7/db2/rm__fops_8c.html#aa9631e128a9d7df8e6ae5b66c999890f" title="cancel_fop_fill" alt="" coords="195,238,300,264"/>
+<area shape="rect" id="node8" href="$d7/db2/rm__fops_8c.html#a84d0b5d7656a7cd3da11541a1ceab5ee" title="outgoing_queue" alt="" coords="191,288,304,315"/>
+<area shape="rect" id="node9" href="$d7/db2/rm__fops_8c.html#a319c51b24b19ebd23ff05055d3631259" title="rm_out_destroy" alt="" coords="191,339,303,366"/>
+</map>

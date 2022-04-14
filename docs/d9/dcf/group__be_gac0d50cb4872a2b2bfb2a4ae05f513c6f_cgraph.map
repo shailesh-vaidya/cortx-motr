@@ -1,0 +1,9 @@
+<map id="insert_credit" name="insert_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf6af9efa84db4f61db11fa445dd71056" title="btree_node_split_child\l_credit" alt="" coords="147,96,297,137"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaf3517d8e8d483a47ed8c8a615d35f77e" title="btree_node_alloc_credit" alt="" coords="351,74,510,100"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0e1154801a6afdeb1cfd06409f708b7f" title="btree_node_update_credit" alt="" coords="345,162,516,188"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga95c25fe99034dc832d82a065793e974e" title="m0_be_tx_credit_mac" alt="" coords="564,187,715,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga0f6374864759f369de4880306837e90e" title="m0_be_tx_credit_mul" alt="" coords="763,91,909,118"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="763,263,909,290"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga6975e8c33eb52f3cd2cd0b9589f51121" title="kv_insert_credit" alt="" coords="582,314,697,340"/>
+</map>

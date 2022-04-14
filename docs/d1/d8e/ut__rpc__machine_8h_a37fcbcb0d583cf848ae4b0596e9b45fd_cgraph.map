@@ -1,0 +1,8 @@
+<map id="m0_ut_rpc_mach_init_and_add" name="m0_ut_rpc_mach_init_and_add">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="200,5,365,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="213,56,352,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="203,107,363,149"/>
+<area shape="rect" id="node5" href="$dc/d92/ut__rpc__machine_8c.html#aff4a02de2dedd9f57fa96da9c37b8599" title="ut_reqh_and_stuff_init" alt="" coords="208,173,357,200"/>
+<area shape="rect" id="node6" href="$d5/d8c/group__reqh.html#ga074be1304e31590ad109bd330c6fb336" title="m0_reqh_start" alt="" coords="230,224,335,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga7de928bf0cc92e7751cd7e3377264bfc" title="m0_rpc_machine_init" alt="" coords="210,275,355,301"/>
+</map>

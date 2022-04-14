@@ -1,0 +1,5 @@
+<map id="logbuf_map" name="logbuf_map">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#gaa7d753f616c52f2bd9fc85cf7b1dacf4" title="m0_pagesize_get" alt="" coords="365,25,489,51"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#ga828b1e2b97c27a845cdacf0f7b5f510c" title="m0_trace_buf_header_init" alt="" coords="145,25,315,51"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#gaa1218a3cf8f61ccb64303529687dde26" title="m0_trace_logbuf_size_set" alt="" coords="143,75,317,102"/>
+</map>

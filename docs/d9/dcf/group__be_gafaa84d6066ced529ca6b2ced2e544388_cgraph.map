@@ -1,0 +1,12 @@
+<map id="m0_be_log_record_io_launch" name="m0_be_log_record_io_launch">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gae4395596ffca764d86dc508515b5bd49" title="m0_be_log_sched_lock" alt="" coords="205,5,364,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gac75ff3d0e63cdd08b9a9bb0c920f0af9" title="m0_be_op_set_add" alt="" coords="429,335,563,361"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="231,107,338,133"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="223,157,347,184"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="226,208,343,235"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="231,259,338,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="225,309,344,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga9b2f0c1d3675e3c07352277971885b8b" title="be_log_header_io" alt="" coords="223,360,346,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga1c6dba88a0dc6d5d639ad7878e19d5d9" title="m0_be_log_sched_add" alt="" coords="419,385,573,412"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga917f31cc4f331fa9455f431647555bcf" title="m0_be_log_sched_unlock" alt="" coords="199,461,371,488"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ut_test_sync_request_fop_send" name="ut_test_sync_request_fop_send">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a62c349d587d79a2d1f374e58b6721bf2" title="fake_setup" alt="" coords="237,5,323,32"/>
+<area shape="rect" id="node3" href="$d8/d6f/ut_2sync_8c.html#ab073926ae8d2e819a1d972cdd0eff04b" title="ut_post_rpc" alt="" coords="235,56,325,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a6be5373d0e6b5986714e15ad7f1eb632" title="ut_fop_fini" alt="" coords="239,107,321,133"/>
+<area shape="rect" id="node5" href="$d8/d6f/ut_2sync_8c.html#a320c00298f50186f48e042a3ababf3da" title="ut_reset_stub_counters" alt="" coords="201,157,359,184"/>
+<area shape="rect" id="node6" href="$db/dc2/sync_8c.html#a1396a1c9db7f984ee58e836053df447b" title="sync_request_fop_send" alt="" coords="200,259,360,285"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="422,233,491,260"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="408,284,505,311"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="235,360,325,387"/>
+</map>

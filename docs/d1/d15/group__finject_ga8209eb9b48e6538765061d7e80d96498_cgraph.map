@@ -1,0 +1,6 @@
+<map id="m0_fi_register" name="m0_fi_register">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="164,5,279,32"/>
+<area shape="rect" id="node3" href="$dd/dfd/finject_8c.html#aea02da28dd81ea170b0c711fd8f1f516" title="__fi_state_find" alt="" coords="168,56,275,83"/>
+<area shape="rect" id="node4" href="$dd/dfd/finject_8c.html#a6eca75b391aa459d71e8d460187d55eb" title="fi_state_alloc" alt="" coords="172,107,271,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="157,157,285,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cob_req_free" name="cob_req_free">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="327,52,455,79"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="157,27,272,54"/>
+<area shape="rect" id="node4" href="$d7/d9a/motr_2cob_8c.html#a226ec354a4cde0ceca4a670f40f91a4e" title="cob_req_ref_put" alt="" coords="157,78,272,104"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="151,128,279,155"/>
+</map>

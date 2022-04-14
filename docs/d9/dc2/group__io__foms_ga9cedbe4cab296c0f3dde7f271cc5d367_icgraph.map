@@ -1,0 +1,10 @@
+<map id="io_rw_rep_get" name="io_rw_rep_get">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="182,5,289,32"/>
+<area shape="rect" id="node3" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a67185937a057c1233131e9fc1976477d" title="dgmode_readio_test" alt="" coords="166,56,305,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#gab47dd87ce0c4683bd49eff87de7df475" title="stobio_complete_cb" alt="" coords="166,107,305,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#gac73c0391368c955cb7bd800ab027a4e1" title="io_prepare" alt="" coords="194,157,277,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga37595850eb37a790e76bb0e904014c52" title="stob_io_create" alt="" coords="182,208,289,235"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="363,233,525,260"/>
+<area shape="rect" id="node8" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="156,309,315,336"/>
+<area shape="rect" id="node9" href="$d1/d6d/bulkio__common_8h.html#ac44a822f8e8685c5b93277a4bb37e774" title="io_fops_rpc_submit" alt="" coords="168,360,303,387"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="w2csum" name="w2csum">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#ga3f9a399b51c3f2fec4838ae7ae63c9c4" title="csum_init" alt="" coords="140,5,219,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga9eb3409770e157711ff2c85431a87682" title="csum_fini" alt="" coords="140,56,219,83"/>
+<area shape="rect" id="node4" href="$d8/d42/group__crate.html#gae23737ab2750f47d25874011c1a2c129" title="csum_op_get" alt="" coords="129,107,229,133"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#gaccf99ab22a9a960f5113c21b34ef3d99" title="csum_compute" alt="" coords="124,157,235,184"/>
+<area shape="rect" id="node6" href="$d8/d42/group__crate.html#gab9de78f177be7e7b3879a42685650df2" title="csum_op_run" alt="" coords="129,208,229,235"/>
+<area shape="rect" id="node7" href="$d8/d42/group__crate.html#gae5c5caa7dced60af0078882c44092b90" title="csum_run" alt="" coords="140,259,219,285"/>
+<area shape="rect" id="node8" href="$d8/d42/group__crate.html#gae38e95ab5fd3e93f56fb02e7be9ec2a8" title="csum_parse" alt="" coords="133,309,226,336"/>
+</map>

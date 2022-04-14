@@ -1,0 +1,4 @@
+<map id="kthread_trampoline" name="kthread_trampoline">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="384,5,516,32"/>
+<area shape="rect" id="node3" href="$da/dd8/group__thread.html#gabfc83bdc7851704ee7d40db6f7286155" title="m0_thread_trampoline" alt="" coords="185,31,336,57"/>
+</map>

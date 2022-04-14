@@ -1,0 +1,8 @@
+<map id="chore_add_cb" name="chore_add_cb">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="169,5,289,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga3e228246ddb549616a176cca6d44301d" title="scan" alt="" coords="204,56,255,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="192,107,267,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="195,157,264,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="191,208,267,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="156,259,303,285"/>
+</map>

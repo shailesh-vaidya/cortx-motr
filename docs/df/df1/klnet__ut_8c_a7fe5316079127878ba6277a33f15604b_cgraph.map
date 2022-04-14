@@ -1,0 +1,10 @@
+<map id="ktest_bulk" name="ktest_bulk">
+<area shape="rect" id="node2" href="$d2/d68/lnet__ut_8c.html#a8fe5dfbc7336b7b5e45bef0c9241e198" title="ut_save_subs" alt="" coords="181,5,284,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="377,183,503,209"/>
+<area shape="rect" id="node4" href="$df/df1/klnet__ut_8c.html#a5a728e37b9c23374e224b74f54adcd3c" title="ut_ktest_bulk_LNetMDAttach" alt="" coords="136,107,329,133"/>
+<area shape="rect" id="node5" href="$df/df1/klnet__ut_8c.html#afed73f8868cf189546fcca9ab31fcec0" title="ut_ktest_bulk_LNetGet" alt="" coords="155,157,311,184"/>
+<area shape="rect" id="node6" href="$df/df1/klnet__ut_8c.html#a10db09e3f0d43c7eb9b2b46a927238ec" title="ut_ktest_bulk_LNetPut" alt="" coords="155,208,310,235"/>
+<area shape="rect" id="node7" href="$d2/d68/lnet__ut_8c.html#a58047fc0c8df1e90dcaee963787a2baf" title="ut_test_framework" alt="" coords="167,259,298,285"/>
+<area shape="rect" id="node8" href="$df/df1/klnet__ut_8c.html#a8d7b18285c438159d553511d8a960c19" title="ktest_bulk_body" alt="" coords="174,309,291,336"/>
+<area shape="rect" id="node9" href="$d2/d68/lnet__ut_8c.html#aad33b9fda8ea44e9e9c491c4153419cc" title="ut_restore_subs" alt="" coords="175,360,290,387"/>
+</map>

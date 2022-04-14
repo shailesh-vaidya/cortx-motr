@@ -1,0 +1,8 @@
+<map id="m0_fdmi_source_register" name="m0_fdmi_source_register">
+<area shape="rect" id="node2" href="$dd/dc6/group__fdmi__fol__src.html#ga03570d2bc28b2ca6397e223f111c69b5" title="m0_fol_fdmi_src_init" alt="" coords="223,5,366,32"/>
+<area shape="rect" id="node3" href="$db/ddb/filterc__ut_8c.html#a2a4bfbc8d71c3e806eb8c0aacdfd1cec" title="filterc_connect_to\l_confd" alt="" coords="232,57,357,98"/>
+<area shape="rect" id="node4" href="$d7/d9a/sd__apply__filter_8c.html#aa898ab8cffd3034439e24cff40e797a7" title="fdmi_sd_apply_filter\l_internal" alt="" coords="225,122,364,163"/>
+<area shape="rect" id="node5" href="$d2/db4/sd__ut_8c.html#af9ac7cc98d45654f309a81039effb368" title="fdmi_sd_post_record" alt="" coords="223,188,366,215"/>
+<area shape="rect" id="node6" href="$d2/db4/sd__ut_8c.html#abe4efd9d001aa02d690076fea903de02" title="fdmi_sd_release_fom" alt="" coords="221,239,368,265"/>
+<area shape="rect" id="node7" href="$d2/db4/sd__ut_8c.html#a294ac2f98e0bce3a424c58f4ccded6f8" title="fdmi_sd_send_notif" alt="" coords="227,289,362,316"/>
+</map>

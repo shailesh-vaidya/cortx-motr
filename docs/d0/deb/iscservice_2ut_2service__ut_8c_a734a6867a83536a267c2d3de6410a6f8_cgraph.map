@@ -1,0 +1,11 @@
+<map id="req_fop_prepare" name="req_fop_prepare">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="205,5,302,32"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#ga52c51d0e4d53a3cd3fd7f3739a97cf34" title="m0_rpc_at_init" alt="" coords="200,56,307,83"/>
+<area shape="rect" id="node4" href="$db/dc9/group__arith.html#ga3ab271ddef8d2ab1ee331f95138294b5" title="min64u" alt="" coords="221,107,285,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="168,158,339,199"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga54e957c6ef8d4aee0062051d83744ff2" title="m0_rpc_max_msg_size" alt="" coords="173,224,333,251"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="209,275,298,301"/>
+<area shape="rect" id="node8" href="$d1/de2/at__ut_8c.html#adbe266ade727c7ebd4d27f4f0be38382" title="atut__bufdata_alloc" alt="" coords="186,325,321,352"/>
+<area shape="rect" id="node9" href="$d7/df1/group__rpc-at.html#ga68b1828989b1d4d8d8b019e9070ea492" title="m0_rpc_at_add" alt="" coords="198,376,309,403"/>
+<area shape="rect" id="node10" href="$d7/df1/group__rpc-at.html#gac829a8aa34a93eb3c47b46c9f23ed591" title="m0_rpc_at_recv" alt="" coords="196,427,311,453"/>
+</map>

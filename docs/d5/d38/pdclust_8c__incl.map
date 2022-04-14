@@ -1,0 +1,17 @@
+<map id="layout/pdclust.c" name="layout/pdclust.c">
+<area shape="rect" id="node2" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="183,80,279,107"/>
+<area shape="rect" id="node4" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="145,155,232,181"/>
+<area shape="rect" id="node5" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="660,155,739,181"/>
+<area shape="rect" id="node6" href="$db/d65/vec_8h.html" title="lib/vec.h" alt="" coords="355,80,425,107"/>
+<area shape="rect" id="node7" href="$d7/deb/arith_8h.html" title="lib/arith.h" alt="" coords="739,304,814,331"/>
+<area shape="rect" id="node8" href="$db/dfb/hash_8h.html" title="lib/hash.h" alt="" coords="501,80,580,107"/>
+<area shape="rect" id="node9" href="$d4/d91/bob_8h.html" title="lib/bob.h" alt="" coords="604,80,675,107"/>
+<area shape="rect" id="node10" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="699,80,777,107"/>
+<area shape="rect" id="node11" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="903,155,1002,181"/>
+<area shape="rect" id="node12" href="$dd/d31/layout__internal_8h.html" title="layout/layout_internal.h" alt="" coords="933,80,1089,107"/>
+<area shape="rect" id="node13" href="$d6/d20/pdclust_8h.html" title="layout/pdclust.h" alt="" coords="1159,229,1274,256"/>
+<area shape="rect" id="node14" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="1215,80,1301,107"/>
+<area shape="rect" id="node15" href="$d7/dfb/fd_8h.html" title="fd/fd.h" alt="" coords="1151,155,1210,181"/>
+<area shape="rect" id="node16" href="$d7/d53/fd__internal_8h.html" title="fd/fd_internal.h" alt="" coords="801,80,909,107"/>
+</map>

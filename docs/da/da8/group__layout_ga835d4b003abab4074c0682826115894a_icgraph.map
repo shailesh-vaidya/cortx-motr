@@ -1,0 +1,8 @@
+<map id="m0_layout_domain_cleanup" name="m0_layout_domain_cleanup">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#adaecb17814dd21abf6226295f1cb433a" title="pdclust_map" alt="" coords="275,5,371,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a46c8026faf4db810ea3351329b506865" title="dix_client_fini" alt="" coords="272,56,373,83"/>
+<area shape="rect" id="node4" href="$d7/d70/motr_2ut_2obj_8c.html#aeedf470cb42bcac10a9d8b5486b58a1f" title="ut_layout_domain_empty" alt="" coords="239,107,406,133"/>
+<area shape="rect" id="node5" href="$d0/df1/iter__ut_8c.html#a167db75afcba3c541024cc8abfa0acf7" title="iter_ut_reqh_fini" alt="" coords="457,208,572,235"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga71adcff560464e453fc52ca9d007c4f5" title="dix_fini" alt="" coords="291,208,354,235"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#ga3d666cd7d4805fdcfefc5a3ae502e102" title="m0_reqh_layouts_cleanup" alt="" coords="236,259,409,285"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="dix_mreq_create" name="dix_mreq_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="211,5,287,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#ga906830b2831618928ca065ff958adf9f" title="idx_is_distributed" alt="" coords="188,56,311,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gabbdd31766236b75b0c3d25a0ad8dc692" title="m0_dix_meta_req_init" alt="" coords="175,107,324,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="375,157,473,184"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#gadd3f3c76e08093300d7c4740e250ff1f" title="op_dixc" alt="" coords="216,208,283,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#ga7e5b2af03f2cecb5ad10bfe29ad48676" title="dix_meta_req_clink_cb" alt="" coords="172,259,327,285"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#ga629e0efc1a21970211c5a2ca266563b4" title="cas_req_init" alt="" coords="203,309,295,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="216,360,283,387"/>
+</map>

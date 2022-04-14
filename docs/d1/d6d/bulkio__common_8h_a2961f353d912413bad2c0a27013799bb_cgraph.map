@@ -1,0 +1,4 @@
+<map id="bulkio_server_start" name="bulkio_server_start">
+<area shape="rect" id="node2" href="$d8/dc1/bulkio__common_8c.html#aab8f95e97c1dc92ee7cb943ca86e84b3" title="server_argv_alloc" alt="" coords="194,5,318,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="185,56,327,83"/>
+</map>

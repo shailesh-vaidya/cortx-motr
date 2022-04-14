@@ -1,0 +1,8 @@
+<map id="st_entity_delete" name="st_entity_delete">
+<area shape="rect" id="node2" href="$d8/de7/motr_2st_2obj_8c.html#ac6018723e04e7b1b0cd8d4fdc57e0b20" title="obj_create_then_delete" alt="" coords="189,5,345,32"/>
+<area shape="rect" id="node3" href="$d8/de7/motr_2st_2obj_8c.html#a29ca33961a9230da2dbb64585e003a36" title="obj_delete_multiple" alt="" coords="201,56,334,83"/>
+<area shape="rect" id="node4" href="$d8/de7/motr_2st_2obj_8c.html#a02cd10416d12668f0cb53945266595a0" title="obj_op_setup" alt="" coords="218,107,317,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a0f2f9a205f31036a0726af1ec08533f4" title="idx_delete_one" alt="" coords="213,157,322,184"/>
+<area shape="rect" id="node6" href="$d6/dac/example_8c.html#a96f5df95693136c5e8e5df4a112be607" title="example_abitmorecomplicated" alt="" coords="168,208,367,235"/>
+<area shape="rect" id="node7" href="$df/d61/isync_8c.html#a76563408100863d85b3f360d04359046" title="idx_create_or_delete" alt="" coords="196,259,339,285"/>
+</map>

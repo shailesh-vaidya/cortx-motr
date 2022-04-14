@@ -1,0 +1,13 @@
+<map id="io_netbufs_prepare" name="io_netbufs_prepare">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a74ae0eef5304059169544f8044925906" title="seg_set" alt="" coords="251,5,319,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga0d85adabb9bf5ffce4dbf92d676837b1" title="m0_fop_domain_get" alt="" coords="215,56,354,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="432,146,603,187"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="432,281,603,322"/>
+<area shape="rect" id="node6" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="219,360,351,387"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga80dbbf97a2d991b53512b86657beea20" title="m0_rpc_bulk_buf_add" alt="" coords="210,259,359,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="484,212,551,239"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga75a4ab280e5ca68250159fa2e2f7b9f1" title="m0_rpc_bulk_buf_databuf_add" alt="" coords="185,157,384,184"/>
+<area shape="rect" id="node10" href="$da/dda/io__fops_8c.html#a77d4fc673fc10557cddba471e1df1054" title="ioseg_unlink_free" alt="" coords="223,411,346,437"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="231,461,338,488"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga8d23794d6c38cb94c3c7ee91031826ef" title="m0_rpc_bulk_buflist\l_empty" alt="" coords="215,513,354,554"/>
+</map>

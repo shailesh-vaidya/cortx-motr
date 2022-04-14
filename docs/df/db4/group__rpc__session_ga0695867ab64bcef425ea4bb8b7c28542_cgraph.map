@@ -1,0 +1,12 @@
+<map id="m0_rpc_session_fini_locked" name="m0_rpc_session_fini_locked">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="195,5,368,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="416,31,519,57"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga97336b6aa65d735dced2d05f9287bb3e" title="m0_rpc_item_cache_fini" alt="" coords="200,107,363,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga2c28bb71a923cdce303c5b9410c00c5c" title="m0_rpc_item_pending\l_cache_fini" alt="" coords="207,158,356,199"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga6b526941cd8afae34bc10bd1f8fe194e" title="m0_rpc_item_xid_list_fini" alt="" coords="197,224,366,251"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga3669494844ed4c11f311bf8ca1c27dc5" title="m0_rpc_conn_remove\l_session" alt="" coords="206,275,357,317"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga8da44d3cf083092da600f739859f63eb" title="__session_fini" alt="" coords="229,341,334,368"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="423,367,512,393"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="217,443,345,469"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="237,493,326,520"/>
+</map>

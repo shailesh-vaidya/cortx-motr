@@ -1,0 +1,15 @@
+<map id="rconfc_read_lock_complete" name="rconfc_read_lock_complete">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="613,313,672,340"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga17ae9e3a061bcfa27a04132159cbe310" title="rlock_ctx_incoming\l_to_rconfc" alt="" coords="245,45,379,86"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga6926f12c2d28376109989504ab21dcf3" title="rconfc_state" alt="" coords="454,212,549,239"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="274,161,350,188"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="444,263,559,289"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga92b8e301323dee8d0b7a15e473bf3cd2" title="rconfc_ast_post" alt="" coords="444,633,559,660"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga9909e4cea713d2fa4b3d21d65505b1fc" title="rconfc_version_elect" alt="" coords="241,364,383,391"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="457,415,546,441"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga4c2f138b77bdc991176b31492a2486d6" title="rlock_ctx_creditor\l_state" alt="" coords="439,517,564,558"/>
+<area shape="rect" id="node11" href="$db/d90/group__rconfc__dlspec.html#gac960a76d13816b151dc3fe0d1ede9a58" title="rconfc_read_lock_retry" alt="" coords="235,313,389,340"/>
+<area shape="rect" id="node12" href="$db/d90/group__rconfc__dlspec.html#gaea9f0f54e23c4eefa7e9e130c1bff174" title="rconfc_fail_ast" alt="" coords="259,465,365,492"/>
+<area shape="rect" id="node13" href="$db/d90/group__rconfc__dlspec.html#ga317d37c8b188b7e3fdb8bf40f9fccb63" title="rconfc_creditor_death\l_handle" alt="" coords="239,567,385,609"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="437,27,565,53"/>
+</map>

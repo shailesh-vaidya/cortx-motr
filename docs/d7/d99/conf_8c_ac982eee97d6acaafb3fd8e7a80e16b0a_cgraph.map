@@ -1,0 +1,17 @@
+<map id="cs_conf_storage_attach_by_srv" name="cs_conf_storage_attach_by_srv">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga39251b65490e1ef465dddedf5335eb56" title="m0_confc_open_by_fid_sync" alt="" coords="215,53,405,80"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="492,28,568,54"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="497,180,563,206"/>
+<area shape="rect" id="node5" href="$df/d59/group__conf__dir.html#gabb2cb587855c91b5c477d999bbdc72c4" title="m0_conf_dir_len" alt="" coords="251,154,369,181"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="251,205,369,232"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="495,500,565,526"/>
+<area shape="rect" id="node8" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="225,256,395,282"/>
+<area shape="rect" id="node9" href="$d7/d99/conf_8c.html#aa01b2e46455b43201a5272045c5b792f" title="is_device" alt="" coords="271,373,349,400"/>
+<area shape="rect" id="node10" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="239,424,381,450"/>
+<area shape="rect" id="node11" href="$d0/dfe/group__sdev.html#ga7d5a0cbc8671ee327895566c213b633f" title="m0_storage_dev_new\l_by_conf" alt="" coords="235,307,385,348"/>
+<area shape="rect" id="node12" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="229,576,391,602"/>
+<area shape="rect" id="node13" href="$d0/dfe/group__sdev.html#gae93d0a93b96e46a2db4b99e2da5e9051" title="m0_storage_devs_find\l_by_cid" alt="" coords="453,606,607,647"/>
+<area shape="rect" id="node14" href="$d3/d78/group__stoblinux.html#gad7e6e295dfed1b2f84a466adb1baabbc" title="m0_stob_linux_conf\l_sdev_associate" alt="" coords="241,627,379,668"/>
+<area shape="rect" id="node15" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="246,525,374,552"/>
+<area shape="rect" id="node16" href="$d0/dc7/group__ha-note.html#ga43b0a48a5a23e28322a4bd9157c18004" title="m0_ha_local_state_set" alt="" coords="232,744,388,770"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_fom_timedwait" name="m0_fom_timedwait">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="205,5,304,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gae6120abd85240fb4d53eebb80e0ed0f4" title="fom_wait_cb" alt="" coords="207,56,303,83"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#ga3229e46f45422d70ac81f7561f702046" title="m0_locality_call" alt="" coords="197,107,312,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga245908d8c34fe616a94e9c3dddd1995e" title="fom_wait_init" alt="" coords="205,157,304,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#gacf59d500a3c9d8e44c753b64e221b6dd" title="m0_chan_timedwait" alt="" coords="185,208,324,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="217,259,293,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga1629618c21b27d408e1dad85478bc0f9" title="fom_wait_fini" alt="" coords="205,309,304,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="205,360,304,387"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="owner_liquidate" name="owner_liquidate">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gae85a9aa985d78a0fd6bb2e2d5cdb4ae4" title="m0_rm_incoming_init" alt="" coords="165,5,311,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="359,183,448,209"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga54bc7b0a6d2a75649e4ac3756ad09eba" title="reserve_prio_set" alt="" coords="179,107,297,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="187,157,289,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gaa38562806494d2a16c9c9ca2dbf749b9" title="m0_rm_credit_copy" alt="" coords="170,208,306,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gab04046f6cb890074369980bc1d7c2111" title="conflict_notify" alt="" coords="187,259,289,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gad99ce5e28725a8b60da00344bd99de5c" title="m0_rm_loan_fini" alt="" coords="179,309,297,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="203,360,273,387"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga1cfc08defeb8139e02aafb307cb5390a" title="cancel_send" alt="" coords="191,411,285,437"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga6a8ea4c3c7e33a668de02ce2b4df5418" title="owner_balance" alt="" coords="183,461,293,488"/>
+</map>

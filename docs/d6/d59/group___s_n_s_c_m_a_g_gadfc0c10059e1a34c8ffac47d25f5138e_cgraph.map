@@ -1,0 +1,20 @@
+<map id="repair_ag_failure_ctxs_setup" name="repair_ag_failure_ctxs_setup">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gaeb32651e312181dbf354d7f58d3a327c" title="snsag2cm" alt="" coords="262,5,345,32"/>
+<area shape="rect" id="node3" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="510,107,565,133"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga138fca034c6d402e4ba7b0402082df16" title="m0_sns_cm_ag_size" alt="" coords="231,765,376,792"/>
+<area shape="rect" id="node5" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga96797cf9205c1d498373afebc5e0e00c" title="agid2fid" alt="" coords="504,208,571,235"/>
+<area shape="rect" id="node6" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga81ad856a1a664f7a5a8d94bd2b97f819" title="agid2group" alt="" coords="495,284,580,311"/>
+<area shape="rect" id="node7" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="248,816,359,843"/>
+<area shape="rect" id="node8" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="215,563,392,589"/>
+<area shape="rect" id="node9" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="671,613,840,640"/>
+<area shape="rect" id="node10" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="681,505,829,546"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="461,360,614,387"/>
+<area shape="rect" id="node12" href="$d7/d0c/parity__repair_8c.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="452,613,623,640"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="722,689,789,716"/>
+<area shape="rect" id="node14" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="454,411,621,437"/>
+<area shape="rect" id="node15" href="$d7/daf/group___s_n_s_c_m.html#gabb2c1ba587372f54555d0f2777339ddb" title="m0_sns_cm_ag_tgt_unit2cob" alt="" coords="207,208,399,235"/>
+<area shape="rect" id="node16" href="$d7/daf/group___s_n_s_c_m.html#gaf15f1c6b810d2c61c01ce3307beefe85" title="m0_sns_cm_device_index_get" alt="" coords="203,107,404,133"/>
+<area shape="rect" id="node17" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga05640da48fa4d5e3fd739a82f0793a30" title="repair_ag_target_unit" alt="" coords="232,309,375,336"/>
+<area shape="rect" id="node18" href="$d7/daf/group___s_n_s_c_m.html#ga75dd9cb423344b46e6125b5487d68196" title="m0_sns_cm_is_local_cob" alt="" coords="217,867,389,893"/>
+<area shape="rect" id="node19" href="$d7/daf/group___s_n_s_c_m.html#ga527167484cf589aae1a6d530c8b3fa86" title="m0_sns_cm_ag_unit2cobindex" alt="" coords="203,360,404,387"/>
+</map>

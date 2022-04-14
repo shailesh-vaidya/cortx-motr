@@ -1,0 +1,16 @@
+<map id="stob_ad_domain_init" name="stob_ad_domain_init">
+<area shape="rect" id="node2" href="$d6/d2c/group__stobad.html#ga71a55b3b7a8370fe050ab1b8a87c9c17" title="stob_ad_domain_locate" alt="" coords="195,5,354,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="403,300,469,327"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga814ba7e12d6bb12930ab45ee5dfe9b33" title="m0_be_domain_seg" alt="" coords="205,107,344,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="237,157,313,184"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga8192a4ed09f06acfa9e548c3fbd13db1" title="m0_stob_ad_domain_\l_invariant" alt="" coords="200,209,349,250"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#gac7442ca9858b62163950473bca7a581f" title="m0_stob_domain__dom\l_id_make" alt="" coords="195,274,355,315"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga63677eda17b607cd18aa16c3d846290b" title="m0_stob_type_id_get" alt="" coords="201,340,348,367"/>
+<area shape="rect" id="node9" href="$d2/de0/group__extmap.html#ga3d5f8012ff20d719be1978cc6dd902f8" title="m0_be_emap_init" alt="" coords="213,391,337,417"/>
+<area shape="rect" id="node10" href="$de/d8f/group__balloc.html#gad54bb8b3a3da2b54b457b97dcd1f70c7" title="m0_balloc_init" alt="" coords="222,441,327,468"/>
+<area shape="rect" id="node11" href="$de/d8f/group__balloc.html#ga871317ed8b5f3e0b7c24313b77e57fbf" title="b2m0" alt="" coords="247,492,302,519"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#gaba0c7019727753a830d6f8eab3488777" title="stob_ad_bstore" alt="" coords="219,543,330,569"/>
+<area shape="rect" id="node13" href="$d2/de0/group__extmap.html#ga8f0d3613057f39213886e3c6f93ab437" title="m0_be_emap_fini" alt="" coords="213,593,337,620"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="240,644,309,671"/>
+<area shape="rect" id="node15" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="203,695,346,721"/>
+</map>

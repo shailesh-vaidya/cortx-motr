@@ -1,0 +1,12 @@
+<map id="rootfid_lookup" name="rootfid_lookup">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="175,5,342,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="225,56,292,83"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga26e0557998b7ed2b6ac46c3a94047731" title="m0_reqh_service_connect_wait" alt="" coords="156,107,361,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gabcc9798121a1f27cb1c1d7d71b370693" title="m0_fop_alloc_at" alt="" coords="200,157,317,184"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="210,208,307,235"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="193,259,325,285"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="201,309,316,336"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="189,360,329,387"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#ga9bd7e793ec19730ad058d84a4cb9a5ce" title="m0_fop_get" alt="" coords="213,411,304,437"/>
+<area shape="rect" id="node11" href="$d6/d39/group__fop.html#ga5cf3d51846f4e80aef134c024d09c3c0" title="m0_fop_put0_lock" alt="" coords="195,461,323,488"/>
+</map>

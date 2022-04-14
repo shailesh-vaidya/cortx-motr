@@ -1,0 +1,11 @@
+<map id="rconfc_link_fom_fini" name="rconfc_link_fom_fini">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga16052f86d32e6cae9dba4627e77bd4e0" title="m0_fom_fini" alt="" coords="230,44,323,71"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="409,19,548,46"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="434,146,523,172"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="219,146,334,172"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="219,196,334,223"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gab3bc8c8ee502514d40b3ff991d314ad8" title="rconfc_herd_link_fini" alt="" coords="206,247,347,274"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gaa6d4e999a0cf0a6c5d45f61e2fe01c2f" title="rconfc_herd_link_cleanup" alt="" coords="192,298,361,324"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="213,348,341,375"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="213,399,341,426"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mover_is_writer" name="mover_is_writer">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga45a84b5062bc213795304baca5b13f74" title="ep_add" alt="" coords="195,5,259,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga29cb5f0cd1ec36cce44a8d9baa6a1746" title="ep_del" alt="" coords="197,56,257,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gad1278e0c872e51530c6943d527e786a3" title="mover_is_reader" alt="" coords="168,107,287,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gad7ba5dff1c65580fa18971ea7decf804" title="pk_header_init" alt="" coords="174,157,281,184"/>
+</map>

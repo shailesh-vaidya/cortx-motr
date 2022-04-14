@@ -1,0 +1,8 @@
+<map id="m0__obj_namei_cancel" name="m0__obj_namei_cancel">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="250,5,317,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="226,56,341,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="219,107,347,133"/>
+<area shape="rect" id="node5" href="$d7/d9a/motr_2cob_8c.html#a05c64410e3569247e20d08f824a7bf75" title="cob_req_ref_get" alt="" coords="226,157,341,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga8169f12deaa8f4358b7202042aa3b98f" title="m0_rpc_item_cancel" alt="" coords="212,208,355,235"/>
+<area shape="rect" id="node7" href="$d7/d9a/motr_2cob_8c.html#a226ec354a4cde0ceca4a670f40f91a4e" title="cob_req_ref_put" alt="" coords="226,259,341,285"/>
+</map>

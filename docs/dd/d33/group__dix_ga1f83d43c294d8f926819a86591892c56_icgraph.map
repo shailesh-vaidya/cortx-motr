@@ -1,0 +1,11 @@
+<map id="m0_dix_req_lock" name="m0_dix_req_lock">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a734c13f40be79d5ffad5e1c6c22de399" title="dix_common_idx_flagged_op" alt="" coords="173,5,364,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a4acf8d68d339abefdf3a551dc3278cd5" title="dix_common_rec_op" alt="" coords="197,56,340,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga84207e20298e34163240b504f1b206e2" title="dix_root_put" alt="" coords="222,107,315,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga170d5f9bd7351d5d36f76a924ed63116" title="dix_meta_create" alt="" coords="209,157,328,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga3d812bb380d0f07310eff14952a29a7c" title="dix_meta_delete" alt="" coords="210,208,327,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gafe68b77e5c036a54f15c1f0ace2977c3" title="m0_dix_meta_req_fini_lock" alt="" coords="179,259,359,285"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gae5e7f0c82ae69ecfd960e0275182d855" title="m0_dix_meta_lock" alt="" coords="203,309,334,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#gadff64495a5dd34dda58589b77b50e279" title="m0_dix_meta_check" alt="" coords="197,360,340,387"/>
+<area shape="rect" id="node10" href="$d7/de3/motr_2layout_8h.html#af680ff11e6f9b6acaed61083d9b63cf7" title="m0__dix_layout_get_sync" alt="" coords="182,411,355,437"/>
+</map>

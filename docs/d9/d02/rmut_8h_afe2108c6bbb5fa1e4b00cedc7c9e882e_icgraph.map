@@ -1,0 +1,13 @@
+<map id="rm_utdata_init" name="rm_utdata_init">
+<area shape="rect" id="node2" href="$dd/d39/ut_2rm__foms_8c.html#a6b2a95d416778995b8792c61b5985a3e" title="brw_fom_state_test" alt="" coords="166,5,303,32"/>
+<area shape="rect" id="node3" href="$dd/d39/ut_2rm__foms_8c.html#aa8fbc0893f5d12dd25a0b6002a3b2987" title="rvk_fom_state_test" alt="" coords="167,56,302,83"/>
+<area shape="rect" id="node4" href="$d0/d11/ut_2rm__fops_8c.html#a0907ded8bd00595735c8cb3ea93d34f1" title="borrow_fop_funcs_test" alt="" coords="157,107,312,133"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#a74a9bdabbc3e95c3c24a121e7fb1671d" title="revoke_fop_funcs_test" alt="" coords="157,157,312,184"/>
+<area shape="rect" id="node6" href="$de/d32/ut_2rm__service_8c.html#aebdab9d5a295367002d205932ec18266" title="rm_client" alt="" coords="197,208,272,235"/>
+<area shape="rect" id="node7" href="$da/d70/lcredits_8c.html#a678fa0a8be74c1b2308756f4eee90807" title="local_credits_init" alt="" coords="175,259,294,285"/>
+<area shape="rect" id="node8" href="$d5/d57/rmapi_8c.html#aaea5349197a3f7f9317950776d529a9b" title="credits_api_test" alt="" coords="177,309,292,336"/>
+<area shape="rect" id="node9" href="$d5/d57/rmapi_8c.html#a81a812ec6ca911902b89509916759566" title="owner_api_test" alt="" coords="179,360,290,387"/>
+<area shape="rect" id="node10" href="$d5/d57/rmapi_8c.html#ab28998861133807a5f3dcd695db4253a" title="res_api_test" alt="" coords="188,411,281,437"/>
+<area shape="rect" id="node11" href="$d5/d57/rmapi_8c.html#a44b23b7af152f5d037620de698b7ecab" title="rt_api_test" alt="" coords="193,461,276,488"/>
+<area shape="rect" id="node12" href="$d9/d02/rmut_8h.html#a7d6ca528fc6faef109c0adfa62af173d" title="rm_ctx_server_start" alt="" coords="165,512,304,539"/>
+</map>

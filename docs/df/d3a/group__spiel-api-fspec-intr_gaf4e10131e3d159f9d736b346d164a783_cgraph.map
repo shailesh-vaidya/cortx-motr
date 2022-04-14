@@ -1,0 +1,12 @@
+<map id="m0_spiel_pver_actual_add" name="m0_spiel_pver_actual_add">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="270,5,346,32"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#ga925959b9dd1b46050db6584af5db71f4" title="m0_pdclust_attr_check" alt="" coords="229,56,387,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="251,107,365,133"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga9a8966896883628991c7698c5f3dedc4" title="spiel_pver_dirs_create" alt="" coords="232,157,384,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="477,208,544,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#gaf62417c0dc870af9dc8ba8c9577e273d" title="spiel_pool_dirs_create" alt="" coords="233,259,383,285"/>
+<area shape="rect" id="node8" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="247,309,369,336"/>
+<area shape="rect" id="node9" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="435,335,587,361"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="244,411,372,437"/>
+<area shape="rect" id="node11" href="$d2/dd9/group__conf__dlspec__cache.html#gabac23b5ec19fc0493b8ff1e3c1a5ca48" title="m0_conf_cache_del" alt="" coords="239,461,377,488"/>
+</map>

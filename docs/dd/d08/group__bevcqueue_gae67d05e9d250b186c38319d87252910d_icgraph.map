@@ -1,0 +1,4 @@
+<map id="bev_link_bless" name="bev_link_bless">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#gae01d872c9b5720157527d7152b346bd1" title="nlx_core_new_blessed_bev" alt="" coords="161,5,344,32"/>
+<area shape="rect" id="node3" href="$d8/d9e/group___l_net_dev_internal.html#gaca44147b1297b273d9453735493b2cbf" title="nlx_dev_ioctl_bev_bless" alt="" coords="171,56,335,83"/>
+</map>

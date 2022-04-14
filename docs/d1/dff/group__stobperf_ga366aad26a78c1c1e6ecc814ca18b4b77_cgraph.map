@@ -1,0 +1,5 @@
+<map id="stob_perf_io_fini" name="stob_perf_io_fini">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="171,5,284,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="178,56,277,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="193,107,262,133"/>
+</map>

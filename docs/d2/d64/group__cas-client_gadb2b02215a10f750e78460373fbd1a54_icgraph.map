@@ -1,0 +1,6 @@
+<map id="creq_op_alloc" name="creq_op_alloc">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gae1123d4cf076e638ba5f4fc48fc4c5f0" title="greq_asmbl_post" alt="" coords="177,5,299,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gac45625cc4bb3c49e6faa702a9ae180de" title="nreq_asmbl_post" alt="" coords="177,56,299,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga7d964641ff67aa4a96645cac9c7e09a8" title="cas_index_op_prepare" alt="" coords="162,107,314,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#gaa34f28b2130b09ddac202755b0f4d1d3" title="cas_records_op_prepare" alt="" coords="156,157,320,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rpc_worker_thread_fn" name="rpc_worker_thread_fn">
+<area shape="rect" id="node2" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="415,256,517,283"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="207,38,359,64"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="200,88,367,115"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="421,67,511,94"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga86a9c851a2733f04ae882053f934abb5" title="m0_sm_asts_run" alt="" coords="222,206,345,232"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga5f1db00d29fb3c38720637f97a604bf0" title="m0_time_is_in_past" alt="" coords="214,307,353,334"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gac9cef2aa0456f4a3a93b57d2fd032e63" title="m0_rpc_machine_drain\l_item_sources" alt="" coords="205,140,361,181"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="230,358,337,384"/>
+</map>

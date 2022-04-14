@@ -1,0 +1,9 @@
+<map id="entity_invariant_full" name="entity_invariant_full">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a2cf73dde6a07cc4aff0eb0ec36733cdb" title="m0_op_entity_invariant" alt="" coords="188,5,344,32"/>
+<area shape="rect" id="node3" href="$d7/dcd/motr_2client__internal_8h.html#ab91350cc9f7e5f0a3ee7ec69c697378d" title="m0_entity_init" alt="" coords="215,56,317,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="215,107,317,133"/>
+<area shape="rect" id="node5" href="$d7/dcd/motr_2client__internal_8h.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="223,157,309,184"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#ace1563711ff4a90fa8bf6c51fe85fab1" title="obj_op_prepare" alt="" coords="392,208,503,235"/>
+<area shape="rect" id="node7" href="$dc/d86/motr_2obj_8c.html#ac2976c6037bd772e0605a3e265651802" title="entity_namei_op" alt="" coords="551,233,668,260"/>
+<area shape="rect" id="node8" href="$dc/d86/motr_2obj_8c.html#a8907b1e3e20c315507d444b3437c7440" title="obj_namei_cb_launch" alt="" coords="193,309,339,336"/>
+</map>

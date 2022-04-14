@@ -1,0 +1,8 @@
+<map id="dix_rop_del_phase2" name="dix_rop_del_phase2">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gaa1a19b922fdd58320daea6488977097a" title="dix_req_state_set" alt="" coords="195,5,321,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga17bda6318a2a002fdf47c9b1a8c948c1" title="dix_cas_rops_alloc" alt="" coords="191,56,325,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga48575fc5058f8e2ba9546a27450d692a" title="dix_cas_rops_fill" alt="" coords="199,107,317,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga2ce8b0a84a9b99c99dbf8c0ccab43a1d" title="dix_cas_rops_send" alt="" coords="191,157,325,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gade29398ef5a15cdfeea23aeee461c159" title="dix_rop_ctx_fini" alt="" coords="201,208,315,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga5283a0db7bb0548852620d20c0a765b1" title="dix_req_failure" alt="" coords="205,259,311,285"/>
+</map>

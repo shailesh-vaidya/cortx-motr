@@ -1,0 +1,10 @@
+<map id="be_domain_unlock" name="be_domain_unlock">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gace475bc3b9a3ca0eef635e39164f9fdd" title="be_domain_seg_close" alt="" coords="204,5,355,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga860c313e0dd6ba2d6b49482b439839e5" title="be_domain_seg_open" alt="" coords="205,56,353,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gabaaf755f8d23d7dba97ed97dcb3671ed" title="m0_be_domain__0type\l_register" alt="" coords="201,107,357,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gacb1e07426f661c151304df0e9d792c40" title="m0_be_domain__0type\l_unregister" alt="" coords="201,173,357,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga383522358bec076f3d69f8fc0a398da7" title="m0_be_domain_is_stob_log" alt="" coords="188,239,371,265"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga778c417aba5502327ebf6a23468911b9" title="m0_be_domain_is_stob_seg" alt="" coords="186,289,373,316"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga5057c893b54bb3fb9a20cfb209cd3023" title="m0_be_domain_seg_by_addr" alt="" coords="184,340,375,367"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga7ad6b0045ce091551265318462f80ae3" title="m0_be_domain_seg_is\l_valid" alt="" coords="202,391,357,433"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="idx_test_prepare" name="idx_test_prepare">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="208,5,283,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="213,56,277,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#ab6a754ded4f7666f30ea9d4c2ac574ca" title="idx_create_one" alt="" coords="190,107,301,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a4b7d475efcee116629d76e2fa5005739" title="get_max_nr_kv_pairs" alt="" coords="172,157,319,184"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#a3535af37a405984dd92163ccb0c5ab05" title="idx_insert_kv_pairs" alt="" coords="178,208,313,235"/>
+</map>

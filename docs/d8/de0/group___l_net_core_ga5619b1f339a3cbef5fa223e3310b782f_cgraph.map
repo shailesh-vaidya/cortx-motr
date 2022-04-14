@@ -1,0 +1,7 @@
+<map id="nlx_core_buf_active_recv" name="nlx_core_buf_active_recv">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="238,5,387,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="449,61,616,88"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gae9423a296b28599e7dfbd4abd9329386" title="nlx_kcore_buf_active_recv" alt="" coords="224,157,401,184"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#ga8adef7619fc7a8427b65343ebd94ef98" title="nlx_core_match_bits\l_decode" alt="" coords="461,117,604,158"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="499,191,566,217"/>
+</map>

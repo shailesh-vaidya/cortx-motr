@@ -1,0 +1,25 @@
+var structm0__fop__cob =
+[
+    [ "b_atime", "d8/d2b/structm0__fop__cob.html#a827f3cd15a76304503a451b2d762d03c", null ],
+    [ "b_blksize", "d8/d2b/structm0__fop__cob.html#a2c80d14d30bc2818c9067077b4b31687", null ],
+    [ "b_blocks", "d8/d2b/structm0__fop__cob.html#a864d49a31bd4b59f7abbbd12918462b3", null ],
+    [ "b_ctime", "d8/d2b/structm0__fop__cob.html#a61773706f0d942aa018522ef915ede27", null ],
+    [ "b_flags", "d8/d2b/structm0__fop__cob.html#a81226ab5b896d052df2322b6aec40188", null ],
+    [ "b_gid", "d8/d2b/structm0__fop__cob.html#ab7f7a0548db23ca1b2af9ec6b3f93ea2", null ],
+    [ "b_index", "d8/d2b/structm0__fop__cob.html#a326ba014366c4c0087cb6d79f013eff6", null ],
+    [ "b_lid", "d8/d2b/structm0__fop__cob.html#a40704a0b5d1ebc76e204f61a87239a36", null ],
+    [ "b_mode", "d8/d2b/structm0__fop__cob.html#a0f60e1d044d70e172036bc64f9d4f0d4", null ],
+    [ "b_mtime", "d8/d2b/structm0__fop__cob.html#ac6d296fdbb037c2506e134d75d468795", null ],
+    [ "b_nid", "d8/d2b/structm0__fop__cob.html#ae5d631c153d9fa17c16d0e2945815b89", null ],
+    [ "b_nlink", "d8/d2b/structm0__fop__cob.html#a220ca2965706db9f0953dbeac5ac3b13", null ],
+    [ "b_pfid", "d8/d2b/structm0__fop__cob.html#aa0883b7e3bf9c8c626dffb89a253f37d", null ],
+    [ "b_pver", "d8/d2b/structm0__fop__cob.html#a4eb40ca6cad30af66360c692c470ad87", null ],
+    [ "b_rc", "d8/d2b/structm0__fop__cob.html#abfef4ea2a34a0c3546d8f3421b4d2579", null ],
+    [ "b_rdev", "d8/d2b/structm0__fop__cob.html#a0b35e2fe0c54d3ae1e32ba2b7e2bf234", null ],
+    [ "b_sid", "d8/d2b/structm0__fop__cob.html#a9393395f2e1ea216c3f0e9e679cf6769", null ],
+    [ "b_size", "d8/d2b/structm0__fop__cob.html#a377119e0856ecf2523f529ef35e0044e", null ],
+    [ "b_tfid", "d8/d2b/structm0__fop__cob.html#a180c5a3651ae48df1ff9647f3dc8df31", null ],
+    [ "b_uid", "d8/d2b/structm0__fop__cob.html#a63b67497bb9310325e01edc3b6dd717e", null ],
+    [ "b_valid", "d8/d2b/structm0__fop__cob.html#aad3f675f0501eaf7fdab4d72da1dce28", null ],
+    [ "b_version", "d8/d2b/structm0__fop__cob.html#a0b14de913bda58b0b0f15af9d982d6e9", null ]
+];

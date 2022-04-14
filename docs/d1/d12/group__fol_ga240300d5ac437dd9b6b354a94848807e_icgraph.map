@@ -1,0 +1,9 @@
+<map id="m0_fol_rec_decode" name="m0_fol_rec_decode">
+<area shape="rect" id="node2" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a9c33e8cc5af12c9366a5bbf46e051e0f" title="classify_handle_fdmi\l_rec_not" alt="" coords="188,5,332,47"/>
+<area shape="rect" id="node3" href="$da/d6e/fol_2ut_2fol_8c.html#ad165b0ee61a8022d9cf716673289f6a6" title="test_fol_frag_encdec" alt="" coords="189,71,331,98"/>
+<area shape="rect" id="node4" href="$dd/dc6/group__fdmi__fol__src.html#ga0685854eb2ed22c90ec54094a4600b98" title="ffs_op_decode" alt="" coords="207,122,313,149"/>
+<area shape="rect" id="node5" href="$d0/d06/fdmi__sample__plugin_8c.html#aa8ecc3343910ab4b69e89abfa29d994f" title="process_fdmi_record" alt="" coords="189,173,331,199"/>
+<area shape="rect" id="node6" href="$d0/d0a/fdmi__echo_8c.html#a3d196ce447c5416818e5e2d0b6be1b44" title="handle_fdmi_rec_not" alt="" coords="189,223,331,250"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#a222a477580590b89d39bb783b7cae047" title="bulkio_server_write\l_fol_rec_verify" alt="" coords="193,275,327,316"/>
+<area shape="rect" id="node8" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="189,340,331,381"/>
+</map>

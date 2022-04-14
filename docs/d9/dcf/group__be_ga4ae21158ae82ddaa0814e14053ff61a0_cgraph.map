@@ -1,0 +1,5 @@
+<map id="kv_delete_credit" name="kv_delete_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac82b49bc31b383c6022c0c1ce93bb3b7" title="btree_mem_free_credit" alt="" coords="171,5,325,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="211,56,285,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="175,107,321,133"/>
+</map>

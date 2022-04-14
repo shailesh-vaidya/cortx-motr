@@ -1,0 +1,7 @@
+<map id="rms_stop" name="rms_stop">
+<area shape="rect" id="node2" href="$de/def/group__rm__service.html#ga7dbf572e9d84b36c3c75a64adea97b37" title="rms_resources_free" alt="" coords="156,5,293,32"/>
+<area shape="rect" id="node3" href="$de/d3f/group___file_lock.html#ga26571914d690db8a9b6291f249e4bbe8" title="m0_file_lock_type_deregister" alt="" coords="129,56,320,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="368,136,457,163"/>
+<area shape="rect" id="node5" href="$da/d7a/group___r_w_lock.html#gab3a52ab89ca96b74d3f1195643fb4daf" title="m0_rw_lockable_type\l_deregister" alt="" coords="151,158,299,199"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga729d7f344068a71202a9495c74377156" title="m0_rm_domain_fini" alt="" coords="157,224,292,251"/>
+</map>

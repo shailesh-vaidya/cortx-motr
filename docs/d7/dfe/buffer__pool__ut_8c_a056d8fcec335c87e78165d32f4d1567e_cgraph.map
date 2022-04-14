@@ -1,0 +1,7 @@
+<map id="test_get_put_colour" name="test_get_put_colour">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="189,5,356,32"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#gac6bdd9900fc54c802b1e16d44cb6b64f" title="m0_net_buffer_pool_get" alt="" coords="193,56,353,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="404,99,539,141"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#gacaa1314b4436697faf45f84463ba14f5" title="m0_net_buffer_pool_put" alt="" coords="193,157,353,184"/>
+<area shape="rect" id="node6" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="205,209,340,250"/>
+</map>

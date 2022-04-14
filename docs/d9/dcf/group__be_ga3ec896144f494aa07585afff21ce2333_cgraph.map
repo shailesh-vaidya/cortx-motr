@@ -1,0 +1,7 @@
+<map id="m0_be_log_record_reset" name="m0_be_log_record_reset">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="237,5,352,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="231,56,359,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga7b86c5ca9176a706bb523bd61998caf6" title="m0_be_fmt_log_record\l_header_reset" alt="" coords="217,107,372,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="235,173,354,200"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gabb6268658f9fb05adb2af410fa19d050" title="m0_be_log_io_reset" alt="" coords="225,224,364,251"/>
+</map>

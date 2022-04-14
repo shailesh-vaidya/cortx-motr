@@ -1,0 +1,17 @@
+<map id="prepare" name="prepare">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga651980494c7701490e01db1ee17b9179" title="trig2cm" alt="" coords="339,23,404,49"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="323,99,420,125"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga1429e07ce537ecfc7e395e4a2bfde2bd" title="trig2tfom" alt="" coords="153,99,226,125"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#gaecff87eb335d4342d32a4a36709cacc2" title="trigger_rep_set" alt="" coords="135,48,243,75"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gacbfe74a884f1912395ef2a9bde8ad927" title="m0_rpc_reply_post" alt="" coords="123,200,255,227"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="119,251,259,277"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="121,301,257,328"/>
+<area shape="rect" id="node9" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="323,465,419,492"/>
+<area shape="rect" id="node10" href="$d0/da4/group___c_m.html#ga7a59387e137f4660d52b23ac4f336d52" title="m0_cm_abort" alt="" coords="139,403,240,429"/>
+<area shape="rect" id="node11" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="308,403,435,429"/>
+<area shape="rect" id="node12" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="316,541,427,568"/>
+<area shape="rect" id="node13" href="$d0/da4/group___c_m.html#ga1d9db8b19253e94c9fb57de91bf7985b" title="m0_cm_wait" alt="" coords="141,555,237,581"/>
+<area shape="rect" id="node14" href="$d0/da4/group___c_m.html#ga1bebab1430ea12363d7e35640203d6c6" title="m0_cm_prepare" alt="" coords="132,504,247,531"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="338,643,405,669"/>
+<area shape="rect" id="node16" href="$d0/da4/group___c_m.html#ga279f25556b3bd4d9615eff5f3c71024c" title="m0_cm_wait_cancel" alt="" coords="119,707,260,733"/>
+</map>

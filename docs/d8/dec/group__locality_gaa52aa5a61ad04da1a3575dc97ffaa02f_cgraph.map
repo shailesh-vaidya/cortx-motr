@@ -1,0 +1,7 @@
+<map id="ldata_alloc" name="ldata_alloc">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="175,5,249,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__locality.html#ga3229e46f45422d70ac81f7561f702046" title="m0_locality_call" alt="" coords="155,56,269,83"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#ga128249f1df0f5261ff5a636820737714" title="ctor_cb" alt="" coords="179,107,245,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="174,157,250,184"/>
+<area shape="rect" id="node6" href="$d8/dec/group__locality.html#ga0c782151fae4054275a9fc80546eb4d7" title="m0_locality_data_free" alt="" coords="137,208,287,235"/>
+</map>

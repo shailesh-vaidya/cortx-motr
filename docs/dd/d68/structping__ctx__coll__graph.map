@@ -1,0 +1,12 @@
+<map id="ping_ctx" name="ping_ctx">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="93,145,175,223"/>
+<area shape="rect" id="node14" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="1093,305,1207,383"/>
+<area shape="rect" id="node3" href="$d5/da0/structm0__net__xprt.html" title="{m0_net_xprt\n||}" alt="" coords="203,145,297,223"/>
+<area shape="rect" id="node5" href="$da/d9f/structm0__list.html" title="{m0_list\n||}" alt="" coords="791,145,855,223"/>
+<area shape="rect" id="node6" href="$d9/d78/structm0__bitmap.html" title="{m0_bitmap\n||}" alt="" coords="353,649,440,727"/>
+<area shape="rect" id="node9" href="$d3/d3e/structping__ops.html" title="{ping_ops\n||}" alt="" coords="254,649,329,727"/>
+<area shape="rect" id="node12" href="$d9/d7e/structm0__net__buffer.html" title="{m0_net_buffer\n||}" alt="" coords="1222,649,1326,727"/>
+<area shape="rect" id="node15" href="$d4/d78/structm0__net__transfer__mc.html" title="{m0_net_transfer_mc\n||}" alt="" coords="1118,495,1259,572"/>
+<area shape="rect" id="node13" href="$d8/d8d/structm0__net__buffer__callbacks.html" title="{m0_net_buffer_callbacks\n||}" alt="" coords="843,305,1009,383"/>
+<area shape="rect" id="node16" href="$d4/d8e/structm0__cond.html" title="{m0_cond\n||}" alt="" coords="1647,649,1722,727"/>
+</map>

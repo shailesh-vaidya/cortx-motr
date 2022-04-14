@@ -1,0 +1,6 @@
+<map id="client_process_unused_bulk" name="client_process_unused_bulk">
+<area shape="rect" id="node2" href="$da/d64/group___net_test_ringbuf_internals.html#ga0007258049234ad1644bc87f35d4124c" title="m0_net_test_ringbuf_nr" alt="" coords="260,5,419,32"/>
+<area shape="rect" id="node3" href="$d4/da0/group___net_test_node_helper_internals.html#gade03198a40b217dd0eccc23316df1c7a" title="m0_net_test_nh_transfer_next" alt="" coords="240,56,439,83"/>
+<area shape="rect" id="node4" href="$da/d64/group___net_test_ringbuf_internals.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="255,107,423,133"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga28d2dea327b880fa410dc271e927d47d" title="client_transfer_start" alt="" coords="271,157,408,184"/>
+</map>

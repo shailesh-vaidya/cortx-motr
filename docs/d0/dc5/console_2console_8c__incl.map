@@ -1,0 +1,18 @@
+<map id="console/console.c" name="console/console.c">
+<area shape="rect" id="node3" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="113,80,191,107"/>
+<area shape="rect" id="node4" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="1518,229,1597,256"/>
+<area shape="rect" id="node5" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="381,80,477,107"/>
+<area shape="rect" id="node6" href="$dc/df9/getopts_8h.html" title="lib/getopts.h" alt="" coords="501,80,595,107"/>
+<area shape="rect" id="node7" href="$de/dc8/motr_2init_8h.html" title="motr/init.h" alt="" coords="619,80,699,107"/>
+<area shape="rect" id="node8" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="723,80,810,107"/>
+<area shape="rect" id="node9" href="$d9/d51/fop_2fop_8h.html" title="fop/fop.h" alt="" coords="987,155,1061,181"/>
+<area shape="rect" id="node10" href="$d8/dcf/fid_8h.html" title="fid/fid.h" alt="" coords="1755,155,1821,181"/>
+<area shape="rect" id="node11" href="$d1/dcb/fi__command__fops_8h.html" title="fis/fi_command_fops.h" alt="" coords="1061,80,1216,107"/>
+<area shape="rect" id="node12" href="$d5/d99/obj_8h.html" title="conf/obj.h" alt="" coords="1787,80,1866,107"/>
+<area shape="rect" id="node13" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1432,80,1560,107"/>
+<area shape="rect" id="node14" href="$dc/dde/console_2console_8h.html" title="console/console.h" alt="" coords="1585,80,1711,107"/>
+<area shape="rect" id="node15" href="$d2/dc8/console__mesg_8h.html" title="console/console_mesg.h" alt="" coords="1241,80,1407,107"/>
+<area shape="rect" id="node16" href="$d8/d32/console__it_8h.html" title="console/console_it.h" alt="" coords="216,80,357,107"/>
+<area shape="rect" id="node17" href="$df/d12/console__yaml_8h.html" title="console/console_yaml.h" alt="" coords="1891,80,2053,107"/>
+<area shape="rect" id="node18" href="$dc/dff/console__fop_8h.html" title="console/console_fop.h" alt="" coords="835,80,987,107"/>
+</map>

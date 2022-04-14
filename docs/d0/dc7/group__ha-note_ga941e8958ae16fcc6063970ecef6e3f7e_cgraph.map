@@ -1,0 +1,11 @@
+<map id="m0_ha_msg_accept" name="m0_ha_msg_accept">
+<area shape="rect" id="node2" href="$d0/dc7/group__ha-note.html#gaa1fae0405820e1c801950248dfb351d5" title="m0_ha_state_accept" alt="" coords="202,5,345,32"/>
+<area shape="rect" id="node3" href="$d0/dc7/group__ha-note.html#ga236140982ec3fd0a2a10a01dd7da6de5" title="m0_ha_note_handler\l_signal" alt="" coords="202,57,345,98"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="403,123,472,149"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="405,199,470,225"/>
+<area shape="rect" id="node6" href="$d0/dc7/group__ha-note.html#ga70a493c747aee469f7393f6b1565fb07" title="m0_ha_msg_nvec_send" alt="" coords="192,173,355,200"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="218,275,329,301"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="201,325,346,352"/>
+<area shape="rect" id="node9" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="194,376,353,403"/>
+<area shape="rect" id="node10" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="194,427,353,453"/>
+</map>

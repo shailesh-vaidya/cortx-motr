@@ -1,0 +1,8 @@
+<map id="dix_disk_failure_set" name="dix_disk_failure_set">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#afc2fbf32fd1bc9a5f4511f1bcdeafd74" title="dix_create_dgmode" alt="" coords="191,5,325,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a5f9d8a6e0717f4b29f481e2f754c052c" title="dix_delete_dgmode" alt="" coords="191,56,325,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a2e3856ce33b6f6825776b5fedd341e68" title="dix_put_dgmode" alt="" coords="199,107,317,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a6734cac47b9bac731278521779a92ebd" title="dix_get_dgmode" alt="" coords="199,157,317,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#ac619cf0b393d0f7b96b9c2ba70e7ca95" title="dix_next_dgmode" alt="" coords="196,208,320,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#af242a3f073a03347c301ae620459292d" title="dix_del_dgmode" alt="" coords="200,259,316,285"/>
+</map>

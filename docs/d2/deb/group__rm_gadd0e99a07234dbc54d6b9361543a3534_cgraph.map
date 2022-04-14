@@ -1,0 +1,10 @@
+<map id="owner_invariant" name="owner_invariant">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="190,5,293,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga781f8ea476bd0c53167526d232694084" title="m0_fid_tget" alt="" coords="196,56,287,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="364,233,489,260"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga376ab0131ef4a3e0819cfb215c01943a" title="owner_invariant_state" alt="" coords="167,107,316,133"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="393,132,460,159"/>
+<area shape="rect" id="node7" href="$d3/deb/rm__internal_8h.html#ab96366ce7f29ec961dfe9f7d9e377625" title="owner_state" alt="" coords="195,259,288,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga495701fcda45f813476fefdfdf492541" title="credit_eq" alt="" coords="204,309,279,336"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="364,335,489,361"/>
+</map>

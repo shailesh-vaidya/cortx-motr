@@ -1,0 +1,7 @@
+<map id="m0_poolmach_state" name="m0_poolmach_state">
+<area shape="rect" id="node2" href="$db/df2/structm0__pool__spare__usage.html" title="{m0_pool_spare_usage\n||+ M0_XCA_FENUM()\l}" alt="" coords="182,252,334,329"/>
+<area shape="rect" id="node6" href="$d9/d78/structm0__pooldev.html" title="{m0_pooldev\n||+ M0_XCA_FENUM()\l}" alt="" coords="564,359,714,436"/>
+<area shape="rect" id="node7" href="$d4/dff/structm0__poolnode.html" title="{m0_poolnode\n||+ M0_XCA_FENUM()\l}" alt="" coords="327,145,476,223"/>
+<area shape="rect" id="node4" href="$dd/d20/structm0__be__clink.html" title="{m0_be_clink\n||}" alt="" coords="606,5,701,83"/>
+<area shape="rect" id="node8" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="790,359,845,436"/>
+</map>

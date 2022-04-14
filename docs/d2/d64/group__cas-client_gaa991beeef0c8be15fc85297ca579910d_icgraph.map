@@ -1,0 +1,7 @@
+<map id="cas_rep_copy" name="cas_rep_copy">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga06cf6fe15c1371846aae9d3e7429dc27" title="m0_cas_index_create_rep" alt="" coords="157,5,331,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga9ca68f1c2088dbed61d3f15f03d26df8" title="m0_cas_index_delete_rep" alt="" coords="157,56,331,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga9e84334ac36f0fe802c82be5b8e5f912" title="m0_cas_index_lookup_rep" alt="" coords="156,107,332,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga3bc1b4fbcea5dee630ccde81c3ff3e4d" title="m0_cas_put_rep" alt="" coords="185,157,303,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga3cc84f01d317cb92dad332ce7964ec4a" title="m0_cas_del_rep" alt="" coords="185,208,303,235"/>
+</map>

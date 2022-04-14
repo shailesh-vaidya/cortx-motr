@@ -1,0 +1,7 @@
+<map id="cobfops_send_wait" name="cobfops_send_wait">
+<area shape="rect" id="node2" href="$d9/d05/group__bulkclient_d_f_s.html#gafbfe09d0bc74c1a2dbb2dba4ec16e339" title="m0_cobfop_common_get" alt="" coords="188,5,356,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="404,31,501,57"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="206,107,338,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="197,158,347,199"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="202,224,342,251"/>
+</map>

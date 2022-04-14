@@ -1,0 +1,10 @@
+<map id="m0_fdmi__pdock_record_reg_find" name="m0_fdmi__pdock_record_reg_find">
+<area shape="rect" id="node2" href="$d9/d6b/plugin__dock_8c.html#a332ed8d04940d73b4f11ba368194b4db" title="pdock_record_reg_cleanup" alt="" coords="217,5,395,32"/>
+<area shape="rect" id="node3" href="$d9/d6b/plugin__dock_8c.html#a238256b660888a46b802a09b7cd51195" title="release_fdmi_rec" alt="" coords="245,56,367,83"/>
+<area shape="rect" id="node4" href="$d7/d9f/plugin__dock__fom_8c.html#aedf3822609b2b6f547a28338d0eeb7f7" title="pdock_fom_tick__finish\l_with_rec" alt="" coords="227,107,385,149"/>
+<area shape="rect" id="node5" href="$d0/d06/fdmi__sample__plugin_8c.html#aa8ecc3343910ab4b69e89abfa29d994f" title="process_fdmi_record" alt="" coords="235,173,377,200"/>
+<area shape="rect" id="node6" href="$da/d74/pd__ut_8c.html#a306c763bd8cb091db4d35830218473ba" title="detour_create" alt="" coords="443,249,544,276"/>
+<area shape="rect" id="node7" href="$da/d74/pd__ut_8c.html#aad9e3e1a3c252dae65cd9d36795620b6" title="ut_pd_fom_fini" alt="" coords="253,275,359,301"/>
+<area shape="rect" id="node8" href="$da/d74/pd__ut_8c.html#a9069531ef52e3257c35064c6f4ae6be5" title="pd_ut_pcb_fdmi_rec" alt="" coords="237,325,375,352"/>
+<area shape="rect" id="node9" href="$da/d74/pd__ut_8c.html#afb7bc2bca6275bb3bc4a579e2dbfaeb5" title="fdmi_pd_fake_release\l_nomem" alt="" coords="231,377,381,418"/>
+</map>

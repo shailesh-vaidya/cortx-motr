@@ -1,0 +1,8 @@
+<map id="balloc_bn2gn" name="balloc_bn2gn">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a0a32d8780ca052e78817affb46089d65" title="balloc_check_limits" alt="" coords="159,5,295,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#aba68616f57533d86db006db464fc8976" title="balloc_wild_scan_group" alt="" coords="349,44,509,71"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#ae69edc18179ec56bcd41be9e08d0c278" title="balloc_try_best_found" alt="" coords="152,107,301,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a373e3eda233bab1e419d0a8262adafbd" title="balloc_regular_allocator" alt="" coords="350,120,509,147"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#acbe3d3fc78005ecd3199f8ae3367f77b" title="balloc_free_internal" alt="" coords="159,208,294,235"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a22b21a5dde2256a1e49949817f05e010" title="balloc_reserve_extent" alt="" coords="152,259,301,285"/>
+</map>

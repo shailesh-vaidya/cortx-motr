@@ -1,0 +1,5 @@
+<map id="m0_be_log_destroy" name="m0_be_log_destroy">
+<area shape="rect" id="node2" href="$d2/df0/be_2ut_2log_8c.html#a827793c3c6adc3eda08d429d0797974a" title="be_ut_log_fini" alt="" coords="216,5,319,32"/>
+<area shape="rect" id="node3" href="$d2/d39/ut_2recovery_8c.html#aba579c513c6021749c0ff09fa48bcdcd" title="be_ut_recovery_log_fini" alt="" coords="188,56,347,83"/>
+<area shape="rect" id="node4" href="$d9/d30/ut_2tx__group__format_8c.html#a18209b9d269744b252cb09b63f8563d6" title="be_ut_tgf_log_fini" alt="" coords="205,107,329,133"/>
+</map>

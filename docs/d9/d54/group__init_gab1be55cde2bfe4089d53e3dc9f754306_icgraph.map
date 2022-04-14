@@ -1,0 +1,7 @@
+<map id="fini_nr" name="fini_nr">
+<area shape="rect" id="node2" href="$d9/d54/group__init.html#gad763c4a52a40ced8b15bfaa74776a9b6" title="init_nr" alt="" coords="153,5,211,32"/>
+<area shape="rect" id="node3" href="$d9/d54/group__init.html#ga2c6abb9a7d923527cbc1ca6c5c128fc2" title="m0_init_once" alt="" coords="301,31,400,57"/>
+<area shape="rect" id="node4" href="$d9/d54/group__init.html#ga8b6351e79a3cdc370750f5d18d74367d" title="m0_fini_once" alt="" coords="133,107,231,133"/>
+<area shape="rect" id="node5" href="$d9/d54/group__init.html#ga369b4cb288faa0f9655386cf194f147c" title="m0_subsystems_fini" alt="" coords="111,157,253,184"/>
+<area shape="rect" id="node6" href="$d9/d54/group__init.html#gad90f4fb0f6e89b856103dab635c369a0" title="m0_quiesce_fini" alt="" coords="124,208,240,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_be_btree_insert_credit2" name="m0_be_btree_insert_credit2">
+<area shape="rect" id="node2" href="$dd/d2d/ut_2btree_8c.html#a315bd2f9527bd50b71b101bf18581f68" title="btree_insert" alt="" coords="228,5,319,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#ac161a535d1804a24ce3dfa87a8132ae6" title="btree_insert_inplace" alt="" coords="204,56,343,83"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#ac5450e4f4716ea1c5111705f547f3062" title="ctg_meta_insert_credit" alt="" coords="196,107,351,133"/>
+<area shape="rect" id="node5" href="$d9/d21/group__cas-ctg-store.html#gaddcc6b97bb302b6f35c80ef650854ba8" title="m0_ctg_mark_deleted\l_credit" alt="" coords="198,158,349,199"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#ga67c7fbe56cb7b01c8106b49dd2bd896c" title="m0_ctg_create_credit" alt="" coords="200,224,347,251"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga132b7fb1516810e3798128bdcba458ee" title="m0_ctg_insert_credit" alt="" coords="202,275,345,301"/>
+<area shape="rect" id="node8" href="$d9/d21/group__cas-ctg-store.html#ga257160aca6ae8c36ab3b7328c659c615" title="m0_ctg_delete_credit" alt="" coords="200,325,347,352"/>
+<area shape="rect" id="node9" href="$d8/d50/ctg__store_8c.html#a7bd884dc37d6ddeba071dce990cd033d" title="ctg_ctidx_op_credits" alt="" coords="202,376,345,403"/>
+<area shape="rect" id="node10" href="$da/d4e/db_8h.html#a53404cf59ef228efce91803a00ebdaf2" title="m0_confdb_create_credit" alt="" coords="189,427,357,453"/>
+</map>

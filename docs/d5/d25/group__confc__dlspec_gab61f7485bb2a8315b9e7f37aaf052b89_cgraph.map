@@ -1,0 +1,7 @@
+<map id="sm_waiter_wait" name="sm_waiter_wait">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gae18deed24e2726bc5ff520866dd6a4da" title="m0_confc_ctx_is_completed_lock" alt="" coords="383,33,601,60"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="197,33,304,60"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gafd9592ac69d78f895bb981936a4172c0" title="m0_confc_ctx_error_lock" alt="" coords="167,84,335,110"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga174008a1ed4337cf57da2f53faa7bfd3" title="m0_confc_ctx_result" alt="" coords="179,134,322,161"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="217,185,284,212"/>
+</map>

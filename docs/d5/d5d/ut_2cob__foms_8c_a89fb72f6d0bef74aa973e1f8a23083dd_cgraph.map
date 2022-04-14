@@ -1,0 +1,5 @@
+<map id="cobfoms_utfini" name="cobfoms_utfini">
+<area shape="rect" id="node2" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="163,5,297,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="160,56,300,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="161,107,299,133"/>
+</map>

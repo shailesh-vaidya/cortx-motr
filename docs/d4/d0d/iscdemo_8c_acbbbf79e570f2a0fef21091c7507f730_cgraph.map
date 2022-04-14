@@ -1,0 +1,7 @@
+<map id="minmax_input_prepare" name="minmax_input_prepare">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#gad88f18db2b614820d84705334b44bc5b" title="m0_indexvec_mem2wire" alt="" coords="212,5,379,32"/>
+<area shape="rect" id="node3" href="$dd/d6d/group__xcode.html#ga5a25acd32d709d7f330cecebb563217e" title="m0_xcode_obj_enc_to_buf" alt="" coords="207,56,384,83"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga8d9b51483063b4977ac773507e6bff1f" title="m0_buf_copy_aligned" alt="" coords="221,107,369,133"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="248,157,343,184"/>
+<area shape="rect" id="node6" href="$d1/d20/iscservice_2demo_2common_8c.html#a1798cd0fea97b52f4518beccfc9c91ce" title="isc_fid_get" alt="" coords="253,208,338,235"/>
+</map>

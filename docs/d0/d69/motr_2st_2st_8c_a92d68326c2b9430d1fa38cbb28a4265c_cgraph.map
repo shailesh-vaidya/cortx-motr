@@ -1,0 +1,12 @@
+<map id="run_suite" name="run_suite">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="367,5,415,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga4d9ae9cb25cc9eb87bc8fed57dfc06ef" title="duration" alt="" coords="357,59,425,85"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#gad3440ef3a8df12d92f3cb0ac93df2d55" title="st_get_test_mode" alt="" coords="139,356,266,383"/>
+<area shape="rect" id="node5" href="$d0/d69/motr_2st_2st_8c.html#ae04daa003e2d3ff6a0bfe07abe867b34" title="shuffle_tests" alt="" coords="155,407,251,433"/>
+<area shape="rect" id="node6" href="$d8/d84/st__misc_8c.html#a47df046791fa999ff0b4c7bd98345708" title="console_printf" alt="" coords="339,116,442,143"/>
+<area shape="rect" id="node7" href="$d8/d84/st__misc_8c.html#a22e2c9fb8d43dacb991ed09186338320" title="time_now" alt="" coords="351,179,430,205"/>
+<area shape="rect" id="node8" href="$d0/d69/motr_2st_2st_8c.html#a094567ad23386fd6f9208ad3765b6898" title="run_test" alt="" coords="168,153,237,180"/>
+<area shape="rect" id="node9" href="$d8/d84/st__misc_8c.html#ab8d5ee899445a3508722f4af253a803a" title="time_seconds" alt="" coords="339,229,442,256"/>
+<area shape="rect" id="node10" href="$d8/d84/st__misc_8c.html#a1cebdc11eec81c894578ed8dcfaab1c1" title="time_nanoseconds" alt="" coords="325,280,456,307"/>
+<area shape="rect" id="node11" href="$d3/de4/st__assert_8c.html#aaf92e1434a8d6e8bf6f8bd0c70ccb7ad" title="st_cleaner_empty_bin" alt="" coords="128,457,277,484"/>
+</map>

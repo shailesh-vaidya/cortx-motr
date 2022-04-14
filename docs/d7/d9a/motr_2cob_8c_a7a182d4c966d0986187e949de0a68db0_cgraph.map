@@ -1,0 +1,6 @@
+<map id="cob_entity_sm_move" name="cob_entity_sm_move">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="207,5,342,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="223,56,327,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="200,107,349,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="230,157,319,184"/>
+</map>

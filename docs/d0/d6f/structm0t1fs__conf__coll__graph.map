@@ -1,0 +1,9 @@
+<map id="m0t1fs_conf" name="m0t1fs_conf">
+<area shape="rect" id="node7" href="$d9/d1b/structm0t1fs__client.html" title="{m0t1fs_client\n||}" alt="" coords="379,781,479,859"/>
+<area shape="rect" id="node5" href="$dc/ddb/structm0__layout__domain.html" title="{m0_layout_domain\n||}" alt="" coords="514,289,645,366"/>
+<area shape="rect" id="node8" href="$d6/deb/structm0__pool.html" title="{m0_pool\n||}" alt="" coords="661,145,732,223"/>
+<area shape="rect" id="node9" href="$dd/d2c/structm0__pool__version.html" title="{m0_pool_version\n||}" alt="" coords="743,459,863,537"/>
+<area shape="rect" id="node10" href="$d3/d0d/structm0__pdclust__layout.html" title="{m0_pdclust_layout\n||}" alt="" coords="887,459,1018,537"/>
+<area shape="rect" id="node3" href="$da/dbd/structnet__conf.html" title="{net_conf\n|+ nc_rpc_size\l+ nc_frag_delay_max\l|}" alt="" coords="70,452,217,544"/>
+<area shape="rect" id="node11" href="$da/dd9/structnet__srv.html" title="{net_srv\n||}" alt="" coords="241,459,307,537"/>
+</map>

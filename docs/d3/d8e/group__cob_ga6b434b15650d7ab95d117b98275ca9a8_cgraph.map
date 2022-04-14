@@ -1,0 +1,11 @@
+<map id="cob_table_tx_credit" name="cob_table_tx_credit">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga8294e416ea53eca162a9a2955b65f48f" title="m0_cob_max_fabrec_size" alt="" coords="188,5,363,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gadf506ebaed629acf8641d483089238d1" title="m0_cob_max_eakey_size" alt="" coords="189,56,362,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga81ec7ae13fac191f8205a08aaa186d98" title="m0_cob_max_earec_size" alt="" coords="190,107,361,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga4901679d4e176104757b2addeecf181b" title="m0_cob_max_nskey_size" alt="" coords="189,157,362,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gae0ded348b1d93235c08f6676958c3142" title="m0_cob_bckey_size" alt="" coords="205,208,346,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga8e2da095dce1934935e201c5267a0d5d" title="m0_cob_bcrec_size" alt="" coords="206,259,345,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga6c2b0ebe7aee33b0c7b6680bf54d4dc7" title="m0_be_btree_delete\l_credit" alt="" coords="206,310,345,351"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gac443c248566338fb4035b5c848715934" title="m0_be_btree_update\l_credit" alt="" coords="204,375,347,417"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga9590cae78c1e53bf91761c7981cd204c" title="m0_be_btree_insert\l_credit" alt="" coords="207,441,343,482"/>
+</map>

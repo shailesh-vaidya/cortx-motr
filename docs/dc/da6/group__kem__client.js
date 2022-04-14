@@ -1,0 +1,35 @@
+var group__kem__client =
+[
+    [ "kemc_ctx", "d4/df7/structkemc__ctx.html", [
+      [ "kc_dev_num", "d4/df7/structkemc__ctx.html#a8e56f894ab5b06ec9e511472147cea11", null ],
+      [ "kc_done", "d4/df7/structkemc__ctx.html#a97d6f7c6ecfa376374c9de35fd7336c8", null ],
+      [ "kc_instance", "d4/df7/structkemc__ctx.html#a20ccdc8e6ac8f9a17788e7aadc57f061", null ],
+      [ "kc_kemd_fd", "d4/df7/structkemc__ctx.html#a863efc30b2401f6a6c922895375c2ad8", null ],
+      [ "kc_kemd_filename", "d4/df7/structkemc__ctx.html#a4c6d39b45bd45e7da68c54b9e011ff4d", null ],
+      [ "kc_stob_loc", "d4/df7/structkemc__ctx.html#a205aca120077b815362327f8b2554227", null ],
+      [ "kc_use_addb2", "d4/df7/structkemc__ctx.html#a96d45bb4ad943fa3f154294526e41f78", null ],
+      [ "kc_use_stdout", "d4/df7/structkemc__ctx.html#a87b02c9add511cdf927bf23ec3f5f5ea", null ],
+      [ "FILENAME_SIZE", "dc/da6/group__kem__client.html#ggad8101dee6fa22c7112aba8726ea404f9a68f98aaa9fc72b15c07b946a78e1808f", null ],
+      [ "KEMD_FILENAME_SIZE", "dc/da6/group__kem__client.html#ggad8101dee6fa22c7112aba8726ea404f9a45b5ff87d5a183091aafd6ba756bd3ff", null ],
+      [ "ADDB2_STOB_NAME_SIZE", "dc/da6/group__kem__client.html#ggad8101dee6fa22c7112aba8726ea404f9ab5bb35d945e73b0abaf2c69502e4e195", null ],
+      [ "ADDB2_STOB_SIZE", "dc/da6/group__kem__client.html#ggad8101dee6fa22c7112aba8726ea404f9a555ffa7f18555bb48e0b9b386c0e0a99", null ]
+    ] ],
+    [ "ke_cs_print", "dc/da6/group__kem__client.html#gad3fb50e852bd9d8d9d5a66c561e90ea2", null ],
+    [ "ke_pf_print", "dc/da6/group__kem__client.html#ga9eec163df9a29994741a441760cd249f", null ],
+    [ "kem_addb2_fini", "dc/da6/group__kem__client.html#ga6bb081738d26e5c35420e21d9a766812", null ],
+    [ "kem_addb2_init", "dc/da6/group__kem__client.html#ga70c4ff1308b7020c4a8a75ff6c8c5201", null ],
+    [ "kem_addb2_log", "dc/da6/group__kem__client.html#gabaaeaea94fdfbd915e69f2d948c21f7a", null ],
+    [ "kem_fini", "dc/da6/group__kem__client.html#gaa4ccd6867d6d7844477bce8a29b144eb", null ],
+    [ "kem_init", "dc/da6/group__kem__client.html#gad898f380d6ef687d56f9b15147910afe", null ],
+    [ "kem_int_get", "dc/da6/group__kem__client.html#ga43ec79e2a7f19f6f8b557ca4c0a8407b", null ],
+    [ "kem_int_set", "dc/da6/group__kem__client.html#ga3919c14638dfefd2254258ab417be5a9", null ],
+    [ "kem_log", "dc/da6/group__kem__client.html#ga645d62db27f350100350cb53c6ebd085", null ],
+    [ "kem_print", "dc/da6/group__kem__client.html#ga40b4900a5e742a89de7bf037b279e687", null ],
+    [ "kem_read", "dc/da6/group__kem__client.html#ga941f57a8f7c331be8664d892610427ce", null ],
+    [ "kem_sigint", "dc/da6/group__kem__client.html#ga0272bd5b9b578aedd88df5b12e9ba3eb", null ],
+    [ "main", "dc/da6/group__kem__client.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "usage", "dc/da6/group__kem__client.html#gad96d407a911fbb914fa8e4cfbf2faf0f", null ],
+    [ "kemc_ctx", "dc/da6/group__kem__client.html#ga5c0edf443a869fbabedf5405d3f5d35e", null ],
+    [ "kemd_dev_path", "dc/da6/group__kem__client.html#ga9755bb9b3e54e22fdb5bf5dfef83b226", null ],
+    [ "stob_location", "dc/da6/group__kem__client.html#ga2afaaa72abc25fe75cdd94c958dafb13", null ]
+];

@@ -1,0 +1,10 @@
+<map id="timer_soft_initfini" name="timer_soft_initfini">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="229,5,267,32"/>
+<area shape="rect" id="node3" href="$d1/dc0/group__crate__utils.html#ga7ba4301f569cef87364477120b264bda" title="fini" alt="" coords="229,56,267,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="181,107,315,133"/>
+<area shape="rect" id="node5" href="$d7/d2c/group__timer.html#gaa7cfaf9e7454f7c6f2ca9a3457680bb9" title="timer_working_thread" alt="" coords="175,157,321,184"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="193,208,303,235"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="195,259,301,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="369,284,504,311"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="215,360,281,387"/>
+</map>

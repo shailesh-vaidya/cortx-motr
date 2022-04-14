@@ -1,0 +1,18 @@
+<map id="m0_be_free_aligned" name="m0_be_free_aligned">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7dd778e9ea7db52ededdd419e33d1d01" title="ptr" alt="" coords="485,121,523,148"/>
+<area shape="rect" id="node3" href="$d9/d39/alloc_8c.html#aadab446da1714c643ff6e119ccf5e8c6" title="be_alloc_mem_is_in" alt="" coords="212,45,352,72"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="220,96,344,122"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="225,146,339,173"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga7be29d8cb0adf66ad488e7438830c55d" title="m0_be_allocator__invariant" alt="" coords="192,517,372,544"/>
+<area shape="rect" id="node7" href="$d9/d39/alloc_8c.html#a03823b3ea00c72a1917ef28f56f78d9a" title="be_alloc_chunk_invariant" alt="" coords="420,492,588,518"/>
+<area shape="rect" id="node8" href="$d9/d39/alloc_8c.html#ab6382a7a4dfe433ed5bd36b74eb50e68" title="be_alloc_chunk_addr" alt="" coords="210,197,354,224"/>
+<area shape="rect" id="node9" href="$d9/d39/alloc_8c.html#a063f54bcdeeed784264c2252c83ebde3" title="be_alloc_chunk_mark_free" alt="" coords="193,786,371,813"/>
+<area shape="rect" id="node10" href="$d9/d39/alloc_8c.html#aef014b5df89dbc506657b64d4db21d08" title="be_allocator_stats\l_update" alt="" coords="218,400,346,442"/>
+<area shape="rect" id="node11" href="$d9/d39/alloc_8c.html#a4a96358283dfd7e5cc4d8b7cec8208c1" title="be_alloc_chunk_prev" alt="" coords="210,298,354,325"/>
+<area shape="rect" id="node12" href="$d9/d39/alloc_8c.html#a1a8a0f62cc3fbae19aafc777ea152135" title="be_alloc_chunk_next" alt="" coords="210,349,354,376"/>
+<area shape="rect" id="node13" href="$d9/d39/alloc_8c.html#ade70d422b0a6b20c88ecb4984bb089da" title="be_alloc_chunk_trymerge" alt="" coords="197,466,367,493"/>
+<area shape="rect" id="node14" href="$d9/d39/alloc_8c.html#ad29b123573e1828e3918bed56be2673f" title="be_allocator_stats\l_capture" alt="" coords="218,619,346,660"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="218,685,346,712"/>
+<area shape="rect" id="node16" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="223,736,341,762"/>
+<area shape="rect" id="node17" href="$d9/dcf/group__be.html#ga0de39989a0dc81761d4b0030cf92675f" title="m0_be_free" alt="" coords="237,248,327,274"/>
+</map>

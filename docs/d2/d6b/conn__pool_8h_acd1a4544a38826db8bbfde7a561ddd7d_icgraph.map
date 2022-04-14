@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_pool_fini" name="m0_rpc_conn_pool_fini">
+<area shape="rect" id="node2" href="$d0/d50/group__fdmi__pd__int.html#ga3af628a67d4944b8cdebc75e6bd8e763" title="m0_fdmi__plugin_dock_stop" alt="" coords="208,5,395,32"/>
+<area shape="rect" id="node3" href="$d6/dc3/group__fdmi__sd__int.html#ga3c212c7128d6d40e45207375eb74b4a1" title="m0_fdmi__src_dock_fom\l_start" alt="" coords="217,57,385,98"/>
+<area shape="rect" id="node4" href="$d0/d55/source__dock__fom_8c.html#ae4b0b4ee941d9e89f7a9f50838e4076b" title="fdmi_sd_fom_fini" alt="" coords="241,123,362,149"/>
+<area shape="rect" id="node5" href="$dd/d2c/ut_2conn__pool_8c.html#a9b98f527833c9edd0cf95ef57b09ab03" title="rpc_conn_pool" alt="" coords="248,173,355,200"/>
+<area shape="rect" id="node6" href="$dd/d2c/ut_2conn__pool_8c.html#aa6f2892dcab0eab2bcaadc35afb9d39a" title="rpc_conn_pool_async" alt="" coords="227,224,375,251"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_rpc_session_hold_busy" name="m0_rpc_session_hold_busy">
+<area shape="rect" id="node2" href="$d7/d60/sd__release__fom_8c.html#a31552781e6ddae6bef2e760b438d99e9" title="imitate_release_fop_recv" alt="" coords="261,5,427,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga2eec8bfdd3209bc9f17066862aaca08a" title="m0_rpc_item_xid_check" alt="" coords="263,56,425,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaeca6f24b585e93f06b7d1dcd058daf5c" title="m0_rpc_item_received" alt="" coords="500,81,653,108"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="278,157,410,184"/>
+<area shape="rect" id="node6" href="$da/d7a/ut_2session_8c.html#ac8b22606317669a00602a6d50f103775" title="session_hold_release" alt="" coords="271,208,417,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga865c0f963ef87ff81ac7a08a7c91c0b0" title="m0_rpc_fom_conn_establish_tick" alt="" coords="236,259,452,285"/>
+</map>

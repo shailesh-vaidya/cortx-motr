@@ -1,0 +1,10 @@
+<map id="cob_verify" name="cob_verify">
+<area shape="rect" id="node2" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="155,5,283,32"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="136,56,303,83"/>
+<area shape="rect" id="node4" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#gafdcb68754e497e2781eee6d13097a70c" title="m0_ios_cdom_get" alt="" coords="155,107,283,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga1499e1e71e1c59d130775ea0e91585fe" title="m0_fom_reqh" alt="" coords="169,157,270,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="145,208,294,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga04c0791be14a28f022d884890eb3c5c0" title="m0_cob_lookup" alt="" coords="163,259,276,285"/>
+<area shape="rect" id="node8" href="$da/db4/group__ut.html#gaeb7e5470ed8b0ed850be86c2e3b58785" title="exists" alt="" coords="191,309,248,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="185,360,254,387"/>
+</map>

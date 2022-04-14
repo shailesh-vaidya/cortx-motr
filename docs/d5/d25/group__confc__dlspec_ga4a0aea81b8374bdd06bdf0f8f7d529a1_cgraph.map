@@ -1,0 +1,9 @@
+<map id="cache_grow" name="cache_grow">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gac56de2939c373a3941abd620b417b699" title="confc_group_is_locked" alt="" coords="145,5,300,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga7131632d1b1b034ee18108f26678a3a0" title="confc_lock" alt="" coords="180,56,265,83"/>
+<area shape="rect" id="node4" href="$dd/df9/group__conf__dfspec__obj.html#ga3bd15da27e515c8627be1be2a5b0002f" title="m0_conf_fid_is_valid" alt="" coords="151,107,295,133"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="348,183,472,209"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga9daacd25ffacca36d64df2d24967c390" title="cached_obj_update" alt="" coords="155,208,290,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="377,233,443,260"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gace27ac8ff8cd441cad9cea2ae2813a2e" title="confc_unlock" alt="" coords="173,309,272,336"/>
+</map>

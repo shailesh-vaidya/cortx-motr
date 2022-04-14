@@ -1,0 +1,12 @@
+<map id="ham_say" name="ham_say">
+<area shape="rect" id="node2" href="$de/d4a/group__m0ham.html#gab46836ff9e34059f80a3bbf1e2d00636" title="ham_send" alt="" coords="177,50,259,77"/>
+<area shape="rect" id="node3" href="$de/d4a/group__m0ham.html#gabeec5519f4035ef1dd0bc13fe69f0717" title="ham_link_connected" alt="" coords="356,25,497,51"/>
+<area shape="rect" id="node4" href="$de/d4a/group__m0ham.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="401,75,452,102"/>
+<area shape="rect" id="node5" href="$de/d4a/group__m0ham.html#gac35668fc1bdc59e0018f102637732796" title="ham_entrypoint_request" alt="" coords="137,151,299,178"/>
+<area shape="rect" id="node6" href="$de/d4a/group__m0ham.html#gadec30c47df1dea93bf8d83223b715557" title="ham_entrypoint_replied" alt="" coords="140,202,296,229"/>
+<area shape="rect" id="node7" href="$de/d4a/group__m0ham.html#ga022ff1b7d55b2af51477f8685584c754" title="ham_msg_received" alt="" coords="151,253,285,279"/>
+<area shape="rect" id="node8" href="$de/d4a/group__m0ham.html#ga9a039def806930c8639db12c576e4eb0" title="ham_msg_is_delivered" alt="" coords="141,303,295,330"/>
+<area shape="rect" id="node9" href="$de/d4a/group__m0ham.html#ga7de1f11a9e05b61407994d002cd38b10" title="ham_msg_is_not_delivered" alt="" coords="128,354,308,381"/>
+<area shape="rect" id="node10" href="$de/d4a/group__m0ham.html#gad2168c0c769a493993cc3f157b7be3fe" title="ham_link_disconnected" alt="" coords="139,405,297,431"/>
+<area shape="rect" id="node11" href="$de/d4a/group__m0ham.html#ga03004a61245341a68c3b819b84a3c7ca" title="ham_sighandler" alt="" coords="161,455,275,482"/>
+</map>

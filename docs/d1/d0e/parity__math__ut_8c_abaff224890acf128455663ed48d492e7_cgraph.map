@@ -1,0 +1,8 @@
+<map id="sns_ir_nodes_init" name="sns_ir_nodes_init">
+<area shape="rect" id="node2" href="$d8/d6c/group__incremental__recovery.html#ga7467f90a1b55428b9fbe6baa84769be2" title="m0_sns_ir_init" alt="" coords="207,5,313,32"/>
+<area shape="rect" id="node3" href="$d1/d0e/parity__math__ut_8c.html#a248dfba80abc8497b98f0407460cae2d" title="bufvec_initialize" alt="" coords="203,56,317,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="205,107,315,133"/>
+<area shape="rect" id="node5" href="$d1/d0e/parity__math__ut_8c.html#a5ae98c5ccff764052b656b6bf84df617" title="failure_register" alt="" coords="207,157,313,184"/>
+<area shape="rect" id="node6" href="$d1/d0e/parity__math__ut_8c.html#a75b03d2147f3f2c84e996adde27803e7" title="alive_arrays_fill" alt="" coords="204,208,316,235"/>
+<area shape="rect" id="node7" href="$d8/d6c/group__incremental__recovery.html#gac2aa8fad6d9b110d486f2f5748626c49" title="m0_sns_ir_mat_compute" alt="" coords="176,259,344,285"/>
+</map>

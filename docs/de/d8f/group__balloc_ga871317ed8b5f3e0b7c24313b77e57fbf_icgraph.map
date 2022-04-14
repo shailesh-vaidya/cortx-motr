@@ -1,0 +1,11 @@
+<map id="b2m0" name="b2m0">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a23789b7e1f0577aee04758b2c03150f3" title="balloc_alloc_credit" alt="" coords="135,5,264,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a3e25d2b0329c3d3a68e2fc78a48f88f8" title="balloc_free_credit" alt="" coords="137,56,261,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a22b21a5dde2256a1e49949817f05e010" title="balloc_reserve_extent" alt="" coords="125,107,274,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a2b74b082b4fb17783b443da700e4a083" title="balloc_alloc" alt="" coords="154,157,245,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a099514bb395a193078b157e0c90adf34" title="balloc_free" alt="" coords="157,208,242,235"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a97b576f4b22103242a60beefec8e43bd" title="balloc_init" alt="" coords="159,259,239,285"/>
+<area shape="rect" id="node8" href="$d9/dd5/balloc_8c.html#aba7a4118021de1d0773163bc943c1fa8" title="balloc_fini" alt="" coords="159,309,239,336"/>
+<area shape="rect" id="node9" href="$d6/d2c/group__stobad.html#gaa2d5e17d6094f56a35aed1d47d8ff1df" title="m0_stob_ad_domain2balloc" alt="" coords="108,360,291,387"/>
+<area shape="rect" id="node10" href="$d6/d2c/group__stobad.html#ga6c3228083241b42a25d87283fac8c15a" title="stob_ad_domain_init" alt="" coords="129,411,270,437"/>
+</map>

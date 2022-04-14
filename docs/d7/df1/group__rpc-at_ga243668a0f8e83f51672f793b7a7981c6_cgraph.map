@@ -1,0 +1,10 @@
+<map id="rpc_at_bulk_crecv" name="rpc_at_bulk_crecv">
+<area shape="rect" id="node2" href="$d7/df1/group__rpc-at.html#ga77c56ae70f4a990ae2c2109da03831f7" title="rpc_at_bulk" alt="" coords="405,40,495,66"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#gae6bfd4179debe14f7ffd584d84039c33" title="rpc_at_bulk_ndom" alt="" coords="569,40,697,66"/>
+<area shape="rect" id="node4" href="$d7/df1/group__rpc-at.html#ga199731a99b2b726a02eeb62bac79af95" title="rpc_at_bulk_segs_nr" alt="" coords="379,90,521,117"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#ga3800920f3fc4584d8bdb4804ddf26d7a" title="rpc_at_bulk_nb_alloc" alt="" coords="184,90,328,117"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="417,192,483,218"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga80dbbf97a2d991b53512b86657beea20" title="m0_rpc_bulk_buf_add" alt="" coords="181,242,331,269"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga197d4470b2ca99bca9e2d9b884750126" title="m0_rpc_bulk_store" alt="" coords="190,293,322,320"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga8d23794d6c38cb94c3c7ee91031826ef" title="m0_rpc_bulk_buflist\l_empty" alt="" coords="187,344,325,386"/>
+</map>

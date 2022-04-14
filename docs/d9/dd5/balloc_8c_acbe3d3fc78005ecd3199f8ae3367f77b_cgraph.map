@@ -1,0 +1,18 @@
+<map id="balloc_free_internal" name="balloc_free_internal">
+<area shape="rect" id="node2" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="243,5,298,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="247,107,295,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="445,81,521,108"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a6b641cd81d0f60b45ec40e7cb9e19176" title="balloc_bn2gn" alt="" coords="221,157,320,184"/>
+<area shape="rect" id="node6" href="$de/d8f/group__balloc.html#ga7ccc4a615eacef1651e21945c952a8c4" title="m0_balloc_gn2info" alt="" coords="205,208,336,235"/>
+<area shape="rect" id="node7" href="$de/d8f/group__balloc.html#ga45888c5ea0d950523736a8538b9d1cf2" title="m0_balloc_lock_group" alt="" coords="195,259,346,285"/>
+<area shape="rect" id="node8" href="$de/d8f/group__balloc.html#gad0279415b5fbb272b244e9438df7e256" title="m0_balloc_load_extents" alt="" coords="189,411,352,437"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="449,360,516,387"/>
+<area shape="rect" id="node10" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="438,503,527,529"/>
+<area shape="rect" id="node11" href="$de/d8f/group__balloc.html#ga4eb6adc6482301f4c59a7eae692c8555" title="m0_balloc_unlock_group" alt="" coords="188,563,353,589"/>
+<area shape="rect" id="node12" href="$de/d8f/group__balloc.html#ga26fe2fff9a8f8bd03104d0eed5d93777" title="m0_balloc_debug_dump\l_group_extent" alt="" coords="401,419,564,461"/>
+<area shape="rect" id="node13" href="$d9/dd5/balloc_8c.html#a7c4412fb27f4bbb03bae4e57cd0cec7c" title="ext_range_locate" alt="" coords="210,613,331,640"/>
+<area shape="rect" id="node14" href="$d9/dd5/balloc_8c.html#a2c562eb3163c3e8a7b310f736db7d3dc" title="is_any" alt="" coords="241,664,301,691"/>
+<area shape="rect" id="node15" href="$d9/dd5/balloc_8c.html#ac668388d836c6992afda9a3b39291360" title="balloc_free_db_update" alt="" coords="195,360,347,387"/>
+<area shape="rect" id="node16" href="$d9/dd5/balloc_8c.html#a17611091771bfadd4d95c13c46094b65" title="zone_start_get" alt="" coords="217,715,325,741"/>
+<area shape="rect" id="node17" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="226,765,315,792"/>
+</map>

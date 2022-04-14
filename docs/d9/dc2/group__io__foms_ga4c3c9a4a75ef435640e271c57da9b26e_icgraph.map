@@ -1,0 +1,14 @@
+<map id="m0_io_fom_cob_rw_invariant" name="m0_io_fom_cob_rw_invariant">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#gab47dd87ce0c4683bd49eff87de7df475" title="stobio_complete_cb" alt="" coords="254,41,393,68"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#gaf0dc9bdce916f0dde673f71d4c04217d" title="io_launch" alt="" coords="493,41,571,68"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga39fb74de83d07a9776dc3a1fdf5b572c" title="stob_object_find" alt="" coords="265,294,382,321"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#gac73c0391368c955cb7bd800ab027a4e1" title="io_prepare" alt="" coords="282,345,365,372"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga20ae6ec9dfefec8f5eb40e1f8070ee01" title="net_buffer_acquire" alt="" coords="259,396,387,422"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga97e9ddd75a5855c72136e6ee6ccab612" title="nbuf_release_done" alt="" coords="258,142,389,169"/>
+<area shape="rect" id="node8" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="469,98,595,125"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#gaebb3f3e9784b9978aa52963152b57c85" title="zero_copy_finish" alt="" coords="472,161,592,188"/>
+<area shape="rect" id="node10" href="$d9/dc2/group__io__foms.html#ga2ceed5523dec4a69cd5285f0d624c55d" title="io_finish" alt="" coords="497,237,567,264"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#ga9ffe224c49d57a21cad7f6307c398c51" title="stob_be_credit" alt="" coords="270,497,377,524"/>
+<area shape="rect" id="node12" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="451,472,613,498"/>
+<area shape="rect" id="node13" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="244,548,403,574"/>
+</map>

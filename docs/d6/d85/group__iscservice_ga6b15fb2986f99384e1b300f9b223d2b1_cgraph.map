@@ -1,0 +1,10 @@
+<map id="m0_isc_comp_register" name="m0_isc_comp_register">
+<area shape="rect" id="node2" href="$da/d4f/isc__service_8c.html#a02ef18e200aca8f2f63d8ad21002a1fc" title="m0_isc_htable_get" alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node3" href="$d7/d3b/group__hash.html#ga53f1acdbe867247c5fae0c9496daa7c6" title="m0_htable_is_init" alt="" coords="215,56,337,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="393,157,469,184"/>
+<area shape="rect" id="node5" href="$d7/d3b/group__hash.html#ga497388054f9c9a73d73f3850117990cc" title="m0_hbucket_lock" alt="" coords="214,157,338,184"/>
+<area shape="rect" id="node6" href="$d8/dec/isc_8c.html#ab30e2ce0c272f6862ca67285f08777a1" title="comp_register" alt="" coords="224,208,328,235"/>
+<area shape="rect" id="node7" href="$d7/d3b/group__hash.html#ga67410315be0cf2f86ae6a953d41c43b4" title="m0_hbucket_unlock" alt="" coords="207,259,345,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="231,309,321,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="243,360,309,387"/>
+</map>

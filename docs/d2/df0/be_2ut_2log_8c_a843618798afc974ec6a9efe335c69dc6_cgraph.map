@@ -1,0 +1,18 @@
+<map id="be_ut_log_recover_and_discard" name="be_ut_log_recover_and_discard">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga56799f9ce32b6282ab759b3f53eed3d4" title="m0_be_log_record_init" alt="" coords="231,5,383,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gadd757ac07650b6e713038cc85ee30910" title="m0_be_log_record_io\l_create" alt="" coords="234,57,379,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac6f6cf88d7fff9390baa022efcf9879f" title="m0_be_log_record_allocate" alt="" coords="217,123,397,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga021adc464a874f14e545275df6b6ef0d" title="m0_be_log_record_iter_init" alt="" coords="218,173,395,200"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga8f8be55a022d6fb043e16984f666dc91" title="m0_be_log_recovery\l_record_available" alt="" coords="235,225,378,266"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaca01ab659a5d99b3b30d3b21ab5edfa3" title="m0_be_log_recovery\l_record_get" alt="" coords="235,290,378,331"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga67f9fe86f4e73eaad6ffe64637e58729" title="m0_be_log_record_assign" alt="" coords="220,356,393,383"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="459,469,573,496"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="234,458,379,499"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="452,579,580,605"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gafaa84d6066ced529ca6b2ced2e544388" title="m0_be_log_record_io\l_launch" alt="" coords="234,575,379,617"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga8c4e6ad324fe401b2c0ca9984191c16e" title="m0_be_log_record_discard" alt="" coords="218,641,395,668"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga3ec896144f494aa07585afff21ce2333" title="m0_be_log_record_reset" alt="" coords="225,524,389,551"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#ga31b7900df5cb58581cae3cc8bdb914a3" title="m0_be_log_record_iter_fini" alt="" coords="218,743,395,769"/>
+<area shape="rect" id="node16" href="$d9/dcf/group__be.html#gaa66c8097b4a6421e6110f99c3ac29f5a" title="m0_be_log_record_deallocate" alt="" coords="209,793,404,820"/>
+<area shape="rect" id="node17" href="$d9/dcf/group__be.html#gaba27d3308f471b6787feca8b28dc6c50" title="m0_be_log_record_fini" alt="" coords="231,844,383,871"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_confc_reconnect" name="m0_confc_reconnect">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga7131632d1b1b034ee18108f26678a3a0" title="confc_lock" alt="" coords="232,5,317,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="401,107,539,133"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga3f43e4a2e619613db12a6c5e8c281ebd" title="disconnect_from_confd" alt="" coords="196,56,353,83"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="432,164,508,191"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga885af5093cfd600755ea9dc16920bb5e" title="connect_to_confd" alt="" coords="212,208,337,235"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga966f9a3bab9c90ccc6fec3719ad3ee07" title="not_empty" alt="" coords="429,227,511,253"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="437,303,503,329"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga27f0e832155df0663a04c6fbafcea597" title="m0_confc_invariant" alt="" coords="207,360,342,387"/>
+<area shape="rect" id="node10" href="$d5/d25/group__confc__dlspec.html#gace27ac8ff8cd441cad9cea2ae2813a2e" title="confc_unlock" alt="" coords="225,411,324,437"/>
+</map>

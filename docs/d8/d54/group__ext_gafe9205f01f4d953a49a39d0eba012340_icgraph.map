@@ -1,0 +1,6 @@
+<map id="m0_ext_is_partof" name="m0_ext_is_partof">
+<area shape="rect" id="node2" href="$de/d8f/group__balloc.html#gad0279415b5fbb272b244e9438df7e256" title="m0_balloc_load_extents" alt="" coords="176,5,339,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a8be31ff7b9d69b30342f2828b9446cdb" title="is_extent_free" alt="" coords="205,56,309,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a7c4412fb27f4bbb03bae4e57cd0cec7c" title="ext_range_locate" alt="" coords="197,107,318,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga7b2d9b971289187723ba9496ad2b3193" title="be_reg_d_is_partof" alt="" coords="191,157,323,184"/>
+</map>

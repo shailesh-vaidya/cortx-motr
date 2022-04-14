@@ -1,0 +1,6 @@
+<map id="mem_buffer_invariant" name="mem_buffer_invariant">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#ga3c17bb5fedb83438ec9d672c58de6574" title="mem_xo_buf_register" alt="" coords="207,5,354,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gade41d37ff635e67ee0041987c682acce" title="mem_xo_buf_deregister" alt="" coords="200,56,361,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga27b13e48eb50f66be75551a41296247e" title="mem_xo_buf_add" alt="" coords="218,107,343,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga3822e07349181a0d2e1612d4e47909c7" title="mem_xo_buf_del" alt="" coords="220,157,341,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="test_confc_net" name="test_confc_net">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="178,5,317,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="191,56,303,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="177,107,318,133"/>
+<area shape="rect" id="node5" href="$d4/dca/rpc__helpers_8c.html#a8888f99821dada56eaaf3cfeb1a9d711" title="m0_ut_rpc_machine_start" alt="" coords="161,157,333,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="165,208,330,235"/>
+<area shape="rect" id="node7" href="$d2/d72/ut_2confc_8c.html#a00ca672f809086b611b24d5461249dea" title="confc_test" alt="" coords="206,259,289,285"/>
+<area shape="rect" id="node8" href="$d4/dca/rpc__helpers_8c.html#a3ac4494e16e6f56d67dd7f8a43d967f8" title="m0_ut_rpc_machine_stop" alt="" coords="162,309,333,336"/>
+<area shape="rect" id="node9" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="177,360,317,387"/>
+</map>

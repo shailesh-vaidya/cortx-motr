@@ -1,0 +1,18 @@
+<map id="m0_net_buffer_del" name="m0_net_buffer_del">
+<area shape="rect" id="node2" href="$da/dda/io__fops_8c.html#aaf85379e89decd3277dee9b6aae5ebad" title="io_fop_coalesce" alt="" coords="205,5,321,32"/>
+<area shape="rect" id="node3" href="$d0/d20/bulk__emulation_2st_2ping_8h.html#af375467d593678498cb9b8231ad86fb7" title="ping_server" alt="" coords="218,56,307,83"/>
+<area shape="rect" id="node4" href="$de/dec/lnet_2st_2ping_8c.html#a8eb2f1ddb48690aa3d9eeb3779925973" title="nlx_ping_server" alt="" coords="206,107,319,133"/>
+<area shape="rect" id="node5" href="$d3/d50/bulk__mem__ut_8c.html#aaf3c762585b20b0104d3ae57a6f88afb" title="test_failure" alt="" coords="219,157,306,184"/>
+<area shape="rect" id="node6" href="$d2/d68/lnet__ut_8c.html#aa30634ca5d6dc4e897c40b20396edc34" title="ut_test_framework_dom\l_cleanup" alt="" coords="181,209,344,250"/>
+<area shape="rect" id="node7" href="$d2/d68/lnet__ut_8c.html#a6047a879acd88cc744586ed6f891f780" title="test_msg_body" alt="" coords="207,275,318,301"/>
+<area shape="rect" id="node8" href="$d2/d68/lnet__ut_8c.html#a6e84e8ac42832d81377865378c4dd282" title="test_bulk_passive_send" alt="" coords="181,325,344,352"/>
+<area shape="rect" id="node9" href="$d2/d68/lnet__ut_8c.html#a838e8335ca1a5b6c10edcfb795298bff" title="test_bulk_body" alt="" coords="392,376,503,403"/>
+<area shape="rect" id="node10" href="$d2/d68/lnet__ut_8c.html#a41d302e88c1ead323ffc473deef1fdd9" title="test_bulk_passive_recv" alt="" coords="183,427,342,453"/>
+<area shape="rect" id="node11" href="$d2/d68/lnet__ut_8c.html#a61ef321fcc86a2330d997cbec5025e1e" title="test_timeout_body" alt="" coords="198,477,327,504"/>
+<area shape="rect" id="node12" href="$de/d26/group___net_test_network_d_f_s.html#gaa51cff3411fb530491555812a2cad9a9" title="m0_net_test_network\l_buffer_dequeue" alt="" coords="189,529,336,570"/>
+<area shape="rect" id="node13" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="205,595,320,621"/>
+<area shape="rect" id="node14" href="$d3/d8c/tm__provision__ut_8c.html#a4dc21ddac0ea846f40c27ba1353c0b09" title="ut_tm_prov_stop" alt="" coords="203,645,322,672"/>
+<area shape="rect" id="node15" href="$d3/d8c/tm__provision__ut_8c.html#a3b4a532d9f0549787489d06af1ccdb12" title="pool_colour_buffer_add" alt="" coords="185,696,340,723"/>
+<area shape="rect" id="node16" href="$d9/d05/group__bulkclient_d_f_s.html#gae930de5fe77b8e6a549802b724a42815" title="m0_rpc_bulk_store_del" alt="" coords="185,747,341,773"/>
+<area shape="rect" id="node17" href="$db/de9/group__rpc.html#ga7755c647e8d28b1b4aa7d3a83cf6947c" title="rpc_bulk_op" alt="" coords="217,797,309,824"/>
+</map>

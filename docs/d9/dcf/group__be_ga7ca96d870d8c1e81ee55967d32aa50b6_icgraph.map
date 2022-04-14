@@ -1,0 +1,13 @@
+<map id="mem_update" name="mem_update">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaec6899a2a9f71974ec40e21a599bcf70" title="btree_node_update" alt="" coords="173,57,305,84"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga3c5eb788b82b6e72077b23d24d2d07ef" title="be_btree_merge_siblings" alt="" coords="376,17,543,44"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga4f2cef82a89f18f151fcbd4ca8a8a554" title="be_btree_delete_key\l_from_node" alt="" coords="388,90,531,131"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga950ad970c9182f3b9ea8197f14a5e26c" title="btree_node_keyval_update" alt="" coords="151,158,328,185"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga0348941d6b6a12f74932b286d2037085" title="btree_create" alt="" coords="412,234,507,261"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac0b33846e0f0af6266169c6d95d18ba1" title="be_btree_node_alloc" alt="" coords="169,260,310,286"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gab051fee783fe845df4e6edb039d85fb3" title="be_btree_insert_newkey" alt="" coords="378,310,541,337"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga2d9a38444404a34e172dec2983c05769" title="btree_save" alt="" coords="591,336,677,362"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaceed732a56934cb3082b8f6bdafdc3f7" title="be_btree_destroy" alt="" coords="178,412,301,438"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga0519a65d184c19b2acd109e41868d214" title="btree_truncate" alt="" coords="187,462,292,489"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="166,513,313,540"/>
+</map>

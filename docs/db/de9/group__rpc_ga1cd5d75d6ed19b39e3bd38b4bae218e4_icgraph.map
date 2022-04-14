@@ -1,0 +1,6 @@
+<map id="m0_rpc_packet_fini" name="m0_rpc_packet_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="221,5,315,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga0768a0448d1d1d8137044b3b89617d30" title="m0_rpc_packet_discard" alt="" coords="188,56,348,83"/>
+<area shape="rect" id="node4" href="$da/d5b/ut_2packet_8c.html#af91eecc670a95719543cc8a1748b80cf" title="packet_fini" alt="" coords="225,107,311,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga7eef7ac4c1f55efc5fba1c3121df4b44" title="net_buf_received" alt="" coords="207,157,329,184"/>
+</map>

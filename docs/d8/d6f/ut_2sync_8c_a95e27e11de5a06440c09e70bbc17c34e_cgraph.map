@@ -1,0 +1,8 @@
+<map id="ut_test_sync_request_launch_and_wait" name="ut_test_sync_request_launch_and_wait">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a62c349d587d79a2d1f374e58b6721bf2" title="fake_setup" alt="" coords="243,5,329,32"/>
+<area shape="rect" id="node3" href="$d8/d6f/ut_2sync_8c.html#ab073926ae8d2e819a1d972cdd0eff04b" title="ut_post_rpc" alt="" coords="241,56,331,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a9b3ea95268c8e18a1482f00600cb4749" title="ut_wait_for_reply" alt="" coords="225,107,347,133"/>
+<area shape="rect" id="node5" href="$d8/d6f/ut_2sync_8c.html#a6be5373d0e6b5986714e15ad7f1eb632" title="ut_fop_fini" alt="" coords="245,157,327,184"/>
+<area shape="rect" id="node6" href="$d8/d6f/ut_2sync_8c.html#a320c00298f50186f48e042a3ababf3da" title="ut_reset_stub_counters" alt="" coords="207,208,365,235"/>
+<area shape="rect" id="node7" href="$d8/d6f/ut_2sync_8c.html#aadd11f6a50eb03d3c7c3f3f0a3816718" title="call_sync_request_launch\l_and_wait" alt="" coords="200,259,372,301"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="net_buffer_pool_grow" name="net_buffer_pool_grow">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="415,90,549,131"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#gae5b49d825f274ec8edc067df5d9dc2ac" title="m0_bufvec_alloc_aligned\l_packed" alt="" coords="199,39,367,80"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gac25d6ad9c927e9c77f990f3f08d00d8e" title="m0__bufvec_dont_dump" alt="" coords="201,105,365,132"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="205,156,360,182"/>
+<area shape="rect" id="node6" href="$d8/d01/group__net__buffer__pool.html#gacaa1314b4436697faf45f84463ba14f5" title="m0_net_buffer_pool_put" alt="" coords="203,206,363,233"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga95f9e28738990276e914082ede456ea5" title="m0_bufvec_free_aligned\l_packed" alt="" coords="201,258,364,299"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="248,324,317,350"/>
+</map>

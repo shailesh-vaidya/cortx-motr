@@ -1,0 +1,12 @@
+<map id="allocate_blocks" name="allocate_blocks">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="413,110,453,137"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a2c562eb3163c3e8a7b310f736db7d3dc" title="is_any" alt="" coords="403,211,463,238"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#ab1c25928253b22f7d5f68dea541e1089" title="is_spare" alt="" coords="539,161,609,187"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a7f9f58ce82cce6b249082d5ca11edaf5" title="is_normal" alt="" coords="535,313,613,339"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a3ae80a68c8ac683ec586384759de4325" title="balloc_simple_scan\l_group" alt="" coords="181,465,317,507"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#aba68616f57533d86db006db464fc8976" title="balloc_wild_scan_group" alt="" coords="169,262,329,289"/>
+<area shape="rect" id="node8" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="380,313,487,339"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#aeb8523249271d6a41e8e22ed5dbee560" title="balloc_new_preallocation" alt="" coords="165,363,332,390"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a8be31ff7b9d69b30342f2828b9446cdb" title="is_extent_free" alt="" coords="381,59,485,86"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#a2095abc25d1a24f693753198a5adf2bd" title="balloc_alloc_db_update" alt="" coords="170,161,327,187"/>
+</map>

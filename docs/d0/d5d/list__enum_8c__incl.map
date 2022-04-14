@@ -1,0 +1,13 @@
+<map id="layout/list_enum.c" name="layout/list_enum.c">
+<area shape="rect" id="node2" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$db/d65/vec_8h.html" title="lib/vec.h" alt="" coords="132,80,203,107"/>
+<area shape="rect" id="node4" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="227,80,323,107"/>
+<area shape="rect" id="node5" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="276,155,363,181"/>
+<area shape="rect" id="node6" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="401,155,480,181"/>
+<area shape="rect" id="node7" href="$d4/d91/bob_8h.html" title="lib/bob.h" alt="" coords="449,80,520,107"/>
+<area shape="rect" id="node8" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="544,80,623,107"/>
+<area shape="rect" id="node9" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="573,155,671,181"/>
+<area shape="rect" id="node10" href="$d8/dcf/fid_8h.html" title="fid/fid.h" alt="" coords="698,80,765,107"/>
+<area shape="rect" id="node11" href="$dd/d31/layout__internal_8h.html" title="layout/layout_internal.h" alt="" coords="789,80,945,107"/>
+<area shape="rect" id="node12" href="$d2/dd4/list__enum_8h.html" title="layout/list_enum.h" alt="" coords="970,80,1098,107"/>
+</map>

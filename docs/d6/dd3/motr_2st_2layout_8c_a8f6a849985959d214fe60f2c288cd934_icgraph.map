@@ -1,0 +1,5 @@
+<map id="layout_create_capture_obj" name="layout_create_capture_obj">
+<area shape="rect" id="node2" href="$d6/dd3/motr_2st_2layout_8c.html#ade969724bb567e18000aec709153a1b9" title="layout_capture" alt="" coords="245,5,352,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a4150bd27aaa37b308b6e65a3d84547e5" title="layout_capture_io" alt="" coords="237,56,361,83"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="228,107,369,149"/>
+</map>

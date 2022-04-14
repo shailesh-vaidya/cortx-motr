@@ -1,0 +1,10 @@
+<map id="m0_net_test_commands_recv" name="m0_net_test_commands_recv">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#gab2e4069ba31e3d8df5d838568085b8ff" title="m0_net_test_commands\l_invariant" alt="" coords="259,5,424,47"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gac475887387f514fc84e78c3da285e2af" title="m0_semaphore_timeddown" alt="" coords="251,71,432,98"/>
+<area shape="rect" id="node4" href="$da/d64/group___net_test_ringbuf_internals.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="257,122,425,149"/>
+<area shape="rect" id="node5" href="$d0/de6/group___net_test_commands_internals.html#ga459f93afde31c8a16b4ad08cc4ffc672" title="is_buf_in_recv_q" alt="" coords="281,173,401,199"/>
+<area shape="rect" id="node6" href="$df/d38/group___net_test_network_internals.html#ga29526d2634815c728f1140293a08d321" title="m0_net_test_network_buf" alt="" coords="255,223,427,250"/>
+<area shape="rect" id="node7" href="$d0/de6/group___net_test_commands_internals.html#gab2242dd1ab3578add7ab66fff9bde8bc" title="cmd_serialize" alt="" coords="290,274,393,301"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#gad9d53660d835d6eddcda80aa6a009439" title="m0_net_test_network\l_ep_search" alt="" coords="268,325,415,367"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#gaefce6a1c8eeaca5e47c72e728cf89f0c" title="m0_net_end_point_put" alt="" coords="265,391,418,418"/>
+</map>

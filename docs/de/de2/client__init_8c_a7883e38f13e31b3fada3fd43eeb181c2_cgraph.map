@@ -1,0 +1,8 @@
+<map id="m0_client_global_init" name="m0_client_global_init">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga851deafe4c8d220bab667cf4c222bc84" title="m0_sm_conf_init" alt="" coords="221,5,342,32"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#ac538a49136035a7084e4a9b2f77828d0" title="get_online_cpus" alt="" coords="223,56,339,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="214,107,349,133"/>
+<area shape="rect" id="node5" href="$d2/db6/idx_8c.html#ac358da234b75e041de6d949bd9eea6ef" title="m0_idx_services_register" alt="" coords="196,157,367,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga51758d92f8e2acb896267577b506b57f" title="m0_sm_addb2_init" alt="" coords="216,208,347,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="248,259,315,285"/>
+</map>

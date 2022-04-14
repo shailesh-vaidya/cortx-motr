@@ -1,0 +1,7 @@
+<map id="stor_init" name="stor_init">
+<area shape="rect" id="node2" href="$dc/d74/addb2_2ut_2storage_8c.html#a5912f7a2b6b37967adccb642cfce1b18" title="mach_idle" alt="" coords="159,5,240,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="132,56,267,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga8e8e54e49f4d435b5d097cf22e010005" title="m0_addb2_storage_init" alt="" coords="121,107,277,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gafb6568c6a2a4e6accba9e327925e94c2" title="mach_set" alt="" coords="160,157,239,184"/>
+<area shape="rect" id="node6" href="$dc/d74/addb2_2ut_2storage_8c.html#a85299582aba681102630e6c9dc2a28ea" title="test_submit" alt="" coords="154,208,245,235"/>
+</map>

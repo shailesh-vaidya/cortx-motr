@@ -1,0 +1,15 @@
+<map id="m0_rpc_session_terminate" name="m0_rpc_session_terminate">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="239,5,391,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="447,81,620,108"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="668,132,771,159"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="232,157,399,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="500,309,567,336"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="266,259,365,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="495,461,571,488"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga368d147999efeca08da437e215468af4" title="session_failed" alt="" coords="263,107,368,133"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="267,411,364,437"/>
+<area shape="rect" id="node11" href="$d2/d66/group__dtm.html#gadbe2e802c2499a2a3aa2133620d7dc96" title="m0_rpc_conn_session0" alt="" coords="236,461,395,488"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="251,512,379,539"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#gacd66f9e6bb4c05211488d1b08145b2ac" title="m0_rpc__fop_post" alt="" coords="251,360,380,387"/>
+<area shape="rect" id="node14" href="$d6/d39/group__fop.html#gacd879a192974d7f0d92ee1601658d436" title="m0_fop_put" alt="" coords="270,613,361,640"/>
+</map>

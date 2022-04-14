@@ -1,0 +1,12 @@
+<map id="m0_rpc_machine_get_stats" name="m0_rpc_machine_get_stats">
+<area shape="rect" id="node2" href="$d8/dd5/rpc__ping_8c.html#ae2c80a02a31f0da16c0f6f2893b6d643" title="__print_stats" alt="" coords="229,5,327,32"/>
+<area shape="rect" id="node3" href="$d9/dbf/ut_2item_8c.html#abb028b1ec4e22619f3f3005266a7a594" title="test_simple_transitions" alt="" coords="200,56,356,83"/>
+<area shape="rect" id="node4" href="$d9/dbf/ut_2item_8c.html#a3c0f9c2367da5b0157897e6ef0c741b3" title="test_reply_item_error" alt="" coords="206,107,350,133"/>
+<area shape="rect" id="node5" href="$d9/dbf/ut_2item_8c.html#a706007a8000a9b6db4ccc3830d57d8f7" title="test_timeout" alt="" coords="421,171,516,197"/>
+<area shape="rect" id="node6" href="$d9/dbf/ut_2item_8c.html#a54c40d20dc58fbdfb0c14dc028d1db0d" title="_test_timeout" alt="" coords="227,208,329,235"/>
+<area shape="rect" id="node7" href="$d9/dbf/ut_2item_8c.html#a8eb9d4f9b7c8b1d59e3927f611b79150" title="test_ha_notify" alt="" coords="417,247,521,273"/>
+<area shape="rect" id="node8" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="233,309,323,336"/>
+<area shape="rect" id="node9" href="$d9/dbf/ut_2item_8c.html#a2e2ee7b443d7a756185a4f8e617c0ae3" title="test_failure_before\l_sending" alt="" coords="404,378,533,419"/>
+<area shape="rect" id="node10" href="$d9/dbf/ut_2item_8c.html#a3502dc4d1dbdfd9b79df41cb2e93ed40" title="_test" alt="" coords="253,411,303,437"/>
+<area shape="rect" id="node11" href="$d9/dbf/ut_2item_8c.html#a26900cfe21ba8c24038778fd435149c5" title="test_ha_cancel" alt="" coords="223,461,333,488"/>
+</map>

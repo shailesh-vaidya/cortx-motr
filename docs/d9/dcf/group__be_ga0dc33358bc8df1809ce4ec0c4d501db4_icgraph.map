@@ -1,0 +1,8 @@
+<map id="m0_be_reg_area_capture" name="m0_be_reg_area_capture">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga34d55dbb6aefe0a78545f46a6cb3e268" title="m0_be_tx_capture" alt="" coords="246,5,375,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga3031c7cbe61d307261185ec408388624" title="be_tx_group_reconstruct\l_reg_area" alt="" coords="228,57,393,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gae548189eb1aa3556d4ceb01e09920b00" title="m0_be_reg_area_merge_in" alt="" coords="221,123,400,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaee19b2fc53876e697eb2114af7310a29" title="m0_be_reg_area_merger\l_merge_to" alt="" coords="228,174,393,215"/>
+<area shape="rect" id="node6" href="$de/d78/ut_2tx__regmap_8c.html#aa75360387c7ec896f493a3f3467c3c4b" title="be_ut_reg_area_do" alt="" coords="245,240,377,267"/>
+<area shape="rect" id="node7" href="$de/d78/ut_2tx__regmap_8c.html#ae56876bf27a060de1e6ed2d3f5b96370" title="be_ut_reg_area_merge\l_ra_add" alt="" coords="233,291,388,333"/>
+</map>

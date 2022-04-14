@@ -1,0 +1,12 @@
+<map id="m0_rm_remote_fini" name="m0_rm_remote_fini">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga8900b27581d613004d22da2d62fdd02a" title="m0_clink_cleanup" alt="" coords="219,40,345,67"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="432,53,539,80"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="425,116,545,143"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="436,268,535,295"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="217,91,347,117"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga33b9076472a483cf4bea77359a6cb999" title="m0_clink_is_armed" alt="" coords="215,344,349,371"/>
+<area shape="rect" id="node8" href="$de/df4/group__rm-ha.html#gae8426964349f34f74c5b5572aab1c279" title="m0_rm_ha_unsubscribe_lock" alt="" coords="187,141,377,168"/>
+<area shape="rect" id="node9" href="$de/df4/group__rm-ha.html#ga7e798ef1986d7d4d6e9f428c1ad00ee7" title="m0_rm_ha_tracker_fini" alt="" coords="205,293,359,320"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga5f3e5e2b8c4fa16d53eaf44f957d7f7a" title="resource_put" alt="" coords="233,445,331,472"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="441,420,530,447"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_be_log_store_bshift" name="m0_be_log_store_bshift">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac407a948b328d84a82e6eeeb2377bb1f" title="m0_be_log_bshift" alt="" coords="229,5,353,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga249af3e461a0e816d8121d5de7720bf5" title="be_log_store_buf_alloc\l_aligned" alt="" coords="213,57,368,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga8f801b9f8c038cbb2ed39f2ea638012d" title="be_log_store_level\l_enter" alt="" coords="416,86,547,127"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga9c1f9949eb0b9a77a5592b842eb2502c" title="be_log_store_buf_free\l_aligned" alt="" coords="215,174,366,215"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gad62c7bea63784df71b63a73603d03d0c" title="be_log_store_rbuf_init\l_fini_index" alt="" coords="216,239,365,281"/>
+<area shape="rect" id="node7" href="$d4/d6f/ut_2log__store_8c.html#a867de49521e4e636371b13a9a790f931" title="be_ut_log_store_io\l_translate" alt="" coords="225,305,356,346"/>
+</map>

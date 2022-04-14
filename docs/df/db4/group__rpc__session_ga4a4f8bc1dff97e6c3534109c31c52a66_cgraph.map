@@ -1,0 +1,5 @@
+<map id="conn_failed" name="conn_failed">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae24d379010bd521ce9a52b767ce351f5" title="m0_sm_fail" alt="" coords="175,5,264,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="141,56,297,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="175,107,264,133"/>
+</map>

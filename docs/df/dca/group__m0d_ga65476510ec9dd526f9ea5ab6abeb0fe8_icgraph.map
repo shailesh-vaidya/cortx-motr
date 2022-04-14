@@ -1,0 +1,8 @@
+<map id="m0_cs_init" name="m0_cs_init">
+<area shape="rect" id="node2" href="$dc/d6c/m0ctgdump_8c.html#a9eaccc4505d14861026fcce76742ac28" title="main" alt="" coords="202,5,253,32"/>
+<area shape="rect" id="node3" href="$d5/d34/sd__common_8h.html#a703f0f6af3d987819eba57be5e286ecc" title="fdmi_serv_start_ut" alt="" coords="162,56,293,83"/>
+<area shape="rect" id="node4" href="$d5/ded/cs__ut__main_8c.html#a183ac8ee0e063577c71c3893be6f57ec" title="test_cs_ut_lnet_multiple_if" alt="" coords="139,107,316,133"/>
+<area shape="rect" id="node5" href="$d5/ded/cs__ut__main_8c.html#a36910093f17b4427cf520a38081739e2" title="test_cs_ut_lnet_ep\l_mixed_dup" alt="" coords="161,158,293,199"/>
+<area shape="rect" id="node6" href="$d3/d5a/rpclib_8h.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="157,224,298,251"/>
+<area shape="rect" id="node7" href="$d0/d31/cp__common_8c.html#a18894bec48bd185a8211565cdc58c001" title="cs_init_setup_env" alt="" coords="164,275,291,301"/>
+</map>

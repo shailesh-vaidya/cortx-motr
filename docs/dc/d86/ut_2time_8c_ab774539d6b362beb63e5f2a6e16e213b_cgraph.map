@@ -1,0 +1,11 @@
+<map id="time_test_mt_nr" name="time_test_mt_nr">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="174,5,299,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="169,56,304,83"/>
+<area shape="rect" id="node4" href="$dc/d86/ut_2time_8c.html#ac6edca22f01c1c9a9cbb7c906df58c5a" title="time_thread" alt="" coords="191,107,282,133"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="171,157,303,184"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="181,208,292,235"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="183,259,290,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="352,284,487,311"/>
+<area shape="rect" id="node9" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="174,360,299,387"/>
+<area shape="rect" id="node10" href="$dc/d86/ut_2time_8c.html#a5723e702c96f776c9ff66097054dbde8" title="time_test_check" alt="" coords="177,411,296,437"/>
+</map>

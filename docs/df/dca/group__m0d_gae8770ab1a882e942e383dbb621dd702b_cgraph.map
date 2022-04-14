@@ -1,0 +1,18 @@
+<map id="cs_storage_devs_init" name="cs_storage_devs_init">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="461,26,526,53"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga95c2e5d02b1e28c69b0a647c764886d4" title="m0_motr2confc" alt="" coords="437,229,549,255"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga91968722d289dbcebea6a9323c179d26" title="m0_storage_devs_init" alt="" coords="205,355,354,382"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="460,355,527,382"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="455,482,531,509"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#gaa4b6bd6dcb2d57ebd0ad65eb4cb5f7c8" title="m0_storage_devs_use\l_directio" alt="" coords="203,676,356,717"/>
+<area shape="rect" id="node8" href="$df/dca/group__m0d.html#ga9554375f9b0ca8f7ab917041b31df857" title="stob_file_id_get" alt="" coords="223,457,336,483"/>
+<area shape="rect" id="node9" href="$df/dca/group__m0d.html#ga6cd728490ddb80efd3cdddf044eeb4c2" title="stob_file_path_get" alt="" coords="215,742,343,769"/>
+<area shape="rect" id="node10" href="$db/dc2/conf_2helpers_8c.html#ac0c5db27831f16ffd75796778445de24" title="m0_conf_device_cid\l_to_fid" alt="" coords="209,559,350,600"/>
+<area shape="rect" id="node11" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="435,566,552,593"/>
+<area shape="rect" id="node12" href="$d0/dfe/group__sdev.html#gaac336122037930c1d78fa9e1029952b4" title="m0_storage_dev_new" alt="" coords="205,406,354,433"/>
+<area shape="rect" id="node13" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="415,102,571,129"/>
+<area shape="rect" id="node14" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="199,793,360,819"/>
+<area shape="rect" id="node15" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="408,153,579,179"/>
+<area shape="rect" id="node16" href="$df/dca/group__m0d.html#ga7c62a3ab79844414d7fe796712562c2a" title="cs_conf_storage_init" alt="" coords="208,254,351,281"/>
+<area shape="rect" id="node17" href="$df/dca/group__m0d.html#ga6b55bf17ce6639f235d83e98e26b884d" title="cs_storage_devs_fini" alt="" coords="207,51,352,78"/>
+</map>

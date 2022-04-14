@@ -1,0 +1,10 @@
+<map id="m0_sns_cm_cp_fail" name="m0_sns_cm_cp_fail">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga09930604b8f073704a6d757365932c7c" title="m0_sns_cm_cp_tx_close" alt="" coords="198,5,369,32"/>
+<area shape="rect" id="node3" href="$d6/d59/group___s_n_s_c_m_a_g.html#gaeec7fd2f3c1d1d3d1ea00d1a0f32f0b1" title="ag2snsag" alt="" coords="244,56,323,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga0d4cf60def3ba4390460d35d68902cb7" title="m0_fom_rc" alt="" coords="240,107,327,133"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga67417ca2cb49d3a278ee8f0e81c3de3d" title="m0_sns_cm_pver_dirty_set" alt="" coords="192,157,375,184"/>
+<area shape="rect" id="node6" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="235,208,331,235"/>
+<area shape="rect" id="node7" href="$d0/da4/group___c_m.html#ga7a59387e137f4660d52b23ac4f336d52" title="m0_cm_abort" alt="" coords="233,259,334,285"/>
+<area shape="rect" id="node8" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="228,309,339,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="208,360,359,387"/>
+</map>

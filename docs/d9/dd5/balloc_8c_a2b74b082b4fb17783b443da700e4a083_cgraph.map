@@ -1,0 +1,9 @@
+<map id="balloc_alloc" name="balloc_alloc">
+<area shape="rect" id="node2" href="$de/d8f/group__balloc.html#ga871317ed8b5f3e0b7c24313b77e57fbf" title="b2m0" alt="" coords="195,5,250,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a958c5f7bff0f7aad905f7716784c7aa7" title="balloc_allocate_internal" alt="" coords="144,56,301,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="349,81,416,108"/>
+<area shape="rect" id="node5" href="$d8/d54/group__ext.html#gab290993ad4a1c05084778ad2e67ec3a9" title="m0_ext_is_empty" alt="" coords="160,157,285,184"/>
+<area shape="rect" id="node6" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="178,208,267,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="165,259,280,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="159,309,287,336"/>
+</map>

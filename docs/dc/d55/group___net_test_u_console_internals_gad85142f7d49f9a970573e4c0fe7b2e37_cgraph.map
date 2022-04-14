@@ -1,0 +1,6 @@
+<map id="print_stats_parsable" name="print_stats_parsable">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#ga07d21d91aa8686f81164888d63891ac4" title="min" alt="" coords="259,5,301,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga217a253d1b8ba93cbd1bac336d3c17b3" title="max" alt="" coords="257,56,303,83"/>
+<area shape="rect" id="node4" href="$d4/d3b/group___net_test_stats_internals.html#gacd8161d3a9d30686ff6c3c2c6a501213" title="m0_net_test_stats_avg" alt="" coords="416,132,575,159"/>
+<area shape="rect" id="node5" href="$d4/d3b/group___net_test_stats_internals.html#ga77b02ec85e9bb9f70a23e7e92a9193b4" title="m0_net_test_stats_stddev" alt="" coords="192,157,368,184"/>
+</map>

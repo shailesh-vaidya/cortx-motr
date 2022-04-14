@@ -1,0 +1,12 @@
+<map id="rconfc_ha_update_ast" name="rconfc_ha_update_ast">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="768,126,827,152"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="243,328,312,355"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga6926f12c2d28376109989504ab21dcf3" title="rconfc_state" alt="" coords="625,176,720,203"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#ga17f91262cd35718e8ced4be2ad538351" title="rconfc_state_set" alt="" coords="429,126,547,152"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga7554b4e802c680bbf1b1b579ef934e7c" title="rlock_ctx_is_online" alt="" coords="211,379,344,406"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gaa72d38310e8adceaf7864b5c6264688e" title="rlock_ctx_creditor\l_unset" alt="" coords="215,430,340,472"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga53d533a0b549a31214e4b2f94cadd38d" title="rlock_ctx_creditor\l_setup" alt="" coords="215,496,340,537"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga16c8369c9fad53c5462cc6ab62344861" title="rconfc_read_lock_get" alt="" coords="204,75,351,102"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga1ba3b4c90beb9238a86e507946535f04" title="rconfc_start" alt="" coords="232,227,323,254"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#gace2c1e6e71f9097876a7b41507cef13d" title="m0_ha_entrypoint_rep_free" alt="" coords="399,328,577,355"/>
+</map>

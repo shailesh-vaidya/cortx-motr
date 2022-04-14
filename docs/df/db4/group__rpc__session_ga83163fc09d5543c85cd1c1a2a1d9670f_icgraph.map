@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_init" name="m0_rpc_conn_init">
+<area shape="rect" id="node2" href="$d5/d34/sd__common_8h.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="189,5,308,32"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="191,56,307,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga6f56bfedf841c0e73e6d61547864a503" title="m0_rpc_conn_create" alt="" coords="177,107,320,133"/>
+<area shape="rect" id="node5" href="$d1/d79/ut_2conn_8c.html#a1ac20edc0cb556bcb23fd9ac74ac4ce9" title="conn_init" alt="" coords="211,157,286,184"/>
+<area shape="rect" id="node6" href="$d1/d79/ut_2conn_8c.html#a4a55f9aca249902b2cac4b5dc78d0fb7" title="conn_init_fail_test" alt="" coords="185,208,312,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ut_fsync_create_fom" name="ut_fsync_create_fom">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="221,5,349,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="236,56,335,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="435,107,505,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="421,360,519,387"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="211,208,360,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="218,259,353,285"/>
+<area shape="rect" id="node8" href="$dc/df5/fsync__foms_8c.html#afc3ac2b4d399995df9eed8599eb02446" title="m0_fsync_req_fom_create" alt="" coords="197,157,373,184"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="211,360,360,387"/>
+<area shape="rect" id="node10" href="$dc/df5/fsync__foms_8c.html#a8d22c701ea40c4380c3ff1935d0e4cf9" title="fsync_fom_locality_get" alt="" coords="207,411,363,437"/>
+</map>

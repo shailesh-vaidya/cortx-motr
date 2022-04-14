@@ -1,0 +1,12 @@
+<map id="stob_linux_punch" name="stob_linux_punch">
+<area shape="rect" id="node2" href="$d3/d78/group__stoblinux.html#ga82430596bc3fc991516a7a0a882ef891" title="m0_stob_linux_container" alt="" coords="180,5,347,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="399,208,439,235"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="192,107,335,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gaf84e4bef24d1285a0acb734eb508a977" title="m0_ivec_cursor_init" alt="" coords="194,157,333,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#gad91d27a0c5db7a267d18d70ae8817a8f" title="m0_ivec_cursor_move" alt="" coords="187,208,340,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga328f47dead930796d93217b23d002e04" title="m0_ivec_cursor_step" alt="" coords="190,259,337,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga3b8c55c5a3bc679ba4667229893178ee" title="m0_ivec_cursor_index" alt="" coords="187,309,339,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="225,360,301,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="230,411,297,437"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga8596759f21bf5f81015e926e437aa10e" title="m0_indexvec_is_universal" alt="" coords="176,461,351,488"/>
+</map>

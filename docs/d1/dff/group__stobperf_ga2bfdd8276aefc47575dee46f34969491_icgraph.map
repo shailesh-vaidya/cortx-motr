@@ -1,0 +1,7 @@
+<map id="stob_perf_domain_container" name="stob_perf_domain_container">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#gadd566ff3ed608c5a93288b07404719a8" title="stob_perf_domain_fini" alt="" coords="243,5,393,32"/>
+<area shape="rect" id="node3" href="$d1/dff/group__stobperf.html#ga1950cf5ee86daa7016e401258ce63cb2" title="stob_perf_init" alt="" coords="268,56,368,83"/>
+<area shape="rect" id="node4" href="$d1/dff/group__stobperf.html#ga901e25a7d163baa851d93ef492aaa206" title="stob_perf_create" alt="" coords="445,81,564,108"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#ga4d9c43ac7cc75667417c062b03bbc11f" title="stob_perf_create_credit" alt="" coords="239,157,397,184"/>
+<area shape="rect" id="node6" href="$d1/dff/group__stobperf.html#ga385a5d0daf7edfbd11067b72d9333072" title="stob_perf_write_credit" alt="" coords="243,208,393,235"/>
+</map>

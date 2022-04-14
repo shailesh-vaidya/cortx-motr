@@ -1,0 +1,5 @@
+<map id="m0_rpc_conn_ha_timer_stop" name="m0_rpc_conn_ha_timer_stop">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="243,5,425,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga33b94522de187430fe217a8f546a9e0a" title="m0_sm_timer_is_armed" alt="" coords="253,56,415,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gad920c129ba2445fd16c204ac1a6d4a29" title="m0_sm_timer_cancel" alt="" coords="261,107,407,133"/>
+</map>

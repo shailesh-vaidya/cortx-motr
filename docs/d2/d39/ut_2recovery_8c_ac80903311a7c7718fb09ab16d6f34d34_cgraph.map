@@ -1,0 +1,5 @@
+<map id="be_ut_recovery_log_record_init_one" name="be_ut_recovery_log_record_init_one">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga56799f9ce32b6282ab759b3f53eed3d4" title="m0_be_log_record_init" alt="" coords="202,5,354,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gadd757ac07650b6e713038cc85ee30910" title="m0_be_log_record_io\l_create" alt="" coords="205,57,351,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac6f6cf88d7fff9390baa022efcf9879f" title="m0_be_log_record_allocate" alt="" coords="188,123,368,149"/>
+</map>

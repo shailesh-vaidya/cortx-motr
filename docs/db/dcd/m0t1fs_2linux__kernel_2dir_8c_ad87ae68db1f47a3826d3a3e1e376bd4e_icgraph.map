@@ -1,0 +1,18 @@
+<map id="M0_ENTRY" name="M0_ENTRY">
+<area shape="rect" id="node2" href="$dd/d06/conf_2objs_2dir_8c.html#a2d82dffe457fe264718400909a4daff1" title="dir_readdir" alt="" coords="205,5,288,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a46c5c55f0f9494ad38149a47437be34e" title="cob_rpc_item_cb" alt="" coords="186,56,307,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a600ce96d8afbd9986251e19b4af09943" title="m0t1fs_fs_conf_lock" alt="" coords="175,259,318,285"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#aa45ddde17317584d3d9c93ace995c25d" title="m0t1fs_removexattr" alt="" coords="396,169,535,196"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9448a3e41e464c52f1b8463212ab19e5" title="m0t1fs_unlink" alt="" coords="414,245,517,272"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a286b55da65843ec7c58e91686c26c45d" title="m0t1fs_rmdir" alt="" coords="583,176,681,203"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae369218093534ebb15ef574072826cb3" title="m0t1fs_setattr" alt="" coords="412,309,519,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a612bdaab0facf8927d258b60942906c2" title="m0t1fs_cob_setattr" alt="" coords="398,360,533,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad95a7b95e89e132087c57c2715f32f25" title="m0t1fs_opendir" alt="" coords="191,461,302,488"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9f458b9bae4da976f42097de8182026d" title="m0t1fs_releasedir" alt="" coords="184,512,309,539"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ab1d7213f08368be4f941759510d1667f" title="m0t1fs_component_objects_op" alt="" coords="145,360,348,387"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a439ab2e1f721fb44a64b33d2b8de7feb" title="m0t1fs_mds_cob_op" alt="" coords="175,563,318,589"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a51dd42230901bc4ef3266694c837d816" title="m0t1fs_ios_cob_fop\l_populate" alt="" coords="177,715,316,757"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4655ca8fecad9c23d821eca74876cefb" title="m0t1fs_ios_cob_op" alt="" coords="398,664,533,691"/>
+<area shape="rect" id="node16" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a65f948ee0b36c5623d5f075d4b4d18c1" title="m0t1fs_cob_getattr" alt="" coords="398,752,533,779"/>
+<area shape="rect" id="node17" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4830d33c5efb23e5d18d0da8660d9b5c" title="cfop_release" alt="" coords="199,664,295,691"/>
+</map>

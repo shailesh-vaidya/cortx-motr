@@ -1,0 +1,7 @@
+<map id="balloc_group_info_init" name="balloc_group_info_init">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a67ade0c33f18af4847c043ed78009baa" title="btree_lookup_sync" alt="" coords="220,5,351,32"/>
+<area shape="rect" id="node3" href="$d6/d2c/group__stobad.html#ga2e669610d1fcec4902752e999b992541" title="m0_stob_ad_spares_calc" alt="" coords="200,56,371,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a7fc73338039eb07bd507aedbcb3af488" title="balloc_zone_init" alt="" coords="228,107,343,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="232,157,339,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#ad7fecc4ce3e8c6f1964c08a76eb84a2c" title="bgi_mutex" alt="" coords="244,208,327,235"/>
+</map>

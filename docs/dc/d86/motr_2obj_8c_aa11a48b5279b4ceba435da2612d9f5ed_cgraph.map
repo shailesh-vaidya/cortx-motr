@@ -1,0 +1,7 @@
+<map id="obj_namei_cb_fini" name="obj_namei_cb_fini">
+<area shape="rect" id="node2" href="$dc/d86/motr_2obj_8c.html#afc6037f4f0215f16d4bfe2a321c37c3b" title="m0_op_obj_invariant" alt="" coords="191,5,332,32"/>
+<area shape="rect" id="node3" href="$dc/d86/motr_2obj_8c.html#acd18d2616848a687b2e651aae611b770" title="m0__oo_instance" alt="" coords="199,56,323,83"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="180,107,343,133"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="214,157,309,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="217,208,306,235"/>
+</map>

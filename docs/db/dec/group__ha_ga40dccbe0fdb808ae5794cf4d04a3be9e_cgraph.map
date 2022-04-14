@@ -1,0 +1,8 @@
+<map id="ha_link_tags_update" name="ha_link_tags_update">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="209,5,354,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga27acf27b5bd4c83aa6cb449a82e9be98" title="m0_ha_lq_tags_get" alt="" coords="214,56,349,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gadcb79467376b0724f35750445070f045" title="m0_ha_lq_tag_next" alt="" coords="214,107,349,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gade443db97ba8be470e818217b0ac1045" title="m0_ha_lq_next" alt="" coords="226,157,337,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gac7f715e5e09e7a88b5aedfb04c12d759" title="m0_ha_lq_tag_delivered" alt="" coords="200,208,363,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga30cda1004844bce1be3caa3ae2824823" title="m0_ha_lq_mark_delivered" alt="" coords="195,259,368,285"/>
+</map>

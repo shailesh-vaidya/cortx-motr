@@ -1,0 +1,14 @@
+<map id="cob_delete" name="cob_delete">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="162,5,282,32"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="139,56,305,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga0dbb535d77d4a1e711e145381603bfac" title="m0_cob_oikey_make" alt="" coords="149,107,295,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gac0403dde99c1bb3e817b017a137a1310" title="m0_cob_locate" alt="" coords="167,157,277,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="155,208,289,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gaa03010f6aced17577815ba0186019cab" title="m0_dtx_init" alt="" coords="177,259,267,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga48e0638d279ccb554d81daa18b7face9" title="m0_cob_tx_credit" alt="" coords="159,309,285,336"/>
+<area shape="rect" id="node9" href="$d2/d66/group__dtm.html#gae5097e29e6509b1a80b4bd723dff9d55" title="m0_dtx_open_sync" alt="" coords="155,360,289,387"/>
+<area shape="rect" id="node10" href="$d3/d8e/group__cob.html#ga8ae2f089005864651145f176bdb855aa" title="m0_cob_delete_put" alt="" coords="155,411,289,437"/>
+<area shape="rect" id="node11" href="$d2/d66/group__dtm.html#gab83eb7b76c1b60b26a61c028cb83faaa" title="m0_dtx_done_sync" alt="" coords="155,461,289,488"/>
+<area shape="rect" id="node12" href="$d2/d66/group__dtm.html#gab5dfdefafd23bcef58b85f84b93f9d8d" title="m0_dtx_fini" alt="" coords="177,512,267,539"/>
+<area shape="rect" id="node13" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="147,563,297,589"/>
+</map>

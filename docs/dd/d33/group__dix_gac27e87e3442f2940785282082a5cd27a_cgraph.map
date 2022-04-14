@@ -1,0 +1,13 @@
+<map id="dix__rop" name="dix__rop">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga5283a0db7bb0548852620d20c0a765b1" title="dix_req_failure" alt="" coords="138,5,245,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="307,157,383,184"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gafeb3226da972d2aaf12b91da24a21670" title="dix_rop_ctx_init" alt="" coords="135,107,248,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaa436c3ba96165ae32ddd2c205554c123" title="dix_rop_units_set" alt="" coords="129,157,253,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga17bda6318a2a002fdf47c9b1a8c948c1" title="dix_cas_rops_alloc" alt="" coords="125,208,258,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga48575fc5058f8e2ba9546a27450d692a" title="dix_cas_rops_fill" alt="" coords="132,259,251,285"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga2ce8b0a84a9b99c99dbf8c0ccab43a1d" title="dix_cas_rops_send" alt="" coords="124,309,259,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#gade29398ef5a15cdfeea23aeee461c159" title="dix_rop_ctx_fini" alt="" coords="135,360,248,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#gab0f8e68af915368fbd269256b9a61b33" title="dix_req_state" alt="" coords="141,411,241,437"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#gaa1a19b922fdd58320daea6488977097a" title="dix_req_state_set" alt="" coords="129,461,254,488"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="147,512,236,539"/>
+</map>

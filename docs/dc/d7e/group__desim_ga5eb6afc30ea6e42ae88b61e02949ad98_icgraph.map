@@ -1,0 +1,6 @@
+<map id="sim_sleep" name="sim_sleep">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gaea08f7b5a6a48d7e7ac3232d7b2395ef" title="net_srv_loop" alt="" coords="146,5,242,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#gacc59795fbaab5cf372ae163028e1d488" title="net_tx" alt="" coords="165,56,223,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga7392588ec28c54fca846bbdbe8042c7c" title="client_write_loop" alt="" coords="135,107,253,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gaf776e7cdffa19de316b9479c0cef8a3d" title="thread_loop" alt="" coords="149,157,239,184"/>
+</map>

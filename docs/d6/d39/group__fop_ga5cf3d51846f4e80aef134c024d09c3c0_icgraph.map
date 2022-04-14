@@ -1,0 +1,11 @@
+<map id="m0_fop_put0_lock" name="m0_fop_put0_lock">
+<area shape="rect" id="node2" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#aa802eb00f775a1ebad152d0b1af2832a" title="remote_invocation_async" alt="" coords="189,5,360,32"/>
+<area shape="rect" id="node3" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#ade352c5ea0b5126868278a9c6a0ffcdc" title="test_remote_waiting" alt="" coords="416,31,555,57"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a03549b0e97c77a3326b1e598a4851602" title="cc_bottom_half" alt="" coords="219,107,330,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="221,157,328,184"/>
+<area shape="rect" id="node6" href="$d8/d2b/inode_8c.html#ac7e312a612e3ecb1c1e22270add4715f" title="m0t1fs_root_iget" alt="" coords="215,208,334,235"/>
+<area shape="rect" id="node7" href="$d2/d1d/super_8c.html#a6cb65c11747862e834eca677b4d5425f" title="m0t1fs_root_alloc" alt="" coords="423,233,548,260"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#aa0d69538b154bfb2da46a20887dd5f9a" title="rootfid_lookup" alt="" coords="223,309,326,336"/>
+<area shape="rect" id="node9" href="$dc/d83/io__req__fop_8c.html#a6897cfe7356b9f9d30aa63db369193f1" title="ioreq_cc_bottom_half" alt="" coords="201,360,348,387"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#gab9dbfbdc489127208cfa56df74119d38" title="spiel__pool_cmd_status_get" alt="" coords="181,411,368,437"/>
+</map>

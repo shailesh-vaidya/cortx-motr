@@ -1,0 +1,16 @@
+<map id="__conn_init" name="__conn_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="341,144,524,171"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga6183517ca5a757f1d0f92dbdf2de2d93" title="m0_rpc_conn_is_snd" alt="" coords="145,43,290,69"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gab3904ada342561f647d6794770c8c531" title="m0_rpc_conn_is_rcv" alt="" coords="146,93,289,120"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga39134b1cdc6be4e6ce390195eaeec22d" title="rpc_chan_get" alt="" coords="167,144,267,171"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="399,279,466,305"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="168,245,267,272"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga3601d170977b90a066e6c59f119b10ed" title="rpc_conn__on_service\l_event_cb" alt="" coords="141,297,293,338"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga80e68093fff80af547362ee271a11891" title="__conn_ha_subscribe" alt="" coords="143,480,291,507"/>
+<area shape="rect" id="node10" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="381,505,484,532"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga42a766cdf48df3f999f6bbecb3b3ebec" title="rpc_conn__on_cache\l_expired_cb" alt="" coords="145,633,290,674"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga59af65a8c2ecf666a527afc4d3b494f9" title="rpc_conn__on_cache\l_ready_cb" alt="" coords="145,414,290,455"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="151,581,284,608"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#gaab2d3a0fa97620bb1727723631b339eb" title="session_zero_attach" alt="" coords="146,195,289,221"/>
+<area shape="rect" id="node15" href="$df/db4/group__rpc__session.html#gaac498e568abefc231e8dee9c578d82af" title="__conn_fini" alt="" coords="173,699,261,725"/>
+</map>

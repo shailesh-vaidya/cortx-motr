@@ -1,0 +1,13 @@
+<map id="m0_trace_parse" name="m0_trace_parse">
+<area shape="rect" id="node2" href="$d8/d98/group__trace.html#ga4669a848ea662ec772d3121c5d9b7ed0" title="read_trace_buf_header" alt="" coords="184,5,339,32"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#gafbe3eef052ed270f21ee8fae502f625d" title="print_trace_buf_header" alt="" coords="184,56,339,83"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#ga31fd2d001b4350761de357f61d6c79bf" title="calc_trace_descr_offset" alt="" coords="181,107,341,133"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#ga05581a08fa6bc7ad69bf2becc17e79e4" title="calc_extra_trace_descr\l_offsets" alt="" coords="183,158,340,199"/>
+<area shape="rect" id="node6" href="$d8/d98/group__trace.html#ga8078d43680ef60bece73a72107708e2a" title="align" alt="" coords="237,224,286,251"/>
+<area shape="rect" id="node7" href="$da/dd3/group__cookie.html#ga9efb115682291c6586184d77ea05b32f" title="m0_addr_is_sane_and\l_aligned" alt="" coords="185,275,337,317"/>
+<area shape="rect" id="node8" href="$d8/d98/group__trace.html#ga153715a664a00989b61c955b78a37ed9" title="patch_trace_descr" alt="" coords="197,341,326,368"/>
+<area shape="rect" id="node9" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="224,392,299,419"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="224,443,299,469"/>
+<area shape="rect" id="node11" href="$d8/d98/group__trace.html#gaa5207beb323bf3cc22ac7bc065bb695e" title="m0_trace_record_print_yaml" alt="" coords="168,493,355,520"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="227,544,296,571"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_thread_init" name="m0_thread_init">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="210,5,249,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="162,56,297,83"/>
+<area shape="rect" id="node4" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="197,107,262,133"/>
+<area shape="rect" id="node5" href="$db/d41/group__kthread.html#ga957e1c4f128cf1c133491b5d2c894cb0" title="m0_thread_init_impl" alt="" coords="160,157,299,184"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="347,233,496,260"/>
+<area shape="rect" id="node7" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="174,259,285,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="162,309,297,336"/>
+</map>

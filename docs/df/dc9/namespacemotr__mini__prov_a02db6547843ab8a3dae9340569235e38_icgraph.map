@@ -1,0 +1,17 @@
+<map id="check_type" name="check_type">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a1a8c0925e5938653b866eba174e57390" title="get_server_node" alt="" coords="169,5,287,32"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#a75a4385607a43d23ed773b694a51bd21" title="get_value" alt="" coords="189,56,267,83"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#a656812baea7961ef028dd381d5c30f55" title="get_logical_node_class" alt="" coords="149,107,307,133"/>
+<area shape="rect" id="node5" href="$df/dc9/namespacemotr__mini__prov.html#afa79f3593cb34fa6440b74ae5b32ef60" title="get_storage" alt="" coords="183,157,273,184"/>
+<area shape="rect" id="node6" href="$df/dc9/namespacemotr__mini__prov.html#a2cf7f55269657853985373d72be2f100" title="is_hw_node" alt="" coords="183,208,273,235"/>
+<area shape="rect" id="node7" href="$df/dc9/namespacemotr__mini__prov.html#a416cbdcc1b34801e91e51de217a7b33e" title="motr_config" alt="" coords="385,233,476,260"/>
+<area shape="rect" id="node8" href="$df/dc9/namespacemotr__mini__prov.html#a33916870b52290e831686443e3e6b88c" title="validate_motr_rpm" alt="" coords="163,309,293,336"/>
+<area shape="rect" id="node9" href="$df/dc9/namespacemotr__mini__prov.html#a2ba836ec727c4d77c4d71a7a05665173" title="configure_net" alt="" coords="178,360,278,387"/>
+<area shape="rect" id="node10" href="$df/dc9/namespacemotr__mini__prov.html#a8620496a9e457764e57d1b3006329f65" title="get_cvg_cnt_and_cvg" alt="" coords="153,512,303,539"/>
+<area shape="rect" id="node11" href="$df/dc9/namespacemotr__mini__prov.html#a4fe2794b6a0a9df5339ad95f084abcc0" title="config_lvm" alt="" coords="388,428,473,455"/>
+<area shape="rect" id="node12" href="$df/dc9/namespacemotr__mini__prov.html#a10710e706a2f96d166e111509061ca49" title="get_metadata_disks\l_count" alt="" coords="361,482,500,523"/>
+<area shape="rect" id="node13" href="$df/dc9/namespacemotr__mini__prov.html#a54465744b156a6524e4ce28a67ba45cf" title="get_vol_grps" alt="" coords="383,552,479,579"/>
+<area shape="rect" id="node14" href="$df/dc9/namespacemotr__mini__prov.html#a26c20be2282c672d1f0bd906f3b69f7e" title="part_clean" alt="" coords="389,611,472,637"/>
+<area shape="rect" id="node15" href="$df/dc9/namespacemotr__mini__prov.html#ac3ad9183feeac19e12d56f013b1a5f4a" title="validate_storage_schema" alt="" coords="143,664,313,691"/>
+<area shape="rect" id="node16" href="$df/dc9/namespacemotr__mini__prov.html#a636b6ea539d9eb1eb0d1230a0fab6a2e" title="get_cvg_cnt_and_cvg_k8" alt="" coords="143,715,313,741"/>
+</map>

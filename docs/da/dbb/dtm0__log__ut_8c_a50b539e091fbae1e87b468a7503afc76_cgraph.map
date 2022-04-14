@@ -1,0 +1,19 @@
+<map id="persistent_log_operate" name="persistent_log_operate">
+<area shape="rect" id="node2" href="$da/dbb/dtm0__log__ut_8c.html#ae474731d7edf111be7fc63d9d0b00c7a" title="ut_dl_init" alt="" coords="253,5,327,32"/>
+<area shape="rect" id="node3" href="$da/dbb/dtm0__log__ut_8c.html#a7e70dac70b1a716d4c2981773ea96a2d" title="p_state_set" alt="" coords="245,56,335,83"/>
+<area shape="rect" id="node4" href="$de/d0c/group___d_t_m0_internals.html#gacdfaf624e36afd93d2b40bc24cdf3954" title="m0_be_dtm0_log_credit" alt="" coords="421,313,581,340"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="229,173,351,200"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="235,224,345,251"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="215,275,365,301"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="233,325,347,352"/>
+<area shape="rect" id="node9" href="$de/d0c/group___d_t_m0_internals.html#ga872a9d11682e621c3a3a1310043d7831" title="m0_be_dtm0_log_update" alt="" coords="207,427,373,453"/>
+<area shape="rect" id="node10" href="$de/d0c/group___d_t_m0_internals.html#gae3672a41d2c340a18f93a380b8493dfd" title="m0_be_dtm0_log_find" alt="" coords="427,491,576,517"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="226,477,354,504"/>
+<area shape="rect" id="node12" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="214,528,366,555"/>
+<area shape="rect" id="node13" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="239,579,341,605"/>
+<area shape="rect" id="node14" href="$da/dbb/dtm0__log__ut_8c.html#a0d3c3881fbd13e586dfb3e1d64bb75bb" title="ut_dl_verify_log_rec" alt="" coords="221,629,359,656"/>
+<area shape="rect" id="node15" href="$de/d0c/group___d_t_m0_internals.html#ga882842ba941e09db7efa4b3d6d886d09" title="m0_be_dtm0_plog_can\l_prune" alt="" coords="212,107,368,149"/>
+<area shape="rect" id="node16" href="$de/d0c/group___d_t_m0_internals.html#ga5e44c21f5dc0bec803c9574157d522fa" title="m0_be_dtm0_plog_prune" alt="" coords="207,731,373,757"/>
+<area shape="rect" id="node17" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="255,781,325,808"/>
+<area shape="rect" id="node18" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="245,832,335,859"/>
+</map>

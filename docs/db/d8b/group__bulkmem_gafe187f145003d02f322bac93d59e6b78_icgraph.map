@@ -1,0 +1,8 @@
+<map id="mem_buffer_to_pvt" name="mem_buffer_to_pvt">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#gae079b1870dbd5c51ab44984b55edb7a7" title="mem_buffer_to_wi" alt="" coords="196,5,324,32"/>
+<area shape="rect" id="node3" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="187,157,333,184"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga3c17bb5fedb83438ec9d672c58de6574" title="mem_xo_buf_register" alt="" coords="389,63,535,89"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#gade41d37ff635e67ee0041987c682acce" title="mem_xo_buf_deregister" alt="" coords="381,120,543,147"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#ga27b13e48eb50f66be75551a41296247e" title="mem_xo_buf_add" alt="" coords="399,183,525,209"/>
+<area shape="rect" id="node7" href="$db/d8b/group__bulkmem.html#ga3822e07349181a0d2e1612d4e47909c7" title="mem_xo_buf_del" alt="" coords="401,245,523,272"/>
+</map>

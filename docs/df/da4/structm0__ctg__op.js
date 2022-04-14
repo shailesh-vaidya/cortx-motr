@@ -1,0 +1,25 @@
+var structm0__ctg__op =
+[
+    [ "co_anchor", "df/da4/structm0__ctg__op.html#afd1b2d07387ee863fc09dcabbf2ebb74", null ],
+    [ "co_beop", "df/da4/structm0__ctg__op.html#a0a41db57faefb42e4a9f84f54fe13975", null ],
+    [ "co_channel", "df/da4/structm0__ctg__op.html#ac7e993ce6c3eb5feb996788455126505", null ],
+    [ "co_channel_lock", "df/da4/structm0__ctg__op.html#a15fca0080662dde5c264ac1344f076b2", null ],
+    [ "co_clink", "df/da4/structm0__ctg__op.html#a8b58ff09496c2f0441b8fb81afee6bf0", null ],
+    [ "co_cnt", "df/da4/structm0__ctg__op.html#a756a9ed0fab541f40d738ce256b365b2", null ],
+    [ "co_ct", "df/da4/structm0__ctg__op.html#a4733cbd943ff56370537d98c538912a0", null ],
+    [ "co_ctg", "df/da4/structm0__ctg__op.html#a45c420eb629c092f971096e7fb132ee2", null ],
+    [ "co_cur", "df/da4/structm0__ctg__op.html#a881cf936e45e526134c0565c0dafec88", null ],
+    [ "co_cur_initialised", "df/da4/structm0__ctg__op.html#a4b7d3283f04c8d3775a57482ec78d2b6", null ],
+    [ "co_cur_phase", "df/da4/structm0__ctg__op.html#a8a32af22c9b398091faa8d217c864c82", null ],
+    [ "co_flags", "df/da4/structm0__ctg__op.html#a9f7850e6f7000a92d5bc67c4dea3fdfa", null ],
+    [ "co_fom", "df/da4/structm0__ctg__op.html#a07eb279e9adc2cf64fc649774bf76b37", null ],
+    [ "co_is_versioned", "df/da4/structm0__ctg__op.html#ab6b179d47425c0d670a3ca1ed4d32fb3", null ],
+    [ "co_key", "df/da4/structm0__ctg__op.html#a2498521d305456abe31b1059c6a1a759", null ],
+    [ "co_mem_buf", "df/da4/structm0__ctg__op.html#ac2d8825fb78956702fafa020251c045a", null ],
+    [ "co_opcode", "df/da4/structm0__ctg__op.html#a6bd003c80b9b7caa9cbb46508f1ce5cf", null ],
+    [ "co_out_key", "df/da4/structm0__ctg__op.html#add711e7c95cf57ab242e1e509aa34e8f", null ],
+    [ "co_out_val", "df/da4/structm0__ctg__op.html#a8b7ce03d5ec29b18259147d278f8ea13", null ],
+    [ "co_out_ver", "df/da4/structm0__ctg__op.html#a763496886a502f59be004dca4c96e5ea", null ],
+    [ "co_rc", "df/da4/structm0__ctg__op.html#ac1d419b66e3bdff18d05bb6f55a29a7e", null ],
+    [ "co_val", "df/da4/structm0__ctg__op.html#a3bfe39b64faabe5dd78f751d5e5975ae", null ]
+];

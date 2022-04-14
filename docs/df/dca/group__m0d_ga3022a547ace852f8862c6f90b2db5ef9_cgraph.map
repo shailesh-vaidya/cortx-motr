@@ -1,0 +1,5 @@
+<map id="cs_ha_init" name="cs_ha_init">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#ga6bfd0d84fea3da9ef06f0d2da6a41384" title="m0_motr_to_rmach" alt="" coords="135,5,269,32"/>
+<area shape="rect" id="node3" href="$d1/df2/group__motr.html#ga8f7710ec3922b48b74001282bc656fba" title="m0_motr_ha_init" alt="" coords="143,56,261,83"/>
+<area shape="rect" id="node4" href="$d1/df2/group__motr.html#ga43798771029bed122aa49a6582006c7a" title="m0_motr_ha_start" alt="" coords="139,107,265,133"/>
+</map>

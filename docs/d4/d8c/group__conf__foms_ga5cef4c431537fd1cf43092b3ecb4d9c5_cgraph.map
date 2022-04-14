@@ -1,0 +1,10 @@
+<map id="conf_fom_conf_file_save" name="conf_fom_conf_file_save">
+<area shape="rect" id="node2" href="$d7/d67/load__fop_8c.html#ad271509c2c6ee0490af9f4169065f2ce" title="m0_conf_fop_to_load_fop" alt="" coords="220,5,391,32"/>
+<area shape="rect" id="node3" href="$d7/d67/load__fop_8c.html#a9d49cf69a40034ae5f4e72bf9fafb93d" title="m0_conf_fop_to_load\l_fop_rep" alt="" coords="232,57,379,98"/>
+<area shape="rect" id="node4" href="$d7/de5/group__confd__stob.html#gaf2ceedc9f1c4c88d9f5765f4cf7a2dff" title="m0_conf_stob_location\l_generate" alt="" coords="227,174,383,215"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="439,152,508,179"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="440,240,507,267"/>
+<area shape="rect" id="node7" href="$d7/de5/group__confd__stob.html#gadbe5ae0b9837be54a19b5ecb8a17b968" title="m0_confd_stob_init" alt="" coords="238,291,373,317"/>
+<area shape="rect" id="node8" href="$d7/de5/group__confd__stob.html#ga98f27d26121aa116c2131bfb6743dbee" title="m0_confd_stob_bufvec\l_write" alt="" coords="227,342,384,383"/>
+<area shape="rect" id="node9" href="$d7/de5/group__confd__stob.html#gab14cfe0e881c0410d4c354e5287dd0db" title="m0_confd_stob_fini" alt="" coords="238,408,373,435"/>
+</map>

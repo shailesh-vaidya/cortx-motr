@@ -1,0 +1,7 @@
+<map id="rm_ctx_server_stop" name="rm_ctx_server_stop">
+<area shape="rect" id="node2" href="$d2/dab/file_2ut_2file_8c.html#a6d5352b15b2ab1b027927e5c23f12367" title="flock_utfini" alt="" coords="231,5,316,32"/>
+<area shape="rect" id="node3" href="$de/d51/ut_2rm__rwlock_8c.html#af7200f874fc846e058efddbc52a28855" title="rwlock_servers_disc_fini" alt="" coords="191,56,356,83"/>
+<area shape="rect" id="node4" href="$db/d70/group_8c.html#a76bbbe0758f72a7da79d7566e1042c01" title="rm_group_utfini" alt="" coords="218,107,329,133"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#ae0564774909d39e6a26d505262673aca" title="remote_credits_utfini" alt="" coords="202,157,345,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#ab0e85636793971e4b8f4569aefc3ed76" title="rm_server_restart" alt="" coords="211,208,335,235"/>
+</map>

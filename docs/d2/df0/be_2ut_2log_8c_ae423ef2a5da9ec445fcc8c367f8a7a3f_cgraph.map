@@ -1,0 +1,5 @@
+<map id="be_ut_log_curr_pos_check" name="be_ut_log_curr_pos_check">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga021adc464a874f14e545275df6b6ef0d" title="m0_be_log_record_iter_init" alt="" coords="188,5,365,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga9ac8337f43c985f004578057c7048a7d" title="m0_be_log_record_initial" alt="" coords="194,56,359,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga31b7900df5cb58581cae3cc8bdb914a3" title="m0_be_log_record_iter_fini" alt="" coords="188,107,365,133"/>
+</map>

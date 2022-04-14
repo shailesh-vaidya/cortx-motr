@@ -1,0 +1,9 @@
+<map id="pdclust_layout_buf_compare" name="pdclust_layout_buf_compare">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#gaa87d0f5d58a435ae036044bab9ea4661" title="enum_id" alt="" coords="223,5,294,32"/>
+<area shape="rect" id="node3" href="$d6/de4/layout_2ut_2layout_8c.html#a81b03e03f35edddbe48a7d443c980aa7" title="lbuf_compare" alt="" coords="209,157,309,184"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gad481d7c4ffe49912e0cca7c0262baa0b" title="m0_bufvec_cursor_step" alt="" coords="381,259,543,285"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="381,157,543,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="591,132,759,159"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#ad0ef557f3414acec31c998762a78374f" title="pdclust_lbuf_compare" alt="" coords="184,208,333,235"/>
+<area shape="rect" id="node8" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="217,309,300,336"/>
+</map>

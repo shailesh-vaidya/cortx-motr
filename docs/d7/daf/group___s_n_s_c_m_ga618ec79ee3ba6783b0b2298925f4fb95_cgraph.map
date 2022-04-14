@@ -1,0 +1,9 @@
+<map id="m0_sns_cm_buf_attach" name="m0_sns_cm_buf_attach">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga60190d4a5007815fc981afc9bf2c6b25" title="cp_home_loc_helper" alt="" coords="227,5,369,32"/>
+<area shape="rect" id="node3" href="$d7/daf/group___s_n_s_c_m.html#gaa037bb4063b506b52774dcd407aec354" title="m0_sns_cm_cp_buf_nr" alt="" coords="219,56,377,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="215,107,381,133"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#gaa8c14adc06d2f27b7c0f5ec2e97ccda5" title="m0_cm_buffer_get" alt="" coords="233,157,363,184"/>
+<area shape="rect" id="node6" href="$d0/d80/group___c_p.html#ga01291de7595821dccf3fe202c3ff6ac7" title="m0_cm_cp_buf_add" alt="" coords="229,208,367,235"/>
+<area shape="rect" id="node7" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="231,259,365,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="265,325,331,352"/>
+</map>

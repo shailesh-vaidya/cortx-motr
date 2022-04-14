@@ -1,0 +1,16 @@
+<map id="emap_rwlock" name="emap_rwlock">
+<area shape="rect" id="node2" href="$d2/de0/group__extmap.html#ga01aecec6d0c3ba8ba78adf0639c48d20" title="emap_dump" alt="" coords="193,114,286,141"/>
+<area shape="rect" id="node3" href="$d2/de0/group__extmap.html#ga4aa11395b1cd543b40aee8f3f84684d8" title="be_emap_invariant" alt="" coords="375,146,505,173"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#gaef9fe83257f6cb4c8a58dde8fa6acf01" title="m0_be_emap_lookup" alt="" coords="553,45,699,72"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#ga5ef26d989b890818ee151b56d2ef3112" title="m0_be_emap_merge" alt="" coords="555,128,697,154"/>
+<area shape="rect" id="node6" href="$d2/de0/group__extmap.html#ga9754ad1886bcd8ffd47d2afc2b7d8bd1" title="m0_be_emap_split" alt="" coords="561,190,691,217"/>
+<area shape="rect" id="node7" href="$d2/de0/group__extmap.html#gacb42370decd15c6a360bcc3b311ea67d" title="m0_be_emap_paste" alt="" coords="557,241,695,268"/>
+<area shape="rect" id="node8" href="$d2/de0/group__extmap.html#ga3564f279f9cbb9110e4ee9ab43e9374a" title="m0_be_emap_dump" alt="" coords="170,317,309,344"/>
+<area shape="rect" id="node9" href="$d2/de0/group__extmap.html#ga3d5f8012ff20d719be1978cc6dd902f8" title="m0_be_emap_init" alt="" coords="177,368,301,394"/>
+<area shape="rect" id="node10" href="$d2/de0/group__extmap.html#ga8f0d3613057f39213886e3c6f93ab437" title="m0_be_emap_fini" alt="" coords="177,418,301,445"/>
+<area shape="rect" id="node11" href="$d2/de0/group__extmap.html#ga65a9dc702ff3cb187efa5fdaab637f35" title="m0_be_emap_next" alt="" coords="173,469,305,496"/>
+<area shape="rect" id="node12" href="$d2/de0/group__extmap.html#ga7a37f48697ebfcd7d0885cabbbb7fa1f" title="m0_be_emap_prev" alt="" coords="173,520,305,546"/>
+<area shape="rect" id="node13" href="$d2/de0/group__extmap.html#gabbf7208fd0311e6a0ab452776bb7a7bc" title="m0_be_emap_obj_insert" alt="" coords="158,570,321,597"/>
+<area shape="rect" id="node14" href="$d2/de0/group__extmap.html#gad74b078a62b00dd0db68133c8627392d" title="m0_be_emap_obj_delete" alt="" coords="156,621,323,648"/>
+<area shape="rect" id="node15" href="$d2/de0/group__extmap.html#ga94c1dfe136c52a857c424afeac92e039" title="m0_be_emap_caret_move" alt="" coords="152,672,327,698"/>
+</map>

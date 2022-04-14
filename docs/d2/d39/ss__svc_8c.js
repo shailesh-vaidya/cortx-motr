@@ -1,0 +1,35 @@
+var ss__svc_8c =
+[
+    [ "ss_svc", "de/d15/structss__svc.html", "de/d15/structss__svc" ],
+    [ "ss_fom", "dd/dbe/structss__fom.html", "dd/dbe/structss__fom" ],
+    [ "M0_TRACE_SUBSYSTEM", "d2/d39/ss__svc_8c.html#ae762ad8776496e788bf62e0fa1615b61", null ],
+    [ "ss_fom_stage", "d2/d39/ss__svc_8c.html#ac12de5b096927cfa62dce38926e29940", [
+      [ "SS_FOM_STAGE_BEFORE_TX", "d2/d39/ss__svc_8c.html#ac12de5b096927cfa62dce38926e29940abd8577c94f9e0be8a4e0269b6c47b4cc", null ],
+      [ "SS_FOM_STAGE_AFTER_TX", "d2/d39/ss__svc_8c.html#ac12de5b096927cfa62dce38926e29940a2a1b87a0e0af7ea2e30923f428183260", null ]
+    ] ],
+    [ "m0_ss_svc_fini", "d9/d76/group__ss__svc.html#gadcc793bcb0ba5486fa2a7f4777d68422", null ],
+    [ "m0_ss_svc_init", "d9/d76/group__ss__svc.html#gaf0dbb4a7dcfa15c8d954e67f1344bca1", null ],
+    [ "ss_fom_create", "d2/d39/ss__svc_8c.html#aee83601720adf40557b5ea5141121cf0", null ],
+    [ "ss_fom_fini", "d2/d39/ss__svc_8c.html#ad34da066474e45546b9c549eb109eccc", null ],
+    [ "ss_fom_home_locality", "d2/d39/ss__svc_8c.html#a25c334f8280ec26ead61b1e08628c018", null ],
+    [ "ss_fom_tick", "d2/d39/ss__svc_8c.html#af7d86f9a59eafd5d6e5b0d09fac2009c", null ],
+    [ "ss_fom_tick__init", "d2/d39/ss__svc_8c.html#a2b5e546daf262d73a036f2b57cbba1d4", null ],
+    [ "ss_fom_tick__quiesce", "d2/d39/ss__svc_8c.html#a744b4ecf346c50286d764dd77ecd007a", null ],
+    [ "ss_fom_tick__start", "d2/d39/ss__svc_8c.html#a0c6d5d9deca7cd172cc5f4cfc4867ea4", null ],
+    [ "ss_fom_tick__stop", "d2/d39/ss__svc_8c.html#a647397d3c7ef6b56a2f73e2424212fe2", null ],
+    [ "ss_fom_tick__svc_alloc", "d2/d39/ss__svc_8c.html#a849358a0b92877c90bad65c89ee2720a", null ],
+    [ "ss_svc_health", "d2/d39/ss__svc_8c.html#a3a37cb0b1e620a3ef43f021b905038cf", null ],
+    [ "ss_svc_rso_fini", "d2/d39/ss__svc_8c.html#a283dd473d7119ac3b56405235480b7d8", null ],
+    [ "ss_svc_rso_health", "d2/d39/ss__svc_8c.html#a8100ac8578786f28e29f472c8845931d", null ],
+    [ "ss_svc_rso_start", "d2/d39/ss__svc_8c.html#ae3c2033a0280391abb2eef0b48162c70", null ],
+    [ "ss_svc_rso_stop", "d2/d39/ss__svc_8c.html#a9c4ea4e4b3e22d8131a94c5932d36a4c", null ],
+    [ "ss_svc_rsto_service_allocate", "d2/d39/ss__svc_8c.html#a6fc84ac5e7c413eef687fbaa4806a439", null ],
+    [ "m0_ss_svc_type", "df/dca/group__m0d.html#ga95c63f9dfba4c6d7e1a47748fb99b0c5", null ],
+    [ "M0_XCA_DOMAIN", "d2/d39/ss__svc_8c.html#a359cfc74b8fcd722eb6af5247bbd39ca", null ],
+    [ "ss_fom_conf", "d2/d39/ss__svc_8c.html#af8fc8d7b791fa9e0d832642639b5119f", null ],
+    [ "ss_fom_ops", "d2/d39/ss__svc_8c.html#a4cdd7756e7f5e61d59bffc6cb8182aea", null ],
+    [ "ss_fom_phases", "d2/d39/ss__svc_8c.html#af0e47fe51cb735e2815675802bb009b9", null ],
+    [ "ss_fom_type_ops", "d2/d39/ss__svc_8c.html#a4baccb3b340ec388d0300028fe526c84", null ],
+    [ "ss_svc_ops", "d2/d39/ss__svc_8c.html#a61077a0dafc682c51ce9fc21cbe5147c", null ],
+    [ "ss_svc_type_ops", "d2/d39/ss__svc_8c.html#a7d795f3ea9ca6f4d76279b6b9ec0e133", null ]
+];

@@ -1,0 +1,11 @@
+<map id="confc_lock" name="confc_lock">
+<area shape="rect" id="node2" href="$d0/dca/group__confc__dfspec.html#gaca2a7aaa70089b679e339d17a4f6f285" title="m0_confc_reconnect" alt="" coords="154,5,297,32"/>
+<area shape="rect" id="node3" href="$d0/dca/group__confc__dfspec.html#ga6b9eb7acc491a6c99652596ebf10d5b1" title="m0_confc_init_wait" alt="" coords="158,56,293,83"/>
+<area shape="rect" id="node4" href="$d0/dca/group__confc__dfspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="161,107,289,133"/>
+<area shape="rect" id="node5" href="$d0/dca/group__confc__dfspec.html#gae63990a2b05b1ea540711250c34cf96b" title="m0_confc_ctx_fini_locked" alt="" coords="139,157,312,184"/>
+<area shape="rect" id="node6" href="$d0/dca/group__confc__dfspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="167,208,284,235"/>
+<area shape="rect" id="node7" href="$d0/dca/group__confc__dfspec.html#gac29f7f13b3453fbf03379a823a4307c3" title="m0_confc_readdir" alt="" coords="163,259,288,285"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#ga716b2f3de55a8615d63dc8fc99bb51e7" title="conf_obj_status_reset" alt="" coords="150,309,301,336"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#gaf74d5792e5a5d800e9d5e6d7fcfa61b0" title="path_walk" alt="" coords="185,360,266,387"/>
+<area shape="rect" id="node10" href="$d5/d25/group__confc__dlspec.html#ga4a0aea81b8374bdd06bdf0f8f7d529a1" title="cache_grow" alt="" coords="179,411,271,437"/>
+</map>

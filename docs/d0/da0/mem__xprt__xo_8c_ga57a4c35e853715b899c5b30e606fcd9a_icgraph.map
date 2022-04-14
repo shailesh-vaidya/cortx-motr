@@ -1,0 +1,12 @@
+<map id="mem_dom_invariant" name="mem_dom_invariant">
+<area shape="rect" id="node2" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="218,5,365,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#ga3c17bb5fedb83438ec9d672c58de6574" title="mem_xo_buf_register" alt="" coords="439,44,585,71"/>
+<area shape="rect" id="node4" href="$d0/da0/mem__xprt__xo_8c.html#gab72e9884ac5e58f9f730c4ec5257ccd3" title="mem_tm_invariant" alt="" coords="227,107,356,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga56e50c8739fca14332939695434e306f" title="mem_xo_tm_init" alt="" coords="453,120,571,147"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#gacbb7483446dab006b8f0fd25a057619c" title="mem_xo_dom_init" alt="" coords="227,208,355,235"/>
+<area shape="rect" id="node7" href="$db/d8b/group__bulkmem.html#gaa4c185c2db8eb22bcaf20f6912c34bb7" title="mem_xo_dom_fini" alt="" coords="227,259,355,285"/>
+<area shape="rect" id="node8" href="$db/d8b/group__bulkmem.html#ga27ee77565f1c566197e69d3828e45acf" title="mem_xo_get_max_buffer_size" alt="" coords="192,309,391,336"/>
+<area shape="rect" id="node9" href="$db/d8b/group__bulkmem.html#ga659edf4b4484422a02684e5bbc7b31d1" title="mem_xo_get_max_buffer\l_segment_size" alt="" coords="207,361,375,402"/>
+<area shape="rect" id="node10" href="$db/d8b/group__bulkmem.html#ga83110e0daa0eee2a112ac6fc8a18ae6b" title="mem_xo_get_max_buffer\l_segments" alt="" coords="207,426,375,467"/>
+<area shape="rect" id="node11" href="$db/d8b/group__bulkmem.html#gadca16b2a495335815170b3d69c135e9c" title="mem_xo_get_max_buffer\l_desc_size" alt="" coords="207,491,375,533"/>
+</map>

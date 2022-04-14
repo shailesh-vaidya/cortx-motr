@@ -1,0 +1,11 @@
+<map id="m0_rpc_session_validate" name="m0_rpc_session_validate">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a77b054aeba2f4d0f1ac1a7ed7147c958" title="cob_ios_prepare" alt="" coords="257,5,374,32"/>
+<area shape="rect" id="node3" href="$d7/d9a/motr_2cob_8c.html#af981bb99b95ee07ff2a9064873c3af8d" title="cob_mds_send" alt="" coords="260,56,371,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a439ab2e1f721fb44a64b33d2b8de7feb" title="m0t1fs_mds_cob_op" alt="" coords="244,107,387,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a65f948ee0b36c5623d5f075d4b4d18c1" title="m0t1fs_cob_getattr" alt="" coords="248,157,383,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="249,209,381,250"/>
+<area shape="rect" id="node7" href="$d9/de5/group__fis-dfspec.html#gadeedd0d20580f6c51cbe6e11b60ccd8c" title="m0_fi_command_post_sync" alt="" coords="223,275,408,301"/>
+<area shape="rect" id="node8" href="$df/d10/fsync_8h.html#ab04eddb722b1afb68cf9593c8ef9c72e" title="m0t1fs_fsync_request\l_create" alt="" coords="240,326,391,367"/>
+<area shape="rect" id="node9" href="$db/dc2/sync_8c.html#a1396a1c9db7f984ee58e836053df447b" title="sync_request_fop_send" alt="" coords="235,392,395,419"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="269,443,362,469"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="scan" name="scan">
+<area shape="rect" id="node2" href="$d7/d08/group__tlist.html#ga5b8488ce7ba7b6490fbb6b819fac7d24" title="magic" alt="" coords="153,5,211,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8dfa5f14a6f3be8b78f701fc2aed8701" title="nv_scan_offset_get" alt="" coords="115,56,249,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gab4dcf5672ce97c8e754ada5ecae66062" title="parse" alt="" coords="155,107,209,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga0ddc5509d838dd9c812eeb7afc6fcd89" title="isqempty" alt="" coords="308,183,383,209"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga1ecd91e100c2507880aeaa0349b26405" title="nv_scan_offset_update" alt="" coords="104,208,260,235"/>
+</map>

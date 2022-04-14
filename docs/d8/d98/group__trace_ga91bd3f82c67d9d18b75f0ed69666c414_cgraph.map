@@ -1,0 +1,9 @@
+<map id="m0_arch_trace_init" name="m0_arch_trace_init">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="440,205,565,232"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#gaafcfb9783fc06e399cf2273b325d6364" title="m0_trace_set_immediate_mask" alt="" coords="185,49,392,76"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#gab54f087cf3ab40aadbacdeeebe6fc098" title="m0_trace_set_level" alt="" coords="221,100,356,126"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#ga8f3d58df92299fd7ca37185d3646d4af" title="m0_trace_set_print\l_context" alt="" coords="222,151,355,192"/>
+<area shape="rect" id="node6" href="$db/dc9/group__arith.html#ga49cc6e76d2443fdb3cd22fbb6bf01dec" title="m0_is_po2" alt="" coords="460,281,545,308"/>
+<area shape="rect" id="node7" href="$d8/d98/group__trace.html#ga828b1e2b97c27a845cdacf0f7b5f510c" title="m0_trace_buf_header_init" alt="" coords="203,217,374,244"/>
+<area shape="rect" id="node8" href="$d8/d98/group__trace.html#gaa1218a3cf8f61ccb64303529687dde26" title="m0_trace_logbuf_size_set" alt="" coords="201,318,376,345"/>
+</map>

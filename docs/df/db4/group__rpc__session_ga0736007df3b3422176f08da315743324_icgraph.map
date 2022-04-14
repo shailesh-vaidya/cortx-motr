@@ -1,0 +1,8 @@
+<map id="m0_rpc_conn_ha_unsubscribe" name="m0_rpc_conn_ha_unsubscribe">
+<area shape="rect" id="node2" href="$de/d82/group__rpc__link.html#ga3b2a86c44bd03173e1a38bb4d864c2f0" title="rpc_link_conn_terminated" alt="" coords="252,5,423,32"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#ga3ad709d337a262e8e8095cf42a8254c7" title="rpc_link_conn_failure" alt="" coords="265,56,409,83"/>
+<area shape="rect" id="node4" href="$d7/d48/ut_2note_8c.html#a256b1e39a6e18b05833a6a032f641f02" title="test_ha_session_states" alt="" coords="257,107,417,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="262,157,413,184"/>
+<area shape="rect" id="node6" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="292,208,383,235"/>
+<area shape="rect" id="node7" href="$d9/dbf/ut_2item_8c.html#a8eb9d4f9b7c8b1d59e3927f611b79150" title="test_ha_notify" alt="" coords="285,259,389,285"/>
+</map>

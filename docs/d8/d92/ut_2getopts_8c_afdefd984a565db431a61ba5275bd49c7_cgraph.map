@@ -1,0 +1,8 @@
+<map id="test_getopts" name="test_getopts">
+<area shape="rect" id="node2" href="$da/db4/group__ut.html#ga1564b6abe99c89bae17361db23bc7b9c" title="m0_stream_redirect" alt="" coords="157,5,295,32"/>
+<area shape="rect" id="node3" href="$da/db4/group__ut.html#gad07123b1cdb1f45085dafd619b4099dd" title="m0_stream_restore" alt="" coords="159,56,293,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__getopts.html#gac1fbd0872d0a262ad592f979e7ee5bc7" title="m0_bcount_get" alt="" coords="171,107,281,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__getopts.html#gaa8e7d9fc70b74c911c739bb9d98987a5" title="m0_time_get" alt="" coords="177,157,275,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#gacfac2ac7f95e189a0202dca2335cc423" title="m0_time_seconds" alt="" coords="162,208,290,235"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#gae4c97bbded0d43d1a4536529d56bd2bb" title="m0_time_nanoseconds" alt="" coords="148,259,304,285"/>
+</map>

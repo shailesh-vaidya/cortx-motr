@@ -1,0 +1,8 @@
+<map id="m0_ctg_store" name="m0_ctg_store">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="148,145,230,223"/>
+<area shape="rect" id="node3" href="$dd/dc5/structm0__long__lock.html" title="{m0_long_lock\n||}" alt="" coords="138,300,240,377"/>
+<area shape="rect" id="node8" href="$d5/d1b/structm0__be__domain.html" title="{m0_be_domain\n||}" alt="" coords="264,300,375,377"/>
+<area shape="rect" id="node7" href="$d5/df2/structm0__cas__ctg.html" title="{m0_cas_ctg\n||}" alt="" coords="480,145,573,223"/>
+<area shape="rect" id="node5" href="$dd/d3f/structm0__ref.html" title="{m0_ref\n||}" alt="" coords="756,300,819,377"/>
+<area shape="rect" id="node6" href="$d7/d8e/structm0__cas__state.html" title="{m0_cas_state\n||}" alt="" coords="628,300,732,377"/>
+</map>

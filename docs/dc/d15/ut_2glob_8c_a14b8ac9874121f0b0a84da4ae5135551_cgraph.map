@@ -1,0 +1,6 @@
+<map id="test_conf_glob" name="test_conf_glob">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="167,5,312,32"/>
+<area shape="rect" id="node3" href="$de/dc6/group__conf__glob.html#ga8c1d268421921b514b7fe6b4dfd4841e" title="m0_conf_glob" alt="" coords="188,56,291,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="160,107,319,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="160,157,319,184"/>
+</map>

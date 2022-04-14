@@ -1,0 +1,15 @@
+<map id="session_machine" name="session_machine">
+<area shape="rect" id="node2" href="$d9/de5/group__fis-dfspec.html#gadeedd0d20580f6c51cbe6e11b60ccd8c" title="m0_fi_command_post_sync" alt="" coords="176,5,361,32"/>
+<area shape="rect" id="node3" href="$d5/d5d/ut_2cob__foms_8c.html#a4e9cb48570ebecca63b7f96362200ebc" title="cobfoms_fsync_send_fop" alt="" coords="183,56,354,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#a42804c787e2b7086f69b47a1eee94719" title="cobfoms_fsync_create\l_delete" alt="" coords="409,70,564,111"/>
+<area shape="rect" id="node5" href="$d1/d6d/bulkio__common_8h.html#a8b17851a49cd516634ca86b084e9c826" title="io_fsync_send_fop" alt="" coords="635,183,765,209"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="438,208,535,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="194,259,343,285"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#gacd66f9e6bb4c05211488d1b08145b2ac" title="m0_rpc__fop_post" alt="" coords="422,309,551,336"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#gaf9335bb6847b8de2d2b8f22db154525c" title="m0_rpc_session_establish" alt="" coords="612,335,788,361"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga2137152319e89cfa0230ea7c23568f7c" title="m0_rpc_session_reset" alt="" coords="192,411,345,437"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga4791c259b0df215a07f9bd5b8a2949cb" title="m0_rpc_session_fini" alt="" coords="198,461,339,488"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga117296ddaea9e3c4a6a8071722ea6db4" title="m0_rpc_session_timedwait" alt="" coords="179,512,359,539"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#ga9b7bac260c195f562191fc8132df0632" title="m0_rpc_session_establish\l_reply_received" alt="" coords="181,563,357,605"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#ga550efc902b854528d7db7dc86c4b2356" title="rpc_tick_ret" alt="" coords="223,629,314,656"/>
+</map>

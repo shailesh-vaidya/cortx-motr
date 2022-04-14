@@ -1,0 +1,8 @@
+<map id="m0_md_req_fom_create" name="m0_md_req_fom_create">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="246,5,321,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="245,56,321,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="399,183,513,209"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="249,157,318,184"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gad880caddbfb81a251493c2f973bbe4f6" title="m0_fop_reply_alloc" alt="" coords="216,208,351,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#gaa8d2269a41daa6b2913cf8b18eefbfcc" title="m0_fom_init" alt="" coords="237,259,330,285"/>
+</map>

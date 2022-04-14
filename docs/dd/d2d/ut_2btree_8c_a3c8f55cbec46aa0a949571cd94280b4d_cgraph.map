@@ -1,0 +1,14 @@
+<map id="truncate_tree" name="truncate_tree">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="186,5,275,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga385c366d0f032b242058c668d10e7cf7" title="m0_be_btree_destroy\l_credit" alt="" coords="157,57,304,98"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="170,123,291,149"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="175,173,286,200"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="156,224,305,251"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8258f5f6e81c5e307ab0be99c97aab22" title="btree_dbg_print" alt="" coords="175,275,286,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga29637426af6305c978a4554399e6094d" title="m0_be_btree_truncate" alt="" coords="155,325,306,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="357,351,447,377"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaf153feae23b3a66fe5f07b1707633a9b" title="m0_be_btree_is_empty" alt="" coords="152,427,309,453"/>
+<area shape="rect" id="node11" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="155,477,307,504"/>
+<area shape="rect" id="node12" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="179,528,282,555"/>
+<area shape="rect" id="node13" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="196,579,265,605"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m0_stob_domain_fini" name="m0_stob_domain_fini">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="205,5,367,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga3727151506b596cdf8e0430f84528f9a" title="m0_stob_type_by_dom_id" alt="" coords="199,56,373,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gac14d4e1e4a240454ca614f68158cec5b" title="m0_stob_type__dom_del" alt="" coords="203,107,369,133"/>
+<area shape="rect" id="node5" href="$de/d4f/group__stobcache.html#ga5594aa52d4cb2de8dc8fc6d39a6895cf" title="m0_stob_cache_fini" alt="" coords="217,157,355,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="251,208,321,235"/>
+</map>

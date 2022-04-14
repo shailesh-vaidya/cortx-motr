@@ -1,0 +1,13 @@
+<map id="m0_localities_fini" name="m0_localities_fini">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga06d4564f5ae52cb260906e0d610cb374" title="loc_glob" alt="" coords="213,5,283,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="389,31,454,57"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#gaf400f9f410ec499799e4e4b4b766c3bd" title="locality_data_free_all" alt="" coords="176,107,320,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga0ede3b55ca37b2f44f056271ffc8aab9" title="m0_fom_domain_fini" alt="" coords="177,157,319,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="387,183,456,209"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="191,259,305,285"/>
+<area shape="rect" id="node8" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="193,309,303,336"/>
+<area shape="rect" id="node9" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="195,360,301,387"/>
+<area shape="rect" id="node10" href="$d8/dec/group__locality.html#ga7f77a8593aa08ac1561cc6437fff4476" title="m0_locality_fini" alt="" coords="192,411,304,437"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="184,461,312,488"/>
+<area shape="rect" id="node12" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="368,487,475,513"/>
+</map>

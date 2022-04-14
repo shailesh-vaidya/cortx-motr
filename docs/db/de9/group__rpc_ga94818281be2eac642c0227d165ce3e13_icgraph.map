@@ -1,0 +1,5 @@
+<map id="m0_rpc_item_type_lookup" name="m0_rpc_item_type_lookup">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gafe5380a7101079e6d509bff287f0013c" title="rpcop" alt="" coords="255,5,310,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gafab0039e582c19943c6bc15ef526e88d" title="opcode_is_dup" alt="" coords="228,56,337,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaf853591d2d0b9a1e814de80ccacbe560" title="item_decode" alt="" coords="235,107,331,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="m0_be_allocator__invariant" name="m0_be_allocator__invariant">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="245,5,390,32"/>
+<area shape="rect" id="node3" href="$d9/d39/alloc_8c.html#a03823b3ea00c72a1917ef28f56f78d9a" title="be_alloc_chunk_invariant" alt="" coords="233,56,401,83"/>
+</map>

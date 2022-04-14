@@ -1,0 +1,13 @@
+<map id="owner_finalisation_check" name="owner_finalisation_check">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga6b63c1ac2023db214ce667ea5e24d89e" title="owner_smgrp_is_locked" alt="" coords="180,5,343,32"/>
+<area shape="rect" id="node3" href="$d3/deb/rm__internal_8h.html#ab96366ce7f29ec961dfe9f7d9e377625" title="owner_state" alt="" coords="395,360,488,387"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gacc7e67926b5a071ba8ea50761b95423f" title="owner_is_idle" alt="" coords="391,81,492,108"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga65fc1f9048af043f8900f7d34aec36e0" title="owner_state_set" alt="" coords="202,157,321,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga7c5da31d8d4c8b2fc3357b860059a93e" title="owner_has_loans" alt="" coords="200,208,323,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga277b9c3b2e98c422931752f569e631fc" title="cached_credits_clear" alt="" coords="189,259,334,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga274ff1090864ea5075753eede64ac00d" title="owner_cleanup" alt="" coords="207,56,316,83"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#gae4dbada5398f59889574f6c3025b79c7" title="owner_liquidate" alt="" coords="205,360,317,387"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gadd0e99a07234dbc54d6b9361543a3534" title="owner_invariant" alt="" coords="205,411,318,437"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga86286772a0918b87010a04cd863eb1e9" title="owner_is_liquidated" alt="" coords="193,461,329,488"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#ga3e6c9526eba9bc13c4588e6106cf8e22" title="owner_fail" alt="" coords="221,512,302,539"/>
+</map>

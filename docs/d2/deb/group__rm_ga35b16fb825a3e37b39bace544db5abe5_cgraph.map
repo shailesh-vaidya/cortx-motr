@@ -1,0 +1,8 @@
+<map id="m0_rm_credit_get" name="m0_rm_credit_get">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="187,5,322,32"/>
+<area shape="rect" id="node3" href="$d3/deb/rm__internal_8h.html#ab96366ce7f29ec961dfe9f7d9e377625" title="owner_state" alt="" coords="208,56,301,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gaef0d2623aa51b6318ab37be3984f4d90" title="incoming_queue" alt="" coords="197,107,313,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gae56190c5be13ee53999a7e13243497be" title="incoming_complete" alt="" coords="187,157,322,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="377,183,467,209"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="180,259,329,285"/>
+</map>

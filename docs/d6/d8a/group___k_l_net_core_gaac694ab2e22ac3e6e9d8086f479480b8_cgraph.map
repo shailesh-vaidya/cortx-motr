@@ -1,0 +1,10 @@
+<map id="nlx_kcore_buf_msg_send" name="nlx_kcore_buf_msg_send">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga530692bcf0e267d1a08e8faced4528a4" title="nlx_kcore_tm_invariant" alt="" coords="437,93,593,120"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="431,17,598,44"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#ga4325e75464380d034b8f89bbaafdb6e7" title="nlx_kcore_buffer_invariant" alt="" coords="428,181,601,208"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#gaceaa27686a38224fa4043f3e2980f37d" title="nlx_kcore_umd_init" alt="" coords="235,42,369,69"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#ga9d2eaa104e741b2c16d3ae8549e97eb7" title="nlx_kcore_kiov_adjust\l_length" alt="" coords="227,144,377,186"/>
+<area shape="rect" id="node7" href="$d8/de0/group___l_net_core.html#gabc028f669de40e37950aabfef085c410" title="nlx_core_match_bits\l_encode" alt="" coords="231,327,373,368"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#gac5c31f78af7ad66e963caf3c219c3cc7" title="nlx_kcore_kiov_restore\l_length" alt="" coords="224,262,380,303"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="269,393,335,420"/>
+</map>

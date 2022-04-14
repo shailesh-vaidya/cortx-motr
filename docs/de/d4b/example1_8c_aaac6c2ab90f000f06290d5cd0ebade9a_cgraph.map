@@ -1,0 +1,11 @@
+<map id="object_write" name="object_write">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="336,247,377,273"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="173,44,261,71"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="148,95,285,121"/>
+<area shape="rect" id="node5" href="$de/d4b/example1_8c.html#a828e4bf937893e7b99de11dd1302fa93" title="object_open" alt="" coords="171,145,263,172"/>
+<area shape="rect" id="node6" href="$de/d4b/example1_8c.html#aafe0cbdb0c5210ee9bd16f09122b3a7d" title="alloc_vecs" alt="" coords="175,196,259,223"/>
+<area shape="rect" id="node7" href="$de/d4b/example1_8c.html#aeee5bfd24100551fb7aa0becfaad8864" title="prepare_ext_vecs" alt="" coords="154,247,279,273"/>
+<area shape="rect" id="node8" href="$de/d4b/example1_8c.html#ad5b8071f092cb9a6a08187a604b391d6" title="write_data_to_object" alt="" coords="145,297,288,324"/>
+<area shape="rect" id="node9" href="$de/d4b/example1_8c.html#a9a51522453b1b6fc1648f864471b3bb2" title="cleanup_vecs" alt="" coords="165,348,268,375"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="165,399,268,425"/>
+</map>

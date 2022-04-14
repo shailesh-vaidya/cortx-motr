@@ -1,0 +1,12 @@
+<map id="wlock_ctx_create" name="wlock_ctx_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="401,144,477,171"/>
+<area shape="rect" id="node3" href="$d0/d72/spiel__internal_8h.html#a5a9498d6d89369cc48dd68dde78648a9" title="spiel_rmachine" alt="" coords="211,47,320,73"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa07b889c3e4b744a2f2b6461ff6968f1" title="spiel_rwlockable_write\l_domain_init" alt="" coords="189,98,342,139"/>
+<area shape="rect" id="node5" href="$da/d7a/group___r_w_lock.html#ga2800c17d9c5729d148e72e9627a84744" title="m0_rw_lockable_init" alt="" coords="195,164,335,191"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga66fb0fa971ce7e90bf09d5d6bc468eaf" title="m0_fid_tgenerate" alt="" coords="204,215,327,241"/>
+<area shape="rect" id="node7" href="$da/d7a/group___r_w_lock.html#ga09c9bd19c2ad7e07e2adfdefc9f83cea" title="m0_rm_rwlock_owner_init" alt="" coords="179,265,352,292"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gaffc9e3bf93e114a5df28079db36504a6" title="m0_rconfc_rm_endpoint" alt="" coords="185,316,346,343"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="406,341,473,368"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#gabe41a8ee5451c66b3f832c6c6fef9145" title="wlock_ctx_semaphore_init" alt="" coords="177,417,353,444"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="231,468,300,495"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="stob_perf_domain_init" name="stob_perf_domain_init">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#ga3883d003c3aed89edbd5ecd57187b338" title="stob_perf_domain_ldom\l_location" alt="" coords="217,5,377,47"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="442,105,511,131"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="439,157,515,183"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#gaf69f137f2586a24be7799a54813d24d3" title="stob_perf_domain_read\l_config" alt="" coords="218,123,375,164"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="443,211,510,238"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga4d33b373ff45ebb8b6b227f878108bd9" title="m0_stob_domain_init" alt="" coords="224,290,369,317"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga71663c4f1cc7210f6e91ddd27f609e67" title="m0_stob_domain__dom_key" alt="" coords="203,341,391,367"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="215,391,378,418"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga4339e21ed55dae488248b1083f8ccc54" title="m0_stob_domain__dom\l_key_is_valid" alt="" coords="217,443,377,484"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#ga63677eda17b607cd18aa16c3d846290b" title="m0_stob_type_id_get" alt="" coords="223,509,370,535"/>
+<area shape="rect" id="node12" href="$d9/d6a/group__stob.html#gac7442ca9858b62163950473bca7a581f" title="m0_stob_domain__dom\l_id_make" alt="" coords="217,560,377,601"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#gaf513295d07870b432d9558b6fb86d55a" title="m0_stob_domain__id_set" alt="" coords="211,626,382,653"/>
+</map>

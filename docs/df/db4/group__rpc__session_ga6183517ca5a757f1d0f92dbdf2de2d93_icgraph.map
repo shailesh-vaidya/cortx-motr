@@ -1,0 +1,9 @@
+<map id="m0_rpc_conn_is_snd" name="m0_rpc_conn_is_snd">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#gae7d041ee8c1c6a73dc67aca91084609c" title="conn_state_set" alt="" coords="221,5,332,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gadb4ed378061a69c4059d4d47d2547165" title="m0_rpc_conn_establish" alt="" coords="403,56,561,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="199,107,355,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga83163fc09d5543c85cd1c1a2a1d9670f" title="m0_rpc_conn_init" alt="" coords="420,157,544,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga06b564ee88a185824693fae7e8a2c31d" title="__conn_init" alt="" coords="233,208,321,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="205,259,348,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="228,325,325,352"/>
+</map>

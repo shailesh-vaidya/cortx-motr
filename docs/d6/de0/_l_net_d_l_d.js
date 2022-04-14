@@ -1,0 +1,98 @@
+var _l_net_d_l_d =
+[
+    [ "Overview", "d6/de0/_l_net_d_l_d.html#LNetDLD-ovw", null ],
+    [ "Definitions", "d6/de0/_l_net_d_l_d.html#LNetDLD-def", null ],
+    [ "Requirements", "d6/de0/_l_net_d_l_d.html#LNetDLD-req", null ],
+    [ "Dependencies", "d6/de0/_l_net_d_l_d.html#LNetDLD-depends", null ],
+    [ "Design Highlights", "d6/de0/_l_net_d_l_d.html#LNetDLD-highlights", null ],
+    [ "Logical Specification", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec", [
+      [ "Component Overview", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-comps", null ],
+      [ "End Point Support", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-ep", null ],
+      [ "Transfer Machine Start", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-tm-start", null ],
+      [ "Transfer Machine Termination", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-tm-stop", null ],
+      [ "Synchronous Network Buffer Event Delivery", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-bev-sync", null ],
+      [ "Transfer Machine Event Processing Thread", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-tm-thread", null ],
+      [ "Network Buffer Descriptor", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-buf-nbd", null ],
+      [ "Buffer operations", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-buf-op", null ],
+      [ "State Specification", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-state", null ],
+      [ "Threading and Concurrency Model", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-thread", null ],
+      [ "NUMA optimizations", "d6/de0/_l_net_d_l_d.html#LNetDLD-lspec-numa", null ]
+    ] ],
+    [ "Conformance", "d6/de0/_l_net_d_l_d.html#LNetDLD-conformance", null ],
+    [ "Unit Tests", "d6/de0/_l_net_d_l_d.html#LNetDLD-ut", null ],
+    [ "System Tests", "d6/de0/_l_net_d_l_d.html#LNetDLD-st", null ],
+    [ "Analysis", "d6/de0/_l_net_d_l_d.html#LNetDLD-O", null ],
+    [ "References", "d6/de0/_l_net_d_l_d.html#LNetDLD-ref", null ],
+    [ "LNet Transport Functional Specification", "d5/ddd/_l_net_d_l_d-fspec.html", [
+      [ "Data Structures", "d5/ddd/_l_net_d_l_d-fspec.html#LNetDLD-fspec-ds", null ],
+      [ "Subroutines", "d5/ddd/_l_net_d_l_d-fspec.html#LNetDLD-fspec-sub", null ]
+    ] ],
+    [ "LNet Transport Core API", "da/d12/_l_net_core_d_l_d-fspec.html", [
+      [ "API Overview", "da/d12/_l_net_core_d_l_d-fspec.html#LNetCoreDLD-fspec-ovw", null ],
+      [ "API Data Structures", "da/d12/_l_net_core_d_l_d-fspec.html#LNetCoreDLD-fspec-ds", null ],
+      [ "Subroutines", "da/d12/_l_net_core_d_l_d-fspec.html#LNetCoreDLD-fspec-subs", null ]
+    ] ],
+    [ "LNet Buffer Event Circular Queue DLD", "de/d4e/_l_netcqueue_d_l_d.html", "de/d4e/_l_netcqueue_d_l_d" ],
+    [ "LNet Transport Kernel Core DLD", "db/dd7/_k_l_net_core_d_l_d.html", [
+      [ "Overview", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-ovw", null ],
+      [ "Definitions", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-def", null ],
+      [ "Requirements", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-req", null ],
+      [ "Dependencies", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-depends", null ],
+      [ "Design Highlights", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-highlights", null ],
+      [ "Logical Specification", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec", [
+        [ "Component Overview", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-comps", null ],
+        [ "Support for User Space Transports", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-userspace", null ],
+        [ "Match Bits for Buffer Identification", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-match-bits", null ],
+        [ "Transfer Machine Uniqueness", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-tm-list", null ],
+        [ "The Buffer Event Queue", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-bevq", null ],
+        [ "LNet Initialization and Finalization", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-lnet-init", null ],
+        [ "LNet Buffer Registration", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-reg", null ],
+        [ "LNet Transfer Machine Resources", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-tm-res", null ],
+        [ "LNet Buffer Resources", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-buf-res", null ],
+        [ "LNet Event Callback Processing", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-ev", null ],
+        [ "LNet Receiving Unsolicited Messages", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-recv", null ],
+        [ "LNet Sending Messages", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-send", null ],
+        [ "LNet Staging Passive Bulk Buffers", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-passive", null ],
+        [ "LNet Active Bulk Read or Write", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-active", null ],
+        [ "LNet Canceling Operations", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-lnet-cancel", null ],
+        [ "State Specification", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-state", null ],
+        [ "Threading and Concurrency Model", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-thread", null ],
+        [ "NUMA optimizations", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-lspec-numa", null ]
+      ] ],
+      [ "Conformance", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-conformance", null ],
+      [ "Unit Tests", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-ut", null ],
+      [ "System Tests", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-st", null ],
+      [ "Analysis", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-O", null ],
+      [ "References", "db/dd7/_k_l_net_core_d_l_d.html#KLNetCoreDLD-ref", null ]
+    ] ],
+    [ "LNet Transport User Space Core DLD", "d8/d7d/_u_l_net_core_d_l_d.html", [
+      [ "Overview", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-ovw", null ],
+      [ "Definitions", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-def", null ],
+      [ "Requirements", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-req", null ],
+      [ "Dependencies", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-depends", null ],
+      [ "Design Highlights", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-highlights", null ],
+      [ "Logical Specification", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec", [
+        [ "Component Overview", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-comps", null ],
+        [ "Memory Allocation Strategy", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-malloc", null ],
+        [ "Strategy for Kernel Interaction", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-ioctl", null ],
+        [ "Domain Initialization", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-dominit", null ],
+        [ "Domain Finalization", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-domfini", null ],
+        [ "Buffer Registration and De-registration", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-reg", null ],
+        [ "Managing the Buffer Event Queue", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-bev", null ],
+        [ "Starting a Transfer Machine", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-tmstart", null ],
+        [ "Stopping a Transfer Machine", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-tmstop", null ],
+        [ "Transfer Machine Buffer Queue Operations", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-buf", null ],
+        [ "Waiting for Buffer Events", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-event", null ],
+        [ "Node Identifier Support", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-nids", null ],
+        [ "State Specification", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-state", null ],
+        [ "Threading and Concurrency Model", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-thread", null ],
+        [ "NUMA optimizations", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-lspec-numa", null ]
+      ] ],
+      [ "Conformance", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-conformance", null ],
+      [ "Unit Tests", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-ut", null ],
+      [ "System Tests", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-st", null ],
+      [ "Analysis", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-O", null ],
+      [ "References", "d8/d7d/_u_l_net_core_d_l_d.html#ULNetCoreDLD-ref", null ]
+    ] ],
+    [ "LNet Transport Device DLD", "da/d74/_l_net_d_r_v_d_l_d.html", "da/d74/_l_net_d_r_v_d_l_d" ]
+];

@@ -1,0 +1,8 @@
+<map id="cp_multi_failures_post" name="cp_multi_failures_post">
+<area shape="rect" id="node2" href="$d0/d31/cp__common_8c.html#af856649fd0be6ef07c2ad0320fbf1cb9" title="cp_prepare" alt="" coords="237,5,323,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/repair_2ut_2xform_8c.html#aede6aec72883ae1fb8f830eef0b0acdc" title="buffers_attach" alt="" coords="228,56,332,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="225,107,335,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="225,157,335,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="225,208,335,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="205,259,355,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="lnet_ping" name="lnet_ping">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a37e6f92e988307251e4f5ff980aa3546" title="get_nodes" alt="" coords="128,5,211,32"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#a2ac6d36352d913886617637c2e4d41e6" title="get_nids" alt="" coords="134,56,205,83"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#a06eb000e6a5b1fe0b3fd0934fe4a24c9" title="execute_command" alt="" coords="259,81,391,108"/>
+</map>

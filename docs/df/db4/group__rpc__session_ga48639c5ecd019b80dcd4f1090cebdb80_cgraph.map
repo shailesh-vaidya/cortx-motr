@@ -1,0 +1,7 @@
+<map id="rpc_conn_ha_timer_cb" name="rpc_conn_ha_timer_cb">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="207,5,389,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gae0057fbf142d6cb0e3bafb8efebc4a48" title="m0_rpc_conn2svc" alt="" coords="234,56,362,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gad8ac8ec12cf57ee9f87f51260aa32451" title="conn_flag_is_set" alt="" coords="238,107,358,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gad4e5efa96f186f6080d1c9eb1d079d23" title="conn_flag_set" alt="" coords="247,157,349,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="253,208,343,235"/>
+</map>

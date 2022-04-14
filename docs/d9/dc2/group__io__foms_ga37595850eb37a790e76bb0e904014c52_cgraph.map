@@ -1,0 +1,17 @@
+<map id="stob_io_create" name="stob_io_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="223,5,299,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="222,56,301,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga9cedbe4cab296c0f3dde7f271cc5d367" title="io_rw_rep_get" alt="" coords="210,107,313,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="190,157,333,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="204,208,319,235"/>
+<area shape="rect" id="node7" href="$d9/dc3/cksum__utils_8c.html#a49532cf99e3939a11b50b196f858e607" title="m0_extent_get_checksum_nob" alt="" coords="160,259,363,285"/>
+<area shape="rect" id="node8" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="212,309,311,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="227,360,296,387"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga311417a6ef7f4fb7618a34d332ccb709" title="m0_fom_callback_init" alt="" coords="187,411,335,437"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#ga80f5f783068972cdc94324cd1b70a439" title="m0_stob_io_init" alt="" coords="205,461,318,488"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#ga8b9b755c21ca7d185645869d228f1e77" title="m0_indexvec_split" alt="" coords="196,512,327,539"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="411,537,477,564"/>
+<area shape="rect" id="node14" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="205,613,318,640"/>
+<area shape="rect" id="node15" href="$d1/d59/group__fom.html#gaeda31531eb71213baf4a6eef44e12e51" title="m0_fom_callback_fini" alt="" coords="187,664,335,691"/>
+<area shape="rect" id="node16" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="197,715,325,741"/>
+</map>

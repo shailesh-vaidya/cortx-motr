@@ -1,0 +1,10 @@
+<map id="m0_be_emap_cursor" name="m0_be_emap_cursor">
+<area shape="rect" id="node3" href="$d2/ddf/structm0__be__emap__key.html" title="{m0_be_emap_key\n||}" alt="" coords="111,329,239,407"/>
+<area shape="rect" id="node4" href="$d0/db4/structm0__uint128.html" title="{m0_uint128\n||}" alt="" coords="245,160,334,237"/>
+<area shape="rect" id="node5" href="$d8/dc9/structm0__be__emap__seg.html" title="{m0_be_emap_seg\n||}" alt="" coords="313,329,441,407"/>
+<area shape="rect" id="node6" href="$de/d06/structm0__buf.html" title="{m0_buf\n||}" alt="" coords="519,160,585,237"/>
+<area shape="rect" id="node8" href="$d5/d3a/structm0__be__op.html" title="{m0_be_op\n||}" alt="" coords="516,329,599,407"/>
+<area shape="rect" id="node9" href="$d7/df3/structm0__be__emap.html" title="{m0_be_emap\n||}" alt="" coords="799,499,899,576"/>
+<area shape="rect" id="node10" href="$d4/d6e/structm0__be__emap__rec.html" title="{m0_be_emap_rec\n||}" alt="" coords="911,329,1036,407"/>
+<area shape="rect" id="node7" href="$d4/de3/structm0__be__btree__cursor.html" title="{m0_be_btree_cursor\n||}" alt="" coords="635,499,775,576"/>
+</map>

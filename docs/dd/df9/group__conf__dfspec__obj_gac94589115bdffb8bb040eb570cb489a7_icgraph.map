@@ -1,0 +1,32 @@
+<map id="m0_conf_fid_type" name="m0_conf_fid_type">
+<area shape="rect" id="node2" href="$d7/d3a/conf_2ut_2cache_8c.html#aa62eaa77ce890dc0d97cb55663d95cb7" title="test_dir_add_del" alt="" coords="221,5,338,32"/>
+<area shape="rect" id="node3" href="$d1/d1c/ut_2db_8c.html#af068e608de605654700d10bd3b2c7ef3" title="profile_check" alt="" coords="230,56,329,83"/>
+<area shape="rect" id="node4" href="$d1/d1c/ut_2db_8c.html#a8c0d0e282699c42765d64fb1cdf98d1e" title="node_check" alt="" coords="233,107,325,133"/>
+<area shape="rect" id="node5" href="$d1/d1c/ut_2db_8c.html#a689c5fe1d82ff1c3a7100a0b4c6d9ff3" title="diskv_check" alt="" coords="232,157,327,184"/>
+<area shape="rect" id="node6" href="$df/d59/group__conf__dir.html#gac86be2ce23105064f47d343034ed77d8" title="conf_dir_new" alt="" coords="475,284,574,311"/>
+<area shape="rect" id="node7" href="$df/d22/conf_2helpers_8h.html#aa826bda14553a326ba3170660c49a051" title="m0_conf_pver_get" alt="" coords="215,259,344,285"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="215,309,343,336"/>
+<area shape="rect" id="node9" href="$d9/d40/group__conf__dfspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="210,360,349,387"/>
+<area shape="rect" id="node10" href="$dd/d7b/group__conf__dlspec__objops.html#gab3bf9d1c5e6615a056c4ac00867b7335" title="m0_conf_objx_type" alt="" coords="212,411,347,437"/>
+<area shape="rect" id="node11" href="$dc/dd7/root_8c.html#a7c3a2c487567c2e020b32bcb8b4a97cb" title="root_decode" alt="" coords="233,461,326,488"/>
+<area shape="rect" id="node12" href="$d0/dc5/group__conf-pvers.html#ga1858c51bbb90c65ccc72a7abdd3c0f93" title="conf_pver_find_by_fid\l_locked" alt="" coords="450,526,599,567"/>
+<area shape="rect" id="node13" href="$d0/dc5/group__conf-pvers.html#gaf23a5523e1b5047a5fd288fb09ce1d32" title="m0_conf_pver_fid_read" alt="" coords="201,563,358,589"/>
+<area shape="rect" id="node14" href="$d7/d58/ut_2pvers_8c.html#aa351722ff9f38e50bc2626c13dc5da9c" title="test_pver_fid" alt="" coords="476,603,573,629"/>
+<area shape="rect" id="node15" href="$de/d4a/group__m0ham.html#gac5212a0f4e1d37280794cfdef24d982b" title="ham_rpc_ctx_init" alt="" coords="219,664,340,691"/>
+<area shape="rect" id="node16" href="$d0/dc7/group__ha-note.html#gaae2334c89bd59757d2dca2f946cc47af" title="note_invariant" alt="" coords="228,715,331,741"/>
+<area shape="rect" id="node17" href="$d0/dfe/group__sdev.html#ga1270b8b3601ee9f3fdf742a966ed001c" title="storage_dev_state_update_cb" alt="" coords="181,765,377,792"/>
+<area shape="rect" id="node18" href="$d5/d8c/group__reqh.html#ga3ed2a8afd1e8128d04e1b37b99695112" title="m0_reqh_init" alt="" coords="231,816,327,843"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#gae0057fbf142d6cb0e3bafb8efebc4a48" title="m0_rpc_conn2svc" alt="" coords="215,867,343,893"/>
+<area shape="rect" id="node20" href="$df/db4/group__rpc__session.html#ga80416f8084b18cbb52d7314a7249d301" title="reqh_service_ha_state_set" alt="" coords="190,917,369,944"/>
+<area shape="rect" id="node21" href="$df/d3a/group__spiel-api-fspec-intr.html#ga86aa22416fdc2ee542ee2eece9c7729d" title="spiel_endpoints_for\l_device_generic" alt="" coords="212,969,347,1010"/>
+<area shape="rect" id="node22" href="$df/d3a/group__spiel-api-fspec-intr.html#ga29651cd6432b77e82aafac27eaadb37e" title="spiel_device_command_send" alt="" coords="428,1005,621,1032"/>
+<area shape="rect" id="node23" href="$df/d3a/group__spiel-api-fspec-intr.html#ga467a6e8d39096e56b41515f4a84a9ece" title="spiel_svc_fop_fill\l_and_send" alt="" coords="218,1086,341,1127"/>
+<area shape="rect" id="node24" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2bff2b0d4e3c1a6fe05583f236e591d5" title="spiel_svc_generic_handler" alt="" coords="437,1145,612,1172"/>
+<area shape="rect" id="node25" href="$df/d3a/group__spiel-api-fspec-intr.html#gadfe81a928f8d66c5bd12d0c2c6d230b7" title="spiel_process_command_send" alt="" coords="179,1253,380,1280"/>
+<area shape="rect" id="node26" href="$df/d3a/group__spiel-api-fspec-intr.html#ga005fb01e6d7472ba4d98379db6702e18" title="spiel_process_command\l_execute" alt="" coords="441,1203,608,1245"/>
+<area shape="rect" id="node27" href="$d9/d50/group__spiel-api-fspec.html#ga8e68c9c0b50fc19a21cbebea15130061" title="m0_spiel_process_list\l_services" alt="" coords="449,1282,600,1323"/>
+<area shape="rect" id="node28" href="$df/d3a/group__spiel-api-fspec-intr.html#ga170a453f6778428d2ebe846e569767c2" title="spiel_pool_generic\l_handler" alt="" coords="215,1355,344,1397"/>
+<area shape="rect" id="node29" href="$df/d3a/group__spiel-api-fspec-intr.html#gae5851bde4aea4ed20cd2f8c37daede92" title="spiel__proc_is_to_update\l_stats" alt="" coords="195,1421,364,1462"/>
+<area shape="rect" id="node30" href="$df/d3a/group__spiel-api-fspec-intr.html#gabb2982c6514162fcb0b3e44b305b0a0d" title="spiel_conf_parameter\l_check" alt="" coords="206,1486,353,1527"/>
+<area shape="rect" id="node31" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga893805e648e4072126d89060e979c7cd" title="m0_sss_device_fop_create" alt="" coords="189,1552,370,1579"/>
+</map>

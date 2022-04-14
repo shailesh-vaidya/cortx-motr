@@ -1,0 +1,30 @@
+<map id="test_drain" name="test_drain">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="384,254,443,281"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#aa11e32f62df4e0d13a656677184e36fd" title="rconfc_ut_motr_start" alt="" coords="136,761,279,788"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="331,736,496,762"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="140,812,275,838"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="138,862,277,889"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="139,913,275,940"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="154,356,261,382"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="544,356,643,382"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="347,406,480,433"/>
+<area shape="rect" id="node11" href="$db/dc2/conf_2helpers_8c.html#ac614c6832857d980fa949efe31025a8b" title="m0_confc_expired_cb" alt="" coords="133,254,282,281"/>
+<area shape="rect" id="node12" href="$db/dc2/conf_2helpers_8c.html#aa406086d2c5d55e230ec7423b4e51803" title="m0_confc_ready_cb" alt="" coords="138,305,277,332"/>
+<area shape="rect" id="node13" href="$df/d15/group__rconfc__dfspec.html#gaa60d0cf80399e8d96afd2389c10660d5" title="m0_rconfc_start_sync" alt="" coords="132,52,283,78"/>
+<area shape="rect" id="node14" href="$db/dc2/conf_2helpers_8c.html#ae14ed73f930ddb0167a8de92804ebae8" title="m0_confc_root_open" alt="" coords="136,964,279,990"/>
+<area shape="rect" id="node15" href="$d5/d9a/ut_2rconfc_8c.html#af6f1eac8a4af9e859e95e4705958be16" title="fs_expired" alt="" coords="166,102,249,129"/>
+<area shape="rect" id="node16" href="$d5/d9a/ut_2rconfc_8c.html#ab544aafc125afe8171d32eebdf61c26a" title="fs_ready" alt="" coords="171,153,243,180"/>
+<area shape="rect" id="node17" href="$d5/d9a/ut_2rconfc_8c.html#af0f0cb848f2c79cc2dd1d6e3c2664240" title="update_confd_version" alt="" coords="133,1014,282,1041"/>
+<area shape="rect" id="node18" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="133,1065,282,1092"/>
+<area shape="rect" id="node19" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="140,1116,275,1142"/>
+<area shape="rect" id="node20" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="349,482,477,509"/>
+<area shape="rect" id="node21" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="544,558,643,585"/>
+<area shape="rect" id="node22" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="133,1166,282,1193"/>
+<area shape="rect" id="node23" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="149,1217,266,1244"/>
+<area shape="rect" id="node24" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="349,660,478,686"/>
+<area shape="rect" id="node25" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="132,457,283,484"/>
+<area shape="rect" id="node26" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="154,609,261,636"/>
+<area shape="rect" id="node27" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="140,1268,275,1294"/>
+<area shape="rect" id="node28" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="140,1318,275,1345"/>
+<area shape="rect" id="node29" href="$d5/d9a/ut_2rconfc_8c.html#a041737d745da2f7bec4fd0d6a5231a5e" title="rconfc_ut_motr_stop" alt="" coords="137,1369,278,1396"/>
+</map>

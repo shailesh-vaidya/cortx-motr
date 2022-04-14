@@ -1,0 +1,11 @@
+<map id="obj_namei_cb_launch" name="obj_namei_cb_launch">
+<area shape="rect" id="node2" href="$df/dca/lib_2misc_8c.html#a931ea1b29bbb7fa36b88d73d4bc0ddea" title="m0_uint128_cmp" alt="" coords="213,5,335,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="396,81,563,108"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#ac494f31f6665bc92110786d65484f015" title="entity_invariant_full" alt="" coords="207,157,341,184"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="412,157,547,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="405,208,554,235"/>
+<area shape="rect" id="node7" href="$dc/d86/motr_2obj_8c.html#a6cebe3c6b94e72d76430e1abbf902d68" title="obj_op_obj_invariant" alt="" coords="204,360,344,387"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="427,284,531,311"/>
+<area shape="rect" id="node9" href="$d7/dcd/motr_2client__internal_8h.html#a1dc751be2bdce9ac5d77810da2b9bd48" title="m0__obj_namei_send" alt="" coords="200,259,348,285"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="229,411,319,437"/>
+</map>

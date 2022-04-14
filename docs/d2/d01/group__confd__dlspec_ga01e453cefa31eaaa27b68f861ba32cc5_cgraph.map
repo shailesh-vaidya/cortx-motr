@@ -1,0 +1,12 @@
+<map id="confx_populate" name="confx_populate">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga482be6999fb575e77e657b77558f34c5" title="m0_conf_cache_is_locked" alt="" coords="164,5,340,32"/>
+<area shape="rect" id="node3" href="$d2/d01/group__confd__dlspec.html#ga6e036b8a1de7fbf68b13a53190997070" title="cache_ver_update" alt="" coords="188,56,316,83"/>
+<area shape="rect" id="node4" href="$d2/d01/group__confd__dlspec.html#gaa0aedbd92a4dfac6e5e215fba50b6f27" title="confd_cache_lookup" alt="" coords="388,95,529,121"/>
+<area shape="rect" id="node5" href="$d2/d01/group__confd__dlspec.html#gafaeb7813cd094497d66eb7f19513738f" title="confd_path_walk" alt="" coords="192,208,312,235"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="421,171,497,197"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,259,492,285"/>
+<area shape="rect" id="node8" href="$d2/d01/group__confd__dlspec.html#ga90c23ffbc1485c61a1e55f67cd1b981e" title="_count" alt="" coords="221,309,283,336"/>
+<area shape="rect" id="node9" href="$d2/db5/db_8c.html#ac2090f07aa156162f4d0e8ac587a724f" title="m0_confx_sizeof" alt="" coords="191,360,313,387"/>
+<area shape="rect" id="node10" href="$d2/d01/group__confd__dlspec.html#ga49786b74b47aa57dd03e31003bd9953c" title="_encode" alt="" coords="217,411,287,437"/>
+<area shape="rect" id="node11" href="$d0/dc4/group__conf__dfspec__preload.html#gab546b95a7656688b52ab24f92ec75661" title="m0_confx_free" alt="" coords="198,461,306,488"/>
+</map>

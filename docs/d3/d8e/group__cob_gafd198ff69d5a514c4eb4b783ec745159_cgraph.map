@@ -1,0 +1,10 @@
+<map id="m0_cob_name_del" name="m0_cob_name_del">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga3157bba584038dfd586ad169b0ec859f" title="m0_cob_is_valid" alt="" coords="197,5,316,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="377,31,467,57"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="212,107,301,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga3ec8fced9ea67330f9b1b829d9693d13" title="m0_cob_nskey_size" alt="" coords="186,157,327,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga4aaac1faf19904e845df83249ff152a3" title="cob_table_lookup" alt="" coords="195,208,318,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga7873bab8e6666a9fc0d6e64fd6feaaa5" title="cob_table_delete" alt="" coords="197,259,317,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga0dbb535d77d4a1e711e145381603bfac" title="m0_cob_oikey_make" alt="" coords="184,309,329,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="223,360,290,387"/>
+</map>

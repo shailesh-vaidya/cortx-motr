@@ -1,0 +1,10 @@
+<map id="composite_io_op_done" name="composite_io_op_done">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="215,5,350,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="231,56,335,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae24d379010bd521ce9a52b767ce351f5" title="m0_sm_fail" alt="" coords="405,81,495,108"/>
+<area shape="rect" id="node5" href="$d6/db6/motr_2client_8c.html#a9d859146726a6fd21326b93786323055" title="m0_op_executed" alt="" coords="222,157,343,184"/>
+<area shape="rect" id="node6" href="$d6/db6/motr_2client_8c.html#a95d835f22f66e52e5ff327665b6a35ca" title="m0_op_stable" alt="" coords="231,208,334,235"/>
+<area shape="rect" id="node7" href="$d6/db6/motr_2client_8c.html#a28ecb243a3ccc4a8314a9534e1ca835d" title="m0_op_failed" alt="" coords="233,259,332,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="208,309,357,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="238,360,327,387"/>
+</map>

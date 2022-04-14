@@ -1,0 +1,11 @@
+<map id="stob_linux_domain_init" name="stob_linux_domain_init">
+<area shape="rect" id="node2" href="$d3/d78/group__stoblinux.html#ga161b8014bdb01c80567ca40ede90ecbf" title="stob_linux_domain_key\l_get_set" alt="" coords="214,46,373,87"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="465,24,534,50"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="466,93,533,120"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga4339e21ed55dae488248b1083f8ccc54" title="m0_stob_domain__dom\l_key_is_valid" alt="" coords="213,163,373,204"/>
+<area shape="rect" id="node6" href="$d3/d78/group__stoblinux.html#ga2f915fcb4ad76bb31822ab70a8a602a1" title="m0_stob_ioq_init" alt="" coords="233,229,353,256"/>
+<area shape="rect" id="node7" href="$d3/d78/group__stoblinux.html#ga3c1b9a3ade339ce41f0d8d4d31c3a989" title="m0_stob_ioq_directio\l_setup" alt="" coords="427,247,572,288"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga63677eda17b607cd18aa16c3d846290b" title="m0_stob_type_id_get" alt="" coords="220,330,367,357"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gac7442ca9858b62163950473bca7a581f" title="m0_stob_domain__dom\l_id_make" alt="" coords="213,382,373,423"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#gaf513295d07870b432d9558b6fb86d55a" title="m0_stob_domain__id_set" alt="" coords="208,448,379,474"/>
+</map>

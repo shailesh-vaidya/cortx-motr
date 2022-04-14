@@ -1,0 +1,5 @@
+<map id="configure_lnet" name="configure_lnet">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a06eb000e6a5b1fe0b3fd0934fe4a24c9" title="execute_command" alt="" coords="319,22,451,49"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#a9305f8cafc2166192016e6566ccf3092" title="restart_services" alt="" coords="156,22,271,49"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#a51b44b35a9c7cc63caa2e5f7cb9ea76b" title="lnet_self_ping" alt="" coords="162,73,265,99"/>
+</map>

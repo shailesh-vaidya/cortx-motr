@@ -1,0 +1,8 @@
+<map id="m0_rpc_link_fini" name="m0_rpc_link_fini">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="175,5,305,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="187,56,293,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="359,183,461,209"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga4791c259b0df215a07f9bd5b8a2949cb" title="m0_rpc_session_fini" alt="" coords="169,157,311,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="197,208,283,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gafac3857111012e74e39d7c5d30a817d3" title="m0_rpc_conn_fini" alt="" coords="178,259,302,285"/>
+</map>

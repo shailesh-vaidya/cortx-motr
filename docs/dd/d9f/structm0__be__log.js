@@ -1,0 +1,26 @@
+var structm0__be__log =
+[
+    [ "lg_cfg", "dd/d9f/structm0__be__log.html#a8a8a598350019499860d9160a702aad7", null ],
+    [ "lg_create_mode", "dd/d9f/structm0__be__log.html#aef4379635921ed8f124f66b5a0589212", null ],
+    [ "lg_current", "dd/d9f/structm0__be__log.html#a0a1b902e5be9da568ca61cf9d8cd5c4d", null ],
+    [ "lg_destroy_mode", "dd/d9f/structm0__be__log.html#a9affa1351c21e4676d5c3a8d15ccf504", null ],
+    [ "lg_discarded", "dd/d9f/structm0__be__log.html#a36d2de5f10941725747fc9a69d8d4d09", null ],
+    [ "lg_external_lock", "dd/d9f/structm0__be__log.html#a5b65641352c8ad0762c5ff0614970dee", null ],
+    [ "lg_free", "dd/d9f/structm0__be__log.html#acd0c8b6958a146633d2072ec0d13baf2", null ],
+    [ "lg_got_space_cb", "dd/d9f/structm0__be__log.html#a7230d9624f49baf1f7a54b2c34b6d41e", null ],
+    [ "lg_header", "dd/d9f/structm0__be__log.html#ae12fe7f336bf3c3087b1df3981af1778", null ],
+    [ "lg_header_read_op", "dd/d9f/structm0__be__log.html#a0b94616bf55cf03f17ecdfd1f6093837", null ],
+    [ "lg_header_write_op", "dd/d9f/structm0__be__log.html#a09a6d95086b29d437bc6b3976195b382", null ],
+    [ "lg_module", "dd/d9f/structm0__be__log.html#aa95b4a7dc89b834ddedba536117be40d", null ],
+    [ "lg_prev_record", "dd/d9f/structm0__be__log.html#a253809038af052412018607f413373ab", null ],
+    [ "lg_prev_record_size", "dd/d9f/structm0__be__log.html#a1acb7db6b9cb1a63326bbd162f6e3adb", null ],
+    [ "lg_record_state_lock", "dd/d9f/structm0__be__log.html#a83d09813b675ad54f3de26c4313d927b", null ],
+    [ "lg_records", "dd/d9f/structm0__be__log.html#a92bd4704eb9c0af770bde2a471cf96a1", null ],
+    [ "lg_recovery", "dd/d9f/structm0__be__log.html#a3fec42cad9598e37eea5280916c1dc5a", null ],
+    [ "lg_reserved", "dd/d9f/structm0__be__log.html#a67eeda7bc2242682fd13a3268a185c65", null ],
+    [ "lg_sched", "dd/d9f/structm0__be__log.html#afc4ac28c63ba2ddb821f2f745f11cd43", null ],
+    [ "lg_store", "dd/d9f/structm0__be__log.html#afc4a996f7188014c506d7d9f1e8b0ee7", null ],
+    [ "lg_unplaced_exists", "dd/d9f/structm0__be__log.html#a17e1889765fffa0fb8f03e9bfe7701d0", null ],
+    [ "lg_unplaced_pos", "dd/d9f/structm0__be__log.html#ae367f4b046e4b551af534ad5cdc3c837", null ],
+    [ "lg_unplaced_size", "dd/d9f/structm0__be__log.html#ad81d1fc90a8ef0b5d1464b6b72969bbe", null ]
+];

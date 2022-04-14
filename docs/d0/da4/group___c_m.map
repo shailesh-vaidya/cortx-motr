@@ -1,0 +1,9 @@
+<map id="Copy Machine" name="Copy Machine">
+<area shape="rect" id="node2" href="$d0/d80/group___c_p.html" title="Copy Packet" alt="" coords="199,5,298,32"/>
+<area shape="rect" id="node3" href="$dd/dfa/group___c_m_s_t_o_r_e.html" title="copy machine store" alt="" coords="181,56,317,83"/>
+<area shape="rect" id="node4" href="$dc/d86/group___c_m_p_r_o_x_y.html" title="copy machine proxy" alt="" coords="179,107,318,133"/>
+<area shape="rect" id="node5" href="$de/d70/group___d_i_x_c_m.html" title="DIX copy machine" alt="" coords="183,157,314,184"/>
+<area shape="rect" id="node6" href="$d6/db9/group___c_m_a_g.html" title="Copy machine aggregation\l group" alt="" coords="160,209,337,250"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html" title="SNS copy machine" alt="" coords="181,275,316,301"/>
+<area shape="rect" id="node8" href="$d0/db0/group___c_m_s_w.html" title="copy machine sliding\l window" alt="" coords="177,326,321,367"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_storage_dev" name="m0_storage_dev">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="94,5,176,83"/>
+<area shape="rect" id="node3" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="98,160,172,237"/>
+<area shape="rect" id="node4" href="$d1/d0a/structm0__stob.html" title="{m0_stob\n||}" alt="" coords="443,315,515,392"/>
+<area shape="rect" id="node10" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="652,315,727,392"/>
+<area shape="rect" id="node7" href="$dc/d61/structm0__stob__domain.html" title="{m0_stob_domain\n||}" alt="" coords="825,160,946,237"/>
+<area shape="rect" id="node6" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="888,5,958,83"/>
+<area shape="rect" id="node11" href="$dd/d3f/structm0__ref.html" title="{m0_ref\n||}" alt="" coords="1312,315,1374,392"/>
+</map>

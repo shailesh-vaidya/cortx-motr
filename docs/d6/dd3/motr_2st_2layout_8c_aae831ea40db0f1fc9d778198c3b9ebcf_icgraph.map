@@ -1,0 +1,7 @@
+<map id="add_extents" name="add_extents">
+<area shape="rect" id="node2" href="$d6/dd3/motr_2st_2layout_8c.html#ad0565ba08b264e3298cc38d23957a332" title="layout_composite_io\l_one_layer" alt="" coords="171,5,313,47"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a0ba4ddbffc0d70d392ea7a466979ba6e" title="layout_composite_io\l_multi_layers" alt="" coords="171,71,313,112"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#a5814068876158c333e32ca790dd2170c" title="layout_composite_io\l_overlapping_layers" alt="" coords="171,136,313,177"/>
+<area shape="rect" id="node5" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="171,201,313,243"/>
+<area shape="rect" id="node6" href="$d6/dd3/motr_2st_2layout_8c.html#abb02903905b458463042341a52024128" title="layout_composite_extent_idx" alt="" coords="147,267,337,294"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="be_tx_bulk_open_cb" name="be_tx_bulk_open_cb">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="230,5,329,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="230,56,329,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="412,284,535,311"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga2fd8469fef43dbe0a02a4a17cdefc541" title="be_tx_bulk_lock" alt="" coords="221,157,337,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gac915272cc0f6da768eba5de46ef9e6ae" title="be_tx_bulk_unlock" alt="" coords="214,208,345,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga17a4ee816a67af7691cf03e3158cef44" title="be_tx_bulk_queues_drain" alt="" coords="195,259,364,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gad7852d879772049df416709525605385" title="be_tx_bulk_gc_cb" alt="" coords="216,309,343,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="429,347,518,373"/>
+</map>

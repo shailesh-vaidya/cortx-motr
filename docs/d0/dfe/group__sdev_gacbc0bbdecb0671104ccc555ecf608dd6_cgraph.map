@@ -1,0 +1,12 @@
+<map id="stob_domain_create_or_init" name="stob_domain_create_or_init">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="245,5,320,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="245,56,321,83"/>
+<area shape="rect" id="node4" href="$d6/d2c/group__stobad.html#ga9282ddb159cd5ff24d583dd0c18f2e4a" title="m0_stob_ad_cfg_make" alt="" coords="204,107,361,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="225,157,340,184"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga8e6f97810457cd1168a853cae9f19896" title="m0_stob_ad_init_cfg_make" alt="" coords="192,208,373,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="421,335,491,361"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga4d33b373ff45ebb8b6b227f878108bd9" title="m0_stob_domain_init" alt="" coords="210,309,355,336"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gac8ab4b263eecd00024e3465d20d54f15" title="m0_stob_domain_destroy" alt="" coords="197,360,368,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="423,385,489,412"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#gaea5530a0eecda769151b3db2751d83e3" title="m0_stob_domain_create" alt="" coords="201,461,365,488"/>
+</map>

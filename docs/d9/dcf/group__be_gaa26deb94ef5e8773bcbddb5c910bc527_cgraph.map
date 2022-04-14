@@ -1,0 +1,7 @@
+<map id="be_domain_log_cleanup" name="be_domain_log_cleanup">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="268,5,343,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#gad8b4f23dd455dd49c06ff67933b2b18d" title="create" alt="" coords="276,56,335,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gac7442ca9858b62163950473bca7a581f" title="m0_stob_domain__dom\l_id_make" alt="" coords="225,107,385,149"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga9db20903a27e126e576cc4f484b3e581" title="m0_stob_type_id_by_name" alt="" coords="215,173,396,200"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#gaaa46bc11405406b126a597623a5bf1f4" title="m0_stob_domain_destroy\l_location" alt="" coords="220,225,391,266"/>
+</map>

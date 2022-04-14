@@ -1,0 +1,16 @@
+<map id="osync_by_sync_op" name="osync_by_sync_op">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="423,448,471,475"/>
+<area shape="rect" id="node3" href="$d1/de5/osync_8c.html#af5a90fca9e85c06fcb1439694d8b934f" title="create_obj" alt="" coords="218,183,301,209"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="406,5,487,32"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="397,233,496,260"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="404,284,489,311"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="379,183,515,209"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="407,385,486,412"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="405,335,488,361"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga80d414876ff69965367e96d57041c845" title="st_obj_fini" alt="" coords="406,81,487,108"/>
+<area shape="rect" id="node11" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="206,233,313,260"/>
+<area shape="rect" id="node12" href="$d1/de5/osync_8c.html#a8d3d64cd3ed52855a6bbf57f977e678d" title="write_obj" alt="" coords="222,385,297,412"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="407,524,487,551"/>
+<area shape="rect" id="node14" href="$d2/def/group__client.html#ga8ddea9eddfaad9abd305da99c04bc221" title="m0_sync_op_init" alt="" coords="199,588,319,615"/>
+<area shape="rect" id="node15" href="$d2/def/group__client.html#gaa3c36c968db8883ab36a784ffcfa9672" title="m0_sync_entity_add" alt="" coords="188,639,331,665"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_rpc_item_fini" name="m0_rpc_item_fini">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga4979e41bcd419ebf64ed0999d6d0e4ca" title="m0_sm_timer_fini" alt="" coords="396,16,521,42"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga4c0f0fd5db44e0c019ac36d1b6b0ab9c" title="m0_sm_timeout_fini" alt="" coords="192,41,331,68"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga6654886a0207aec50eaf07a00792984d" title="m0_rpc_item_sm_fini" alt="" coords="188,92,335,118"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="200,142,323,169"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga4e43c836b6c6f5fa51b1857390bd5b50" title="m0_rpc_frm_remove_item" alt="" coords="175,193,348,220"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga3d02e5c4a30f2f56ba17c6bf7c46a0d4" title="rpc_item_xid_unassign" alt="" coords="184,244,339,270"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="217,294,306,321"/>
+</map>

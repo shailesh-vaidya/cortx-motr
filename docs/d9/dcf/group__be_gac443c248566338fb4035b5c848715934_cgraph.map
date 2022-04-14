@@ -1,0 +1,6 @@
+<map id="m0_be_btree_update_credit" name="m0_be_btree_update_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="404,53,551,80"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad20d772f4ac3faae384fb9b9d1900917" title="btree_mem_alloc_credit" alt="" coords="196,28,356,55"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac82b49bc31b383c6022c0c1ce93bb3b7" title="btree_mem_free_credit" alt="" coords="199,79,353,105"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga95c25fe99034dc832d82a065793e974e" title="m0_be_tx_credit_mac" alt="" coords="201,129,351,156"/>
+</map>

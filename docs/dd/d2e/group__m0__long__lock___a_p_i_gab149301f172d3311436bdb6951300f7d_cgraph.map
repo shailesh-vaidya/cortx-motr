@@ -1,0 +1,10 @@
+<map id="lock" name="lock">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="111,5,225,32"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga59aea7eb5c84a924abe48b2341bf7f2a" title="lock_invariant" alt="" coords="117,56,219,83"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gabaa7f1cc1e2ce975f7eee7b106f232b4" title="can_lock" alt="" coords="131,107,205,133"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga7b0c62cafc45c12e1ad22bd6fe329058" title="ll_addb2_reset" alt="" coords="115,157,221,184"/>
+<area shape="rect" id="node6" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gae7d4d276edd7b6f5ab21b245285db774" title="grant" alt="" coords="143,208,193,235"/>
+<area shape="rect" id="node7" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga5e070f5a59f56d87cf8ffb6829de1712" title="ll_addb2_wait_start" alt="" coords="101,259,235,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="100,309,236,336"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="104,360,232,387"/>
+</map>

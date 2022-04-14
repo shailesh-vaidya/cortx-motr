@@ -1,0 +1,12 @@
+<map id="test_buf_desc_body" name="test_buf_desc_body">
+<area shape="rect" id="node2" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaf20319555a8228e7c544f0bef79a7ae0" title="nlx_xo__nbd_allocate" alt="" coords="209,5,355,32"/>
+<area shape="rect" id="node3" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga5f1aac6ead584ece44933df19a0df908" title="nlx_xo__nbd_recover" alt="" coords="209,56,355,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e" title="m0_net_desc_free" alt="" coords="217,107,347,133"/>
+<area shape="rect" id="node5" href="$d7/db9/group___l_net_d_f_s.html#ga30f2300b3fc3c5d0d334489dfe903b41" title="m0_net_lnet_tm_set\l_debug" alt="" coords="212,209,352,250"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="434,187,549,213"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="427,256,555,283"/>
+<area shape="rect" id="node8" href="$d8/de0/group___l_net_core.html#gaf8b803bcbff74c0d50e0efaebfd5d5ea" title="nlx_core_buf_desc_encode" alt="" coords="192,325,372,352"/>
+<area shape="rect" id="node9" href="$d8/de0/group___l_net_core.html#ga85de63c34c55eb62c5e52b7df9a7a1bb" title="nlx_core_ep_eq" alt="" coords="225,376,339,403"/>
+<area shape="rect" id="node10" href="$d8/de0/group___l_net_core.html#ga4af40934b690775bf5c1844e078e374c" title="nlx_core_buf_desc_decode" alt="" coords="192,427,372,453"/>
+<area shape="rect" id="node11" href="$d8/de0/group___l_net_core.html#ga8adef7619fc7a8427b65343ebd94ef98" title="nlx_core_match_bits\l_decode" alt="" coords="420,445,563,486"/>
+</map>

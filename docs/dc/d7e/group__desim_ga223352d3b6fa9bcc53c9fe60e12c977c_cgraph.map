@@ -1,0 +1,8 @@
+<map id="client_fini" name="client_fini">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga506c5e64b4c496284ea9095af978dfbc" title="sim_chan_broadcast" alt="" coords="131,5,273,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga0501b8b0d3877ac32d6a89b6e440870d" title="sim_chan_fini" alt="" coords="151,56,253,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga5fe1622c729ac2186f7bb651d9c1e783" title="cnt_fini" alt="" coords="325,81,389,108"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga51a37432cbfbd3784241244d2deb2378" title="sim_run" alt="" coords="168,157,236,184"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#gaf51ba60c04a4301e5ce7ea97c4f90bee" title="sim_free" alt="" coords="321,208,393,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#ga85782bfd7e68a8d160b96b8749730a54" title="sim_thread_fini" alt="" coords="147,259,257,285"/>
+</map>

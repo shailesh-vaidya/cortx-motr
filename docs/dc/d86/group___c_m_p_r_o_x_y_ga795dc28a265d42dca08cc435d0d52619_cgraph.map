@@ -1,0 +1,21 @@
+<map id="proxy_sw_onwire_ast_cb" name="proxy_sw_onwire_ast_cb">
+<area shape="rect" id="node2" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga7a2507cadda55e8b86812b5bec4d28ce" title="cm_proxy_invariant" alt="" coords="246,5,381,32"/>
+<area shape="rect" id="node3" href="$d6/db9/group___c_m_a_g.html#ga06c578abe93d3b1ba438dae54d22788a" title="m0_cm_ag_in_interval" alt="" coords="237,107,389,133"/>
+<area shape="rect" id="node4" href="$d6/db9/group___c_m_a_g.html#ga4e4e586bbeaf9175a23bb25d121731bc" title="m0_cm_ag_id_copy" alt="" coords="452,107,591,133"/>
+<area shape="rect" id="node5" href="$d6/db9/group___c_m_a_g.html#ga9b77090e7a654cdf19e4ccaef48a1eeb" title="m0_cm_ag_id_is_set" alt="" coords="241,157,386,184"/>
+<area shape="rect" id="node6" href="$d6/db9/group___c_m_a_g.html#gaa091f7d062bbb5005e4f2bcb3e51a297" title="m0_cm_ag_out_interval" alt="" coords="233,56,393,83"/>
+<area shape="rect" id="node7" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga0628dbd95062f862076a0efe02418dbe" title="m0_cm_proxy_is_updated" alt="" coords="226,259,401,285"/>
+<area shape="rect" id="node8" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaf5d366e7ee605c9e1b4a5a1b45edb2c5" title="m0_cm_proxy_remote\l_update" alt="" coords="238,310,389,351"/>
+<area shape="rect" id="node9" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="458,477,585,504"/>
+<area shape="rect" id="node10" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="258,427,369,453"/>
+<area shape="rect" id="node11" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="258,477,369,504"/>
+<area shape="rect" id="node12" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga3d30280d020a71aa8c0bea382c6d8ad1" title="m0_cm_proxies_ready" alt="" coords="237,528,390,555"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#ga57339950d21ecc706c5f2e623647f122" title="m0_chan_signal" alt="" coords="463,819,579,845"/>
+<area shape="rect" id="node14" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga592b68ae309b14272813dbdf765c773c" title="m0_cm_proxy_lock" alt="" coords="246,629,381,656"/>
+<area shape="rect" id="node15" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga6ded6fec2c652befacc7401fa2ec85e2" title="__wake_up_pending_cps" alt="" coords="229,680,397,707"/>
+<area shape="rect" id="node16" href="$dc/d86/group___c_m_p_r_o_x_y.html#gac16376a933ed5875a2b6f0b16e7ca88a" title="m0_cm_proxy_unlock" alt="" coords="239,731,388,757"/>
+<area shape="rect" id="node17" href="$d0/da4/group___c_m.html#ga7a59387e137f4660d52b23ac4f336d52" title="m0_cm_abort" alt="" coords="263,376,364,403"/>
+<area shape="rect" id="node18" href="$d0/da4/group___c_m.html#gac634566d3f506a8a77cebf7dbd1b8190" title="m0_cm_frozen_ag_cleanup" alt="" coords="223,832,404,859"/>
+<area shape="rect" id="node19" href="$d0/da4/group___c_m.html#ga94b353e2ddfbd6d54e22c4d2e7aa6104" title="m0_cm_complete_notify" alt="" coords="231,883,395,909"/>
+<area shape="rect" id="node20" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="477,908,566,935"/>
+</map>

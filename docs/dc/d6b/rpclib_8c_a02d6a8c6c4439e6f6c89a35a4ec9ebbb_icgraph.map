@@ -1,0 +1,32 @@
+<map id="m0_rpc_server_start" name="m0_rpc_server_start">
+<area shape="rect" id="node2" href="$da/d54/group__dtm0.html#gab8c91649da39638f0bb5ce5d346dd8ae" title="m0_ut_dtm0_helper_init" alt="" coords="205,5,365,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga982cd021c25afdd54bc2b934f4aa547d" title="casc_ut_init" alt="" coords="239,56,331,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a9f5fd192baa7bae00f92c4d819185cf0" title="dixc_ut_init" alt="" coords="241,107,329,133"/>
+<area shape="rect" id="node5" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#ad26120808455b3cb04481e760b85bd7a" title="isc_ut_server_start" alt="" coords="219,157,352,184"/>
+<area shape="rect" id="node6" href="$d1/dfc/cm_2ut_2cm_8c.html#a6771d3976f7f0eb4bdaafb9cbe868289" title="cm_ut_server_start" alt="" coords="218,208,353,235"/>
+<area shape="rect" id="node7" href="$d2/d72/ut_2confc_8c.html#ab48fa9c95be03f684a0c1b953147a8d9" title="test_confc_net" alt="" coords="231,259,339,285"/>
+<area shape="rect" id="node8" href="$d4/d3b/ut_2diter_8c.html#aef1b1bcc229165e3df8e288931e10b18" title="test_diter_net" alt="" coords="235,309,336,336"/>
+<area shape="rect" id="node9" href="$d5/d9a/ut_2rconfc_8c.html#aa11e32f62df4e0d13a656677184e36fd" title="rconfc_ut_motr_start" alt="" coords="214,360,357,387"/>
+<area shape="rect" id="node10" href="$d9/de6/group__console.html#gaac418243bd9c4a0e3bc3c3a8ae332175" title="cons_server_init" alt="" coords="227,411,344,437"/>
+<area shape="rect" id="node11" href="$d0/d0a/fdmi__echo_8c.html#ae67aac42ef31467a0ed32ac0b7617303" title="run_server" alt="" coords="244,461,327,488"/>
+<area shape="rect" id="node12" href="$db/ddb/filterc__ut_8c.html#af1e39698ea466db2dc8b061bf163d4af" title="rpc_client_and_server\l_start" alt="" coords="211,513,360,554"/>
+<area shape="rect" id="node13" href="$d0/d45/fis__ut_8c.html#a2850d3effed306741d962ec97dcb9274" title="fis_ut_motr_start" alt="" coords="225,579,345,605"/>
+<area shape="rect" id="node14" href="$dc/dc7/rpc_2ub_2ub_8c.html#aa322bab6eb1933e3482492c07c742a5f" title="_start" alt="" coords="258,629,313,656"/>
+<area shape="rect" id="node15" href="$d7/d48/ut_2note_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="216,681,355,722"/>
+<area shape="rect" id="node16" href="$d5/d5d/ut_2cob__foms_8c.html#a4ae0d99cad0ddddc9cf5e31ee9967fd6" title="cobfoms_utinit" alt="" coords="232,747,339,773"/>
+<area shape="rect" id="node17" href="$d1/d6d/bulkio__common_8h.html#a2961f353d912413bad2c0a27013799bb" title="bulkio_server_start" alt="" coords="219,797,351,824"/>
+<area shape="rect" id="node18" href="$dc/d35/ios__buffer__pool_8c.html#aa14e7456cb063860b156831e3a103359" title="check_buffer_pool_per\l_domain" alt="" coords="209,849,361,890"/>
+<area shape="rect" id="node19" href="$d3/d73/storage__dev__ut_8c.html#acda9fbd7e2074b4d509ffd76a96b3c58" title="rpc_start" alt="" coords="249,915,322,941"/>
+<area shape="rect" id="node20" href="$db/d5a/ut_2plan_8c.html#a0dc496c4aa88d467f8aead267a06aad0" title="lap_ut_server_start" alt="" coords="219,965,352,992"/>
+<area shape="rect" id="node21" href="$d6/d4a/ut_2idx__dix_8c.html#a3074614c71da9759c98ad1b35628c041" title="idx_dix_ut_init" alt="" coords="233,1016,338,1043"/>
+<area shape="rect" id="node22" href="$d5/ded/cs__ut__main_8c.html#a4e3af285e649f11ff588bd6ec3163422" title="cs_ut_test_helper_success" alt="" coords="195,1067,376,1093"/>
+<area shape="rect" id="node23" href="$d5/ded/cs__ut__main_8c.html#adf54fcdb98a3b5011f2b406c26c75948" title="cs_ut_test_helper_failure" alt="" coords="202,1117,369,1144"/>
+<area shape="rect" id="node24" href="$d5/ded/cs__ut__main_8c.html#ac84545c15a57f09e188982060a921117" title="test_cs_ut_rconfc_fatal" alt="" coords="206,1168,365,1195"/>
+<area shape="rect" id="node25" href="$d7/dad/service__ctx_8c.html#a8052917de2fba76aae5627dd71ebb54e" title="reqh_service_ctx_ut\l_test_helper" alt="" coords="216,1219,355,1261"/>
+<area shape="rect" id="node26" href="$de/d32/ut_2rm__service_8c.html#ac683593428216ad7c2bebea1c80e28ea" title="rm_service_start" alt="" coords="226,1285,345,1312"/>
+<area shape="rect" id="node27" href="$d4/d86/ut_2rpc__machine_8c.html#a3316e62f87fcdf1e5e8b20ea8bfda150" title="rpc_machine_watch_test" alt="" coords="202,1336,369,1363"/>
+<area shape="rect" id="node28" href="$da/de8/rpclib__ut_8c.html#a0a310f81c00e9b786c26a2b279ef87a1" title="test_m0_rpc_server\l_start" alt="" coords="217,1387,354,1429"/>
+<area shape="rect" id="node29" href="$da/de8/rpclib__ut_8c.html#ab78bbdfcd69ddff8314b0c5081d05624" title="test_m0_rpc_client\l_start" alt="" coords="219,1453,351,1494"/>
+<area shape="rect" id="node30" href="$da/de8/rpclib__ut_8c.html#aef1c4736e97e0430000adcfd2b329ed6" title="test_rpclib" alt="" coords="244,1519,327,1545"/>
+<area shape="rect" id="node31" href="$d8/db3/spiel__ut__common_8h.html#aeeeced922492dca4f7610713688a474b" title="m0_spiel__ut_rpc_server\l_start" alt="" coords="202,1570,369,1611"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="frame_endio" name="frame_endio">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga621e34fbc2519a2fb8b8788246253657" title="frame_done" alt="" coords="165,5,256,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="153,56,268,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga8a7efaa66e6aee79f9dc4b6ce743203e" title="stor_invariant" alt="" coords="161,107,261,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gab9b42c1ee918f46dc365f8fa0cfb657a" title="stor_balance" alt="" coords="163,157,259,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gafc54a8843ef3dada5cd2dd4ba05d5dff" title="frame_io_open" alt="" coords="157,208,264,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gabc4cc53887ebd811c307c4c4024ac8a6" title="frame_idle" alt="" coords="169,259,252,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="147,309,275,336"/>
+</map>

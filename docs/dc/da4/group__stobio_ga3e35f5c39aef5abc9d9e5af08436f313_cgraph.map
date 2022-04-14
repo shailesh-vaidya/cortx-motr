@@ -1,0 +1,24 @@
+<map id="stob_write_fom_tick" name="stob_write_fom_tick">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="608,113,723,140"/>
+<area shape="rect" id="node3" href="$dc/da4/group__stobio.html#ga687086376e08a4e672e66f245d4cd3b1" title="fom_stob_write_credit" alt="" coords="201,366,352,393"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="436,265,533,292"/>
+<area shape="rect" id="node5" href="$dc/da4/group__stobio.html#gaefb6aa3e07ac412b49605bbc09d7c4f4" title="stob_object_find" alt="" coords="426,321,543,348"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="413,378,556,405"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="436,454,533,481"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga604374b8c983f14fbae8cd5be4791289" title="m0_fom_tick_generic" alt="" coords="203,164,350,190"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="409,113,560,140"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="417,164,553,190"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#gae117d5576b6321b78bd49220acf6008b" title="m0_stob_addr_pack" alt="" coords="207,518,346,545"/>
+<area shape="rect" id="node12" href="$d9/d6a/group__stob.html#ga80f5f783068972cdc94324cd1b70a439" title="m0_stob_io_init" alt="" coords="220,569,333,596"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga861f6ac1e3135d275aa1d012917073f0" title="m0_stob_io_private\l_setup" alt="" coords="209,620,344,662"/>
+<area shape="rect" id="node14" href="$d6/d2c/group__stobad.html#ga33ca126a10c9de462875afe2b319623b" title="m0_stob_ad_balloc_set" alt="" coords="197,686,356,713"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="219,737,334,764"/>
+<area shape="rect" id="node16" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="216,788,337,814"/>
+<area shape="rect" id="node17" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="213,838,341,865"/>
+<area shape="rect" id="node18" href="$d9/d6a/group__stob.html#ga9308afb8f3a18c9ec47e96a96bab9cea" title="m0_stob_io_prepare\l_and_launch" alt="" coords="207,890,346,931"/>
+<area shape="rect" id="node19" href="$d1/d59/group__fom.html#gac1fc3a60895a72de7186cff3f55ecf17" title="m0_fom_callback_cancel" alt="" coords="192,956,361,982"/>
+<area shape="rect" id="node20" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="198,62,355,89"/>
+<area shape="rect" id="node21" href="$d1/d59/group__fom.html#ga0d4cf60def3ba4390460d35d68902cb7" title="m0_fom_rc" alt="" coords="233,1006,320,1033"/>
+<area shape="rect" id="node22" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="207,1057,347,1084"/>
+<area shape="rect" id="node23" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="220,1108,333,1134"/>
+</map>

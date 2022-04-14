@@ -1,0 +1,10 @@
+<map id="m0_rm_credit_copy" name="m0_rm_credit_copy">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gab20a95e1e5edafac23a81538da1fcebc" title="m0_rm_owner_selfadd" alt="" coords="379,70,532,97"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gae4dbada5398f59889574f6c3025b79c7" title="owner_liquidate" alt="" coords="204,32,316,58"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga661442afb03a965d369f709f0625f9b8" title="m0_rm_loan_init" alt="" coords="201,82,319,109"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="189,133,331,160"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gaa5aa3c8b4ee05f0f28297629e0004645" title="incoming_check" alt="" coords="397,146,513,173"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga5cee28ba9c8690be93de940f3ee0847c" title="revoke_send" alt="" coords="212,234,308,261"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga495701fcda45f813476fefdfdf492541" title="credit_eq" alt="" coords="223,285,297,312"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga9ee46e740b261e5665ec5a9b1c6e6a03" title="m0_rm_credit_dup" alt="" coords="195,336,325,362"/>
+</map>

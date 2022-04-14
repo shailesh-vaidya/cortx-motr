@@ -1,0 +1,6 @@
+<map id="obj_buffer_size" name="obj_buffer_size">
+<area shape="rect" id="node2" href="$db/d27/io__pargrp_8c.html#a67787c693fb163ff61d5aee05ae8cd77" title="data_buf_alloc_init" alt="" coords="179,5,310,32"/>
+<area shape="rect" id="node3" href="$db/d27/io__pargrp_8c.html#aa60481f6f8975340020b35e44205f16e" title="pargrp_iomap_databuf\l_alloc" alt="" coords="169,57,320,98"/>
+<area shape="rect" id="node4" href="$db/d27/io__pargrp_8c.html#af2c6d329476b15854518e634afd533d5" title="pargrp_iomap_paritybufs\l_alloc" alt="" coords="163,122,327,163"/>
+<area shape="rect" id="node5" href="$d3/d91/utils_8c.html#abe2ca1d9e097b73d437f5694608bb820" title="m0__page_size" alt="" coords="188,188,301,215"/>
+</map>

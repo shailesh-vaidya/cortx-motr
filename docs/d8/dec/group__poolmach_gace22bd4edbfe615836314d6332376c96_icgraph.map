@@ -1,0 +1,21 @@
+<map id="m0_poolmach_device_state" name="m0_poolmach_device_state">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="685,855,835,897"/>
+<area shape="rect" id="node3" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#ad6c0442ffe4d3a45de25d9c4f895a806" title="rebalance_is_cob_failed" alt="" coords="226,53,387,80"/>
+<area shape="rect" id="node4" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a56491d4ba51eb9b870c2e7d8b76a6d7b" title="repair_is_cob_failed" alt="" coords="238,104,375,131"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa80f74daeb84c939558fd4f32c6f22b0" title="unit_state" alt="" coords="267,155,346,181"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a75e9fd9a25ca52124e795bd76d4844fd" title="pargrp_iomap_dgmode\l_process" alt="" coords="230,206,383,247"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ad0b4e42ecbaff1f0c6d7e0a00dcc23eb" title="device_check" alt="" coords="255,272,358,299"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a65f5aef1e9e83cfa2994f25fc5b5deb1" title="ioreq_dgmode_read" alt="" coords="481,297,616,324"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a868fe96209a5da63122469af0fea932b" title="nw_xfer_tioreq_map" alt="" coords="237,373,376,400"/>
+<area shape="rect" id="node10" href="$d9/dc2/group__io__foms.html#gac73c0391368c955cb7bd800ab027a4e1" title="io_prepare" alt="" coords="265,424,348,451"/>
+<area shape="rect" id="node11" href="$d5/d10/pool__foms_8c.html#af651d460e3306bc420f302c74821b405" title="poolmach_query_op" alt="" coords="237,475,376,501"/>
+<area shape="rect" id="node12" href="$d4/d6a/test__pm_8c.html#a82b1abe17cefaf21037143096f8f1fed" title="pm_test_transit" alt="" coords="251,525,363,552"/>
+<area shape="rect" id="node13" href="$d4/d6a/test__pm_8c.html#a168112f21dcf0891381e445baab94193" title="pm_test_spare_slot" alt="" coords="239,576,375,603"/>
+<area shape="rect" id="node14" href="$d4/d6a/test__pm_8c.html#a7edcb49344e9cc70883e2779943d1c72" title="pm_test_multi_fail" alt="" coords="243,627,371,653"/>
+<area shape="rect" id="node15" href="$d7/daf/group___s_n_s_c_m.html#ga91a4495cf99b20b066a00e2685b32691" title="m0_sns_cm_is_cob_repaired" alt="" coords="211,677,402,704"/>
+<area shape="rect" id="node16" href="$d7/daf/group___s_n_s_c_m.html#gab3a5959674fcdd31e0881bb52023f32c" title="m0_sns_cm_is_cob_repairing" alt="" coords="209,728,404,755"/>
+<area shape="rect" id="node17" href="$d7/daf/group___s_n_s_c_m.html#gafff40218cea86ec47faaa80b1b704b72" title="m0_sns_cm_is_cob_rebalancing" alt="" coords="201,779,412,805"/>
+<area shape="rect" id="node18" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="460,863,637,889"/>
+<area shape="rect" id="node19" href="$d9/d59/parity__repair_8h.html#a711174e709de06dce7eea001b9b27704" title="m0_sns_repair_spare\l_rebalancing" alt="" coords="233,881,380,922"/>
+<area shape="rect" id="node20" href="$d9/d59/parity__repair_8h.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="221,947,392,973"/>
+</map>

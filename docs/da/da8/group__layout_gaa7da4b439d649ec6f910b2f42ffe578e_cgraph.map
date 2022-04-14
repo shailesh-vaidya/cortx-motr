@@ -1,0 +1,9 @@
+<map id="m0_layout_enum_type_register" name="m0_layout_enum_type_register">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="397,35,592,62"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="221,35,335,62"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#gadf9097358192995ef733a59d223e129f" title="max_recsize_update" alt="" coords="207,86,349,112"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#ga9e15dc29aa4b0356b209342bcddcdc2e" title="m0_layout__log" alt="" coords="221,136,335,163"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="214,187,342,214"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="233,238,323,264"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="245,288,311,315"/>
+</map>

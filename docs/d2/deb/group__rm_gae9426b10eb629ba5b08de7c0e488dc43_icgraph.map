@@ -1,0 +1,6 @@
+<map id="resource_type_invariant" name="resource_type_invariant">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga58bfa070f5b8d6171ab4f5baf055ac9a" title="m0_rm_type_register" alt="" coords="221,5,365,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga94e817e4bb538c7926ea6191fb2b65eb" title="m0_rm_type_deregister" alt="" coords="213,56,372,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga0fb8ad02501797ee9ca80b3e01ef2419" title="m0_rm_resource_add" alt="" coords="219,107,366,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga7d5ff8c5a93060ad74a59f1407b7abbe" title="m0_rm_resource_del" alt="" coords="221,157,364,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_dix_next_result_prepare" name="m0_dix_next_result_prepare">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gae6a487c5cbb969833b2cd6836621c2ba" title="m0_dix_rs_init" alt="" coords="196,5,303,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gaaffcdae2ccdd96a97397602135a1d1a0" title="dix_rs_vals_alloc" alt="" coords="188,56,311,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga8595884df0a51885134553c2b5a942fa" title="dix_data_load" alt="" coords="198,107,301,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaa94ddd6e445fee07a2e7801a72cafe27" title="sc_key_pos_set" alt="" coords="191,157,308,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gaac46dcd6ae7dea4dd38c10950b58fcaf" title="sc_min_val_get" alt="" coords="193,208,306,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga2bffde843726c15ed8e217e20d75ab3d" title="sc_rep_eq" alt="" coords="359,233,441,260"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga075cea6e1c938d0ff867016fb81cf0a0" title="sc_result_add" alt="" coords="198,309,301,336"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga01cc6212597795d785c0594ce96b1448" title="m0_cas_req_fini" alt="" coords="191,360,308,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga6b898c36393acde78b30e4e27828769c" title="m0_dix_rs_fini" alt="" coords="196,411,303,437"/>
+</map>

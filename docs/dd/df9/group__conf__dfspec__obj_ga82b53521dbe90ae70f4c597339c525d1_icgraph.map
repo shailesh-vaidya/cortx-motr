@@ -1,0 +1,20 @@
+<map id="m0_conf_obj_is_stub" name="m0_conf_obj_is_stub">
+<area shape="rect" id="node2" href="$dd/d5d/conf_2objs_2service_8c.html#ae27d84e22c87ca616184a3790522df4c" title="service_check" alt="" coords="241,5,347,32"/>
+<area shape="rect" id="node3" href="$d2/d01/group__confd__dlspec.html#ga2ff866a2b615e427c8bdd248e8b18e74" title="readiness_check" alt="" coords="234,56,354,83"/>
+<area shape="rect" id="node4" href="$dd/d06/conf_2objs_2dir_8c.html#a43186b5175f4696578a10384a69394ba" title="dir_check" alt="" coords="255,107,333,133"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="209,157,379,184"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa7870c4658e18d0135549e05d8eb2c32" title="spiel_ss_ep_for_svc" alt="" coords="437,183,579,209"/>
+<area shape="rect" id="node7" href="$dd/d7b/group__conf__dlspec__objops.html#ga6ba3a42d850fd1fee7b9bdc30275c65e" title="_generic_obj_invariant" alt="" coords="219,259,369,285"/>
+<area shape="rect" id="node8" href="$d9/d40/group__conf__dfspec__objops.html#ga97c0f5a3b12f323eacf61fc762fa8480" title="m0_conf_obj_fill" alt="" coords="236,309,352,336"/>
+<area shape="rect" id="node9" href="$d9/d40/group__conf__dfspec__objops.html#ga49654be0c7d1daa6b5e8ce701ff6e85f" title="m0_conf_obj_match" alt="" coords="225,360,363,387"/>
+<area shape="rect" id="node10" href="$d0/d85/process_8c.html#ac8b7323c7b12242af95bf18638272bb2" title="process_check" alt="" coords="239,411,349,437"/>
+<area shape="rect" id="node11" href="$db/d57/profile_8c.html#a33da2059f88e03bdce1dba8ee5e13463" title="profile_check" alt="" coords="245,461,343,488"/>
+<area shape="rect" id="node12" href="$dc/d17/pver_8c.html#a379e401da5daac1061e11b3032a0d6ad" title="pver_check" alt="" coords="249,512,339,539"/>
+<area shape="rect" id="node13" href="$dc/dd7/root_8c.html#a904dfabf45a45792be04ea5b798160f5" title="root_check" alt="" coords="251,563,337,589"/>
+<area shape="rect" id="node14" href="$d4/d7c/sdev_8c.html#ac86fa18d2f303035139c5e50a4c3b1ac" title="sdev_check" alt="" coords="248,613,340,640"/>
+<area shape="rect" id="node15" href="$d0/dc5/group__conf-pvers.html#ga92629a078aae6d63c318fd7ce3ae4198" title="conf_pver_objvs_count" alt="" coords="216,664,372,691"/>
+<area shape="rect" id="node16" href="$db/d90/group__rconfc__dlspec.html#ga506c02213fdd8232a26451830820b6fe" title="_confc_phony_cache\l_remove" alt="" coords="221,715,367,757"/>
+<area shape="rect" id="node17" href="$d9/d84/group__conf__validation.html#ga95462467176ee6a7c5d5107a70f64031" title="conf_pver_width_measure_w" alt="" coords="199,781,389,808"/>
+<area shape="rect" id="node18" href="$d3/d0e/group__conf__walk.html#ga882c55bccddc03a43ec0de9a53cded88" title="conf_walker_down" alt="" coords="229,832,359,859"/>
+<area shape="rect" id="node19" href="$de/de1/rmut_8c.html#a074e7da4a515c1fe353a50e11615b066" title="rm_ctxs_rmsvc_conf_add" alt="" coords="208,883,380,909"/>
+</map>

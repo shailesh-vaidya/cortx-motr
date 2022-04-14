@@ -1,0 +1,8 @@
+<map id="st_mark_op" name="st_mark_op">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga6bdfb2e8450912b6aa8d79efbd618cd0" title="st_entity_create" alt="" coords="144,5,259,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#ga83d22263c019d3871c84e9731a77e025" title="st_entity_delete" alt="" coords="144,56,259,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#gabd85311e065fc22bd27af78fadf9b588" title="st_obj_op" alt="" coords="162,107,241,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga277756d9b307488fd0c5021fa62ad62c" title="st_idx_op" alt="" coords="162,157,241,184"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="148,208,255,235"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga9480cc90ec301c573e30c3e34cba03b0" title="st_layout_op" alt="" coords="153,259,249,285"/>
+</map>

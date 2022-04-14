@@ -1,0 +1,9 @@
+<map id="confx_fill" name="confx_fill">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="128,5,292,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="340,31,391,57"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gad0a21257040bbfe406cfe00ca9660c45" title="m0_be_btree_cursor\l_first_sync" alt="" coords="140,107,280,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gae517a9ece0cbcac712467b75e6c88133" title="m0_be_btree_cursor\l_next_sync" alt="" coords="140,173,280,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="140,238,280,279"/>
+<area shape="rect" id="node7" href="$d2/db5/db_8c.html#ac2090f07aa156162f4d0e8ac587a724f" title="m0_confx_sizeof" alt="" coords="149,304,271,331"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="128,355,292,381"/>
+</map>

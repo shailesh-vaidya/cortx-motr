@@ -1,0 +1,6 @@
+<map id="console_role_init_fini" name="console_role_init_fini">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga7ba4301f569cef87364477120b264bda" title="fini" alt="" coords="271,5,310,32"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#ga24490a39cfe284a45dc4a42c936b2a23" title="m0_net_test_commands_init" alt="" coords="196,56,385,83"/>
+<area shape="rect" id="node4" href="$d0/de6/group___net_test_commands_internals.html#ga5acb2612e82446e6416782dbd6d73bb7" title="m0_net_test_commands_fini" alt="" coords="196,107,385,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="256,157,325,184"/>
+</map>

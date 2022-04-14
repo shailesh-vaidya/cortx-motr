@@ -1,0 +1,6 @@
+<map id="net_rpc_process" name="net_rpc_process">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gad9936bd72a74a5dd058d487ea9373792" title="net_rpc_init" alt="" coords="177,5,267,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga6bcf489da435c02f8e270f60bdb05ca5" title="net_rpc_send" alt="" coords="172,56,272,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#gab885eae6b895fd354864d1283746eb26" title="net_rpc_bulk" alt="" coords="174,107,270,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga72c7f23228c4f64a1caabda1d1452080" title="net_rpc_fini" alt="" coords="177,157,267,184"/>
+</map>

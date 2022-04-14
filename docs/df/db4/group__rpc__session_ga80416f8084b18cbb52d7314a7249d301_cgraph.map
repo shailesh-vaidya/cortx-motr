@@ -1,0 +1,14 @@
+<map id="reqh_service_ha_state_set" name="reqh_service_ha_state_set">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="463,202,503,229"/>
+<area shape="rect" id="node3" href="$d0/dc7/group__ha-note.html#ga92737f70ea3232a705766c4fe02be6b7" title="m0_ha_state2str" alt="" coords="264,50,383,77"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="272,101,375,128"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="261,152,386,178"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="232,202,415,229"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gad8ac8ec12cf57ee9f87f51260aa32451" title="conn_flag_is_set" alt="" coords="263,253,383,280"/>
+<area shape="rect" id="node8" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="297,304,350,330"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="272,354,375,381"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#ga7d7c03f53ffaff124d27fa935e107fe8" title="m0_ha_send" alt="" coords="275,405,371,432"/>
+<area shape="rect" id="node11" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="291,456,356,482"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="289,506,358,533"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="279,557,368,584"/>
+</map>

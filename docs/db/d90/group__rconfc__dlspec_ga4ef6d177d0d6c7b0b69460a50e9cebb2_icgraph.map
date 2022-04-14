@@ -1,0 +1,8 @@
+<map id="m0_rconfc_ver_max_read" name="m0_rconfc_ver_max_read">
+<area shape="rect" id="node2" href="$d5/d9a/ut_2rconfc_8c.html#ab0d6964cd632e7b797ac4f70ec8e544b" title="test_start_stop" alt="" coords="253,5,362,32"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#a2de05b455f237615202b9af12a049eec" title="test_reading" alt="" coords="261,56,354,83"/>
+<area shape="rect" id="node4" href="$d5/d9a/ut_2rconfc_8c.html#a82501bb00e28e4c1158bba92daf8298c" title="test_quorum_impossible" alt="" coords="226,107,389,133"/>
+<area shape="rect" id="node5" href="$d5/d9a/ut_2rconfc_8c.html#a2f4524df3363b588ae2e8ede7b529c28" title="test_quorum_retry" alt="" coords="244,157,371,184"/>
+<area shape="rect" id="node6" href="$d5/d9a/ut_2rconfc_8c.html#a05afecf897079fd92fdf8040504d2c43" title="test_reconnect_success" alt="" coords="225,208,389,235"/>
+<area shape="rect" id="node7" href="$d9/d50/group__spiel-api-fspec.html#ga7352002b4d673754a2423859cb6bd0e5" title="m0_spiel_tx_commit\l_forced" alt="" coords="236,259,379,301"/>
+</map>

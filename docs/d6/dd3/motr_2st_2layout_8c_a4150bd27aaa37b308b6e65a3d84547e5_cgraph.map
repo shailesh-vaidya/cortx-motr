@@ -1,0 +1,19 @@
+<map id="layout_capture_io" name="layout_capture_io">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="445,290,509,317"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#abc02b232b189b1ad8ee31910da0f3234" title="create_obj" alt="" coords="436,645,519,672"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="611,430,693,457"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="603,949,701,976"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="609,898,695,925"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="613,645,691,672"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="611,848,693,874"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#gae7037d6e4cc03fe7aacddb58c31d24ab" title="st_entity_fini" alt="" coords="604,506,700,533"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="424,898,531,925"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga7c070ca5cd5c3d02d56d91e7966b889b" title="m0_obj_layout_type" alt="" coords="195,721,334,748"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="400,113,555,140"/>
+<area shape="rect" id="node13" href="$df/df7/group___client.html#ga9480cc90ec301c573e30c3e34cba03b0" title="st_layout_op" alt="" coords="429,341,525,368"/>
+<area shape="rect" id="node14" href="$d2/def/group__client.html#gac17fa1f1320bd3d879079ef005f04251" title="m0_client_layout_capture" alt="" coords="179,88,350,114"/>
+<area shape="rect" id="node15" href="$d6/dd3/motr_2st_2layout_8c.html#a8f6a849985959d214fe60f2c288cd934" title="layout_create_capture_obj" alt="" coords="177,620,352,646"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="443,1202,512,1229"/>
+<area shape="rect" id="node17" href="$d6/dd3/motr_2st_2layout_8c.html#ae1ed4d5cdfd8a80cfc0efd5e4c219d86" title="write_obj" alt="" coords="227,822,302,849"/>
+<area shape="rect" id="node18" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="190,1202,339,1229"/>
+</map>

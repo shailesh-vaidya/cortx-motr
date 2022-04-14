@@ -1,0 +1,9 @@
+<map id="m0_be_io_err_send" name="m0_be_io_err_send">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="359,29,399,55"/>
+<area shape="rect" id="node3" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="190,29,293,55"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga7d7c03f53ffaff124d27fa935e107fe8" title="m0_ha_send" alt="" coords="193,79,289,106"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="209,130,274,157"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,181,276,207"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="188,231,295,258"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#gaa8beed913080475991e2d54285538fac" title="m0_time" alt="" coords="343,257,415,283"/>
+</map>

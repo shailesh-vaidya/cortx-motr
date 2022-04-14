@@ -1,0 +1,7 @@
+<map id="cmd_serialize" name="cmd_serialize">
+<area shape="rect" id="node2" href="$dc/d26/group___net_test_serialize_internals.html#ga5e15fafa5e8e8ee832012c09df7312ef" title="m0_net_test_serialize" alt="" coords="384,91,533,118"/>
+<area shape="rect" id="node3" href="$d1/d19/group___net_test_serialize_d_f_s.html#gadc27b5a418767cd9732f8abd1b3f9fd9" title="net_test_len_accumulate" alt="" coords="581,66,748,93"/>
+<area shape="rect" id="node4" href="$d9/da2/group___net_test_str_internals.html#gabc3f2e4405739755b450911c6996596a" title="m0_net_test_str_serialize" alt="" coords="161,41,331,67"/>
+<area shape="rect" id="node5" href="$dd/d18/group___net_test_s_list_internals.html#gaec0efb0c36255d7a5d52b642df2d7763" title="m0_net_test_slist_serialize" alt="" coords="156,142,336,169"/>
+<area shape="rect" id="node6" href="$d0/de6/group___net_test_commands_internals.html#ga6a075b97bcaef33ac590589aa48a86e1" title="cmd_status_data_serialize" alt="" coords="157,193,335,219"/>
+</map>

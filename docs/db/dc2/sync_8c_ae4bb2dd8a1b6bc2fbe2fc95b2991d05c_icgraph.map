@@ -1,0 +1,5 @@
+<map id="sync_request_target_add" name="sync_request_target_add">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#gaa3c36c968db8883ab36a784ffcfa9672" title="m0_sync_entity_add" alt="" coords="221,5,364,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga9f99c605b939496aa32b3724b11ae1a1" title="m0_sync_op_add" alt="" coords="231,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#gaf81b580f1b345e4f20f6cfd45bf63c9c" title="m0_entity_sync" alt="" coords="235,107,350,133"/>
+</map>

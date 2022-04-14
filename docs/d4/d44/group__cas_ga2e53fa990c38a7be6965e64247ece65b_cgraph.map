@@ -1,0 +1,5 @@
+<map id="vals_create" name="vals_create">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="143,5,311,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="164,56,289,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga198b0f865f877067ef331725c3789c68" title="value_create" alt="" coords="179,107,275,133"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="ag2snsag" name="ag2snsag">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga43197021fceb4b8cc0659f89588770c3" title="ag_cp_recvd_from_proxy" alt="" coords="165,5,333,32"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#gab2c7851c2b16e150a69c9ef7e04d427c" title="m0_sns_cm_cp_sw_check" alt="" coords="159,56,339,83"/>
+<area shape="rect" id="node4" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a2e6a3984bf850b36aee8179ec05cb423" title="cp_ag_can_fini" alt="" coords="195,107,304,133"/>
+<area shape="rect" id="node5" href="$d3/daf/group___s_n_s_c_m_c_p.html#gaddd3b7f76a5f50bae8e1f560b9eed318" title="cob_stob_check" alt="" coords="191,157,308,184"/>
+<area shape="rect" id="node6" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga583b27297b3c635b4b1eb07fc5f17199" title="m0_sns_cm_ag_local\l_cp_nr" alt="" coords="175,209,323,250"/>
+<area shape="rect" id="node7" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga6aa663dbd3650124f6d87a21817056d9" title="m0_sns_cm_ag_has_incoming_from" alt="" coords="132,275,367,301"/>
+<area shape="rect" id="node8" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga1a3a1c803656bb24f31dfabb26386130" title="m0_sns_cm_ag_is_frozen_on" alt="" coords="152,325,347,352"/>
+<area shape="rect" id="node9" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga0d927c7cf9e68a3fe1e4ff0350675014" title="rebalance_ag_fini" alt="" coords="188,376,311,403"/>
+<area shape="rect" id="node10" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga41ef9b5b8239dfe5285186ed764c1a87" title="rebalance_ag_can_fini" alt="" coords="174,427,325,453"/>
+<area shape="rect" id="node11" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga5779b394709c355668e27e7a82d69b32" title="repair_ag_fini" alt="" coords="200,477,299,504"/>
+<area shape="rect" id="node12" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga18fe02d735c7eef0dcc2f2f221b2a85b" title="repair_ag_inactive\l_acc_nr" alt="" coords="186,529,313,570"/>
+<area shape="rect" id="node13" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga57c62697376acadeb5012dc9a15d57c0" title="repair_ag_can_fini" alt="" coords="428,565,555,592"/>
+<area shape="rect" id="node14" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#a823988eeb2478be200381adce6d76404" title="repair_ag_destroy" alt="" coords="187,645,312,672"/>
+<area shape="rect" id="node15" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#acb66f0fb7832be32be018e31c0da72e5" title="iter_ut_fom_tick" alt="" coords="192,696,307,723"/>
+<area shape="rect" id="node16" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga9694e61a7e0508103e1fef26e34a4cc5" title="m0_sns_cm_cp_fail" alt="" coords="180,747,319,773"/>
+<area shape="rect" id="node17" href="$d3/daf/group___s_n_s_c_m_c_p.html#gafaeb37981de5d42d434c8418f6dd07d5" title="m0_sns_cm_cp_next_phase_get" alt="" coords="143,797,356,824"/>
+<area shape="rect" id="node18" href="$d7/daf/group___s_n_s_c_m.html#gab31dd16f64205cfa2b46e35142a27a79" title="iter_ag_setup" alt="" coords="199,848,299,875"/>
+<area shape="rect" id="node19" href="$d7/daf/group___s_n_s_c_m.html#ga5a9a0287f77c2c8e4807e5c86e8141fe" title="iter_cp_setup" alt="" coords="199,899,299,925"/>
+<area shape="rect" id="node20" href="$d3/daf/group___s_n_s_c_m_c_p.html#gabcfb19f0b54c86147f1e875428d4b57e" title="m0_sns_cm_rebalance\l_cp_xform" alt="" coords="171,950,327,991"/>
+<area shape="rect" id="node21" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga2d33ce2ed5e6af6249bbb6acb0fabe1c" title="repair_cp_bufvec_split" alt="" coords="173,1016,325,1043"/>
+<area shape="rect" id="node22" href="$d3/daf/group___s_n_s_c_m_c_p.html#gad40c545eb6f834b33f3ef12716d129a0" title="m0_sns_cm_repair_cp\l_xform" alt="" coords="415,1059,568,1101"/>
+<area shape="rect" id="node23" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga8a46bbad4ee1bd6e7a00bdc765ffbf5e" title="cp_rs_recover" alt="" coords="197,1117,301,1144"/>
+<area shape="rect" id="node24" href="$d3/daf/group___s_n_s_c_m_c_p.html#gacb3d6dbee61bbb9444f706c93ddefb4a" title="acc_cp_free" alt="" coords="203,1168,296,1195"/>
+<area shape="rect" id="node25" href="$d6/d59/group___s_n_s_c_m_a_g.html#gafbe2fc9faa22accc2a138f33c0d0d6b7" title="m0_sns_cm_acc_cp_setup" alt="" coords="159,1219,340,1245"/>
+</map>

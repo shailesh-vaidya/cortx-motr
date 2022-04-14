@@ -1,0 +1,14 @@
+<map id="m0_md_cob_wire2mem" name="m0_md_cob_wire2mem">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a248f4ce335db52ea21813c5dfc8af56c" title="cob_setattr_fom_tick" alt="" coords="227,5,371,32"/>
+<area shape="rect" id="node3" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="235,56,363,83"/>
+<area shape="rect" id="node4" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#ga7307d998e9748942e323735709a0b6fa" title="m0_ios_mds_getattr" alt="" coords="229,107,369,133"/>
+<area shape="rect" id="node5" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#gaddbd48370146200b2dc8cdc248cf709c" title="getattr_rpc_item_reply_cb" alt="" coords="213,157,385,184"/>
+<area shape="rect" id="node6" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#gaecdb1a12dbb15b387b1c1199fbac50d5" title="m0_ios_getattr" alt="" coords="245,208,353,235"/>
+<area shape="rect" id="node7" href="$d4/d4c/md__foms_8c.html#af6af01e5711ffe5a3e8454043f615f69" title="m0_md_tick_create" alt="" coords="231,259,367,285"/>
+<area shape="rect" id="node8" href="$d4/d4c/md__foms_8c.html#afd77540975e659970f48efcd02722aad" title="m0_md_tick_link" alt="" coords="239,309,359,336"/>
+<area shape="rect" id="node9" href="$d4/d4c/md__foms_8c.html#af552e778f12adff4b4989c244dad905c" title="m0_md_tick_unlink" alt="" coords="232,360,367,387"/>
+<area shape="rect" id="node10" href="$d4/d4c/md__foms_8c.html#af5988584d6e3488e067bf7b1a65b2dc3" title="m0_md_tick_rename" alt="" coords="228,411,371,437"/>
+<area shape="rect" id="node11" href="$d4/d4c/md__foms_8c.html#ac0417ca058d21f656fae0f323321a94d" title="m0_md_tick_open" alt="" coords="235,461,363,488"/>
+<area shape="rect" id="node12" href="$d4/d4c/md__foms_8c.html#a8f0751e0a6d1512aea9c93f151097947" title="m0_md_tick_close" alt="" coords="234,512,365,539"/>
+<area shape="rect" id="node13" href="$d4/d4c/md__foms_8c.html#ab639431f04fc201ab3eade09e5c93a4a" title="m0_md_tick_setattr" alt="" coords="231,563,368,589"/>
+</map>

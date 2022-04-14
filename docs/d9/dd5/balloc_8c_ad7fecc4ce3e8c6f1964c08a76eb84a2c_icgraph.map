@@ -1,0 +1,12 @@
+<map id="bgi_mutex" name="bgi_mutex">
+<area shape="rect" id="node2" href="$de/d8f/group__balloc.html#ga310d476b96f1dadd84c3f604712f52f8" title="m0_balloc_release_extents" alt="" coords="136,5,316,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#gad0279415b5fbb272b244e9438df7e256" title="m0_balloc_load_extents" alt="" coords="364,31,527,57"/>
+<area shape="rect" id="node4" href="$de/d8f/group__balloc.html#ga45888c5ea0d950523736a8538b9d1cf2" title="m0_balloc_lock_group" alt="" coords="151,107,301,133"/>
+<area shape="rect" id="node5" href="$de/d8f/group__balloc.html#gae5da9f1a77743e6f91185a14414a3040" title="m0_balloc_trylock_group" alt="" coords="143,157,309,184"/>
+<area shape="rect" id="node6" href="$de/d8f/group__balloc.html#ga4eb6adc6482301f4c59a7eae692c8555" title="m0_balloc_unlock_group" alt="" coords="143,208,309,235"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a8fe109970538d07c5de2d9afaa213000" title="balloc_group_info_init" alt="" coords="153,259,299,285"/>
+<area shape="rect" id="node8" href="$d9/dd5/balloc_8c.html#a8daa39e1fb340395bfce3e5b6047f831" title="balloc_group_info_fini" alt="" coords="153,309,299,336"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#aca44e5d1880df9cf2a917030af81712f" title="balloc_find_extent\l_buddy" alt="" coords="163,361,289,402"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a2095abc25d1a24f693753198a5adf2bd" title="balloc_alloc_db_update" alt="" coords="147,427,305,453"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#ac668388d836c6992afda9a3b39291360" title="balloc_free_db_update" alt="" coords="150,477,302,504"/>
+</map>

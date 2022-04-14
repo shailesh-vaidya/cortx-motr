@@ -1,0 +1,14 @@
+<map id="m0_be_tx_credit_mac" name="m0_be_tx_credit_mac">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#aa7eae0394ea1b54605f4cae8c556ff12" title="balloc_db_update_credit" alt="" coords="431,29,593,56"/>
+<area shape="rect" id="node3" href="$da/df8/group___b_e.html#gae96da95a7c471db24c345e7f141db66b" title="m0_be_active_record\l_domain_credit" alt="" coords="220,117,367,158"/>
+<area shape="rect" id="node4" href="$d4/d4f/ut_2active__record_8c.html#a42cf340ca7f2a4ad9e0f0f8f4bcf5108" title="actrec_case" alt="" coords="247,183,340,209"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga25ee04853549e44b6774b97440f8435c" title="m0_be_allocator_credit" alt="" coords="215,257,371,284"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga0e1154801a6afdeb1cfd06409f708b7f" title="btree_node_update_credit" alt="" coords="208,359,379,385"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac0d50cb4872a2b2bfb2a4ae05f513c6f" title="insert_credit" alt="" coords="465,329,559,356"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaa209b926142b25ca8f95b4cb950d6007" title="delete_credit" alt="" coords="464,385,560,412"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga1eca42a1cfe5fbe1a14ce17e8a37984c" title="m0_be_btree_create\l_credit" alt="" coords="442,447,582,489"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gac443c248566338fb4035b5c848715934" title="m0_be_btree_update\l_credit" alt="" coords="222,51,365,93"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga385c366d0f032b242058c668d10e7cf7" title="m0_be_btree_destroy\l_credit" alt="" coords="220,511,367,553"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gaf028f435a7c37848e266d5e43c435a7d" title="m0_be_btree_clear_credit" alt="" coords="208,577,379,604"/>
+<area shape="rect" id="node13" href="$de/d78/ut_2tx__regmap_8c.html#a0d6d03127c80ebe38b5fbfc3443c8d84" title="m0_be_ut_reg_area_merge" alt="" coords="204,628,383,655"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_cm_fini" name="m0_cm_fini">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="159,5,255,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="321,107,447,133"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga545ba1b713b461d030b994c3d42f18f4" title="m0_cm_invariant" alt="" coords="146,56,267,83"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#gad131845932d5230a7798a92e2e5cbe3b" title="m0_cm_state_set" alt="" coords="143,107,270,133"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="339,259,429,285"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga7bac31f42a103a8135eecf056ae17892" title="m0_chan_fini" alt="" coords="497,259,596,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="319,309,449,336"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="331,411,437,437"/>
+<area shape="rect" id="node10" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="151,411,262,437"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="143,360,271,387"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="162,512,251,539"/>
+</map>

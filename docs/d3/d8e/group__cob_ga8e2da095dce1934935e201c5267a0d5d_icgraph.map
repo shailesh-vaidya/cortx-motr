@@ -1,0 +1,9 @@
+<map id="m0_cob_bcrec_size" name="m0_cob_bcrec_size">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga34f7a7faad2d0acdbba85f22ee6500b6" title="m0_cob_bc_iterator_init" alt="" coords="196,5,356,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga42629c5ac35d14cc78e79ae1963b7ba1" title="m0_cob_bc_iterator_get" alt="" coords="195,56,357,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#gae20dc241f328d5e3b7a7b52f2bf2fc75" title="m0_cob_bc_iterator_next" alt="" coords="192,107,360,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gac110d276d5c3a01843dbf81f302b1dfb" title="m0_cob_bc_lookup" alt="" coords="209,157,343,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga406ba3ef69e634c3ff3868dc1f902cdc" title="m0_cob_bc_insert" alt="" coords="212,208,340,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gafa3efec3bcada0d281e97c2738585918" title="m0_cob_bc_update" alt="" coords="209,259,343,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga6b434b15650d7ab95d117b98275ca9a8" title="cob_table_tx_credit" alt="" coords="209,309,343,336"/>
+</map>

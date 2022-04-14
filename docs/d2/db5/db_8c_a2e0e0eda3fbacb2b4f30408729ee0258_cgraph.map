@@ -1,0 +1,9 @@
+<map id="confdb_table_init" name="confdb_table_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="385,142,436,169"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="191,41,312,68"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga5cc3ac7d98ce51495ac58eb0a8637e0c" title="m0_be_btree_create" alt="" coords="181,92,321,118"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3821d1896228463799aeb6becd4a0238" title="m0_be_seg_dict_insert" alt="" coords="173,244,329,270"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="377,244,444,270"/>
+<area shape="rect" id="node7" href="$d2/db5/db_8c.html#abcb915319c737993c7bca266d88b0a8d" title="confdb_table_fini" alt="" coords="191,142,311,169"/>
+<area shape="rect" id="node8" href="$d2/db5/db_8c.html#a767a0f7a32e9d347620d1b0ce4f04a81" title="m0_confdb_destroy" alt="" coords="183,193,319,220"/>
+</map>

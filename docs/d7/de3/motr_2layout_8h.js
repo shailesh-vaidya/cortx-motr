@@ -1,0 +1,28 @@
+var motr_2layout_8h =
+[
+    [ "m0_capture_layout", "d1/df0/structm0__capture__layout.html", "d1/df0/structm0__capture__layout" ],
+    [ "m0_client_pdclust_layout", "de/d4d/structm0__client__pdclust__layout.html", "de/d4d/structm0__client__pdclust__layout" ],
+    [ "m0_composite_extent", "d4/d2d/structm0__composite__extent.html", "d4/d2d/structm0__composite__extent" ],
+    [ "m0_composite_layer", "de/d0d/structm0__composite__layer.html", "de/d0d/structm0__composite__layer" ],
+    [ "m0_client_composite_layout", "d3/d04/structm0__client__composite__layout.html", "d3/d04/structm0__client__composite__layout" ],
+    [ "m0_op_layout_ops", "d8/d48/structm0__op__layout__ops.html", "d8/d48/structm0__op__layout__ops" ],
+    [ "m0_op_layout", "db/d98/structm0__op__layout.html", "db/d98/structm0__op__layout" ],
+    [ "m0_op_composite_io", "de/da4/structm0__op__composite__io.html", "de/da4/structm0__op__composite__io" ],
+    [ "__MOTR_LAYOUT_H__", "d7/de3/motr_2layout_8h.html#aa3c100c9c03257e3de6b0431a0cdf241", null ],
+    [ "M0_OBJ_LAYOUT_ID", "d7/de3/motr_2layout_8h.html#ae6da3738b2928f46b54a52396af9b8ed", null ],
+    [ "M0_OBJ_LAYOUT_MAKE_LID", "d7/de3/motr_2layout_8h.html#ad6c8de3aac8030f877402d4548e395e8", null ],
+    [ "M0_OBJ_LAYOUT_TYPE", "d7/de3/motr_2layout_8h.html#aa561c1e750d40ffe6ea2c747c38730bb", null ],
+    [ "ent_dixc", "d2/d61/group__index-dix.html#ga5d7f1d33d83f071cf86ec56a6ae2283a", null ],
+    [ "m0__composite_container_init", "d7/de3/motr_2layout_8h.html#ac36265f8bb9e080615012bfaa76abb84", null ],
+    [ "m0__dix_layout_get_sync", "d7/de3/motr_2layout_8h.html#af680ff11e6f9b6acaed61083d9b63cf7", null ],
+    [ "m0__obj_layout_send", "d7/de3/motr_2layout_8h.html#a7ce5140fb165fa331cc44764e23aa577", null ],
+    [ "m0_client__layout_get", "d7/de3/motr_2layout_8h.html#abee9ca924d29ee6560922ba7977f46fc", null ],
+    [ "m0_client__layout_put", "d7/de3/motr_2layout_8h.html#a94633ca826f276c1af943f24d170a0dd", null ],
+    [ "m0_layout_op_launch", "d7/de3/motr_2layout_8h.html#ae69eccfe09641adbe988052189a34601", null ],
+    [ "ol_dixc", "d2/d61/group__index-dix.html#ga214881ddeec60b18fc866c80a46daeb8", null ],
+    [ "composite_extent_rd_idx_fid", "d7/de3/motr_2layout_8h.html#a571aa84c924fcce59b878b908bad0f5d", null ],
+    [ "composite_extent_wr_idx_fid", "d7/de3/motr_2layout_8h.html#a8db51575d63d4aa8eeb7497ec34d73b1", null ],
+    [ "layout_composite_ops", "d7/de3/motr_2layout_8h.html#ac7171ad4e260e4a8eb1490cad4702c25", null ],
+    [ "m0_op_layout_composite_ops", "d7/de3/motr_2layout_8h.html#a1a2e4990d9f2651a7cc5f54b2cd53a1b", null ],
+    [ "ol_bobtype", "d7/de3/motr_2layout_8h.html#ada28833466c82308edc0a31156e51049", null ]
+];

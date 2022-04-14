@@ -1,0 +1,28 @@
+<map id="test_ha_cancel" name="test_ha_cancel">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="203,5,309,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="426,31,525,57"/>
+<area shape="rect" id="node4" href="$d5/d8c/group__reqh.html#gae10be5add2e843f7c68e0c9fccf6719b" title="m0_reqh2profile" alt="" coords="199,107,313,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="196,157,316,184"/>
+<area shape="rect" id="node6" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="208,208,304,235"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga30d22166cd72ba7dca127c14eac03e59" title="m0_rconfc_start" alt="" coords="198,259,314,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="426,925,525,952"/>
+<area shape="rect" id="node9" href="$d9/dbf/ut_2item_8c.html#ac86b5ac2688dffeed96af0d908ac604f" title="__ha_service_event" alt="" coords="187,360,325,387"/>
+<area shape="rect" id="node10" href="$d9/dbf/ut_2item_8c.html#a4724501bac0004f873832cdae9b68476" title="__ha_timer__dummy" alt="" coords="185,411,327,437"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga22a4e29fd2ad39a9c6a7ded05730422f" title="m0_rpc_conn_ha_cfg_set" alt="" coords="171,461,341,488"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga2e05d0210809a117188d872dd5283b0a" title="m0_rpc_conn_ha_subscribe" alt="" coords="164,563,348,589"/>
+<area shape="rect" id="node13" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="396,512,555,539"/>
+<area shape="rect" id="node14" href="$d9/dbf/ut_2item_8c.html#a6ee35049fd066dbee4d6aaf36b8c414c" title="__ha_accept_imitate" alt="" coords="185,512,327,539"/>
+<area shape="rect" id="node15" href="$d5/d5d/ut_2cob__foms_8c.html#a87ce6fe98ce7d0d60e0ae807f06db084" title="fop_alloc" alt="" coords="219,664,293,691"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#ga4d0d8215a384e795d2e197c116bec1d3" title="m0_rpc_machine_get\l_stats" alt="" coords="183,715,329,757"/>
+<area shape="rect" id="node17" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="189,781,323,808"/>
+<area shape="rect" id="node18" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="189,832,323,859"/>
+<area shape="rect" id="node19" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="190,883,322,909"/>
+<area shape="rect" id="node20" href="$d9/dbf/ut_2item_8c.html#aa0d27071b98c5bafff70ff288ae4763c" title="chk_state" alt="" coords="217,933,295,960"/>
+<area shape="rect" id="node21" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="181,984,331,1011"/>
+<area shape="rect" id="node22" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="189,1035,323,1061"/>
+<area shape="rect" id="node23" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="195,1085,317,1112"/>
+<area shape="rect" id="node24" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="189,1136,323,1163"/>
+<area shape="rect" id="node25" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="181,1187,331,1213"/>
+<area shape="rect" id="node26" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="203,613,309,640"/>
+<area shape="rect" id="node27" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="188,1288,324,1315"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_ut_lib_buf_test" name="m0_ut_lib_buf_test">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="185,5,320,32"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga4de53f6e7192c424aac50c5d229a3f5d" title="m0_buf_copy" alt="" coords="203,56,303,83"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#gac5d9818a3ec07721cb92628a09844538" title="m0_buf_eq" alt="" coords="375,81,462,108"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="208,157,297,184"/>
+<area shape="rect" id="node6" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="205,208,300,235"/>
+<area shape="rect" id="node7" href="$d9/d13/lib_2ut_2buf_8c.html#a10a0828ce80499d2fc9ccbe15bf7b208" title="bit_is_set" alt="" coords="213,259,292,285"/>
+<area shape="rect" id="node8" href="$d8/d64/group__buf.html#ga36c5b49d7354e8c5c6095e37fae203c9" title="m0_buf_streq" alt="" coords="368,385,469,412"/>
+<area shape="rect" id="node9" href="$d8/d64/group__buf.html#ga1eeecff1ad43b9b294e36e1a54605fca" title="m0_buf_strdup" alt="" coords="199,360,307,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="218,411,287,437"/>
+<area shape="rect" id="node11" href="$d9/d13/lib_2ut_2buf_8c.html#a06559aca36f13675d03967f680c4bb20" title="bufs_test" alt="" coords="215,461,291,488"/>
+<area shape="rect" id="node12" href="$d9/d13/lib_2ut_2buf_8c.html#ab10cfa42e8cc7de8ce16e0efc573b718" title="buf_cmp_test" alt="" coords="202,512,303,539"/>
+</map>

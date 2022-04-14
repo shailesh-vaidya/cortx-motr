@@ -1,0 +1,9 @@
+<map id="ha_link_service_container" name="ha_link_service_container">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga1232e2cdc8de64cad20bcee2b1548452" title="ha_link_service_init" alt="" coords="239,5,375,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga023f51a8d63476f0bdef27e5f3b65a1b" title="ha_link_service_fini" alt="" coords="239,56,375,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga725b338a6d52345a2b0d102762f820c0" title="m0_ha_link_service\l_find_get" alt="" coords="238,107,375,149"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gad6b605c4b0737a00f89409190cda713d" title="m0_ha_link_service_put" alt="" coords="225,173,388,200"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gafe591e497f624bf1c3039cc80a66bd9e" title="m0_ha_link_service\l_quiesce" alt="" coords="436,191,573,233"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga9afa02f695956f99d629f3079f3dcccd" title="m0_ha_link_service\l_register" alt="" coords="238,275,375,317"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga1f46becc01c2d4ce1070e19c42991de9" title="m0_ha_link_service\l_deregister" alt="" coords="238,341,375,382"/>
+</map>

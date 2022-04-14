@@ -1,0 +1,17 @@
+<map id="m0_op_io_invariant" name="m0_op_io_invariant">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a577f0868f3322e4901d97c83f9db3565" title="obj_io_cb_launch" alt="" coords="222,5,345,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#a79a9a2cef9714498171a3010c8d31fd4" title="obj_io_cb_cancel" alt="" coords="222,56,345,83"/>
+<area shape="rect" id="node4" href="$d9/d5b/motr_2io_8c.html#a9e161863eef7ca2d8b2ed859eaf58043" title="obj_io_ast_fini" alt="" coords="231,107,336,133"/>
+<area shape="rect" id="node5" href="$d9/d5b/motr_2io_8c.html#a854b962ab7fc5440c8973bfc50ae9898" title="obj_io_cb_fini" alt="" coords="427,132,528,159"/>
+<area shape="rect" id="node6" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="243,208,323,235"/>
+<area shape="rect" id="node7" href="$d1/d2c/motr_2ut_2io_8c.html#a7a49f7dcff7f36f3ee23e1e5526bbfe2" title="ut_test_m0_op_io_invariant" alt="" coords="193,259,374,285"/>
+<area shape="rect" id="node8" href="$db/d27/io__pargrp_8c.html#a14ec11ba28525c4a55f45607117bd16f" title="pargrp_iomap_parity\l_recalc" alt="" coords="214,310,353,351"/>
+<area shape="rect" id="node9" href="$d7/dde/io__req_8c.html#ad6e71fad998d056deabfb31a3e3162b0" title="ioreq_iosm_handle_launch" alt="" coords="196,376,371,403"/>
+<area shape="rect" id="node10" href="$d7/dde/io__req_8c.html#ada3301b2c5cb457edd58779f099f83c7" title="ioreq_iosm_handle_executed" alt="" coords="188,427,379,453"/>
+<area shape="rect" id="node11" href="$d7/dde/io__req_8c.html#afb09604f120d25dce9c0fbabb5130c13" title="ioreq_application_data_copy" alt="" coords="190,477,377,504"/>
+<area shape="rect" id="node12" href="$d7/dde/io__req_8c.html#aede88476fe7d915bdabd7f3bb34ad451" title="ioreq_parity_recalc" alt="" coords="218,528,349,555"/>
+<area shape="rect" id="node13" href="$d7/dde/io__req_8c.html#ab04ea5a12322d475e3860245d6257ed0" title="ioreq_dgmode_recover" alt="" coords="207,579,360,605"/>
+<area shape="rect" id="node14" href="$d7/dde/io__req_8c.html#add82857135356cd005afff40da7c1b84" title="ioreq_dgmode_read" alt="" coords="216,629,351,656"/>
+<area shape="rect" id="node15" href="$d7/dde/io__req_8c.html#a8c5a5b0871054f992765c8dde09775fb" title="ioreq_dgmode_write" alt="" coords="214,680,353,707"/>
+<area shape="rect" id="node16" href="$d7/dde/io__req_8c.html#ad8ed1fb1e9b0e6190d0ef976f7f1dee8" title="ioreq_parity_verify" alt="" coords="219,731,347,757"/>
+</map>

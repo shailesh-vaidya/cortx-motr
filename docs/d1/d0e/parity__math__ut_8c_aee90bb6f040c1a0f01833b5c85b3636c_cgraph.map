@@ -1,0 +1,14 @@
+<map id="direct_recover" name="direct_recover">
+<area shape="rect" id="node2" href="$db/dc9/group__arith.html#ga70bb9d882edfc6cabf72ea2e90d01ccb" title="m0_rnd64" alt="" coords="205,5,284,32"/>
+<area shape="rect" id="node3" href="$d1/d0e/parity__math__ut_8c.html#a39e1cf99b8b2ee0f7b78f2ccea75cdc3" title="failure_setup" alt="" coords="197,56,293,83"/>
+<area shape="rect" id="node4" href="$d8/d6c/group__incremental__recovery.html#ga7467f90a1b55428b9fbe6baa84769be2" title="m0_sns_ir_init" alt="" coords="191,107,298,133"/>
+<area shape="rect" id="node5" href="$d8/d6c/group__incremental__recovery.html#ga3c50d599748ef39088498a485155a968" title="m0_sns_ir_fini" alt="" coords="380,157,487,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="535,208,604,235"/>
+<area shape="rect" id="node7" href="$d6/db4/matvec_8c.html#a1780f06abd8e81ea936749df3c083a17" title="m0_matvec_init" alt="" coords="187,259,302,285"/>
+<area shape="rect" id="node8" href="$d1/d0e/parity__math__ut_8c.html#a746c8b77ee11520d050883feca03f932" title="rhs_prepare" alt="" coords="199,309,290,336"/>
+<area shape="rect" id="node9" href="$d8/d6c/group__incremental__recovery.html#ga73992c1cce5250e70abecff92722ee34" title="m0_sns_ir_failure_register" alt="" coords="157,360,332,387"/>
+<area shape="rect" id="node10" href="$d8/d6c/group__incremental__recovery.html#gac2aa8fad6d9b110d486f2f5748626c49" title="m0_sns_ir_mat_compute" alt="" coords="161,411,329,437"/>
+<area shape="rect" id="node11" href="$d1/d0e/parity__math__ut_8c.html#a4607d98a8c6b1beb2bc4c1317c5b5e0d" title="reconstruct" alt="" coords="390,360,477,387"/>
+<area shape="rect" id="node12" href="$d1/d0e/parity__math__ut_8c.html#a6b3091df7c96e293fb6a1bbc8ae415cf" title="compare" alt="" coords="209,512,281,539"/>
+<area shape="rect" id="node13" href="$d6/db4/matvec_8c.html#a10b631664bad1b4e0ee5f2f0ae5215a2" title="m0_matvec_fini" alt="" coords="187,563,302,589"/>
+</map>

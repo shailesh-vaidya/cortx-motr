@@ -1,0 +1,6 @@
+<map id="m0_be_queue" name="m0_be_queue">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="5,189,88,267"/>
+<area shape="rect" id="node6" href="$d8/d9a/structbe__queue__wait__op.html" title="{be_queue_wait_op\n||}" alt="" coords="509,189,640,267"/>
+<area shape="rect" id="node7" href="$d0/dc9/structm0__be__queue__cfg.html" title="{m0_be_queue_cfg\n||}" alt="" coords="112,189,240,267"/>
+<area shape="rect" id="node8" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="278,189,333,267"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="m0_buf_alloc" name="m0_buf_alloc">
+<area shape="rect" id="node2" href="$d2/de0/group__extmap.html#ga5eba2a4f2e7d9a90034cc75e2ebe0d9a" title="emap_it_pack" alt="" coords="188,5,291,32"/>
+<area shape="rect" id="node3" href="$d2/de0/group__extmap.html#gac1037f2d16cd3a23d20cb1be82abb8e9" title="emap_it_open" alt="" coords="188,56,291,83"/>
+<area shape="rect" id="node4" href="$da/d8d/ut_2extmap_8c.html#aaee6ce244fadf0379abed8f851887577" title="split" alt="" coords="216,107,263,133"/>
+<area shape="rect" id="node5" href="$da/d8d/ut_2extmap_8c.html#a20fa4f33df0273065a017aa320e0c874" title="test_paste" alt="" coords="198,157,281,184"/>
+<area shape="rect" id="node6" href="$da/d8d/ut_2extmap_8c.html#aab0a017103f09eec193cf12f56dc6560" title="test_paste_checksum\l_validation" alt="" coords="164,209,315,250"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga4d9b98be52cad786b5ac3acf12f8a145" title="ctg_k_get" alt="" coords="200,275,279,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaf58a51a8f518f95f02702f1f7db0504e" title="ctg_v_get" alt="" coords="200,325,279,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga43ebe982d997359786ac21017e529b3f" title="cob_kv_get" alt="" coords="195,376,284,403"/>
+<area shape="rect" id="node10" href="$d9/d30/ut_2tx__group__format_8c.html#a4ee6ed56056a1e045a1cba6d27c7795f" title="be_ut_tgf_buf_init" alt="" coords="177,427,302,453"/>
+<area shape="rect" id="node11" href="$da/dbb/dtm0__log__ut_8c.html#a6f1f346f14d2f4483718829ec3fc2587" title="ut_dl_init_buf" alt="" coords="190,477,289,504"/>
+<area shape="rect" id="node12" href="$db/d71/dix_2ut_2client__ut_8c.html#a6ea659d28c54e67ded5419aef6e03a5b" title="layout_check" alt="" coords="190,528,289,555"/>
+<area shape="rect" id="node13" href="$db/d71/dix_2ut_2client__ut_8c.html#a57138d385b25379add0c729106a33dd5" title="keys_alloc" alt="" coords="197,579,281,605"/>
+<area shape="rect" id="node14" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a04bf9be01bed7cd028de293e3c84c01e" title="string_update" alt="" coords="189,629,289,656"/>
+<area shape="rect" id="node15" href="$d3/d8e/group__cob.html#ga0cacf564dd5c713dc437cdd219d6b6c0" title="m0_cob_bc_entries_dump" alt="" coords="152,680,327,707"/>
+<area shape="rect" id="node16" href="$d0/df1/iter__ut_8c.html#a9531907471469ff219f4327db317a357" title="iter_ut_insert" alt="" coords="191,731,288,757"/>
+<area shape="rect" id="node17" href="$d0/df1/iter__ut_8c.html#a44a760d6b84d3da9d51d536b509e315a" title="iter_ut_delete" alt="" coords="189,781,289,808"/>
+<area shape="rect" id="node18" href="$dd/dc6/group__fdmi__fol__src.html#ga1b72326f4219f4bcad518494f960af1a" title="ffs_op_encode" alt="" coords="186,832,293,859"/>
+<area shape="rect" id="node19" href="$d9/d96/fol__ut_8c.html#a3d453df5e43fe45c001905bf1709015a" title="fdmi_fol_test_filter\l_kv_substring_random" alt="" coords="163,883,316,925"/>
+<area shape="rect" id="node20" href="$d9/dc2/group__io__foms.html#ga37595850eb37a790e76bb0e904014c52" title="stob_io_create" alt="" coords="186,949,293,976"/>
+<area shape="rect" id="node21" href="$d0/d7f/group__vec.html#ga7cf0ea92490e2829b3578bdb7a3fc314" title="m0_bufvec_splice" alt="" coords="176,1000,303,1027"/>
+<area shape="rect" id="node22" href="$de/df0/io__nw__xfer_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="173,1051,305,1093"/>
+<area shape="rect" id="node23" href="$de/df0/io__nw__xfer_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="182,1117,297,1144"/>
+<area shape="rect" id="node24" href="$d9/d84/at__ut_8h.html#adbe266ade727c7ebd4d27f4f0be38382" title="atut__bufdata_alloc" alt="" coords="172,1168,307,1195"/>
+<area shape="rect" id="node25" href="$d9/d5b/repair_2ut_2xform_8c.html#a9788fd300c6b76dc5bd50d88105a8a4b" title="buf_initialize" alt="" coords="192,1219,287,1245"/>
+<area shape="rect" id="node26" href="$da/d46/parity__math_8c.html#a5107ca57cd0b136f563c7e14c7699646" title="ir_recover" alt="" coords="200,1269,279,1296"/>
+<area shape="rect" id="node27" href="$df/d3a/group__spiel-api-fspec-intr.html#gaf6e695eac9f05aafd3eee6d1e8d82e30" title="spiel_process_counter\l_replied_ast" alt="" coords="163,1321,315,1362"/>
+</map>

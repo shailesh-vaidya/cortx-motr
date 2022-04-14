@@ -1,0 +1,8 @@
+<map id="m0_isc_io_fini" name="m0_isc_io_fini">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="182,5,310,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="211,56,281,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga7fe32c9d18bd103974c5f9869a093f10" title="m0_bufvec_free2" alt="" coords="185,107,307,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="189,157,303,184"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#gaebb38206ae2bc8441ac89f0a1a94027a" title="m0_storage_dev_stob_put" alt="" coords="159,208,333,235"/>
+<area shape="rect" id="node7" href="$df/dca/group__m0d.html#gac46fb755845a2224cfae67b60e87c6e3" title="m0_cs_storage_devs_get" alt="" coords="161,259,331,285"/>
+</map>

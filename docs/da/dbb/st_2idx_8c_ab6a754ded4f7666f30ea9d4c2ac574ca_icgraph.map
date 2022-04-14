@@ -1,0 +1,5 @@
+<map id="idx_create_one" name="idx_create_one">
+<area shape="rect" id="node2" href="$da/dbb/st_2idx_8c.html#ac44719aa73728d830b61dc152c5e9a6d" title="idx_test_prepare" alt="" coords="181,5,300,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#a0b75de43d800f696c2c0747b4802abfd" title="idx_query_empty_next" alt="" coords="164,56,317,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a9e74d87a987262df8bb14b22a5121e52" title="idx_query_drop_index" alt="" coords="167,107,315,133"/>
+</map>

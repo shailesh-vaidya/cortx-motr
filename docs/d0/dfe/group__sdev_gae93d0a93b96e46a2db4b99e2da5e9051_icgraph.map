@@ -1,0 +1,9 @@
+<map id="m0_storage_devs_find_by_cid" name="m0_storage_devs_find_by_cid">
+<area shape="rect" id="node2" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="209,104,371,131"/>
+<area shape="rect" id="node3" href="$d3/d73/storage__dev__ut_8c.html#a60e0bc0c5806e256d1e18a86c66017bb" title="storage_dev_test" alt="" coords="441,5,564,32"/>
+<area shape="rect" id="node4" href="$d3/d73/storage__dev__ut_8c.html#ad66c3e0fbc359eeeea8ed4588e2bd543" title="storage_dev_linux" alt="" coords="439,59,566,85"/>
+<area shape="rect" id="node5" href="$d7/d99/conf_8c.html#ac982eee97d6acaafb3fd8e7a80e16b0a" title="cs_conf_storage_attach\l_by_srv" alt="" coords="422,114,583,155"/>
+<area shape="rect" id="node6" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga1ff8de01b31fa73f270826c1ff441f94" title="sss_device_stob_attach" alt="" coords="421,188,584,215"/>
+<area shape="rect" id="node7" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaead8acdcf13ad888866a4a8cf0224149" title="sss_device_stob_detach" alt="" coords="207,256,373,283"/>
+<area shape="rect" id="node8" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaed1384ed483168cfea7d443d12eff7f3" title="sss_device_format" alt="" coords="224,307,356,333"/>
+</map>

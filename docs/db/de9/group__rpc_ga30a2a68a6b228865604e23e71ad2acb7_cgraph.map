@@ -1,0 +1,6 @@
+<map id="buf_recv_cb" name="buf_recv_cb">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga7eef7ac4c1f55efc5fba1c3121df4b44" title="net_buf_received" alt="" coords="169,5,291,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="361,56,451,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga5234eff8c5f21d75a02dd7f37692ead7" title="net_buf_err" alt="" coords="187,107,273,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga3ad6cf0ef81c71fa5960ee72f0357563" title="rpc_recv_pool_buffer_put" alt="" coords="147,157,313,184"/>
+</map>

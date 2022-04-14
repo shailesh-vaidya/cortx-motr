@@ -1,0 +1,14 @@
+<map id="cached_credits_hold" name="cached_credits_hold">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="200,5,325,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaa38562806494d2a16c9c9ca2dbf749b9" title="m0_rm_credit_copy" alt="" coords="195,56,331,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga38eb9127b511d639e9b9b2fbdae1db20" title="credit_is_empty" alt="" coords="379,81,493,108"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga7f0d6f7d876ee9d53f48a5cdfcebcb4c" title="credit_intersects" alt="" coords="203,157,322,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga31919876bcf37b49fad5fd9d12d78cf1" title="credit_pin_nr" alt="" coords="215,208,311,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga275fafc7afad42be9468a66e9aeaf8f1" title="credit_diff" alt="" coords="223,259,302,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="398,475,474,501"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="200,360,325,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="401,360,471,387"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#gab2fe9bd09946ca69189909d25829828a" title="m0_rm_pin_add" alt="" coords="205,512,320,539"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="403,551,469,577"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#ga90e3d18724a1686df9b0551f86261959" title="pin_del" alt="" coords="231,411,294,437"/>
+</map>

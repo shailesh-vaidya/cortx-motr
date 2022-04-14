@@ -1,0 +1,5 @@
+<map id="m0_be_log_io_reset" name="m0_be_log_io_reset">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga3ec896144f494aa07585afff21ce2333" title="m0_be_log_record_reset" alt="" coords="192,5,356,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga6da66f1a1a68e75f541cb5e62f0e750a" title="m0_be_log_store_rbuf\l_io_reset" alt="" coords="199,57,349,98"/>
+<area shape="rect" id="node4" href="$d4/d6f/ut_2log__store_8c.html#a867de49521e4e636371b13a9a790f931" title="be_ut_log_store_io\l_translate" alt="" coords="209,122,339,163"/>
+</map>

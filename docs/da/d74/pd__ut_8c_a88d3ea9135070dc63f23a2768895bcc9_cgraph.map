@@ -1,0 +1,16 @@
+<map id="fdmi_pd_fake_rec_release" name="fdmi_pd_fake_rec_release">
+<area shape="rect" id="node2" href="$d4/d70/group__fdmi__pd.html#gae1df658f2c42afb1d5c406e9aa34a15b" title="m0_fdmi_plugin_dock\l_api_get" alt="" coords="241,5,389,47"/>
+<area shape="rect" id="node3" href="$d1/d38/sd__common_8c.html#a703f0f6af3d987819eba57be5e286ecc" title="fdmi_serv_start_ut" alt="" coords="249,223,380,250"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="475,198,564,225"/>
+<area shape="rect" id="node5" href="$d1/d38/sd__common_8c.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="255,274,374,301"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="265,442,364,469"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="485,530,554,557"/>
+<area shape="rect" id="node8" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="472,391,567,418"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="449,454,589,481"/>
+<area shape="rect" id="node10" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="228,594,401,621"/>
+<area shape="rect" id="node11" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="238,325,391,367"/>
+<area shape="rect" id="node12" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="263,645,366,671"/>
+<area shape="rect" id="node13" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="271,695,358,722"/>
+<area shape="rect" id="node14" href="$d1/d38/sd__common_8c.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="249,71,381,98"/>
+<area shape="rect" id="node15" href="$d1/d38/sd__common_8c.html#ae7a904c8aae47f789ce50ec6fb8ef3c9" title="fdmi_serv_stop_ut" alt="" coords="250,122,379,149"/>
+</map>

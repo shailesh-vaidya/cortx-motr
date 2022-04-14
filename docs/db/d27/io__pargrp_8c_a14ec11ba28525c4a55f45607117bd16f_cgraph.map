@@ -1,0 +1,17 @@
+<map id="pargrp_iomap_parity_recalc" name="pargrp_iomap_parity_recalc">
+<area shape="rect" id="node2" href="$db/d27/io__pargrp_8c.html#a9795f9bb68a7c292ffd94bb1d51746c1" title="pargrp_iomap_invariant" alt="" coords="201,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="415,56,481,83"/>
+<area shape="rect" id="node4" href="$d7/dcd/motr_2client__internal_8h.html#a1fa97a3d8f65a6bcf17f78ec486d4042" title="m0_op_io_invariant" alt="" coords="212,107,347,133"/>
+<area shape="rect" id="node5" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="217,157,341,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="231,208,327,235"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="244,259,315,285"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="244,309,315,336"/>
+<area shape="rect" id="node9" href="$d4/dc1/motr_2io_8h.html#abe2ca1d9e097b73d437f5694608bb820" title="m0__page_size" alt="" coords="223,360,336,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="218,411,341,437"/>
+<area shape="rect" id="node11" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="245,461,313,488"/>
+<area shape="rect" id="node12" href="$d6/d25/group__parity__math.html#gab2ab27b620b4a74003a52d0a7c9fe2c8" title="m0_parity_math_calculate" alt="" coords="192,512,367,539"/>
+<area shape="rect" id="node13" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a79c269278bbce5a1152b08ad45abac69" title="parity_math" alt="" coords="234,563,325,589"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="221,613,338,640"/>
+<area shape="rect" id="node15" href="$d6/d25/group__parity__math.html#gab0e6da07e31e8e61ada9aa5b4940ac37" title="m0_parity_math_diff" alt="" coords="210,664,349,691"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="245,715,314,741"/>
+</map>

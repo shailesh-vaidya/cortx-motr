@@ -1,0 +1,11 @@
+<map id="m0_pools_common_conf_ready_async_cb" name="m0_pools_common_conf_ready_async_cb">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga53f152f69219925e14b699b5c55f4a5d" title="pools_common_invariant" alt="" coords="239,5,406,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="265,56,380,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gabfe2915b811ae39b3d71e3223d5f0468" title="active_rm_ctx_create" alt="" coords="249,107,396,133"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga79add14d299e9392155b5de4316fc391" title="active_rm_ctx_find" alt="" coords="257,157,389,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="259,208,387,235"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#gaa2bcb7f2aed8bfd57240045025024a54" title="pools_common__ctx_subscribe\l_or_abandon" alt="" coords="220,259,425,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="473,296,563,323"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga5afb6058f0dc1ac7d589a76170a71c9d" title="pools_common__pools\l_update_or_cleanup" alt="" coords="245,377,400,418"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#ga75445d35f1c070b48535ab7cabae56b6" title="pools_common__update\l_by_conf" alt="" coords="241,442,404,483"/>
+</map>

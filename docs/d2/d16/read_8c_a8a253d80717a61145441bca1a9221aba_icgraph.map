@@ -1,0 +1,6 @@
+<map id="read_oid_get" name="read_oid_get">
+<area shape="rect" id="node2" href="$d2/d16/read_8c.html#a859a877d2df5fd9fe8e527f1e14de624" title="read_one_block" alt="" coords="165,5,278,32"/>
+<area shape="rect" id="node3" href="$d2/d16/read_8c.html#af2d84f3417aac2f300a4db31596ff938" title="read_multiple_blocks" alt="" coords="149,56,293,83"/>
+<area shape="rect" id="node4" href="$d2/d16/read_8c.html#ab8ba99964d74c10bb62c6f1e2e309382" title="read_multiple_blocks\l_into_aligned_buffers" alt="" coords="149,107,293,149"/>
+<area shape="rect" id="node5" href="$d2/d16/read_8c.html#a1e633980b8a25e821b9a734a964e7a9c" title="read_objs_in_parallel" alt="" coords="150,173,293,200"/>
+</map>

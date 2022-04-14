@@ -1,0 +1,10 @@
+<map id="index_op" name="index_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="165,5,241,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga6a98348925ef12a3729d9c9b7097f1d0" title="m0_fid_tassume" alt="" coords="143,56,262,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="159,107,247,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="160,157,245,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="325,233,392,260"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#gaf8f480d1205612d9f557e6379500fb1e" title="index_op_tail" alt="" coords="153,259,252,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#gaddf75ba1c65909d5229291e0fd3bb748" title="per_item_rcs_analyse" alt="" coords="128,309,277,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="168,360,237,387"/>
+</map>

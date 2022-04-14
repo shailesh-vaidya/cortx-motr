@@ -1,0 +1,5 @@
+<map id="fis_ut_client_start" name="fis_ut_client_start">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="192,5,331,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="179,56,344,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="193,107,329,133"/>
+</map>

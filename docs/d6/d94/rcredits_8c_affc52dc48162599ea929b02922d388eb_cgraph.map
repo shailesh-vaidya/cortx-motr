@@ -1,0 +1,9 @@
+<map id="debtor_death_acceptance_wait" name="debtor_death_acceptance_wait">
+<area shape="rect" id="node2" href="$da/dd3/group__cookie.html#ga289890e8cb6e9317bf3b0ed7dc44076b" title="m0_cookie_init" alt="" coords="276,5,385,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="273,56,388,83"/>
+<area shape="rect" id="node4" href="$da/dd3/group__cookie.html#ga69cef906c24a564c330382b3dc99c0d6" title="m0_cookie_is_eq" alt="" coords="269,107,392,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="267,157,395,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="263,208,398,235"/>
+<area shape="rect" id="node7" href="$d3/deb/rm__internal_8h.html#a0ca626a7f6ad5f4158a9be243ead84b1" title="resource_grp" alt="" coords="282,259,379,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="256,309,405,336"/>
+</map>

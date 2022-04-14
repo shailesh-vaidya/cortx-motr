@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga9f6880d29eac5da71e31407a592b880a" title="m0_client_init" alt="" coords="115,5,217,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga536cbbd7d309612ab9d2a4bd37b38e15" title="m0_container_init" alt="" coords="104,56,228,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga6a98348925ef12a3729d9c9b7097f1d0" title="m0_fid_tassume" alt="" coords="107,107,225,133"/>
+<area shape="rect" id="node5" href="$d3/d36/example2_8c.html#abcab566d1a642034f50b33cae69f5d27" title="index_create" alt="" coords="118,157,214,184"/>
+<area shape="rect" id="node6" href="$d3/d36/example2_8c.html#ac28de6f1c4ee43595d30191e945386d8" title="index_put" alt="" coords="127,208,205,235"/>
+<area shape="rect" id="node7" href="$d3/d36/example2_8c.html#a8431e6fc4676fce8f99a89949af86649" title="index_get" alt="" coords="127,259,205,285"/>
+<area shape="rect" id="node8" href="$d3/d36/example2_8c.html#a9a0af41ebcc887a71f4576e78c1cd0ca" title="index_delete" alt="" coords="119,309,213,336"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#gaf0f36d6063136ad9e6eb0916f2bde26e" title="m0_client_fini" alt="" coords="115,360,217,387"/>
+</map>

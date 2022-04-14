@@ -1,0 +1,10 @@
+<map id="fop_release" name="fop_release">
+<area shape="rect" id="node2" href="$de/d2e/group___x_x_x.html#gadc4541593f113a37bb0d4da2facd22b5" title="m0_cm_repreb_sw_onwire\l_fop_setup" alt="" coords="280,112,457,153"/>
+<area shape="rect" id="node3" href="$db/d2e/group___s_n_s_c_m_s_w.html#ga3bffabd0bf6becaeab1ed0d3bb93bfa4" title="m0_sns_cm_rebalance\l_sw_onwire_fop_setup" alt="" coords="513,5,669,47"/>
+<area shape="rect" id="node4" href="$db/d2e/group___s_n_s_c_m_s_w.html#gab961a1cb58dd4b2565738e3e6e9e0fa0" title="m0_sns_cm_repair_sw\l_onwire_fop_setup" alt="" coords="513,72,669,113"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gadb91e366c1acd4eb500197f0f74335fe" title="m0_dix_rebalance_sw\l_onwire_fop_setup" alt="" coords="516,140,667,181"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga4cbdc3e560fabac393875117914a95f6" title="m0_dix_repair_sw_onwire\l_fop_setup" alt="" coords="505,211,677,252"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="143,330,232,357"/>
+<area shape="rect" id="node8" href="$d9/d05/group__bulkclient_d_f_s.html#gaf915254407a9ea4a868bc63d662230cb" title="m0_io_fop_init" alt="" coords="315,305,422,331"/>
+<area shape="rect" id="node9" href="$d5/d51/stats__ut__svc_8c.html#a016c4a56fd6f5b6e06e3c0d1bd0bbe6e" title="get_fake_stats_fop" alt="" coords="302,355,435,382"/>
+</map>

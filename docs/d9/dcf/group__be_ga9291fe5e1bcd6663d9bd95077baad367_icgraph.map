@@ -1,0 +1,9 @@
+<map id="be_tlink_capture" name="be_tlink_capture">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga4dfd2857cb0e4dfb13122aa6db082666" title="m0_be_tlink_create" alt="" coords="181,5,316,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga82c04f04df7d4e51a8bc672a6f7c482e" title="m0_be_tlink_destroy" alt="" coords="177,56,320,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa5f1723a649395af4aac5ea9c21b025d" title="m0_be_list_add" alt="" coords="192,107,305,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gac21e851e42e2a55cb3a7f9229fa9b25c" title="m0_be_list_add_after" alt="" coords="175,157,322,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gabe4fd88f8e5ae0e42340ce60bcb4aaba" title="m0_be_list_add_before" alt="" coords="171,208,327,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga97013c87e72503b1190888e5cc8cbcbf" title="m0_be_list_add_tail" alt="" coords="180,259,317,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga10930dfa2fac69abe210f1b2bdaa626b" title="m0_be_list_del" alt="" coords="194,309,303,336"/>
+</map>

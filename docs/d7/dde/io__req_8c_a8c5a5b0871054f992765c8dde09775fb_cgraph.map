@@ -1,0 +1,6 @@
+<map id="ioreq_dgmode_write" name="ioreq_dgmode_write">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#a1fa97a3d8f65a6bcf17f78ec486d4042" title="m0_op_io_invariant" alt="" coords="193,5,327,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="376,81,443,108"/>
+<area shape="rect" id="node4" href="$d7/dde/io__req_8c.html#ae9e72a731d2ec6b218854d6adeba043e" title="device_check" alt="" coords="209,107,311,133"/>
+<area shape="rect" id="node5" href="$d7/dde/io__req_8c.html#ab05381e114a21ce022664b2f5bcdbf38" title="ioreq_sm_state_set\l_locked" alt="" coords="192,158,328,199"/>
+</map>

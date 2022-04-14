@@ -1,0 +1,6 @@
+<map id="m0_ha2pm_state_map" name="m0_ha2pm_state_map">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga84dce39643fb0eff92a7868157b8dbde" title="node_poolmach_state\l_update_cb" alt="" coords="213,5,363,47"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga17d9c6d6ea512362896e0c02f2e9ae79" title="disks_poolmach_state\l_update_cb" alt="" coords="212,71,364,112"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#ga6007a2544fe5708cfd2399f473e35ab5" title="poolmach_state_update" alt="" coords="208,137,368,163"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#ga071e928905a90d459e712b7b3dbf6bdc" title="m0_poolmach_failvec\l_apply" alt="" coords="214,188,362,229"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_rpc_item_put_lock" name="m0_rpc_item_put_lock">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga48afd8872cd6e6f46f27263d2ff8fd99" title="cas_req_fini" alt="" coords="258,5,350,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga1154a59e38292c74c102b15215179b61" title="cas_req_reply_handle" alt="" coords="230,56,378,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gad660800487fe105a0e1a78b85efe5462" title="creq_asmbl_replied_ast" alt="" coords="449,81,608,108"/>
+<area shape="rect" id="node5" href="$d0/dca/group__confc__dfspec.html#gae63990a2b05b1ea540711250c34cf96b" title="m0_confc_ctx_fini_locked" alt="" coords="217,157,391,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#gae0fc8d44b0e614bb8dd9605b6c5c7b16" title="retry_confd_st_in" alt="" coords="243,208,365,235"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga4d1611792a374b99ef9f3d4ab01cb009" title="skip_confd_st_in" alt="" coords="244,259,364,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="235,310,373,351"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gadcedbf8114d679b44e18d1b34024f20c" title="m0_ha_entrypoint_client_stop" alt="" coords="207,376,401,403"/>
+</map>

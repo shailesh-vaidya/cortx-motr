@@ -1,0 +1,10 @@
+<map id="net_stop" name="net_stop">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="127,5,273,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gaa2d4c1b6f1123dc54fb3b71cba37ca72" title="sys_balance" alt="" coords="153,56,247,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="133,107,267,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga12e8feb2c877117bcf3e2c4348df99a7" title="m0_addb2_net_stop" alt="" coords="131,157,269,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gaea39b9d4e62515f5ae95c78b062d31a2" title="net_idle" alt="" coords="167,208,233,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="125,259,275,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#gab49c8eb9cc3b5a50f225b1a10ecf76b5" title="m0_addb2_net_fini" alt="" coords="135,309,265,336"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="133,360,267,387"/>
+</map>

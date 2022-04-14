@@ -1,0 +1,5 @@
+<map id="ha_link_wait" name="ha_link_wait">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gad5fc2d1cf75a02e4965ed7b823987ff8" title="m0_ha_link_wait_delivery" alt="" coords="161,5,332,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gaa4fab2e07572f67c41955d525c52f894" title="m0_ha_link_wait_arrival" alt="" coords="166,56,327,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gacd3550bd81a2052efa29bb417e594e5a" title="m0_ha_link_wait_confirmation" alt="" coords="148,107,345,133"/>
+</map>

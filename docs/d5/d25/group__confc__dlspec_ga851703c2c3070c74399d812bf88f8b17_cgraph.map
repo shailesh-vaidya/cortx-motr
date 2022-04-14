@@ -1,0 +1,6 @@
+<map id="confc_fop_alloc" name="confc_fop_alloc">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="187,5,277,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga1256030d27edf84058f6eb17b4090194" title="confc_fop_release" alt="" coords="168,56,296,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="167,107,297,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="197,157,267,184"/>
+</map>

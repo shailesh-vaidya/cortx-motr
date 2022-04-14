@@ -1,0 +1,12 @@
+<map id="m0_confc_ctx_init" name="m0_confc_ctx_init">
+<area shape="rect" id="node2" href="$dd/da7/conf_2ut_2common_8h.html#a261d9bf41edfdad0593825014559c27e" title="m0_conf_ut_waiter_init" alt="" coords="181,5,337,32"/>
+<area shape="rect" id="node3" href="$d2/d72/ut_2confc_8c.html#a10dfbfcea0a0282507c6bce2da3e9e5e" title="misc_test" alt="" coords="385,31,464,57"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga08e6e7d1d828d9ea4574f712cd43a417" title="sm_waiter_init" alt="" coords="206,107,313,133"/>
+<area shape="rect" id="node5" href="$d9/d1b/group__confditer.html#ga977d67f9b52e7163598615fba3988e37" title="diter_lvl_open" alt="" coords="208,157,311,184"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gaa7bd387826ae4292b81fa378c8097ce7" title="diter_lvl_read" alt="" coords="210,208,309,235"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga9909e4cea713d2fa4b3d21d65505b1fc" title="rconfc_version_elect" alt="" coords="188,259,331,285"/>
+<area shape="rect" id="node8" href="$d5/d9a/ut_2rconfc_8c.html#a14f96a7b75c35a9706793bf8388c254f" title="test_confc_ctx_block" alt="" coords="186,309,333,336"/>
+<area shape="rect" id="node9" href="$de/df4/group__rm-ha.html#gaf1e8c1ec8e63fc70b3d1e440341d3142" title="rm_ha_conf_open" alt="" coords="197,360,322,387"/>
+<area shape="rect" id="node10" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gae54ceb57d5c5176919c1e26bcb40edf8" title="sss_confc_ctx_init" alt="" coords="194,411,325,437"/>
+<area shape="rect" id="node11" href="$d2/dbe/process__foms_8c.html#abf5adc274bb477f067f35040df30c77b" title="ss_process_reconfig\l_data_get" alt="" coords="188,462,331,503"/>
+</map>

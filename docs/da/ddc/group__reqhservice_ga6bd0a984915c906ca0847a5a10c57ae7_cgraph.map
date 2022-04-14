@@ -1,0 +1,12 @@
+<map id="process_event_handler" name="process_event_handler">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="445,42,573,68"/>
+<area shape="rect" id="node3" href="$d8/d46/reqh__service__internal_8h.html#aa830acb4b40c557ac0f5ab7bbe7c0c12" title="reqh_service_ctx_sm_lock" alt="" coords="209,42,387,68"/>
+<area shape="rect" id="node4" href="$d8/d46/reqh__service__internal_8h.html#a67442858f3fb92ab7ad809b5ad41b5c1" title="reqh_service_ctx_flag\l_is_set" alt="" coords="435,194,584,236"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#ga8923d02e132c127763d0512c6b4f5ed0" title="reqh_service_ctx_is\l_cancelled" alt="" coords="229,194,367,236"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#ga901f16ce7af363805c98ffdd4ec15919" title="reqh_service_session\l_cancel" alt="" coords="224,260,372,301"/>
+<area shape="rect" id="node7" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="213,92,383,119"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="219,326,377,352"/>
+<area shape="rect" id="node9" href="$da/ddc/group__reqhservice.html#gaa4b9a6bd955a3325671941458463c2bf" title="reqh_service_reconnect\l_locked" alt="" coords="218,377,378,418"/>
+<area shape="rect" id="node10" href="$d8/d46/reqh__service__internal_8h.html#aafb9880254f76e9b3077756e8622ae4a" title="reqh_service_ctx_sm\l_unlock" alt="" coords="225,442,371,484"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="253,508,343,535"/>
+</map>

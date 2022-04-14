@@ -1,0 +1,7 @@
+<map id="motr_config" name="motr_config">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a02db6547843ab8a3dae9340569235e38" title="check_type" alt="" coords="320,67,409,93"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#a24654ef4bcb3f9431a87a7da044d5029" title="verify_lnet" alt="" coords="156,28,239,55"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#abf14d785eef402bf7d42262a33c4778f" title="verify_libfabric" alt="" coords="144,129,251,156"/>
+<area shape="rect" id="node5" href="$df/dc9/namespacemotr__mini__prov.html#a06eb000e6a5b1fe0b3fd0934fe4a24c9" title="execute_command" alt="" coords="299,143,431,169"/>
+<area shape="rect" id="node6" href="$df/dc9/namespacemotr__mini__prov.html#a2cf7f55269657853985373d72be2f100" title="is_hw_node" alt="" coords="152,79,243,105"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_conf_ut_cache_from_file" name="m0_conf_ut_cache_from_file">
+<area shape="rect" id="node2" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="274,5,370,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="249,56,395,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga3c17995ea6eaa1a0cc62b903a3a78bac" title="m0_conf_cache_clean" alt="" coords="246,107,398,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga01b42734d0537fe376be952b74c74789" title="m0_conf_cache_from\l_string" alt="" coords="249,158,395,199"/>
+<area shape="rect" id="node6" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="243,224,401,251"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="287,275,357,301"/>
+</map>

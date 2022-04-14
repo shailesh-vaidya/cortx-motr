@@ -1,0 +1,5 @@
+<map id="be_log_store_buf_free_aligned" name="be_log_store_buf_free_aligned">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga41a5507cc35158bac84388f8472104d7" title="m0_be_log_store_bshift" alt="" coords="204,5,364,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="225,56,343,83"/>
+<area shape="rect" id="node4" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="247,107,321,133"/>
+</map>

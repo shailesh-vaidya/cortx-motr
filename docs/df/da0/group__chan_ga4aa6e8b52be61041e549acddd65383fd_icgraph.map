@@ -1,0 +1,6 @@
+<map id="m0_chan_trywait" name="m0_chan_trywait">
+<area shape="rect" id="node2" href="$d0/d11/lib_2ut_2main_8c.html#ac6b1edf018983f866c843e2c4dae155f" title="test_chan" alt="" coords="215,5,293,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#ab72a0910765911085a70c74e1b11cdce" title="test_starvation" alt="" coords="200,56,308,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#a872f038c77df5fe845de10278702f40b" title="test_barrier_overcome" alt="" coords="179,107,329,133"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a88120a01d5607c07814748a2fd47ef21" title="test_barrier_same_time" alt="" coords="175,157,333,184"/>
+</map>

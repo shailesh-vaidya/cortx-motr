@@ -1,0 +1,11 @@
+<map id="test_ref_get_put_pdclust" name="test_ref_get_put_pdclust">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#gaa87d0f5d58a435ae036044bab9ea4661" title="enum_id" alt="" coords="457,56,528,83"/>
+<area shape="rect" id="node3" href="$df/dca/lib_2misc_8c.html#aa4f9b74ceb2eff5829e8c547939733c3" title="m0_uint128_init" alt="" coords="251,208,365,235"/>
+<area shape="rect" id="node4" href="$d6/de4/layout_2ut_2layout_8c.html#acabce7ab7d4c6eee02784d2fb0d39ad8" title="NKP_assign_and_pool_init" alt="" coords="219,5,397,32"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#a4a236b9bc1d9225f913efe29eb8ce964" title="pdclust_layout_build" alt="" coords="238,107,378,133"/>
+<area shape="rect" id="node6" href="$d6/de4/layout_2ut_2layout_8c.html#ab97a4182e9b1e120592a7cd11354ae74" title="list_lookup" alt="" coords="451,132,535,159"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="445,309,540,336"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#ga3ee867dcd79abd25f72341673dbd39f5" title="m0_layout_get" alt="" coords="255,360,361,387"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="448,360,537,387"/>
+<area shape="rect" id="node10" href="$da/da8/group__layout.html#ga29c80e8d71855cfeace3c8d6f6ced055" title="m0_layout_put" alt="" coords="255,309,361,336"/>
+</map>

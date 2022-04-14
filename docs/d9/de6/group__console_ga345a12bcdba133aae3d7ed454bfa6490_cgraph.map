@@ -1,0 +1,6 @@
+<map id="cons_init" name="cons_init">
+<area shape="rect" id="node2" href="$d9/de6/group__console.html#ga45bc40a952765daf409371a2e6677a7b" title="m0_console_fop_init" alt="" coords="140,5,281,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="141,56,280,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="128,107,293,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="147,157,275,184"/>
+</map>

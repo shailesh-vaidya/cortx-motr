@@ -1,0 +1,5 @@
+<map id="stob_perf_consume_io" name="stob_perf_consume_io">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="222,5,337,32"/>
+<area shape="rect" id="node3" href="$d1/dff/group__stobperf.html#gace601d0d7287951fa163c211c4e5ffab" title="stob_perf_timer_start" alt="" coords="207,56,352,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="215,107,343,133"/>
+</map>

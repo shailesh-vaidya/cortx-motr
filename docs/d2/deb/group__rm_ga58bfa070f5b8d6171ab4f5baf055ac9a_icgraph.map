@@ -1,0 +1,9 @@
+<map id="m0_rm_type_register" name="m0_rm_type_register">
+<area shape="rect" id="node2" href="$d7/daf/group___s_n_s_c_m.html#ga18fd06631c2caeea1687592f8985442d" title="m0_sns_cm_rm_init" alt="" coords="217,5,355,32"/>
+<area shape="rect" id="node3" href="$d4/d00/ut_2di_8c.html#a70011ee0248efd95352168ef16b1dc5b" title="file_di_init" alt="" coords="246,56,326,83"/>
+<area shape="rect" id="node4" href="$de/d3f/group___file_lock.html#ga199b185a1145615a455b8f57392ee3f2" title="m0_file_lock_type_register" alt="" coords="197,107,375,133"/>
+<area shape="rect" id="node5" href="$d2/dab/file_2ut_2file_8c.html#a106088baf9008c0debdc8920aeceeb82" title="fl_rtype_set" alt="" coords="241,157,331,184"/>
+<area shape="rect" id="node6" href="$d0/d26/group___distributed.html#gacaa4e46aed9b9636afc4136b47122ba7" title="m0_rw_lockable_type\l_register" alt="" coords="212,209,360,250"/>
+<area shape="rect" id="node7" href="$de/d51/ut_2rm__rwlock_8c.html#a3dff93d59ccb448a89ccb17b19326fe1" title="rwlockable_rtype_set" alt="" coords="213,275,359,301"/>
+<area shape="rect" id="node8" href="$d5/d68/rings_8c.html#a24550cf8e3a6870c2b7b3472b57f4d41" title="rings_rtype_set" alt="" coords="231,325,341,352"/>
+</map>

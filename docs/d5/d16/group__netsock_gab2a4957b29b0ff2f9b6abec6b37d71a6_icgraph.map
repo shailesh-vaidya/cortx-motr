@@ -1,0 +1,6 @@
+<map id="pk_state" name="pk_state">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga67b3a394cd9c1d7006a0c7c25282654c" title="stream_interval" alt="" coords="125,5,236,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga1020d1d4f82dee7a79a9913595fcd030" title="dgram_header" alt="" coords="129,56,233,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga2fb2b3f17a4539bcf5363d68b7fea102" title="dgram_interval" alt="" coords="127,107,234,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga925c36d21e3c699446204c869a3e521e" title="writer_write" alt="" coords="136,157,225,184"/>
+</map>

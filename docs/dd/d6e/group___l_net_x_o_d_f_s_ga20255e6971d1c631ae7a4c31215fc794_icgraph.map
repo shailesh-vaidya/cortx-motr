@@ -1,0 +1,7 @@
+<map id="nlx_buffer_invariant" name="nlx_buffer_invariant">
+<area shape="rect" id="node2" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga1ddeaa7c75bb854cb5ef95458f8ef4a4" title="nlx_xo_buf_register" alt="" coords="197,5,332,32"/>
+<area shape="rect" id="node3" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaed95a082f316accae27e0b408ac4bc37" title="nlx_xo_buf_deregister" alt="" coords="190,56,339,83"/>
+<area shape="rect" id="node4" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gac88a3ce0522654d1cecef0c7023f4b9e" title="nlx_xo_buf_add" alt="" coords="208,107,321,133"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga1140579818cddf6708fea327d0c313fb" title="nlx_xo_buf_del" alt="" coords="210,157,319,184"/>
+<area shape="rect" id="node6" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga075ea92e6d12c26fa7036f912cb6a826" title="nlx_xo_bev_deliver_all" alt="" coords="188,208,341,235"/>
+</map>

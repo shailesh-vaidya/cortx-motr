@@ -1,0 +1,8 @@
+<map id="m0_cob_bc_insert" name="m0_cob_bc_insert">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="201,5,303,32"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="207,56,297,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#gae0ded348b1d93235c08f6676958c3142" title="m0_cob_bckey_size" alt="" coords="181,107,323,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga8e2da095dce1934935e201c5267a0d5d" title="m0_cob_bcrec_size" alt="" coords="183,157,321,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga6091d62e4e5b4453a12f39b103912211" title="cob_table_insert" alt="" coords="193,208,311,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="219,259,285,285"/>
+</map>

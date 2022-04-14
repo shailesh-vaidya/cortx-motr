@@ -1,0 +1,5 @@
+<map id="m0_rpc_packet_remove_item" name="m0_rpc_packet_remove_item">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="256,5,399,47"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaec96dc31cab9eace69e8bc10deb92649" title="m0_rpc_packet_remove\l_all_items" alt="" coords="247,71,408,112"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaa6821da8260802932f1d51adf350f324" title="packet_received" alt="" coords="269,137,386,163"/>
+</map>

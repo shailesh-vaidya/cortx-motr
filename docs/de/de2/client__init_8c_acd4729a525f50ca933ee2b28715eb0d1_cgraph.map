@@ -1,0 +1,4 @@
+<map id="initlift_move_next_floor" name="initlift_move_next_floor">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="197,5,301,32"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="177,56,320,83"/>
+</map>

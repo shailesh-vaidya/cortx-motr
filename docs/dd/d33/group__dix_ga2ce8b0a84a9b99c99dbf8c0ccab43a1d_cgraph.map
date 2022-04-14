@@ -1,0 +1,25 @@
+<map id="dix_cas_rops_send" name="dix_cas_rops_send">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gaa2bd53271528f705f6c6393dddb63ee8" title="m0_cas_req_init" alt="" coords="207,5,325,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga31dc0e13ea4c7f8cccb294c863581b8c" title="dix_req_smgrp" alt="" coords="392,69,499,96"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gac61a7eefea2e8448569fd0e6b1b1a898" title="dix_to_cas_map" alt="" coords="207,259,325,285"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="217,309,315,336"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga18bc66f947b93950d0bbe65e7feeaa62" title="dix_cas_rop_clink_cb" alt="" coords="193,157,339,184"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="396,145,495,172"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="396,203,495,229"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="215,360,317,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#gaa32a72b6616ebef7484a8e10d2319e85" title="m0_dix_fid_convert\l_dix2cctg" alt="" coords="199,411,333,453"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga391e7d9d1b1c465750daa3d36997bebf" title="m0_dix_ldesc_copy" alt="" coords="197,477,335,504"/>
+<area shape="rect" id="node12" href="$d2/d64/group__cas-client.html#ga6cbca0b60fc769dbee37588d11c7fbca" title="m0_cas_get" alt="" coords="219,528,313,555"/>
+<area shape="rect" id="node13" href="$d2/d64/group__cas-client.html#ga290a06e847f9a1350d766707501c99d7" title="m0_cas_put" alt="" coords="219,680,313,707"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="407,680,483,707"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="412,756,479,783"/>
+<area shape="rect" id="node16" href="$d2/d64/group__cas-client.html#ga3a4c335ba35bbba1e5ea94e0ef412834" title="m0_cas_del" alt="" coords="220,731,312,757"/>
+<area shape="rect" id="node17" href="$d2/d64/group__cas-client.html#ga4bc0f94472ccea508fbbf253816c2c5d" title="m0_cas_next" alt="" coords="216,781,316,808"/>
+<area shape="rect" id="node18" href="$d4/d44/group__cas.html#ga9fcfb893d16f043757d14bf7c52b543d" title="m0_cas_id_fini" alt="" coords="211,883,321,909"/>
+<area shape="rect" id="node19" href="$d2/d64/group__cas-client.html#ga01cc6212597795d785c0594ce96b1448" title="m0_cas_req_fini" alt="" coords="207,933,325,960"/>
+<area shape="rect" id="node20" href="$dd/d33/group__dix.html#ga15403664af795736ca682ce0628d8e5a" title="dix_cas_rop_rc_update" alt="" coords="188,579,344,605"/>
+<area shape="rect" id="node21" href="$dd/d33/group__dix.html#gae7be073322895a533d83c8caa4b63131" title="dix_cas_rop_fini" alt="" coords="208,984,324,1011"/>
+<area shape="rect" id="node22" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="411,1009,480,1036"/>
+<area shape="rect" id="node23" href="$d2/d66/group__dtm.html#ga63fe0d49697c5277d53f697c9968231a" title="m0_dtx0_fop_assign" alt="" coords="195,1085,337,1112"/>
+<area shape="rect" id="node24" href="$d2/d66/group__dtm.html#gaa8b22de03f75f3bbd45b142e44612fdd" title="m0_dtx0_close" alt="" coords="211,1136,321,1163"/>
+</map>

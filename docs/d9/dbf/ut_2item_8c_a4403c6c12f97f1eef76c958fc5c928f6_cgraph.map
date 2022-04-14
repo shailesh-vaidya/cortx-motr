@@ -1,0 +1,8 @@
+<map id="fop_test" name="fop_test">
+<area shape="rect" id="node2" href="$d5/d5d/ut_2cob__foms_8c.html#a87ce6fe98ce7d0d60e0ae807f06db084" title="fop_alloc" alt="" coords="153,5,228,32"/>
+<area shape="rect" id="node3" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="123,56,259,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="125,107,257,133"/>
+<area shape="rect" id="node5" href="$d9/dbf/ut_2item_8c.html#aa0d27071b98c5bafff70ff288ae4763c" title="chk_state" alt="" coords="151,157,230,184"/>
+<area shape="rect" id="node6" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="307,233,401,260"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="130,259,251,285"/>
+</map>

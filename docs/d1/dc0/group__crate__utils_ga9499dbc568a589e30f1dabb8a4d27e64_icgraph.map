@@ -1,0 +1,10 @@
+<map id="init" name="init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga1d6d8576292827d77ce062c2a51b8f0c" title="_0types_visit" alt="" coords="124,5,223,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga031a7a64f503dc7bbc4677db6016dc13" title="stob_domain_init_create" alt="" coords="92,56,255,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gad62c7bea63784df71b63a73603d03d0c" title="be_log_store_rbuf_init\l_fini_index" alt="" coords="99,107,248,149"/>
+<area shape="rect" id="node5" href="$dd/d1d/be_2ut_2helper_8c.html#adf4919b8f93e5590f95f750668360d4e" title="be_ut_seg_allocator\l_initfini" alt="" coords="104,173,243,214"/>
+<area shape="rect" id="node6" href="$d7/d2c/group__timer.html#ga371a0c9749c7e86f7e06e1194faa366c" title="timer_soft_initfini" alt="" coords="113,239,234,265"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga1d5a14e0c35f5668f08ad52efb9e8afd" title="m0_thread_init" alt="" coords="120,289,227,316"/>
+<area shape="rect" id="node8" href="$d1/dc0/group__crate__utils.html#ga6301e198944405c42c05663dbc717931" title="init_rand_generator" alt="" coords="107,340,239,367"/>
+<area shape="rect" id="node9" href="$d0/de6/group___net_test_commands_internals.html#ga7b2672e77e7a8bd0429f9496d2bba2ff" title="commands_initfini" alt="" coords="110,391,237,417"/>
+</map>

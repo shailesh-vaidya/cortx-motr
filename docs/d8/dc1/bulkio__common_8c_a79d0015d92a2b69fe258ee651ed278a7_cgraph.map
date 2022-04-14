@@ -1,0 +1,7 @@
+<map id="bulkio_params_fini" name="bulkio_params_fini">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="210,5,349,32"/>
+<area shape="rect" id="node3" href="$d8/dc1/bulkio__common_8c.html#a2fc4f9d60253f840cbb3081d6f9f5b92" title="io_buffers_deallocate" alt="" coords="207,56,351,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="245,107,314,133"/>
+<area shape="rect" id="node5" href="$de/d3f/group___file_lock.html#ga26571914d690db8a9b6291f249e4bbe8" title="m0_file_lock_type_deregister" alt="" coords="184,157,375,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga729d7f344068a71202a9495c74377156" title="m0_rm_domain_fini" alt="" coords="212,208,347,235"/>
+</map>

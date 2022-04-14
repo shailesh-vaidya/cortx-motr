@@ -1,0 +1,25 @@
+<map id="ioservice/io_fops.c" name="ioservice/io_fops.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="51,80,129,107"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="5,304,84,331"/>
+<area shape="rect" id="node4" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="82,155,181,181"/>
+<area shape="rect" id="node5" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="273,304,352,331"/>
+<area shape="rect" id="node6" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="458,304,554,331"/>
+<area shape="rect" id="node7" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="505,379,592,405"/>
+<area shape="rect" id="node8" href="$db/d65/vec_8h.html" title="lib/vec.h" alt="" coords="1260,80,1331,107"/>
+<area shape="rect" id="node9" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="912,379,983,405"/>
+<area shape="rect" id="node10" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="708,155,795,181"/>
+<area shape="rect" id="node11" href="$d0/d07/fop__item__type_8h.html" title="fop/fop_item_type.h" alt="" coords="1355,80,1492,107"/>
+<area shape="rect" id="node12" href="$df/d1f/item_8h.html" title="rpc/item.h" alt="" coords="907,304,987,331"/>
+<area shape="rect" id="node13" href="$dd/d4b/rpc__opcodes_8h.html" title="rpc/rpc_opcodes.h" alt="" coords="1516,80,1645,107"/>
+<area shape="rect" id="node14" href="$d0/d44/rpc_8h.html" title="rpc/rpc.h" alt="" coords="909,229,983,256"/>
+<area shape="rect" id="node15" href="$d0/dab/fom__generic_8h.html" title="fop/fom_generic.h" alt="" coords="1007,229,1133,256"/>
+<area shape="rect" id="node16" href="$d7/d87/file_2file_8h.html" title="file/file.h" alt="" coords="313,229,385,256"/>
+<area shape="rect" id="node17" href="$d7/dd5/cob_8h.html" title="cob/cob.h" alt="" coords="383,155,461,181"/>
+<area shape="rect" id="node18" href="$da/df1/fsync__foms_8h.html" title="mdservice/fsync_foms.h" alt="" coords="1670,80,1835,107"/>
+<area shape="rect" id="node19" href="$d8/dd5/fsync__fops_8h.html" title="mdservice/fsync_fops.h" alt="" coords="1860,80,2021,107"/>
+<area shape="rect" id="node21" href="$d9/d56/io__addb2_8h.html" title="ioservice/io_addb2.h" alt="" coords="2253,80,2394,107"/>
+<area shape="rect" id="node22" href="$da/d7f/io__foms_8h.html" title="ioservice/io_foms.h" alt="" coords="680,80,815,107"/>
+<area shape="rect" id="node23" href="$dd/d3e/io__fops_8h.html" title="ioservice/io_fops.h" alt="" coords="881,155,1011,181"/>
+<area shape="rect" id="node25" href="$db/d1f/cob__foms_8h.html" title="ioservice/cob_foms.h" alt="" coords="306,80,453,107"/>
+<area shape="rect" id="node26" href="$d7/dcd/motr_2client__internal_8h.html" title="motr/client_internal.h" alt="" coords="839,80,981,107"/>
+</map>

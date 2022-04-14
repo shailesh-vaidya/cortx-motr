@@ -1,0 +1,19 @@
+<map id="nlx_dom_invariant" name="nlx_dom_invariant">
+<area shape="rect" id="node2" href="$d7/db9/group___l_net_d_f_s.html#ga608850305a1bd2f15f951bbce7700db2" title="m0_net_lnet_ifaces_get" alt="" coords="193,5,353,32"/>
+<area shape="rect" id="node3" href="$d7/db9/group___l_net_d_f_s.html#ga0c9f7178e9044e2ee8cf747541f1dece" title="m0_net_lnet_ifaces_put" alt="" coords="193,56,353,83"/>
+<area shape="rect" id="node4" href="$d7/db9/group___l_net_d_f_s.html#ga03b0cf97a17d7a1248bab3e2fb015a15" title="m0_net_lnet_dom_set\l_debug" alt="" coords="198,107,349,149"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga20255e6971d1c631ae7a4c31215fc794" title="nlx_buffer_invariant" alt="" coords="417,224,552,251"/>
+<area shape="rect" id="node6" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga1ddeaa7c75bb854cb5ef95458f8ef4a4" title="nlx_xo_buf_register" alt="" coords="610,199,745,225"/>
+<area shape="rect" id="node7" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaed95a082f316accae27e0b408ac4bc37" title="nlx_xo_buf_deregister" alt="" coords="603,249,752,276"/>
+<area shape="rect" id="node8" href="$d5/dfa/lnet__xo_8c.html#gaa6e85aee1e5a5cb6b06ec6f011bca497" title="nlx_tm_invariant" alt="" coords="215,325,332,352"/>
+<area shape="rect" id="node9" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga3a49def9d891f703ead27c9e154e951c" title="nlx_xo_tm_init" alt="" coords="431,337,538,364"/>
+<area shape="rect" id="node10" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga0bb1d1531087ab3c7e94324770b92679" title="nlx_xo_bev_pending" alt="" coords="415,413,555,440"/>
+<area shape="rect" id="node11" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga5ebd6a38d696a1c3d2649bdd5815c08d" title="nlx_xo_dom_init" alt="" coords="215,477,331,504"/>
+<area shape="rect" id="node12" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga3e39a052d650531c3e6ff61ed8c69dc7" title="nlx_xo_dom_fini" alt="" coords="215,528,331,555"/>
+<area shape="rect" id="node13" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga733873ecf83898b876ffd2be6700be1f" title="nlx_xo_get_max_buffer_size" alt="" coords="180,579,367,605"/>
+<area shape="rect" id="node14" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga79d3a06e9a7d9b2dd36190996709fd29" title="nlx_xo_get_max_buffer\l_segment_size" alt="" coords="195,630,351,671"/>
+<area shape="rect" id="node15" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaf6646fbd39bbcecc617068917a29b169" title="nlx_xo_get_max_buffer\l_segments" alt="" coords="195,695,351,737"/>
+<area shape="rect" id="node16" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga844541dc98b25bc870e5482f0aad3dcb" title="nlx_xo_end_point_create" alt="" coords="190,761,357,788"/>
+<area shape="rect" id="node17" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga448acdb6eed7673d37f64ca57feb8161" title="nlx_xo_get_max_buffer\l_desc_size" alt="" coords="195,813,351,854"/>
+<area shape="rect" id="node18" href="$d2/d68/lnet__ut_8c.html#a4037fe5187d56ad43cd06fb3e0f8b8a5" title="test_fail" alt="" coords="239,879,307,905"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="session_state_set" name="session_state_set">
+<area shape="rect" id="node2" href="$d5/d34/sd__common_8h.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="211,5,330,32"/>
+<area shape="rect" id="node3" href="$d5/d34/sd__common_8h.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="205,56,337,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gaab2d3a0fa97620bb1727723631b339eb" title="session_zero_attach" alt="" coords="199,107,342,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gad5cf2d5f7847b1a98e4f6f92593cb0ae" title="session_zero_detach" alt="" coords="408,212,553,239"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga2137152319e89cfa0230ea7c23568f7c" title="m0_rpc_session_reset" alt="" coords="194,208,347,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga0695867ab64bcef425ea4bb8b7c28542" title="m0_rpc_session_fini\l_locked" alt="" coords="200,259,341,301"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#gaf9335bb6847b8de2d2b8f22db154525c" title="m0_rpc_session_establish" alt="" coords="183,325,359,352"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga9b7bac260c195f562191fc8132df0632" title="m0_rpc_session_establish\l_reply_received" alt="" coords="183,377,359,418"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga32f9dfc4fd17ee95f26877ae7350cb9c" title="m0_rpc_session_terminate" alt="" coords="181,443,360,469"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga5cd2a6793445cbc2521e0c0f3f50428a" title="m0_rpc_session_terminate\l_reply_received" alt="" coords="181,494,360,535"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#gabc76bf1a765083e45685d4530db91baf" title="session_idle_x_busy" alt="" coords="199,560,342,587"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#ga7ab08c765daea68da6a57602a82872e6" title="m0_rpc_rcv_session\l_terminate" alt="" coords="199,611,342,653"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#ga41642c8f29c37e8a6374849fbcb89836" title="m0_rpc_session_quiesce" alt="" coords="186,677,355,704"/>
+<area shape="rect" id="node15" href="$df/db4/group__rpc__session.html#gaae8474a7a00b2d265d17af1070ce564e" title="m0_rpc_fom_session\l_establish_tick" alt="" coords="197,729,344,770"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_rpc_client_stop_stats" name="m0_rpc_client_stop_stats">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="199,5,366,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,56,492,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="207,107,358,133"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga95dabdcac07beecafa49506e016bdc0e" title="m0_reqh_services_terminate" alt="" coords="188,157,377,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gafc61a4a3957bc213860676f31429771c" title="m0_rpc_machine_fini" alt="" coords="210,208,355,235"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#gafe423b616670567412fed259897708a4" title="m0_reqh_fini" alt="" coords="235,259,331,285"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga48860be7f6278837ffe38b1420c4fc7e" title="m0_rpc_net_buffer_pool\l_cleanup" alt="" coords="203,310,363,351"/>
+</map>

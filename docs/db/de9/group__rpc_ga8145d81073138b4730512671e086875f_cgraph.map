@@ -1,0 +1,13 @@
+<map id="packet_ready" name="packet_ready">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="367,296,533,322"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="198,38,274,65"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga2c9f886fa1fc289e8e6990d5c47fd414" title="rpc_buffer_init" alt="" coords="185,140,287,166"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="417,89,483,116"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga079619b3736cef08e4d324f485587679" title="m0_rpc_item_is_reply" alt="" coords="161,190,311,217"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gac94adc35827917e3d83de2f0aa98f0ce" title="rpc_buffer_submit" alt="" coords="173,89,299,116"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga16bb1f487d29a22a46b87b0ad5148d02" title="rpc_buffer_fini" alt="" coords="185,292,287,318"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="415,460,485,486"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaa94ba0749e90403b0fd9259f953ff672" title="m0_rpc_packet_traverse\l_items" alt="" coords="153,343,319,384"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga20214e86cb38dae19676f9e7715b0b7b" title="item_fail" alt="" coords="201,460,271,486"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga0768a0448d1d1d8137044b3b89617d30" title="m0_rpc_packet_discard" alt="" coords="156,409,316,436"/>
+</map>

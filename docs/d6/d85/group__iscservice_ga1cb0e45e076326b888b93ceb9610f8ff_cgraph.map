@@ -1,0 +1,6 @@
+<map id="m0_isc_comp_req_init" name="m0_isc_comp_req_init">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga4de53f6e7192c424aac50c5d229a3f5d" title="m0_buf_copy" alt="" coords="235,5,335,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="235,56,334,83"/>
+<area shape="rect" id="node4" href="$d8/dec/isc_8c.html#a7efbb290876f4c5f69d283a88aea67a1" title="isc_comp_req_invariant" alt="" coords="205,107,364,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="240,157,329,184"/>
+</map>

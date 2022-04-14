@@ -1,0 +1,5 @@
+<map id="tree_allocator" name="tree_allocator">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="191,5,271,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaf148d3c8464d2e3c255488052b197ace" title="mem_alloc" alt="" coords="188,56,273,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac82b49bc31b383c6022c0c1ce93bb3b7" title="btree_mem_free_credit" alt="" coords="153,107,308,133"/>
+</map>

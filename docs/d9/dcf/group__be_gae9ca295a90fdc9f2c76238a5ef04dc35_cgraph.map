@@ -1,0 +1,15 @@
+<map id="be_log_record_iter_read" name="be_log_record_iter_read">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="515,49,555,76"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gac407a948b328d84a82e6eeeb2377bb1f" title="m0_be_log_bshift" alt="" coords="473,115,597,141"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#ga8078d43680ef60bece73a72107708e2a" title="align" alt="" coords="281,427,330,453"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#ga4b70d9b4cc8a2228f5cb90ecf967ada5" title="m0_is_aligned" alt="" coords="483,195,588,221"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga6e515ed083234c0f72e0952c880d7790" title="be_log_record_header_size" alt="" coords="445,256,625,283"/>
+<area shape="rect" id="node7" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="498,308,573,335"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="244,477,367,504"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="229,5,382,32"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga48efd1dd805f5358f4cdd9112246d496" title="be_log_read_plain" alt="" coords="242,528,369,555"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="247,579,364,605"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga358e2633b390a01465df901a9bacd550" title="m0_be_fmt_log_record\l_header__invariant" alt="" coords="228,259,383,301"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga7d95ee41dba856f2a53bd3f0ed7900c9" title="be_log_record_footer_size" alt="" coords="448,363,623,389"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#gad336e4ac0fa3d8e5e1b343c2e442cf24" title="be_log_record_header_copy" alt="" coords="213,629,397,656"/>
+</map>

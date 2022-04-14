@@ -1,0 +1,7 @@
+<map id="cs_endpoint_validate" name="cs_endpoint_validate">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="248,5,315,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#gafa81e58f1437e528ba7bafe21f49a009" title="cs_xprt_lookup" alt="" coords="226,56,337,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="199,107,364,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga810f62fdcaf6ab41add4f828a03a8aab" title="m0_net_xprt_default_set" alt="" coords="199,157,364,184"/>
+<area shape="rect" id="node6" href="$df/dca/group__m0d.html#ga69fcec3df5369790068f8c931b2266a3" title="cs_endpoint_is_duplicate" alt="" coords="197,208,365,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="pools_common__ctx_subscribe_or_abandon" name="pools_common__ctx_subscribe_or_abandon">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="275,5,420,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="268,56,427,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga73375078a4408d39b0de6949e933f4d8" title="reqh_service_ctx_is\l_matching" alt="" coords="278,107,417,149"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="484,144,655,171"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga33b9076472a483cf4bea77359a6cb999" title="m0_clink_is_armed" alt="" coords="280,224,415,251"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#gabf8da6dbb2147c2e047e6cf57af305ed" title="m0_reqh_service_ctx\l_subscribe" alt="" coords="274,275,421,317"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#ga2812215cfe12599e4fc4c04963796744" title="reqh_service_ctx_abandon" alt="" coords="259,341,436,368"/>
+<area shape="rect" id="node9" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="268,392,427,419"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="303,443,392,469"/>
+</map>

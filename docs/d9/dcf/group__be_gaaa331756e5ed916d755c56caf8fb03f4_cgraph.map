@@ -1,0 +1,12 @@
+<map id="m0_be_seg_open" name="m0_be_seg_open">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="225,5,299,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gafbb86b212e07625858218c0cc0a7587c" title="be_seg_hdr_size" alt="" coords="202,56,322,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="224,107,300,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gacf3df775130708f4f74228e845cd7760" title="m0_be_io_single" alt="" coords="203,157,321,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="395,183,461,209"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="227,259,297,285"/>
+<area shape="rect" id="node8" href="$d2/d0b/version_8c.html#aad711ae4f11e7fa2e2089b3e6b16d961" title="m0_build_info_get" alt="" coords="199,309,325,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga00ef96b8966516c78ecb359cac696056" title="be_seg_geom_find_by_id" alt="" coords="177,360,347,387"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga9180b9764e6b8562b78f79fc0de9506d" title="m0_stob_fd" alt="" coords="217,411,307,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gaa985690bd3bdefb94b903b502424e282" title="be_seg_madvise" alt="" coords="202,461,322,488"/>
+</map>

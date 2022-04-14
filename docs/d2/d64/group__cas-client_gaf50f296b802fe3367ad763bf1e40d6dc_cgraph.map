@@ -1,0 +1,8 @@
+<map id="cas_fop_send" name="cas_fop_send">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="185,5,282,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gad3f6ef0988b027e0836339fe8f8fe0dd" title="m0_cas_req_is_locked" alt="" coords="156,56,311,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga46bd0cd8bbb1624dbbc7d5a603a01212" title="cas_req_to_item" alt="" coords="174,107,293,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga3a033e0471b11f2834022c1b89a7d8fb" title="creq_item_prepare" alt="" coords="169,157,298,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="185,208,282,235"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#gab2fcffb65ce9f19b2db6205a3b4ec6b2" title="cas_to_rpc_map" alt="" coords="174,259,293,285"/>
+</map>

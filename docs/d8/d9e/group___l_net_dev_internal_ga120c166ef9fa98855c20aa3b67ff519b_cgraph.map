@@ -1,0 +1,13 @@
+<map id="nlx_dev_close" name="nlx_dev_close">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="397,115,580,141"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga7d87bfc66f51fa5e0a24155424e515f9" title="nlx_core_kmem_loc_is\l_empty" alt="" coords="628,135,783,177"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#ga324d5e1cf42d18e1d0722d6088296878" title="nlx_kcore_LNetMDUnlink" alt="" coords="169,325,339,352"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="455,300,522,327"/>
+<area shape="rect" id="node6" href="$d8/d9e/group___l_net_dev_internal.html#gaf05550e19ded0a4dc758312635444092" title="nlx_dev_tm_cleanup" alt="" coords="183,477,325,504"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="454,427,523,453"/>
+<area shape="rect" id="node8" href="$d8/d9e/group___l_net_dev_internal.html#gae3f50550da4e0288fd1d3b7e84139bc5" title="nlx_dev_buf_deregister" alt="" coords="176,376,332,403"/>
+<area shape="rect" id="node9" href="$d6/d8a/group___k_l_net_core.html#ga7bd7731a15e72411dea41c2aa699d146" title="nlx_kcore_core_domain_map" alt="" coords="159,173,349,200"/>
+<area shape="rect" id="node10" href="$d6/d8a/group___k_l_net_core.html#gad9311dbbf12eeef1cf130941faf081a0" title="nlx_kcore_core_domain\l_unmap" alt="" coords="175,107,333,149"/>
+<area shape="rect" id="node11" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="173,528,335,555"/>
+<area shape="rect" id="node12" href="$d6/d8a/group___k_l_net_core.html#gae1fb86408b29aad8bcb47da62791f168" title="nlx_kcore_kcore_dom_fini" alt="" coords="167,5,341,32"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="index_operation" name="index_operation">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#gafe966887cc5205e82cd63eb46486ce93" title="crate_uber_realm" alt="" coords="396,45,519,72"/>
+<area shape="rect" id="node3" href="$de/d09/crate__index_8c.html#ab49f421243cc70ad79b7342b46decf6b" title="cr_time_measure_begin" alt="" coords="377,375,537,401"/>
+<area shape="rect" id="node4" href="$de/d09/crate__index_8c.html#af9afe6ebfd23f2d6b3c1b8ef95538fac" title="cr_watchdog_init" alt="" coords="188,299,308,325"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="424,197,491,224"/>
+<area shape="rect" id="node6" href="$de/d09/crate__index_8c.html#a7f7c8453bb3e1ecbd7ca8fcc3d9f2a0c" title="cr_idx_w_init" alt="" coords="199,349,297,376"/>
+<area shape="rect" id="node7" href="$de/d09/crate__index_8c.html#a6e6d2b2ebe319a49dbac9079408b2abf" title="create_index" alt="" coords="200,45,296,72"/>
+<area shape="rect" id="node8" href="$de/d09/crate__index_8c.html#a50a487b6aa189fb1ee01242b80924e0f" title="cr_idx_w_warmup" alt="" coords="185,147,311,173"/>
+<area shape="rect" id="node9" href="$de/d09/crate__index_8c.html#a1cd443740a7be07a5c4e86bb58af05ed" title="cr_idx_w_common" alt="" coords="183,197,313,224"/>
+<area shape="rect" id="node10" href="$de/d09/crate__index_8c.html#a99be9fdd44957d7f7a1e1b28d5b3e1f1" title="delete_index" alt="" coords="201,96,295,123"/>
+<area shape="rect" id="node11" href="$de/d09/crate__index_8c.html#a74f81d030e3e7275daff8c9c95d1b29b" title="cr_idx_w_fini" alt="" coords="199,451,297,477"/>
+<area shape="rect" id="node12" href="$de/d09/crate__index_8c.html#a14200e34adac7a49d78647ed1e13d728" title="cr_watchdog_fini" alt="" coords="188,501,308,528"/>
+<area shape="rect" id="node13" href="$de/d09/crate__index_8c.html#a07fddf0e7ec66b5264f1b47ae0e1cfdf" title="cr_time_measure_end" alt="" coords="173,552,323,579"/>
+<area shape="rect" id="node14" href="$de/d09/crate__index_8c.html#a71891d21a918e4b6c1a8d89792cc2cc0" title="cr_time_capture_results" alt="" coords="167,603,329,629"/>
+<area shape="rect" id="node15" href="$de/d09/crate__index_8c.html#a83a76c499f0368dbd638c2f917fe876a" title="cr_time_measure_report" alt="" coords="167,653,329,680"/>
+</map>

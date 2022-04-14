@@ -1,0 +1,8 @@
+<map id="stor_fini" name="stor_fini">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga51a3fd60cb21d2779c485482251f2612" title="m0_addb2_mach_stop" alt="" coords="127,5,280,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga7cfd5628d8e7480196a3c3e1ad8f3612" title="m0_addb2_storage_stop" alt="" coords="121,56,285,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="129,107,278,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga44f4269a2b682fc51bd9ec6a113f49e2" title="mach_fini" alt="" coords="164,157,243,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gadc4647d6cc4fff779ca2c152431357ba" title="m0_addb2_storage_fini" alt="" coords="125,208,281,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="136,259,271,285"/>
+</map>

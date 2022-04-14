@@ -1,0 +1,8 @@
+<map id="nlx_core_init" name="nlx_core_init">
+<area shape="rect" id="node2" href="$db/d41/group__kthread.html#ga686f75bfcf10c8a062573dba81e8fd56" title="m0_thread_tls_pop" alt="" coords="151,5,283,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#ga5df1bb435897ece176e8bcf35051847c" title="m0_thread_tls_back" alt="" coords="148,56,287,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="335,157,401,184"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="164,157,271,184"/>
+<area shape="rect" id="node6" href="$df/d9e/group___l_net_dev.html#ga36fd2e4c41d51e4d5c7648e3d475cff6" title="nlx_dev_init" alt="" coords="172,208,263,235"/>
+<area shape="rect" id="node7" href="$d6/d8a/group___k_l_net_core.html#ga03b10c3af5a956a1b02ffafd726a2043" title="nlx_core_fini" alt="" coords="170,259,265,285"/>
+</map>

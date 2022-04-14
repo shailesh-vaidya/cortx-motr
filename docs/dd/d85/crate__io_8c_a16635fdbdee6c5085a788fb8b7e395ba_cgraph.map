@@ -1,0 +1,5 @@
+<map id="cr_adopt_motr_thread" name="cr_adopt_motr_thread">
+<area shape="rect" id="node2" href="$db/d41/group__kthread.html#ga830dd17058fdf40574ddf1a7ac057d50" title="m0_thread_tls" alt="" coords="211,5,315,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="225,56,300,83"/>
+<area shape="rect" id="node4" href="$da/dd8/group__thread.html#ga23a8cb5f8e7e03d43f7f5f65d8d91c6e" title="m0_thread_adopt" alt="" coords="201,107,324,133"/>
+</map>

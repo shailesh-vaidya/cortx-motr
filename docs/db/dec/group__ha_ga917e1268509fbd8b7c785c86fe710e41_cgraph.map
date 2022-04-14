@@ -1,0 +1,20 @@
+<map id="halon_interface_level_enter" name="halon_interface_level_enter">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,223,491,250"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="215,173,354,199"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="202,578,367,605"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="205,5,365,47"/>
+<area shape="rect" id="node6" href="$d5/d8c/group__reqh.html#ga074be1304e31590ad109bd330c6fb336" title="m0_reqh_start" alt="" coords="232,629,337,655"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga7de928bf0cc92e7751cd7e3377264bfc" title="m0_rpc_machine_init" alt="" coords="212,223,357,250"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="420,350,496,377"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gaedb93e14d2ea7f758b6e16c0eccbf41d" title="m0_ha_init" alt="" coords="242,375,327,402"/>
+<area shape="rect" id="node10" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="425,426,491,453"/>
+<area shape="rect" id="node11" href="$d5/d7c/group__ha-dispatcher.html#ga2c3d3b16cb3cae6af37277075bd59d78" title="m0_ha_dispatcher_init" alt="" coords="209,426,361,453"/>
+<area shape="rect" id="node12" href="$db/dec/group__ha.html#gadeb26739822db1217e8f920ef5d9af7d" title="m0_ha_start" alt="" coords="237,274,332,301"/>
+<area shape="rect" id="node13" href="$db/dec/group__ha.html#ga5f5aa5717aaeea3cefb3152ec0002d3e" title="m0_ha_connect" alt="" coords="227,679,342,706"/>
+<area shape="rect" id="node14" href="$db/dec/group__ha.html#ga4b6ad21b13dcad30d59eeb6d9423b3c9" title="halon_interface_process\l_event" alt="" coords="203,731,366,772"/>
+<area shape="rect" id="node15" href="$db/dec/group__ha.html#gaea25c538b59754a23c71443ccfe1ec55" title="halon_interface_service\l_event" alt="" coords="205,796,364,837"/>
+<area shape="rect" id="node16" href="$da/ddc/group__reqhservice.html#gae56343b4dc4aa0b7002d201585900136" title="m0_reqh_service_setup" alt="" coords="205,71,365,98"/>
+<area shape="rect" id="node17" href="$df/d3a/group__spiel-api-fspec-intr.html#ga989f3bc8d69d47ff2b9b334bf8f54081" title="m0_spiel_init" alt="" coords="235,325,334,351"/>
+<area shape="rect" id="node18" href="$d7/daf/group___s_n_s_c_m.html#gaf0e73494dd2400c67bc8ddd140631ba4" title="m0_sns_cm_repair_trigger\l_fop_init" alt="" coords="197,861,372,903"/>
+<area shape="rect" id="node19" href="$d7/daf/group___s_n_s_c_m.html#ga39c924482915ef609ef80a1a1339aa3f" title="m0_sns_cm_rebalance\l_trigger_fop_init" alt="" coords="207,927,363,968"/>
+</map>

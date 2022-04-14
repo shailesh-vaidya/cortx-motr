@@ -1,0 +1,14 @@
+<map id="ut_test_device_check" name="ut_test_device_check">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="222,5,373,32"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="440,31,568,57"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="222,107,373,133"/>
+<area shape="rect" id="node5" href="$d0/ddc/motr_2ut_2client_8h.html#a2a660ee1fb04d9208c78df367c8501f1" title="ut_dummy_poolmach_create" alt="" coords="203,157,392,184"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a07897fc86962ea2527d642756e23b200" title="ut_dummy_target_ioreq\l_create" alt="" coords="218,209,377,250"/>
+<area shape="rect" id="node7" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="214,275,381,301"/>
+<area shape="rect" id="node8" href="$d0/ddc/motr_2ut_2client_8h.html#a96d3b414adc8bbab9db5faefcf18f50c" title="ut_set_device_state" alt="" coords="228,325,367,352"/>
+<area shape="rect" id="node9" href="$d0/ddc/motr_2ut_2client_8h.html#a6506e85cf522825b92029f1911417a84" title="ut_set_node_state" alt="" coords="233,376,362,403"/>
+<area shape="rect" id="node10" href="$d7/dde/io__req_8c.html#ae9e72a731d2ec6b218854d6adeba043e" title="device_check" alt="" coords="246,427,349,453"/>
+<area shape="rect" id="node11" href="$d0/ddc/motr_2ut_2client_8h.html#acebfa9a61ae2957ace18ca283e0eeb5d" title="ut_dummy_target_ioreq\l_delete" alt="" coords="218,478,377,519"/>
+<area shape="rect" id="node12" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="223,544,372,571"/>
+<area shape="rect" id="node13" href="$d0/ddc/motr_2ut_2client_8h.html#aab896411de4887a541a48fcef2d3087c" title="ut_dummy_poolmach_delete" alt="" coords="203,595,391,621"/>
+</map>

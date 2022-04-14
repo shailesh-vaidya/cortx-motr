@@ -1,0 +1,25 @@
+<map id="test_cp_send_recv_verify" name="test_cp_send_recv_verify">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="258,5,357,32"/>
+<area shape="rect" id="node3" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a3795ee3c77b9af79deaf20159a4a727e" title="test_init" alt="" coords="273,56,341,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="457,259,591,285"/>
+<area shape="rect" id="node5" href="$d0/d31/cp__common_8c.html#a8b56bb79202aa4ce2daa3d0ab6ddaeab" title="layout_gen" alt="" coords="265,512,350,539"/>
+<area shape="rect" id="node6" href="$df/d01/group__pdclust.html#gaf6469d781786f85efe0a4152b677aa9b" title="m0_pdl_to_layout" alt="" coords="245,563,369,589"/>
+<area shape="rect" id="node7" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="224,613,391,640"/>
+<area shape="rect" id="node8" href="$d8/d01/group__net__buffer__pool.html#gac6bdd9900fc54c802b1e16d44cb6b64f" title="m0_net_buffer_pool_get" alt="" coords="227,664,387,691"/>
+<area shape="rect" id="node9" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="240,715,375,757"/>
+<area shape="rect" id="node10" href="$d0/d31/cp__common_8c.html#af856649fd0be6ef07c2ad0320fbf1cb9" title="cp_prepare" alt="" coords="481,157,567,184"/>
+<area shape="rect" id="node11" href="$d0/d31/cp__common_8c.html#a87e6af8fdf68a900b449df3989954f44" title="bv_populate" alt="" coords="681,132,773,159"/>
+<area shape="rect" id="node12" href="$d0/d80/group___c_p.html#ga01291de7595821dccf3fe202c3ff6ac7" title="m0_cm_cp_buf_add" alt="" coords="657,183,796,209"/>
+<area shape="rect" id="node13" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="252,781,363,808"/>
+<area shape="rect" id="node14" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="252,832,363,859"/>
+<area shape="rect" id="node15" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="439,316,609,343"/>
+<area shape="rect" id="node16" href="$d6/db9/group___c_m_a_g.html#ga5352f93151a44c6de039541f79404775" title="m0_cm_ag_cp_add" alt="" coords="240,883,375,909"/>
+<area shape="rect" id="node17" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="469,379,579,405"/>
+<area shape="rect" id="node18" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="449,455,599,481"/>
+<area shape="rect" id="node19" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#abe24607e03c631f0869f4ba377b6a42d" title="read_and_verify" alt="" coords="250,309,365,336"/>
+<area shape="rect" id="node20" href="$d8/d01/group__net__buffer__pool.html#ga3bf9b14c32877d0d93dd44c2143b60a3" title="m0_net_buffer_pool\l_prune" alt="" coords="240,934,375,975"/>
+<area shape="rect" id="node21" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="240,1000,375,1027"/>
+<area shape="rect" id="node22" href="$d0/d31/cp__common_8c.html#aa12bd2b434d526099c0e5962a3e2c13e" title="layout_destroy" alt="" coords="254,1051,361,1077"/>
+<area shape="rect" id="node23" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#af68e1ea76e66d1ce0dfcd2b828e028e2" title="test_fini" alt="" coords="273,1101,341,1128"/>
+<area shape="rect" id="node24" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="256,1152,359,1179"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="cob_stob_ref_drop_wait" name="cob_stob_ref_drop_wait">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="241,5,338,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="223,56,356,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gafe5fb5c1becc6b5f30159f64681c5f12" title="m0_chan_has_waiters" alt="" coords="213,107,365,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="236,157,343,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="229,208,350,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="229,259,349,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="256,309,323,336"/>
+</map>

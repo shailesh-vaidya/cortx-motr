@@ -1,0 +1,13 @@
+<map id="m0_mdstore_path" name="m0_mdstore_path">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="211,5,285,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="391,56,480,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="210,309,286,336"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#ga1a0e5f87a28ce1395cb1bedfe6078000" title="restart" alt="" coords="219,360,277,387"/>
+<area shape="rect" id="node6" href="$de/d60/group__mdstore.html#gab58973c90e4d51a750bbd72e4fbc952d" title="m0_mdstore_locate" alt="" coords="180,157,316,184"/>
+<area shape="rect" id="node7" href="$db/d17/group__adt.html#ga861390644cc4c945e77be1e913d11d79" title="m0_bitstring_len_get" alt="" coords="364,113,507,140"/>
+<area shape="rect" id="node8" href="$db/d17/group__adt.html#gaf9a30bb8ae3e8edc18b85d323914f173" title="m0_bitstring_buf_get" alt="" coords="364,176,507,203"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="402,252,469,279"/>
+<area shape="rect" id="node10" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="207,411,289,437"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="203,461,293,488"/>
+<area shape="rect" id="node12" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="201,512,295,539"/>
+</map>

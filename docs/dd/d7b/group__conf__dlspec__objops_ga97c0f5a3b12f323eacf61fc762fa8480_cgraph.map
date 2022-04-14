@@ -1,0 +1,11 @@
+<map id="m0_conf_obj_fill" name="m0_conf_obj_fill">
+<area shape="rect" id="node2" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="181,5,333,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga482be6999fb575e77e657b77558f34c5" title="m0_conf_cache_is_locked" alt="" coords="169,56,345,83"/>
+<area shape="rect" id="node4" href="$dd/df9/group__conf__dfspec__obj.html#ga82b53521dbe90ae70f4c597339c525d1" title="m0_conf_obj_is_stub" alt="" coords="185,107,330,133"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="193,157,321,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gab3bf9d1c5e6615a056c4ac00867b7335" title="m0_conf_objx_type" alt="" coords="190,208,325,235"/>
+<area shape="rect" id="node7" href="$dd/d7b/group__conf__dlspec__objops.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="393,233,517,260"/>
+<area shape="rect" id="node8" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="216,309,299,336"/>
+<area shape="rect" id="node9" href="$dd/d7b/group__conf__dlspec__objops.html#ga171ebfc32b5177bdc727d4d8db699f46" title="confx_obj_is_valid" alt="" coords="193,360,322,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="224,411,291,437"/>
+</map>

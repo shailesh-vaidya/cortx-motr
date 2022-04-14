@@ -1,0 +1,28 @@
+<map id="cob_fom_get" name="cob_fom_get">
+<area shape="rect" id="node2" href="$db/d1f/cob__foms_8h.html#a3e4b60834d9b1ed227976929813b6a62" title="m0_cob_fom_create" alt="" coords="366,29,506,55"/>
+<area shape="rect" id="node3" href="$d9/d51/cob__foms_8c.html#aa73b376f0a028c2e9a902059ba3fa904" title="cc_fom_fini" alt="" coords="185,105,274,131"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#a63e773e7e5be450e816d88fe1d7dc1a6" title="cob_fom_locality_get" alt="" coords="157,155,302,182"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a0540efec5ae367dd727fd842135a6210" title="cob_fom_populate" alt="" coords="165,54,293,81"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#a436b45604f1eba4458e8a0618f0bc238" title="cob_getattr_fom_tick" alt="" coords="157,206,301,233"/>
+<area shape="rect" id="node7" href="$d9/d51/cob__foms_8c.html#a248f4ce335db52ea21813c5dfc8af56c" title="cob_setattr_fom_tick" alt="" coords="364,307,508,334"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#a0177e60caaa00ce59459034a1323434d" title="cob_stob_create_credit" alt="" coords="151,358,308,385"/>
+<area shape="rect" id="node9" href="$d9/d51/cob__foms_8c.html#a68e81c801fe6824f84b45786b1b7d845" title="cob_stob_delete_credit" alt="" coords="358,409,514,435"/>
+<area shape="rect" id="node10" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="564,510,692,537"/>
+<area shape="rect" id="node11" href="$d5/d5d/ut_2cob__foms_8c.html#a45a5c1c98fcbf18ce5df14a08d61f794" title="cc_fom_state_test" alt="" coords="740,611,871,638"/>
+<area shape="rect" id="node12" href="$d5/d5d/ut_2cob__foms_8c.html#aff9565af45c0a80fa5c80b266a8ce40f" title="cd_fom_state_test" alt="" coords="740,839,871,866"/>
+<area shape="rect" id="node13" href="$d9/d51/cob__foms_8c.html#a1e698274d578c283f5a79a5e3d1d1ff0" title="cob_stob_create" alt="" coords="377,510,495,537"/>
+<area shape="rect" id="node14" href="$d9/d51/cob__foms_8c.html#a7322dd6b0157ad6526c3e67431ea0e31" title="cob_stob_ref_drop_wait" alt="" coords="356,561,516,587"/>
+<area shape="rect" id="node15" href="$d9/d51/cob__foms_8c.html#a99268e63837752f26c8dacc268f33408" title="cob_locate" alt="" coords="187,966,272,993"/>
+<area shape="rect" id="node16" href="$d9/d51/cob__foms_8c.html#aa3e60d9c39bcc653b712cf72e39553d0" title="cd_fom_fini" alt="" coords="185,1017,274,1043"/>
+<area shape="rect" id="node17" href="$d9/d51/cob__foms_8c.html#acc54868a568b59d6af6c0ca3bc65873d" title="cob_getattr_fom_fini" alt="" coords="159,1067,299,1094"/>
+<area shape="rect" id="node18" href="$d9/d51/cob__foms_8c.html#ab18ada187f9c34da5e3e8e846000a2ed" title="cob_setattr_fom_fini" alt="" coords="159,1118,299,1145"/>
+<area shape="rect" id="node19" href="$d5/d5d/ut_2cob__foms_8c.html#a7e7a293ab8969d7dd43a974dc5058393" title="fom_get_test" alt="" coords="180,1169,279,1195"/>
+<area shape="rect" id="node20" href="$d5/d5d/ut_2cob__foms_8c.html#a8fd53f4a4b8597f47618a8a73f265f60" title="cc_stob_create_test" alt="" coords="366,915,506,942"/>
+<area shape="rect" id="node21" href="$d5/d5d/ut_2cob__foms_8c.html#a377c93ae2fb193312f3dab3659c6f810" title="cc_cob_create_test" alt="" coords="368,763,504,790"/>
+<area shape="rect" id="node22" href="$d5/d5d/ut_2cob__foms_8c.html#a33c35e693fbb969ef04395f7a507a347" title="cc_fom_populate_test" alt="" coords="154,1219,305,1246"/>
+<area shape="rect" id="node23" href="$d5/d5d/ut_2cob__foms_8c.html#ae753ed2ed709ab4cbc1d9a0db2e4bf6d" title="cd_fom_populate_test" alt="" coords="154,1270,305,1297"/>
+<area shape="rect" id="node24" href="$d5/d5d/ut_2cob__foms_8c.html#a258682e60679fec053605d354538e93a" title="cd_stob_delete_test" alt="" coords="367,611,505,638"/>
+<area shape="rect" id="node25" href="$d5/d5d/ut_2cob__foms_8c.html#abbebf0dc594c14eb64605a3a6e10bece" title="cd_cob_delete_test" alt="" coords="369,814,503,841"/>
+<area shape="rect" id="node26" href="$d5/d5d/ut_2cob__foms_8c.html#a0af5d51ed87d3c253b1f680c45ac4ca0" title="fom_stob_tx_credit" alt="" coords="163,662,296,689"/>
+<area shape="rect" id="node27" href="$d5/d5d/ut_2cob__foms_8c.html#a4323ab3c78813cfb2510a58412083f4f" title="fom_dtx_init" alt="" coords="183,814,276,841"/>
+</map>

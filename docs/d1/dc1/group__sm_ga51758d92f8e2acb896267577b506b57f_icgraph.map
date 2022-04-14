@@ -1,0 +1,9 @@
+<map id="m0_sm_addb2_init" name="m0_sm_addb2_init">
+<area shape="rect" id="node2" href="$dc/d7a/dtm0_2service_8h.html#aed86d37ab51c68fdea9244db6295ae04" title="m0_dtm0_stype_init" alt="" coords="218,5,357,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga127aa0504357dd8291b9ef709ecd41c9" title="m0_be_tx_mod_init" alt="" coords="220,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga34cca30a2e97207257e501bc3d7e7733" title="m0_cas_sm_conf_init" alt="" coords="213,107,362,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gaaa417c8905519797d6c6c24670bc7028" title="m0_fop_type_addb2_instrument" alt="" coords="184,157,391,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga5d3ce3120d7f29226f6982405d8a12cd" title="m0_dix_sm_conf_init" alt="" coords="215,208,360,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga0c76fcbc071f6322ad6f316c6d34aac2" title="m0_foms_init" alt="" coords="237,259,337,285"/>
+<area shape="rect" id="node8" href="$d7/dcd/motr_2client__internal_8h.html#a7883e38f13e31b3fada3fd43eeb181c2" title="m0_client_global_init" alt="" coords="216,309,359,336"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="credits_api_test" name="credits_api_test">
+<area shape="rect" id="node2" href="$d5/d68/rings_8c.html#a4af5db4b243ac98dbeb119efa46ee94c" title="rings_utdata_ops_set" alt="" coords="179,5,325,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#afe2108c6bbb5fa1e4b00cedc7c9e882e" title="rm_utdata_init" alt="" coords="200,80,304,107"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gae85a9aa985d78a0fd6bb2e2d5cdb4ae4" title="m0_rm_incoming_init" alt="" coords="179,131,325,157"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="384,181,509,208"/>
+<area shape="rect" id="node6" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="185,232,319,259"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gab20a95e1e5edafac23a81538da1fcebc" title="m0_rm_owner_selfadd" alt="" coords="175,283,329,309"/>
+<area shape="rect" id="node8" href="$d5/d57/rmapi_8c.html#a8615cc817320766347801b14ed4f63ad" title="m0_rm_ur_tlist_is_empty" alt="" coords="168,333,336,360"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga35b16fb825a3e37b39bace544db5abe5" title="m0_rm_credit_get" alt="" coords="189,384,315,411"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gab1a04ef57fb9eedf5d2f44e85f24dcf8" title="m0_rm_incoming_fini" alt="" coords="179,435,325,461"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga5642217a5a12914f27500be7aa65154a" title="m0_rm_credit_put" alt="" coords="189,485,315,512"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="176,536,328,563"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="169,587,335,613"/>
+<area shape="rect" id="node14" href="$de/de1/rmut_8c.html#a5ded66f68179baf0cf35c04367b9c6f4" title="rm_utdata_fini" alt="" coords="200,661,304,688"/>
+</map>

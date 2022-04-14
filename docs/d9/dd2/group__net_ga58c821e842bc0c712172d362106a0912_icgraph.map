@@ -1,0 +1,14 @@
+<map id="m0_net_end_point_get" name="m0_net_end_point_get">
+<area shape="rect" id="node2" href="$d0/d50/group__net__pvt.html#ga12df135f261cfd2be817aee51ae5f8a9" title="m0_net__buffer_add" alt="" coords="229,5,368,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gabea893c12b53121ce7950fc09d6f5ea0" title="mem_ep_get" alt="" coords="250,56,347,83"/>
+<area shape="rect" id="node4" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a533e3fef947978911247dfd4889cf280" title="s_m_recv_cb" alt="" coords="249,107,349,133"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaf1a92754883486e4cc6e9a91a24f99a1" title="nlx_ep_create" alt="" coords="247,157,350,184"/>
+<area shape="rect" id="node6" href="$d2/d68/lnet__ut_8c.html#a378ab46e1768ef943010145887c8c03d" title="ut_buf_cb1" alt="" coords="255,208,342,235"/>
+<area shape="rect" id="node7" href="$d2/d68/lnet__ut_8c.html#a3a400db30ade882c9a1f0f816561bd43" title="ut_buf_cb2" alt="" coords="255,259,342,285"/>
+<area shape="rect" id="node8" href="$d0/de6/group___net_test_commands_internals.html#ga8bc6855d3e897cede08dcd6b5167030d" title="commands_cb_msg_recv" alt="" coords="213,309,384,336"/>
+<area shape="rect" id="node9" href="$da/d84/group___net_test_ping_node_internals.html#gae483bc5e24f0cb380463175c7e4c14c6" title="node_ping_msg_cb" alt="" coords="231,360,366,387"/>
+<area shape="rect" id="node10" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="241,411,356,437"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gaf34dc8e8eabf98cbb1b552db55e9df2a" title="rpc_chan_locate" alt="" coords="240,461,357,488"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga5e2c4aa3883beda47391d8afe82e49ab" title="rpc_chan_create" alt="" coords="239,512,358,539"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#ga29ba62309bf4ea69db2b87efde1cedbc" title="m0_rpc_fop_conn_establish\l_ctx_init" alt="" coords="207,563,391,605"/>
+</map>

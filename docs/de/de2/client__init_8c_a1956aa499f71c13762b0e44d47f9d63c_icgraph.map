@@ -1,0 +1,16 @@
+<map id="initlift_fail" name="initlift_fail">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#aef6bcfa3af2564dcaa21112f33b0f3d7" title="ut_test_m0_client_init\l_floors" alt="" coords="139,5,289,47"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#ab7606cd481479276ecfb5a948a1cabe8" title="initlift_net" alt="" coords="175,71,253,98"/>
+<area shape="rect" id="node4" href="$de/de2/client__init_8c.html#a8fd0239a3238abc70e5aa0a53b7ead95" title="rpc_init" alt="" coords="182,122,246,149"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#a956a67e0e2600307d806ee365d220a32" title="initlift_ast_thread" alt="" coords="153,173,275,199"/>
+<area shape="rect" id="node6" href="$de/de2/client__init_8c.html#af62c831366f6568881a8da6c0b443906" title="initlift_ha" alt="" coords="177,223,251,250"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#a00207648445b2fc5de71c2a4ace9bdd7" title="initlift_confc" alt="" coords="168,274,260,301"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#a2e38b087bf42bb9b11aab582508f5f79" title="initlift_pools" alt="" coords="169,325,259,351"/>
+<area shape="rect" id="node9" href="$de/de2/client__init_8c.html#a7e8d22ee5e12e9dab0ab144b52af1c66" title="initlift_pool_version" alt="" coords="147,375,281,402"/>
+<area shape="rect" id="node10" href="$de/de2/client__init_8c.html#afc099ecfa529c2a86af9031f1b841acb" title="initlift_resource_manager" alt="" coords="131,426,297,453"/>
+<area shape="rect" id="node11" href="$de/de2/client__init_8c.html#a592a48d05a56014d8606b9c528192876" title="initlift_layouts" alt="" coords="163,477,265,503"/>
+<area shape="rect" id="node12" href="$de/de2/client__init_8c.html#a2385cc667e44db8b6e6d2329b7aa106d" title="initlift_idx_service" alt="" coords="151,527,277,554"/>
+<area shape="rect" id="node13" href="$de/de2/client__init_8c.html#a19b15d6b418f2acd01140fabd3bed8df" title="initlift_rootfid" alt="" coords="166,578,262,605"/>
+<area shape="rect" id="node14" href="$de/de2/client__init_8c.html#a759d732b700095677f8109aa2c7bc23b" title="initlift_addb2" alt="" coords="167,629,261,655"/>
+<area shape="rect" id="node15" href="$de/de2/client__init_8c.html#aba58f3137452dfdeb3c80b699d20e3be" title="initlift_dtm0" alt="" coords="169,679,259,706"/>
+</map>

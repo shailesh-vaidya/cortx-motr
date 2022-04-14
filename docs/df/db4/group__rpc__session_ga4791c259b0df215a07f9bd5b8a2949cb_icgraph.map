@@ -1,0 +1,13 @@
+<map id="m0_rpc_session_fini" name="m0_rpc_session_fini">
+<area shape="rect" id="node2" href="$d3/da7/rconfc__link__fom_8c.html#a83ee6d9b099373cd06d7d4ff574a4452" title="rconfc_link_fom_tick" alt="" coords="214,5,357,32"/>
+<area shape="rect" id="node3" href="$d5/d34/sd__common_8h.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="219,56,351,83"/>
+<area shape="rect" id="node4" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="227,107,343,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga27ef5040cce8192ba6c7dfc49d4c3760" title="m0_rpc_session_create" alt="" coords="205,157,365,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="202,208,369,235"/>
+<area shape="rect" id="node7" href="$da/d7a/ut_2session_8c.html#a53c0d883126df9f2ce88d910662e9d21" title="session_ut_fini" alt="" coords="231,259,340,285"/>
+<area shape="rect" id="node8" href="$da/d7a/ut_2session_8c.html#a53c11f9e376745fd5e709094abecf8dd" title="session_init_fini_test" alt="" coords="213,309,357,336"/>
+<area shape="rect" id="node9" href="$da/d7a/ut_2session_8c.html#a0c05f900fd55b64dabede0c05954e6fa" title="session_terminate_reply\l_and_fini" alt="" coords="204,361,367,402"/>
+<area shape="rect" id="node10" href="$da/d7a/ut_2session_8c.html#a342a9fbdaa14faccd318b75fe6d438af" title="session_establish_fail_test" alt="" coords="196,427,375,453"/>
+<area shape="rect" id="node11" href="$da/d7a/ut_2session_8c.html#a9969955a312d3e476541a31c112ca37f" title="session_establish_reply\l_fail_test" alt="" coords="205,478,366,519"/>
+<area shape="rect" id="node12" href="$da/d7a/ut_2session_8c.html#a514d2c5b0d42fd287a1225b3947dcab3" title="session_terminate_fail_test" alt="" coords="195,544,376,571"/>
+</map>

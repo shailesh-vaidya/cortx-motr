@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_terminate" name="m0_rpc_conn_terminate">
+<area shape="rect" id="node2" href="$d3/da7/rconfc__link__fom_8c.html#a83ee6d9b099373cd06d7d4ff574a4452" title="rconfc_link_fom_tick" alt="" coords="241,5,384,32"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#ga8d4349522a989753ac10ced555b1d516" title="rpc_link_conn_terminate" alt="" coords="231,56,394,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga0dc18ba56675063c0bf06c897b31a29d" title="m0_rpc_conn_terminate_sync" alt="" coords="215,107,411,133"/>
+<area shape="rect" id="node5" href="$d1/d79/ut_2conn_8c.html#a026cdc741e41b696008511a68a1df438" title="conn_terminate" alt="" coords="257,157,368,184"/>
+<area shape="rect" id="node6" href="$d1/d79/ut_2conn_8c.html#a1cfb116b170620f55b1aa2354e448c3a" title="conn_terminate_fail_test" alt="" coords="231,208,395,235"/>
+</map>

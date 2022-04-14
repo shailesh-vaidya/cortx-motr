@@ -1,0 +1,4 @@
+<map id="packet_header_encdec" name="packet_header_encdec">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gad99bdadebde0c238d7605fc04164eb3f" title="m0_rpc_packet_encode\l_using_cursor" alt="" coords="209,5,369,47"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gae5fb19175cf9aa8559ef2e812386e719" title="m0_rpc_packet_decode\l_using_cursor" alt="" coords="209,71,369,112"/>
+</map>

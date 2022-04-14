@@ -1,0 +1,18 @@
+<map id="dix_req_immed_failure" name="dix_req_immed_failure">
+<area shape="rect" id="node2" href="$d2/d61/group__index-dix.html#ga44331ce7151a22c5a057f73498536041" title="cas_index_create_ast" alt="" coords="206,5,355,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#ga2a18f85cca4e4b45e8e1fbb7d0499ed8" title="cas_index_delete_ast" alt="" coords="207,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#gab88b92d21f6cca7935c08a7e90a9067c" title="cas_index_lookup_ast" alt="" coords="205,107,356,133"/>
+<area shape="rect" id="node5" href="$d2/d61/group__index-dix.html#ga96bf0331f98e6131c36d232418110d73" title="cas_index_list_ast" alt="" coords="215,157,346,184"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#ga7544f01bcd9354f745e019fafd240ab7" title="cas_put_ast" alt="" coords="234,208,327,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#gab3f9255d67136abd17f94b99f498aba7" title="cas_get_ast" alt="" coords="234,259,327,285"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#ga69b36d191d6a020072e891bba2dd88f4" title="cas_del_ast" alt="" coords="235,309,327,336"/>
+<area shape="rect" id="node9" href="$d2/d61/group__index-dix.html#gae310a59891b78f508d45997d9c427e11" title="cas_next_ast" alt="" coords="231,360,331,387"/>
+<area shape="rect" id="node10" href="$d2/d61/group__index-dix.html#ga1411b7d2bb7ccd621afdf014ee8958f3" title="dix_index_create_ast" alt="" coords="208,411,353,437"/>
+<area shape="rect" id="node11" href="$d2/d61/group__index-dix.html#gad25c51f3296ba35826caad69075b3308" title="dix_index_delete_ast" alt="" coords="209,461,353,488"/>
+<area shape="rect" id="node12" href="$d2/d61/group__index-dix.html#gac65635645931acd03ed2b4d97f483d73" title="dix_index_lookup_ast" alt="" coords="207,512,354,539"/>
+<area shape="rect" id="node13" href="$d2/d61/group__index-dix.html#gaf6a7efa1d51668fc45e2fb1031595564" title="dix_index_list_ast" alt="" coords="217,563,344,589"/>
+<area shape="rect" id="node14" href="$d2/d61/group__index-dix.html#gaec7112d0cbf93e63f5ed70bb79f6128b" title="dix_put_ast" alt="" coords="236,613,325,640"/>
+<area shape="rect" id="node15" href="$d2/d61/group__index-dix.html#gaec0252395dfb3a064ac964eac732742e" title="dix_get_ast" alt="" coords="236,664,325,691"/>
+<area shape="rect" id="node16" href="$d2/d61/group__index-dix.html#gae9eda3f64e3eddadce8ccc259be812d6" title="dix_del_ast" alt="" coords="237,715,325,741"/>
+<area shape="rect" id="node17" href="$d2/d61/group__index-dix.html#gaa41e336a8f6c4ef70712aaf1691aac6d" title="dix_next_ast" alt="" coords="233,765,329,792"/>
+</map>

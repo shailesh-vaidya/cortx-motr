@@ -1,0 +1,18 @@
+<map id="test_decode_pdclust" name="test_decode_pdclust">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="477,47,517,73"/>
+<area shape="rect" id="node3" href="$dd/d6d/group__xcode.html#gaa87d0f5d58a435ae036044bab9ea4661" title="enum_id" alt="" coords="461,481,532,508"/>
+<area shape="rect" id="node4" href="$df/dca/lib_2misc_8c.html#aa4f9b74ceb2eff5829e8c547939733c3" title="m0_uint128_init" alt="" coords="229,620,342,647"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#a71bf710e2ac3f0ed8bc48e455aa187a7" title="allocate_area" alt="" coords="236,671,335,697"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="209,47,362,73"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#acabce7ab7d4c6eee02784d2fb0d39ad8" title="NKP_assign_and_pool_init" alt="" coords="196,452,375,479"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#aff38c440d7787d3012a357490c3396e1" title="pdclust_layout_buf\l_build" alt="" coords="220,503,351,545"/>
+<area shape="rect" id="node9" href="$da/da8/group__layout.html#ga20342dc3186c428da5a18fa162423204" title="m0_layout__allocated\l_invariant" alt="" coords="423,115,571,157"/>
+<area shape="rect" id="node10" href="$da/da8/group__layout.html#ga2a19253d39ad85f5d29e837a16280dad" title="m0_layout_decode" alt="" coords="220,97,351,124"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="452,199,541,225"/>
+<area shape="rect" id="node12" href="$d6/de4/layout_2ut_2layout_8c.html#ab97a4182e9b1e120592a7cd11354ae74" title="list_lookup" alt="" coords="243,351,327,377"/>
+<area shape="rect" id="node13" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="433,300,561,327"/>
+<area shape="rect" id="node14" href="$d6/de4/layout_2ut_2layout_8c.html#a6244f848dab1e52241a1c710a3befcaa" title="pdclust_layout_verify" alt="" coords="213,569,358,596"/>
+<area shape="rect" id="node15" href="$da/da8/group__layout.html#ga29c80e8d71855cfeace3c8d6f6ced055" title="m0_layout_put" alt="" coords="232,249,339,276"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="251,721,320,748"/>
+<area shape="rect" id="node17" href="$dd/d7f/group__pool.html#ga94bc2b9d1ad8d5a89d0be837ee40c1c8" title="m0_pool_fini" alt="" coords="238,772,333,799"/>
+</map>

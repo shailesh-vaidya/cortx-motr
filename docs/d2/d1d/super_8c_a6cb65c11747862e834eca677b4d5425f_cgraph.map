@@ -1,0 +1,10 @@
+<map id="m0t1fs_root_alloc" name="m0t1fs_root_alloc">
+<area shape="rect" id="node2" href="$d2/d1d/super_8c.html#aa26d72c9f320bc09aaec0f5262821469" title="service_connect_wait" alt="" coords="179,5,327,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae8d2bacadc156bb7af70145397c57e79" title="m0t1fs_mds_statfs" alt="" coords="185,56,320,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="390,183,487,209"/>
+<area shape="rect" id="node5" href="$d2/d1d/super_8c.html#ae7da2a8323662d6cecf1e217d5715d6e" title="m0t1fs_fs_lock" alt="" coords="197,157,308,184"/>
+<area shape="rect" id="node6" href="$d8/d2b/inode_8c.html#ac7e312a612e3ecb1c1e22270add4715f" title="m0t1fs_root_iget" alt="" coords="193,208,312,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga5cf3d51846f4e80aef134c024d09c3c0" title="m0_fop_put0_lock" alt="" coords="375,233,503,260"/>
+<area shape="rect" id="node8" href="$d2/d1d/super_8c.html#ae865850a472a5cd1bce58c1ba7a646a3" title="m0t1fs_fs_unlock" alt="" coords="190,309,315,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="219,360,286,387"/>
+</map>

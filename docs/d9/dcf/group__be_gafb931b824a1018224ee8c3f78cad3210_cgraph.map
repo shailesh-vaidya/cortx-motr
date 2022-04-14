@@ -1,0 +1,8 @@
+<map id="be_log_discard_ast" name="be_log_discard_ast">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga15710fa667c7e4d0966f0957f74cadd7" title="be_log_discard_lock" alt="" coords="430,5,570,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8a96f2768638bf78060937c4672908d7" title="be_log_discard_unlock" alt="" coords="423,61,577,88"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga3bcf778f53c85878b897b87af5abc627" title="be_log_discard_item\l_trydiscard" alt="" coords="211,203,352,245"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gab0bd5e2b60ed4c9b04dad2b62e11a0a8" title="be_log_discard_check_sync" alt="" coords="188,51,375,77"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gae23f5749dc6df13789479cc959939f3f" title="be_log_discard_flush\l_finished" alt="" coords="428,123,572,165"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="215,269,347,296"/>
+</map>

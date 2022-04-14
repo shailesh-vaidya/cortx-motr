@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_invariant" name="m0_rpc_conn_invariant">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga6183517ca5a757f1d0f92dbdf2de2d93" title="m0_rpc_conn_is_snd" alt="" coords="209,5,355,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gab3904ada342561f647d6794770c8c531" title="m0_rpc_conn_is_rcv" alt="" coords="211,56,353,83"/>
+<area shape="rect" id="node4" href="$d7/d08/group__tlist.html#ga316809d4003fee99e70b096bf7708360" title="m0_tlist_invariant" alt="" coords="220,107,344,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="239,157,325,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="231,208,333,235"/>
+</map>

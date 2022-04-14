@@ -1,0 +1,6 @@
+<map id="frm_rmachine_is_locked" name="frm_rmachine_is_locked">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3bf1052769410cf305bf2505167c4a21" title="m0_rpc_frm_enq_item" alt="" coords="371,5,521,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="216,43,309,69"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga9ec41705c5def9568760991f896f8777" title="m0_rpc_frm_run_formation" alt="" coords="357,68,535,95"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gac26d2f0ba5fe46a6470603c3a855a458" title="m0_rpc_frm_packet_done" alt="" coords="360,131,532,157"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_dix_cm_cp_write" name="m0_dix_cm_cp_write">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975" title="cp2dixcp" alt="" coords="237,5,312,32"/>
+<area shape="rect" id="node3" href="$d5/df4/group___d_i_x_c_m_c_p.html#gaab824b898d3f0bae1a5c58cf1942de3f" title="cp2dixcm" alt="" coords="235,56,314,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga540ed0a1ddcaf608b37da2332b2ab5cc" title="m0_fom_tx" alt="" coords="399,157,485,184"/>
+<area shape="rect" id="node5" href="$d5/df4/group___d_i_x_c_m_c_p.html#gae96ac3a55dcb632d2d7cdccd9b0bda47" title="dix_cm_cp_dtx_failure" alt="" coords="199,157,351,184"/>
+<area shape="rect" id="node6" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga792dc676405649b6d00e4e59cc9b962a" title="dix_cm_fom_tx_wait" alt="" coords="203,208,346,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga2321213cf8a9198330e35265657d45ce" title="m0_dtx_opened" alt="" coords="217,259,332,285"/>
+<area shape="rect" id="node8" href="$d9/d21/group__cas-ctg-store.html#ga35f7b32e123b27eb313b985a9484730c" title="m0_ctg_op_init" alt="" coords="219,309,330,336"/>
+<area shape="rect" id="node9" href="$d9/d21/group__cas-ctg-store.html#gae9d863864be55a2c0c9aa2faaf537738" title="m0_ctg_insert" alt="" coords="223,360,327,387"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="199,411,350,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="241,461,308,488"/>
+</map>

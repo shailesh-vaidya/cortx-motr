@@ -1,0 +1,7 @@
+<map id="sctx_reset" name="sctx_reset">
+<area shape="rect" id="node2" href="$d4/d86/ut_2rpc__machine_8c.html#a3316e62f87fcdf1e5e8b20ea8bfda150" title="rpc_machine_watch_test" alt="" coords="136,5,303,32"/>
+<area shape="rect" id="node3" href="$d7/da0/clnt__srv__ctx_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="150,57,289,98"/>
+<area shape="rect" id="node4" href="$da/de8/rpclib__ut_8c.html#a0a310f81c00e9b786c26a2b279ef87a1" title="test_m0_rpc_server\l_start" alt="" coords="151,122,288,163"/>
+<area shape="rect" id="node5" href="$da/de8/rpclib__ut_8c.html#ab78bbdfcd69ddff8314b0c5081d05624" title="test_m0_rpc_client\l_start" alt="" coords="153,187,285,229"/>
+<area shape="rect" id="node6" href="$da/de8/rpclib__ut_8c.html#aef1c4736e97e0430000adcfd2b329ed6" title="test_rpclib" alt="" coords="178,253,261,280"/>
+</map>

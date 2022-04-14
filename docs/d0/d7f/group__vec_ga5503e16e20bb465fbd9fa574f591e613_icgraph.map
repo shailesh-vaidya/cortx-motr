@@ -1,0 +1,18 @@
+<map id="m0_bufvec_alloc_aligned" name="m0_bufvec_alloc_aligned">
+<area shape="rect" id="node2" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#aafe0cbdb0c5210ee9bd16f09122b3a7d" title="alloc_vecs" alt="" coords="261,5,345,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga2e53fa990c38a7be6965e64247ece65b" title="vals_create" alt="" coords="258,56,347,83"/>
+<area shape="rect" id="node4" href="$d4/d8c/group__conf__foms.html#ga91ba6c7f95834863e5f3b4b004d17e82" title="conf_net_buffer_allocate" alt="" coords="221,107,384,133"/>
+<area shape="rect" id="node5" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="249,157,356,184"/>
+<area shape="rect" id="node6" href="$d8/dc1/bulkio__common_8c.html#aa32bcc36400844d405b285c9c9c1e677" title="io_buffers_allocate" alt="" coords="237,208,368,235"/>
+<area shape="rect" id="node7" href="$d6/d47/ut_2vec_8c.html#a7a628320de27dfc07684a038db8ebb7a" title="test_vec" alt="" coords="267,259,339,285"/>
+<area shape="rect" id="node8" href="$dd/d85/crate__io_8c.html#aef7e835ab61bba53066592d6675015e7" title="cr_task_prep_bufs" alt="" coords="238,309,367,336"/>
+<area shape="rect" id="node9" href="$de/dec/lnet_2st_2ping_8c.html#a58e191d36ae4ab7c5feae07c2b4385d8" title="alloc_buffers" alt="" coords="255,360,350,387"/>
+<area shape="rect" id="node10" href="$d2/d68/lnet__ut_8c.html#a6e84e8ac42832d81377865378c4dd282" title="test_bulk_passive_send" alt="" coords="221,411,384,437"/>
+<area shape="rect" id="node11" href="$d2/d68/lnet__ut_8c.html#a41d302e88c1ead323ffc473deef1fdd9" title="test_bulk_passive_recv" alt="" coords="223,461,382,488"/>
+<area shape="rect" id="node12" href="$df/d38/group___net_test_network_internals.html#gac5e9e5052c775ffcd6ae5d641d0e0c7c" title="net_test_buf_init" alt="" coords="243,512,362,539"/>
+<area shape="rect" id="node13" href="$d7/df1/group__rpc-at.html#ga3800920f3fc4584d8bdb4804ddf26d7a" title="rpc_at_bulk_nb_alloc" alt="" coords="231,563,375,589"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#gab921b579a52b30f443cc1ba98004afd8" title="net_buffer_allocate" alt="" coords="237,613,368,640"/>
+<area shape="rect" id="node15" href="$da/d5b/ut_2packet_8c.html#a933e19a6002cd36c8de0a40e76922ef3" title="test_packet_encode\l_decode" alt="" coords="233,665,372,706"/>
+<area shape="rect" id="node16" href="$d9/d5b/repair_2ut_2xform_8c.html#aeb4bc412309042c66d4fa7855e8099b2" title="test_multi_cp_multi\l_failures" alt="" coords="235,730,370,771"/>
+<area shape="rect" id="node17" href="$dc/da6/cp__common_8h.html#afdaeb7fb63305d5d59a38045c6770a91" title="bv_alloc_populate" alt="" coords="239,796,366,823"/>
+</map>

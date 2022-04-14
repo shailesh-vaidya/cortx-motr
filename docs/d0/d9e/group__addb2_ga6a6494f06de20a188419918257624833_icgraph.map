@@ -1,0 +1,6 @@
+<map id="sensor_place" name="sensor_place">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gaf54729605f3d1cb7995f4c10df8ad238" title="m0_addb2_pop" alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gad6659265f41738755d596f26eb11bb5d" title="m0_addb2_sensor_add" alt="" coords="152,56,308,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga55e83890cbb6d1e8cfce70102b05941c" title="m0_addb2_sensor_del" alt="" coords="154,107,306,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga1a43801c3d9d3990745977cb442dfc8b" title="mach_buffer" alt="" coords="183,157,277,184"/>
+</map>

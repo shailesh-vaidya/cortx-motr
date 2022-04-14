@@ -1,0 +1,7 @@
+<map id="rpc_bulk_buf_invariant" name="rpc_bulk_buf_invariant">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga00a94f44de1fa233440477b01effb202" title="rpc_bulk_invariant" alt="" coords="205,100,332,127"/>
+<area shape="rect" id="node3" href="$d9/d05/group__bulkclient_d_f_s.html#ga39f5e8840e39eefd5196ab1fda88a7bf" title="m0_rpc_bulk_default_cb" alt="" coords="398,5,561,32"/>
+<area shape="rect" id="node4" href="$d9/d05/group__bulkclient_d_f_s.html#ga80dbbf97a2d991b53512b86657beea20" title="m0_rpc_bulk_buf_add" alt="" coords="405,63,554,89"/>
+<area shape="rect" id="node5" href="$d9/d05/group__bulkclient_d_f_s.html#ga75a4ab280e5ca68250159fa2e2f7b9f1" title="m0_rpc_bulk_buf_databuf_add" alt="" coords="380,125,579,152"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga7755c647e8d28b1b4aa7d3a83cf6947c" title="rpc_bulk_op" alt="" coords="433,188,525,215"/>
+</map>

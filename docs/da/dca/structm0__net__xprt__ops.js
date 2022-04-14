@@ -1,0 +1,27 @@
+var structm0__net__xprt__ops =
+[
+    [ "xo_bev_deliver_all", "da/dca/structm0__net__xprt__ops.html#a682b0ef3af0d6ff5a18a4eee40fa81a7", null ],
+    [ "xo_bev_deliver_sync", "da/dca/structm0__net__xprt__ops.html#a13f8b1a9ebc3fa1779628ad04781295e", null ],
+    [ "xo_bev_notify", "da/dca/structm0__net__xprt__ops.html#ac1cc7774916c4f92e7b1feeb991c6a42", null ],
+    [ "xo_bev_pending", "da/dca/structm0__net__xprt__ops.html#ae7616c29b043695f8c7e47426bd89fdc", null ],
+    [ "xo_buf_add", "da/dca/structm0__net__xprt__ops.html#ac2bbdcdc2df47209fe46f79ebad5051f", null ],
+    [ "xo_buf_del", "da/dca/structm0__net__xprt__ops.html#a4843c38187c497be64bc443a987b9237", null ],
+    [ "xo_buf_deregister", "da/dca/structm0__net__xprt__ops.html#a3408128f90a1e4bcefd33d61bda40258", null ],
+    [ "xo_buf_register", "da/dca/structm0__net__xprt__ops.html#ab6466343f690267f8b242658ce0c0529", null ],
+    [ "xo_dom_fini", "da/dca/structm0__net__xprt__ops.html#a29838622134ee968df896a7b98e39cf0", null ],
+    [ "xo_dom_init", "da/dca/structm0__net__xprt__ops.html#aa5186beef994323cdf64433f2062f570", null ],
+    [ "xo_end_point_create", "da/dca/structm0__net__xprt__ops.html#a23f2e61e02cd2f194823fde7d65f4220", null ],
+    [ "xo_get_max_buffer_desc_size", "da/dca/structm0__net__xprt__ops.html#ae3c83ee90096c19d0cd1b3dec0ef12a3", null ],
+    [ "xo_get_max_buffer_segment_size", "da/dca/structm0__net__xprt__ops.html#a56618ebd9733d551179300740e06d2ba", null ],
+    [ "xo_get_max_buffer_segments", "da/dca/structm0__net__xprt__ops.html#ae5d223852dff9633f52107806354e1ff", null ],
+    [ "xo_get_max_buffer_size", "da/dca/structm0__net__xprt__ops.html#aee1c40e9df8e972b00e8880a66845c4d", null ],
+    [ "xo_rpc_max_msg_size", "da/dca/structm0__net__xprt__ops.html#a9d726a87758bd8217249a2ead19dd828", null ],
+    [ "xo_rpc_max_recv_msgs", "da/dca/structm0__net__xprt__ops.html#adc58839aa7432f7eff2a82e8cdca8c1d", null ],
+    [ "xo_rpc_max_seg_size", "da/dca/structm0__net__xprt__ops.html#afc44bf2df2c958ef620f04703b02b196", null ],
+    [ "xo_rpc_max_segs_nr", "da/dca/structm0__net__xprt__ops.html#ae321839ac78192e2b2e5e7fc23f7c021", null ],
+    [ "xo_tm_confine", "da/dca/structm0__net__xprt__ops.html#a2c1ca11e4851774839799481af1aa7b6", null ],
+    [ "xo_tm_fini", "da/dca/structm0__net__xprt__ops.html#a09f73d23c81f21e149088ee8e21dd2fa", null ],
+    [ "xo_tm_init", "da/dca/structm0__net__xprt__ops.html#aa19ffa8eabc42c1b3923bdc9c8bcadc8", null ],
+    [ "xo_tm_start", "da/dca/structm0__net__xprt__ops.html#a7ad652f5e1d1cb12d152dcca048e831a", null ],
+    [ "xo_tm_stop", "da/dca/structm0__net__xprt__ops.html#a800b56b99eead8dcf009425774802096", null ]
+];

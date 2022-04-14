@@ -1,0 +1,11 @@
+<map id="pool_item_disconn_cb" name="pool_item_disconn_cb">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="237,5,357,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="240,56,355,83"/>
+<area shape="rect" id="node4" href="$db/d3c/conn__pool_8c.html#ad0fb84623a7a53985b6ba71e9e40827e" title="m0_rpc_conn_pool_session\l_established" alt="" coords="206,107,389,149"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="248,173,347,200"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="232,224,363,251"/>
+<area shape="rect" id="node7" href="$db/d3c/conn__pool_8c.html#aada5564d84fe9ef401be160345635911" title="pool_item_disconnected_ast" alt="" coords="204,275,391,301"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="236,325,359,352"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="233,376,361,403"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="253,427,342,453"/>
+</map>

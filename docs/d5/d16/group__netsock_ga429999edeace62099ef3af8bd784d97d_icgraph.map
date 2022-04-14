@@ -1,0 +1,5 @@
+<map id="mover_init" name="mover_init">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga9cdacdb6229f7becd262087bcefc9715" title="buf_add" alt="" coords="161,5,229,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga3e46e3a9fe0688a77c21473c9b1a3dde" title="sock_init" alt="" coords="157,56,232,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gae0d835e5b33df4f26664af2f5c067f25" title="pk_header_done" alt="" coords="136,107,253,133"/>
+</map>

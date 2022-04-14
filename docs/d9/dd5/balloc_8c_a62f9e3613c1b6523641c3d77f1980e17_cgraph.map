@@ -1,0 +1,12 @@
+<map id="balloc_is_good_group" name="balloc_is_good_group">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a2c562eb3163c3e8a7b310f736db7d3dc" title="is_any" alt="" coords="263,44,323,71"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#ab1c25928253b22f7d5f68dea541e1089" title="is_spare" alt="" coords="437,19,508,45"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a7f9f58ce82cce6b249082d5ca11edaf5" title="is_normal" alt="" coords="433,69,512,96"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a71798d798156dc42be28e233626666d1" title="is_group_good_enough" alt="" coords="215,145,370,172"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a2b707cb642ce8d98355ad0f6584bc7b4" title="group_spare_maxchunk_get" alt="" coords="200,196,385,223"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a0a82eece40bd96787abef55884c68fef" title="group_spare_freeblocks_get" alt="" coords="200,247,385,273"/>
+<area shape="rect" id="node8" href="$d9/dd5/balloc_8c.html#a759b4019f3330816948cfa44f852a52c" title="group_spare_fragments_get" alt="" coords="201,297,384,324"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#aeb47dff8521941af5e2180ba2fa522a0" title="group_maxchunk_get" alt="" coords="219,348,366,375"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a16a18635d83284758bd9230bdad9adc5" title="group_freeblocks_get" alt="" coords="219,399,366,425"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#a554bd51242e8c4df36e88cc609db15ef" title="group_fragments_get" alt="" coords="221,449,365,476"/>
+</map>

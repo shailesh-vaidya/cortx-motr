@@ -1,0 +1,7 @@
+<map id="st_obj_fini" name="st_obj_fini">
+<area shape="rect" id="node2" href="$d1/de5/osync_8c.html#af5a90fca9e85c06fcb1439694d8b934f" title="create_obj" alt="" coords="135,100,217,127"/>
+<area shape="rect" id="node3" href="$d1/de5/osync_8c.html#a0e5a764dcdba47eeb50d015777764a12" title="osync_after_each_write" alt="" coords="265,5,425,32"/>
+<area shape="rect" id="node4" href="$d1/de5/osync_8c.html#af80f97ffb56c42e9d540ce952f686c20" title="osync_after_writes" alt="" coords="279,63,411,89"/>
+<area shape="rect" id="node5" href="$d1/de5/osync_8c.html#ad7f5b2b1f2ab3fd7b85d8d837e766c92" title="osync_by_sync_op" alt="" coords="278,125,413,152"/>
+<area shape="rect" id="node6" href="$d1/de5/osync_8c.html#a864aa04b353fe00a5107ac505393e6f4" title="osync_on_op" alt="" coords="296,188,395,215"/>
+</map>

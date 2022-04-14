@@ -1,0 +1,6 @@
+<map id="m0_rpc_item_source_register" name="m0_rpc_item_source_register">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf9b1c0fe797e6ffd29d34b0d28223de8" title="item_source_basic_test" alt="" coords="201,5,361,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaa07dac379805ff93dccdacaac4c9dfb2" title="item_source_limits_test" alt="" coords="201,56,361,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gacd95fb174196d68400b16bb74db41e10" title="item_source_test" alt="" coords="220,107,343,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga6487b73d873648c03ad0b6833b731bba" title="conn_terminating_cb_test" alt="" coords="196,157,367,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="test_item_cache" name="test_item_cache">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3f640a55b5899e559d00a5e976310313" title="m0_rpc_item_init" alt="" coords="197,5,318,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="204,56,311,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="200,107,315,133"/>
+<area shape="rect" id="node5" href="$d9/dbf/ut_2item_8c.html#a1d49e79ea05947ed5802d133ece57099" title="test_item_cache_add_nth" alt="" coords="172,157,343,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="193,208,321,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="204,259,311,285"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaeaf73ecb9b490b5fa9f7ccc3072c6380" title="m0_rpc_item_fini" alt="" coords="197,309,318,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="223,360,292,387"/>
+</map>

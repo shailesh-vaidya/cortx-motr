@@ -1,0 +1,26 @@
+<map id="target_ioreq_iofops_prepare" name="target_ioreq_iofops_prepare">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1d8bef702abaa1d0a331f64114c7109b" title="target_ioreq_invariant" alt="" coords="211,5,358,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="457,107,567,133"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="200,208,369,235"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="479,233,545,260"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="474,335,550,361"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gaa873b17d20b63d7e1bcade7a9ac52ff9" title="m0_rpc_session_get\l_max_item_payload_size" alt="" coords="200,614,369,655"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a8c84e699cb0d19ed35d5eb1f32043826" title="io_req_fop_init" alt="" coords="231,107,338,133"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="477,731,547,757"/>
+<area shape="rect" id="node10" href="$d3/de8/group__atomic.html#ga4a536eee3d403679a3fd19ae0a442644" title="m0_atomic64_add" alt="" coords="640,705,768,732"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="245,563,324,589"/>
+<area shape="rect" id="node12" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="455,512,569,539"/>
+<area shape="rect" id="node13" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0bd14305f0c29b97a6a18daddfb9c1e1" title="bulk_buffer_add" alt="" coords="228,309,341,336"/>
+<area shape="rect" id="node14" href="$da/dda/io__fops_8c.html#ab72163231e783da4af191577073629a0" title="m0_io_fop_size_get" alt="" coords="443,399,581,425"/>
+<area shape="rect" id="node15" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a3683a860ed8dc6aa30dbd77fc85ad7fb" title="io_req_fop_fini" alt="" coords="459,807,565,833"/>
+<area shape="rect" id="node16" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a040bcd691cd6c3e7e8bc0099ffd1ae3e" title="io_seg_size" alt="" coords="239,883,330,909"/>
+<area shape="rect" id="node17" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a923f240f15592f5f26375f50e00e2efc" title="io_di_size" alt="" coords="245,984,325,1011"/>
+<area shape="rect" id="node18" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a9da36324ab093dc664947a583ea15876" title="m0t1fs_file_to_m0inode" alt="" coords="432,959,592,985"/>
+<area shape="rect" id="node19" href="$db/de9/group__rpc.html#ga75a4ab280e5ca68250159fa2e2f7b9f1" title="m0_rpc_bulk_buf_databuf_add" alt="" coords="185,259,384,285"/>
+<area shape="rect" id="node20" href="$da/dda/io__fops_8c.html#a909959ce1928fb7fa90aa92ccb9425e3" title="m0_io_fop_byte_count" alt="" coords="208,1035,361,1061"/>
+<area shape="rect" id="node21" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a202f24ef8ebd59975f86e323c3dc4900" title="irfop_fini" alt="" coords="249,781,320,808"/>
+<area shape="rect" id="node22" href="$d9/d05/group__bulkclient_d_f_s.html#ga0650a51af21c1c091f3e0d2b8b29cd47" title="m0_io_fop_prepare" alt="" coords="219,461,351,488"/>
+<area shape="rect" id="node23" href="$db/de9/group__rpc.html#gaadc48bb2f6c6b277acaa3fef11039bdb" title="m0_rpc_bulk_buf_length" alt="" coords="203,1085,366,1112"/>
+<area shape="rect" id="node24" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="223,1136,347,1163"/>
+<area shape="rect" id="node25" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="222,1187,347,1213"/>
+</map>

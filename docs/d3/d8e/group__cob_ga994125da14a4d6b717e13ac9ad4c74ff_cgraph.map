@@ -1,0 +1,14 @@
+<map id="cob_oi_lookup" name="cob_oi_lookup">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="217,5,265,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="206,56,275,83"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="196,107,285,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="159,157,323,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gab45a3db2573f356401322f0f514a7d05" title="m0_be_btree_cursor\l_get_sync" alt="" coords="171,209,311,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="371,245,437,272"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="171,326,311,367"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="199,392,282,419"/>
+<area shape="rect" id="node10" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="166,443,315,469"/>
+<area shape="rect" id="node11" href="$db/d17/group__adt.html#gaf9a30bb8ae3e8edc18b85d323914f173" title="m0_bitstring_buf_get" alt="" coords="169,493,312,520"/>
+<area shape="rect" id="node12" href="$db/d17/group__adt.html#ga861390644cc4c945e77be1e913d11d79" title="m0_bitstring_len_get" alt="" coords="169,544,312,571"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="159,595,323,621"/>
+</map>

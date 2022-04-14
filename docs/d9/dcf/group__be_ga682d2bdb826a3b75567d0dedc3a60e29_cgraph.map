@@ -1,0 +1,7 @@
+<map id="m0_be_group_format_discard" name="m0_be_group_format_discard">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac141b1dc7453f50d96a7f4e1c9ef9882" title="m0_be_log_discard_item\l_user_data" alt="" coords="209,5,376,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga90a6c4e8a57b24b6af3c4bfb4cde3cb8" title="m0_be_log_discard_item_ext" alt="" coords="197,71,388,98"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="235,122,350,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga8c4e6ad324fe401b2c0ca9984191c16e" title="m0_be_log_record_discard" alt="" coords="204,173,381,199"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="229,223,357,250"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_rpc_session_cancel" name="m0_rpc_session_cancel">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#ab9409efc1a6835ca975c81caf563bf97" title="m0_obj_container_id\l_to_session" alt="" coords="229,5,370,47"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#gad020b6b0ba45e617bb0b5af0be1b6649" title="rpc_link_sess_cleanup" alt="" coords="222,71,377,98"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga7328c307c80474521df1928fb65d0f6d" title="m0_reqh_service_cancel\l_reconnect" alt="" coords="216,123,383,164"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#ga901f16ce7af363805c98ffdd4ec15919" title="reqh_service_session\l_cancel" alt="" coords="225,188,373,229"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#ga3e29124238c240cff9accf28b61e7f32" title="reqh_service_ctx_ast_cb" alt="" coords="216,254,383,281"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga9326e83e0e8e5a391e1a706f8af16299" title="m0_rpc_conn_sessions\l_cancel" alt="" coords="220,305,379,347"/>
+<area shape="rect" id="node8" href="$db/d3c/conn__pool_8c.html#a7100d64a5d0ec63e06fc921efed21452" title="pool_item_disconn_ast" alt="" coords="222,371,377,398"/>
+<area shape="rect" id="node9" href="$d9/dbf/ut_2item_8c.html#ac67cb1d0c924d6d5385167d86d4ce220" title="test_cancel_session" alt="" coords="229,422,370,449"/>
+</map>

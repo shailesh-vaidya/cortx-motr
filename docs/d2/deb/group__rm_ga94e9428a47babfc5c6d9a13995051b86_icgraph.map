@@ -1,0 +1,12 @@
+<map id="m0_rm_remote_init" name="m0_rm_remote_init">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga53d533a0b549a31214e4b2f94cadd38d" title="rlock_ctx_creditor\l_setup" alt="" coords="195,5,321,47"/>
+<area shape="rect" id="node3" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaced28cff331c31cc03a156769c4749c7" title="sns_cm_fctx_rm_init" alt="" coords="187,71,329,98"/>
+<area shape="rect" id="node4" href="$d8/d2b/inode_8c.html#a2723aefda5b9e2a7bfc7e60e87afd2f3" title="m0t1fs_file_lock_init" alt="" coords="187,122,329,149"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#gabba8714965f4e31ba57d1087f358bb18" title="rm_ctx_init" alt="" coords="215,173,301,199"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga75948f8e0a65b3e3268163150930807c" title="remote_create" alt="" coords="205,223,311,250"/>
+<area shape="rect" id="node7" href="$dd/d39/ut_2rm__foms_8c.html#aa27127c4e4c22db55121ae785476f185" title="rvk_data_setup" alt="" coords="203,274,313,301"/>
+<area shape="rect" id="node8" href="$d0/d11/ut_2rm__fops_8c.html#a0c32de072d31becbdf168c8fb530a1e8" title="request_param_init" alt="" coords="192,325,324,351"/>
+<area shape="rect" id="node9" href="$de/d32/ut_2rm__service_8c.html#aebdab9d5a295367002d205932ec18266" title="rm_client" alt="" coords="221,375,295,402"/>
+<area shape="rect" id="node10" href="$da/dcf/wlock__helper_8c.html#ab55d5890a5b36a0bd37c7bb37c3c9908" title="wlock_ctx_creditor\l_setup" alt="" coords="193,427,323,468"/>
+<area shape="rect" id="node11" href="$d9/d02/rmut_8h.html#a7d6ca528fc6faef109c0adfa62af173d" title="rm_ctx_server_start" alt="" coords="189,493,327,519"/>
+</map>

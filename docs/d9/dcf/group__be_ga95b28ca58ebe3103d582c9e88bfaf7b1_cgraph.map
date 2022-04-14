@@ -1,0 +1,8 @@
+<map id="cob_prep" name="cob_prep">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="163,5,278,32"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gacf86391566c166bd5d5d1aaa19d7a19d" title="m0_fid_validate_cob" alt="" coords="361,81,503,108"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#gaa480f422e26a74b6d0d1ae249ba33c61" title="m0_fid_convert_cob2adstob" alt="" coords="128,107,313,133"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#ab6b1cec85e28daa9d1c082d18fe20f06" title="m0_cc_stob_cr_credit" alt="" coords="145,157,296,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga48e0638d279ccb554d81daa18b7face9" title="m0_cob_tx_credit" alt="" coords="158,208,283,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="157,259,285,285"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="frm_fill_packet_from_item_sources" name="frm_fill_packet_from_item_sources">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3fc3300df455f699aeb4d364c63229f3" title="frm_rmachine" alt="" coords="242,5,343,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="249,56,336,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae8212ba836407b9f5a836b028c3ede6d" title="available_space_in\l_packet" alt="" coords="440,150,572,191"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="209,157,376,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="445,335,567,361"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga7702ca5b4bf721c63fe0f3a982250493" title="m0_rpc_item_sm_init" alt="" coords="219,259,366,285"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga34f436a05b7ff78c20e074fc3907ac61" title="item_will_exceed_packet_size" alt="" coords="193,107,392,133"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga536eb429cebfab138e4a062d0f178bed" title="m0_rpc_packet_add_item" alt="" coords="207,360,378,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="461,397,551,424"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="219,462,366,503"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="231,528,354,555"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="sss_device_format" name="sss_device_format">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#gac46fb755845a2224cfae67b60e87c6e3" title="m0_cs_storage_devs_get" alt="" coords="185,5,356,32"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="215,56,326,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga1499e1e71e1c59d130775ea0e91585fe" title="m0_fom_reqh" alt="" coords="220,107,321,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="233,157,309,184"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="193,208,349,235"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#gae93d0a93b96e46a2db4b99e2da5e9051" title="m0_storage_devs_find\l_by_cid" alt="" coords="194,259,347,301"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#gace528db02e64b817f5ce939a677e2620" title="m0_storage_dev_format" alt="" coords="189,325,352,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="404,351,471,377"/>
+<area shape="rect" id="node10" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="185,427,356,453"/>
+<area shape="rect" id="node11" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="212,477,329,504"/>
+</map>

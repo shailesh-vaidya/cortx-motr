@@ -1,0 +1,15 @@
+<map id="m0t1fs_component_objects_op" name="m0t1fs_component_objects_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad87ae68db1f47a3826d3a3e1e376bd4e" title="M0_ENTRY" alt="" coords="294,5,386,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ab7abd6ac8b24285465dc80ea732f51db" title="m0t1fs_ios_cob_create" alt="" coords="261,56,419,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#aae1f96ca73fe47a5d4aaa40f91687eb6" title="m0t1fs_ios_cob_delete" alt="" coords="262,107,418,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae2242171a644073187df17814816f21e" title="m0t1fs_ios_cob_truncate" alt="" coords="256,157,424,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5882dafb81051d6db1c9184196ce59b0" title="M0_LOG" alt="" coords="303,208,377,235"/>
+<area shape="rect" id="node7" href="$d8/d2b/inode_8c.html#afdb65bd50aec26605e0a85b38c4e8614" title="m0t1fs_inode_fid" alt="" coords="279,259,401,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="273,309,407,336"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="272,360,408,387"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="265,411,415,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a6b3d04becb2d34cea88c1fe9dc2650a0" title="m0t1fs_ios_cob_setattr" alt="" coords="261,461,419,488"/>
+<area shape="rect" id="node12" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="266,512,414,539"/>
+<area shape="rect" id="node13" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="273,563,407,589"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="307,613,373,640"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="session_idle_x_busy" name="session_idle_x_busy">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#gaed7f9e3cb8535b9183a1ede0d9e13086" title="m0_rpc_session_hold_busy" alt="" coords="196,5,379,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="204,56,371,83"/>
+</map>

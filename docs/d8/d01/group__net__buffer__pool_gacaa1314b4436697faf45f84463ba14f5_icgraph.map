@@ -1,0 +1,15 @@
+<map id="m0_net_buffer_pool_put" name="m0_net_buffer_pool_put">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga206bec9656d7a767323e61aee1dcdd50" title="m0_cm_buffer_put" alt="" coords="232,5,361,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga97e9ddd75a5855c72136e6ee6ccab612" title="nbuf_release_done" alt="" coords="231,56,362,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="217,107,376,133"/>
+<area shape="rect" id="node5" href="$db/d53/bulkio__ut_8c.html#a12d8d9eafcfb69d0eec60190f10bcfe8" title="release_one_buffer" alt="" coords="231,259,362,285"/>
+<area shape="rect" id="node6" href="$db/d53/bulkio__ut_8c.html#a3edf7bbdd80a234d3e94166897a255a4" title="check_write_fom_tick" alt="" coords="428,208,577,235"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#ad64f68d8d9cae9a924a039c1a717afde" title="check_read_fom_tick" alt="" coords="429,259,576,285"/>
+<area shape="rect" id="node8" href="$db/d53/bulkio__ut_8c.html#a509b9f4b453461070c655c3196a66f24" title="fill_buffers_pool" alt="" coords="241,208,353,235"/>
+<area shape="rect" id="node9" href="$d8/d01/group__net__buffer__pool.html#ga687784ed53bf1d4d1d4b7c272106d8f6" title="net_buffer_pool_grow" alt="" coords="224,360,369,387"/>
+<area shape="rect" id="node10" href="$d7/dfe/buffer__pool__ut_8c.html#a7e397b420ebcaba12c8ae7c0ec57b7a7" title="test_get_put" alt="" coords="249,411,344,437"/>
+<area shape="rect" id="node11" href="$d7/dfe/buffer__pool__ut_8c.html#a056d8fcec335c87e78165d32f4d1567e" title="test_get_put_colour" alt="" coords="229,461,365,488"/>
+<area shape="rect" id="node12" href="$d7/dfe/buffer__pool__ut_8c.html#ac94f759827073e859d915c4077a01439" title="buffers_get_put" alt="" coords="241,512,352,539"/>
+<area shape="rect" id="node13" href="$d3/d8c/tm__provision__ut_8c.html#ae12b268ac12266d77cae355410c68136" title="ut_prov_msg_recv_cb" alt="" coords="221,563,372,589"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#ga3ad6cf0ef81c71fa5960ee72f0357563" title="rpc_recv_pool_buffer_put" alt="" coords="213,613,380,640"/>
+</map>

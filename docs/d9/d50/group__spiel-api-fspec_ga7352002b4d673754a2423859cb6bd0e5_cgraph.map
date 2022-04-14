@@ -1,0 +1,24 @@
+<map id="m0_spiel_tx_commit_forced" name="m0_spiel_tx_commit_forced">
+<area shape="rect" id="node2" href="$d1/df2/group__motr.html#ga91bffee53cd930aca299ab0526b00e0c" title="confd_count" alt="" coords="242,5,335,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga93e4575c66649f04441005a321e8ad1d" title="m0_spiel_rconfc_start" alt="" coords="213,259,364,285"/>
+<area shape="rect" id="node4" href="$d0/d72/spiel__internal_8h.html#a5a9498d6d89369cc48dd68dde78648a9" title="spiel_rmachine" alt="" coords="458,208,567,235"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="475,461,551,488"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="645,360,712,387"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga37242dcf201fc3a4555faa33dc7f74d7" title="rconfc_fail" alt="" coords="247,867,330,893"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#gab6f5d72d66a2e71c1ad254ffcb37d560" title="spiel_root_ver_update" alt="" coords="214,563,363,589"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga4ef6d177d0d6c7b0b69460a50e9cebb2" title="m0_rconfc_ver_max_read" alt="" coords="203,917,375,944"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#ga17840e76a0b8a97255fd10d8227eb2ec" title="m0_spiel_tx_validate" alt="" coords="217,309,361,336"/>
+<area shape="rect" id="node11" href="$d2/dd9/group__conf__dlspec__cache.html#ga272f2b97047790dbb629823143845ae3" title="m0_conf_cache_to_string" alt="" coords="203,360,374,387"/>
+<area shape="rect" id="node12" href="$db/d90/group__rconfc__dlspec.html#ga12e383bd93957a9163682f934bd18d23" title="m0_rconfc_confd_endpoints" alt="" coords="196,664,381,691"/>
+<area shape="rect" id="node13" href="$d0/d43/lib_2string_8c.html#a5469213fa2ca28ec3b7c348e20d44868" title="m0_strings_free" alt="" coords="455,765,570,792"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="644,765,713,792"/>
+<area shape="rect" id="node15" href="$dc/d6b/rpclib_8c.html#a4a1aeaec26fa5604b23b02420fc4ccd9" title="m0_rpc_client_connect" alt="" coords="211,56,367,83"/>
+<area shape="rect" id="node16" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="437,107,588,133"/>
+<area shape="rect" id="node17" href="$df/d3a/group__spiel-api-fspec-intr.html#ga1ef98148f28104ea16ec772fb8987704" title="spiel_load_fop_send" alt="" coords="219,411,359,437"/>
+<area shape="rect" id="node18" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2d0ff47e706181f973b2414700bed00c" title="spiel_tx_write_lock_get" alt="" coords="209,613,368,640"/>
+<area shape="rect" id="node19" href="$df/d3a/group__spiel-api-fspec-intr.html#ga736f4c599df1d6f0d99702b1b8809877" title="spiel_flip_fop_send" alt="" coords="222,512,355,539"/>
+<area shape="rect" id="node20" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa41c7217138735fa92ddef9c908bb23e" title="spiel_tx_write_lock_put" alt="" coords="209,968,368,995"/>
+<area shape="rect" id="node21" href="$df/d3a/group__spiel-api-fspec-intr.html#gae4995459951ad13e6810b39b280dc214" title="m0_spiel_rconfc_stop" alt="" coords="214,1019,363,1045"/>
+<area shape="rect" id="node22" href="$d0/dc4/group__conf__dfspec__preload.html#ga33c10d634a077c37a206826101214ab5" title="m0_confx_string_free" alt="" coords="215,1069,362,1096"/>
+<area shape="rect" id="node23" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="429,157,596,184"/>
+</map>

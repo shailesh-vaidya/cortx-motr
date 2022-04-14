@@ -1,0 +1,12 @@
+<map id="m0_rpc_link_disconnect_async" name="m0_rpc_link_disconnect_async">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#ga3d208ea064e1433e2f1fd827a4da193d" title="m0_rpc_service_reverse\l_session_put" alt="" coords="233,5,397,47"/>
+<area shape="rect" id="node3" href="$d1/d84/group__rpc__service.html#ga0c6913c665c3856cf9181ace154d6c18" title="m0_rpc_service_reverse\l_sessions_cleanup" alt="" coords="233,71,397,112"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga10405ae0c820cb8345c75582142331d3" title="rconfc_conductor_drained" alt="" coords="229,137,400,163"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="245,188,384,229"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga2a0c1413d0e24a7423b06a4f26f1e021" title="ha_link_outgoing_fom_tick" alt="" coords="227,254,403,281"/>
+<area shape="rect" id="node7" href="$de/d82/group__rpc__link.html#gae4a16324b964b9497b7e33de8b48c0bb" title="m0_rpc_link_disconnect_sync" alt="" coords="216,305,413,331"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#ga70299ac49787c9da230c1690cbd52607" title="reqh_service_disconnect\l_locked" alt="" coords="231,356,398,397"/>
+<area shape="rect" id="node9" href="$db/d3c/conn__pool_8c.html#a7100d64a5d0ec63e06fc921efed21452" title="pool_item_disconn_ast" alt="" coords="237,422,392,449"/>
+<area shape="rect" id="node10" href="$d7/d2a/link__ut_8c.html#a3403e30d93cb730c06f77c74d33d56c7" title="rlut_connect_async" alt="" coords="247,473,382,499"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#gabde719e568fdf0f614a1b061dff25ee6" title="spiel_process_disconnect\l_async" alt="" coords="229,524,401,565"/>
+</map>

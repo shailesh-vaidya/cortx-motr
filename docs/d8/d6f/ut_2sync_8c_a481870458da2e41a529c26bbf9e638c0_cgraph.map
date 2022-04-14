@@ -1,0 +1,8 @@
+<map id="ut_test_m0_obj_sync" name="ut_test_m0_obj_sync">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a62c349d587d79a2d1f374e58b6721bf2" title="fake_setup" alt="" coords="236,5,323,32"/>
+<area shape="rect" id="node3" href="$d8/d6f/ut_2sync_8c.html#ab073926ae8d2e819a1d972cdd0eff04b" title="ut_post_rpc" alt="" coords="234,56,325,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a9b3ea95268c8e18a1482f00600cb4749" title="ut_wait_for_reply" alt="" coords="219,107,340,133"/>
+<area shape="rect" id="node5" href="$d8/d6f/ut_2sync_8c.html#a6be5373d0e6b5986714e15ad7f1eb632" title="ut_fop_fini" alt="" coords="238,157,321,184"/>
+<area shape="rect" id="node6" href="$d8/d6f/ut_2sync_8c.html#a320c00298f50186f48e042a3ababf3da" title="ut_reset_stub_counters" alt="" coords="200,208,359,235"/>
+<area shape="rect" id="node7" href="$d8/d6f/ut_2sync_8c.html#a27498f6d4abcd758e435ca3bd47f06f8" title="call_m0_obj_sync" alt="" coords="216,259,343,285"/>
+</map>

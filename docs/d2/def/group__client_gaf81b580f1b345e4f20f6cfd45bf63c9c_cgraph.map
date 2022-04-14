@@ -1,0 +1,9 @@
+<map id="m0_entity_sync" name="m0_entity_sync">
+<area shape="rect" id="node2" href="$db/dc2/sync_8c.html#a54e3128685a8665442736efb3f170c8e" title="sync_request_init" alt="" coords="190,5,314,32"/>
+<area shape="rect" id="node3" href="$db/dc2/sync_8c.html#ae4bb2dd8a1b6bc2fbe2fc95b2991d05c" title="sync_request_target_add" alt="" coords="168,173,336,200"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="384,129,460,156"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="389,209,455,236"/>
+<area shape="rect" id="node6" href="$db/dc2/sync_8c.html#ae0ca14944f54b5b07d7e845955e8c705" title="sync_request_stx_add" alt="" coords="175,275,329,301"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="387,300,457,327"/>
+<area shape="rect" id="node8" href="$db/dc2/sync_8c.html#ae80291ae3968fa11d73651a8a67735a6" title="sync_request_launch\l_and_wait" alt="" coords="179,107,325,149"/>
+</map>

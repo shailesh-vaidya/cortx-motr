@@ -1,0 +1,15 @@
+<map id="m0_conf_objx_fid" name="m0_conf_objx_fid">
+<area shape="rect" id="node2" href="$d2/d47/group__conf__dfspec__cache.html#ga01b42734d0537fe376be952b74c74789" title="m0_conf_cache_from\l_string" alt="" coords="547,18,693,59"/>
+<area shape="rect" id="node3" href="$d7/d3a/conf_2ut_2cache_8c.html#ad62297aac0c1f1fe7d29629e49c4b4e4" title="test_obj_fill" alt="" coords="576,131,664,157"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga9daacd25ffacca36d64df2d24967c390" title="cached_obj_update" alt="" coords="177,305,312,332"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga4a0aea81b8374bdd06bdf0f8f7d529a1" title="cache_grow" alt="" coords="383,331,475,357"/>
+<area shape="rect" id="node6" href="$d2/d01/group__confd__dlspec.html#ga8f13e5d4218316abbceca3fb5771974b" title="confd_cache_preload" alt="" coords="547,207,693,233"/>
+<area shape="rect" id="node7" href="$da/d4e/db_8h.html#a199b13fba8e6060810f67d443d902b6b" title="m0_confdb_create" alt="" coords="180,407,309,433"/>
+<area shape="rect" id="node8" href="$d1/d1c/ut_2db_8c.html#a9d84eaed372a28399d1eaf61f49b9e1c" title="test_confdb" alt="" coords="384,508,475,535"/>
+<area shape="rect" id="node9" href="$d1/d1c/ut_2db_8c.html#af068e608de605654700d10bd3b2c7ef3" title="profile_check" alt="" coords="195,457,294,484"/>
+<area shape="rect" id="node10" href="$d1/d1c/ut_2db_8c.html#a8c0d0e282699c42765d64fb1cdf98d1e" title="node_check" alt="" coords="199,508,291,535"/>
+<area shape="rect" id="node11" href="$d1/d1c/ut_2db_8c.html#a689c5fe1d82ff1c3a7100a0b4c6d9ff3" title="diskv_check" alt="" coords="197,559,292,585"/>
+<area shape="rect" id="node12" href="$d9/d40/group__conf__dfspec__objops.html#ga97c0f5a3b12f323eacf61fc762fa8480" title="m0_conf_obj_fill" alt="" coords="371,153,487,180"/>
+<area shape="rect" id="node13" href="$d9/d40/group__conf__dfspec__objops.html#ga49654be0c7d1daa6b5e8ce701ff6e85f" title="m0_conf_obj_match" alt="" coords="360,103,499,129"/>
+<area shape="rect" id="node14" href="$dd/d7b/group__conf__dlspec__objops.html#gab3bf9d1c5e6615a056c4ac00867b7335" title="m0_conf_objx_type" alt="" coords="177,153,312,180"/>
+</map>

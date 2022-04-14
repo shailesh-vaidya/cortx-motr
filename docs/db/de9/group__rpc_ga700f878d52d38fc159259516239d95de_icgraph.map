@@ -1,0 +1,5 @@
+<map id="rpc_bulk_buf_fini" name="rpc_bulk_buf_fini">
+<area shape="rect" id="node2" href="$d9/d05/group__bulkclient_d_f_s.html#ga39f5e8840e39eefd5196ab1fda88a7bf" title="m0_rpc_bulk_default_cb" alt="" coords="173,5,336,32"/>
+<area shape="rect" id="node3" href="$d9/d05/group__bulkclient_d_f_s.html#ga54b29f9e2a79f822933e9c7127961c50" title="m0_rpc_bulk_store_del\l_unqueued" alt="" coords="177,57,333,98"/>
+<area shape="rect" id="node4" href="$d9/d05/group__bulkclient_d_f_s.html#ga8d23794d6c38cb94c3c7ee91031826ef" title="m0_rpc_bulk_buflist\l_empty" alt="" coords="185,122,324,163"/>
+</map>

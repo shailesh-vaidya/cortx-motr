@@ -1,0 +1,10 @@
+<map id="m0_rpc_rcv_conn_terminate" name="m0_rpc_rcv_conn_terminate">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="444,20,627,46"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="240,158,396,185"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gab3904ada342561f647d6794770c8c531" title="m0_rpc_conn_is_rcv" alt="" coords="464,133,607,160"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="492,196,579,222"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gaeeaefa89c7122971468d078929b274b3" title="m0_rpc_conn_cleanup\l_all_sessions" alt="" coords="242,260,394,302"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gae0a13dfec8cf6a7dfc1f7f521239b208" title="deregister_all_item\l_sources" alt="" coords="253,42,383,83"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#gae7d041ee8c1c6a73dc67aca91084609c" title="conn_state_set" alt="" coords="263,326,373,353"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="285,377,351,404"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_be_tx_bulk_fini" name="m0_be_tx_bulk_fini">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="381,52,451,79"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="198,27,305,53"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gabbca48a9fef1c94d78bb1b6552eaa667" title="m0_be_queue_fini" alt="" coords="188,77,315,104"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="363,115,469,141"/>
+</map>

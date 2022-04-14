@@ -1,0 +1,11 @@
+<map id="rm_group_utfini" name="rm_group_utfini">
+<area shape="rect" id="node2" href="$de/de1/rmut_8c.html#a114005c80cbe0ff5444c7bec00c286ca" title="rm_ctx_server_owner\l_windup" alt="" coords="164,5,311,47"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#a6640c1479c812e4643f59bbd891afb2c" title="rm_ctx_server_stop" alt="" coords="169,71,306,98"/>
+<area shape="rect" id="node4" href="$de/de1/rmut_8c.html#a8b23693762639078ea661372f80a2068" title="rm_ctxs_conf_fini" alt="" coords="175,122,300,149"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga2de8cadad9aeb6f9fe4244bfb0970b68" title="rm_ctx_fini" alt="" coords="194,173,281,199"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="173,223,302,250"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="188,274,287,301"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="172,325,303,351"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="184,375,291,402"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="170,426,305,453"/>
+</map>

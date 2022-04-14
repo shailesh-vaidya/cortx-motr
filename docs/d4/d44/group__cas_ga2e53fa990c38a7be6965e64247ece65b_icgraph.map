@@ -1,0 +1,8 @@
+<map id="vals_create" name="vals_create">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#ga58bba36a1e4fac784c2ffb76167d846d" title="next_bulk" alt="" coords="160,5,239,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga5a8435146b39857d0f12c71919335c4b" title="next_multi_bulk" alt="" coords="143,56,256,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga0a715fb5cf00e8658e04e2e47f570477" title="put_bulk" alt="" coords="164,107,235,133"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#gad4220c7b3432f56e5912f56640a2047f" title="put_bulk_fail" alt="" coords="152,157,247,184"/>
+<area shape="rect" id="node6" href="$d4/d44/group__cas.html#gadc364c773b7b5361d3e14d2399587a78" title="del_bulk" alt="" coords="164,208,235,235"/>
+<area shape="rect" id="node7" href="$d4/d44/group__cas.html#ga763fd9785f2a1d45b3d8d9352dcca57f" title="get_bulk" alt="" coords="164,259,235,285"/>
+</map>

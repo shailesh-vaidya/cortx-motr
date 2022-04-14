@@ -1,0 +1,17 @@
+<map id="m0_pdclust_unit_classify" name="m0_pdclust_unit_classify">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="669,503,819,545"/>
+<area shape="rect" id="node3" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#a39c401bf00dbd7d43783f958320de4cf" title="rebalance_ag_in_cp\l_units" alt="" coords="241,57,378,98"/>
+<area shape="rect" id="node4" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa2e678c37e6bea0efaf8169692fb690a" title="rebalance_ag_is_relevant" alt="" coords="225,123,394,149"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gaf776e7cdffa19de316b9479c0cef8a3d" title="thread_loop" alt="" coords="265,173,354,200"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#gad408c31a327765e6d11ea707093c15e9" title="unit_has_data" alt="" coords="258,5,361,32"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga5a9a0287f77c2c8e4807e5c86e8141fe" title="iter_cp_setup" alt="" coords="483,224,583,251"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga47bb0ff3367b495eb4f91030b17f07e5" title="m0_dix_liter_unit_classify" alt="" coords="223,325,395,352"/>
+<area shape="rect" id="node9" href="$d6/de4/layout_2ut_2layout_8c.html#af648b4f3111b8b60290733ce5d836383" title="test_pdclust_instance_obj" alt="" coords="223,376,396,403"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2f691720efc8e91ab45fd7e7a680353a" title="nw_xfer_io_distribute" alt="" coords="237,427,382,453"/>
+<area shape="rect" id="node11" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a868fe96209a5da63122469af0fea932b" title="nw_xfer_tioreq_map" alt="" coords="240,477,379,504"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a43b79742346b98ca315a58d6a059e57d" title="target_ioreq_seg_add" alt="" coords="236,528,383,555"/>
+<area shape="rect" id="node13" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gae5eec9a5c3e7257ccdfa6d99eb2086ff" title="m0_sns_cm_file_unit\l_is_EOF" alt="" coords="237,579,382,621"/>
+<area shape="rect" id="node14" href="$d7/dde/io__req_8c.html#a8fa6a829b56b53102726a7aa879a2765" title="application_data_copy" alt="" coords="234,645,385,672"/>
+<area shape="rect" id="node15" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="444,511,621,537"/>
+<area shape="rect" id="node16" href="$d9/d59/parity__repair_8h.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="224,275,395,301"/>
+</map>

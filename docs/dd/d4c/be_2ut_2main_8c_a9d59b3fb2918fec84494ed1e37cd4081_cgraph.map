@@ -1,0 +1,11 @@
+<map id="m0_be_ut_log_header" name="m0_be_ut_log_header">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="245,5,352,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#acdf424eb4d30c3a757dbd055011fe8ef" title="be_ut_log_init" alt="" coords="247,56,350,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa2b0bc3040913c35756ce10dfc8989f0" title="m0_be_log_header_read" alt="" coords="217,107,380,133"/>
+<area shape="rect" id="node5" href="$d2/df0/be_2ut_2log_8c.html#a2c276176fd35f20c21c1073ea609ccf0" title="be_ut_log_record_write_sync" alt="" coords="203,157,394,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga4448112de1d61641478271cac17893b4" title="m0_be_log_close" alt="" coords="237,208,360,235"/>
+<area shape="rect" id="node7" href="$d2/df0/be_2ut_2log_8c.html#a5b3d3e4b74e69211316a2bd1258c1c4c" title="be_ut_log_open" alt="" coords="242,259,355,285"/>
+<area shape="rect" id="node8" href="$d2/df0/be_2ut_2log_8c.html#a66ec61e12c850291d024cbe0229ecc72" title="be_ut_log_header_repair_test" alt="" coords="203,309,395,336"/>
+<area shape="rect" id="node9" href="$d2/df0/be_2ut_2log_8c.html#a827793c3c6adc3eda08d429d0797974a" title="be_ut_log_fini" alt="" coords="247,360,350,387"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="245,411,352,437"/>
+</map>

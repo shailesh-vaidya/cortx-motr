@@ -1,0 +1,11 @@
+<map id="m0_rpc_item_is_reply" name="m0_rpc_item_is_reply">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga8145d81073138b4730512671e086875f" title="packet_ready" alt="" coords="236,5,336,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga5a8fdf6d8b77168c423a8c63e22f01d1" title="item_sent" alt="" coords="444,95,523,121"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gad80705ba880c07bd00c23c52c4270513" title="m0_rpc_item_invariant" alt="" coords="209,107,363,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="247,157,325,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga4dfe1f8a0c1d572c2dbf0d7331a4bd1d" title="item_received_fi" alt="" coords="425,183,542,209"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaaf604fc4136fa5e29ed80ef59a001846" title="m0_rpc_item_xid_assign" alt="" coords="203,259,369,285"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="219,309,353,336"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="417,335,549,361"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaeca6f24b585e93f06b7d1dcd058daf5c" title="m0_rpc_item_received" alt="" coords="209,411,363,437"/>
+</map>

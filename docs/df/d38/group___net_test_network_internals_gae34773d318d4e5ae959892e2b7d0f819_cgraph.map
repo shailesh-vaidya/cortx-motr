@@ -1,0 +1,7 @@
+<map id="m0_net_test_network_bd_serialize" name="m0_net_test_network_bd_serialize">
+<area shape="rect" id="node2" href="$df/d38/group___net_test_network_internals.html#ga29526d2634815c728f1140293a08d321" title="m0_net_test_network_buf" alt="" coords="392,5,564,32"/>
+<area shape="rect" id="node3" href="$df/d38/group___net_test_network_internals.html#gaa79cf38eb7d6e629401974798685e2c0" title="network_bds_serialize" alt="" coords="403,68,553,95"/>
+<area shape="rect" id="node4" href="$d1/d19/group___net_test_serialize_d_f_s.html#gadc27b5a418767cd9732f8abd1b3f9fd9" title="net_test_len_accumulate" alt="" coords="395,169,561,196"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#gae7c045c09f48191f91e1c1cbbabb0070" title="network_bd_serialize" alt="" coords="200,195,344,221"/>
+<area shape="rect" id="node6" href="$df/d38/group___net_test_network_internals.html#gab49a6038d172af4015ea2fd63fffbe3e" title="network_bd_nr_add" alt="" coords="205,43,339,69"/>
+</map>

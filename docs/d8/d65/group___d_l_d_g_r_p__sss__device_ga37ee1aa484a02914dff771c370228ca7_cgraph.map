@@ -1,0 +1,20 @@
+<map id="sss_device_fom_tick" name="sss_device_fom_tick">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="656,121,807,147"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga604374b8c983f14fbae8cd5be4791289" title="m0_fom_tick_generic" alt="" coords="217,197,364,223"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="451,247,587,274"/>
+<area shape="rect" id="node5" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gadc7ec14ca19f9cb8a645d74b694ef3dd" title="m0_sss_fop_to_dev_rep" alt="" coords="209,399,373,426"/>
+<area shape="rect" id="node6" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gae28f15a0721048aaa474fd7ceb02ab6c" title="sss_device_fom_disk\l_opening" alt="" coords="217,451,365,492"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="441,19,598,46"/>
+<area shape="rect" id="node8" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga263a00d1959e985756d236e706af4dc7" title="sss_dfom_device_cmd" alt="" coords="441,323,597,350"/>
+<area shape="rect" id="node9" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gade8d5f6dddf9fc88689f301ebe1ac0f4" title="sss_device_fom_disk\l_ha_state_get" alt="" coords="217,516,365,557"/>
+<area shape="rect" id="node10" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga49de850549d96b3e81bc5bcebd638f66" title="sss_device_fom_disk\l_opened" alt="" coords="217,581,365,623"/>
+<area shape="rect" id="node11" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga3af301f2dc192d7bb90cda495564aa3a" title="sss_device_fom_fs_opened" alt="" coords="199,95,383,122"/>
+<area shape="rect" id="node12" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga456f3c23a98b0a91ba07cd9b99359cb1" title="sss_device_fom_sdev_iter" alt="" coords="431,95,608,122"/>
+<area shape="rect" id="node13" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga37d2981f246f1971eaf76c8050f542f9" title="sss_device_fom_switch" alt="" coords="209,298,372,325"/>
+<area shape="rect" id="node14" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga69f38b71bae7f9189bdeca9e257e4dd6" title="sss_device_fom_sdev\l_opening" alt="" coords="215,647,367,688"/>
+<area shape="rect" id="node15" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga1ff8de01b31fa73f270826c1ff441f94" title="sss_device_stob_attach" alt="" coords="209,713,372,739"/>
+<area shape="rect" id="node16" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga384b9d90a26cd38797bf89953f2cbb2e" title="sss_device_pool_machine\l_attach" alt="" coords="203,764,378,805"/>
+<area shape="rect" id="node17" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaead8acdcf13ad888866a4a8cf0224149" title="sss_device_stob_detach" alt="" coords="207,830,374,857"/>
+<area shape="rect" id="node18" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gacd880ff8e6a07b1bf28c0af7de0d363a" title="sss_device_pool_machine\l_detach" alt="" coords="203,881,378,923"/>
+<area shape="rect" id="node19" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaed1384ed483168cfea7d443d12eff7f3" title="sss_device_format" alt="" coords="225,947,357,974"/>
+</map>

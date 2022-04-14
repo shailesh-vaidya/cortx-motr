@@ -1,0 +1,13 @@
+<map id="dix_meta_create" name="dix_meta_create">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gacda6a3dd64c55b9e64e4acdd935f5b24" title="dix_meta_indices_init" alt="" coords="172,41,319,67"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="402,41,478,67"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gae135535517350bcf5e5341839e5b2aac" title="dix_meta_indices_fini" alt="" coords="367,167,513,194"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga49bf3834ca7288c18651a5e628d7c1a8" title="m0_dix_mreq_init" alt="" coords="183,142,307,169"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga1f83d43c294d8f926819a86591892c56" title="m0_dix_req_lock" alt="" coords="185,193,305,219"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga48b6ead2d190ebc3eb5b1a5e1990a73d" title="m0_dix_create" alt="" coords="192,91,299,118"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="407,319,473,346"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga411d798a2ba4f1b451d3c15d2d7176bf" title="m0_dix_req_wait" alt="" coords="185,345,305,371"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga11f0f680c2b409e79a88f5150efb1c20" title="dix_mreq_rc" alt="" coords="199,395,292,422"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga1fa081ea1ad5ca812ba8730ae2551acf" title="m0_dix_req_unlock" alt="" coords="178,446,313,473"/>
+<area shape="rect" id="node12" href="$dd/d33/group__dix.html#ga3bbb3b29866d3b3f97ab19e6c8b570c4" title="m0_dix_req_fini_lock" alt="" coords="173,497,317,523"/>
+</map>

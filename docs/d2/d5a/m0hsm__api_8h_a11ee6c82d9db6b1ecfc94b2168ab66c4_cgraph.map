@@ -1,0 +1,9 @@
+<map id="m0hsm_pwrite" name="m0hsm_pwrite">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga1a2fb02ad4d4dffde46ce5d85d5fb35b" title="m0_obj_layout_id_to\l_unit_size" alt="" coords="160,5,301,47"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="162,71,299,98"/>
+<area shape="rect" id="node4" href="$d0/d8c/m0hsm__api_8c.html#a25ee675e40f41ffc7bb3c10bd1033f15" title="prepare_io_ctx" alt="" coords="177,122,284,149"/>
+<area shape="rect" id="node5" href="$d0/d8c/m0hsm__api_8c.html#a6234fcd6a29d736657532b5c9f7b7833" title="map_io_ctx" alt="" coords="186,173,275,199"/>
+<area shape="rect" id="node6" href="$d0/d8c/m0hsm__api_8c.html#afe4078615b81c34c1df07dc6bad91eb3" title="write_blocks" alt="" coords="183,223,278,250"/>
+<area shape="rect" id="node7" href="$d0/d8c/m0hsm__api_8c.html#accfb8e6f11c4728a772b21cc12291c2d" title="free_io_ctx" alt="" coords="187,274,274,301"/>
+<area shape="rect" id="node8" href="$d0/d8c/m0hsm__api_8c.html#a66eef0a44beaf934e6c3ce1031c519c4" title="top_layer_add_read\l_extent" alt="" coords="163,325,298,367"/>
+</map>

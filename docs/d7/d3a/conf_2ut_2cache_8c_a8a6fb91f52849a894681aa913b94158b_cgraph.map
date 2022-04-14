@@ -1,0 +1,9 @@
+<map id="test_cache" name="test_cache">
+<area shape="rect" id="node2" href="$d7/d3a/conf_2ut_2cache_8c.html#a2047878bf94b4d4e2e16d6d8ada249f9" title="ut_conf_obj_create" alt="" coords="143,93,275,120"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="337,5,475,32"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="333,144,479,171"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga517329ff7dd1fb6b607520088080b777" title="m0_conf_cache_add" alt="" coords="335,68,477,95"/>
+<area shape="rect" id="node6" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="327,195,485,221"/>
+<area shape="rect" id="node7" href="$d7/d3a/conf_2ut_2cache_8c.html#a492c2e3c658d22e413f68d4098c7eaac" title="ut_conf_obj_delete" alt="" coords="144,195,275,221"/>
+<area shape="rect" id="node8" href="$dd/d7b/group__conf__dlspec__objops.html#ga7b1d9b1879b021ed5c57ebb1a97dfe29" title="m0_conf_obj_delete" alt="" coords="140,296,279,323"/>
+</map>

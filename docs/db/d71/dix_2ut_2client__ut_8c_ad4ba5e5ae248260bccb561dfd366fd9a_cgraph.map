@@ -1,0 +1,12 @@
+<map id="ut_service_init" name="ut_service_init">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a9f5fd192baa7bae00f92c4d819185cf0" title="dixc_ut_init" alt="" coords="204,5,292,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="188,56,308,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a9e6a40ff3a91470938ad6fe2cbb8c0db" title="ut_pver_find" alt="" coords="201,107,295,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga2651b11fd12f12f13e194444878ffe4a" title="m0_dix_cli_init" alt="" coords="194,157,302,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gac33c0d8759b047a783b84ba73131bab3" title="m0_dix_ldesc_init" alt="" coords="384,183,511,209"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga2d29df4a75c30f00c2c2bd16f2f6f59a" title="m0_dix_cli_bootstrap_lock" alt="" coords="160,259,336,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a095f62ea85e0ce95fa940b1a9e271df7" title="layout_create" alt="" coords="198,309,298,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga43de7b3c806479cd1ce773327c9e667e" title="m0_dix_meta_create" alt="" coords="177,360,319,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#gaf1ea952db1854d21a4c1627a32bd4a7e" title="m0_dix_cli_start_sync" alt="" coords="172,411,324,437"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga5cd05a630c07a4fb569941cb45b8cd33" title="m0_dix_ldesc_fini" alt="" coords="185,461,311,488"/>
+</map>

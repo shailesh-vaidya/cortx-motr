@@ -1,0 +1,35 @@
+<map id="target_ioreq_test" name="target_ioreq_test">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="197,5,320,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5b4b5d6caa349a0e0e196ee47095c2b7" title="nw_xfer_request_init" alt="" coords="407,360,549,387"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="611,157,681,184"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a092ad16955304064bd8dd5655e5fd3cd" title="pdlayout_instance" alt="" coords="195,1085,322,1112"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a488e33754485f299230b9f4c6168688c" title="layout_instance" alt="" coords="202,1136,315,1163"/>
+<area shape="rect" id="node7" href="$d9/d33/group__failure__domains.html#ga3d49961d155e7c76f8285ebc7a388d2a" title="m0_fd_fwd_map" alt="" coords="199,1187,318,1213"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a551650d3877c2c8e4f2838ab46b2789b" title="target_fid" alt="" coords="221,1237,297,1264"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="201,1288,316,1315"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="193,715,325,757"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#gaa873b17d20b63d7e1bcade7a9ac52ff9" title="m0_rpc_session_get\l_max_item_payload_size" alt="" coords="393,614,563,655"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="611,647,681,673"/>
+<area shape="rect" id="node13" href="$d3/de8/group__atomic.html#gad86e5a2fd8619a602ea98fc0cd98caa2" title="m0_atomic64_sub" alt="" coords="729,621,857,648"/>
+<area shape="rect" id="node14" href="$da/dda/io__fops_8c.html#ab72163231e783da4af191577073629a0" title="m0_io_fop_size_get" alt="" coords="409,680,547,707"/>
+<area shape="rect" id="node15" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a202f24ef8ebd59975f86e323c3dc4900" title="irfop_fini" alt="" coords="443,883,513,909"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#gaadc48bb2f6c6b277acaa3fef11039bdb" title="m0_rpc_bulk_buf_length" alt="" coords="397,781,559,808"/>
+<area shape="rect" id="node17" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="415,832,541,859"/>
+<area shape="rect" id="node18" href="$d0/d9e/group__addb2.html#ga727370388ddb58badb32be7761a99722" title="skip" alt="" coords="235,1339,282,1365"/>
+<area shape="rect" id="node19" href="$db/de9/group__rpc.html#gaf80bc32fa31b96a5f3790b13a037a21b" title="m0_rpc_bulk_is_empty" alt="" coords="181,1389,337,1416"/>
+<area shape="rect" id="node20" href="$d3/de8/group__atomic.html#ga4ae2177e248e4c3f676d0e802dafd8e0" title="m0_atomic64_dec" alt="" coords="195,1440,323,1467"/>
+<area shape="rect" id="node21" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="172,1491,345,1517"/>
+<area shape="rect" id="node22" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="207,1541,310,1568"/>
+<area shape="rect" id="node23" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5fb0c71a99168895f7c206cebfd03e29" title="nw_xfer_request_fini" alt="" coords="407,933,549,960"/>
+<area shape="rect" id="node24" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abfe42dac8c4bfb773f727e2fb629d1e6" title="io_request_init" alt="" coords="205,461,312,488"/>
+<area shape="rect" id="node25" href="$d1/d15/group__finject.html#gabdaa485ea423b8dbac352f67cd0ab15c" title="m0_fi_enable_random" alt="" coords="184,1592,333,1619"/>
+<area shape="rect" id="node26" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa26e00608a6d19e4fb629cac04f45158" title="ioreq_iomaps_prepare" alt="" coords="403,107,553,133"/>
+<area shape="rect" id="node27" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ac3159d640e355e0798ce915535734950" title="page_pos_get" alt="" coords="427,309,529,336"/>
+<area shape="rect" id="node28" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#afd9f167ced99e1a8e6d29ffe30a60886" title="page_id" alt="" coords="613,309,679,336"/>
+<area shape="rect" id="node29" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a43b79742346b98ca315a58d6a059e57d" title="target_ioreq_seg_add" alt="" coords="185,259,332,285"/>
+<area shape="rect" id="node30" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a57bbb5d523ea9e60a1591f070d5f3566" title="target_ioreq_fini" alt="" coords="421,1035,535,1061"/>
+<area shape="rect" id="node31" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#afaa21597026652f4ffb627c74d3d3fc2" title="pargrp_iomap_fini" alt="" coords="416,157,540,184"/>
+<area shape="rect" id="node32" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a79395c43c4206656de48e448039c5e8e" title="ioreq_sm_state_set" alt="" coords="191,1643,327,1669"/>
+<area shape="rect" id="node33" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a473e1883fcb6719a2314b67f384de53c" title="io_request_fini" alt="" coords="205,984,312,1011"/>
+<area shape="rect" id="node34" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="200,1693,317,1720"/>
+</map>

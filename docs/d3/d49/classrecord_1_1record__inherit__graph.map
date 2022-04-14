@@ -1,0 +1,10 @@
+<map id="record.record" name="record.record">
+<area shape="rect" id="node3" href="$de/d12/classrecord_1_1fom.html" title="{record.fom\n|+ loc_idx\l+ state\l+ phase\l+ state_time\l+ phase_time\l|+ done()\l+ __str__()\l}" alt="" coords="5,329,107,480"/>
+<area shape="rect" id="node4" href="$d8/d84/classrecord_1_1forq.html" title="{record.forq\n||+ done()\l}" alt="" coords="131,366,215,443"/>
+<area shape="rect" id="node5" href="$dc/d9d/classrecord_1_1fphase.html" title="{record.fphase\n||+ done()\l}" alt="" coords="240,366,341,443"/>
+<area shape="rect" id="node6" href="$dd/d96/classrecord_1_1fstate.html" title="{record.fstate\n||+ done()\l}" alt="" coords="366,366,461,443"/>
+<area shape="rect" id="node7" href="$d5/d30/classrecord_1_1ioend.html" title="{record.ioend\n||+ done()\l}" alt="" coords="485,366,579,443"/>
+<area shape="rect" id="node8" href="$da/ddb/classrecord_1_1mutex.html" title="{record.mutex\n|+ mname\l+ label\l|+ setname()\l+ done()\l}" alt="" coords="603,351,701,458"/>
+<area shape="rect" id="node9" href="$de/d68/classrecord_1_1netbuf.html" title="{record.netbuf\n||+ done()\l}" alt="" coords="725,366,824,443"/>
+<area shape="rect" id="node2" href="$dc/dd8/classobject.html" title="{object\n||}" alt="" coords="385,5,442,83"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="repair_ag_is_relevant" name="repair_ag_is_relevant">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="465,5,589,32"/>
+<area shape="rect" id="node3" href="$d7/daf/group___s_n_s_c_m.html#ga158463dd23b6e7e82e3a3b45282763d6" title="m0_sns_cm_ag_nr_data\l_units" alt="" coords="214,354,378,395"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#gadc295d0e688d3d9e0c80ab4b1f1f9e4c" title="m0_sns_cm_ag_nr_parity\l_units" alt="" coords="211,419,381,461"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga499d8c0275b09eb170fcc677817e1afa" title="m0_sns_cm_ag_nr_spare\l_units" alt="" coords="211,485,381,526"/>
+<area shape="rect" id="node6" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="269,551,323,577"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga391cd128c66b57c080dfa925f6ddb257" title="m0_sns_cm_unit2cobfid" alt="" coords="445,63,608,89"/>
+<area shape="rect" id="node8" href="$d7/daf/group___s_n_s_c_m.html#ga75dd9cb423344b46e6125b5487d68196" title="m0_sns_cm_is_local_cob" alt="" coords="210,601,382,628"/>
+<area shape="rect" id="node9" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="450,125,603,152"/>
+<area shape="rect" id="node10" href="$d7/d0c/parity__repair_8c.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="441,201,612,228"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="660,252,727,279"/>
+<area shape="rect" id="node12" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="443,252,610,279"/>
+<area shape="rect" id="node13" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="207,151,385,177"/>
+<area shape="rect" id="node14" href="$d7/daf/group___s_n_s_c_m.html#gab3a5959674fcdd31e0881bb52023f32c" title="m0_sns_cm_is_cob_repairing" alt="" coords="199,652,393,679"/>
+</map>

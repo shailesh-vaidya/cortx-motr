@@ -1,0 +1,6 @@
+<map id="workload_op_get" name="workload_op_get">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga3cbb4804fd952a7428519dea54d1c176" title="timeval_diff" alt="" coords="173,5,261,32"/>
+<area shape="rect" id="node3" href="$d1/d22/logger_8c.html#a0471c90e4daf3e4f1a2bce155374beac" title="cr_log" alt="" coords="189,56,246,83"/>
+<area shape="rect" id="node4" href="$d1/dc0/group__crate__utils.html#gae64323e5418047939fcdf53d3d1d569f" title="rate" alt="" coords="195,107,239,133"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#ga29b37ebfac610c3b0e1fb91d1cc54ff3" title="wop" alt="" coords="194,157,241,184"/>
+</map>

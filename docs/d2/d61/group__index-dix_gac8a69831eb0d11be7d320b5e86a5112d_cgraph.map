@@ -1,0 +1,5 @@
+<map id="cas_get_reply_copy" name="cas_get_reply_copy">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga69929d78436c4d693d79704bded76079" title="m0_cas_req_nr" alt="" coords="375,5,485,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga49fa6ace0e3499abda61f792ff650d92" title="m0_cas_get_rep" alt="" coords="200,31,319,57"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga68d3c7ca7e2bc46d73a470830a5e7ca0" title="m0_cas_rep_mlock" alt="" coords="192,81,327,108"/>
+</map>

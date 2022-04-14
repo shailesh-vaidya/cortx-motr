@@ -1,0 +1,6 @@
+<map id="ktest_core_ep_addr" name="ktest_core_ep_addr">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga0436ff7e61bb0ac8404dfb2e842ad57b" title="nlx_core_nidstrs_get" alt="" coords="205,5,347,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#gadcf9e5c3e6a5615f874f8df656cc0298" title="nlx_core_ep_addr_decode" alt="" coords="189,56,363,83"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#ga9fa65b9a7f3ca1f1a79066e731fddd2a" title="nlx_core_ep_addr_encode" alt="" coords="189,107,363,133"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#ga3d185395f4e0f14f6606d18a56ab2b9a" title="nlx_core_nidstrs_put" alt="" coords="205,157,347,184"/>
+</map>

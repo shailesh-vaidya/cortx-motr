@@ -1,0 +1,14 @@
+<map id="owner_state" name="owner_state">
+<area shape="rect" id="node2" href="$d2/dab/file_2ut_2file_8c.html#ac4314d89b9106e119cf04c18e5682780" title="fl_owner_unset" alt="" coords="378,25,489,52"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga029938b1c5e2aa4726d08acf8df102a3" title="owner_finalisation\l_check" alt="" coords="370,186,497,227"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gafb68d3dd01c57888005c41b5db608fea" title="m0_rm_owner_creditor\l_reset" alt="" coords="157,102,311,143"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="158,50,310,77"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga8a6e2bbb792f8a5a7bcd2e99411aea61" title="m0_rm_owner_fini" alt="" coords="369,273,497,300"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga35b16fb825a3e37b39bace544db5abe5" title="m0_rm_credit_get" alt="" coords="171,269,297,296"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gadd0e99a07234dbc54d6b9361543a3534" title="owner_invariant" alt="" coords="177,218,291,245"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga85d3cb36f0421ef267794c835b5399ca" title="rm_remote_death_handler" alt="" coords="148,370,320,397"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gaea280d7e0fb92b01305b6ff986dca433" title="rm_remote_online_handler" alt="" coords="147,421,321,448"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga389564d613684c1f52950f0e03664b55" title="incoming_prepare" alt="" coords="172,472,296,498"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#gacd3d5bceb6381f5a884569ed5a7c181b" title="request_post_process" alt="" coords="159,522,309,549"/>
+<area shape="rect" id="node13" href="$de/d51/ut_2rm__rwlock_8c.html#a20c81798ab69dd73d7bf68e6c9ad5927" title="rwlock_owner_unset" alt="" coords="163,573,305,600"/>
+</map>

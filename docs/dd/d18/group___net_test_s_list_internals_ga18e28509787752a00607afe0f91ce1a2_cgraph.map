@@ -1,0 +1,7 @@
+<map id="slist_decode" name="slist_decode">
+<area shape="rect" id="node2" href="$dc/d26/group___net_test_serialize_internals.html#ga5e15fafa5e8e8ee832012c09df7312ef" title="m0_net_test_serialize" alt="" coords="164,5,313,32"/>
+<area shape="rect" id="node3" href="$d1/d19/group___net_test_serialize_d_f_s.html#gadc27b5a418767cd9732f8abd1b3f9fd9" title="net_test_len_accumulate" alt="" coords="377,31,544,57"/>
+<area shape="rect" id="node4" href="$dd/d18/group___net_test_s_list_internals.html#ga75a4e0c2d86e458889a7a34568136e38" title="slist_alloc" alt="" coords="199,107,279,133"/>
+<area shape="rect" id="node5" href="$dc/d26/group___net_test_serialize_internals.html#gac03aac7383c7eb65a192a016da170825" title="m0_net_test_serialize_data" alt="" coords="148,157,329,184"/>
+<area shape="rect" id="node6" href="$dd/d18/group___net_test_s_list_internals.html#ga665bd9d48e98d83cabe7c2966f2bcbcc" title="slist_free" alt="" coords="201,208,276,235"/>
+</map>

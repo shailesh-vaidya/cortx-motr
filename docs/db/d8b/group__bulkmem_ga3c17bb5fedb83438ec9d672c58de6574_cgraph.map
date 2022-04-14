@@ -1,0 +1,9 @@
+<map id="mem_xo_buf_register" name="mem_xo_buf_register">
+<area shape="rect" id="node2" href="$d0/da0/mem__xprt__xo_8c.html#ga57a4c35e853715b899c5b30e606fcd9a" title="mem_dom_invariant" alt="" coords="436,43,575,69"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#ga845da3c02b489891235dd111f9d1d5e3" title="mem_dom_to_pvt" alt="" coords="623,17,749,44"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga871dda11e9a2e996a63643f6fece6453" title="mem_bmo_buffer_in_bounds" alt="" coords="200,93,388,120"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="256,144,332,171"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#gafe187f145003d02f322bac93d59e6b78" title="mem_buffer_to_pvt" alt="" coords="439,245,572,272"/>
+<area shape="rect" id="node7" href="$dd/d12/group__list.html#gad4c91de95902427a681a39c9c8d7d1bd" title="m0_list_link_init" alt="" coords="237,245,351,272"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="221,195,367,221"/>
+</map>

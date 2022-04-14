@@ -1,0 +1,11 @@
+<map id="m0_spiel_tx_commit" name="m0_spiel_tx_commit">
+<area shape="rect" id="node2" href="$de/d81/spiel__conf__ut_8c.html#a17f7bd2bab690e9b454fdd4b26a08d34" title="spiel_conf_load_send" alt="" coords="208,5,355,32"/>
+<area shape="rect" id="node3" href="$de/d81/spiel__conf__ut_8c.html#a1228fc042fa3dce9630162431e2893eb" title="spiel_conf_drop_svc" alt="" coords="211,56,352,83"/>
+<area shape="rect" id="node4" href="$de/d81/spiel__conf__ut_8c.html#acdd482b0e7a812aa47be86ddb761b20b" title="spiel_conf_add_svc" alt="" coords="213,107,350,133"/>
+<area shape="rect" id="node5" href="$de/d81/spiel__conf__ut_8c.html#a94732126ad6d0f6dfd474654f703ea44" title="spiel_conf_big_db" alt="" coords="218,157,345,184"/>
+<area shape="rect" id="node6" href="$de/d81/spiel__conf__ut_8c.html#a215c8cb9a1a3d8aebc457978cd4d6c88" title="spiel_conf_flip_fail" alt="" coords="217,208,346,235"/>
+<area shape="rect" id="node7" href="$de/d81/spiel__conf__ut_8c.html#a12616f7c82a822ccc1fbd75c6d3acfd8" title="spiel_conf_check_fail" alt="" coords="208,259,355,285"/>
+<area shape="rect" id="node8" href="$de/d81/spiel__conf__ut_8c.html#aec3026b65238fff79f043d0b5af59090" title="spiel_conf_load_fail" alt="" coords="213,309,349,336"/>
+<area shape="rect" id="node9" href="$de/d81/spiel__conf__ut_8c.html#a4cce484d51ac1ec0ed59142cb7d7bd99" title="spiel_conf_expired" alt="" coords="216,360,347,387"/>
+<area shape="rect" id="node10" href="$de/d81/spiel__conf__ut_8c.html#a45db984b97447e47f952e1a4c1823f3c" title="spiel_conf_wlock_get_fail" alt="" coords="196,411,367,437"/>
+</map>

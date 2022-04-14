@@ -1,0 +1,14 @@
+<map id="m0_xcode_obj_enc_to_buf" name="m0_xcode_obj_enc_to_buf">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#aa40b2b11dc4aa11b265a679abcede498" title="cas_dtm0_logrec_add" alt="" coords="242,5,391,32"/>
+<area shape="rect" id="node3" href="$d0/d60/cas_2service_8c.html#a91b95ea217dc0bb3200d3f4e40a79de3" title="cas_ctg_crow_fop_buf\l_prepare" alt="" coords="240,57,393,98"/>
+<area shape="rect" id="node4" href="$de/d0d/dtm0_2ut_2main_8c.html#a34148981c6713f5e332c29a7383b5cfb" title="cas_xcode_test" alt="" coords="259,123,374,149"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga7d964641ff67aa4a96645cac9c7e09a8" title="cas_index_op_prepare" alt="" coords="241,173,393,200"/>
+<area shape="rect" id="node6" href="$d4/d44/group__cas.html#gada6d19604040063f41e1d098acf9983c" title="cid_enc" alt="" coords="283,224,350,251"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gadcaa34ee30a326f87d7c899b61c1fb7d" title="m0_dix__meta_val_enc" alt="" coords="237,275,396,301"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga67b1d856d365597554cc367f20dd74e3" title="m0_dix__layout_vals_enc" alt="" coords="231,325,403,352"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga7f4325873f4f91994e03efdd8a14c52c" title="m0_dix__ldesc_vals_enc" alt="" coords="233,376,401,403"/>
+<area shape="rect" id="node10" href="$d4/d0d/iscdemo_8c.html#acbbbf79e570f2a0fef21091c7507f730" title="minmax_input_prepare" alt="" coords="240,427,393,453"/>
+<area shape="rect" id="node11" href="$d3/d1b/libdemo_8c.html#a3dc56b3c8c06c50286ea61967842a7f6" title="compute_minmax" alt="" coords="254,477,379,504"/>
+<area shape="rect" id="node12" href="$d6/d4a/ut_2idx__dix_8c.html#a58b3452b46f5c1f5352395f873d98dc9" title="dtm0_ut_send_redo" alt="" coords="249,528,385,555"/>
+<area shape="rect" id="node13" href="$d5/d16/group__netsock.html#ga13c610ec12e0a3b29cec26487f5651ab" title="bdesc_encode" alt="" coords="263,579,370,605"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="motr/m0crate/crate.c" name="motr/m0crate/crate.c">
+<area shape="rect" id="node7" href="$da/d66/string_8h.html" title="string.h" alt="" coords="161,251,227,278"/>
+<area shape="rect" id="node8" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="134,333,217,360"/>
+<area shape="rect" id="node10" href="$dc/da7/assert_8h.html" title="assert.h" alt="" coords="1287,333,1357,360"/>
+<area shape="rect" id="node17" href="$d8/dc2/errno_8h.html" title="errno.h" alt="" coords="1217,87,1280,114"/>
+<area shape="rect" id="node18" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="775,251,871,278"/>
+<area shape="rect" id="node19" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,251,84,278"/>
+<area shape="rect" id="node20" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1535,87,1663,114"/>
+<area shape="rect" id="node21" href="$d1/d8c/logger_8h.html" title="motr/m0crate/logger.h" alt="" coords="377,169,525,196"/>
+<area shape="rect" id="node22" href="$d1/d67/workload_8h.html" title="motr/m0crate/workload.h" alt="" coords="864,169,1031,196"/>
+<area shape="rect" id="node23" href="$dd/d04/crate__utils_8h.html" title="motr/m0crate/crate\l_utils.h" alt="" coords="1328,244,1460,285"/>
+<area shape="rect" id="node24" href="$da/dd8/motr_2m0crate_2parser_8h.html" title="motr/m0crate/parser.h" alt="" coords="377,87,526,114"/>
+<area shape="rect" id="node25" href="$df/db8/crate__client_8h.html" title="motr/m0crate/crate\l_client.h" alt="" coords="1328,80,1460,121"/>
+</map>

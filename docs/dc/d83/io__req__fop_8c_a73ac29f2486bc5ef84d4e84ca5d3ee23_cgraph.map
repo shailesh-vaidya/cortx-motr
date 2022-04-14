@@ -1,0 +1,9 @@
+<map id="application_attribute_copy" name="application_attribute_copy">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#aa6bce3b2f59513fad0833d11f817675d" title="m0__obj_is_di_enabled" alt="" coords="265,5,423,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga1a2fb02ad4d4dffde46ce5d85d5fb35b" title="m0_obj_layout_id_to\l_unit_size" alt="" coords="273,57,415,98"/>
+<area shape="rect" id="node4" href="$d7/dcd/motr_2client__internal_8h.html#aa68a415aabd975e135519ead7755e3c9" title="m0__obj_lid" alt="" coords="299,123,389,149"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gaf84e4bef24d1285a0acb734eb508a977" title="m0_ivec_cursor_init" alt="" coords="275,173,413,200"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga3b8c55c5a3bc679ba4667229893178ee" title="m0_ivec_cursor_index" alt="" coords="268,224,420,251"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gad91d27a0c5db7a267d18d70ae8817a8f" title="m0_ivec_cursor_move" alt="" coords="267,275,421,301"/>
+<area shape="rect" id="node8" href="$d9/dc3/cksum__utils_8c.html#a182f58fb5f8bb08a351c6be96720eede" title="m0_extent_vec_get_checksum_addr" alt="" coords="227,325,461,352"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="process_trace_buffer" name="process_trace_buffer">
+<area shape="rect" id="node2" href="$d8/d98/group__trace.html#gafe1a182b75e15345965e781d91809135" title="write_trace_header" alt="" coords="211,5,343,32"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#ga139c92dd54e09c6746a7c1b55902b33d" title="get_cur_pos" alt="" coords="230,56,323,83"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#ga50fe4bf3d47bd95f62743816d7e82125" title="write_trace_data" alt="" coords="217,107,336,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="223,157,330,184"/>
+<area shape="rect" id="node6" href="$d8/d98/group__trace.html#gadc264cd321ef47cf0460ecc3c4eff98a" title="is_log_rotation_needed" alt="" coords="199,208,354,235"/>
+<area shape="rect" id="node7" href="$d8/d98/group__trace.html#ga8203a5a9075e783f9c758e87ba0a50a5" title="wake_up_rotator_thread" alt="" coords="196,259,357,285"/>
+</map>

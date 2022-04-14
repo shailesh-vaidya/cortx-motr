@@ -1,0 +1,23 @@
+<map id="balloc_free_db_update" name="balloc_free_db_update">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="275,5,315,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="433,781,579,808"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#ad7fecc4ce3e8c6f1964c08a76eb84a2c" title="bgi_mutex" alt="" coords="254,107,337,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ac0ddf5f38ec6e8cd44f226dccb3658f1" title="balloc_debug_dump_extent" alt="" coords="205,157,385,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#ab1c25928253b22f7d5f68dea541e1089" title="is_spare" alt="" coords="260,208,331,235"/>
+<area shape="rect" id="node7" href="$de/d8f/group__balloc.html#ga26fe2fff9a8f8bd03104d0eed5d93777" title="m0_balloc_debug_dump\l_group_extent" alt="" coords="214,259,377,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="473,945,539,972"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#a3b9014344ec21a87e2ce7b0d75b66810" title="lext_create" alt="" coords="252,376,339,403"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a4ce349daa351709a71936a4b775147a6" title="btree_insert_sync" alt="" coords="233,427,358,453"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="471,191,541,217"/>
+<area shape="rect" id="node12" href="$dd/d12/group__list.html#gac5ee57b03153cb03b020dba5a19d9555" title="m0_list_add" alt="" coords="249,528,341,555"/>
+<area shape="rect" id="node13" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="242,579,349,605"/>
+<area shape="rect" id="node14" href="$dd/d12/group__list.html#ga648a0e0f10d5fae337153ad792337ce0" title="m0_list_add_after" alt="" coords="233,629,358,656"/>
+<area shape="rect" id="node15" href="$d9/dd5/balloc_8c.html#af2c8eaadf44fdfd1522b280a86fea9e4" title="btree_delete_sync" alt="" coords="231,680,359,707"/>
+<area shape="rect" id="node16" href="$dd/d12/group__list.html#ga916ea2056b629e5947faffe1b9b4a91c" title="m0_list_add_before" alt="" coords="228,731,363,757"/>
+<area shape="rect" id="node17" href="$d9/dd5/balloc_8c.html#a74b0d9cbcf0a9c05e9b9530049244f8e" title="btree_update_sync" alt="" coords="440,1009,572,1036"/>
+<area shape="rect" id="node18" href="$d9/dd5/balloc_8c.html#af3f855a27391a78d623eaeeef8e7de92" title="lext_del" alt="" coords="262,56,329,83"/>
+<area shape="rect" id="node19" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="238,883,353,909"/>
+<area shape="rect" id="node20" href="$d9/dd5/balloc_8c.html#a74ed2ca17508e4595535b9eea46909a5" title="balloc_sb_sync" alt="" coords="239,832,351,859"/>
+<area shape="rect" id="node21" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="231,477,359,504"/>
+<area shape="rect" id="node22" href="$d9/dd5/balloc_8c.html#a75a3847c2c362733235e558f2e30dcee" title="balloc_gi_sync" alt="" coords="241,984,349,1011"/>
+</map>

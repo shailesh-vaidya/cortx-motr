@@ -1,0 +1,6 @@
+<map id="m0_rpc_item_source_deregister" name="m0_rpc_item_source_deregister">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga018a21e2f3d0ab20b58ebdcd7eee07f6" title="m0_rpc_item_source\l_is_registered" alt="" coords="208,5,351,47"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf8677e40d0db9fb82bf6f8b604d9aab5" title="m0_rpc_machine_is_not\l_locked" alt="" coords="198,71,361,112"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="203,137,355,163"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="196,187,363,214"/>
+</map>

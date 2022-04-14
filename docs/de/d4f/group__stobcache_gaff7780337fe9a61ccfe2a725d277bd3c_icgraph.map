@@ -1,0 +1,9 @@
+<map id="m0_stob_cache_lock" name="m0_stob_cache_lock">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga03265b7b6576ca740b79fb231463df17" title="m0_stob_cache_purge" alt="" coords="205,5,359,32"/>
+<area shape="rect" id="node3" href="$d1/d4d/stob_2ut_2cache_8c.html#af74b985586ffd45c785d7341d2ba7e5c" title="stob_ut_cache_thread" alt="" coords="207,56,357,83"/>
+<area shape="rect" id="node4" href="$d1/d4d/stob_2ut_2cache_8c.html#a68ecb798747b3f01a5d4530d86d82aaf" title="stob_ut_cache_test" alt="" coords="214,107,350,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga86554798b734b43b7fde32398ff992fb" title="m0_stob_find_by_key" alt="" coords="207,157,357,184"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#gade6beaeb9c0b5b96108a6be905c835f4" title="m0_stob_lookup_by_key" alt="" coords="199,208,365,235"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga90d0bf5f7f45ddcf38bf3f3636d43c90" title="m0_stob_get" alt="" coords="233,259,331,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="233,309,331,336"/>
+</map>

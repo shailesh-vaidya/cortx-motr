@@ -1,0 +1,6 @@
+<map id="rebalance_svc_stop" name="rebalance_svc_stop">
+<area shape="rect" id="node2" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gaa381dd56ca4fa7bf0b4f88677c72bb47" title="m0_sns_cm_svc_stop" alt="" coords="193,5,347,32"/>
+<area shape="rect" id="node3" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gad4ac0fb617cc84b8be2731732ff2920e" title="m0_sns_cm_rebalance\l_cpx_fini" alt="" coords="192,57,348,98"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#gabce3c718d63164c8beffa34d88e1849b" title="m0_sns_cm_rebalance\l_sw_onwire_fop_fini" alt="" coords="192,122,348,163"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga6db0951f7f749c855a69b081f79047fc" title="m0_sns_cm_rebalance\l_trigger_fop_fini" alt="" coords="192,187,348,229"/>
+</map>

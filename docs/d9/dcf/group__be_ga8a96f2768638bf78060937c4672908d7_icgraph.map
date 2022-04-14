@@ -1,0 +1,13 @@
+<map id="be_log_discard_unlock" name="be_log_discard_unlock">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gab0bd5e2b60ed4c9b04dad2b62e11a0a8" title="be_log_discard_check_sync" alt="" coords="208,199,395,226"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gafb931b824a1018224ee8c3f78cad3210" title="be_log_discard_ast" alt="" coords="460,47,595,74"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gade6e3c042037b8de7f767cdab628f7b0" title="be_log_discard_sync\l_done_cb" alt="" coords="661,15,805,56"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga302ef0bdd716d8f4a824f33ede5e4270" title="be_log_discard_timer_cb" alt="" coords="444,301,611,327"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga22358dc7e2decc8a16acbefd1b379c73" title="be_log_discard_timer\l_start_loc" alt="" coords="660,293,805,335"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga77da441be4969844da589b34ae308297" title="m0_be_log_discard_sync" alt="" coords="443,102,612,129"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga02caf0a663ac3cb2cc2c8f9f4e984b1e" title="m0_be_log_discard_flush" alt="" coords="443,161,612,187"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gac76e68950c38b5a556063dbd8fd88eb4" title="m0_be_log_discard_item\l_starting" alt="" coords="444,229,611,271"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaed317b0a5668c405c95a776c37f5d4cd" title="be_log_discard_item\l_discard" alt="" coords="231,403,372,444"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga75ffc24092a003618858594b7ce267d6" title="be_log_discard_wait" alt="" coords="231,469,371,495"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga9bce14bd189522edbc1700b91fda0041" title="m0_be_log_discard_item\l_finished" alt="" coords="218,520,385,561"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_cm_cp_init" name="m0_cm_cp_init">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="203,5,288,32"/>
+<area shape="rect" id="node3" href="$de/d70/group___d_i_x_c_m.html#ga01ebb93425fd1f3019f2f1ce4dd72b5d" title="dix_rebalance_svc_start" alt="" coords="164,56,327,83"/>
+<area shape="rect" id="node4" href="$de/d70/group___d_i_x_c_m.html#ga9ffc6c0f509e087fd8b746df76acd86c" title="dix_repair_svc_start" alt="" coords="176,107,315,133"/>
+<area shape="rect" id="node5" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gad8dc6996548cc46d85d9b646857a6a1a" title="rebalance_svc_start" alt="" coords="176,157,315,184"/>
+<area shape="rect" id="node6" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gacd3e73dc9e3f35cb67a7bfbdeefe4110" title="repair_svc_start" alt="" coords="188,208,303,235"/>
+<area shape="rect" id="node7" href="$d1/dfc/cm_2ut_2cm_8c.html#ae79d6f38688767751a692c8da7c3fb21" title="cm_ut_init" alt="" coords="204,259,287,285"/>
+<area shape="rect" id="node8" href="$de/d9e/cm_2ut_2cp_8c.html#a24ceab9071663c02f9abd6379c9b7893" title="cp_post" alt="" coords="211,309,279,336"/>
+</map>

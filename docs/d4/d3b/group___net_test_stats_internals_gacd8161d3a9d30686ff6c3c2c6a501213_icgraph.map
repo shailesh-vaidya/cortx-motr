@@ -1,0 +1,9 @@
+<map id="m0_net_test_stats_avg" name="m0_net_test_stats_avg">
+<area shape="rect" id="node2" href="$d3/dba/ut_2stats_8c.html#a264ea11a9704ecfc3f72912088b09594" title="sample_check" alt="" coords="467,34,573,61"/>
+<area shape="rect" id="node3" href="$d3/dba/ut_2stats_8c.html#a515777536edb07054f036ebdbc0b1e68" title="stats_serialize_ut" alt="" coords="637,34,761,61"/>
+<area shape="rect" id="node4" href="$dc/d55/group___net_test_u_console_internals.html#ga65d42c2ff3a545a4bab6e79041d94ea6" title="print_stats" alt="" coords="479,135,561,162"/>
+<area shape="rect" id="node5" href="$dc/d55/group___net_test_u_console_internals.html#gaaafcab4ae55851a5f90d721d7657d1fb" title="print_status_data" alt="" coords="246,237,369,263"/>
+<area shape="rect" id="node6" href="$dc/d55/group___net_test_u_console_internals.html#gad85142f7d49f9a970573e4c0fe7b2e37" title="print_stats_parsable" alt="" coords="451,186,589,213"/>
+<area shape="rect" id="node7" href="$d2/de9/group___net_test_stats_d_f_s.html#ga77b02ec85e9bb9f70a23e7e92a9193b4" title="m0_net_test_stats_stddev" alt="" coords="219,85,395,111"/>
+<area shape="rect" id="node8" href="$d2/de9/group___net_test_stats_d_f_s.html#gac58e991c9b66be3e83a8487c4386055d" title="m0_net_test_stats_time_avg" alt="" coords="212,287,403,314"/>
+</map>

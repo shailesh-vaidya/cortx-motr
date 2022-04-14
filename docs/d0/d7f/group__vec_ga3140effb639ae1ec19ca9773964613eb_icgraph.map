@@ -1,0 +1,12 @@
+<map id="m0_bufvec_cursor_copyto" name="m0_bufvec_cursor_copyto">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga68ca77581e2a02200744b9a3a0352df5" title="m0_layout_encode" alt="" coords="247,5,377,32"/>
+<area shape="rect" id="node3" href="$d6/de4/layout_2ut_2layout_8c.html#af778275d1c0944ebb61d9e22310d99b0" title="buf_build" alt="" coords="275,56,349,83"/>
+<area shape="rect" id="node4" href="$d6/de4/layout_2ut_2layout_8c.html#a57907abcfd966b410bbf3d6eceaeb53f" title="pdclust_buf_build" alt="" coords="444,107,567,133"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#aff38c440d7787d3012a357490c3396e1" title="pdclust_layout_buf\l_build" alt="" coords="615,125,745,166"/>
+<area shape="rect" id="node6" href="$dd/dcc/group__linear__enum.html#ga41c2f1f357605ba6850f0c38b7d1103c" title="linear_encode" alt="" coords="261,208,363,235"/>
+<area shape="rect" id="node7" href="$d5/daa/group__list__enum.html#gaee0c2d76900424558c096e2b0c0012d6" title="list_encode" alt="" coords="268,259,356,285"/>
+<area shape="rect" id="node8" href="$df/d01/group__pdclust.html#ga7a6029c1e09be1bf365a7767fb22dce7" title="pdclust_encode" alt="" coords="255,309,369,336"/>
+<area shape="rect" id="node9" href="$d6/d47/ut_2vec_8c.html#a09c5ec37372ac684ecdbbb0456e595c6" title="test_bufvec_cursor\l_copyto_copyfrom" alt="" coords="245,361,379,402"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gab7291612e41dff64ef612f234816c74f" title="m0_rm_resource_encode" alt="" coords="228,427,396,453"/>
+<area shape="rect" id="node11" href="$d5/d68/rings_8c.html#a7004e17cd190e4b83b07a055309988a6" title="rings_resource_encode" alt="" coords="234,477,390,504"/>
+</map>

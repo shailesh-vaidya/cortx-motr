@@ -1,0 +1,11 @@
+<map id="ut_test_op_sm" name="ut_test_op_sm">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="191,5,311,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="187,56,315,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="183,107,318,133"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#a779c3815ef44522afe62e0d631c2332b" title="ut_test_op_sm_cbs_helper" alt="" coords="161,157,340,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="206,208,295,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="199,259,303,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="176,309,325,336"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="187,360,315,387"/>
+<area shape="rect" id="node10" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="191,411,311,437"/>
+</map>

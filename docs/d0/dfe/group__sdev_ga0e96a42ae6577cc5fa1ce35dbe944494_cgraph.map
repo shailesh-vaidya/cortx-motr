@@ -1,0 +1,11 @@
+<map id="storage_devs_conf_ready_async_cb" name="storage_devs_conf_ready_async_cb">
+<area shape="rect" id="node2" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="467,5,578,32"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="236,203,392,229"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga8f1646121c10e0e1fbb73c979880d9a0" title="storage_devs_conf_refresh" alt="" coords="225,101,403,128"/>
+<area shape="rect" id="node5" href="$db/dc2/conf_2helpers_8c.html#ac0c5db27831f16ffd75796778445de24" title="m0_conf_device_cid\l_to_fid" alt="" coords="452,61,593,102"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="478,135,567,161"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga33b9076472a483cf4bea77359a6cb999" title="m0_clink_is_armed" alt="" coords="247,253,381,280"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#gae378125e676dd3217d8784383335e1d9" title="m0_storage_dev_clink_add" alt="" coords="224,304,404,331"/>
+<area shape="rect" id="node9" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="229,355,399,381"/>
+<area shape="rect" id="node10" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="229,405,399,432"/>
+</map>

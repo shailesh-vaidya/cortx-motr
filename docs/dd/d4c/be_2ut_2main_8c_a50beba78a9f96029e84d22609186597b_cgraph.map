@@ -1,0 +1,9 @@
+<map id="m0_be_ut_seg_multiple" name="m0_be_ut_seg_multiple">
+<area shape="rect" id="node2" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a415a8b8f0f8e315d1cd82095dd8c42ce" title="barrier" alt="" coords="455,34,514,60"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="223,34,358,60"/>
+<area shape="rect" id="node4" href="$db/d73/ut_2seg_8c.html#afd566043a19b37cd40d7002fca756b32" title="be_ut_seg_thread_func" alt="" coords="212,84,369,111"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="225,135,357,162"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="235,186,346,212"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="237,236,344,263"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="417,262,552,288"/>
+</map>

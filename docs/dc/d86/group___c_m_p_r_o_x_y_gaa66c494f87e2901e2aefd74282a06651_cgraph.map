@@ -1,0 +1,11 @@
+<map id="m0_cm_proxy_update" name="m0_cm_proxy_update">
+<area shape="rect" id="node2" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga592b68ae309b14272813dbdf765c773c" title="m0_cm_proxy_lock" alt="" coords="213,5,348,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="405,183,532,209"/>
+<area shape="rect" id="node4" href="$dc/d86/group___c_m_p_r_o_x_y.html#gac16376a933ed5875a2b6f0b16e7ca88a" title="m0_cm_proxy_unlock" alt="" coords="206,107,355,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="247,157,314,184"/>
+<area shape="rect" id="node6" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga4f4dfd20a618839397fd26f681ac5858" title="epoch_check" alt="" coords="231,208,330,235"/>
+<area shape="rect" id="node7" href="$d0/da4/group___c_m.html#ga5788f13ad3d50fefd92b91dfb23cb4ec" title="m0_cm_state_get" alt="" coords="217,259,344,285"/>
+<area shape="rect" id="node8" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga3d30280d020a71aa8c0bea382c6d8ad1" title="m0_cm_proxies_ready" alt="" coords="204,309,357,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="211,360,350,387"/>
+<area shape="rect" id="node10" href="$d0/da4/group___c_m.html#ga6f7dd35c3a86567f5c3d409106c9c8b5" title="m0_cm_notify" alt="" coords="229,411,333,437"/>
+</map>

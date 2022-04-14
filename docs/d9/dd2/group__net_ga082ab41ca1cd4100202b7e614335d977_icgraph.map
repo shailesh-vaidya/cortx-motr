@@ -1,0 +1,14 @@
+<map id="m0_net_tm_stats_get" name="m0_net_tm_stats_get">
+<area shape="rect" id="node2" href="$da/dc4/net_2bulk__emulation_2st_2main_8c.html#a9cf10484d68de21be03f9557c2260e55" title="print_qstats" alt="" coords="239,5,330,32"/>
+<area shape="rect" id="node3" href="$d7/ddb/lnet_2st_2ping_8h.html#ac2a1b4472d23285667d01beed71c0bed" title="nlx_ping_print_qstats_tm" alt="" coords="201,56,368,83"/>
+<area shape="rect" id="node4" href="$d3/d50/bulk__mem__ut_8c.html#aaf3c762585b20b0104d3ae57a6f88afb" title="test_failure" alt="" coords="241,107,328,133"/>
+<area shape="rect" id="node5" href="$df/df1/klnet__ut_8c.html#a956ddaa40cddba502f949ba5e2d5fb2a" title="ktest_msg_body" alt="" coords="225,157,344,184"/>
+<area shape="rect" id="node6" href="$d2/d68/lnet__ut_8c.html#aa15e64220686145ce669269f7f6ef10c" title="test_msg_send_loop" alt="" coords="213,208,356,235"/>
+<area shape="rect" id="node7" href="$d2/d68/lnet__ut_8c.html#a6047a879acd88cc744586ed6f891f780" title="test_msg_body" alt="" coords="416,233,527,260"/>
+<area shape="rect" id="node8" href="$d2/d68/lnet__ut_8c.html#a6e84e8ac42832d81377865378c4dd282" title="test_bulk_passive_send" alt="" coords="203,309,366,336"/>
+<area shape="rect" id="node9" href="$d2/d68/lnet__ut_8c.html#a838e8335ca1a5b6c10edcfb795298bff" title="test_bulk_body" alt="" coords="416,360,527,387"/>
+<area shape="rect" id="node10" href="$d2/d68/lnet__ut_8c.html#a41d302e88c1ead323ffc473deef1fdd9" title="test_bulk_passive_recv" alt="" coords="205,411,364,437"/>
+<area shape="rect" id="node11" href="$d2/d68/lnet__ut_8c.html#aed32f5c899145480c390856f5d708397" title="test_sync_body" alt="" coords="227,461,342,488"/>
+<area shape="rect" id="node12" href="$d2/d68/lnet__ut_8c.html#a61ef321fcc86a2330d997cbec5025e1e" title="test_timeout_body" alt="" coords="220,512,349,539"/>
+<area shape="rect" id="node13" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="227,563,342,589"/>
+</map>

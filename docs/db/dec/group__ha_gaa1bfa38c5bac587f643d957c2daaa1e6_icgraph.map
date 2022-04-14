@@ -1,0 +1,8 @@
+<map id="m0_ha_lq_tag_assign" name="m0_ha_lq_tag_assign">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gab3a6b408ee2c18e4bff6d65c436251b3" title="ha_link_tags_apply" alt="" coords="230,5,363,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga88f0234b4c836fb8369c8b6b2f288352" title="m0_ha_link_flush" alt="" coords="235,56,358,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gab50d3efa621e6b8c28362134e93288f9" title="ha_link_msg_received" alt="" coords="221,107,372,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga05f851f253c04c62ea4cab589260cdb6" title="ha_link_msg_recv_or\l_delivery_broadcast" alt="" coords="224,158,369,199"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga9bb0a3a4dc5b663238a36bebba95113b" title="m0_ha_ut_lq" alt="" coords="249,224,345,251"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga582f312aa01a509896c891f206b38227" title="m0_ha_ut_lq_mark_delivered" alt="" coords="201,275,392,301"/>
+</map>

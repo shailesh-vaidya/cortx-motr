@@ -1,0 +1,7 @@
+<map id="ioq_queue_get" name="ioq_queue_get">
+<area shape="rect" id="node2" href="$d0/d5d/ut_2sm_8c.html#ac5abd8d95e89183f3e34bec16dfa6831" title="head" alt="" coords="399,9,450,35"/>
+<area shape="rect" id="node3" href="$d1/d84/group__queue.html#gac4bfc62aeb77a861157914cc90273ac3" title="m0_queue_is_empty" alt="" coords="353,85,496,111"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="160,85,305,111"/>
+<area shape="rect" id="node5" href="$d1/d84/group__queue.html#ga15016e0f58da6180ce23e8319834e6ff" title="m0_queue_get" alt="" coords="179,34,286,61"/>
+<area shape="rect" id="node6" href="$d1/d84/group__queue.html#gade9ee2340ae0954b0ed18bbd5ab473cc" title="m0_queue_length" alt="" coords="171,186,295,213"/>
+</map>

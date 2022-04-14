@@ -1,0 +1,9 @@
+<map id="cs_init" name="cs_init">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a7a53c0a22b91d5876d32ecccfdff256b" title="receiver_init" alt="" coords="144,5,236,32"/>
+<area shape="rect" id="node3" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#ad6c7ced6fc07b82cac1374e1dcccaa06" title="service_start_success" alt="" coords="113,56,267,83"/>
+<area shape="rect" id="node4" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#aa37d429a8b8f19becbe4c9f679c8730a" title="service_init_failure" alt="" coords="125,107,255,133"/>
+<area shape="rect" id="node5" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#adbf8dcefb90dc0c490a8aad1379f8f81" title="service_start_failure" alt="" coords="121,157,259,184"/>
+<area shape="rect" id="node6" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#afb991465c06387fc58aade958f9241ed" title="iter_setup" alt="" coords="151,208,229,235"/>
+<area shape="rect" id="node7" href="$d9/d5b/repair_2ut_2xform_8c.html#a01fadd526b59b7d749bd40c1ca915cfd" title="xform_init" alt="" coords="151,259,229,285"/>
+<area shape="rect" id="node8" href="$d1/d9b/flock_8c.html#a5fc5bde5349594ca2cda7bc32c095592" title="test_setup" alt="" coords="149,309,231,336"/>
+</map>

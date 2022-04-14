@@ -1,0 +1,9 @@
+<map id="node_bulk_server_transfer_start" name="node_bulk_server_transfer_start">
+<area shape="rect" id="node2" href="$da/d64/group___net_test_ringbuf_internals.html#gae6b2dac7e6bff8566eb62505d4442e8e" title="m0_net_test_ringbuf\l_is_empty" alt="" coords="242,5,382,47"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#ga76f172e23ed9e36bc64c72faa77d14bb" title="sd_update" alt="" coords="271,71,353,98"/>
+<area shape="rect" id="node4" href="$da/d64/group___net_test_ringbuf_internals.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="228,122,396,149"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga278773f33d44631284956832a1ed83cf" title="node_bulk_state_change" alt="" coords="229,173,395,199"/>
+<area shape="rect" id="node6" href="$dd/da5/group___net_test_bulk_node_internals.html#ga7b55c3dc7330efc342d6e787c4124592" title="buf_desc_deserialize" alt="" coords="240,223,384,250"/>
+<area shape="rect" id="node7" href="$dd/da5/group___net_test_bulk_node_internals.html#gaf55b3202722b5f8f956858a13c8e6747" title="buf_desc_server_free" alt="" coords="444,249,591,275"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#ga78369f73170e101746c33bb936505fde" title="m0_net_test_network\l_bulk_enqueue" alt="" coords="239,325,385,367"/>
+</map>

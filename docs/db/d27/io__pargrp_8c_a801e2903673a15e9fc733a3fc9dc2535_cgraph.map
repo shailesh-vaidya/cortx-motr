@@ -1,0 +1,16 @@
+<map id="pargrp_iomap_dgmode_postprocess" name="pargrp_iomap_dgmode_postprocess">
+<area shape="rect" id="node2" href="$db/d27/io__pargrp_8c.html#a9795f9bb68a7c292ffd94bb1d51746c1" title="pargrp_iomap_invariant" alt="" coords="217,93,373,120"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="447,42,513,69"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="432,270,528,297"/>
+<area shape="rect" id="node5" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="233,144,357,170"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="445,397,515,424"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="261,245,329,272"/>
+<area shape="rect" id="node8" href="$db/d27/io__pargrp_8c.html#a67787c693fb163ff61d5aee05ae8cd77" title="data_buf_alloc_init" alt="" coords="230,296,361,322"/>
+<area shape="rect" id="node9" href="$db/d27/io__pargrp_8c.html#a426f9e79559efb42656182481a4c44b0" title="mark_page_as_read_failed" alt="" coords="207,346,384,373"/>
+<area shape="rect" id="node10" href="$db/d27/io__pargrp_8c.html#a4d858f0f50bd2cd19f632c84dae72fb4" title="is_page_read" alt="" coords="246,42,345,69"/>
+<area shape="rect" id="node11" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa3c9d000e95c41896417fffbd5a3a26d" title="data_size" alt="" coords="256,448,335,474"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5938f031741fee2d931009b22b92c39b" title="round_up" alt="" coords="258,498,333,525"/>
+<area shape="rect" id="node13" href="$d4/dc1/motr_2io_8h.html#abe2ca1d9e097b73d437f5694608bb820" title="m0__page_size" alt="" coords="239,549,352,576"/>
+<area shape="rect" id="node14" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="260,600,331,626"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="257,650,333,677"/>
+</map>

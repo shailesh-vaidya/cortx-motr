@@ -1,0 +1,8 @@
+<map id="m0_be_emap_credit" name="m0_be_emap_credit">
+<area shape="rect" id="node2" href="$d4/d21/cksum_8c.html#aaeebad4910c5a1597b331bd80f47b8b2" title="max_cksum_size" alt="" coords="203,5,327,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga1eca42a1cfe5fbe1a14ce17e8a37984c" title="m0_be_btree_create\l_credit" alt="" coords="195,57,335,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga385c366d0f032b242058c668d10e7cf7" title="m0_be_btree_destroy\l_credit" alt="" coords="192,122,339,163"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga9590cae78c1e53bf91761c7981cd204c" title="m0_be_btree_insert\l_credit" alt="" coords="197,187,333,229"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga6c2b0ebe7aee33b0c7b6680bf54d4dc7" title="m0_be_btree_delete\l_credit" alt="" coords="196,253,335,294"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac443c248566338fb4035b5c848715934" title="m0_be_btree_update\l_credit" alt="" coords="194,318,337,359"/>
+</map>

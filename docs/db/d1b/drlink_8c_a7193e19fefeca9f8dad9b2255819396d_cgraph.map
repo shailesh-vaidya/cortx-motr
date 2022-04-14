@@ -1,0 +1,7 @@
+<map id="co_rpc_link_connect" name="co_rpc_link_connect">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="214,5,321,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="207,56,328,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="207,107,327,133"/>
+<area shape="rect" id="node5" href="$de/d82/group__rpc__link.html#gab845f10e6c97bbdc4a2b7d2acc19b96c" title="m0_rpc_link_connect\l_async" alt="" coords="195,158,340,199"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="199,224,335,251"/>
+</map>

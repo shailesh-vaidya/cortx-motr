@@ -1,0 +1,11 @@
+<map id="m0_dtm0_on_committed" name="m0_dtm0_on_committed">
+<area shape="rect" id="node2" href="$d1/da8/dtm0_2service_8c.html#a5c34c17030e76d4d5de04d09c372bec2" title="m0_dtm0_service_find" alt="" coords="224,5,377,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="243,56,358,83"/>
+<area shape="rect" id="node4" href="$de/d0c/group___d_t_m0_internals.html#gae3672a41d2c340a18f93a380b8493dfd" title="m0_be_dtm0_log_find" alt="" coords="226,107,375,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga61a6a574f66a20c5d4e2003c5212b401" title="m0_dtm0_tx_desc_copy" alt="" coords="219,157,383,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="431,183,497,209"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="237,259,365,285"/>
+<area shape="rect" id="node8" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="259,309,342,336"/>
+<area shape="rect" id="node9" href="$db/d1b/drlink_8c.html#a0a9f2908ccda3a3c1d9426433efe05ba" title="m0_dtm0_req_post" alt="" coords="234,360,367,387"/>
+<area shape="rect" id="node10" href="$d2/d66/group__dtm.html#gacabad30fa4970ce192591dea825f3754" title="m0_dtm0_tx_desc_fini" alt="" coords="224,411,377,437"/>
+</map>

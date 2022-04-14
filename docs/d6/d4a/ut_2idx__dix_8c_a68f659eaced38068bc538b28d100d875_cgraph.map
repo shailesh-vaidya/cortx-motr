@@ -1,0 +1,10 @@
+<map id="run_m0ops" name="run_m0ops">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="140,5,260,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="157,56,243,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="147,107,253,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="154,157,246,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="157,208,243,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="155,259,245,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="308,284,377,311"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="143,360,257,387"/>
+</map>

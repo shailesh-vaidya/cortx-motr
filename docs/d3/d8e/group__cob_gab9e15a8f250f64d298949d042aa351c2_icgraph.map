@@ -1,0 +1,19 @@
+<map id="m0_cob_nskey_make" name="m0_cob_nskey_make">
+<area shape="rect" id="node2" href="$d9/d5b/repair_2ut_2xform_8c.html#a4a4ea168c86c796b83221d78637d6f62" title="cob_create" alt="" coords="245,5,331,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga505390ecef1774e5322dbbc2e2c1428a" title="m0_cob_domain_mkfs" alt="" coords="211,56,365,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga994125da14a4d6b717e13ac9ad4c74ff" title="cob_oi_lookup" alt="" coords="235,107,341,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gacb5d1a65b13b1b957728a1457415a6a8" title="m0_cob_name_update" alt="" coords="211,157,365,184"/>
+<area shape="rect" id="node6" href="$de/d60/group__mdstore.html#gaa4e497e9f61cdaa90b85e6cba76d0453" title="m0_mdstore_rename" alt="" coords="421,487,565,513"/>
+<area shape="rect" id="node7" href="$d1/d29/cob_2ut_2cob_8c.html#a4d8029715873f5f316d618078ee601f8" title="test_create" alt="" coords="245,259,331,285"/>
+<area shape="rect" id="node8" href="$d1/d29/cob_2ut_2cob_8c.html#aaf075f79910a63cf75c169bdd5a5e9b5" title="test_add_name" alt="" coords="233,309,343,336"/>
+<area shape="rect" id="node9" href="$d1/d29/cob_2ut_2cob_8c.html#ac17a78811d054482f83bd7c652cede14" title="test_del_name" alt="" coords="235,360,341,387"/>
+<area shape="rect" id="node10" href="$d1/d29/cob_2ut_2cob_8c.html#a6cd345d23a7dbd8a74ab2bf0028f147a" title="test_lookup" alt="" coords="243,411,333,437"/>
+<area shape="rect" id="node11" href="$d2/da0/group__cob__fid__ns__iter.html#gacef3dd9de344616cd2b518f39fcdfebe" title="m0_cob_ns_rec_of" alt="" coords="222,461,354,488"/>
+<area shape="rect" id="node12" href="$db/d1f/cob__foms_8h.html#a2ad519fe56945f348e65c730b4d7d2ab" title="m0_cc_cob_nskey_make" alt="" coords="203,512,373,539"/>
+<area shape="rect" id="node13" href="$d9/d51/cob__foms_8c.html#a4ca25c1d74eb9bc484eb8ae6def035a3" title="cc_md_cob_nskey_make" alt="" coords="203,563,373,589"/>
+<area shape="rect" id="node14" href="$d5/d5d/ut_2cob__foms_8c.html#a0c4fa7b253e548dcc52c127728b6cba7" title="cob_verify" alt="" coords="247,613,329,640"/>
+<area shape="rect" id="node15" href="$de/d60/group__mdstore.html#ga7d1323cb6824bdcb48c65f91ffcbd1a8" title="m0_mdstore_fcreate" alt="" coords="217,664,359,691"/>
+<area shape="rect" id="node16" href="$de/d60/group__mdstore.html#ga6d04a5fa0db37c3a2c56e98d8c5227f1" title="m0_mdstore_link" alt="" coords="227,715,349,741"/>
+<area shape="rect" id="node17" href="$de/d60/group__mdstore.html#ga9354589147ac858b337e6ac95d84b00d" title="m0_mdstore_unlink" alt="" coords="221,765,355,792"/>
+<area shape="rect" id="node18" href="$de/d60/group__mdstore.html#gaaeedea9869d8466dc7e85ca83953e20a" title="m0_mdstore_lookup" alt="" coords="219,816,357,843"/>
+</map>

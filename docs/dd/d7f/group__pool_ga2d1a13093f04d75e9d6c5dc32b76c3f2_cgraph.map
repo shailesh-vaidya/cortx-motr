@@ -1,0 +1,4 @@
+<map id="m0_pools_common_active_rm_session" name="m0_pools_common_active_rm_session">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="237,5,352,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="231,56,359,83"/>
+</map>

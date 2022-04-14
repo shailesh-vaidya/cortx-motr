@@ -1,0 +1,10 @@
+<map id="m0_md_tick_statfs" name="m0_md_tick_statfs">
+<area shape="rect" id="node2" href="$d4/d4c/md__foms_8c.html#af76bfb645796c0632f223b5d4fbe2928" title="m0_md_tick_generic" alt="" coords="194,5,337,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="409,69,476,96"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="394,132,491,159"/>
+<area shape="rect" id="node5" href="$d4/d4c/md__foms_8c.html#a0e133b6d692827239725e002741b87cf" title="m0_md_fop_init" alt="" coords="208,107,323,133"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga1499e1e71e1c59d130775ea0e91585fe" title="m0_fom_reqh" alt="" coords="392,183,493,209"/>
+<area shape="rect" id="node7" href="$de/d60/group__mdstore.html#ga44c511e2e83de5b6d19311817d42648a" title="m0_mdstore_statfs" alt="" coords="198,259,333,285"/>
+<area shape="rect" id="node8" href="$d4/d4c/md__foms_8c.html#a418861784e52af9f09adc0bcaa30092c" title="md_statfs_mem2wire" alt="" coords="192,309,339,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="187,360,344,387"/>
+</map>

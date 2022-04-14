@@ -1,0 +1,9 @@
+<map id="spiel_conf_load_send" name="spiel_conf_load_send">
+<area shape="rect" id="node2" href="$de/d81/spiel__conf__ut_8c.html#abfa03f8bc2f354468c190cd2f872fc55" title="spiel_conf_ut_init" alt="" coords="241,5,364,32"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="253,56,352,83"/>
+<area shape="rect" id="node4" href="$de/d81/spiel__conf__ut_8c.html#a726b6b1e017701fb19124fd296828710" title="spiel_conf_create_configuration" alt="" coords="200,107,405,133"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#gae0ad2cb20c1efa7133306aabd32e4664" title="m0_spiel_tx_commit" alt="" coords="231,157,374,184"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#ga844ce99a2a162cb1cbc76741641b2dbb" title="m0_spiel_tx_close" alt="" coords="237,208,368,235"/>
+<area shape="rect" id="node7" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="251,259,354,285"/>
+<area shape="rect" id="node8" href="$de/d81/spiel__conf__ut_8c.html#ae6de2a832b3e4150468e65bf2147cd20" title="spiel_conf_ut_fini" alt="" coords="241,309,364,336"/>
+</map>

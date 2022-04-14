@@ -1,0 +1,7 @@
+<map id="comp_remote_invoke" name="comp_remote_invoke">
+<area shape="rect" id="node2" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a66541d27e9326d29dab192e801ead423" title="expected_output" alt="" coords="224,5,343,32"/>
+<area shape="rect" id="node3" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#abee558610228f1e7c6f53680c0875e98" title="fid_get" alt="" coords="253,56,314,83"/>
+<area shape="rect" id="node4" href="$d6/d85/group__iscservice.html#ga6b15fb2986f99384e1b300f9b223d2b1" title="m0_isc_comp_register" alt="" coords="207,107,360,133"/>
+<area shape="rect" id="node5" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a2c9c60c8913d9b92f6290ebe07cfe0da" title="remote_invocation" alt="" coords="219,157,347,184"/>
+<area shape="rect" id="node6" href="$d6/d85/group__iscservice.html#gaccd2f20ff70f866b42e6321084afd8fa" title="m0_isc_comp_unregister" alt="" coords="200,208,367,235"/>
+</map>

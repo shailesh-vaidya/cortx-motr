@@ -1,0 +1,13 @@
+<map id="m0_rpc_reply_post" name="m0_rpc_reply_post">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga9b1e66f18cb4c6f6e3d0ddccfdd9204d" title="m0_rpc_item_size" alt="" coords="205,5,333,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga1a8e5edbc1b381ae3f506c2f33879028" title="m0_rpc_session_get\l_max_item_size" alt="" coords="197,57,340,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gab3904ada342561f647d6794770c8c531" title="m0_rpc_conn_is_rcv" alt="" coords="197,123,340,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="227,173,310,200"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="215,224,322,251"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#gaa8beed913080475991e2d54285538fac" title="m0_time" alt="" coords="400,249,472,276"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="217,325,320,352"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="193,376,345,403"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga7702ca5b4bf721c63fe0f3a982250493" title="m0_rpc_item_sm_init" alt="" coords="195,427,342,453"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga33ea1685d85d50b79065118d3497a3c1" title="m0_rpc_item_send_reply" alt="" coords="185,477,352,504"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="185,528,352,555"/>
+</map>

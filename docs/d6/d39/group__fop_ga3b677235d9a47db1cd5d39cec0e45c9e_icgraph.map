@@ -1,0 +1,14 @@
+<map id="m0_fop_name" name="m0_fop_name">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4655ca8fecad9c23d821eca74876cefb" title="m0t1fs_ios_cob_op" alt="" coords="355,87,489,113"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a65f948ee0b36c5623d5f075d4b4d18c1" title="m0t1fs_cob_getattr" alt="" coords="162,36,297,63"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="185,87,274,113"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="185,137,274,164"/>
+<area shape="rect" id="node6" href="$dc/d83/io__req__fop_8c.html#a06944f4e1411ca9ca0b268e72ed8f8b0" title="ioreq_cc_fop_release" alt="" coords="349,163,495,189"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga9bd7e793ec19730ad058d84a4cb9a5ce" title="m0_fop_get" alt="" coords="184,239,275,265"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gacd879a192974d7f0d92ee1601658d436" title="m0_fop_put" alt="" coords="184,289,275,316"/>
+<area shape="rect" id="node9" href="$d9/d51/cob__foms_8c.html#a0540efec5ae367dd727fd842135a6210" title="cob_fom_populate" alt="" coords="165,340,293,367"/>
+<area shape="rect" id="node10" href="$d9/d51/cob__foms_8c.html#a436b45604f1eba4458e8a0618f0bc238" title="cob_getattr_fom_tick" alt="" coords="157,391,301,417"/>
+<area shape="rect" id="node11" href="$d9/d51/cob__foms_8c.html#a248f4ce335db52ea21813c5dfc8af56c" title="cob_setattr_fom_tick" alt="" coords="157,441,301,468"/>
+<area shape="rect" id="node12" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="165,492,293,519"/>
+<area shape="rect" id="node13" href="$d5/d8c/group__reqh.html#ga68422463b149e333355cad87f123d92f" title="m0_reqh_fop_handle" alt="" coords="158,543,301,569"/>
+</map>

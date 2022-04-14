@@ -1,0 +1,10 @@
+<map id="dix_req_destroy" name="dix_req_destroy">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="193,5,292,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="185,56,300,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#ga906830b2831618928ca065ff958adf9f" title="idx_is_distributed" alt="" coords="181,107,304,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga616ae4fc923313ae62ed1e77c1f38a17" title="m0_dix_meta_req_fini" alt="" coords="168,157,317,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga02c23cf122e7c39544ed68e69dd877ad" title="m0_dix_req_fini" alt="" coords="186,208,299,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="365,233,435,260"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga01cc6212597795d785c0594ce96b1448" title="m0_cas_req_fini" alt="" coords="184,309,301,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="198,360,287,387"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="versioned_cursor_get_sync" name="versioned_cursor_get_sync">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a050c2bc470e26b865a3e3b7e7e4bf4d1" title="ctg_beop" alt="" coords="659,98,733,125"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gade3071230ab456a374ada1ee24fe06a5" title="m0_be_btree_cursor_get" alt="" coords="246,503,411,530"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#ae1a6c6ed02040e11b19fa57c398110d6" title="ctg_berc" alt="" coords="505,98,577,125"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="471,32,611,73"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#ab0df745d5ed537542d67c45b677a5772" title="ctg_kbuf_unpack" alt="" coords="480,149,601,175"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="663,275,729,302"/>
+<area shape="rect" id="node8" href="$d8/d50/ctg__store_8c.html#a0a150a88e3f3b81a14f629e4d392e153" title="ctg_vbuf_unpack" alt="" coords="480,301,601,327"/>
+<area shape="rect" id="node9" href="$d4/d44/group__cas.html#gafa5437e19f8747f74ff794fb436c60e8" title="m0_crv_tbs" alt="" coords="495,351,586,378"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="481,402,600,429"/>
+<area shape="rect" id="node11" href="$d8/d50/ctg__store_8c.html#a8f2e8b3ecb553d3a06fe121549f71ab9" title="versioned_cursor_next_sync" alt="" coords="235,250,423,277"/>
+</map>

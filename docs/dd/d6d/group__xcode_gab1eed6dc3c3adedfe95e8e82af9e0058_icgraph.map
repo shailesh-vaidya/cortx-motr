@@ -1,0 +1,18 @@
+<map id="m0_xcode_free_obj" name="m0_xcode_free_obj">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga214a676852502cf885527497b076f401" title="be_fmt_decoded_free" alt="" coords="200,5,347,32"/>
+<area shape="rect" id="node3" href="$de/d0d/dtm0_2ut_2main_8c.html#a34148981c6713f5e332c29a7383b5cfb" title="cas_xcode_test" alt="" coords="216,56,331,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="229,107,318,133"/>
+<area shape="rect" id="node5" href="$d0/dc4/group__conf__dfspec__preload.html#gab546b95a7656688b52ab24f92ec75661" title="m0_confx_free" alt="" coords="219,157,327,184"/>
+<area shape="rect" id="node6" href="$d1/d12/group__fol.html#ga26c8990137e340f898f0b92f144fba8c" title="m0_fol_frag_fini" alt="" coords="216,208,331,235"/>
+<area shape="rect" id="node7" href="$da/ddd/group___file_lock_internal.html#gae84f4e15c4026f643d130d25dde6d5d8" title="file_lock_resource_free" alt="" coords="195,259,351,285"/>
+<area shape="rect" id="node8" href="$de/d4a/group__m0ham.html#ga40067f460c2ddfff05a10070e617d187" title="xcode_read_as" alt="" coords="218,309,329,336"/>
+<area shape="rect" id="node9" href="$de/d4a/group__m0ham.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="441,335,491,361"/>
+<area shape="rect" id="node10" href="$de/dd4/ut_2fsync_8c.html#a6be5373d0e6b5986714e15ad7f1eb632" title="ut_fop_fini" alt="" coords="232,411,315,437"/>
+<area shape="rect" id="node11" href="$d0/ddf/group___r_w_lock_internal.html#ga88e9e8fb8a1da17e50ad517fae43a677" title="rwlockable_resource_free" alt="" coords="188,461,359,488"/>
+<area shape="rect" id="node12" href="$d4/d4e/group__stats__api.html#gab0980668c4a56472252afd006da909da" title="m0_stats_free" alt="" coords="221,512,326,539"/>
+<area shape="rect" id="node13" href="$d6/d0c/ut_2xcode_8c.html#a505beb28df9b5bf4d978abd082909cce" title="xcode_decode_test" alt="" coords="206,563,341,589"/>
+<area shape="rect" id="node14" href="$d6/d0c/ut_2xcode_8c.html#af0a58127149252a92a7e5721b537ea8a" title="xcode_cmp_test" alt="" coords="214,613,333,640"/>
+<area shape="rect" id="node15" href="$d6/d0c/ut_2xcode_8c.html#af809c4402cfcb7ce149bd78cd747edf4" title="literal" alt="" coords="247,664,300,691"/>
+<area shape="rect" id="node16" href="$d6/d0c/ut_2xcode_8c.html#a874939658f04f6f5884c6b4063c3f7c3" title="xcode_read_test" alt="" coords="407,689,525,716"/>
+<area shape="rect" id="node17" href="$d6/d0c/ut_2xcode_8c.html#a2ec3dcea2b87c009df0510dd52579df7" title="xcode_print_test" alt="" coords="214,765,333,792"/>
+</map>

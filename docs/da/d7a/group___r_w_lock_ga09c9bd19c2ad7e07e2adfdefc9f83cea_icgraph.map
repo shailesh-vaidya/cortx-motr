@@ -1,0 +1,6 @@
+<map id="m0_rm_rwlock_owner_init" name="m0_rm_rwlock_owner_init">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga7bf7023f8c2c25dfa47be730edf5b014" title="rlock_ctx_create" alt="" coords="231,5,349,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gabba8714965f4e31ba57d1087f358bb18" title="rm_ctx_init" alt="" coords="247,56,333,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#af26a166322d09a98b28c7fb532a46f6c" title="rwlock_owner_set" alt="" coords="227,107,353,133"/>
+<area shape="rect" id="node5" href="$da/dcf/wlock__helper_8c.html#aa067f990c2fa0a01b887f7d8f3db846d" title="wlock_ctx_create" alt="" coords="228,157,352,184"/>
+</map>

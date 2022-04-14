@@ -1,0 +1,8 @@
+<map id="m0_reqh_service_fini" name="m0_reqh_service_fini">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga16d33a96c5ce63994302945b2aa8b44d" title="m0_fom_domain_is_idle_for" alt="" coords="199,5,383,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="223,56,358,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="246,107,335,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="216,157,365,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="237,208,344,235"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="243,259,338,285"/>
+</map>

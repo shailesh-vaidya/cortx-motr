@@ -1,0 +1,5 @@
+<map id="m0_be_tx_fol_add" name="m0_be_tx_fol_add">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga82f74a53f6324090a418bbd5b4e9b0b9" title="be_tx_is_locked" alt="" coords="191,5,307,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga67ba841f556ee370ae1950e72fcd90ce" title="m0_be_tx_state" alt="" coords="191,56,306,83"/>
+<area shape="rect" id="node4" href="$d1/d12/group__fol.html#ga231dcbcea4a3b5aa0eeacab5700f6422" title="m0_fol_rec_encode" alt="" coords="181,107,316,133"/>
+</map>

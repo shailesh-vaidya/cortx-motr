@@ -1,0 +1,12 @@
+<map id="m0_be_ut_fmt_group_size_max" name="m0_be_ut_fmt_group_size_max">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#ga217a253d1b8ba93cbd1bac336d3c17b3" title="max" alt="" coords="269,5,315,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#gadbb2dee8deb3c443e48a38711aa3c38a" title="max64u" alt="" coords="258,56,326,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="255,107,329,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga6dceb57ee960f23e0b3b02887ef23ef9" title="m0_be_fmt_group_init" alt="" coords="217,157,367,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga13490232072ff62f76b4d74b767bfb78" title="m0_be_fmt_group_fini" alt="" coords="435,208,585,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="633,233,703,260"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga37e01f44a98ddf2bac76b7a67b80ee51" title="m0_be_fmt_group_tx_add" alt="" coords="206,309,378,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga562df9197c5014262a40ec1fd09a3165" title="m0_be_fmt_group_reg_add" alt="" coords="203,360,381,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaa1835687a717be4b2018067bd8e07be5" title="m0_be_fmt_group_size_max" alt="" coords="197,411,387,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gaf0e96466ca2ae7f914f514fa18f3cdcd" title="m0_be_fmt_group_size" alt="" coords="213,461,371,488"/>
+</map>

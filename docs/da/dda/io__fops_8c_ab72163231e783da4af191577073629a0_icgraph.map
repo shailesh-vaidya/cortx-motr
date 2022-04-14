@@ -1,0 +1,6 @@
+<map id="m0_io_fop_size_get" name="m0_io_fop_size_get">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0bd14305f0c29b97a6a18daddfb9c1e1" title="bulk_buffer_add" alt="" coords="193,5,307,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="356,41,488,82"/>
+<area shape="rect" id="node4" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a5a0bd22e448f85edf59192ea3e3cd2c0" title="target_ioreq_test" alt="" coords="536,77,655,104"/>
+<area shape="rect" id="node5" href="$da/dda/io__fops_8c.html#aaf85379e89decd3277dee9b6aae5ebad" title="io_fop_coalesce" alt="" coords="192,157,308,184"/>
+</map>

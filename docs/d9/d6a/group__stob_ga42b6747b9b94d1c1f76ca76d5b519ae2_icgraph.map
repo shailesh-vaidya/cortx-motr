@@ -1,0 +1,19 @@
+<map id="m0_stob_io_fini" name="m0_stob_io_fini">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga32ca638b57517b6ce843ea6c5b17c214" title="frame_fini" alt="" coords="217,5,296,32"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga4fa2916d3284be0f22e81101c6e8c722" title="cp_io" alt="" coords="230,56,283,83"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga5a07858e5b757a8dd106e85801a14807" title="m0_sns_cm_cp_io_wait" alt="" coords="175,107,338,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga0959946145498a027814c7372a8e9b56" title="be_io_part_fini" alt="" coords="203,157,310,184"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga90de8326ff4d4b3337d372237937c6b0" title="m0_stob_io_bufvec_launch" alt="" coords="167,208,347,235"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga37595850eb37a790e76bb0e904014c52" title="stob_io_create" alt="" coords="203,259,310,285"/>
+<area shape="rect" id="node8" href="$d9/dc2/group__io__foms.html#gad18e8985698004d558033fd547335f0f" title="stob_io_destroy" alt="" coords="199,309,314,336"/>
+<area shape="rect" id="node9" href="$d6/d85/group__iscservice.html#ga3ec0b1ec779b038b8873c31802a24fd8" title="m0_isc_io_fini" alt="" coords="204,360,309,387"/>
+<area shape="rect" id="node10" href="$dc/da4/group__stobio.html#ga2e257fd91a8f2f91d6279522e6cf74db" title="stob_read_fom_tick" alt="" coords="189,411,325,437"/>
+<area shape="rect" id="node11" href="$dc/da4/group__stobio.html#ga3e35f5c39aef5abc9d9e5af08436f313" title="stob_write_fom_tick" alt="" coords="187,461,326,488"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#gae31049002afea0c665ebca0ace8a7c32" title="stob_ad_io_fini" alt="" coords="202,512,311,539"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga343bcedd9354c54766ac26cd3420370e" title="test_write" alt="" coords="217,563,296,589"/>
+<area shape="rect" id="node14" href="$d9/d6a/group__stob.html#ga74f11b9efa1202e9e697f9ea48517a2a" title="test_read" alt="" coords="219,613,295,640"/>
+<area shape="rect" id="node15" href="$d1/dff/group__stobperf.html#ga366aad26a78c1c1e6ecc814ca18b4b77" title="stob_perf_io_fini" alt="" coords="198,664,315,691"/>
+<area shape="rect" id="node16" href="$dc/da5/stobio_8c.html#a80e487cebd804e02ae474f7c84588f05" title="stobio_write" alt="" coords="211,715,303,741"/>
+<area shape="rect" id="node17" href="$dc/da5/stobio_8c.html#ac5b6b4ca7fbd33831096d07aaed685d5" title="stobio_read" alt="" coords="212,765,301,792"/>
+<area shape="rect" id="node18" href="$dc/da5/stobio_8c.html#a3e177352944ae4261504cb7fad0703ed" title="test_single_ivec" alt="" coords="199,816,315,843"/>
+</map>

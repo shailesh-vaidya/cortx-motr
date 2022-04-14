@@ -1,0 +1,7 @@
+<map id="borrow_fop_validate" name="borrow_fop_validate">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="207,5,332,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaf3f28998fc08d06390489ffb18954502" title="m0_rm_credit_decode" alt="" coords="194,56,345,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="207,107,332,133"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#a0d96f181e911b8592b6dbd4812f6538c" title="wait_try_flags_validate" alt="" coords="192,157,347,184"/>
+<area shape="rect" id="node6" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="222,208,317,235"/>
+</map>

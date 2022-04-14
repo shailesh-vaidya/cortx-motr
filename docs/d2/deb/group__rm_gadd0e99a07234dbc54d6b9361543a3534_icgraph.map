@@ -1,0 +1,9 @@
+<map id="owner_invariant" name="owner_invariant">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga029938b1c5e2aa4726d08acf8df102a3" title="owner_finalisation\l_check" alt="" coords="183,5,309,47"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga66f0aa542468273007b2324acc60bd86" title="m0_rm_owner_init" alt="" coords="182,71,310,98"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gab20a95e1e5edafac23a81538da1fcebc" title="m0_rm_owner_selfadd" alt="" coords="169,122,323,149"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga8a6e2bbb792f8a5a7bcd2e99411aea61" title="m0_rm_owner_fini" alt="" coords="182,173,310,199"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga32d92744c352c47cffa79d21b5247de0" title="m0_rm_borrow_commit" alt="" coords="167,223,325,250"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga3897c6a6a3e5a68d0dbdccbc173c13d2" title="m0_rm_revoke_commit" alt="" coords="167,274,325,301"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gae56190c5be13ee53999a7e13243497be" title="incoming_complete" alt="" coords="179,325,313,351"/>
+</map>

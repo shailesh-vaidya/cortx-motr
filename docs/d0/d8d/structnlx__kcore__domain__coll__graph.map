@@ -1,0 +1,6 @@
+<map id="nlx_kcore_domain" name="nlx_kcore_domain">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="5,145,88,223"/>
+<area shape="rect" id="node4" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="255,145,310,223"/>
+<area shape="rect" id="node5" href="$d8/df5/structnlx__kcore__ops.html" title="{nlx_kcore_ops\n|+ ko_buf_msg_recv\l|}" alt="" coords="334,145,471,223"/>
+<area shape="rect" id="node6" href="$d4/d08/structnlx__core__kmem__loc.html" title="{nlx_core_kmem_loc\n||}" alt="" coords="496,145,635,223"/>
+</map>

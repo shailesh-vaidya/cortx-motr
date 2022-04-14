@@ -1,0 +1,8 @@
+<map id="m0_long_read_lock" name="m0_long_read_lock">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga3df1967fbbdc194f9bd42beaf290588a" title="m0_dix_cm_cp_recv_wait" alt="" coords="188,5,361,32"/>
+<area shape="rect" id="node3" href="$d0/d60/cas_2service_8c.html#a5f0dec0408898b2113293d6d3cc52321" title="cas_fom_tick" alt="" coords="433,81,533,108"/>
+<area shape="rect" id="node4" href="$de/d70/group___d_i_x_c_m.html#ga32344a10bf63b4657d1261caaa1827cd" title="dix_cm_iter_fom_tick" alt="" coords="409,132,556,159"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga32b196b8cef71f47f3fe5e814dfc68eb" title="m0_long_lock" alt="" coords="223,107,326,133"/>
+<area shape="rect" id="node6" href="$d2/d76/fop_2ub_2ub_8c.html#aca29e71df36730a142ed2d38c88773f5" title="long_lock_tick" alt="" coords="222,208,327,235"/>
+<area shape="rect" id="node7" href="$d8/d57/rdwr__test__bench_8c.html#a26c665898d9cb19b9fce2c325dec4c92" title="fom_rdwr_tick" alt="" coords="223,259,327,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="request_fom_create" name="request_fom_create">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga491fc9643f64ea3438f3ed7224c41116" title="borrow_fom_create" alt="" coords="191,5,324,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gad76ae45f5d0c5cdd960798efc8ec317f" title="revoke_fom_create" alt="" coords="191,56,324,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga8457450c96cef317bee402b940f3180f" title="cancel_fom_create" alt="" coords="191,107,323,133"/>
+</map>

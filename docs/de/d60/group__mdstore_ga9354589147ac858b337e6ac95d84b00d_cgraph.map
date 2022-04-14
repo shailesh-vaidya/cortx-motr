@@ -1,0 +1,18 @@
+<map id="m0_mdstore_unlink" name="m0_mdstore_unlink">
+<area shape="rect" id="node2" href="$db/d17/group__adt.html#ga861390644cc4c945e77be1e913d11d79" title="m0_bitstring_len_get" alt="" coords="395,105,537,132"/>
+<area shape="rect" id="node3" href="$db/d17/group__adt.html#gaf9a30bb8ae3e8edc18b85d323914f173" title="m0_bitstring_buf_get" alt="" coords="395,156,537,183"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga1b53d861df8dc089fb08caf0b88a289c" title="m0_fid_cmp" alt="" coords="611,789,705,816"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="226,865,309,892"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="193,916,342,943"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga3e56b98f8dbe848e8bf185b2d3484f7c" title="m0_cob_nskey_cmp" alt="" coords="395,764,537,791"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga0dbb535d77d4a1e711e145381603bfac" title="m0_cob_oikey_make" alt="" coords="585,409,731,436"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="613,587,703,613"/>
+<area shape="rect" id="node10" href="$d3/d8e/group__cob.html#gac0403dde99c1bb3e817b017a137a1310" title="m0_cob_locate" alt="" coords="411,308,521,335"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="625,308,691,335"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="623,688,693,715"/>
+<area shape="rect" id="node13" href="$d3/d8e/group__cob.html#ga17a0d114e6d471a34148a75ebfa512dc" title="m0_cob_update" alt="" coords="409,561,523,588"/>
+<area shape="rect" id="node14" href="$d3/d8e/group__cob.html#gafd198ff69d5a514c4eb4b783ec745159" title="m0_cob_name_del" alt="" coords="401,511,531,537"/>
+<area shape="rect" id="node15" href="$d3/d8e/group__cob.html#gaea5beed5f07d89eefb198a547fa4fcd5" title="m0_cob_delete" alt="" coords="212,460,323,487"/>
+<area shape="rect" id="node16" href="$d8/d35/mdstore_2mdstore_8c.html#aec8111ff227f93e82bc683054d7fc525" title="m0_mdstore_dir_empty\l_check" alt="" coords="188,129,347,170"/>
+<area shape="rect" id="node17" href="$d8/d35/mdstore_2mdstore_8c.html#a91e37bb1031a62b2e5d3bd2d854269fa" title="m0_mdstore_dir_nlink\l_update" alt="" coords="193,246,342,287"/>
+</map>

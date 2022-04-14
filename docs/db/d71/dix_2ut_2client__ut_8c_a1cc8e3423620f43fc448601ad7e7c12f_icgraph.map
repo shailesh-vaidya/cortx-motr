@@ -1,0 +1,6 @@
+<map id="dix_cctg_records_del" name="dix_cctg_records_del">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#aafffa3a0bc1af92994ffdb6d20f826d5" title="dix_records_erase" alt="" coords="223,5,351,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#adb57c3a6d08d5820814332b01c4d6cf1" title="dix_dgmode_disks_prep" alt="" coords="205,56,368,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#af705c2f73c301c3cfb78261d672fce61" title="dix_dgmode_disks_unprep" alt="" coords="199,107,375,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#af242a3f073a03347c301ae620459292d" title="dix_del_dgmode" alt="" coords="229,157,345,184"/>
+</map>

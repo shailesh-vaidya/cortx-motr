@@ -1,0 +1,23 @@
+<map id="m0_xcode_encdec" name="m0_xcode_encdec">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga341d2d618d97b3497c9d655c117040c2" title="header_read" alt="" coords="233,5,327,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga049d6f3e0dbf7b9320670fcb6bdb9151" title="m0_fop_encdec" alt="" coords="223,56,337,83"/>
+<area shape="rect" id="node4" href="$d1/d12/group__fol.html#gacb62a04f08feba51272117f259b6b48c" title="fol_rec_encdec" alt="" coords="225,157,335,184"/>
+<area shape="rect" id="node5" href="$d1/d12/group__fol.html#ga5483f5fe911370f88375da913a867502" title="fol_record_pack" alt="" coords="434,120,549,147"/>
+<area shape="rect" id="node6" href="$d1/d12/group__fol.html#ga240300d5ac437dd9b6b354a94848807e" title="m0_fol_rec_decode" alt="" coords="424,183,559,209"/>
+<area shape="rect" id="node7" href="$dc/d8b/filter__eval_8c.html#a4da6cc5e1095822f4dea192b354aef1d" title="flt_str_ops" alt="" coords="239,259,321,285"/>
+<area shape="rect" id="node8" href="$da/ddd/group___file_lock_internal.html#gaa57531f8f571425f6c2dc4eda584fcd2" title="file_lock_encdec" alt="" coords="221,309,339,336"/>
+<area shape="rect" id="node9" href="$da/ddd/group___file_lock_internal.html#ga556d30afc584482eb4c4c1d0ac4ef24a" title="file_lock_cr_encdec" alt="" coords="211,360,349,387"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#ga9963c546f67a16058c52e3e7eab7135c" title="pk_encdec" alt="" coords="237,411,323,437"/>
+<area shape="rect" id="node11" href="$d0/ddf/group___r_w_lock_internal.html#ga36661dd5e8dd6fa0a588bb4a5eaac4ec" title="rwlockable_encode" alt="" coords="213,461,347,488"/>
+<area shape="rect" id="node12" href="$d0/ddf/group___r_w_lock_internal.html#gafee82366a10adcb4bb4e22941bad0c2a" title="rwlockable_decode" alt="" coords="213,512,347,539"/>
+<area shape="rect" id="node13" href="$d0/ddf/group___r_w_lock_internal.html#ga9f3f0cca68d42c08ee63a43f7a4c40f6" title="rwlock_cr_encode" alt="" coords="217,563,343,589"/>
+<area shape="rect" id="node14" href="$d0/ddf/group___r_w_lock_internal.html#gad063b244ef6b237b6ff023515e059b7f" title="rwlock_cr_decode" alt="" coords="217,613,343,640"/>
+<area shape="rect" id="node15" href="$d5/d68/rings_8c.html#aafcc57bad6fa497597bf5fb7cb6dd435" title="rings_credit_encdec" alt="" coords="211,664,349,691"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#ga4033ee660071359dff82fc72a1a62489" title="m0_rpc_item_header1\l_encdec" alt="" coords="205,715,355,757"/>
+<area shape="rect" id="node17" href="$db/de9/group__rpc.html#gab303cccb758aa74c45368c8c87b043d6" title="m0_rpc_item_header2\l_encdec" alt="" coords="205,781,355,822"/>
+<area shape="rect" id="node18" href="$db/de9/group__rpc.html#ga49dbb7a88c32b1d8fee1b35240c9bfd2" title="m0_rpc_item_footer\l_encdec" alt="" coords="211,846,349,887"/>
+<area shape="rect" id="node19" href="$db/de9/group__rpc.html#gae0536813ea2de6923a82ce44463b60f9" title="packet_header_encdec" alt="" coords="202,912,358,939"/>
+<area shape="rect" id="node20" href="$db/de9/group__rpc.html#ga1f3fdda70ec43a0bd95ab8e9531d3a74" title="packet_footer_encdec" alt="" coords="205,963,355,989"/>
+<area shape="rect" id="node21" href="$dd/d6d/group__xcode.html#ga5a25acd32d709d7f330cecebb563217e" title="m0_xcode_obj_enc_to_buf" alt="" coords="191,1013,369,1040"/>
+<area shape="rect" id="node22" href="$dd/d6d/group__xcode.html#ga15975ac0389baacc96abf5cb25c61d6d" title="m0_xcode_obj_dec_from_buf" alt="" coords="184,1064,376,1091"/>
+</map>

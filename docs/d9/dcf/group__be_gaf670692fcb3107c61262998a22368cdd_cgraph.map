@@ -1,0 +1,6 @@
+<map id="be_engine_tx_opening_peek" name="be_engine_tx_opening_peek">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaceb81dff92372aff7f1189675a09118f" title="be_engine_is_locked" alt="" coords="453,25,596,52"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0005440568eec2ad81b9c2912a078704" title="be_engine_tx_peek" alt="" coords="255,25,390,52"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga744d5f969f8ac1d4d7032c75ba87ac4f" title="m0_be_tx__is_exclusive" alt="" coords="240,76,405,103"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gac62df55090ab87eea4084e9f794a129a" title="is_engine_at_stopped\l_or_done" alt="" coords="249,127,397,169"/>
+</map>

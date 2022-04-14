@@ -1,0 +1,12 @@
+<map id="hsm_prio2tier" name="hsm_prio2tier">
+<area shape="rect" id="node2" href="$d0/d8c/m0hsm__api_8c.html#a3049d01a551f86777636570d93d60c63" title="print_layer" alt="" coords="187,5,270,32"/>
+<area shape="rect" id="node3" href="$d0/d8c/m0hsm__api_8c.html#aec3a859230102f940af7454b49d49f53" title="layout_top_prio" alt="" coords="173,56,284,83"/>
+<area shape="rect" id="node4" href="$d2/d5a/m0hsm__api_8h.html#aa834e195ccfc48206f5722841317122e" title="m0hsm_set_write_tier" alt="" coords="153,107,304,133"/>
+<area shape="rect" id="node5" href="$d0/d8c/m0hsm__api_8c.html#a66eef0a44beaf934e6c3ce1031c519c4" title="top_layer_add_read\l_extent" alt="" coords="161,158,296,199"/>
+<area shape="rect" id="node6" href="$d0/d8c/m0hsm__api_8c.html#a8f8d324f33b8c68a32b0c2831da8c2f0" title="check_top_layer_writable" alt="" coords="352,224,521,251"/>
+<area shape="rect" id="node7" href="$d0/d8c/m0hsm__api_8c.html#a44779e6e167de28ec3e9b5f7193377eb" title="release_cb" alt="" coords="569,275,655,301"/>
+<area shape="rect" id="node8" href="$d0/d8c/m0hsm__api_8c.html#a3d0e2360f830e649ebd32bc8f11410b2" title="match_layer_foreach" alt="" coords="157,325,300,352"/>
+<area shape="rect" id="node9" href="$d0/d8c/m0hsm__api_8c.html#a6fc7807b9bf4e86666c1100935800000" title="check_min_gen_exists" alt="" coords="359,325,514,352"/>
+<area shape="rect" id="node10" href="$d0/d8c/m0hsm__api_8c.html#a5ace4d4cddf286ef66cf975cc6d2e426" title="stage_cb" alt="" coords="191,427,266,453"/>
+<area shape="rect" id="node11" href="$d0/d8c/m0hsm__api_8c.html#a58c92f7c15ea2788c59453a91c7488c7" title="archive_cb" alt="" coords="186,477,271,504"/>
+</map>

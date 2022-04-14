@@ -1,0 +1,13 @@
+<map id="net_test_len_accumulate" name="net_test_len_accumulate">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga6a075b97bcaef33ac590589aa48a86e1" title="cmd_status_data_serialize" alt="" coords="651,320,828,346"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#gab2242dd1ab3578add7ab66fff9bde8bc" title="cmd_serialize" alt="" coords="897,421,999,448"/>
+<area shape="rect" id="node4" href="$df/d38/group___net_test_network_internals.html#gae7c045c09f48191f91e1c1cbbabb0070" title="network_bd_serialize" alt="" coords="438,193,582,220"/>
+<area shape="rect" id="node5" href="$de/d26/group___net_test_network_d_f_s.html#gae34773d318d4e5ae959892e2b7d0f819" title="m0_net_test_network\l_bd_serialize" alt="" coords="666,76,813,118"/>
+<area shape="rect" id="node6" href="$dd/da5/group___net_test_bulk_node_internals.html#ga7b55c3dc7330efc342d6e787c4124592" title="buf_desc_deserialize" alt="" coords="876,54,1020,81"/>
+<area shape="rect" id="node7" href="$dd/da5/group___net_test_bulk_node_internals.html#ga43e99bf85dcedce873e083fcf6411265" title="client_bds_serialize2" alt="" coords="877,124,1019,150"/>
+<area shape="rect" id="node8" href="$d1/d19/group___net_test_serialize_d_f_s.html#ga5e15fafa5e8e8ee832012c09df7312ef" title="m0_net_test_serialize" alt="" coords="220,370,369,397"/>
+<area shape="rect" id="node9" href="$dd/d18/group___net_test_s_list_internals.html#ga5cd622f2f9e69dd3d1493b534a21c270" title="slist_encode" alt="" coords="463,497,557,524"/>
+<area shape="rect" id="node10" href="$dd/d18/group___net_test_s_list_internals.html#ga18e28509787752a00607afe0f91ce1a2" title="slist_decode" alt="" coords="463,548,557,574"/>
+<area shape="rect" id="node11" href="$d2/de9/group___net_test_stats_d_f_s.html#gab89f2449728f83c984c004050c5a2b1b" title="m0_net_test_stats_serialize" alt="" coords="417,294,603,321"/>
+<area shape="rect" id="node12" href="$d0/d1d/group___net_test_str_d_f_s.html#gabc3f2e4405739755b450911c6996596a" title="m0_net_test_str_serialize" alt="" coords="425,446,595,473"/>
+</map>

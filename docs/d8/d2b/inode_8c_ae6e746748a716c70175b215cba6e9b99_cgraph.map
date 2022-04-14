@@ -1,0 +1,11 @@
+<map id="m0t1fs_destroy_inode" name="m0t1fs_destroy_inode">
+<area shape="rect" id="node2" href="$d8/d2b/inode_8c.html#afdb65bd50aec26605e0a85b38c4e8614" title="m0t1fs_inode_fid" alt="" coords="609,15,731,42"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="234,344,337,371"/>
+<area shape="rect" id="node4" href="$d8/d2b/inode_8c.html#a85eb63519beb3934ec0e89900886407c" title="m0t1fs_inode_is_root" alt="" coords="415,40,561,67"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="431,103,545,130"/>
+<area shape="rect" id="node6" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="204,395,367,422"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="424,179,552,206"/>
+<area shape="rect" id="node8" href="$d8/d2b/inode_8c.html#a4c9ec66de9973dd53e298aa8f2ff1fae" title="m0t1fs_file_lock_fini" alt="" coords="215,243,356,270"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="443,243,533,270"/>
+<area shape="rect" id="node10" href="$d8/d2b/inode_8c.html#a5181ccb4aec608538cdf1ee35294cca4" title="m0t1fs_inode_fini" alt="" coords="223,142,347,168"/>
+</map>

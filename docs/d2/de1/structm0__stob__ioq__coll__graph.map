@@ -1,0 +1,9 @@
+<map id="m0_stob_ioq" name="m0_stob_ioq">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="479,300,561,377"/>
+<area shape="rect" id="node10" href="$d5/db1/structm0__timer__locality.html" title="{m0_timer_locality\n||}" alt="" coords="454,440,578,517"/>
+<area shape="rect" id="node3" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="417,160,500,237"/>
+<area shape="rect" id="node7" href="$d3/db4/structm0__timer.html" title="{m0_timer\n||}" alt="" coords="249,300,325,377"/>
+<area shape="rect" id="node4" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="237,5,347,83"/>
+<area shape="rect" id="node6" href="$d0/db4/structm0__queue.html" title="{m0_queue\n||}" alt="" coords="763,440,845,517"/>
+<area shape="rect" id="node9" href="$d7/d9d/structm0__atomic64.html" title="{m0_atomic64\n||}" alt="" coords="870,440,970,517"/>
+</map>

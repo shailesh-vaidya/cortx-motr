@@ -1,0 +1,7 @@
+<map id="ut_test_obj_op_obj_invariant" name="ut_test_obj_op_obj_invariant">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="199,5,319,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="184,56,335,83"/>
+<area shape="rect" id="node4" href="$dc/d86/motr_2obj_8c.html#a6cebe3c6b94e72d76430e1abbf902d68" title="obj_op_obj_invariant" alt="" coords="189,107,329,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="208,157,311,184"/>
+<area shape="rect" id="node6" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="199,208,319,235"/>
+</map>

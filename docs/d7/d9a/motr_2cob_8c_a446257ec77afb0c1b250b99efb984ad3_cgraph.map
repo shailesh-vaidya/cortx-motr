@@ -1,0 +1,14 @@
+<map id="cob_mds_rio_replied" name="cob_mds_rio_replied">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a981f6a546bf602e88c3910b6575c7f83" title="rpc_item_to_cr" alt="" coords="214,46,322,72"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="389,20,529,47"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="415,391,504,418"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="203,147,333,174"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="211,198,325,224"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="219,248,317,275"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#gae488641b26a437ca67589340a9f9778f" title="m0_reqh_service_ctx\l_from_session" alt="" coords="195,300,341,341"/>
+<area shape="rect" id="node9" href="$db/dc2/sync_8c.html#abdca1f64068373257e381c77d169a5b4" title="sync_record_update" alt="" coords="199,366,337,392"/>
+<area shape="rect" id="node10" href="$d7/d9a/motr_2cob_8c.html#a74f1172ffb16ce95e1c79350aad1b106" title="cob_ast_complete_cr" alt="" coords="195,416,341,443"/>
+<area shape="rect" id="node11" href="$d7/d9a/motr_2cob_8c.html#a15d088e274492fd38f870b833d9685f8" title="cob_ast_ios_io_send" alt="" coords="196,467,340,494"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="207,518,329,544"/>
+<area shape="rect" id="node13" href="$d7/d9a/motr_2cob_8c.html#ad782f7073186cbb503bc9de55d348ee2" title="cob_ast_fail_cr" alt="" coords="213,568,323,595"/>
+</map>

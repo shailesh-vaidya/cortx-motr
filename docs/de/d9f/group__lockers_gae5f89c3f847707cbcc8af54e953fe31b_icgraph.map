@@ -1,0 +1,7 @@
+<map id="key_is_valid" name="key_is_valid">
+<area shape="rect" id="node2" href="$de/d9f/group__lockers.html#ga911cdb0046123aff8e52aa0b67170853" title="m0_lockers_free" alt="" coords="163,5,282,32"/>
+<area shape="rect" id="node3" href="$de/d9f/group__lockers.html#ga38e2ad3e83f809715ffc7fba502a29c3" title="m0_lockers_set" alt="" coords="165,56,280,83"/>
+<area shape="rect" id="node4" href="$de/d9f/group__lockers.html#gab5579f67e47b7e3ae23752a75d65338f" title="m0_lockers_get" alt="" coords="165,107,280,133"/>
+<area shape="rect" id="node5" href="$de/d9f/group__lockers.html#ga06c3a3d3c7b73ad3806708d6b87834d2" title="m0_lockers_clear" alt="" coords="161,157,285,184"/>
+<area shape="rect" id="node6" href="$de/d9f/group__lockers.html#ga9ebe0f9bea80b580fa632bd3a97f847b" title="m0_lockers_is_empty" alt="" coords="148,208,297,235"/>
+</map>

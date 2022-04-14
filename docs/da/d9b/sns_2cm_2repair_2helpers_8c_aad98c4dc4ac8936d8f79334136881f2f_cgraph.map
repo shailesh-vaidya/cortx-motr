@@ -1,0 +1,22 @@
+<map id="repair_ag_in_cp_units" name="repair_ag_in_cp_units">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga96797cf9205c1d498373afebc5e0e00c" title="agid2fid" alt="" coords="263,5,330,32"/>
+<area shape="rect" id="node3" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga81ad856a1a664f7a5a8d94bd2b97f819" title="agid2group" alt="" coords="254,56,339,83"/>
+<area shape="rect" id="node4" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="461,111,585,137"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="241,411,352,437"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="485,385,561,412"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga138fca034c6d402e4ba7b0402082df16" title="m0_sns_cm_ag_size" alt="" coords="224,461,369,488"/>
+<area shape="rect" id="node8" href="$d7/daf/group___s_n_s_c_m.html#ga391cd128c66b57c080dfa925f6ddb257" title="m0_sns_cm_unit2cobfid" alt="" coords="442,164,605,191"/>
+<area shape="rect" id="node9" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="208,208,385,235"/>
+<area shape="rect" id="node10" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="447,221,600,248"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="440,284,607,311"/>
+<area shape="rect" id="node12" href="$d7/daf/group___s_n_s_c_m.html#ga91a4495cf99b20b066a00e2685b32691" title="m0_sns_cm_is_cob_repaired" alt="" coords="201,512,392,539"/>
+<area shape="rect" id="node13" href="$d7/d0c/parity__repair_8c.html#a696d145f546f789bf2aa2cab33594e73" title="m0_sns_repair_spare_map" alt="" coords="207,563,386,589"/>
+<area shape="rect" id="node14" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="241,613,352,640"/>
+<area shape="rect" id="node15" href="$d7/daf/group___s_n_s_c_m.html#ga75dd9cb423344b46e6125b5487d68196" title="m0_sns_cm_is_local_cob" alt="" coords="211,715,383,741"/>
+<area shape="rect" id="node16" href="$d7/daf/group___s_n_s_c_m.html#gaf889573a63d8a59a530fa3398ca73de3" title="m0_sns_cm_tgt_ep" alt="" coords="455,664,591,691"/>
+<area shape="rect" id="node17" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="465,740,582,767"/>
+<area shape="rect" id="node18" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="241,816,352,843"/>
+<area shape="rect" id="node19" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="241,867,352,893"/>
+<area shape="rect" id="node20" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="252,917,341,944"/>
+<area shape="rect" id="node21" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="263,968,330,995"/>
+</map>

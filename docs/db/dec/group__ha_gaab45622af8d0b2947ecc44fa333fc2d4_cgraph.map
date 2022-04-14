@@ -1,0 +1,11 @@
+<map id="ha_link_wait" name="ha_link_wait">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="173,5,272,32"/>
+<area shape="rect" id="node3" href="$d1/dc0/group__crate__utils.html#gabb1188ce2b2c11467b2301f7eb93030e" title="check" alt="" coords="194,56,251,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="155,107,290,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="156,157,289,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga1f5c56a31c22ef15cf664300be538adc" title="m0_ha_link_chan" alt="" coords="161,208,284,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="148,259,297,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="158,309,287,336"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="155,360,290,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="173,411,272,437"/>
+</map>

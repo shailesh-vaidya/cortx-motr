@@ -1,0 +1,7 @@
+<map id="buf_del" name="buf_del">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gafea137fe2248694702f66bd158c45022" title="buf_ma" alt="" coords="259,5,324,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="240,56,343,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga69b566f47f16edf4094db7e7794ddac7" title="ma_invariant" alt="" coords="243,157,339,184"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gaca062f63e8a27154bb6e046504692bc9" title="buf_invariant" alt="" coords="391,157,487,184"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga901a7c7ecafb57cbf6885b57b9272e34" title="buf_done" alt="" coords="117,107,192,133"/>
+</map>

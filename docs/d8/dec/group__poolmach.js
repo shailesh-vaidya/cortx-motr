@@ -1,0 +1,105 @@
+var group__poolmach =
+[
+    [ "poolmach_equeue_link", "d7/d6a/structpoolmach__equeue__link.html", [
+      [ "pel_event", "d7/d6a/structpoolmach__equeue__link.html#ac4745954bb3b0e24a529825f8846cec9", null ],
+      [ "pel_linkage", "d7/d6a/structpoolmach__equeue__link.html#a7484efa4f5a171224db3ed4d455cd247", null ],
+      [ "pel_magic", "d7/d6a/structpoolmach__equeue__link.html#a4b6e4f5cd7f56235333d21938a514a19", null ]
+    ] ],
+    [ "m0_poolmach_state", "d4/d47/structm0__poolmach__state.html", [
+      [ "pst_conf_exp", "d4/d47/structm0__poolmach__state.html#ac69d08dee9ecf15694991db7b80dddbc", null ],
+      [ "pst_conf_ready", "d4/d47/structm0__poolmach__state.html#a4f54fc260b6e6c329ccb537fe18cea71", null ],
+      [ "pst_devices_array", "d4/d47/structm0__poolmach__state.html#ab9e481e184ed704a8e922c7c0cbec74c", null ],
+      [ "pst_event_queue", "d4/d47/structm0__poolmach__state.html#a41cbc41eafca41f8ab06a7ee73c732a6", null ],
+      [ "pst_events_list", "d4/d47/structm0__poolmach__state.html#a9162a0df795fd0f7f2dd89525f9949f2", null ],
+      [ "pst_max_device_failures", "d4/d47/structm0__poolmach__state.html#a78dd8c2a11a7e4933f83abe6c868af3e", null ],
+      [ "pst_max_node_failures", "d4/d47/structm0__poolmach__state.html#a769e1426b861783e8ad4784651ed392e", null ],
+      [ "pst_nodes_array", "d4/d47/structm0__poolmach__state.html#ac592b7ba41714cccdf501506f228e31e", null ],
+      [ "pst_nr_devices", "d4/d47/structm0__poolmach__state.html#aea37acfa9def91aa11d952ccc9cf1653", null ],
+      [ "pst_nr_failures", "d4/d47/structm0__poolmach__state.html#a3f49577c24c942132eb91cea4aace581", null ],
+      [ "pst_nr_nodes", "d4/d47/structm0__poolmach__state.html#a68d3b39af97fc9a2fc5ecbd9bd9a74c7", null ],
+      [ "pst_nr_spares", "d4/d47/structm0__poolmach__state.html#a5d8bdbdf235b51ebfdbdd991e6e070a9", null ],
+      [ "pst_spare_usage_array", "d4/d47/structm0__poolmach__state.html#aa8154635d06c96693672edfda2c3eb84", null ],
+      [ "pst_su_initialised", "d4/d47/structm0__poolmach__state.html#a008a0bbd5714e2add116cdcb65731e13", null ]
+    ] ],
+    [ "m0_poolmach", "dc/dc2/structm0__poolmach.html", [
+      [ "pm_is_initialised", "dc/dc2/structm0__poolmach.html#af92c8e8055643204e6badab59f124800", null ],
+      [ "pm_lock", "dc/dc2/structm0__poolmach.html#a27b9e234f36228217996dd2396e6e69b", null ],
+      [ "pm_pver", "dc/dc2/structm0__poolmach.html#a5da4006d471a40325742c4ddad228dd6", null ],
+      [ "pm_state", "dc/dc2/structm0__poolmach.html#a83437124cd9edd9e9afad870662134d9", null ]
+    ] ],
+    [ "m0_poolmach_event", "d1/df3/structm0__poolmach__event.html", [
+      [ "M0_XCA_FENUM", "d1/df3/structm0__poolmach__event.html#a8ea7ec07540cb482b3a17fa5196de11e", null ],
+      [ "pe_index", "d1/df3/structm0__poolmach__event.html#ac54255694a2e5230268fcef292ae4aea", null ],
+      [ "pe_state", "d1/df3/structm0__poolmach__event.html#a53369ba8aa161393511a382b138e5e21", null ]
+    ] ],
+    [ "m0_poolmach_event_link", "d7/dd8/structm0__poolmach__event__link.html", [
+      [ "pel_event", "d7/dd8/structm0__poolmach__event__link.html#ac4745954bb3b0e24a529825f8846cec9", null ],
+      [ "pel_linkage", "d7/dd8/structm0__poolmach__event__link.html#a7484efa4f5a171224db3ed4d455cd247", null ],
+      [ "pel_magic", "d7/dd8/structm0__poolmach__event__link.html#a4b6e4f5cd7f56235333d21938a514a19", null ]
+    ] ],
+    [ "POOL_TRACE_LEVEL", "d8/dec/group__poolmach.html#ga1b526cfa2cbef45c58745eac878a341b", [
+      [ "POOL_PM_SPARE_SLOT_UNUSED", "d8/dec/group__poolmach.html#ggae1233f8b24b6ecc9270e616c47b54099a49eeba622fb63a129efa1ed93701eedc", null ]
+    ] ],
+    [ "m0_pool_nd_state", "d8/dec/group__poolmach.html#ga01634b93d7983658db45a0dfa3f89f7c", [
+      [ "M0_PNDS_UNKNOWN", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7ca696226636ea5fb72cccf2bbec769622d", null ],
+      [ "M0_PNDS_ONLINE", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7cafca042b7981aca77bd6092ebb30741a4", null ],
+      [ "M0_PNDS_FAILED", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7cad625701056d228a7f5c06cb371c17e1d", null ],
+      [ "M0_PNDS_OFFLINE", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7ca6c410cd21f132258bcff59618c472aca", null ],
+      [ "M0_PNDS_SNS_REPAIRING", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7cadee2a9f2065c6ee5fe26ac2bdc364927", null ],
+      [ "M0_PNDS_SNS_REPAIRED", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7cacb01ae97a6e4dc188e8899bad77eb1e3", null ],
+      [ "M0_PNDS_SNS_REBALANCING", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7caf565a9d9820b05a8ec82649c05d2dfc5", null ],
+      [ "M0_PNDS_NR", "d8/dec/group__poolmach.html#gga01634b93d7983658db45a0dfa3f89f7ca9acfbcb990ed1518002cd87ed5cebee9", null ]
+    ] ],
+    [ "m0_poolmach_event_owner_type", "d8/dec/group__poolmach.html#gaae87247b96ac1f2ff0939bd75d241ee9", [
+      [ "M0_POOL_NODE", "d8/dec/group__poolmach.html#ggaae87247b96ac1f2ff0939bd75d241ee9a7112204f642a56b9d6dc9d618cca9c9f", null ],
+      [ "M0_POOL_DEVICE", "d8/dec/group__poolmach.html#ggaae87247b96ac1f2ff0939bd75d241ee9a992ae51b7ca9b7f720fd78bcfd1e0225", null ]
+    ] ],
+    [ "disk_is_in", "d8/dec/group__poolmach.html#ga615818aaa780aa5cd3bd52f6f253aa08", null ],
+    [ "exp_clink", "d8/dec/group__poolmach.html#ga0683011019be7dcfff9d7c8c9b33e337", null ],
+    [ "is_enclosurev_or_diskv", "d8/dec/group__poolmach.html#ga0bbf742329289cbad03fdf0eba3ee13f", null ],
+    [ "m0_poolmach_device_is_in_spare_usage_array", "d8/dec/group__poolmach.html#ga5c230d3ecd1a13cf8093cd03aed69af0", null ],
+    [ "m0_poolmach_device_node_return", "d8/dec/group__poolmach.html#ga2074806de8fc7e51d95f82f48316be02", null ],
+    [ "m0_poolmach_device_state", "d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96", null ],
+    [ "m0_poolmach_device_state_dump", "d8/dec/group__poolmach.html#gaa24a08689e5e0681ea501142de84fdee", null ],
+    [ "m0_poolmach_equeue_length", "d8/dec/group__poolmach.html#ga46870b95444af240c44b8cdc147e81ac", null ],
+    [ "m0_poolmach_event_dump", "d8/dec/group__poolmach.html#gada36202cf4018720227d0a71bd673c8d", null ],
+    [ "m0_poolmach_event_list_dump", "d8/dec/group__poolmach.html#ga63409df59ce41b49af76413ed8115c16", null ],
+    [ "m0_poolmach_event_list_dump_locked", "d8/dec/group__poolmach.html#ga68441156a931ed74143c55f872da7cc6", null ],
+    [ "m0_poolmach_event_queue_apply", "d8/dec/group__poolmach.html#ga1d9c2019bfaca65505d626557d6bc3e2", null ],
+    [ "m0_poolmach_failvec_apply", "d8/dec/group__poolmach.html#ga071e928905a90d459e712b7b3dbf6bdc", null ],
+    [ "m0_poolmach_fid_to_idx", "d8/dec/group__poolmach.html#ga806de6dfe470504a6436b24ccf0dfdff", null ],
+    [ "m0_poolmach_fini", "d8/dec/group__poolmach.html#ga0e009bd4b5055a7e5af873b8d253ab5d", null ],
+    [ "m0_poolmach_gob2cob", "d8/dec/group__poolmach.html#gac631108b8fe2d71bee07ea815deda26c", null ],
+    [ "m0_poolmach_init", "d8/dec/group__poolmach.html#ga42616c1a4173453e9775203db25aafad", null ],
+    [ "m0_poolmach_init_by_conf", "d8/dec/group__poolmach.html#gab67ed2eb3e57d16471616c78547170c8", null ],
+    [ "m0_poolmach_node_state", "d8/dec/group__poolmach.html#ga829c6a849332f62d083a2d80a33994f1", null ],
+    [ "m0_poolmach_nr_dev_failures", "d8/dec/group__poolmach.html#gafe6f0f02aac238b5f59e551284ee3347", null ],
+    [ "m0_poolmach_sns_rebalance_spare_query", "d8/dec/group__poolmach.html#ga504664e01e2e9dbfd6b9741a2dc28bc3", null ],
+    [ "m0_poolmach_sns_repair_spare_contains_data", "d8/dec/group__poolmach.html#ga2227754ee451ddd7ffc7cb036e3fb9d0", null ],
+    [ "m0_poolmach_sns_repair_spare_query", "d8/dec/group__poolmach.html#gaf78c14f80bf2d638b61880cc388a4277", null ],
+    [ "m0_poolmach_spare_build", "d8/dec/group__poolmach.html#gacfad4a5e1a7cacc327fd3a5a55a05c33", null ],
+    [ "m0_poolmach_state_last_cancel", "d8/dec/group__poolmach.html#ga99cbaff0f27e13d6fb152a8604804413", null ],
+    [ "m0_poolmach_state_transit", "d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076", null ],
+    [ "M0_TL_DECLARE", "d8/dec/group__poolmach.html#ga4a9a87e17c5d925426555e28af26040c", null ],
+    [ "M0_TL_DEFINE", "d8/dec/group__poolmach.html#gaded48e2ac318565d9debffd2688d0f3e", null ],
+    [ "M0_TL_DEFINE", "d8/dec/group__poolmach.html#ga1c41afef9db248412dcc85b587a1a309", null ],
+    [ "M0_TL_DESCR_DECLARE", "d8/dec/group__poolmach.html#gace0ff3aa44bbd1e0577dfe9de1a315fb", null ],
+    [ "M0_TL_DESCR_DEFINE", "d8/dec/group__poolmach.html#gaba9353b5a3f81a001d8990e4d45715cf", null ],
+    [ "M0_TL_DESCR_DEFINE", "d8/dec/group__poolmach.html#ga02c5b3d79fa46a9365ff9fb6dd6f2ad6", null ],
+    [ "pool_obj_clink_fini", "d8/dec/group__poolmach.html#gacc17d0a5eefd66f4664bbd3e3e8c05e3", null ],
+    [ "pooldev_clink", "d8/dec/group__poolmach.html#gaa49b2639010c2cd9c0c1f9286dfbd5cf", null ],
+    [ "poolmach_conf_expired_cb", "d8/dec/group__poolmach.html#ga5eaec76d338a2625fcb076e9bf6d0c83", null ],
+    [ "poolmach_conf_ready_cb", "d8/dec/group__poolmach.html#ga7e52c483f80a9850273edb7646df9627", null ],
+    [ "poolmach_equeue_add", "d8/dec/group__poolmach.html#ga64fa62f9da9473b53ba76773dd8fa06e", null ],
+    [ "poolmach_event_queue_drop", "d8/dec/group__poolmach.html#ga95afaf9aeefb9832a718ed1c27c12a64", null ],
+    [ "poolmach_init", "d8/dec/group__poolmach.html#ga2888b6aa6084e946904352222416fbdf", null ],
+    [ "poolmach_spare_inherit", "d8/dec/group__poolmach.html#ga2c31ada6b72740b6631c231923cd47d1", null ],
+    [ "poolmach_state_update", "d8/dec/group__poolmach.html#ga6007a2544fe5708cfd2399f473e35ab5", null ],
+    [ "poolnode_clink", "d8/dec/group__poolmach.html#gaf45e65f327ad578fb554c0a4648735a9", null ],
+    [ "ready_clink", "d8/dec/group__poolmach.html#ga52810731f3578eac4a243ee81055d2ff", null ],
+    [ "spare_usage_arr_update", "d8/dec/group__poolmach.html#ga76c8f6fb7cfe7b21ac072b94c4e69f3a", null ],
+    [ "state_init", "d8/dec/group__poolmach.html#ga0206e46fa48131e5c19166aa6e46603f", null ],
+    [ "lno", "d8/dec/group__poolmach.html#gac9fea247f5e387efe1cae6303712e517", null ],
+    [ "M0_XCA_DOMAIN", "d8/dec/group__poolmach.html#ga9286652f6da531e6ccc0b920da4f4def", null ],
+    [ "M0_XCA_ENUM", "d8/dec/group__poolmach.html#ga5475c9e32fb2fea78c7c77e49c921f65", null ]
+];

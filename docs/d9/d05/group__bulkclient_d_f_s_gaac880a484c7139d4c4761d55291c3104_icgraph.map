@@ -1,0 +1,11 @@
+<map id="m0_rpc_bulk_fini" name="m0_rpc_bulk_fini">
+<area shape="rect" id="node2" href="$d0/d80/group___c_p.html#ga32e66befbd87c40a223f7371cf3fb993" title="m0_cm_cp_only_fini" alt="" coords="182,5,323,32"/>
+<area shape="rect" id="node3" href="$d4/d8c/group__conf__foms.html#ga1978e19c477ba1405bb005c201982f81" title="conf_zero_copy_initiate" alt="" coords="173,56,332,83"/>
+<area shape="rect" id="node4" href="$d4/d8c/group__conf__foms.html#gaf232dd2914512e3b923b6beb2b0157a2" title="conf_zero_copy_finish" alt="" coords="177,107,329,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="189,157,316,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#gaebb3f3e9784b9978aa52963152b57c85" title="zero_copy_finish" alt="" coords="193,208,313,235"/>
+<area shape="rect" id="node7" href="$d9/d05/group__bulkclient_d_f_s.html#ga862999a610d2b411e137f7f4c5226cec" title="m0_io_fop_fini" alt="" coords="199,259,306,285"/>
+<area shape="rect" id="node8" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="380,284,487,311"/>
+<area shape="rect" id="node9" href="$d7/df1/group__rpc-at.html#ga5ea47c2ff1028032fcd1bc618637c375" title="rpc_at_bulk_fini" alt="" coords="196,360,309,387"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2dc4b3b81119f2ed269b4c552613796a" title="spiel_load_fop_fini" alt="" coords="188,411,317,437"/>
+</map>

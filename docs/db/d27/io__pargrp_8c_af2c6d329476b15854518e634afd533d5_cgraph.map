@@ -1,0 +1,18 @@
+<map id="pargrp_iomap_paritybufs_alloc" name="pargrp_iomap_paritybufs_alloc">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7dd778e9ea7db52ededdd419e33d1d01" title="ptr" alt="" coords="276,5,315,32"/>
+<area shape="rect" id="node3" href="$db/d27/io__pargrp_8c.html#a9795f9bb68a7c292ffd94bb1d51746c1" title="pargrp_iomap_invariant" alt="" coords="217,56,373,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="446,81,513,108"/>
+<area shape="rect" id="node5" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="233,157,357,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="247,208,343,235"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a339cf939549936bf815698fc212b50fd" title="layout_unit_size" alt="" coords="421,284,537,311"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="261,309,329,336"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="260,360,331,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="234,411,357,437"/>
+<area shape="rect" id="node11" href="$db/dc9/group__arith.html#ga5fb15c6777f74e8ef6ed68098fb73606" title="min64" alt="" coords="267,461,324,488"/>
+<area shape="rect" id="node12" href="$db/d27/io__pargrp_8c.html#aa151c0033892597bd50125571824789b" title="data_buf_init" alt="" coords="247,512,343,539"/>
+<area shape="rect" id="node13" href="$d4/dc1/motr_2io_8h.html#ad9fcb4843aec8223dc993e740d0ea495" title="obj_buffer_size" alt="" coords="241,563,350,589"/>
+<area shape="rect" id="node14" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="248,613,343,640"/>
+<area shape="rect" id="node15" href="$db/d27/io__pargrp_8c.html#a4cf8ace0ee5d5cce9c9e2857fe9b78fc" title="data_buf_fini" alt="" coords="247,664,343,691"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="261,715,330,741"/>
+<area shape="rect" id="node17" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="257,765,333,792"/>
+</map>

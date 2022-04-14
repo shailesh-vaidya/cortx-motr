@@ -1,0 +1,14 @@
+<map id="stats_svc_query_api" name="stats_svc_query_api">
+<area shape="rect" id="node2" href="$d7/d48/ut_2note_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="218,5,357,47"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="228,71,347,98"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="213,122,362,149"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#gada3dfd68bbc59c6a900523737bfd9c22" title="m0_reqh_service_state_get" alt="" coords="196,173,379,199"/>
+<area shape="rect" id="node6" href="$d3/dff/stats__srv_8c.html#a00549532edc9a262baa8893a4f1f4880" title="stats_svc_invariant" alt="" coords="220,223,355,250"/>
+<area shape="rect" id="node7" href="$d5/d51/stats__ut__svc_8c.html#a235935dca973ee03d0f56e28f9d83237" title="fill_stats_input" alt="" coords="234,274,341,301"/>
+<area shape="rect" id="node8" href="$d5/d51/stats__ut__svc_8c.html#a3023ba9650e6eccd16c36a35b051219b" title="update_fom_test" alt="" coords="228,325,347,351"/>
+<area shape="rect" id="node9" href="$d5/d51/stats__ut__svc_8c.html#a8337197f6273533ea0f61dd1856b3579" title="create_stats_id_seq" alt="" coords="218,375,357,402"/>
+<area shape="rect" id="node10" href="$d7/dd1/stats__api_8c.html#aa6131aa3522841a07052b45323487251" title="m0_stats_query" alt="" coords="230,426,345,453"/>
+<area shape="rect" id="node11" href="$d5/d51/stats__ut__svc_8c.html#a0d32a8887b11f89a267166d889f098e2" title="check_stats_recs" alt="" coords="225,477,350,503"/>
+<area shape="rect" id="node12" href="$d4/d4e/group__stats__api.html#gab0980668c4a56472252afd006da909da" title="m0_stats_free" alt="" coords="235,527,340,554"/>
+<area shape="rect" id="node13" href="$d7/d48/ut_2note_8c.html#a3c1ae51ca06c3774d7ea73cfa161b819" title="stop_rpc_client_and\l_server" alt="" coords="218,579,357,620"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ut_test_cob_name_mem2wire" name="ut_test_cob_name_mem2wire">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="279,5,369,32"/>
+<area shape="rect" id="node3" href="$d7/d9a/motr_2cob_8c.html#af0d1787b189da35da882cdd03a34c08f" title="cob_name_mem2wire" alt="" coords="249,56,399,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="289,107,359,133"/>
+</map>

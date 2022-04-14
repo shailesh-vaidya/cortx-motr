@@ -1,0 +1,6 @@
+<map id="reader" name="reader">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga1976268512249e975eed1d63b6c74602" title="m0_rwlock_read_lock" alt="" coords="119,5,267,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="127,56,259,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="119,107,268,133"/>
+<area shape="rect" id="node5" href="$db/ded/group__rwlock.html#gac9f9a8e4d6d5652dd6425f10c33566c5" title="m0_rwlock_read_unlock" alt="" coords="112,157,275,184"/>
+</map>

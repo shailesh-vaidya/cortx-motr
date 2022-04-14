@@ -1,0 +1,9 @@
+<map id="m0_be_log_bshift" name="m0_be_log_bshift">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga37381c7eb26d4c93db137313a0885cbe" title="m0_be_log_reserved_size" alt="" coords="177,5,351,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gadd757ac07650b6e713038cc85ee30910" title="m0_be_log_record_io\l_create" alt="" coords="191,57,337,98"/>
+<area shape="rect" id="node4" href="$d2/df0/be_2ut_2log_8c.html#a01ee89fd493ea032edc6c90670e6a233" title="be_ut_log_multi_ut" alt="" coords="413,123,544,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="191,174,337,215"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga358e2633b390a01465df901a9bacd550" title="m0_be_fmt_log_record\l_header__invariant" alt="" coords="187,239,341,281"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gae9ca295a90fdc9f2c76238a5ef04dc35" title="be_log_record_iter_read" alt="" coords="399,276,559,303"/>
+<area shape="rect" id="node8" href="$dd/d4c/be_2ut_2main_8c.html#aad5906366a9886eaafb6ee8f6d95f1e6" title="m0_be_ut_log_api" alt="" coords="201,356,327,383"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_rpc_at_add" name="m0_rpc_at_add">
+<area shape="rect" id="node2" href="$d7/df1/group__rpc-at.html#ga4a93d505ee68f054fe5f935fcc4e13d8" title="rpc_at_bulk_cutoff" alt="" coords="169,5,297,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga14ace6b5a29fe2e3f50a461b3ce5be04" title="m0_addr_is_aligned" alt="" coords="164,56,301,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="170,107,295,133"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#ga9727929973af4294cdb31781f69ad171" title="rpc_at_bulk_init" alt="" coords="176,157,289,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="349,208,416,235"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#ga319e88981dfdab821cd59e5309107efd" title="rpc_at_bulk_csend" alt="" coords="167,259,298,285"/>
+</map>

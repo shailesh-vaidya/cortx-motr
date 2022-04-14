@@ -1,0 +1,15 @@
+<map id="ut_dix_namei_ops_cancel" name="ut_dix_namei_ops_cancel">
+<area shape="rect" id="node2" href="$d6/d4a/ut_2idx__dix_8c.html#a3074614c71da9759c98ad1b35628c041" title="idx_dix_ut_init" alt="" coords="246,5,351,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga536cbbd7d309612ab9d2a4bd37b38e15" title="m0_container_init" alt="" coords="237,56,361,83"/>
+<area shape="rect" id="node4" href="$d6/d4a/ut_2idx__dix_8c.html#a29e4cf52d9c91426fc65b1dc1ab391ab" title="general_ifid_fill_batch" alt="" coords="225,107,372,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="255,157,343,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#gaf234ce1781cd780ff66c6a9120fad5ac" title="m0_entity_create" alt="" coords="237,208,360,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="245,259,352,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="253,309,345,336"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga830895eaaf22e9b2d3208abc97461aa4" title="m0_op_cancel" alt="" coords="245,360,352,387"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="256,411,341,437"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="256,461,341,488"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#gaa4e7d45d5a7862844716c486cea81e8e" title="m0_entity_delete" alt="" coords="238,512,359,539"/>
+<area shape="rect" id="node13" href="$d2/def/group__client.html#gaf84b10be1b1478f38b0d75a3bad4f424" title="m0_idx_fini" alt="" coords="255,563,343,589"/>
+<area shape="rect" id="node14" href="$d6/d4a/ut_2idx__dix_8c.html#a88e00d739c34d48ce2397f40bbab7095" title="idx_dix_ut_fini" alt="" coords="246,613,351,640"/>
+</map>

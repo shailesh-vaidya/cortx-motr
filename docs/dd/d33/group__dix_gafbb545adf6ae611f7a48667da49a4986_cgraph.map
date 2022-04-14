@@ -1,0 +1,10 @@
+<map id="dix_idxop_completed" name="dix_idxop_completed">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gaf02bcd2aac8dcfd3e0b3007d916635be" title="dix_idxop_item_rc_update" alt="" coords="197,5,371,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga01cc6212597795d785c0594ce96b1448" title="m0_cas_req_fini" alt="" coords="225,56,343,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga90773259045257ef45d9de53a6b48761" title="dix_idxop_ctx_free" alt="" coords="419,183,549,209"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaa1a19b922fdd58320daea6488977097a" title="dix_req_state_set" alt="" coords="221,157,347,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga9a0463916bc4c083f252102a4b61bfe7" title="dix_idxop_reqs_send" alt="" coords="212,208,356,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="446,233,522,260"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga5283a0db7bb0548852620d20c0a765b1" title="dix_req_failure" alt="" coords="231,309,337,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="239,360,329,387"/>
+</map>

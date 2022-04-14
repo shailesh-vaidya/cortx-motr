@@ -1,0 +1,13 @@
+<map id="c_p_recv_cb" name="c_p_recv_cb">
+<area shape="rect" id="node2" href="$de/dec/lnet_2st_2ping_8c.html#aa59d7018bb120481e1f6f4bb9f07cf6b" title="buffer_event_to_ping_ctx" alt="" coords="149,5,316,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="171,56,295,83"/>
+<area shape="rect" id="node4" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#afc3305a6d2e7b43318552a52bc0cd47a" title="decode_msg" alt="" coords="185,107,281,133"/>
+<area shape="rect" id="node5" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a1f50ddee19a2899750dd693dc5941588" title="msg_free" alt="" coords="195,157,271,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e" title="m0_net_desc_free" alt="" coords="364,203,493,229"/>
+<area shape="rect" id="node7" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a787479546adb4fc147f986254bafb51f" title="ping_buf_put" alt="" coords="185,309,281,336"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="371,265,486,292"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="365,341,493,368"/>
+<area shape="rect" id="node10" href="$dd/d12/group__list.html#gad4c91de95902427a681a39c9c8d7d1bd" title="m0_list_link_init" alt="" coords="175,411,290,437"/>
+<area shape="rect" id="node11" href="$dd/d12/group__list.html#gac5ee57b03153cb03b020dba5a19d9555" title="m0_list_add" alt="" coords="187,461,279,488"/>
+<area shape="rect" id="node12" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="175,512,291,539"/>
+</map>

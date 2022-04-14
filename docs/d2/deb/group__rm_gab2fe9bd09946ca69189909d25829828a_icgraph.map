@@ -1,0 +1,9 @@
+<map id="m0_rm_pin_add" name="m0_rm_pin_add">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="178,5,319,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gad327db8198511b0125b3e9b4bbeaa860" title="credit_maybe_track" alt="" coords="181,56,317,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gadf3728efb17d737b0fac37a0023efc07" title="credit_reservation\l_check" alt="" coords="377,91,503,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga7273c95e912cde4724ebf9b50c9b998f" title="incoming_check_with" alt="" coords="551,128,697,155"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga62a2c4f8fedd86bdc490e7e01870fbf7" title="outgoing_check" alt="" coords="192,208,305,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga1209e29a068f17fa4c1d2f3f600d7c43" title="granted_maybe_reserve" alt="" coords="168,259,329,285"/>
+<area shape="rect" id="node8" href="$d7/db2/rm__fops_8c.html#a84d0b5d7656a7cd3da11541a1ceab5ee" title="outgoing_queue" alt="" coords="192,309,305,336"/>
+</map>

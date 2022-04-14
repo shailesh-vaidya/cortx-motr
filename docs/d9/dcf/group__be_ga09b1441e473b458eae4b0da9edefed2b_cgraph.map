@@ -1,0 +1,11 @@
+<map id="emap_prep" name="emap_prep">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga4e216d13c2e9f80aeaafd2c6f7c63d17" title="emap_act" alt="" coords="170,153,249,180"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad0d01197921ef8e51abec30cd933430e" title="emap_dom_find" alt="" coords="339,5,453,32"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="339,59,453,85"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="332,116,460,143"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga51b932b59a5766f51d37696826b66dc9" title="emap_entry_lookup" alt="" coords="329,179,463,205"/>
+<area shape="rect" id="node7" href="$d2/de0/group__extmap.html#ga1b9406a00438aac9d817c165b2108130" title="m0_be_emap_close" alt="" coords="327,229,465,256"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="175,305,244,332"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="176,356,243,383"/>
+<area shape="rect" id="node10" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="140,407,279,433"/>
+</map>

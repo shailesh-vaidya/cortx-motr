@@ -1,0 +1,8 @@
+<map id="m0_stob_get" name="m0_stob_get">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga1f16adbc440a57e7a1b6c263b0c553ed" title="m0_stob_domain__cache" alt="" coords="151,5,321,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="171,56,301,83"/>
+<area shape="rect" id="node4" href="$de/d4f/group__stobcache.html#gaff7780337fe9a61ccfe2a725d277bd3c" title="m0_stob_cache_lock" alt="" coords="163,107,309,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="179,157,293,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="191,208,281,235"/>
+<area shape="rect" id="node7" href="$de/d4f/group__stobcache.html#gaa2af4e4baaf0d82067f2206257ca5b91" title="m0_stob_cache_unlock" alt="" coords="157,259,315,285"/>
+</map>

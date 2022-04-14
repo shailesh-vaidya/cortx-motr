@@ -1,0 +1,10 @@
+<map id="m0_be_tx_group_tx_add" name="m0_be_tx_group_tx_add">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga9b319ee42f7821d3e0c3ef04db01b70d" title="m0_be_tx_group_tx_nr" alt="" coords="468,19,623,46"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8bb0c2ac83d0243180ae6628b3f0bac7" title="m0_be_tx_group__invariant" alt="" coords="228,45,409,71"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga7c91e309abc0423c17ccef80c802c430" title="m0_be_tx__is_recovering" alt="" coords="233,95,404,122"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga734333848bb63a2e68fba2f3f6679f96" title="m0_be_tx_group_is_recovering" alt="" coords="217,146,420,173"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga5deed54052035c6cf7c9973b66603f46" title="be_tx_group_tx_add" alt="" coords="249,197,388,223"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="245,247,392,274"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga044f22f969951defa364744ffbdf4b05" title="m0_be_tx_credit_le" alt="" coords="251,298,386,325"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="285,349,352,375"/>
+</map>

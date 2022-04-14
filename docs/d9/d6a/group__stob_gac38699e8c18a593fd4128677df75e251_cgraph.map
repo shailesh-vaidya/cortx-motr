@@ -1,0 +1,7 @@
+<map id="stob_io_invariant" name="stob_io_invariant">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="183,5,316,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gafe5fb5c1becc6b5f30159f64681c5f12" title="m0_chan_has_waiters" alt="" coords="173,56,325,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="196,107,303,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga636ea3c652fed4550feb2be439a94246" title="m0_stob_io_user_is\l_valid" alt="" coords="180,158,319,199"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga47f309e90e9d65c1983fef8c95413b7c" title="m0_stob_io_stob_is\l_valid" alt="" coords="180,223,319,265"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="m0_rpc_conn_ha_subscribe" name="m0_rpc_conn_ha_subscribe">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="480,102,583,128"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="659,51,741,78"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="277,254,364,280"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="452,51,611,78"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga3d163753a609cf687fe6ba251cdf5ba8" title="rpc_conn2confc" alt="" coords="474,178,589,204"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga586dd7705f399c27e7bcb92d302ffa9d" title="m0_rpc_conn_addr" alt="" coords="255,304,387,331"/>
+<area shape="rect" id="node8" href="$db/dc2/conf_2helpers_8c.html#a583cc66f02bcd8ce9e168aed82e04132" title="m0_conf_service_ep\l_is_known" alt="" coords="249,356,392,397"/>
+<area shape="rect" id="node9" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="248,422,393,448"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="245,472,397,499"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga80e68093fff80af547362ee271a11891" title="__conn_ha_subscribe" alt="" coords="247,102,395,128"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="237,523,404,550"/>
+<area shape="rect" id="node13" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="241,574,400,600"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="287,624,354,651"/>
+</map>

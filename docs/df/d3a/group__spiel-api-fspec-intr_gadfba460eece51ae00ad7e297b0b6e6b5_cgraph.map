@@ -1,0 +1,6 @@
+<map id="spiel__fs_stats_ctx_fini" name="spiel__fs_stats_ctx_fini">
+<area shape="rect" id="node2" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="221,5,337,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="395,31,501,57"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="245,107,314,133"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="212,157,347,184"/>
+</map>

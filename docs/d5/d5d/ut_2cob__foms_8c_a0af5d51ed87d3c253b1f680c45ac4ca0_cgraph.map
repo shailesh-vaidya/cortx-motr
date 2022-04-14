@@ -1,0 +1,8 @@
+<map id="fom_stob_tx_credit" name="fom_stob_tx_credit">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="213,5,311,32"/>
+<area shape="rect" id="node3" href="$d9/d51/cob__foms_8c.html#a40b6b028f0378fbaf25141d03531457d" title="cob_ops_stob_find" alt="" coords="197,56,327,83"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#afe773fd53e6d8a1a155de9325b359631" title="ce_stob_edit_credit" alt="" coords="195,107,329,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga5ce49298eda9038c8fce417d6d77a06b" title="m0_fom_tx_credit" alt="" coords="199,157,325,184"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#ab6b1cec85e28daa9d1c082d18fe20f06" title="m0_cc_stob_cr_credit" alt="" coords="187,208,337,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gae5097e29e6509b1a80b4bd723dff9d55" title="m0_dtx_open_sync" alt="" coords="195,259,329,285"/>
+</map>

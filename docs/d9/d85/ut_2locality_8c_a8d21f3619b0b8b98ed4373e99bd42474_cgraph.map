@@ -1,0 +1,5 @@
+<map id="enter" name="enter">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gae2d2fca1521c04d06f8d35177559c396" title="m0_locality_data" alt="" coords="108,5,228,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="111,56,225,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="104,107,232,133"/>
+</map>

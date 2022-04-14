@@ -1,0 +1,9 @@
+<map id="idx_cass_init" name="idx_cass_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="328,5,404,32"/>
+<area shape="rect" id="node3" href="$d5/d65/idx__cass_8c.html#aefe85cafcb6b8bdf4876dc5d334a78f0" title="create_cluster" alt="" coords="164,195,268,221"/>
+<area shape="rect" id="node4" href="$d5/d65/idx__cass_8c.html#af11689cf79d61c2887b0218ec56eb02c" title="connect_session" alt="" coords="156,245,276,272"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="329,68,403,95"/>
+<area shape="rect" id="node6" href="$d5/d65/idx__cass_8c.html#aff5e2fcd9e2d5a153a6c1fe85d73684a" title="init_prepared_set" alt="" coords="155,93,277,120"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="333,119,399,145"/>
+<area shape="rect" id="node8" href="$d5/d65/idx__cass_8c.html#a0c550cc2dac5da6080d27d25e77dc509" title="terminate_session" alt="" coords="152,296,280,323"/>
+</map>

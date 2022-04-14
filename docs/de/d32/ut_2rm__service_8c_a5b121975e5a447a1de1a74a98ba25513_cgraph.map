@@ -1,0 +1,8 @@
+<map id="rm_svc_server" name="rm_svc_server">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="165,5,304,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="179,56,291,83"/>
+<area shape="rect" id="node4" href="$de/d32/ut_2rm__service_8c.html#ac683593428216ad7c2bebea1c80e28ea" title="rm_service_start" alt="" coords="175,107,294,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="161,157,308,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="181,208,288,235"/>
+<area shape="rect" id="node7" href="$de/d32/ut_2rm__service_8c.html#a88a2dd3c5f6dbf886b79e7aa2f83ba19" title="rm_service_stop" alt="" coords="175,259,294,285"/>
+</map>

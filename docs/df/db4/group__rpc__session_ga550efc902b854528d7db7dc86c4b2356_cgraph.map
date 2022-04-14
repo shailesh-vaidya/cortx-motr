@@ -1,0 +1,8 @@
+<map id="rpc_tick_ret" name="rpc_tick_ret">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="174,5,297,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="184,56,287,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="144,107,327,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="175,157,296,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="167,208,303,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="191,259,280,285"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="confc_cache_create" name="confc_cache_create">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gaa44cee5579cab9a6415086591cc9c9dc" title="confc_is_locked" alt="" coords="385,33,501,60"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga51454624a47b0fabc4999c1052eb946a" title="m0_conf_cache_init" alt="" coords="195,33,334,60"/>
+<area shape="rect" id="node4" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="203,134,327,161"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="410,134,477,161"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="227,185,303,212"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga966f9a3bab9c90ccc6fec3719ad3ee07" title="not_empty" alt="" coords="223,236,306,262"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gab3e1c50b683e3bedc3bf8d5f02be38fd" title="confc_cache_preload" alt="" coords="192,84,337,110"/>
+</map>

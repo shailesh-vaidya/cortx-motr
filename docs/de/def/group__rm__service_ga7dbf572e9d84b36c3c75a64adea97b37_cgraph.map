@@ -1,0 +1,9 @@
+<map id="rms_resources_free" name="rms_resources_free">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="198,5,350,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="191,56,357,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga8a6e2bbb792f8a5a7bcd2e99411aea61" title="m0_rm_owner_fini" alt="" coords="210,107,338,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="239,157,309,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="207,208,341,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga7d5ff8c5a93060ad74a59f1407b7abbe" title="m0_rm_resource_del" alt="" coords="203,259,345,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gaadeeb55370e759d6ffafbc704be876b3" title="m0_rm_resource_free" alt="" coords="200,309,348,336"/>
+</map>

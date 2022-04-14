@@ -1,0 +1,7 @@
+<map id="ctg_store_init_creds_calc" name="ctg_store_init_creds_calc">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gabf28eca153bfaaef4f122b54759dc441" title="m0_be_seg_dict_insert\l_credit" alt="" coords="225,5,381,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga1eca42a1cfe5fbe1a14ce17e8a37984c" title="m0_be_btree_create\l_credit" alt="" coords="233,71,373,112"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#ac5450e4f4716ea1c5111705f547f3062" title="ctg_meta_insert_credit" alt="" coords="225,137,380,163"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#abfb1ede339e926b356ba5b1780333d68" title="ctg_meta_delete_credit" alt="" coords="224,187,381,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga385c366d0f032b242058c668d10e7cf7" title="m0_be_btree_destroy\l_credit" alt="" coords="229,239,376,280"/>
+</map>

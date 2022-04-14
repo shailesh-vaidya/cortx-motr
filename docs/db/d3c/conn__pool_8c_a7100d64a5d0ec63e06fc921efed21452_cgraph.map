@@ -1,0 +1,8 @@
+<map id="pool_item_disconn_ast" name="pool_item_disconn_ast">
+<area shape="rect" id="node2" href="$db/d3c/conn__pool_8c.html#ad0fb84623a7a53985b6ba71e9e40827e" title="m0_rpc_conn_pool_session\l_established" alt="" coords="419,48,601,90"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gaeddb3439ca8c8339e207af5c4688cb17" title="m0_rpc_session_cancel" alt="" coords="208,30,371,57"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="240,81,339,108"/>
+<area shape="rect" id="node5" href="$db/d3c/conn__pool_8c.html#a5fddad126e0f8a1cb1b20184e89a5a2a" title="pool_item_disconn_cb" alt="" coords="214,132,365,158"/>
+<area shape="rect" id="node6" href="$de/d82/group__rpc__link.html#ga1dc5ef29b543217569aca050e8c26e3e" title="m0_rpc_link_disconnect\l_async" alt="" coords="208,183,371,224"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="221,249,357,276"/>
+</map>

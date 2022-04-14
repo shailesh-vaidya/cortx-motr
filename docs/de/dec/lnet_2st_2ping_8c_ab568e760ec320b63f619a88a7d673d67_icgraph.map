@@ -1,0 +1,6 @@
+<map id="server_event_ident" name="server_event_ident">
+<area shape="rect" id="node2" href="$de/dec/lnet_2st_2ping_8c.html#a8fa321f5a4f7c012bc310dab2cd6887b" title="s_m_recv_cb" alt="" coords="187,5,287,32"/>
+<area shape="rect" id="node3" href="$de/dec/lnet_2st_2ping_8c.html#a411dbfc205d0850123d8040f70016f54" title="s_m_send_cb" alt="" coords="185,56,288,83"/>
+<area shape="rect" id="node4" href="$de/dec/lnet_2st_2ping_8c.html#a217e0e327ab2f652e8db6bd59ba201ee" title="s_a_recv_cb" alt="" coords="189,107,285,133"/>
+<area shape="rect" id="node5" href="$de/dec/lnet_2st_2ping_8c.html#a4f12e5c0ae4b76950d4ed9871d63d4ee" title="s_a_send_cb" alt="" coords="187,157,286,184"/>
+</map>

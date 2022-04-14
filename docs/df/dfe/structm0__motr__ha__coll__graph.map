@@ -1,0 +1,7 @@
+<map id="m0_motr_ha" name="m0_motr_ha">
+<area shape="rect" id="node2" href="$d9/d89/structm0__motr__ha__cfg.html" title="{m0_motr_ha_cfg\n||}" alt="" coords="5,219,124,296"/>
+<area shape="rect" id="node3" href="$d4/d0c/structm0__ha__dispatcher.html" title="{m0_ha_dispatcher\n||}" alt="" coords="277,219,405,296"/>
+<area shape="rect" id="node4" href="$d1/d3c/structm0__module.html" title="{m0_module\n||}" alt="" coords="213,42,303,119"/>
+<area shape="rect" id="node6" href="$d6/d50/structm0__ha.html" title="{m0_ha\n||}" alt="" coords="429,219,490,296"/>
+<area shape="rect" id="node5" href="$da/d7e/structm0__ha__link.html" title="{m0_ha_link\n|+ hln_fom_enable_wakeup\l+ hln_replied\l+ hln_released\l+ hln_reconnect_cfg_is_set\l+ hln_quiesced\l+ hln_service_quiescing\l|}" alt="" coords="413,5,596,156"/>
+</map>

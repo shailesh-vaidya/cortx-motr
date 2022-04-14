@@ -1,0 +1,7 @@
+<map id="m0_ha_link_service_put" name="m0_ha_link_service_put">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gaa3a99fb223e6bf8adb749e88cc9bd8b2" title="ha_link_service_container" alt="" coords="216,5,388,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="245,56,359,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="229,107,375,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="238,157,366,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="257,208,347,235"/>
+</map>

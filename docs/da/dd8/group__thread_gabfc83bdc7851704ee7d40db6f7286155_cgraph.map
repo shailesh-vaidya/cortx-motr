@@ -1,0 +1,6 @@
+<map id="m0_thread_trampoline" name="m0_thread_trampoline">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gaece8a5615411f2911033a3e979662a27" title="m0_set" alt="" coords="255,5,320,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga72b89389c90fab1119ae327f5e5f4945" title="m0_addb2_global_thread\l_enter" alt="" coords="204,57,371,98"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="221,123,353,149"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga243c0ea15b6ba3423be15b3e832155b2" title="m0_addb2_global_thread\l_leave" alt="" coords="204,174,371,215"/>
+</map>

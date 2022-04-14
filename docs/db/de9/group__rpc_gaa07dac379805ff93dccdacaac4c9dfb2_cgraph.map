@@ -1,0 +1,15 @@
+<map id="item_source_limits_test" name="item_source_limits_test">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga2b192cec33d387c71b3d0dbb57c16225" title="m0_rpc_item_source_init" alt="" coords="213,5,380,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga34d463d64cf1bf952bbf1a6f5ad76308" title="m0_rpc_item_source\l_register" alt="" coords="225,173,368,214"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="435,115,587,141"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="428,180,595,207"/>
+<area shape="rect" id="node6" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="229,289,364,316"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa31da58e7b9b967e25676b5d701bc737" title="m0_rpc_packet_init" alt="" coords="229,340,364,367"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga3fc3300df455f699aeb4d364c63229f3" title="frm_rmachine" alt="" coords="461,416,562,443"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="227,493,367,534"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="438,481,585,522"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="450,547,573,573"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga0768a0448d1d1d8137044b3b89617d30" title="m0_rpc_packet_discard" alt="" coords="217,609,377,636"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#gad712b5d1595dfb0b5c1e3460e118d7e9" title="m0_rpc_item_source\l_deregister" alt="" coords="225,107,368,149"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#gaeb25965f5aad812ef60e14184d499415" title="m0_rpc_item_source_fini" alt="" coords="213,660,380,687"/>
+</map>

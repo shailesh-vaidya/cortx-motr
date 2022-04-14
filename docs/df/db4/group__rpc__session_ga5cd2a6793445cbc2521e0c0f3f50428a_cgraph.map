@@ -1,0 +1,14 @@
+<map id="m0_rpc_session_terminate_reply_received" name="m0_rpc_session_terminate_reply_received">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="282,5,365,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="232,56,415,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="280,107,367,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="275,157,372,184"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="253,208,393,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga1b58c92672d2fb2529d332f1fb1ac664" title="m0_rpc_session_search" alt="" coords="242,259,405,285"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="463,385,636,412"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="684,385,787,412"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="258,411,389,437"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="259,461,387,488"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga368d147999efeca08da437e215468af4" title="session_failed" alt="" coords="271,512,376,539"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="279,563,368,589"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_sns_cm_fctx_locate" name="m0_sns_cm_fctx_locate">
+<area shape="rect" id="node2" href="$d9/dc8/sns_2cm_2rebalance_2cm_8c.html#a9798d049e80f5a7cd547a839b8007b7c" title="rebalance_cm_get_space_for" alt="" coords="217,5,409,32"/>
+<area shape="rect" id="node3" href="$d3/d15/sns_2cm_2repair_2cm_8c.html#a6921440095b3d39c555d2863f4068f4b" title="repair_cm_get_space_for" alt="" coords="229,56,397,83"/>
+<area shape="rect" id="node4" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3fecf608cea3c8b6f5cb8d56ae91636b" title="__sns_cm_file_lock" alt="" coords="245,107,382,133"/>
+<area shape="rect" id="node5" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaaffb6a70e5ce0d407d96fa0dce636848" title="__sns_cm_file_oo_lock" alt="" coords="234,157,393,184"/>
+<area shape="rect" id="node6" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga0057296c5a78cb5d7b4004656e8cd7d7" title="m0_sns_cm_file_lock_wait" alt="" coords="224,208,403,235"/>
+<area shape="rect" id="node7" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga10beb84e95775a91798ce8aeb9374209" title="m0_sns_cm_fctx_get" alt="" coords="240,259,387,285"/>
+<area shape="rect" id="node8" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga37f47f5c55fabdd69ed85f69c84eadde" title="m0_sns_cm_fctx_put" alt="" coords="240,309,387,336"/>
+<area shape="rect" id="node9" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaa7f1bed289bc2f54875706cd733ccb76" title="m0_sns_cm_file_unlock" alt="" coords="232,360,395,387"/>
+<area shape="rect" id="node10" href="$d1/d9b/flock_8c.html#a0ee8da9282822d1d5f35bb9d4086ec03" title="file_lock_verify" alt="" coords="259,411,368,437"/>
+</map>

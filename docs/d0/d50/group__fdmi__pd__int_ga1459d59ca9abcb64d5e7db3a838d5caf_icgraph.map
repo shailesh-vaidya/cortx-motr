@@ -1,0 +1,7 @@
+<map id="m0_fdmi__pdock_filter_reg_find" name="m0_fdmi__pdock_filter_reg_find">
+<area shape="rect" id="node2" href="$d9/d6b/plugin__dock_8c.html#add6efb609c571ac4678a18d836c62f61" title="enable_filters" alt="" coords="234,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/d6b/plugin__dock_8c.html#a278492a6cd51e901bf0012a1619faad2" title="deregister_plugin" alt="" coords="408,31,528,57"/>
+<area shape="rect" id="node4" href="$d7/d9f/plugin__dock__fom_8c.html#a98fad52c21812c066b5b5e9ec9bfba6c" title="pdock_fom_tick__feed\l_plugin_with_rec" alt="" coords="207,107,360,149"/>
+<area shape="rect" id="node5" href="$da/d74/pd__ut_8c.html#ab75101f77765bb498e3776df83c4bdab" title="fdmi_pd_register_filter" alt="" coords="208,173,359,200"/>
+<area shape="rect" id="node6" href="$da/d74/pd__ut_8c.html#aae2062c495e42dba24acf9bea9e0665e" title="__fdmi_pd_fom_norpc" alt="" coords="208,224,359,251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="writer" name="writer">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="115,5,266,32"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="108,56,273,83"/>
+</map>

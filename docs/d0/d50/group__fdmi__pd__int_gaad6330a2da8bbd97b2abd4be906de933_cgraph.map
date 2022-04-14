@@ -1,0 +1,9 @@
+<map id="m0_fdmi__plugin_dock_fini" name="m0_fdmi__plugin_dock_fini">
+<area shape="rect" id="node2" href="$d7/dc0/fdmi_2module_8c.html#a36c15ab7807b369c98371bcfe638f7b4" title="m0_fdmi_module__get" alt="" coords="232,5,385,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="440,132,555,159"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="274,107,343,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="433,183,561,209"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga21bba86c3ab57ed9fee7ad32cea04dfa" title="m0_fop_type_fini" alt="" coords="248,157,369,184"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="255,259,362,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="264,309,353,336"/>
+</map>

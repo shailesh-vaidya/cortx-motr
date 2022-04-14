@@ -1,0 +1,17 @@
+<map id="m0_sm_conf_extend" name="m0_sm_conf_extend">
+<area shape="rect" id="node2" href="$df/d03/group__cas__dfspec.html#gaec501c8d74193045cad652fa1736026f" title="m0_cas_svc_init" alt="" coords="415,24,535,50"/>
+<area shape="rect" id="node3" href="$d6/d81/index__gc_8h.html#a179dde2daf871791d93c3753758eb976" title="m0_cas_gc_init" alt="" coords="225,49,338,76"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga22965876a9e33983f8f7f55b9d2c326d" title="m0_cm_trigger_fop_init" alt="" coords="203,100,360,126"/>
+<area shape="rect" id="node5" href="$d7/d6a/group__conf__fop.html#ga2712177f0505094357d855cc622ba5bd" title="m0_conf_fops_init" alt="" coords="217,150,345,177"/>
+<area shape="rect" id="node6" href="$d6/df3/dtm0_2fop_8h.html#a9b28220a2a59e887c275d7f04a5854fe" title="m0_dtm0_fop_init" alt="" coords="219,201,344,228"/>
+<area shape="rect" id="node7" href="$dd/d3e/io__fops_8h.html#a0cca6aa7b5ba93a18bbc8d9657d030ee" title="m0_ioservice_fop_init" alt="" coords="207,252,355,278"/>
+<area shape="rect" id="node8" href="$d3/d04/isc__fops_8h.html#af90151f3d663f4d88dbdeef33e9d53a6" title="m0_iscservice_fop_init" alt="" coords="204,302,359,329"/>
+<area shape="rect" id="node9" href="$df/d1d/fsync__fops_8c.html#a94598fd299e732d30cb111536e79e656" title="fop_init" alt="" coords="249,353,313,380"/>
+<area shape="rect" id="node10" href="$d0/d15/pool__fops_8h.html#a3650598a6bda845ab4f1cdde7e314879" title="m0_poolmach_fop_init" alt="" coords="205,404,357,430"/>
+<area shape="rect" id="node11" href="$dc/da4/group__stobio.html#ga92314751dbd5cec6b5f7000aa9394e22" title="m0_stob_io_fop_init" alt="" coords="212,454,351,481"/>
+<area shape="rect" id="node12" href="$d1/de2/at__ut_8c.html#a3bd90e3506be29f5e1f1f77542f92f42" title="at_fops_init" alt="" coords="237,505,326,532"/>
+<area shape="rect" id="node13" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga9d4917dd2c411638cd8496aeb92dfa2e" title="m0_sss_device_fops_init" alt="" coords="197,556,366,582"/>
+<area shape="rect" id="node14" href="$d0/d9c/group__process__fop.html#ga7e79213d365f230e545a60c4ccae5700" title="m0_ss_process_fops_init" alt="" coords="196,606,367,633"/>
+<area shape="rect" id="node15" href="$d0/df3/group__ss__fop.html#ga4796856587d62190112f88c8766694c6" title="m0_ss_fops_init" alt="" coords="223,657,340,684"/>
+<area shape="rect" id="node16" href="$d0/d66/group__stats__fop.html#ga3d854e6226b89d5580d0e1a8afd9f415" title="m0_stats_fops_init" alt="" coords="215,708,347,734"/>
+</map>

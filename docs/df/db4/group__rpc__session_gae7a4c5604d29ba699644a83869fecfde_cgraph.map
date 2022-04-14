@@ -1,0 +1,10 @@
+<map id="m0_rpc_session_init_locked" name="m0_rpc_session_init_locked">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="423,256,605,283"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="240,46,329,72"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga8e0516beac773a5dd24b3ee6e4c7e366" title="m0_rpc_conn_add_session" alt="" coords="195,96,375,123"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="198,147,371,174"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gae6c0f1b5d2cbcf0e5b09bc36c81fb4ac" title="m0_rpc_item_cache_init" alt="" coords="203,198,366,224"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga17ba1dda08719d43f5f7067f8a8ac9f8" title="m0_rpc_item_pending\l_cache_init" alt="" coords="210,249,359,290"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gadceb56600d89183c19c29a6366cabe59" title="m0_rpc_item_xid_list_init" alt="" coords="200,315,369,342"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="251,366,318,392"/>
+</map>

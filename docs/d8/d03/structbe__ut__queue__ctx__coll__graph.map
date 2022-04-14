@@ -1,0 +1,7 @@
+<map id="be_ut_queue_ctx" name="be_ut_queue_ctx">
+<area shape="rect" id="node2" href="$d2/ddc/structbe__ut__queue__cfg.html" title="{be_ut_queue_cfg\n||}" alt="" coords="5,5,127,83"/>
+<area shape="rect" id="node3" href="$d3/db2/structbe__ut__queue__result.html" title="{be_ut_queue_result\n||}" alt="" coords="151,5,285,83"/>
+<area shape="rect" id="node4" href="$d7/d9d/structm0__atomic64.html" title="{m0_atomic64\n||}" alt="" coords="309,5,409,83"/>
+<area shape="rect" id="node5" href="$dc/d98/structbe__ut__queue__data.html" title="{be_ut_queue_data\n||}" alt="" coords="434,5,562,83"/>
+<area shape="rect" id="node6" href="$d1/d7f/structm0__be__queue.html" title="{m0_be_queue\n||}" alt="" coords="587,5,689,83"/>
+</map>

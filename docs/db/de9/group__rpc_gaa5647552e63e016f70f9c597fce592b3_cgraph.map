@@ -1,0 +1,12 @@
+<map id="item_resend" name="item_resend">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga97fb5e47d64f690b06dc09b96ff67e6f" title="item_state_name" alt="" coords="583,64,705,91"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga7de71844a130906ac27ef55c1ab53500" title="m0_rpc_item_timer_start" alt="" coords="368,64,535,91"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga4e43c836b6c6f5fa51b1857390bd5b50" title="m0_rpc_frm_remove_item" alt="" coords="147,97,320,124"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="384,132,519,159"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="599,183,689,209"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gafbe01c999ba2d51a70309d498f0b7bf0" title="m0_rpc_conn_ha_timer\l_start" alt="" coords="373,234,530,275"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="410,300,493,327"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="149,401,318,428"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="400,427,503,453"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="167,199,299,225"/>
+</map>

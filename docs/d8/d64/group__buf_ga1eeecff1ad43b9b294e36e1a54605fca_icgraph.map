@@ -1,0 +1,12 @@
+<map id="m0_buf_strdup" name="m0_buf_strdup">
+<area shape="rect" id="node2" href="$df/d1e/group__confd__dfspec.html#ga984b69bb5ea511360ab232267262aa63" title="m0_confd_service_to\l_filename" alt="" coords="175,5,322,47"/>
+<area shape="rect" id="node3" href="$d3/de4/fdmi__filter_8c.html#adf2f5f89a966593ed3b053af6351972c" title="fdmi_filter_decode" alt="" coords="407,186,535,213"/>
+<area shape="rect" id="node4" href="$d0/d85/process_8c.html#ab7832ac577bce36715dbd3c8dcfe4925" title="process_decode" alt="" coords="190,122,307,149"/>
+<area shape="rect" id="node5" href="$d4/d7c/sdev_8c.html#a951324c34a2790c47ac4462c812be800" title="sdev_decode" alt="" coords="199,173,298,199"/>
+<area shape="rect" id="node6" href="$d0/def/group__fis-dlspec.html#ga7920b8b25eef28ae37c949816e0f157e" title="fi_command_execute" alt="" coords="175,223,322,250"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga6adb5d04543cf60c3ef8e838a836ff29" title="m0_ha_entrypoint_fop2req" alt="" coords="161,274,336,301"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga037e7d1005876166c171ac7ddc298ba3" title="m0_ha_entrypoint_fop2rep" alt="" coords="384,350,559,377"/>
+<area shape="rect" id="node9" href="$d8/d64/group__buf.html#ga1617e4ccca48dd49ff18398cc3eb6ce7" title="m0_bufs_to_strings" alt="" coords="181,325,317,351"/>
+<area shape="rect" id="node10" href="$d0/d11/lib_2ut_2main_8c.html#aa8b14ea789b3c6dc9a07c4c88f35e7cc" title="m0_ut_lib_buf_test" alt="" coords="183,426,315,453"/>
+<area shape="rect" id="node11" href="$d2/d39/ss__svc_8c.html#a849358a0b92877c90bad65c89ee2720a" title="ss_fom_tick__svc_alloc" alt="" coords="167,477,330,503"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rm_ut_data" name="rm_ut_data">
+<area shape="rect" id="node2" href="$d8/d71/structm0__rm__resource__type.html" title="{m0_rm_resource_type\n||}" alt="" coords="26,5,177,83"/>
+<area shape="rect" id="node3" href="$de/d9b/structm0__rm__domain.html" title="{m0_rm_domain\n||}" alt="" coords="43,145,154,223"/>
+<area shape="rect" id="node4" href="$d3/d7b/structm0__rm__resource.html" title="{m0_rm_resource\n||}" alt="" coords="178,145,297,223"/>
+<area shape="rect" id="node6" href="$dd/d9a/structm0__rm__owner.html" title="{m0_rm_owner\n||}" alt="" coords="256,285,360,363"/>
+<area shape="rect" id="node5" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="465,145,527,223"/>
+<area shape="rect" id="node8" href="$d6/d46/structm0__rm__credit.html" title="{m0_rm_credit\n||}" alt="" coords="305,425,407,503"/>
+<area shape="rect" id="node7" href="$d6/dd5/structrm__ut__data__ops.html" title="{rm_ut_data_ops\n||}" alt="" coords="595,565,709,643"/>
+<area shape="rect" id="node9" href="$d3/db4/structm0__rm__incoming.html" title="{m0_rm_incoming\n||}" alt="" coords="398,565,519,643"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="btree_rebalance_credit" name="btree_rebalance_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf3517d8e8d483a47ed8c8a615d35f77e" title="btree_node_alloc_credit" alt="" coords="213,5,371,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0e1154801a6afdeb1cfd06409f708b7f" title="btree_node_update_credit" alt="" coords="207,56,377,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gae22006ec159a9984211cc24e1a326ea0" title="btree_credit" alt="" coords="247,107,337,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="219,157,365,184"/>
+</map>

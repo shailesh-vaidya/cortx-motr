@@ -1,0 +1,12 @@
+<map id="m0_sns_cm_is_local_cob" name="m0_sns_cm_is_local_cob">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="257,5,407,47"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#gafaeb37981de5d42d434c8418f6dd07d5" title="m0_sns_cm_cp_next_phase_get" alt="" coords="225,71,439,98"/>
+<area shape="rect" id="node4" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#a39c401bf00dbd7d43783f958320de4cf" title="rebalance_ag_in_cp\l_units" alt="" coords="503,125,640,167"/>
+<area shape="rect" id="node5" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa8607f34c03bba78736c5a0eb29620b0" title="is_spare_relevant" alt="" coords="270,173,394,199"/>
+<area shape="rect" id="node6" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa2e678c37e6bea0efaf8169692fb690a" title="rebalance_ag_is_relevant" alt="" coords="487,202,656,229"/>
+<area shape="rect" id="node7" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#aad98c4dc4ac8936d8f79334136881f2f" title="repair_ag_in_cp_units" alt="" coords="258,274,406,301"/>
+<area shape="rect" id="node8" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a4ef7eff6585b59d69f49250439f435fc" title="repair_ag_is_relevant" alt="" coords="259,325,405,351"/>
+<area shape="rect" id="node9" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a596f6b6cc1650dd4451238f6c7792578" title="repair_cob_locate" alt="" coords="270,375,394,402"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#gac76d7020a04d950a373d71f01d2dd83d" title="m0_sns_cm_local_unit\l_type_get" alt="" coords="255,427,409,468"/>
+<area shape="rect" id="node11" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac14d3898815640ae842bcc7875849060" title="repair_ag_fc_acc_post" alt="" coords="255,493,409,519"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ut_composite_io_divide" name="ut_composite_io_divide">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="215,5,370,32"/>
+<area shape="rect" id="node3" href="$d0/d3f/motr_2ut_2layout_8c.html#a6e616fd67ac7e6952f934ead504db273" title="composite_layout_add\l_layers" alt="" coords="217,57,369,98"/>
+<area shape="rect" id="node4" href="$d0/d3f/motr_2ut_2layout_8c.html#a4115d9896c2b15868fec3f66f19781dc" title="do_composite_io_divide" alt="" coords="212,123,373,149"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="421,199,491,225"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="218,224,367,251"/>
+</map>

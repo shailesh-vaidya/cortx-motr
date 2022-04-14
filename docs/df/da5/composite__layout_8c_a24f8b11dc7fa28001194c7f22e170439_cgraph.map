@@ -1,0 +1,9 @@
+<map id="layout_dix_req_ast" name="layout_dix_req_ast">
+<area shape="rect" id="node2" href="$df/da5/composite__layout_8c.html#a24134555be260e0d59ae52ddc5835f65" title="layout_op_failed" alt="" coords="200,5,316,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="380,56,469,83"/>
+<area shape="rect" id="node4" href="$df/da5/composite__layout_8c.html#ae8a2d30d283bbc4d8e11da3c00d05c14" title="layout_dix_req_fini" alt="" coords="193,107,323,133"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#a0f7e5bff706e5f0b25fc7fc83642c904" title="layout_dix_req_free" alt="" coords="191,157,325,184"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#a7fceb3a5022e7f85c5b98b1a0808c979" title="m0__obj_entity" alt="" coords="203,208,313,235"/>
+<area shape="rect" id="node7" href="$d7/d9a/motr_2cob_8c.html#a7ce5140fb165fa331cc44764e23aa577" title="m0__obj_layout_send" alt="" coords="184,259,332,285"/>
+<area shape="rect" id="node8" href="$df/da5/composite__layout_8c.html#ac314b339af61ec613a62348181ff256d" title="layout_op_completed" alt="" coords="185,309,331,336"/>
+</map>

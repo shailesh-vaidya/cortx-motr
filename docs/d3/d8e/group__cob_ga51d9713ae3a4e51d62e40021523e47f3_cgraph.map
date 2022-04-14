@@ -1,0 +1,10 @@
+<map id="m0_cob_iterator_next" name="m0_cob_iterator_next">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gae517a9ece0cbcac712467b75e6c88133" title="m0_be_btree_cursor\l_next_sync" alt="" coords="217,5,357,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="217,71,357,112"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a1c039c828314ce748de2792692443d41" title="if" alt="" coords="267,137,306,163"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="245,187,328,214"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="242,238,331,265"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga3ec8fced9ea67330f9b1b829d9693d13" title="m0_cob_nskey_size" alt="" coords="216,289,357,315"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga4901679d4e176104757b2addeecf181b" title="m0_cob_max_nskey_size" alt="" coords="200,339,373,366"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="253,390,320,417"/>
+</map>

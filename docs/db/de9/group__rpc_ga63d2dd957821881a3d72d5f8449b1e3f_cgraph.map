@@ -1,0 +1,4 @@
+<map id="item_move_to_urgent_queue" name="item_move_to_urgent_queue">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gac0abce008fa90864fd9a695af6080019" title="__itemq_remove" alt="" coords="200,5,319,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga8caefd588d724d26ba80a1d177ab1f0a" title="__itemq_insert" alt="" coords="206,56,313,83"/>
+</map>

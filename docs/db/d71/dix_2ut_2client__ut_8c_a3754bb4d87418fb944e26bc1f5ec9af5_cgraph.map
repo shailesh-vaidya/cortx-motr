@@ -1,0 +1,9 @@
+<map id="dix_list" name="dix_list">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#ad4ba5e5ae248260bccb561dfd366fd9a" title="ut_service_init" alt="" coords="133,5,240,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#ab8da95ddc7d17fd485c50ee853945e31" title="dix_index_init" alt="" coords="136,56,237,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a669e6fa505ac253fdf9cf94c6ea00bcd" title="dix_common_idx_op" alt="" coords="116,107,257,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a92818f0385696a7e3f2de82f8f3d1609" title="dix_list_op" alt="" coords="145,157,229,184"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="145,208,228,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#afd22dbe43474720e004d49fb72062fe8" title="dix_index_fini" alt="" coords="136,259,237,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a1f0cfa002137795e6eba68ab420d0eb9" title="ut_service_fini" alt="" coords="133,309,240,336"/>
+</map>

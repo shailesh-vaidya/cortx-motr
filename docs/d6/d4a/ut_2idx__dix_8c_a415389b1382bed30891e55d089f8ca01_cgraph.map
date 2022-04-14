@@ -1,0 +1,10 @@
+<map id="dtm0_ut_read_and_check" name="dtm0_ut_read_and_check">
+<area shape="rect" id="node2" href="$d6/d4a/ut_2idx__dix_8c.html#ace9157bfc44638e61931bc3d7a1fd152" title="rcs_alloc" alt="" coords="268,5,343,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="245,56,365,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="224,107,387,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="263,157,348,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="252,208,359,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="259,259,351,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="248,309,363,336"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="263,360,348,387"/>
+</map>

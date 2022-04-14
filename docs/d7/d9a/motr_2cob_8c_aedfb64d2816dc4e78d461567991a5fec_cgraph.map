@@ -1,0 +1,10 @@
+<map id="cob_mds_fop_populate" name="cob_mds_fop_populate">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="419,88,461,115"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#gad8b4f23dd455dd49c06ff67933b2b18d" title="create" alt="" coords="255,37,313,64"/>
+<area shape="rect" id="node4" href="$d7/d9a/motr_2cob_8c.html#a1b0535253258db086b9a50800f3f135f" title="cob_attr_init" alt="" coords="237,88,331,115"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="227,139,341,165"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="235,189,333,216"/>
+<area shape="rect" id="node7" href="$d7/d9a/motr_2cob_8c.html#ac90d12ea3eaca870be0399633f1d4972" title="cob_body_mem2wire" alt="" coords="211,240,357,267"/>
+<area shape="rect" id="node8" href="$d7/d9a/motr_2cob_8c.html#af0d1787b189da35da882cdd03a34c08f" title="cob_name_mem2wire" alt="" coords="209,291,359,317"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="407,316,473,343"/>
+</map>

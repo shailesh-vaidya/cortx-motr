@@ -1,0 +1,9 @@
+<map id="m0_cas_id_invariant" name="m0_cas_id_invariant">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga47f3add31d4014d10b9e39b99fd86eae" title="m0_cas_index_create" alt="" coords="195,5,345,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gaa98251abcf47fc53b0d95c9733ec6cda" title="m0_cas_index_delete" alt="" coords="196,56,344,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gaef3376e7ac8ee276de5742f376e0a718" title="m0_cas_index_lookup" alt="" coords="195,107,345,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga290a06e847f9a1350d766707501c99d7" title="m0_cas_put" alt="" coords="223,157,317,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga324be866c4c9c84d5df312fc2bd7de34" title="m0_cas__get" alt="" coords="220,208,320,235"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#ga4bc0f94472ccea508fbbf253816c2c5d" title="m0_cas_next" alt="" coords="220,259,320,285"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga3a4c335ba35bbba1e5ea94e0ef412834" title="m0_cas_del" alt="" coords="224,309,316,336"/>
+</map>

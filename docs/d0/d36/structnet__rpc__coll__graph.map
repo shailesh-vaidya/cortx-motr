@@ -1,0 +1,8 @@
+<map id="net_rpc" name="net_rpc">
+<area shape="rect" id="node8" href="$dd/d21/structsim__thread.html" title="{sim_thread\n||}" alt="" coords="191,202,277,279"/>
+<area shape="rect" id="node3" href="$da/d0c/structsim__chan.html" title="{sim_chan\n||}" alt="" coords="503,202,581,279"/>
+<area shape="rect" id="node4" href="$da/dbd/structnet__conf.html" title="{net_conf\n|+ nc_rpc_size\l+ nc_frag_delay_max\l|}" alt="" coords="599,399,746,491"/>
+<area shape="rect" id="node9" href="$da/dd9/structnet__srv.html" title="{net_srv\n||}" alt="" coords="364,406,429,483"/>
+<area shape="rect" id="node6" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="115,5,185,83"/>
+<area shape="rect" id="node7" href="$d7/ddd/structm0__stob__id.html" title="{m0_stob_id\n||}" alt="" coords="832,406,921,483"/>
+</map>

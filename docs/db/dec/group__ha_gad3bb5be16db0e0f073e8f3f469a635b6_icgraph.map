@@ -1,0 +1,9 @@
+<map id="m0_ha_entrypoint_client_chan" name="m0_ha_entrypoint_client_chan">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga725c0109b3c2017df3b739d4bf667ad7" title="ha_level_enter" alt="" coords="296,5,403,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga67611fe581fe5cf83768058264f4835b" title="m0_ha_ut_ha_usecase" alt="" coords="271,56,427,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga3ef0357d640d3b5254452fe485d8c7ac" title="m0_pools_service_ctx\l_create" alt="" coords="273,107,425,149"/>
+<area shape="rect" id="node5" href="$df/d15/group__rconfc__dfspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="296,173,403,200"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gaf9b40896ec41de36b73b1e2f71ebe9c1" title="m0_ha_entrypoint_client\l_start_sync" alt="" coords="268,225,431,266"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gafc53eea8d2f44f7bbc4d2ab96f975e1f" title="m0_ha_ut_entrypoint\l_client" alt="" coords="495,283,637,325"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#gadcedbf8114d679b44e18d1b34024f20c" title="m0_ha_entrypoint_client_stop" alt="" coords="252,341,447,368"/>
+</map>

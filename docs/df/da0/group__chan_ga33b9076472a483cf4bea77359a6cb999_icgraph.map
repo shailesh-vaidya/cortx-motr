@@ -1,0 +1,29 @@
+<map id="m0_clink_is_armed" name="m0_clink_is_armed">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gaa2bcb7f2aed8bfd57240045025024a54" title="pools_common__ctx_subscribe\l_or_abandon" alt="" coords="188,5,393,47"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#gafff4b50e8426096033fd7438ffb16596" title="m0_pools_service_ctx\l_destroy" alt="" coords="215,71,367,112"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#a6f8452151892ff49885404c0ae4988f4" title="ctg_op_cb" alt="" coords="485,238,568,265"/>
+<area shape="rect" id="node5" href="$dc/d86/group___c_m_p_r_o_x_y.html#gae284055265b4e83a986b292821bf83a0" title="m0_cm_proxy_fini" alt="" coords="227,795,355,822"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga35925f822d21af7791e4fb5a0356fa1f" title="clink_cleanup_fini" alt="" coords="464,289,589,315"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gaaac22c7cd891b27a57d2c1628ba5334b" title="rconfc_link_fini_ast" alt="" coords="459,341,594,367"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga6cd55d5635baedaaebd7d1822d69c74a" title="rconfc_herd_fini" alt="" coords="469,187,584,214"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#gaac368a71b4743794d84d9c9e0107f3a6" title="rconfc_cctx_fini" alt="" coords="469,393,584,419"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga2f9a2160f97d69667a7fb99370715108" title="rconfc_herd_cctxs_fini" alt="" coords="450,446,603,473"/>
+<area shape="rect" id="node11" href="$d5/d9a/ut_2rconfc_8c.html#a82501bb00e28e4c1158bba92daf8298c" title="test_quorum_impossible" alt="" coords="209,846,372,873"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga1629618c21b27d408e1dad85478bc0f9" title="fom_wait_fini" alt="" coords="477,503,576,530"/>
+<area shape="rect" id="node13" href="$d1/d59/group__fom.html#ga88f1ea0ea6380d05b5bd6ebb433f3d71" title="cb_done" alt="" coords="255,897,326,923"/>
+<area shape="rect" id="node14" href="$d0/dfe/group__sdev.html#ga49859b16baaad566da84ed6c98a73345" title="storage_devs_conf_expired_cb" alt="" coords="189,947,392,974"/>
+<area shape="rect" id="node15" href="$d0/dfe/group__sdev.html#ga0e96a42ae6577cc5fa1ce35dbe944494" title="storage_devs_conf_ready\l_async_cb" alt="" coords="205,999,376,1040"/>
+<area shape="rect" id="node16" href="$d0/dfe/group__sdev.html#ga16292f777727b670abb7fc587ee967d0" title="m0_storage_dev_detach" alt="" coords="209,1065,373,1091"/>
+<area shape="rect" id="node17" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="239,137,342,163"/>
+<area shape="rect" id="node18" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="241,441,340,467"/>
+<area shape="rect" id="node19" href="$df/da0/group__chan.html#ga5ccfc2b9d9cdce43a1afc9137d6faa68" title="m0_clink_cleanup_locked" alt="" coords="441,694,612,721"/>
+<area shape="rect" id="node20" href="$de/df4/group__rm-ha.html#ga10ace70546b25a4d87db1f4845688f7b" title="m0_rm_ha_unsubscribe" alt="" coords="660,719,820,746"/>
+<area shape="rect" id="node21" href="$df/db4/group__rpc__session.html#gabaf00b78d1a327a1ea762a8c0f0d995a" title="__conn_ha_unsubscribe" alt="" coords="445,566,608,593"/>
+<area shape="rect" id="node22" href="$d1/dc1/group__sm.html#ga4c0f0fd5db44e0c019ac36d1b6b0ab9c" title="m0_sm_timeout_fini" alt="" coords="457,642,596,669"/>
+<area shape="rect" id="node23" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="224,1115,357,1142"/>
+<area shape="rect" id="node24" href="$d2/deb/group__rm.html#gad746bfbbf03eaa6ed7545d2fbee2b13d" title="rfom_debtor_subscribe" alt="" coords="213,1166,368,1193"/>
+<area shape="rect" id="node25" href="$d7/db2/rm__fops_8c.html#a84d0b5d7656a7cd3da11541a1ceab5ee" title="outgoing_queue" alt="" coords="234,1217,347,1243"/>
+<area shape="rect" id="node26" href="$df/db4/group__rpc__session.html#gaac498e568abefc231e8dee9c578d82af" title="__conn_fini" alt="" coords="247,1267,335,1294"/>
+<area shape="rect" id="node27" href="$db/de9/group__rpc.html#gacda0b1aa97d8193166ede839bb174c5c" title="m0_rpc_reply_timedwait" alt="" coords="209,1318,372,1345"/>
+<area shape="rect" id="node28" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="227,1369,355,1395"/>
+</map>

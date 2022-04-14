@@ -1,0 +1,10 @@
+<map id="motr_ha_entrypoint_request_cb" name="motr_ha_entrypoint_request_cb">
+<area shape="rect" id="node2" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="213,5,324,32"/>
+<area shape="rect" id="node3" href="$d1/df2/group__motr.html#ga22b34b848d51ca56a7ff5e3cfee1864f" title="m0_ha_entrypoint_confc\l_override" alt="" coords="187,57,351,98"/>
+<area shape="rect" id="node4" href="$d1/df2/group__motr.html#ga813d4698f9421722e24f242e77262de0" title="motr_ha_entrypoint\l_rep_confds_fill" alt="" coords="202,122,335,163"/>
+<area shape="rect" id="node5" href="$d1/df2/group__motr.html#ga9d3a3e2169927c731af51c25d6be208b" title="motr_ha_entrypoint\l_rep_confds_free" alt="" coords="399,173,532,214"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="580,209,649,236"/>
+<area shape="rect" id="node7" href="$d1/df2/group__motr.html#ga4671b7a2e03d507e47db88f798481634" title="motr_ha_entrypoint\l_rep_rm_fill" alt="" coords="202,290,335,331"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#gaac5a7de88e052d45e887e8749d88da88" title="m0_ha_entrypoint_reply" alt="" coords="189,356,349,383"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="421,381,510,408"/>
+</map>

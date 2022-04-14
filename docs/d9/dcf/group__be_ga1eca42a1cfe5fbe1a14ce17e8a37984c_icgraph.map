@@ -1,0 +1,9 @@
+<map id="m0_be_btree_create_credit" name="m0_be_btree_create_credit">
+<area shape="rect" id="node2" href="$de/d8f/group__balloc.html#gaecc96acddec75add7f0c9e2fa55d4253" title="m0_balloc_create" alt="" coords="223,5,347,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#a3117c49de170fe5f13b76cd0f51bddf7" title="create_tree" alt="" coords="242,56,329,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="216,107,355,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#af03f92e1be37ecff8099bbdc6315c9e3" title="ctg_store_init_creds_calc" alt="" coords="200,157,371,184"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#ga67c7fbe56cb7b01c8106b49dd2bd896c" title="m0_ctg_create_credit" alt="" coords="212,208,359,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gaa21c50f5365b3cc84517a841539911ed" title="m0_cob_domain_credit_add" alt="" coords="193,259,377,285"/>
+<area shape="rect" id="node8" href="$da/d4e/db_8h.html#a53404cf59ef228efce91803a00ebdaf2" title="m0_confdb_create_credit" alt="" coords="201,309,369,336"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_composite_layer_add" name="m0_composite_layer_add">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="245,5,360,32"/>
+<area shape="rect" id="node3" href="$df/dca/lib_2misc_8c.html#aeffb27edb4e029f68dfe903b874f733b" title="m0_uint128_eq" alt="" coords="247,56,358,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="239,107,367,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="429,171,505,197"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#aff6c41401a3704904d3486ec225a2b01" title="m0__obj_attr_get_sync" alt="" coords="224,208,381,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="434,233,501,260"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="433,284,502,311"/>
+<area shape="rect" id="node9" href="$d7/dcd/motr_2client__internal_8h.html#aa68a415aabd975e135519ead7755e3c9" title="m0__obj_lid" alt="" coords="257,360,348,387"/>
+</map>

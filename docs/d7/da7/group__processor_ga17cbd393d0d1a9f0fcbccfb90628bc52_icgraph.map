@@ -1,0 +1,9 @@
+<map id="number_read" name="number_read">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga0afbb1796823b32f756c2adf6720dd9b" title="processor_maxsz_get" alt="" coords="151,5,302,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#ga20eea305ee5411d0c0c6e7b7596a1403" title="processor_coreid_get" alt="" coords="153,157,300,184"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#ga401bb062d98cbf2af184e79e29b5e578" title="processor_l1_cacheid_get" alt="" coords="351,107,524,133"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#gad4f97238840ecf06d1ca0e59bea78e8f" title="processor_l2_cacheid_get" alt="" coords="351,157,524,184"/>
+<area shape="rect" id="node6" href="$d7/da7/group__processor.html#ga3cde9514116835f12155d8ba4e4e1de0" title="processor_physid_get" alt="" coords="152,107,301,133"/>
+<area shape="rect" id="node7" href="$d7/da7/group__processor.html#ga2c56871cf4e1acadc034d27fdce50dff" title="processor_l1_size_get" alt="" coords="151,259,303,285"/>
+<area shape="rect" id="node8" href="$d7/da7/group__processor.html#gaa144e2e91dcf8f2723a741dd6c9a689a" title="processor_l2_size_get" alt="" coords="151,309,303,336"/>
+</map>

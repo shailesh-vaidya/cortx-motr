@@ -1,0 +1,17 @@
+<map id="m0_layout_lookup" name="m0_layout_lookup">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="661,65,701,91"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="391,521,585,547"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#ga9e15dc29aa4b0356b209342bcddcdc2e" title="m0_layout__log" alt="" coords="431,141,545,167"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="450,293,526,319"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="204,597,319,623"/>
+<area shape="rect" id="node7" href="$da/da8/group__layout.html#ga97e9945db9f8653f97cadfa3fdf4f1ff" title="m0_layout__list_lookup" alt="" coords="182,647,341,674"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="197,698,325,725"/>
+<area shape="rect" id="node9" href="$da/da8/group__layout.html#gaf16fef6180ff8f3f32a3f984913558e3" title="m0_layout__invariant" alt="" coords="415,343,561,370"/>
+<area shape="rect" id="node10" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="633,394,728,421"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="443,394,533,421"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="455,191,521,218"/>
+<area shape="rect" id="node13" href="$da/da8/group__layout.html#ga05d31297983b14bdffb168866dfc7624" title="m0_layout_max_recsize" alt="" coords="180,495,343,522"/>
+<area shape="rect" id="node14" href="$d5/da3/group___layout_d_b_d_f_s_internal.html#ga7efa13a10d975c5a9a3a52208a11c053" title="pair_init" alt="" coords="228,141,295,167"/>
+<area shape="rect" id="node15" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="411,65,565,91"/>
+<area shape="rect" id="node16" href="$da/da8/group__layout.html#ga2a19253d39ad85f5d29e837a16280dad" title="m0_layout_decode" alt="" coords="196,242,327,269"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="balloc_init_internal" name="balloc_init_internal">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="207,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="199,56,321,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a1ef6f32054649ee31fba7329ffd18f1e" title="balloc_format" alt="" coords="210,107,310,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="385,157,452,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a531cb87797a1d778dbdd9b61fe4dc2f8" title="balloc_fini_internal" alt="" coords="195,208,325,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="222,259,298,285"/>
+<area shape="rect" id="node8" href="$d9/dd5/balloc_8c.html#ad80f0252150f20a788e8301013379348" title="balloc_group_info_load" alt="" coords="183,309,337,336"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#a074b555c262de513ffe1ed9d77a485db" title="sb_mount" alt="" coords="221,360,299,387"/>
+</map>

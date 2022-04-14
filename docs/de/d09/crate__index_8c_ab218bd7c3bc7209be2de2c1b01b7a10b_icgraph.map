@@ -1,0 +1,7 @@
+<map id="cr_rand_pos_range" name="cr_rand_pos_range">
+<area shape="rect" id="node2" href="$de/d09/crate__index_8c.html#afa305ced063c4794e30faa267da1e8ca" title="cr_get_random_string" alt="" coords="196,5,343,32"/>
+<area shape="rect" id="node3" href="$de/d09/crate__index_8c.html#a7f7c8453bb3e1ecbd7ca8fcc3d9f2a0c" title="cr_idx_w_init" alt="" coords="220,56,319,83"/>
+<area shape="rect" id="node4" href="$de/d09/crate__index_8c.html#a4349da99720fba458709f7351b0beed7" title="cr_idx_w_get_value_size" alt="" coords="185,107,353,133"/>
+<area shape="rect" id="node5" href="$de/d09/crate__index_8c.html#aa854f4ce95605ba0726a15a5825ed8a3" title="cr_idx_w_get_nr_keys\l_per_op" alt="" coords="193,158,345,199"/>
+<area shape="rect" id="node6" href="$de/d09/crate__index_8c.html#a2268f0df46d9e28f5b5953a89c5b27b7" title="cr_idx_w_select_op" alt="" coords="201,224,338,251"/>
+</map>

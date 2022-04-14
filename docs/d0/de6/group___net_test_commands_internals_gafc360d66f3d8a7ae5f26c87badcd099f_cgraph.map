@@ -1,0 +1,6 @@
+<map id="m0_net_test_commands_send_wait_all" name="m0_net_test_commands_send_wait_all">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#gab2e4069ba31e3d8df5d838568085b8ff" title="m0_net_test_commands\l_invariant" alt="" coords="219,5,384,47"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="244,71,359,98"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="237,122,365,149"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="227,173,376,199"/>
+</map>

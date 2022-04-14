@@ -1,0 +1,5 @@
+<map id="m0_sns_cm_cancel_reservation" name="m0_sns_cm_cancel_reservation">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="263,5,429,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#ga0042dfb071ce7dab50835d2d68b68d3a" title="min32u" alt="" coords="314,56,378,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="279,107,413,149"/>
+</map>

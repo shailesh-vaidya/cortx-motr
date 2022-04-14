@@ -1,0 +1,6 @@
+<map id="ut_test_sync_record_update" name="ut_test_sync_record_update">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a62c349d587d79a2d1f374e58b6721bf2" title="fake_setup" alt="" coords="219,5,306,32"/>
+<area shape="rect" id="node3" href="$db/dc2/sync_8c.html#abdca1f64068373257e381c77d169a5b4" title="sync_record_update" alt="" coords="193,107,332,133"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="387,81,501,108"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="380,144,508,171"/>
+</map>

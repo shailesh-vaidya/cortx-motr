@@ -1,0 +1,9 @@
+<map id="m0_confdb_create_credit" name="m0_confdb_create_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="452,159,503,185"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gabf28eca153bfaaef4f122b54759dc441" title="m0_be_seg_dict_insert\l_credit" alt="" coords="231,57,387,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga1eca42a1cfe5fbe1a14ce17e8a37984c" title="m0_be_btree_create\l_credit" alt="" coords="239,122,379,163"/>
+<area shape="rect" id="node5" href="$d2/db5/db_8c.html#a92ba6ff23ac5180cab69877e7309e3e8" title="confx_obj_measure" alt="" coords="241,239,376,265"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="444,268,511,295"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaf50e9ec1881a65bb62ef9483b4082bc5" title="m0_be_btree_insert\l_credit2" alt="" coords="241,290,377,331"/>
+<area shape="rect" id="node8" href="$d2/db5/db_8c.html#a6dc8adddbefae3d95b10363d4865ca20" title="m0_confdb_destroy_credit" alt="" coords="221,5,396,32"/>
+</map>

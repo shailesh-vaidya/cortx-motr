@@ -1,0 +1,13 @@
+<map id="rpc_machine_watch_test" name="rpc_machine_watch_test">
+<area shape="rect" id="node2" href="$d7/da0/clnt__srv__ctx_8c.html#a15466eefb188bead757445784bc7a940" title="sctx_reset" alt="" coords="260,5,343,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="231,56,372,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a5de775a2d04ef1d0d362800eb011d3da" title="m0_rpc_server_ctx_get\l_rmachine" alt="" coords="222,107,381,149"/>
+<area shape="rect" id="node5" href="$d4/d86/ut_2rpc__machine_8c.html#a6c77eb4959fa97f9db1449995ae73f33" title="conn_added" alt="" coords="255,173,347,200"/>
+<area shape="rect" id="node6" href="$d4/d86/ut_2rpc__machine_8c.html#a0c424c013910dd276facf46003e8a849" title="session_added" alt="" coords="247,224,356,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga3d0313a4d530f0ad869335cc962dc930" title="m0_rpc_machine_watch\l_attach" alt="" coords="220,275,383,317"/>
+<area shape="rect" id="node8" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="233,341,369,368"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga2c5265d74c67e01fc9a4afac3552dfe6" title="m0_rpc_machine_watch\l_detach" alt="" coords="220,393,383,434"/>
+<area shape="rect" id="node10" href="$d4/d86/ut_2rpc__machine_8c.html#ab454bf19c45f332edfc911b4bc2fcd95" title="mach_terminated" alt="" coords="240,459,363,485"/>
+<area shape="rect" id="node11" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="234,509,369,536"/>
+<area shape="rect" id="node12" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="231,560,371,587"/>
+</map>

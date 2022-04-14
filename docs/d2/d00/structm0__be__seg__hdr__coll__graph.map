@@ -1,0 +1,7 @@
+<map id="m0_be_seg_hdr" name="m0_be_seg_hdr">
+<area shape="rect" id="node2" href="$d8/d98/structm0__format__footer.html" title="{m0_format_footer\n||}" alt="" coords="234,189,358,267"/>
+<area shape="rect" id="node7" href="$d0/ded/structm0__be__list.html" title="{m0_be_list\n||}" alt="" coords="380,392,465,469"/>
+<area shape="rect" id="node5" href="$dc/d3b/structm0__be__seg__geom.html" title="{m0_be_seg_geom\n||}" alt="" coords="57,291,185,368"/>
+<area shape="rect" id="node8" href="$d6/de9/structm0__format__header.html" title="{m0_format_header\n||}" alt="" coords="512,189,643,267"/>
+<area shape="rect" id="node9" href="$d2/d84/structm0__be__allocator__header.html" title="Allocator header. " alt="" coords="485,532,648,609"/>
+</map>

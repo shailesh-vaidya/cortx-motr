@@ -1,0 +1,10 @@
+<map id="m0_sns_cm_unit_is_spare" name="m0_sns_cm_unit_is_spare">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="255,5,379,32"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="452,117,621,144"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga391cd128c66b57c080dfa925f6ddb257" title="m0_sns_cm_unit2cobfid" alt="" coords="236,107,399,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="463,190,611,231"/>
+<area shape="rect" id="node6" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="241,208,394,235"/>
+<area shape="rect" id="node7" href="$d7/d0c/parity__repair_8c.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="232,157,403,184"/>
+<area shape="rect" id="node8" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="234,309,401,336"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#ga5c230d3ecd1a13cf8093cd03aed69af0" title="m0_poolmach_device\l_is_in_spare_usage_array" alt="" coords="231,361,404,402"/>
+</map>

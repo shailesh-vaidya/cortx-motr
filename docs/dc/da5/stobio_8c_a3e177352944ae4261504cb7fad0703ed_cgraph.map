@@ -1,0 +1,19 @@
+<map id="test_single_ivec" name="test_single_ivec">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="356,117,463,144"/>
+<area shape="rect" id="node3" href="$dc/da5/stobio_8c.html#ab0ab062822e7bff5df6b6ef74608046f" title="stobio_storage_init" alt="" coords="173,41,304,68"/>
+<area shape="rect" id="node4" href="$dc/da5/stobio_8c.html#a5e551c4480db97140677f7ad0c78957e" title="stobio_init" alt="" coords="198,92,279,118"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="177,142,300,169"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#gae117d5576b6321b78bd49220acf6008b" title="m0_stob_addr_pack" alt="" coords="169,193,308,220"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga80f5f783068972cdc94324cd1b70a439" title="m0_stob_io_init" alt="" coords="182,244,295,270"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="189,294,288,321"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="172,345,305,372"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga9308afb8f3a18c9ec47e96a96bab9cea" title="m0_stob_io_prepare\l_and_launch" alt="" coords="169,396,308,438"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="185,462,292,489"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="174,513,303,540"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="189,564,288,590"/>
+<area shape="rect" id="node14" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="182,614,295,641"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="356,640,463,666"/>
+<area shape="rect" id="node16" href="$dc/da5/stobio_8c.html#ad7430e78036b418d840f7c38809fbacf" title="stobio_fini" alt="" coords="198,716,279,742"/>
+<area shape="rect" id="node17" href="$dc/da5/stobio_8c.html#afd99c77747884e1a6378bc8cfb02d9fc" title="stobio_storage_fini" alt="" coords="173,766,304,793"/>
+<area shape="rect" id="node18" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="204,817,273,844"/>
+</map>

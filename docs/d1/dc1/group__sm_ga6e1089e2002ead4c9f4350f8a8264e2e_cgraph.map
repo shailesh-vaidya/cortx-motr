@@ -1,0 +1,8 @@
+<map id="m0_sm_group_call" name="m0_sm_group_call">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="191,5,326,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga7c8a5ae8d58ae95dd6dc50e216f3c27d" title="sm_call_ast" alt="" coords="213,56,305,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="197,107,320,133"/>
+<area shape="rect" id="node5" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="231,157,286,184"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="184,208,333,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="191,259,326,285"/>
+</map>

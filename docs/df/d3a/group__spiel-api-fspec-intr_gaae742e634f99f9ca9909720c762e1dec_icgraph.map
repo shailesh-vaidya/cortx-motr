@@ -1,0 +1,6 @@
+<map id="spiel_rpc_link_destroy" name="spiel_rpc_link_destroy">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2bff2b0d4e3c1a6fe05583f236e591d5" title="spiel_svc_generic_handler" alt="" coords="204,5,379,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga22843c0911623df35e0640086a591dad" title="spiel_device_command\l_fop_send" alt="" coords="212,57,371,98"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga005fb01e6d7472ba4d98379db6702e18" title="spiel_process_command\l_execute" alt="" coords="208,122,375,163"/>
+<area shape="rect" id="node5" href="$d9/d50/group__spiel-api-fspec.html#ga8e68c9c0b50fc19a21cbebea15130061" title="m0_spiel_process_list\l_services" alt="" coords="216,187,367,229"/>
+</map>

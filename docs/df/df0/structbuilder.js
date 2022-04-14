@@ -1,0 +1,28 @@
+var structbuilder =
+[
+    [ "b_act", "df/df0/structbuilder.html#a4ef4d58df381bbba69400ebe3167fe37", null ],
+    [ "b_ad_dom", "df/df0/structbuilder.html#ac45387b75355cb2d7d1376f38e23cc1a", null ],
+    [ "b_ad_dom_count", "df/df0/structbuilder.html#aaa91ed9bdbcdb9a50b00b373abb50178", null ],
+    [ "b_ad_domain", "df/df0/structbuilder.html#aac68a138812132041aee62d286b23cb9", null ],
+    [ "b_ad_info", "df/df0/structbuilder.html#a746311b3429805753043ebac8fe20838", null ],
+    [ "b_backend", "df/df0/structbuilder.html#a7433515902930a59caa382d0f1a2712a", null ],
+    [ "b_be_config_file", "df/df0/structbuilder.html#ac5793c33dd07d3067607c389234081ec", null ],
+    [ "b_cache", "df/df0/structbuilder.html#a2d6a1c9912cd0579df100d6749201f8b", null ],
+    [ "b_coblock", "df/df0/structbuilder.html#a614e1ac7cc99f3b6e23c69d84a622938", null ],
+    [ "b_cred", "df/df0/structbuilder.html#add487b978656b432c7c105901b0ca92b", null ],
+    [ "b_ctglock", "df/df0/structbuilder.html#a9126302667b8dcb59d545a6572b74b5b", null ],
+    [ "b_data", "df/df0/structbuilder.html#a698c185aba8bbee4184fcb1627b66324", null ],
+    [ "b_dom", "df/df0/structbuilder.html#ab87d1ded91dc5dca0a3c27f625e1fe4a", null ],
+    [ "b_dom_path", "df/df0/structbuilder.html#ab1db86b5903cb54693a4f2f0812ea9cf", null ],
+    [ "b_emaplock", "df/df0/structbuilder.html#a7e6faaa5506b66cea3db8eca1f509823", null ],
+    [ "b_ios_cdom", "df/df0/structbuilder.html#afa6edd316baadd7afff75b6417ac0edb", null ],
+    [ "b_mds_cdom", "df/df0/structbuilder.html#ad94fe46d5504abbf0fcf8f82d56f75d1", null ],
+    [ "b_pver_fid", "df/df0/structbuilder.html#a97414980fc259de4d48ecf1edc40a483", null ],
+    [ "b_q", "df/df0/structbuilder.html#ac730082ece5a8d25906d341de6470c21", null ],
+    [ "b_reqh", "df/df0/structbuilder.html#a03f123ad5f51a06938452d14a54229b8", null ],
+    [ "b_seg", "df/df0/structbuilder.html#a3b55a5ae587a85d7c4f85426572ed856", null ],
+    [ "b_seg0", "df/df0/structbuilder.html#af40e0aba4fdc3ecba54791be082a55cd", null ],
+    [ "b_size", "df/df0/structbuilder.html#a377119e0856ecf2523f529ef35e0044e", null ],
+    [ "b_stob_path", "df/df0/structbuilder.html#a02f239d4a5da28165a156c4b9d903935", null ],
+    [ "b_thread", "df/df0/structbuilder.html#afc0a7845aa4295c70d2d21acd825426d", null ]
+];

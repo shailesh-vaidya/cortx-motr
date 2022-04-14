@@ -1,0 +1,9 @@
+<map id="m0_rm_resource_add" name="m0_rm_resource_add">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="223,5,337,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gae9426b10eb629ba5b08de7c0e488dc43" title="resource_type_invariant" alt="" coords="200,56,360,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga94f9ac25efa27373eaf97edf2f939466" title="m0_rm_resource_find" alt="" coords="207,107,353,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="227,157,333,184"/>
+<area shape="rect" id="node6" href="$da/d70/lcredits_8c.html#a38102c3600005195b7a920a1fae55fdd" title="res_tlist_contains" alt="" coords="218,208,342,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="216,259,344,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="235,309,325,336"/>
+</map>

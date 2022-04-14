@@ -1,0 +1,6 @@
+<map id="m0_rpc_session_timedwait" name="m0_rpc_session_timedwait">
+<area shape="rect" id="node2" href="$dc/dc7/rpc_2ub_2ub_8c.html#ab84c451884896031153939bcac34c694" title="run" alt="" coords="320,5,360,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga5746d4069c84e83a0e43db25b84a5e52" title="m0_rpc_session_establish_sync" alt="" coords="235,56,445,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga36e8852a3c32ddc746755e8e9966b2fe" title="m0_rpc_session_terminate_sync" alt="" coords="233,107,447,133"/>
+<area shape="rect" id="node5" href="$d7/d2a/link__ut_8c.html#a3403e30d93cb730c06f77c74d33d56c7" title="rlut_connect_async" alt="" coords="273,157,407,184"/>
+</map>

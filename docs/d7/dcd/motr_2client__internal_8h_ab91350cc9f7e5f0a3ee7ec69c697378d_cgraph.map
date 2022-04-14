@@ -1,0 +1,10 @@
+<map id="m0_entity_init" name="m0_entity_init">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a5a55be3273c3e35713508d5992292266" title="entity_id_is_valid" alt="" coords="182,5,305,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga5f0a3371e7db29eecd202d84dad4bf57" title="m0_sm_conf_is_initialized" alt="" coords="156,56,331,83"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#affee1358073e76db4228b4759d29c4c7" title="m0_entity_type_is_valid" alt="" coords="162,107,325,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="179,157,307,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="379,183,485,209"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="199,259,288,285"/>
+<area shape="rect" id="node8" href="$d6/db6/motr_2client_8c.html#ac494f31f6665bc92110786d65484f015" title="entity_invariant_full" alt="" coords="176,309,311,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="199,360,288,387"/>
+</map>

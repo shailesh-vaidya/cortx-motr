@@ -1,0 +1,7 @@
+<map id="ktest_buf_shape" name="ktest_buf_shape">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="188,5,327,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="172,57,343,98"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="172,122,343,163"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="172,187,343,229"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="188,253,327,280"/>
+</map>

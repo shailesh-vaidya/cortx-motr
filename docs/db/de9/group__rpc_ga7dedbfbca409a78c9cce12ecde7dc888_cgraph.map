@@ -1,0 +1,13 @@
+<map id="m0_rpc_item_cancel_nolock" name="m0_rpc_item_cancel_nolock">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga6183517ca5a757f1d0f92dbdf2de2d93" title="m0_rpc_conn_is_snd" alt="" coords="220,5,365,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="251,56,334,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="437,335,601,361"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="649,461,832,488"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga0a06f600075573dfc9ce4c1c52183e79" title="item_cancel_fi" alt="" coords="239,208,346,235"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="472,169,567,196"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="449,245,589,272"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="458,461,581,488"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga4e43c836b6c6f5fa51b1857390bd5b50" title="m0_rpc_frm_remove_item" alt="" coords="206,411,379,437"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gad6dc1652528ac2f81e1149ece53a657d" title="m0_rpc_packet_remove_item" alt="" coords="196,512,389,539"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="225,360,360,387"/>
+</map>

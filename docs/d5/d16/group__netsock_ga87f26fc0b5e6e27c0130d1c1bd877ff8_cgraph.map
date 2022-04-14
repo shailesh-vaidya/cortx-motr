@@ -1,0 +1,6 @@
+<map id="ma_buf_done" name="ma_buf_done">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="171,5,274,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga69b566f47f16edf4094db7e7794ddac7" title="ma_invariant" alt="" coords="340,81,436,108"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gaad5bbb2a3b9939c8f2b9ee3cdb43849a" title="buf_complete" alt="" coords="173,107,273,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="153,157,292,184"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="layout_op_get_obj" name="layout_op_get_obj">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="225,5,289,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#abc02b232b189b1ad8ee31910da0f3234" title="create_obj" alt="" coords="216,208,299,235"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="391,81,473,108"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="383,208,481,235"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="389,157,475,184"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="393,309,471,336"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="391,259,473,285"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#gae7037d6e4cc03fe7aacddb58c31d24ab" title="st_entity_fini" alt="" coords="384,385,480,412"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="204,259,311,285"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga7c070ca5cd5c3d02d56d91e7966b889b" title="m0_obj_layout_type" alt="" coords="188,461,327,488"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="180,512,335,539"/>
+<area shape="rect" id="node13" href="$df/df7/group___client.html#ga9480cc90ec301c573e30c3e34cba03b0" title="st_layout_op" alt="" coords="209,563,305,589"/>
+<area shape="rect" id="node14" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="183,664,332,691"/>
+<area shape="rect" id="node15" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="397,639,467,665"/>
+</map>

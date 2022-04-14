@@ -1,0 +1,14 @@
+<map id="target_ioreq_init" name="target_ioreq_init">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="185,5,309,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ae85c2b3583142b344d61bc397e43384b" title="page_nr" alt="" coords="213,56,281,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="180,107,313,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="373,132,449,159"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#aa6bce3b2f59513fad0833d11f817675d" title="m0__obj_is_di_enabled" alt="" coords="168,208,325,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga1a2fb02ad4d4dffde46ce5d85d5fb35b" title="m0_obj_layout_id_to\l_unit_size" alt="" coords="176,259,317,301"/>
+<area shape="rect" id="node8" href="$d7/dcd/motr_2client__internal_8h.html#aa68a415aabd975e135519ead7755e3c9" title="m0__obj_lid" alt="" coords="201,325,292,352"/>
+<area shape="rect" id="node9" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="197,376,296,403"/>
+<area shape="rect" id="node10" href="$de/df0/io__nw__xfer_8c.html#ad33a724bb7b5ad13a307654da8cd7972" title="target_ioreq_invariant" alt="" coords="173,427,320,453"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="378,452,445,479"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="183,528,311,555"/>
+<area shape="rect" id="node13" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="212,579,281,605"/>
+</map>

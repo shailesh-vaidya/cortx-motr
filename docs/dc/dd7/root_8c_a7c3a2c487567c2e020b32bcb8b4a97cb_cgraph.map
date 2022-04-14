@@ -1,0 +1,10 @@
+<map id="root_decode" name="root_decode">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#ga3bd15da27e515c8627be1be2a5b0002f" title="m0_conf_fid_is_valid" alt="" coords="156,5,300,32"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="165,56,291,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="177,107,279,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="357,196,433,223"/>
+<area shape="rect" id="node6" href="$d8/d64/group__buf.html#ga1617e4ccca48dd49ff18398cc3eb6ce7" title="m0_bufs_to_strings" alt="" coords="160,208,296,235"/>
+<area shape="rect" id="node7" href="$df/d21/conf_2objs_2common_8c.html#a2bba8c4da1d70fb725114e43c15dbd17" title="dir_create_and_populate" alt="" coords="147,259,309,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="362,272,429,299"/>
+<area shape="rect" id="node9" href="$d0/d43/lib_2string_8c.html#a5469213fa2ca28ec3b7c348e20d44868" title="m0_strings_free" alt="" coords="171,360,285,387"/>
+</map>

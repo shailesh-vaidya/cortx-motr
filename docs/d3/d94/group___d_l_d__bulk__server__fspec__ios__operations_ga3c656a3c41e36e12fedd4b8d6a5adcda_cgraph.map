@@ -1,0 +1,6 @@
+<map id="m0_ios_delete_buffer_pool" name="m0_ios_delete_buffer_pool">
+<area shape="rect" id="node2" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga797796346b1076d4ab48c2f34a279b35" title="m0_reqh_io_service\l_invariant" alt="" coords="239,5,378,47"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="243,71,374,98"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga6a3e7055ae94f1e50574dc7c8816c284" title="m0_net_buffer_pool_fini" alt="" coords="229,122,388,149"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="436,147,505,174"/>
+</map>

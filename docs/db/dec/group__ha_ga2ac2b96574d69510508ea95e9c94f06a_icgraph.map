@@ -1,0 +1,4 @@
+<map id="ha_link_conn_cfg_free" name="ha_link_conn_cfg_free">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga6a5bc89afaa1834b50f6a188a840af18" title="m0_ha_link_reconnect_end" alt="" coords="205,5,385,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga2a0c1413d0e24a7423b06a4f26f1e021" title="ha_link_outgoing_fom_tick" alt="" coords="207,56,383,83"/>
+</map>

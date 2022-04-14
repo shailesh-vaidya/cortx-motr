@@ -1,0 +1,7 @@
+<map id="m0_rm_net_locate" name="m0_rm_net_locate">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga13193532e1436e24464cbe198a826ba9" title="service_locate" alt="" coords="193,5,300,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="359,56,425,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gae5e8d035911be3dcebe9812d2bcff41e" title="resource_locate" alt="" coords="189,107,304,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="189,157,304,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="183,208,311,235"/>
+</map>

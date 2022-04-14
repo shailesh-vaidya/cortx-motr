@@ -1,0 +1,15 @@
+<map id="m0_rm_owner_windup" name="m0_rm_owner_windup">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#gad440a28f2e23ce947483fdcae21be789" title="rlock_ctx_owner_windup" alt="" coords="220,5,385,32"/>
+<area shape="rect" id="node3" href="$d2/dab/file_2ut_2file_8c.html#ac4314d89b9106e119cf04c18e5682780" title="fl_owner_unset" alt="" coords="247,56,358,83"/>
+<area shape="rect" id="node4" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3b389851aad13103ae1d974bf79b69cf" title="sns_cm_fctx_rm_fini" alt="" coords="231,107,374,133"/>
+<area shape="rect" id="node5" href="$d8/d2b/inode_8c.html#a4c9ec66de9973dd53e298aa8f2ff1fae" title="m0t1fs_file_lock_fini" alt="" coords="232,157,373,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga2de8cadad9aeb6f9fe4244bfb0970b68" title="rm_ctx_fini" alt="" coords="259,208,346,235"/>
+<area shape="rect" id="node7" href="$de/def/group__rm__service.html#ga7dbf572e9d84b36c3c75a64adea97b37" title="rms_resources_free" alt="" coords="234,259,371,285"/>
+<area shape="rect" id="node8" href="$de/d32/ut_2rm__service_8c.html#a64fcd124920f0e308e439f313c3b3d89" title="test_flock" alt="" coords="263,309,342,336"/>
+<area shape="rect" id="node9" href="$de/d32/ut_2rm__service_8c.html#aebdab9d5a295367002d205932ec18266" title="rm_client" alt="" coords="448,335,523,361"/>
+<area shape="rect" id="node10" href="$da/dcf/wlock__helper_8c.html#afc40b333b2dcca0d71e257deabbef8d3" title="wlock_ctx_owner_windup" alt="" coords="217,411,388,437"/>
+<area shape="rect" id="node11" href="$d5/d57/rmapi_8c.html#aaea5349197a3f7f9317950776d529a9b" title="credits_api_test" alt="" coords="245,461,360,488"/>
+<area shape="rect" id="node12" href="$d5/d57/rmapi_8c.html#a81a812ec6ca911902b89509916759566" title="owner_api_test" alt="" coords="247,512,358,539"/>
+<area shape="rect" id="node13" href="$d9/d02/rmut_8h.html#a26c23a913990165333fe9405a7fe8bf4" title="rm_utdata_owner_windup_fini" alt="" coords="205,563,400,589"/>
+<area shape="rect" id="node14" href="$d9/d02/rmut_8h.html#a114005c80cbe0ff5444c7bec00c286ca" title="rm_ctx_server_owner\l_windup" alt="" coords="229,614,376,655"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d6/dd8/namespacehist.html#a3ac6e02777362ad7f161c50ff240db47" title="hist.load" alt="" coords="301,31,372,58"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#gad96d407a911fbb914fa8e4cfbf2faf0f" title="usage" alt="" coords="150,449,207,475"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga47f000eb88ea13ff6aa671d98ffaf673" title="m0_threads_once_init" alt="" coords="104,499,253,526"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#ga9e71dbb83acce00e06f5a15b916604b3" title="m0_instance_setup" alt="" coords="111,550,246,577"/>
+<area shape="rect" id="node6" href="$d1/d22/logger_8c.html#a0471c90e4daf3e4f1a2bce155374beac" title="cr_log" alt="" coords="308,107,365,134"/>
+<area shape="rect" id="node7" href="$d8/d42/group__crate.html#ga538d3674763b83518d72d349bc6017c1" title="workload_init" alt="" coords="129,297,228,323"/>
+<area shape="rect" id="node8" href="$d8/d42/group__crate.html#ga29b37ebfac610c3b0e1fb91d1cc54ff3" title="wop" alt="" coords="313,271,360,298"/>
+<area shape="rect" id="node9" href="$d6/db8/group__crate__parser.html#ga7b067fcba2ae61562ddb146d04afa2fb" title="parse_yaml_file" alt="" coords="122,43,235,70"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="302,373,371,399"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="141,601,217,627"/>
+<area shape="rect" id="node12" href="$d1/dc0/group__crate__utils.html#gaf79f543de8d420b27f2367b8c5854602" title="getnum" alt="" coords="146,145,211,171"/>
+<area shape="rect" id="node13" href="$d8/def/group__crate__logger.html#ga6c91d64f4b59ac5033754ab49e667a9b" title="cr_set_debug_level" alt="" coords="111,651,246,678"/>
+<area shape="rect" id="node14" href="$d8/d42/group__crate.html#gaf8d06c917deff1e1bbd3dcaf30469492" title="workload_run" alt="" coords="129,195,228,222"/>
+<area shape="rect" id="node15" href="$d8/d42/group__crate.html#ga0ff0f1ee3cf98bb978ad61f2da15f3a4" title="workload_fini" alt="" coords="129,347,228,374"/>
+</map>

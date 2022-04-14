@@ -1,0 +1,7 @@
+<map id="handle_fdmi_rec_not" name="handle_fdmi_rec_not">
+<area shape="rect" id="node2" href="$d1/d12/group__fol.html#ga6ee0cdc7b06bb4d36e934a25bf23a5bb" title="m0_fol_rec_init" alt="" coords="208,5,319,32"/>
+<area shape="rect" id="node3" href="$d1/d12/group__fol.html#ga240300d5ac437dd9b6b354a94848807e" title="m0_fol_rec_decode" alt="" coords="196,56,331,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="379,81,448,108"/>
+<area shape="rect" id="node5" href="$d1/d12/group__fol.html#gab7e993b64f67b8ee3717bcddd031778a" title="m0_fol_rec_to_str" alt="" coords="200,157,327,184"/>
+<area shape="rect" id="node6" href="$d1/d12/group__fol.html#ga3f4f1a824e9a9f69cc897392f01ae9d2" title="m0_fol_rec_fini" alt="" coords="208,208,319,235"/>
+</map>

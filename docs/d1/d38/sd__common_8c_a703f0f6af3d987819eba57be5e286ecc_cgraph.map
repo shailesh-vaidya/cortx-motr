@@ -1,0 +1,11 @@
+<map id="fdmi_serv_start_ut" name="fdmi_serv_start_ut">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#ga65476510ec9dd526f9ea5ab6abeb0fe8" title="m0_cs_init" alt="" coords="228,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="201,56,340,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="215,107,327,133"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#gaf2fbb0b70ddfa715b155035529252536" title="m0_reqh_service_allocate" alt="" coords="184,157,357,184"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#ga88306fc48664fbe1496b46757cadc922" title="m0_reqh_service_init" alt="" coords="198,208,343,235"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="226,259,315,285"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#gaaa3ff5976658592e379be7c3b9fbd4b0" title="m0_reqh_service_start" alt="" coords="193,309,348,336"/>
+<area shape="rect" id="node9" href="$d5/d8c/group__reqh.html#ga074be1304e31590ad109bd330c6fb336" title="m0_reqh_start" alt="" coords="218,360,323,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="226,411,315,437"/>
+</map>

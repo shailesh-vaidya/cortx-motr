@@ -1,0 +1,15 @@
+<map id="m0_write_cc" name="m0_write_cc">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="388,309,429,335"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="201,55,289,82"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="176,106,313,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga33389a834a51e2556fd7cdcff1d0d6fb" title="m0_obj_lock_init" alt="" coords="185,157,304,183"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga3221f58098cfedf2584c570769cc398e" title="m0_obj_write_lock_get_sync" alt="" coords="149,207,340,234"/>
+<area shape="rect" id="node7" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a836f476eb5656a12ad83acdee4a294fc" title="create_object" alt="" coords="195,258,295,285"/>
+<area shape="rect" id="node8" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a0b0f2f2574ee0e0a99fccb40460e9c6f" title="alloc_prepare_vecs" alt="" coords="177,309,312,335"/>
+<area shape="rect" id="node9" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a237fff4bed36ec64c65c2b4308fe6fc5" title="read_data_from_file" alt="" coords="177,359,313,386"/>
+<area shape="rect" id="node10" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#ad5b8071f092cb9a6a08187a604b391d6" title="write_data_to_object" alt="" coords="173,410,316,437"/>
+<area shape="rect" id="node11" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#aa3b63600dfa11bac5a09ff393daea5d9" title="cleanup_vecs" alt="" coords="193,461,296,487"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#gaa335ee111e5ac4fa91ec36216810f1eb" title="m0_obj_lock_put" alt="" coords="185,511,305,538"/>
+<area shape="rect" id="node13" href="$d2/def/group__client.html#gaad8fd6b1932bb15f830e7b945b46d374" title="m0_obj_lock_fini" alt="" coords="185,562,304,589"/>
+<area shape="rect" id="node14" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="193,613,296,639"/>
+</map>

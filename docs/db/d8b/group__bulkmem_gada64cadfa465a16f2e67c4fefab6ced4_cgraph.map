@@ -1,0 +1,5 @@
+<map id="m0_mem_xprt_init" name="m0_mem_xprt_init">
+<area shape="rect" id="node2" href="$dd/d12/group__list.html#gae479855d2a4231a12ad18ac0ebd7d285" title="m0_list_init" alt="" coords="221,5,309,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gab5569eded06d8e55513fe46e5add4ac8" title="m0_net_xprt_register" alt="" coords="193,56,337,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga810f62fdcaf6ab41add4f828a03a8aab" title="m0_net_xprt_default_set" alt="" coords="183,107,348,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="nlx_core_buf_msg_send" name="nlx_core_buf_msg_send">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="227,5,376,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="435,81,601,108"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gaac694ab2e22ac3e6e9d8086f479480b8" title="nlx_kcore_buf_msg_send" alt="" coords="216,107,387,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="485,144,551,171"/>
+</map>

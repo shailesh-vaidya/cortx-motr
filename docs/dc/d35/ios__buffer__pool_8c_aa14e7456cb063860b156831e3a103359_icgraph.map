@@ -1,0 +1,6 @@
+<map id="check_buffer_pool_per_domain" name="check_buffer_pool_per_domain">
+<area shape="rect" id="node2" href="$dc/d35/ios__buffer__pool_8c.html#aaf86d40caad0151e89cbe6885fad8f22" title="test_ios_bp_single_dom" alt="" coords="217,5,379,32"/>
+<area shape="rect" id="node3" href="$dc/d35/ios__buffer__pool_8c.html#a9c663232f134bddae78d50dd215f3458" title="test_ios_bp_multi_dom" alt="" coords="220,56,376,83"/>
+<area shape="rect" id="node4" href="$dc/d35/ios__buffer__pool_8c.html#a89829ba9b843b69fe5e1b1b697e93348" title="test_ios_bp_repeat_dom" alt="" coords="216,107,380,133"/>
+<area shape="rect" id="node5" href="$dc/d35/ios__buffer__pool_8c.html#a1586651dbfc00ba315c5c53d716510e1" title="test_ios_bp_onerepeat_dom" alt="" coords="205,157,391,184"/>
+</map>

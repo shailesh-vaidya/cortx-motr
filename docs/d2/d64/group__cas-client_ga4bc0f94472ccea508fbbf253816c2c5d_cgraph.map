@@ -1,0 +1,10 @@
+<map id="m0_cas_next" name="m0_cas_next">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gad3f6ef0988b027e0836339fe8f8fe0dd" title="m0_cas_req_is_locked" alt="" coords="344,72,499,99"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga0019004016e6a627a1141403c86ac406" title="m0_cas_id_invariant" alt="" coords="154,33,295,60"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga1f938e902996a29f22861d1fa27ea307" title="cas_req_prep" alt="" coords="175,185,275,212"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="383,148,459,175"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="388,236,455,263"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#ga945b6a428a957e20780b246e41c18f92" title="creq_fop_create_and\l_prepare" alt="" coords="153,287,296,329"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#gaf50f296b802fe3367ad763bf1e40d6dc" title="cas_fop_send" alt="" coords="173,84,276,111"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#gaf8bb9c5f4c1cfc0ae2e79a4b61933da8" title="cas_req_state_set" alt="" coords="160,353,289,380"/>
+</map>

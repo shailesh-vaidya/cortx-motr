@@ -1,0 +1,7 @@
+<map id="nlx_ping_server_spawn" name="nlx_ping_server_spawn">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="380,5,495,32"/>
+<area shape="rect" id="node3" href="$de/dec/lnet_2st_2ping_8c.html#a8eb2f1ddb48690aa3d9eeb3779925973" title="nlx_ping_server" alt="" coords="212,100,325,127"/>
+<area shape="rect" id="node4" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="379,63,495,89"/>
+<area shape="rect" id="node5" href="$da/dea/group__cond.html#ga528fb5a1fe32776af5bba9ecacf26b6b" title="m0_cond_wait" alt="" coords="384,125,491,152"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="373,188,501,215"/>
+</map>

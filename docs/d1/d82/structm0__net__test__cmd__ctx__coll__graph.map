@@ -1,0 +1,7 @@
+<map id="m0_net_test_cmd_ctx" name="m0_net_test_cmd_ctx">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="5,167,88,245"/>
+<area shape="rect" id="node3" href="$d9/d43/structm0__net__test__cmd__buf__status.html" title="{m0_net_test_cmd_buf\l_status\n||}" alt="" coords="117,160,267,252"/>
+<area shape="rect" id="node4" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="291,167,402,245"/>
+<area shape="rect" id="node5" href="$d9/d6d/structm0__net__test__ringbuf.html" title="{m0_net_test_ringbuf\n||}" alt="" coords="563,167,703,245"/>
+<area shape="rect" id="node7" href="$de/d31/structm0__net__test__network__ctx.html" title="{m0_net_test_network_ctx\n||}" alt="" coords="727,167,899,245"/>
+</map>

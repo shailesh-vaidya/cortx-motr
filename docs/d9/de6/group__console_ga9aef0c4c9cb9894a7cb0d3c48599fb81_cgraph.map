@@ -1,0 +1,5 @@
+<map id="cons_client_init" name="cons_client_init">
+<area shape="rect" id="node2" href="$d9/de6/group__console.html#gacfb0b63eacc29c208408169c078712e7" title="device_yaml_file" alt="" coords="174,5,293,32"/>
+<area shape="rect" id="node3" href="$d7/dd4/group__console__yaml.html#ga4a151cf74b9708ec1e9ed55b7cf15e64" title="Inititalizes parser by opening given file. and also checks for error by getting root node..." alt="" coords="166,56,301,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="165,107,301,133"/>
+</map>

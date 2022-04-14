@@ -1,0 +1,10 @@
+<map id="confc_fini" name="confc_fini">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="149,5,266,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="133,56,282,83"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="132,157,283,184"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="366,157,425,184"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="154,208,261,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="331,220,460,247"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="346,296,445,323"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="140,360,275,387"/>
+</map>

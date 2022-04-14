@@ -1,0 +1,11 @@
+<map id="m0_fid_type_register" name="m0_fid_type_register">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga3174f64c02a19c602b1ef248b2ffe155" title="m0_backend_init" alt="" coords="225,5,345,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga5c24787e8a707d8feb11860d47d09f0d" title="m0_cas_module_init" alt="" coords="215,56,356,83"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga17df1dc33f08e0951efda810a4da7f21" title="m0_cob_mod_init" alt="" coords="223,107,347,133"/>
+<area shape="rect" id="node5" href="$dd/df9/group__conf__dfspec__obj.html#ga15e1e3a1e6528dfad2443f349b6ec2a4" title="m0_conf_obj_type_register" alt="" coords="196,157,375,184"/>
+<area shape="rect" id="node6" href="$dd/df9/group__conf__dfspec__obj.html#ga61171b4eae58c255717bd86890a2b395" title="m0_conf_obj_init" alt="" coords="225,208,345,235"/>
+<area shape="rect" id="node7" href="$dd/d5f/group__fid.html#gae7281584a58f1249f0cf6ed7b3d2e9f1" title="m0_fid_init" alt="" coords="243,259,328,285"/>
+<area shape="rect" id="node8" href="$de/d3f/group___file_lock.html#ga618f83833e4ff13181ec0706c4960ac8" title="m0_file_mod_init" alt="" coords="225,309,345,336"/>
+<area shape="rect" id="node9" href="$de/def/group__rm__service.html#gaaf8aa16a70d7b27314cf6801252e348d" title="m0_rms_register" alt="" coords="226,360,345,387"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga28ebe6b8e9f696158af23411c63e3be0" title="m0_stob_type_register" alt="" coords="208,411,363,437"/>
+</map>

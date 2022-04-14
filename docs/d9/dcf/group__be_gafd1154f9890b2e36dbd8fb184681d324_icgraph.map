@@ -1,0 +1,7 @@
+<map id="m0_be_log_record_skip_discard" name="m0_be_log_record_skip_discard">
+<area shape="rect" id="node2" href="$d2/df0/be_2ut_2log_8c.html#abc36de81c01ebaa7daef6d6cb7fd1b79" title="be_ut_log_multi_thread" alt="" coords="212,5,368,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#a01ee89fd493ea032edc6c90670e6a233" title="be_ut_log_multi_ut" alt="" coords="225,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/df0/be_2ut_2log_8c.html#ab6e6943d653cdc03c4f808f330c81367" title="be_ut_log_record_wait\l_fini_one" alt="" coords="214,107,366,149"/>
+<area shape="rect" id="node5" href="$d2/d39/ut_2recovery_8c.html#ad0bacf106c628c41c3124bafb9ddbe9c" title="be_ut_recovery_log_fill" alt="" coords="213,173,367,200"/>
+<area shape="rect" id="node6" href="$d9/d30/ut_2tx__group__format_8c.html#a24cd8044dc2e7b581579ab7ecfa7adb5" title="be_ut_tgf_group_write" alt="" coords="215,224,365,251"/>
+</map>

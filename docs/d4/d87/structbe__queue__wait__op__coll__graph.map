@@ -1,0 +1,6 @@
+<map id="be_queue_wait_op" name="be_queue_wait_op">
+<area shape="rect" id="node5" href="$d8/d14/structbe__queue__item.html" title="{be_queue_item\n||}" alt="" coords="173,315,284,392"/>
+<area shape="rect" id="node6" href="$de/d06/structm0__buf.html" title="{m0_buf\n||}" alt="" coords="162,145,228,223"/>
+<area shape="rect" id="node7" href="$d5/d3a/structm0__be__op.html" title="{m0_be_op\n||}" alt="" coords="418,315,500,392"/>
+<area shape="rect" id="node3" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="297,145,368,223"/>
+</map>

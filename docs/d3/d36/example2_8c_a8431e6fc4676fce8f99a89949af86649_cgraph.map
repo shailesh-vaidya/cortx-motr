@@ -1,0 +1,8 @@
+<map id="index_get" name="index_get">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="153,5,273,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="132,56,295,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="169,107,257,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="171,157,256,184"/>
+<area shape="rect" id="node6" href="$d3/d36/example2_8c.html#ac8c28fcb8fb91ccfde71b645534c25a6" title="op_launch_wait_fini" alt="" coords="145,208,281,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="156,259,271,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="chs_dev" name="chs_dev">
+<area shape="rect" id="node3" href="$d7/de6/structcnt.html" title="{cnt\n||}" alt="" coords="331,307,371,384"/>
+<area shape="rect" id="node5" href="$da/d0c/structsim__chan.html" title="{sim_chan\n||}" alt="" coords="393,597,472,675"/>
+<area shape="rect" id="node6" href="$de/d3c/structsim__callout.html" title="{sim_callout\n||}" alt="" coords="451,452,539,529"/>
+<area shape="rect" id="node7" href="$d7/dbb/structchs__conf.html" title="{chs_conf\n|+ cc_cylinders\l+ cc_track_skew\l+ cc_sectors_min\l+ cc_sectors_max\l+ cc_seek_avg\l+ cc_command_latency\l+ cyl_sectors\l|}" alt="" coords="547,408,708,573"/>
+<area shape="rect" id="node8" href="$d1/dcb/structstorage__dev.html" title="{storage_dev\n||}" alt="" coords="710,597,803,675"/>
+</map>

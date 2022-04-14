@@ -1,0 +1,9 @@
+<map id="ioreq_parity_verify" name="ioreq_parity_verify">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#a1fa97a3d8f65a6bcf17f78ec486d4042" title="m0_op_io_invariant" alt="" coords="199,5,333,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="204,56,328,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="218,107,314,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="233,157,299,184"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="191,208,341,235"/>
+<area shape="rect" id="node7" href="$df/d01/group__pdclust.html#gafa1201b5cf349cc9476b6080b09a5022" title="m0_pdclust_is_replicated" alt="" coords="181,259,351,285"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="200,309,332,336"/>
+</map>

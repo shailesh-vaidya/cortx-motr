@@ -1,0 +1,8 @@
+<map id="owner_state_set" name="owner_state_set">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga029938b1c5e2aa4726d08acf8df102a3" title="owner_finalisation\l_check" alt="" coords="196,5,323,47"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga66f0aa542468273007b2324acc60bd86" title="m0_rm_owner_init" alt="" coords="195,71,323,98"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gafb68d3dd01c57888005c41b5db608fea" title="m0_rm_owner_creditor\l_reset" alt="" coords="182,123,337,164"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gaa59379775dd45bf5e3b9c43693cffee2" title="owner_windup_locked" alt="" coords="184,189,335,215"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="395,214,547,241"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gaea280d7e0fb92b01305b6ff986dca433" title="rm_remote_online_handler" alt="" coords="172,290,347,317"/>
+</map>

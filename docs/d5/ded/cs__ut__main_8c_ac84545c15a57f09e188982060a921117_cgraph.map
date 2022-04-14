@@ -1,0 +1,20 @@
+<map id="test_cs_ut_rconfc_fatal" name="test_cs_ut_rconfc_fatal">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="632,200,691,227"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="224,428,363,455"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="237,479,349,506"/>
+<area shape="rect" id="node5" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="223,530,364,556"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="450,74,557,100"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#gae10be5add2e843f7c68e0c9fccf6719b" title="m0_reqh2profile" alt="" coords="236,580,351,607"/>
+<area shape="rect" id="node8" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="233,631,353,658"/>
+<area shape="rect" id="node9" href="$d5/ded/cs__ut__main_8c.html#ab7a39e327ba50d2c9b965c075dfbc27a" title="cs_ut_reqh2rmach" alt="" coords="439,707,568,734"/>
+<area shape="rect" id="node10" href="$df/d15/group__rconfc__dfspec.html#gaa60d0cf80399e8d96afd2389c10660d5" title="m0_rconfc_start_sync" alt="" coords="428,124,579,151"/>
+<area shape="rect" id="node11" href="$d5/ded/cs__ut__main_8c.html#add0e70a6487ec88b795c26d7c0d9ae38" title="cs_ut_register_signal" alt="" coords="221,783,366,810"/>
+<area shape="rect" id="node12" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="446,276,561,303"/>
+<area shape="rect" id="node13" href="$db/d90/group__rconfc__dlspec.html#ga3ba661a6b0ee9bb19e340d92ebebd0c8" title="m0_rconfc_fatal_cb_set" alt="" coords="423,175,584,202"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="439,327,567,354"/>
+<area shape="rect" id="node15" href="$d5/ded/cs__ut__main_8c.html#a203d55f6cd3f5802e1139b53502e7edd" title="cs_ut_write_lock_trigger" alt="" coords="212,732,375,759"/>
+<area shape="rect" id="node16" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="226,834,361,860"/>
+<area shape="rect" id="node17" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="218,276,369,303"/>
+<area shape="rect" id="node18" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="240,378,347,404"/>
+<area shape="rect" id="node19" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="223,884,363,911"/>
+</map>

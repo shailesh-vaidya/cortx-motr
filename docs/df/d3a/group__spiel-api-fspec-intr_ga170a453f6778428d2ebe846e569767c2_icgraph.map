@@ -1,0 +1,22 @@
+<map id="spiel_pool_generic_handler" name="spiel_pool_generic_handler">
+<area shape="rect" id="node2" href="$d9/d50/group__spiel-api-fspec.html#ga1006230964c5b12d8b039ec6e0690141" title="m0_spiel_sns_repair\l_start" alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$d9/d50/group__spiel-api-fspec.html#ga21e2a7143089f9c3692e01a04820e65a" title="m0_spiel_dix_repair\l_start" alt="" coords="197,71,334,112"/>
+<area shape="rect" id="node4" href="$d9/d50/group__spiel-api-fspec.html#ga0c4e68b880baf439d4d070067368af10" title="m0_spiel_sns_repair\l_continue" alt="" coords="195,136,336,177"/>
+<area shape="rect" id="node5" href="$d9/d50/group__spiel-api-fspec.html#gaefdb65ba43fc9728a91bad7efe6a6156" title="m0_spiel_dix_repair\l_continue" alt="" coords="197,201,334,243"/>
+<area shape="rect" id="node6" href="$d9/d50/group__spiel-api-fspec.html#gabb94d62b12c86adccc70d65db96d6794" title="m0_spiel_sns_repair\l_quiesce" alt="" coords="195,267,336,308"/>
+<area shape="rect" id="node7" href="$d9/d50/group__spiel-api-fspec.html#ga1ec6609df88b27b39ffd382be8d591cc" title="m0_spiel_dix_repair\l_quiesce" alt="" coords="197,332,334,373"/>
+<area shape="rect" id="node8" href="$d9/d50/group__spiel-api-fspec.html#gafde6e53cbf22e8b84f06f954e0f53e15" title="m0_spiel_sns_repair\l_abort" alt="" coords="195,397,336,439"/>
+<area shape="rect" id="node9" href="$d9/d50/group__spiel-api-fspec.html#ga684ca6fd831f1f643db4ccdba9d784d3" title="m0_spiel_dix_repair\l_abort" alt="" coords="197,463,334,504"/>
+<area shape="rect" id="node10" href="$d9/d50/group__spiel-api-fspec.html#ga8e8a0f7f67abe316bae0effe47728852" title="m0_spiel_sns_repair\l_status" alt="" coords="195,528,336,569"/>
+<area shape="rect" id="node11" href="$d9/d50/group__spiel-api-fspec.html#ga2c55fc7293cd34b83e8d45366d887d7a" title="m0_spiel_dix_repair\l_status" alt="" coords="197,593,334,635"/>
+<area shape="rect" id="node12" href="$d9/d50/group__spiel-api-fspec.html#gaaf6cf52d774d483f708e27200c2d8520" title="m0_spiel_sns_rebalance\l_start" alt="" coords="183,659,348,700"/>
+<area shape="rect" id="node13" href="$d9/d50/group__spiel-api-fspec.html#gaa515c0af2aa58ae7f58f0cb76ba7c9d1" title="m0_spiel_dix_rebalance\l_start" alt="" coords="185,724,346,765"/>
+<area shape="rect" id="node14" href="$d9/d50/group__spiel-api-fspec.html#ga472144b0ce5539c5b720f9f225d5c085" title="m0_spiel_sns_rebalance\l_continue" alt="" coords="183,789,348,831"/>
+<area shape="rect" id="node15" href="$d9/d50/group__spiel-api-fspec.html#gab801dd658cf2d9f41719205ffa4f9682" title="m0_spiel_dix_rebalance\l_continue" alt="" coords="185,855,346,896"/>
+<area shape="rect" id="node16" href="$d9/d50/group__spiel-api-fspec.html#ga973a0b3d192f02f1422cc09c0231e07f" title="m0_spiel_sns_rebalance\l_quiesce" alt="" coords="183,920,348,961"/>
+<area shape="rect" id="node17" href="$d9/d50/group__spiel-api-fspec.html#ga361c940cfcebee702cbbaded4c670e56" title="m0_spiel_dix_rebalance\l_quiesce" alt="" coords="185,985,346,1027"/>
+<area shape="rect" id="node18" href="$d9/d50/group__spiel-api-fspec.html#ga377a3bafe2424897ae2670a478ae37db" title="m0_spiel_sns_rebalance\l_status" alt="" coords="183,1051,348,1092"/>
+<area shape="rect" id="node19" href="$d9/d50/group__spiel-api-fspec.html#ga46bd8e22c3c78752fdc9a584fabb403d" title="m0_spiel_dix_rebalance\l_status" alt="" coords="185,1116,346,1157"/>
+<area shape="rect" id="node20" href="$d9/d50/group__spiel-api-fspec.html#gadc57c78ac08a47b7fb342eb60cc6d517" title="m0_spiel_sns_rebalance\l_abort" alt="" coords="183,1181,348,1223"/>
+<area shape="rect" id="node21" href="$d9/d50/group__spiel-api-fspec.html#ga614a08831b195e18fb8afd049b91a0b7" title="m0_spiel_dix_rebalance\l_abort" alt="" coords="185,1247,346,1288"/>
+</map>

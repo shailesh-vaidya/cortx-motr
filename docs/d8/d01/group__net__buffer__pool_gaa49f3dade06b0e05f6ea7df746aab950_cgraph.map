@@ -1,0 +1,5 @@
+<map id="m0_net_buffer_pool_invariant" name="m0_net_buffer_pool_invariant">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga5891449a008a0d2a5fcad686b2f2e63e" title="m0_net_buffer_pool\l_is_locked" alt="" coords="195,5,329,47"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#ga1d15c8fbe233ea612aa943c6d4c5d0f0" title="pool_colour_check" alt="" coords="197,71,327,98"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#gab271958565699ec3b9b3cb533d37a947" title="pool_lru_buffer_check" alt="" coords="188,122,336,149"/>
+</map>

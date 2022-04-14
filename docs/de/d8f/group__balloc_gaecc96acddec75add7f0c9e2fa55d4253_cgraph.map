@@ -1,0 +1,15 @@
+<map id="m0_balloc_create" name="m0_balloc_create">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="228,5,279,32"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga175328f0c01a64b996894fff5a350565" title="m0_be_tx_init" alt="" coords="202,56,305,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="193,107,314,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga1eca42a1cfe5fbe1a14ce17e8a37984c" title="m0_be_btree_create\l_credit" alt="" coords="183,158,323,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga0a1cbdeb2c427b81f14ee94bfa955aed" title="m0_be_btree_fini" alt="" coords="193,224,314,251"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="198,275,309,301"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="179,325,328,352"/>
+<area shape="rect" id="node9" href="$d9/dd5/balloc_8c.html#a2b30717461f79e2935372bd8d05180e2" title="balloc_format_init" alt="" coords="191,376,315,403"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#a13c25211b78b0899e94c03d250b79a07" title="balloc_trees_create" alt="" coords="186,427,321,453"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="377,452,444,479"/>
+<area shape="rect" id="node12" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="177,528,329,555"/>
+<area shape="rect" id="node13" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="202,579,305,605"/>
+<area shape="rect" id="node14" href="$de/d8f/group__balloc.html#gad54bb8b3a3da2b54b457b97dcd1f70c7" title="m0_balloc_init" alt="" coords="201,629,306,656"/>
+</map>

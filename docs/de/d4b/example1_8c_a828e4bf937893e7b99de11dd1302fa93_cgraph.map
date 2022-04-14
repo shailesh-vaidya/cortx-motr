@@ -1,0 +1,7 @@
+<map id="object_open" name="object_open">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga83b17d626874459cf3fa9663bf67dc57" title="m0_entity_open" alt="" coords="145,5,260,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="149,56,256,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="157,107,249,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="160,157,245,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="157,208,248,235"/>
+</map>

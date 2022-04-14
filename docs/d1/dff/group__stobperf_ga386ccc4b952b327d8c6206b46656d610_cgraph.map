@@ -1,0 +1,12 @@
+<map id="stob_perf_domain_create" name="stob_perf_domain_create">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#ga055c14e456478e0d58face4fdd5c3580" title="stob_perf_domain_cfg\l_parse" alt="" coords="245,5,395,47"/>
+<area shape="rect" id="node3" href="$d1/dff/group__stobperf.html#gadb8d2d4187fe596ec48b260b0a945d77" title="stob_perf_domain_tmpfs_opts" alt="" coords="221,122,419,149"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="467,151,543,178"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#ga3883d003c3aed89edbd5ecd57187b338" title="stob_perf_domain_ldom\l_location" alt="" coords="240,457,400,499"/>
+<area shape="rect" id="node6" href="$d1/dff/group__stobperf.html#ga840124e17e2a63f2401f7fdf79d009e8" title="stob_perf_domain_dir\l_clean" alt="" coords="247,173,393,215"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="471,246,538,273"/>
+<area shape="rect" id="node8" href="$d1/dff/group__stobperf.html#ga35e6170d09a563630d5524360a37524c" title="stob_perf_domain_write\l_config" alt="" coords="240,239,400,280"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="470,355,539,382"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#gaea5530a0eecda769151b3db2751d83e3" title="m0_stob_domain_create" alt="" coords="238,523,402,550"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#gabbd339f3e7924e9ee2be1667b7ef0991" title="m0_stob_domain_fini" alt="" coords="247,406,393,433"/>
+</map>

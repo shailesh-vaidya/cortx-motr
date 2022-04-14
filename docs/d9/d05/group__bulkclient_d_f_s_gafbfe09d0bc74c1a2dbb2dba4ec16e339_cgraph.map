@@ -1,0 +1,7 @@
+<map id="m0_cobfop_common_get" name="m0_cobfop_common_get">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga1a417843776b0a95fb0bee9548661bee" title="m0_is_cob_create_fop" alt="" coords="222,5,375,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="250,56,347,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#gaa5321cef10ea9d681fcf19578f13117d" title="m0_is_cob_delete_fop" alt="" coords="223,107,375,133"/>
+<area shape="rect" id="node5" href="$d9/d05/group__bulkclient_d_f_s.html#gaaebd2e6fc4a1de82be17f5e4b200ac0c" title="m0_is_cob_getattr_fop" alt="" coords="221,157,376,184"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#gaf1de1d1e87acf454944c4b5615560680" title="m0_is_cob_setattr_fop" alt="" coords="221,208,376,235"/>
+</map>

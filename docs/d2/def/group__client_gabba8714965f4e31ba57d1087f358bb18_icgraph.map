@@ -1,0 +1,8 @@
+<map id="rm_ctx_init" name="rm_ctx_init">
+<area shape="rect" id="node2" href="$d2/dab/file_2ut_2file_8c.html#a03c14a6768235d97f7cd65512cb348a1" title="flock_utinit" alt="" coords="169,5,254,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga33389a834a51e2556fd7cdcff1d0d6fb" title="m0_obj_lock_init" alt="" coords="152,56,271,83"/>
+<area shape="rect" id="node4" href="$dd/d39/ut_2rm__foms_8c.html#a7b6bd32edda450a1219a2a1827c0a165" title="rmfoms_utinit" alt="" coords="161,107,262,133"/>
+<area shape="rect" id="node5" href="$de/d51/ut_2rm__rwlock_8c.html#a5b1d19c8f6577dedd00189bca8ccea8d" title="rwlock_utinit" alt="" coords="164,157,259,184"/>
+<area shape="rect" id="node6" href="$db/d70/group_8c.html#a999194dae99d56744764f35f38fc2732" title="rm_group_utinit" alt="" coords="156,208,267,235"/>
+<area shape="rect" id="node7" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="140,259,283,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="_cb0" name="_cb0">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="120,5,235,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#ga1477f462e3e671a18cfcdcdd002cb206" title="m0_processor_id_get" alt="" coords="104,56,251,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="113,107,241,133"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="111,157,243,184"/>
+</map>

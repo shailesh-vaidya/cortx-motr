@@ -1,0 +1,10 @@
+<map id="m0_be_recovery_run" name="m0_be_recovery_run">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa2b0bc3040913c35756ce10dfc8989f0" title="m0_be_log_header_read" alt="" coords="197,5,360,32"/>
+<area shape="rect" id="node3" href="$da/d75/recovery_8c.html#aa9882db0f83cd89e5f58f7c5fd9373e9" title="be_recovery_log_record\l_iter_new" alt="" coords="199,57,359,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga9ac8337f43c985f004578057c7048a7d" title="m0_be_log_record_initial" alt="" coords="196,123,361,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gabcaa183c746d1f7e41304ba5fc658a96" title="m0_be_log_record_next" alt="" coords="199,173,359,200"/>
+<area shape="rect" id="node6" href="$da/d75/recovery_8c.html#a3fe8e0974cb1c1278181b26364656177" title="be_recovery_log_record\l_iter_destroy" alt="" coords="199,225,359,266"/>
+<area shape="rect" id="node7" href="$d6/d7d/ut_2consumer_8c.html#a2ebd220868e012fe30d59fb54cc137ce" title="empty" alt="" coords="249,291,308,317"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gadc9f0389a97b591de6a0e63b67a6c012" title="m0_be_log_record_prev" alt="" coords="199,341,359,368"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="234,392,323,419"/>
+</map>

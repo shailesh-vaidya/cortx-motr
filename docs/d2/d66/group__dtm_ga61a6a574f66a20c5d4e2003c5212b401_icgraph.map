@@ -1,0 +1,9 @@
+<map id="m0_dtm0_tx_desc_copy" name="m0_dtm0_tx_desc_copy">
+<area shape="rect" id="node2" href="$db/de1/dtm0__log_8c.html#ac004381feedbb3f7bbc9cd5615c0184a" title="log_rec_init" alt="" coords="257,5,345,32"/>
+<area shape="rect" id="node3" href="$de/d0c/group___d_t_m0_internals.html#ga95d33f40101e89bc27009b34af408e95" title="m0_be_dtm0_volatile\l_log_insert" alt="" coords="229,57,374,98"/>
+<area shape="rect" id="node4" href="$d4/d89/dtm0_2fop_8c.html#a9019e31a772947311cb8181753d1944f" title="dtm0_fom_create" alt="" coords="240,123,363,149"/>
+<area shape="rect" id="node5" href="$d6/df3/dtm0_2fop_8h.html#af9b60ae337d40ecc4be173968f5d986b" title="m0_dtm0_on_committed" alt="" coords="219,173,384,200"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga92a42796e5592788dbeebb50eaf26d7f" title="m0_dtx0_txd_copy" alt="" coords="235,224,367,251"/>
+<area shape="rect" id="node7" href="$db/d1b/drlink_8c.html#afcda21fe0ae533a979c5c555b333c4be" title="dtm0_req_fop_dup" alt="" coords="237,275,366,301"/>
+<area shape="rect" id="node8" href="$d6/d4a/ut_2idx__dix_8c.html#a2458bfcd4ebbdb20360bdde4359c0710" title="dtm0_ut_cas_op_prepare" alt="" coords="217,325,385,352"/>
+</map>

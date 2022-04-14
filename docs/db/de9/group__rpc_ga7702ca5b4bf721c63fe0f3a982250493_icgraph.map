@@ -1,0 +1,9 @@
+<map id="m0_rpc_item_sm_init" name="m0_rpc_item_sm_init">
+<area shape="rect" id="node2" href="$d7/d60/sd__release__fom_8c.html#a31552781e6ddae6bef2e760b438d99e9" title="imitate_release_fop_recv" alt="" coords="200,5,367,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="213,57,353,98"/>
+<area shape="rect" id="node4" href="$d6/d63/ut_2formation2_8c.html#a8af7a21266b391536e4caa1289db3f53" title="new_item" alt="" coords="244,123,323,149"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="209,173,358,200"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gacbfe74a884f1912395ef2a9bde8ad927" title="m0_rpc_reply_post" alt="" coords="217,224,349,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaefa6b9126d520945e83bf610e0c42054" title="m0_rpc_oneway_item\l_post_locked" alt="" coords="209,275,358,317"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaedf0cb0b861e8f225b159816ee5838d0" title="item_received" alt="" coords="232,341,335,368"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="alloc_buffers" name="alloc_buffers">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="148,5,316,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga192dc68dfbf640e79e605568436c1d2d" title="m0_bufvec_free_aligned" alt="" coords="151,56,313,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="197,107,267,133"/>
+</map>

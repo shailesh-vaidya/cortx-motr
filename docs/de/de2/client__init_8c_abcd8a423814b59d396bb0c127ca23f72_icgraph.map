@@ -1,0 +1,6 @@
+<map id="ha_process_event" name="ha_process_event">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#adc4afa19eef3a4f7a912604e4043893e" title="ha_init" alt="" coords="203,5,263,32"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#a8140c8db99c817f2d8384ba64f6f4101" title="ha_fini" alt="" coords="203,56,263,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga9f6880d29eac5da71e31407a592b880a" title="m0_client_init" alt="" coords="181,107,284,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#gaf0f36d6063136ad9e6eb0916f2bde26e" title="m0_client_fini" alt="" coords="181,157,284,184"/>
+</map>

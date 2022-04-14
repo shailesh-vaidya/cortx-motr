@@ -1,0 +1,5 @@
+<map id="processors_m0bitmap_copy" name="processors_m0bitmap_copy">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#gad628aafb8c0dbc17710caa50669f3484" title="m0_processors_possible" alt="" coords="240,5,407,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#gad3fc127c05ee136dac4bf222b1f59038" title="m0_processors_available" alt="" coords="239,56,408,83"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#ga6d7b1eeb7e64a79985792f29f3b92778" title="m0_processors_online" alt="" coords="247,107,399,133"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_fid_hash" name="m0_fid_hash">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="164,5,343,32"/>
+<area shape="rect" id="node3" href="$db/d1f/cob__foms_8h.html#a2c6b6ced593575809b03726b13b10d99" title="m0_cob_io_fom_locality" alt="" coords="172,56,335,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga5747020bcb265203ecdf79b6fa890ffb" title="m0_io_fom_cob_rw_locality_get" alt="" coords="149,107,357,133"/>
+<area shape="rect" id="node5" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga55a9e72179e1f853b255561017b8e8ca" title="m0_ios_mds_conn_map_hash" alt="" coords="154,157,353,184"/>
+<area shape="rect" id="node6" href="$da/d4f/isc__service_8c.html#ad82cea13c475a13c7c220ae4eb77b106" title="comp_hash_func" alt="" coords="193,208,314,235"/>
+<area shape="rect" id="node7" href="$d8/d2b/inode_8c.html#a580bfbaae8a5cd1526013442963577dc" title="m0t1fs_inode_set" alt="" coords="191,259,316,285"/>
+<area shape="rect" id="node8" href="$d8/d2b/inode_8c.html#ab3a8496664d0a3f7602153ef6901d560" title="m0t1fs_iget" alt="" coords="405,284,496,311"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#gaca9fb6ed2a7c0865b76ab28eaa626ac0" title="rm_hash_func" alt="" coords="201,360,305,387"/>
+<area shape="rect" id="node10" href="$d5/d8c/group__reqh.html#ga2ffe904963370b57917c48d7fc4aaacf" title="m0_reqh_mdpool_service\l_index_to_session" alt="" coords="168,411,339,453"/>
+<area shape="rect" id="node11" href="$df/db4/group__rpc__session.html#gae070685492fe8e4f37dc7cfd8b4e6efe" title="m0_rpc_id_generate" alt="" coords="184,477,323,504"/>
+<area shape="rect" id="node12" href="$d7/daf/group___s_n_s_c_m.html#ga1c44e5e05e14384c9c14ef67a266b472" title="m0_sns_cm_ut_file_size\l_layout" alt="" coords="170,529,337,570"/>
+</map>

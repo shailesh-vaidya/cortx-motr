@@ -1,0 +1,11 @@
+<map id="m0_conf_glob_error" name="m0_conf_glob_error">
+<area shape="rect" id="node2" href="$dc/d15/ut_2glob_8c.html#a6a5a51a3dbd7fec1adf14cff4f9c6d64" title="test_conf_glob_errors" alt="" coords="197,5,343,32"/>
+<area shape="rect" id="node3" href="$d9/d84/group__conf__validation.html#ga415e0e1a34fd4e6f6ee08b79203ee5d1" title="conf_io_stats_get" alt="" coords="207,107,333,133"/>
+<area shape="rect" id="node4" href="$d9/d84/group__conf__validation.html#ga06b2ebe664e8a55100cfe08f1876585b" title="conf_root_error" alt="" coords="412,81,521,108"/>
+<area shape="rect" id="node5" href="$d9/d84/group__conf__validation.html#ga34ecee346c64dd20d3e420e8dd69d0e2" title="conf_pvers_error" alt="" coords="407,157,526,184"/>
+<area shape="rect" id="node6" href="$d9/d84/group__conf__validation.html#gac7ce07140246f30363f02fcf75986626" title="conf_pver_actual_error" alt="" coords="193,208,347,235"/>
+<area shape="rect" id="node7" href="$d9/d84/group__conf__validation.html#ga228e7c8a4c9614313de663d94af645b8" title="conf_process_endpoint\l_error" alt="" coords="192,259,348,301"/>
+<area shape="rect" id="node8" href="$d9/d84/group__conf__validation.html#gaabaadca059cbd1ab7f868ed799291476" title="conf_endpoint_error" alt="" coords="399,296,535,323"/>
+<area shape="rect" id="node9" href="$d9/d84/group__conf__validation.html#gaa09b25028a1b7c396ffa1ad54799b61a" title="conf_service_type_error" alt="" coords="189,376,351,403"/>
+<area shape="rect" id="node10" href="$d9/d84/group__conf__validation.html#gaccfd7186406784d5287405e888dec0d1" title="conf_service_sdevs\l_error" alt="" coords="201,427,339,469"/>
+</map>

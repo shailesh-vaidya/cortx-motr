@@ -1,0 +1,9 @@
+<map id="release_op" name="release_op">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="161,5,253,32"/>
+<area shape="rect" id="node3" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="139,56,275,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#gaa8beed913080475991e2d54285538fac" title="m0_time" alt="" coords="323,107,395,133"/>
+<area shape="rect" id="node5" href="$d8/d84/st__misc_8c.html#a47df046791fa999ff0b4c7bd98345708" title="console_printf" alt="" coords="155,157,258,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="153,208,260,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="164,259,249,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="161,309,252,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="test_rw_readers" name="test_rw_readers">
+<area shape="rect" id="node2" href="$d1/d41/ut_2rwlock_8c.html#afd0192f910b4266eb6f31fd32b96866e" title="reader" alt="" coords="194,32,253,59"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="335,7,467,34"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="327,83,476,110"/>
+<area shape="rect" id="node5" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="168,134,279,160"/>
+<area shape="rect" id="node6" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="170,184,277,211"/>
+</map>

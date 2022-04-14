@@ -1,0 +1,13 @@
+<map id="conf_pver_find_by_fid_locked" name="conf_pver_find_by_fid_locked">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="632,216,757,243"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="425,5,584,32"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="471,208,538,235"/>
+<area shape="rect" id="node5" href="$d0/dc5/group__conf-pvers.html#gaf23a5523e1b5047a5fd288fb09ce1d32" title="m0_conf_pver_fid_read" alt="" coords="426,376,583,403"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="467,325,543,352"/>
+<area shape="rect" id="node7" href="$d0/dc5/group__conf-pvers.html#ga0805d9a1712f10c4f3a921b538f28ac3" title="conf_pver_formulaic\l_find_locked" alt="" coords="221,259,359,301"/>
+<area shape="rect" id="node8" href="$d0/dc5/group__conf-pvers.html#ga4c7785521a1068fdc42f9c568d774588" title="conf_pver_formulaic_base" alt="" coords="203,107,377,133"/>
+<area shape="rect" id="node9" href="$d0/dc5/group__conf-pvers.html#ga92629a078aae6d63c318fd7ce3ae4198" title="conf_pver_objvs_count" alt="" coords="212,208,368,235"/>
+<area shape="rect" id="node10" href="$d8/d6f/group__comb.html#ga265c2e5a9b8275f04b16af3933d3b886" title="m0_combination_inverse" alt="" coords="207,427,373,453"/>
+<area shape="rect" id="node11" href="$d0/dc5/group__conf-pvers.html#ga18bed6d14b38f9f4ef51bdfb0f8915ed" title="conf_pver_virtual_create" alt="" coords="208,376,372,403"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="255,528,325,555"/>
+</map>

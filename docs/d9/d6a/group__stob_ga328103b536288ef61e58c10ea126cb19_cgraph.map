@@ -1,0 +1,10 @@
+<map id="m0_stob_io_prepare" name="m0_stob_io_prepare">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#gab57a25cceacab190b43894c14a7cec24" title="m0_stob_fid_get" alt="" coords="221,5,340,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gac38699e8c18a593fd4128677df75e251" title="stob_io_invariant" alt="" coords="221,56,341,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="223,107,338,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gabbd7ab927ff3de37514845d378abaae4" title="m0_stob_domain__type_id" alt="" coords="192,157,369,184"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="199,208,362,235"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="216,259,345,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga95ba9b5881fa494d1af16f45187a7601" title="m0_stob_io_private_fini" alt="" coords="201,309,360,336"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gafa0a8e14ea966bdf46ca16efb64b38dd" title="stob_io_fill" alt="" coords="239,360,323,387"/>
+</map>

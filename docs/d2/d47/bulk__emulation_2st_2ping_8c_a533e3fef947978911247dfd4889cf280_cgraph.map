@@ -1,0 +1,20 @@
+<map id="s_m_recv_cb" name="s_m_recv_cb">
+<area shape="rect" id="node2" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#ae9a7dc9c07636be2fed42bd3e5705973" title="buffer_event_to_ping_ctx" alt="" coords="154,5,321,32"/>
+<area shape="rect" id="node3" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a321a5228d9683eef738b35ad1a9ef7a1" title="server_event_ident" alt="" coords="171,56,303,83"/>
+<area shape="rect" id="node4" href="$d3/de8/group__atomic.html#ga9b280fa18fe055a4b7e1f5374558d57c" title="m0_atomic64_add_return" alt="" coords="153,107,321,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#gacce89dfe5af29f0c271b458408c6e57e" title="m0_net_buffer_add" alt="" coords="171,208,303,235"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="376,208,491,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="369,259,497,285"/>
+<area shape="rect" id="node8" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#afc3305a6d2e7b43318552a52bc0cd47a" title="decode_msg" alt="" coords="189,411,285,437"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="396,385,471,412"/>
+<area shape="rect" id="node10" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a827f7507a4cda19d6fffe6421b43a2ff" title="ping_buf_get" alt="" coords="189,259,285,285"/>
+<area shape="rect" id="node11" href="$dd/d12/group__list.html#gad4c91de95902427a681a39c9c8d7d1bd" title="m0_list_link_init" alt="" coords="180,461,295,488"/>
+<area shape="rect" id="node12" href="$d9/dd2/group__net.html#gaf9ad970071b746bdfb358982137bdcf7" title="m0_net_desc_copy" alt="" coords="170,512,305,539"/>
+<area shape="rect" id="node13" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#acb554d9551a4a07afd0f379f6e09a3ca" title="ping_sleep_secs" alt="" coords="178,563,297,589"/>
+<area shape="rect" id="node14" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#af7a2cd84989756f23d86ec4dd12cfa27" title="encode_msg" alt="" coords="189,613,285,640"/>
+<area shape="rect" id="node15" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="399,689,468,716"/>
+<area shape="rect" id="node16" href="$d9/dd2/group__net.html#ga58c821e842bc0c712172d362106a0912" title="m0_net_end_point_get" alt="" coords="161,765,314,792"/>
+<area shape="rect" id="node17" href="$dd/d12/group__list.html#gac5ee57b03153cb03b020dba5a19d9555" title="m0_list_add" alt="" coords="191,816,283,843"/>
+<area shape="rect" id="node18" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="179,867,295,893"/>
+<area shape="rect" id="node19" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a1f50ddee19a2899750dd693dc5941588" title="msg_free" alt="" coords="199,715,275,741"/>
+</map>

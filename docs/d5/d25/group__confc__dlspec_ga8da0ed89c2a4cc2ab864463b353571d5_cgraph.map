@@ -1,0 +1,10 @@
+<map id="m0_confc__open_sync" name="m0_confc__open_sync">
+<area shape="rect" id="node2" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="393,263,545,290"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga08e6e7d1d828d9ea4574f712cd43a417" title="sm_waiter_init" alt="" coords="224,86,331,112"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="436,35,503,62"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga5614acafa8103ea4cfdcd417b729672b" title="m0_confc_from_obj" alt="" coords="209,136,345,163"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="239,187,315,214"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#gaf6a3c51e583aa30e89602b1456a57aec" title="m0_confc__open" alt="" coords="217,238,338,264"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gab61f7485bb2a8315b9e7f37aaf052b89" title="sm_waiter_wait" alt="" coords="221,35,334,62"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#gabc28154c41b2893e1d2ebeb6d304d766" title="sm_waiter_fini" alt="" coords="224,339,331,366"/>
+</map>

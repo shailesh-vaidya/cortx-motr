@@ -1,0 +1,7 @@
+<map id="cas_req_prep" name="cas_req_prep">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="372,9,448,35"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gaa34f28b2130b09ddac202755b0f4d1d3" title="cas_records_op_prepare" alt="" coords="157,34,321,61"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="377,59,443,86"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga010824398700a111e293cd3533b38d9e" title="addb2_add_cas_req_attrs" alt="" coords="153,135,324,162"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="204,186,273,213"/>
+</map>

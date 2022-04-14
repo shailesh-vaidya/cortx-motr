@@ -1,0 +1,7 @@
+<map id="index_delete" name="index_delete">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="172,5,260,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga83b17d626874459cf3fa9663bf67dc57" title="m0_entity_open" alt="" coords="159,56,273,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#gaa4e7d45d5a7862844716c486cea81e8e" title="m0_entity_delete" alt="" coords="155,107,277,133"/>
+<area shape="rect" id="node5" href="$d3/d36/example2_8c.html#ac8c28fcb8fb91ccfde71b645534c25a6" title="op_launch_wait_fini" alt="" coords="148,157,284,184"/>
+<area shape="rect" id="node6" href="$d3/d36/example2_8c.html#a0d361578dc110faa2c439069bfbb08c4" title="op_entity_fini" alt="" coords="332,183,431,209"/>
+</map>

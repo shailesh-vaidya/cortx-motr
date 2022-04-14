@@ -1,0 +1,8 @@
+<map id="confdb_objs_count" name="confdb_objs_count">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="184,5,348,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="396,31,447,57"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gad0a21257040bbfe406cfe00ca9660c45" title="m0_be_btree_cursor\l_first_sync" alt="" coords="196,107,336,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gae517a9ece0cbcac712467b75e6c88133" title="m0_be_btree_cursor\l_next_sync" alt="" coords="196,173,336,214"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="184,239,348,265"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="233,289,299,316"/>
+</map>

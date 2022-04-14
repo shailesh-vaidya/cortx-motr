@@ -1,0 +1,5 @@
+<map id="pools_fini" name="pools_fini">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gafff4b50e8426096033fd7438ffb16596" title="m0_pools_service_ctx\l_destroy" alt="" coords="134,5,286,47"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="146,71,274,98"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="131,122,289,149"/>
+</map>

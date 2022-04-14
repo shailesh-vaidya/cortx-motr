@@ -1,0 +1,6 @@
+<map id="dix_rebalance_svc_stop" name="dix_rebalance_svc_stop">
+<area shape="rect" id="node2" href="$d3/da7/group__dixcm.html#ga51055e26a3123a3eb8804bcb4b77a306" title="m0_dix_cm_svc_stop" alt="" coords="217,5,367,32"/>
+<area shape="rect" id="node3" href="$de/d70/group___d_i_x_c_m.html#ga889b4da8488750267ecb732877297567" title="m0_dix_cm_rebalance\l_cpx_fini" alt="" coords="216,57,368,98"/>
+<area shape="rect" id="node4" href="$de/d70/group___d_i_x_c_m.html#gac9ee4092e2670aca03574576a76dd21d" title="m0_dix_rebalance_sw\l_onwire_fop_fini" alt="" coords="217,122,367,163"/>
+<area shape="rect" id="node5" href="$de/d70/group___d_i_x_c_m.html#ga0a8ce8b5fcb96a2a701021ebcc3ec489" title="m0_dix_cm_rebalance\l_trigger_fop_fini" alt="" coords="216,187,368,229"/>
+</map>

@@ -1,0 +1,25 @@
+var net_2net_8c =
+[
+    [ "M0_TRACE_SUBSYSTEM", "df/da5/net_2net_8c.html#ae762ad8776496e788bf62e0fa1615b61", null ],
+    [ "XPRT_MAX", "df/da5/net_2net_8c.html#aaab776cd74490d1f00ac40e544dd40e2", null ],
+    [ "default_xo_rpc_max_msg_size", "d9/dd2/group__net.html#ga29917e953c2dd969f833226b1296fa0b", null ],
+    [ "default_xo_rpc_max_recv_msgs", "d9/dd2/group__net.html#gadecee388788921c2db60adc0cffe5db9", null ],
+    [ "default_xo_rpc_max_seg_size", "d9/dd2/group__net.html#gaee2caeb05b63fb6fa403ba4d38034443", null ],
+    [ "default_xo_rpc_max_segs_nr", "d9/dd2/group__net.html#ga93051c2ca6262088898f15dc82d4008d", null ],
+    [ "m0_net_all_xprt_get", "d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc", null ],
+    [ "m0_net_check_xprt", "d9/dd2/group__net.html#ga1475c7896ac5dffb9360fd76658dca3c", null ],
+    [ "m0_net_desc_copy", "d9/dd2/group__net.html#gaf9ad970071b746bdfb358982137bdcf7", null ],
+    [ "m0_net_desc_free", "d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e", null ],
+    [ "m0_net_endpoint_is_valid", "d9/dd2/group__net.html#ga989d57098812ff81f6acac52d3ea97e0", null ],
+    [ "m0_net_fini", "d9/dd2/group__net.html#ga32c72a0416f90c07cc4146a4a4133cf5", null ],
+    [ "m0_net_init", "d9/dd2/group__net.html#ga79c289873ac10cfff38479ce32ff7865", null ],
+    [ "m0_net_print_xprt", "d9/dd2/group__net.html#ga9749c2c4935f1a2bc75dbee27e3359d7", null ],
+    [ "m0_net_xprt_default_get", "d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156", null ],
+    [ "m0_net_xprt_default_set", "d9/dd2/group__net.html#ga810f62fdcaf6ab41add4f828a03a8aab", null ],
+    [ "m0_net_xprt_deregister", "d9/dd2/group__net.html#ga468b777c12c7bb86bb1952d827bd52ce", null ],
+    [ "m0_net_xprt_nr", "d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c", null ],
+    [ "m0_net_xprt_register", "d9/dd2/group__net.html#gab5569eded06d8e55513fe46e5add4ac8", null ],
+    [ "m0_net_mutex", "d9/dd2/group__net.html#ga62e14b71750aade4b122a4c314d1daf1", null ],
+    [ "xprt_default", "df/da5/net_2net_8c.html#a22f0463fecebf84412e6f1c81699cafd", null ],
+    [ "xprts", "df/da5/net_2net_8c.html#a2943e0c790edfc28573e208161ee663c", null ]
+];

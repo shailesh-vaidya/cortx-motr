@@ -1,0 +1,12 @@
+<map id="dix_cas_rops_alloc" name="dix_cas_rops_alloc">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga5b48839586f0f062f2d3f87905d0e157" title="dix_rop_max_failures" alt="" coords="203,5,349,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga2a806b4822d8f41ed5e6047cf511b928" title="dix_del_phase2_is_needed" alt="" coords="187,56,365,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="413,157,489,184"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga3f0fa2ffcd1f0a80f61d832ae280fac0" title="dix_pg_unit_skip" alt="" coords="217,157,335,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gadb743683cbbc3b22aac0156f73471902" title="dix_cas_rop_alloc" alt="" coords="213,208,339,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga9daafbd62f7256cdf50061618e0363dc" title="m0_dtx0_open" alt="" coords="223,259,329,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#ga5ac235eba6f478204f939d05f281a22d" title="m0_dtx0_fid_assign" alt="" coords="207,309,345,336"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="195,360,357,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga83191580d2936b3217989aab3537264f" title="dix_cas_rops_fini" alt="" coords="215,411,337,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="243,461,309,488"/>
+</map>

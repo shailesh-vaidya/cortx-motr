@@ -1,0 +1,10 @@
+<map id="dtx_persistent_ast_cb" name="dtx_persistent_ast_cb">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="249,5,346,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#gaf278dfc066254895c704636d8618a223" title="m0_dtm0_tx_desc_apply" alt="" coords="214,56,381,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="439,81,528,108"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga12956eb6580217f620e81468c139e031" title="dtx_log_update" alt="" coords="242,157,353,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#gaaa6a908a4bd8de756d14c1e21ffc3aef" title="m0_dtm0_tx_desc_state_eq" alt="" coords="204,208,391,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="234,259,361,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="263,309,332,336"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="237,360,358,387"/>
+</map>

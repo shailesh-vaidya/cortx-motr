@@ -1,0 +1,10 @@
+<map id="m0_be_ut_backend_init_cfg" name="m0_be_ut_backend_init_cfg">
+<area shape="rect" id="node2" href="$d7/db4/group__bob.html#gaf45f55aa7b4e2b28c8545db09407b2ff" title="m0_bob_init" alt="" coords="271,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="264,56,371,83"/>
+<area shape="rect" id="node4" href="$dd/d1d/be_2ut_2helper_8c.html#a3fc6a07a41ff597a38e9ebf05fb70373" title="m0_be_ut_backend_cfg\l_default" alt="" coords="237,107,397,149"/>
+<area shape="rect" id="node5" href="$dd/d1d/be_2ut_2helper_8c.html#a39539980e5ec190d76f8503c24d3af42" title="m0_be_ut_reqh_create" alt="" coords="240,173,395,200"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gac0ed799619fdb5544b6488fb3d291563" title="m0_be_domain_module\l_setup" alt="" coords="238,225,397,266"/>
+<area shape="rect" id="node7" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="261,291,374,317"/>
+<area shape="rect" id="node8" href="$d7/da6/group__module.html#gaf67b9c80ea6d4020e59668be75fe8cac" title="m0_module_fini" alt="" coords="261,341,374,368"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="264,392,371,419"/>
+</map>

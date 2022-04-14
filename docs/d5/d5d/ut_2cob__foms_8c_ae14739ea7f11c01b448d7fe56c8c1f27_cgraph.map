@@ -1,0 +1,9 @@
+<map id="md_cob_fop_create_delete_test" name="md_cob_fop_create_delete_test">
+<area shape="rect" id="node2" href="$d5/d5d/ut_2cob__foms_8c.html#a75f614470449a3d868cb362e3bccf088" title="cobfops_create" alt="" coords="289,5,399,32"/>
+<area shape="rect" id="node3" href="$d9/d05/group__bulkclient_d_f_s.html#gafbfe09d0bc74c1a2dbb2dba4ec16e339" title="m0_cobfop_common_get" alt="" coords="260,56,428,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="476,81,573,108"/>
+<area shape="rect" id="node5" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="278,157,410,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="269,209,419,250"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="274,275,414,301"/>
+<area shape="rect" id="node8" href="$d5/d5d/ut_2cob__foms_8c.html#a27f99615536d589f1c10fa3091ce16d9" title="cobfops_destroy" alt="" coords="285,325,403,352"/>
+</map>

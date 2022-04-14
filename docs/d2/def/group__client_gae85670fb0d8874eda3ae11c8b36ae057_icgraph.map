@@ -1,0 +1,11 @@
+<map id="m0_rc" name="m0_rc">
+<area shape="rect" id="node2" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#abb68272e41808be593338f6dcbf921cf" title="open_entity" alt="" coords="149,50,239,77"/>
+<area shape="rect" id="node3" href="$d4/df5/motr_2st_2utils_2helper_8h.html#ad92559daf2ad051bf2318faf46759933" title="m0_unlink" alt="" coords="330,13,411,40"/>
+<area shape="rect" id="node4" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a3ec3ec64dedd4ccf36fe736dc4bb3c38" title="m0_read_cc" alt="" coords="324,76,417,102"/>
+<area shape="rect" id="node5" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#ad5b8071f092cb9a6a08187a604b391d6" title="write_data_to_object" alt="" coords="123,152,265,178"/>
+<area shape="rect" id="node6" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#ac031e19cb4a7955cfd9a9945529510af" title="read_data_from_object" alt="" coords="117,202,271,229"/>
+<area shape="rect" id="node7" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a7a8f5b769da71a7894f962828a100a67" title="punch_data_from_object" alt="" coords="112,253,276,280"/>
+<area shape="rect" id="node8" href="$d0/d8c/m0hsm__api_8c.html#a1d6ad3d5ab10d869cd07845494c6d6d8" title="create_obj_with_layout" alt="" coords="117,304,271,330"/>
+<area shape="rect" id="node9" href="$d0/d8c/m0hsm__api_8c.html#aaaa9a34f19a48af3dc04835a154a9990" title="delete_obj_set_parent\l_layout" alt="" coords="119,355,269,396"/>
+<area shape="rect" id="node10" href="$d0/d8c/m0hsm__api_8c.html#a7495f7f84edf4f3476ae5fc821aa865c" title="do_io_op" alt="" coords="157,421,231,448"/>
+</map>

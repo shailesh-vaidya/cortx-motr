@@ -1,0 +1,9 @@
+<map id="ut_test_pargrp_iomap_databuf_alloc" name="ut_test_pargrp_iomap_databuf_alloc">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="200,5,351,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="399,31,532,57"/>
+<area shape="rect" id="node4" href="$db/d27/io__pargrp_8c.html#aa60481f6f8975340020b35e44205f16e" title="pargrp_iomap_databuf\l_alloc" alt="" coords="200,107,351,149"/>
+<area shape="rect" id="node5" href="$da/d01/ut_2io__pargrp_8c.html#a76711baeb8bb780ec01a9566e5f970b1" title="ut_pargrp_iomap_free\l_data_buf" alt="" coords="202,173,349,214"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="431,239,500,265"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="401,315,529,341"/>
+<area shape="rect" id="node8" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="201,289,350,316"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="net_test_buf_init" name="net_test_buf_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="172,5,343,47"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="172,71,343,112"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="173,137,341,163"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="180,187,335,214"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga192dc68dfbf640e79e605568436c1d2d" title="m0_bufvec_free_aligned" alt="" coords="176,238,339,265"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="test_m0t1fs_fsync_record_update" name="test_m0t1fs_fsync_record_update">
+<area shape="rect" id="node2" href="$de/dd4/ut_2fsync_8c.html#ae70d4fb70605291db6a5c5fb1c7b78d6" title="fake_fs_setup" alt="" coords="247,5,351,32"/>
+<area shape="rect" id="node3" href="$d2/d8f/fsync_8c.html#a77a4ac0fb72541ef4318b35538ae18e9" title="m0t1fs_fsync_record\l_update" alt="" coords="227,107,371,149"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="425,88,540,115"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="419,143,547,169"/>
+</map>

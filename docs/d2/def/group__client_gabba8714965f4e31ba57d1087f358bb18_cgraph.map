@@ -1,0 +1,12 @@
+<map id="rm_ctx_init" name="rm_ctx_init">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a3302727202c12034aa4764cf7623c49a" title="rm_domain_get" alt="" coords="173,56,284,83"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="365,107,455,133"/>
+<area shape="rect" id="node4" href="$da/dd3/group__cookie.html#ga70e6219c7f5302e50b667d2d614f0e1f" title="m0_cookie_new" alt="" coords="171,107,287,133"/>
+<area shape="rect" id="node5" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="367,259,453,285"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga2de8cadad9aeb6f9fe4244bfb0970b68" title="rm_ctx_fini" alt="" coords="185,5,272,32"/>
+<area shape="rect" id="node7" href="$da/d7a/group___r_w_lock.html#ga2800c17d9c5729d148e72e9627a84744" title="m0_rw_lockable_init" alt="" coords="159,259,299,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga94e9428a47babfc5c6d9a13995051b86" title="m0_rm_remote_init" alt="" coords="162,208,295,235"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga2d1a13093f04d75e9d6c5dc32b76c3f2" title="m0_pools_common_active\l_rm_session" alt="" coords="140,361,317,402"/>
+<area shape="rect" id="node10" href="$dd/d5f/group__fid.html#ga66fb0fa971ce7e90bf09d5d6bc468eaf" title="m0_fid_tgenerate" alt="" coords="167,427,290,453"/>
+<area shape="rect" id="node11" href="$da/d7a/group___r_w_lock.html#ga09c9bd19c2ad7e07e2adfdefc9f83cea" title="m0_rm_rwlock_owner_init" alt="" coords="142,477,315,504"/>
+</map>

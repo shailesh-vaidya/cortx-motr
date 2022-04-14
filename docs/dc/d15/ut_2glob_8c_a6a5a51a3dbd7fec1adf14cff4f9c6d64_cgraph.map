@@ -1,0 +1,9 @@
+<map id="test_conf_glob_errors" name="test_conf_glob_errors">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="207,5,352,32"/>
+<area shape="rect" id="node3" href="$dc/d15/ut_2glob_8c.html#adad1973a9f6b89b6af9f4e3ca96bc2fd" title="errfunc" alt="" coords="248,56,311,83"/>
+<area shape="rect" id="node4" href="$de/dc6/group__conf__glob.html#ga8c1d268421921b514b7fe6b4dfd4841e" title="m0_conf_glob" alt="" coords="228,107,331,133"/>
+<area shape="rect" id="node5" href="$de/dc6/group__conf__glob.html#ga0448a3622f194fcb9a2abe335f5c1fc1" title="m0_conf_glob_error" alt="" coords="211,157,347,184"/>
+<area shape="rect" id="node6" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="200,208,359,235"/>
+<area shape="rect" id="node7" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="407,233,489,260"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="200,309,359,336"/>
+</map>

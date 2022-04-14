@@ -1,0 +1,17 @@
+<map id="motr/setup.h" name="motr/setup.h">
+<area shape="rect" id="node3" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="508,229,579,256"/>
+<area shape="rect" id="node4" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="623,304,706,331"/>
+<area shape="rect" id="node5" href="$d7/d27/reqh__service_8h.html" title="reqh/reqh_service.h" alt="" coords="259,155,395,181"/>
+<area shape="rect" id="node6" href="$d5/dc9/stob_2stob_8h.html" title="stob/stob.h" alt="" coords="5,155,92,181"/>
+<area shape="rect" id="node7" href="$dd/db3/lnet_8h.html" title="net/lnet/lnet.h" alt="" coords="1250,80,1351,107"/>
+<area shape="rect" id="node8" href="$d2/d03/buffer__pool_8h.html" title="net/buffer_pool.h" alt="" coords="116,155,235,181"/>
+<area shape="rect" id="node9" href="$d5/d47/mdstore_2mdstore_8h.html" title="mdstore/mdstore.h" alt="" coords="1375,80,1506,107"/>
+<area shape="rect" id="node10" href="$db/d1d/fol_2fol_8h.html" title="fol/fol.h" alt="" coords="632,155,697,181"/>
+<area shape="rect" id="node11" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="521,155,608,181"/>
+<area shape="rect" id="node13" href="$d2/dd6/be_2ut_2helper_8h.html" title="be/ut/helper.h" alt="" coords="1068,229,1168,256"/>
+<area shape="rect" id="node14" href="$d4/d3f/dtm0_2domain_8h.html" title="dtm0/domain.h" alt="" coords="1016,155,1124,181"/>
+<area shape="rect" id="node15" href="$dd/d2f/module_2module_8h.html" title="module/module.h" alt="" coords="916,229,1037,256"/>
+<area shape="rect" id="node16" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="365,80,450,107"/>
+<area shape="rect" id="node17" href="$df/d7c/ha_2ha_8h.html" title="ha/ha.h" alt="" coords="773,155,839,181"/>
+<area shape="rect" id="node18" href="$d0/d3d/motr_2ha_8h.html" title="motr/ha.h" alt="" coords="802,80,879,107"/>
+</map>

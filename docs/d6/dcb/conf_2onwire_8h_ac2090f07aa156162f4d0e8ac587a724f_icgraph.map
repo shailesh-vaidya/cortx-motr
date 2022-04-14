@@ -1,0 +1,9 @@
+<map id="m0_confx_sizeof" name="m0_confx_sizeof">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga1ea6cace6a2230f3a64e5611b587d256" title="conf_cache_encode" alt="" coords="175,5,313,32"/>
+<area shape="rect" id="node3" href="$d2/d01/group__confd__dlspec.html#ga01e453cefa31eaaa27b68f861ba32cc5" title="confx_populate" alt="" coords="189,56,299,83"/>
+<area shape="rect" id="node4" href="$d2/db5/db_8c.html#a788c36c283782d0d22344245e18b7730" title="confdb_vsize" alt="" coords="195,107,293,133"/>
+<area shape="rect" id="node5" href="$d2/db5/db_8c.html#a0e49cc4228874051c5086fee8f5d4c9c" title="conf_sizeof" alt="" coords="199,157,289,184"/>
+<area shape="rect" id="node6" href="$da/d4e/db_8h.html#a199b13fba8e6060810f67d443d902b6b" title="m0_confdb_create" alt="" coords="179,208,309,235"/>
+<area shape="rect" id="node7" href="$d2/db5/db_8c.html#ab18d210094d484d88090bcd00cbf7f33" title="confx_alloc" alt="" coords="200,259,288,285"/>
+<area shape="rect" id="node8" href="$d2/db5/db_8c.html#a9d2cd186e6f4b52a4f340218685815c1" title="confx_fill" alt="" coords="207,309,281,336"/>
+</map>

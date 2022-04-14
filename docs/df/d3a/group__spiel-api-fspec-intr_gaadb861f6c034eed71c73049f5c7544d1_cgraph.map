@@ -1,0 +1,10 @@
+<map id="m0_spiel_drive_v_add" name="m0_spiel_drive_v_add">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="219,5,333,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#gabed919ff8cbf1b2c8e1438cf66b073a5" title="spiel_controllerv_dirs\l_create" alt="" coords="204,57,348,98"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="439,111,505,137"/>
+<area shape="rect" id="node5" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="215,173,337,200"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="396,187,548,213"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="212,275,340,301"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#gabac23b5ec19fc0493b8ff1e3c1a5ca48" title="m0_conf_cache_del" alt="" coords="207,325,345,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="238,376,314,403"/>
+</map>

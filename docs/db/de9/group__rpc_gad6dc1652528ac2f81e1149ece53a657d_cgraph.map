@@ -1,0 +1,9 @@
+<map id="m0_rpc_packet_remove_item" name="m0_rpc_packet_remove_item">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="314,5,393,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="270,56,437,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga9b1e66f18cb4c6f6e3d0ddccfdd9204d" title="m0_rpc_item_size" alt="" coords="535,81,663,108"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga091c80893114b6add7459b16a1cbcd25" title="m0_rpc_packet_is_carrying_item" alt="" coords="247,157,460,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="508,233,691,260"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="292,259,415,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="309,309,398,336"/>
+</map>

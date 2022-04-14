@@ -1,0 +1,16 @@
+<map id="cas_rep" name="cas_rep">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga38d80fac06e14aae50acd9491661e8b5" title="cas_rep_validate" alt="" coords="365,208,485,235"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga27686fe493fc74196745a2149170564b" title="cas_req_replied_ast" alt="" coords="557,233,695,260"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga025372d3a4029bffdae9c7bc974846e2" title="greq_asmbl_count" alt="" coords="148,107,276,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga2b3c4d7176a1145cd671cf81b8a880f0" title="greq_asmbl_fill" alt="" coords="157,157,267,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga105dc790b9c5a756d5c954ba33f7c148" title="nreq_asmbl_fill" alt="" coords="157,5,267,32"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#gac45625cc4bb3c49e6faa702a9ae180de" title="nreq_asmbl_post" alt="" coords="364,56,485,83"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga2fe722035b135853449cb48f39f3a718" title="nreq_asmbl_accept" alt="" coords="357,411,492,437"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#gad660800487fe105a0e1a78b85efe5462" title="creq_asmbl_replied_ast" alt="" coords="547,436,705,463"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#ga83bac05c05bd0f39f72c1f18cd4dfb0d" title="greq_asmbl_accept" alt="" coords="357,512,492,539"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#gad7a10be18a3621dc5c42e584f8dc7c64" title="cas_req_fsync_remid_copy" alt="" coords="121,309,303,336"/>
+<area shape="rect" id="node12" href="$d2/d64/group__cas-client.html#ga1154a59e38292c74c102b15215179b61" title="cas_req_reply_handle" alt="" coords="351,335,499,361"/>
+<area shape="rect" id="node13" href="$d2/d64/group__cas-client.html#ga49fa6ace0e3499abda61f792ff650d92" title="m0_cas_get_rep" alt="" coords="153,563,271,589"/>
+<area shape="rect" id="node14" href="$d2/d64/group__cas-client.html#ga68d3c7ca7e2bc46d73a470830a5e7ca0" title="m0_cas_rep_mlock" alt="" coords="145,613,279,640"/>
+<area shape="rect" id="node15" href="$d2/d64/group__cas-client.html#gae49f47ae75ae4f0dbfe757fb81311d82" title="m0_cas_next_rep" alt="" coords="149,664,275,691"/>
+</map>

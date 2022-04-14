@@ -1,0 +1,8 @@
+<map id="m0_be_queue_init" name="m0_be_queue_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf8f2c171b3190cbb795ff4e88ed16428" title="bq_queue_items_max" alt="" coords="345,81,495,107"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="204,30,273,57"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="201,81,277,107"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="185,131,292,158"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga06da2dba36d0d7e0bae7b1a009b9a196" title="be_queue_qitem" alt="" coords="180,182,297,209"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="205,233,272,259"/>
+</map>

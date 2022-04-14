@@ -1,0 +1,6 @@
+<map id="m0_rpc_conn2svc" name="m0_rpc_conn2svc">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="209,5,312,32"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#gac94589115bdffb8bb040eb570cb489a7" title="m0_conf_fid_type" alt="" coords="198,56,323,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="181,107,340,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga3d163753a609cf687fe6ba251cdf5ba8" title="rpc_conn2confc" alt="" coords="203,157,318,184"/>
+</map>

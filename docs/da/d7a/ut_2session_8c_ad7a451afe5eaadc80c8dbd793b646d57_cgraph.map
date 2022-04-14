@@ -1,0 +1,7 @@
+<map id="session_init_and_establish" name="session_init_and_establish">
+<area shape="rect" id="node2" href="$da/d7a/ut_2session_8c.html#afd076968208fc942ae3969c0e892f412" title="session_init" alt="" coords="275,5,365,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="456,56,559,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gaf9335bb6847b8de2d2b8f22db154525c" title="m0_rpc_session_establish" alt="" coords="232,107,408,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="252,157,388,184"/>
+<area shape="rect" id="node6" href="$da/d7a/ut_2session_8c.html#aa2814c274a8da26024bc70f86987dd1d" title="prepare_fake_est_reply" alt="" coords="241,208,399,235"/>
+</map>

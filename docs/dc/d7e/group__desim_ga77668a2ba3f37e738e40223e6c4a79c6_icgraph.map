@@ -1,0 +1,5 @@
+<map id="sim_thread_suspend" name="sim_thread_suspend">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gad91ed09600c2181b3c5535ca7b993683" title="sim_thread_exit" alt="" coords="196,5,311,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga5eb6afc30ea6e42ae88b61e02949ad98" title="sim_sleep" alt="" coords="213,56,294,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga0801132a80d0463be24d98b7b9d61f94" title="sim_chan_wait" alt="" coords="199,107,308,133"/>
+</map>

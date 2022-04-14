@@ -1,0 +1,14 @@
+<map id="fom_rdwr_tick" name="fom_rdwr_tick">
+<area shape="rect" id="node2" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga32c86cc142a302f4b5a976bb66dbeb40" title="m0_long_read_lock" alt="" coords="174,5,309,32"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gafb962350d0560706a0944a515360c54f" title="m0_long_write_lock" alt="" coords="173,56,310,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#gade627e51949dfe7829e01aee4f03513f" title="m0_fom_wakeup" alt="" coords="181,107,302,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="173,157,309,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="168,208,315,235"/>
+<area shape="rect" id="node7" href="$d8/d57/rdwr__test__bench_8c.html#afc2d3b1ec62f2a197cfe0e1f52699fa4" title="lock_check" alt="" coords="197,259,285,285"/>
+<area shape="rect" id="node8" href="$d8/d57/rdwr__test__bench_8c.html#a288b42d0c65a74b19c058c1d472d2b5f" title="readers_check" alt="" coords="188,309,295,336"/>
+<area shape="rect" id="node9" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga501d17a5eb7ce5d0fdfbe3b348ae6f64" title="m0_long_is_read_locked" alt="" coords="159,360,324,387"/>
+<area shape="rect" id="node10" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga780120feeb7c6d856ccf41cdbbe3cafc" title="m0_long_read_unlock" alt="" coords="167,411,315,437"/>
+<area shape="rect" id="node11" href="$d8/d57/rdwr__test__bench_8c.html#ab8fcec75eb962501e60e4467963ca345" title="writer_check" alt="" coords="193,461,289,488"/>
+<area shape="rect" id="node12" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga544b706238f43a1d0d87c32ff76bf116" title="m0_long_is_write_locked" alt="" coords="157,512,325,539"/>
+<area shape="rect" id="node13" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf275d1f45f62ea03cf941299c2ba29b6" title="m0_long_write_unlock" alt="" coords="166,563,317,589"/>
+</map>

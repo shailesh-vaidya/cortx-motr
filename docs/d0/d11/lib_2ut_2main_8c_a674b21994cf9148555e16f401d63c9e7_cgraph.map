@@ -1,0 +1,8 @@
+<map id="test_atomic" name="test_atomic">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="174,5,299,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga4a536eee3d403679a3fd19ae0a442644" title="m0_atomic64_add" alt="" coords="173,56,301,83"/>
+<area shape="rect" id="node4" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="174,107,299,133"/>
+<area shape="rect" id="node5" href="$d3/de8/group__atomic.html#ga12eced08fe17bdb50a404be0a4773ff4" title="m0_atomic64_dec_and_test" alt="" coords="144,157,329,184"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="181,208,292,235"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="183,259,290,285"/>
+</map>

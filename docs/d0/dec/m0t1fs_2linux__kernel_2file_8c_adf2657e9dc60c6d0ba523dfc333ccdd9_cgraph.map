@@ -1,0 +1,8 @@
+<map id="data_buf_dealloc_fini" name="data_buf_dealloc_fini">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ac0f8cfb74bc79c0e751a104e03f7ab9b" title="data_buf_invariant" alt="" coords="197,5,325,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a26d19b80c5f6cef674bb737cdbb2c30d" title="user_page_unmap" alt="" coords="197,56,325,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a66cca1b7c7ffcf98eb0d1b9a5693438e" title="buf_page_free" alt="" coords="209,107,313,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a4cf8ace0ee5d5cce9c9e2857fe9b78fc" title="data_buf_fini" alt="" coords="213,157,309,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="227,208,296,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="217,259,306,285"/>
+</map>

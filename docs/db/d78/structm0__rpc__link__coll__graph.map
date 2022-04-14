@@ -1,0 +1,8 @@
+<map id="m0_rpc_link" name="m0_rpc_link">
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="44,204,127,281"/>
+<area shape="rect" id="node3" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="5,359,80,436"/>
+<area shape="rect" id="node4" href="$d6/d53/structm0__fom__callback.html" title="{m0_fom_callback\n||}" alt="" coords="255,204,379,281"/>
+<area shape="rect" id="node6" href="$d9/db7/structm0__fom.html" title="{m0_fom\n||}" alt="" coords="480,359,549,436"/>
+<area shape="rect" id="node9" href="$d2/de3/structm0__rpc__conn.html" title="{m0_rpc_conn\n||}" alt="" coords="765,204,865,281"/>
+<area shape="rect" id="node10" href="$dd/d65/structm0__rpc__session.html" title="{m0_rpc_session\n||}" alt="" coords="899,359,1016,436"/>
+</map>

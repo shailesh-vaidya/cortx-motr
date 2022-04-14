@@ -1,0 +1,10 @@
+<map id="m0_be_emap_init" name="m0_be_emap_init">
+<area shape="rect" id="node2" href="$dd/dc1/group__format.html#ga4d30f4095392dc864b6ff37123d73fed" title="m0_format_header_pack" alt="" coords="349,36,515,63"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#ga30d56453108093c99dff1f4adffb6f5c" title="m0_rwlock_init" alt="" coords="377,213,487,240"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#gac3b58cfb798c60b358e7c5d8298eee6b" title="emap_rwlock" alt="" coords="189,289,287,316"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="193,340,283,367"/>
+<area shape="rect" id="node6" href="$d2/de0/group__extmap.html#gacbde905353cff2efec61b817d87cf5fa" title="emap_key_init" alt="" coords="185,36,291,63"/>
+<area shape="rect" id="node7" href="$dd/dc1/group__format.html#ga5f05742845abbd56398831e0569c805a" title="m0_format_footer_update" alt="" coords="347,87,517,113"/>
+<area shape="rect" id="node8" href="$d2/de0/group__extmap.html#ga410f8c2e698d069cc6e9cf8e2ede0df6" title="emap_rec_init" alt="" coords="187,87,289,113"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="177,239,299,265"/>
+</map>

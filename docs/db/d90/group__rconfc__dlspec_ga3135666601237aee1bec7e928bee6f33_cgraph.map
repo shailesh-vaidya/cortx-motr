@@ -1,0 +1,10 @@
+<map id="rconfc_conf_full_load" name="rconfc_conf_full_load">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="417,220,475,247"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#ga96ba4960f7f6a23d070ad8ad5ae42774" title="m0_conf_obj_find_lock" alt="" coords="199,43,353,70"/>
+<area shape="rect" id="node4" href="$db/dc2/conf_2helpers_8c.html#ae14ed73f930ddb0167a8de92804ebae8" title="m0_confc_root_open" alt="" coords="205,94,347,120"/>
+<area shape="rect" id="node5" href="$db/dc2/conf_2helpers_8c.html#ad56aebe4ab17acdad86a5be971eac816" title="m0_conf_full_load" alt="" coords="213,144,339,171"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="217,195,335,222"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gaff295138433e8d5852661fc6eb50fc4d" title="rconfc_conf_load_fini" alt="" coords="203,246,349,272"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="401,271,491,298"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="215,347,337,374"/>
+</map>

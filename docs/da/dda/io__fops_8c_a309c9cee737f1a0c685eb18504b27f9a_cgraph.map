@@ -1,0 +1,7 @@
+<map id="io_fop_desc_ivec_prepare" name="io_fop_desc_ivec_prepare">
+<area shape="rect" id="node2" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="410,26,542,53"/>
+<area shape="rect" id="node3" href="$da/dda/io__fops_8c.html#a116ba102c07038051c72a289d6f96237" title="io_netbufs_prepare" alt="" coords="227,127,359,154"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga8d23794d6c38cb94c3c7ee91031826ef" title="m0_rpc_bulk_buflist\l_empty" alt="" coords="407,149,545,191"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="443,77,509,103"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#ga0650a51af21c1c091f3e0d2b8b29cd47" title="m0_io_fop_prepare" alt="" coords="227,26,359,53"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="m0_cs_storage_devs_get" name="m0_cs_storage_devs_get">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#gaf2ec22e5f5d2b2e89e156f609f901e05" title="cp_stob_io_init" alt="" coords="253,5,362,32"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga4fa2916d3284be0f22e81101c6e8c722" title="cp_io" alt="" coords="476,31,529,57"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga5a07858e5b757a8dd106e85801a14807" title="m0_sns_cm_cp_io_wait" alt="" coords="226,107,389,133"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a40b6b028f0378fbaf25141d03531457d" title="cob_ops_stob_find" alt="" coords="242,157,373,184"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="439,208,567,235"/>
+<area shape="rect" id="node7" href="$db/d1f/cob__foms_8h.html#a5785248f02f1a997fe79622fb1f2bbe1" title="m0_cc_stob_create" alt="" coords="239,259,375,285"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#ad161e37abe1c0a592f8a6da210fd8560" title="ce_stob_edit" alt="" coords="259,309,355,336"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#ga39fb74de83d07a9776dc3a1fdf5b572c" title="stob_object_find" alt="" coords="249,360,366,387"/>
+<area shape="rect" id="node10" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="226,411,389,437"/>
+<area shape="rect" id="node11" href="$db/d53/bulkio__ut_8c.html#a105e3116ef5035f62e35ca72f5030b1c" title="builkio_ut_stob_get" alt="" coords="240,461,375,488"/>
+<area shape="rect" id="node12" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="236,513,379,554"/>
+<area shape="rect" id="node13" href="$d6/d85/group__iscservice.html#ga5dff659cde74d2769aa842b328e2b5fa" title="m0_isc_io_launch" alt="" coords="439,604,566,631"/>
+<area shape="rect" id="node14" href="$d6/d85/group__iscservice.html#ga3ec0b1ec779b038b8873c31802a24fd8" title="m0_isc_io_fini" alt="" coords="255,629,360,656"/>
+<area shape="rect" id="node15" href="$dc/df5/fsync__foms_8c.html#a3d92cfbd67dc7ba832f8441b5b4ec8c4" title="fsync_fom_tick" alt="" coords="252,680,363,707"/>
+<area shape="rect" id="node16" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga1ff8de01b31fa73f270826c1ff441f94" title="sss_device_stob_attach" alt="" coords="226,731,389,757"/>
+<area shape="rect" id="node17" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaead8acdcf13ad888866a4a8cf0224149" title="sss_device_stob_detach" alt="" coords="224,781,391,808"/>
+<area shape="rect" id="node18" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaed1384ed483168cfea7d443d12eff7f3" title="sss_device_format" alt="" coords="241,832,373,859"/>
+<area shape="rect" id="node19" href="$d2/dbe/process__foms_8c.html#aa8481463c86f52054a3bb1453294cc88" title="ss_ios_stats_ingest" alt="" coords="238,883,377,909"/>
+</map>

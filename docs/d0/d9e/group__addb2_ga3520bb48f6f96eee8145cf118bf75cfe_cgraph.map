@@ -1,0 +1,10 @@
+<map id="m0_addb2_net_add" name="m0_addb2_net_add">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="195,5,347,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga9cb3f81f7bbe131784996a33c2d35e98" title="net_lock" alt="" coords="236,56,307,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga2b192cec33d387c71b3d0dbb57c16225" title="m0_rpc_item_source_init" alt="" coords="188,107,355,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaaf4de99628ff219fe64d55703bc200d7" title="m0_rpc_item_source\l_register_locked" alt="" coords="200,158,343,199"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gad40f5d4b0333efb1b0ecbca65b2ccd1c" title="net_unlock" alt="" coords="229,224,314,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="188,275,355,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="233,325,309,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="238,376,305,403"/>
+</map>

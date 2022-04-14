@@ -1,0 +1,5 @@
+<map id="m0_ha_link_reconnect_params" name="m0_ha_link_reconnect_params">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga46faabaf64c5aa2cc6e40a54705fe96d" title="ha_link_handle" alt="" coords="237,5,345,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga32da9382db85016064c2e311d0547e7e" title="m0_ha_ut_link_reconnect\l_simple" alt="" coords="205,57,376,98"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga299901afa635d683b234b6268a904b81" title="m0_ha_ut_link_reconnect\l_multiple" alt="" coords="205,122,376,163"/>
+</map>

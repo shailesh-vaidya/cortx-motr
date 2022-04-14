@@ -1,0 +1,11 @@
+<map id="m0_be_log" name="m0_be_log">
+<area shape="rect" id="node9" href="$d3/dde/structm0__be__log__cfg.html" title="{m0_be_log_cfg\n||}" alt="" coords="855,929,966,1007"/>
+<area shape="rect" id="node2" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="1051,412,1133,489"/>
+<area shape="rect" id="node10" href="$da/d24/structm0__be__recovery.html" title="{m0_be_recovery\n||}" alt="" coords="870,635,989,712"/>
+<area shape="rect" id="node4" href="$d7/d2f/structm0__be__log__store.html" title="{m0_be_log_store\n||}" alt="" coords="383,635,505,712"/>
+<area shape="rect" id="node7" href="$d5/d3a/structm0__be__op.html" title="{m0_be_op\n||}" alt="" coords="488,412,571,489"/>
+<area shape="rect" id="node8" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="835,189,890,267"/>
+<area shape="rect" id="node11" href="$dc/d1b/structm0__be__fmt__log__header.html" title="{m0_be_fmt_log_header\n||}" alt="" coords="5,291,163,368"/>
+<area shape="rect" id="node12" href="$d1/d62/structm0__be__log__sched.html" title="{m0_be_log_sched\n||}" alt="" coords="1225,533,1351,611"/>
+<area shape="rect" id="node5" href="$d1/d3c/structm0__module.html" title="{m0_module\n||}" alt="" coords="705,412,794,489"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ut_fop_alloc" name="ut_fop_alloc">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="168,5,257,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="168,56,257,83"/>
+<area shape="rect" id="node4" href="$d0/df3/group__ss__fop.html#ga1196b74af2d29324da49c5a644009852" title="m0_ss_fop_release" alt="" coords="145,107,280,133"/>
+</map>

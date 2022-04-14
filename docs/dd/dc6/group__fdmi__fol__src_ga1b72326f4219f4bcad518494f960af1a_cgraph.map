@@ -1,0 +1,8 @@
+<map id="ffs_op_encode" name="ffs_op_encode">
+<area shape="rect" id="node2" href="$d0/de2/group__fdmi__sd.html#ga740016e49aabb132498ebd80a7cb272b" title="m0_fdmi__record_is\l_valid" alt="" coords="343,5,481,47"/>
+<area shape="rect" id="node3" href="$dd/dc6/group__fdmi__fol__src.html#ga0aa8b3f112b096dd9e5e098e149d6293" title="ffs_get_dtx" alt="" coords="184,38,271,65"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="178,89,277,115"/>
+<area shape="rect" id="node5" href="$d1/d12/group__fol.html#ga231dcbcea4a3b5aa0eeacab5700f6422" title="m0_fol_rec_encode" alt="" coords="160,139,295,166"/>
+<area shape="rect" id="node6" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="180,190,275,217"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="194,241,261,267"/>
+</map>

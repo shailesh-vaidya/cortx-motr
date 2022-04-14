@@ -1,0 +1,6 @@
+<map id="m0_net_test_network_bd_serialize" name="m0_net_test_network_bd_serialize">
+<area shape="rect" id="node2" href="$d3/d88/ut_2network_8c.html#a5a4c9d681c9599f481938d06e879f668" title="m0_net_test_network\l_ut_bulk" alt="" coords="215,5,361,47"/>
+<area shape="rect" id="node3" href="$d3/d88/ut_2network_8c.html#ab2103307e4c264cea79ee6f8612def35" title="multiple_buf_desc_encode\l_decode" alt="" coords="200,71,376,112"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#ga7b55c3dc7330efc342d6e787c4124592" title="buf_desc_deserialize" alt="" coords="216,137,360,163"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga43e99bf85dcedce873e083fcf6411265" title="client_bds_serialize2" alt="" coords="217,187,359,214"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="ctg_index_btree_dump" name="ctg_index_btree_dump">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a998fef0c785df84a633d44219161cdc4" title="ctg_init" alt="" coords="257,5,321,32"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#a86d17f828608bcf301d728db0441c2a2" title="cas_seg" alt="" coords="253,56,324,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="207,107,371,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gad0a21257040bbfe406cfe00ca9660c45" title="m0_be_btree_cursor\l_first_sync" alt="" coords="219,158,359,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gae517a9ece0cbcac712467b75e6c88133" title="m0_be_btree_cursor\l_next_sync" alt="" coords="219,223,359,265"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="219,289,359,330"/>
+<area shape="rect" id="node8" href="$d8/d50/ctg__store_8c.html#a67cb55a2bd4cd8f0412fb303437ebdf1" title="ctg_index_btree_dump\l_one_rec" alt="" coords="212,354,365,395"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="207,420,371,447"/>
+<area shape="rect" id="node10" href="$d8/d50/ctg__store_8c.html#a278840c887ecd20a58e8840e1cb28c32" title="ctg_fini" alt="" coords="257,471,321,497"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="cgc_fom_tick" name="cgc_fom_tick">
+<area shape="rect" id="node2" href="$d9/d21/group__cas-ctg-store.html#ga49f24371eb839c39da6451cbeecbd8bf" title="m0_ctg_lock" alt="" coords="194,5,290,32"/>
+<area shape="rect" id="node3" href="$d9/d21/group__cas-ctg-store.html#ga98ce5b692ccad3ac0f2924cf5f51ffe2" title="m0_ctg_dead_index" alt="" coords="385,81,523,108"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga544b706238f43a1d0d87c32ff76bf116" title="m0_long_is_write_locked" alt="" coords="158,157,326,184"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab197122217621533ec79a87f80e181c0" title="m0_long_unlock" alt="" coords="184,208,300,235"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#ga3e4954e94fba1efa082863604f6e4657" title="m0_ctg_fini" alt="" coords="197,259,287,285"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga275b0f96d6a409f728a36caa190428d7" title="m0_ctg_op_fini" alt="" coords="187,309,297,336"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga604374b8c983f14fbae8cd5be4791289" title="m0_fom_tick_generic" alt="" coords="169,411,315,437"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="379,372,529,399"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="386,429,522,456"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="421,505,487,532"/>
+<area shape="rect" id="node12" href="$d9/d21/group__cas-ctg-store.html#ga35f7b32e123b27eb313b985a9484730c" title="m0_ctg_op_init" alt="" coords="187,563,297,589"/>
+<area shape="rect" id="node13" href="$d9/d21/group__cas-ctg-store.html#gaab2160a03c9236fdea0317f422d6f0a3" title="m0_ctg_minkey" alt="" coords="185,613,299,640"/>
+<area shape="rect" id="node14" href="$d9/d21/group__cas-ctg-store.html#ga89fa56d17d3e710cb915062e73d70be3" title="m0_ctg_op_rc" alt="" coords="190,664,294,691"/>
+<area shape="rect" id="node15" href="$d9/d21/group__cas-ctg-store.html#ga8eee45ba821d6492a9143adb1189d3f9" title="m0_ctg_try_init" alt="" coords="187,715,297,741"/>
+<area shape="rect" id="node16" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gafb962350d0560706a0944a515360c54f" title="m0_long_write_lock" alt="" coords="173,765,311,792"/>
+<area shape="rect" id="node17" href="$d9/d21/group__cas-ctg-store.html#ga859b198f85cc3d00657104d24552f663" title="m0_ctg_dead_clean_credit" alt="" coords="153,107,331,133"/>
+<area shape="rect" id="node18" href="$d9/d21/group__cas-ctg-store.html#gadd7221362eaad9da74b818dfd2a2c609" title="m0_ctg_drop_credit" alt="" coords="174,816,310,843"/>
+<area shape="rect" id="node19" href="$d9/d21/group__cas-ctg-store.html#ga21421555a62e88b2a7169d0a4b4ed242" title="m0_ctg_truncate" alt="" coords="183,867,301,893"/>
+<area shape="rect" id="node20" href="$d9/dcf/group__be.html#gaf153feae23b3a66fe5f07b1707633a9b" title="m0_be_btree_is_empty" alt="" coords="163,917,321,944"/>
+<area shape="rect" id="node21" href="$d9/d21/group__cas-ctg-store.html#gadc20d78d65148f765e501f805ceee7bd" title="m0_ctg_drop" alt="" coords="193,968,291,995"/>
+<area shape="rect" id="node22" href="$d5/dac/index__gc_8c.html#a3e258433243adac631e8d97a58127b3d" title="cgc_retry" alt="" coords="204,1019,280,1045"/>
+<area shape="rect" id="node23" href="$d9/d21/group__cas-ctg-store.html#ga2de1e3e3793e868ee338d08ed568d41c" title="m0_ctg_delete" alt="" coords="189,1069,295,1096"/>
+</map>

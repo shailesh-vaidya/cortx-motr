@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d9/d54/group__init.html#ga2cf31aef5d867c9769e7fef5e1d71206" title="m0_init" alt="" coords="167,5,231,32"/>
+<area shape="rect" id="node3" href="$de/dec/lnet_2st_2ping_8c.html#a3d112c0ee9bfb841d22054c72fd7e95d" title="nlx_ping_parse_uint64" alt="" coords="124,56,275,83"/>
+<area shape="rect" id="node4" href="$de/dec/lnet_2st_2ping_8c.html#abf634abed8b5c8a749256ccd315665c6" title="nlx_ping_init" alt="" coords="152,107,247,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="343,157,449,184"/>
+<area shape="rect" id="node6" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="347,284,445,311"/>
+<area shape="rect" id="node7" href="$de/dec/lnet_2st_2ping_8c.html#af1f94a628212d9241d052a03220d8701" title="nlx_ping_server_spawn" alt="" coords="120,259,279,285"/>
+<area shape="rect" id="node8" href="$de/dec/lnet_2st_2ping_8c.html#ac2a1b4472d23285667d01beed71c0bed" title="nlx_ping_print_qstats_tm" alt="" coords="116,309,283,336"/>
+<area shape="rect" id="node9" href="$de/dec/lnet_2st_2ping_8c.html#a03ae2817a799defb2f17593399b73320" title="nlx_ping_client" alt="" coords="145,360,253,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="361,461,431,488"/>
+<area shape="rect" id="node11" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="347,385,445,412"/>
+<area shape="rect" id="node12" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="343,629,449,656"/>
+<area shape="rect" id="node13" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="144,579,255,605"/>
+<area shape="rect" id="node14" href="$de/dec/lnet_2st_2ping_8c.html#aafb00e5315ebd136654a9a261867b2c1" title="nlx_ping_print_qstats\l_total" alt="" coords="127,513,272,554"/>
+<area shape="rect" id="node15" href="$de/dec/lnet_2st_2ping_8c.html#a4adf10cf7d80a225388e8698a348fa63" title="nlx_ping_server_should_stop" alt="" coords="104,680,295,707"/>
+<area shape="rect" id="node16" href="$de/dec/lnet_2st_2ping_8c.html#affb2997282d6d0e703c0121922d0d979" title="nlx_ping_fini" alt="" coords="152,629,247,656"/>
+<area shape="rect" id="node17" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="167,781,231,808"/>
+</map>

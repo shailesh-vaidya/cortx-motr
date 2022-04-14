@@ -1,0 +1,8 @@
+<map id="m0_rpc_frm_packet_done" name="m0_rpc_frm_packet_done">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="225,5,392,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga2124b5ee88d7b1754e8b6dbd18260b4f" title="frm_invariant" alt="" coords="473,107,570,133"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga685061aa1a7cad6860dcdad67281cdce" title="frm_is_idle" alt="" coords="651,81,736,108"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga02c962c370662ed0e0d63738ab038ffd" title="frm_rmachine_is_locked" alt="" coords="440,169,603,196"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="262,157,355,184"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="477,245,566,272"/>
+</map>

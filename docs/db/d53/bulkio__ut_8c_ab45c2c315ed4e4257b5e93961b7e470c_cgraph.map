@@ -1,0 +1,7 @@
+<map id="bulkio_init" name="bulkio_init">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="150,5,249,32"/>
+<area shape="rect" id="node3" href="$d8/dc1/bulkio__common_8c.html#a0481e78645fe5eb8b460c11cdac1bc53" title="bulkio_params_init" alt="" coords="134,56,265,83"/>
+<area shape="rect" id="node4" href="$d8/dc1/bulkio__common_8c.html#a2961f353d912413bad2c0a27013799bb" title="bulkio_server_start" alt="" coords="133,107,265,133"/>
+<area shape="rect" id="node5" href="$d8/dc1/bulkio__common_8c.html#a7cf3ea21516ff1e294045fe3e0e55f5c" title="bulkio_client_start" alt="" coords="136,157,263,184"/>
+<area shape="rect" id="node6" href="$db/d53/bulkio__ut_8c.html#a54544bd9fcf188398505bf2b4dae4651" title="bulkio_stob_create" alt="" coords="134,208,265,235"/>
+</map>

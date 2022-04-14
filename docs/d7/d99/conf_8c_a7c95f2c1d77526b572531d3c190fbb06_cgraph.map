@@ -1,0 +1,10 @@
+<map id="is_local_service" name="is_local_service">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#gaa8f36db897ac9f5c640dbd4aae743e6e" title="m0_cs_ctx_get" alt="" coords="198,5,309,32"/>
+<area shape="rect" id="node3" href="$db/dc2/conf_2helpers_8c.html#accafde7d35e02cf7910daf4fb96dfd42" title="m0_conf_obj2reqh" alt="" coords="189,56,317,83"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga1e0b7417712481cde32111643df03c5c" title="local_ep" alt="" coords="218,107,289,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaf976c3b2587bd1975efbfe2c048c202b" title="m0_rpc_machine_ep" alt="" coords="387,145,529,172"/>
+<area shape="rect" id="node6" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="394,221,522,248"/>
+<area shape="rect" id="node7" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="168,259,339,285"/>
+<area shape="rect" id="node8" href="$df/dca/group__m0d.html#ga6bfd0d84fea3da9ef06f0d2da6a41384" title="m0_motr_to_rmach" alt="" coords="186,309,321,336"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="212,360,295,387"/>
+</map>

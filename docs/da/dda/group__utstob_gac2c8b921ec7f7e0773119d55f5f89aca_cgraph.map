@@ -1,0 +1,10 @@
+<map id="ut_stob_linux_create_by_key" name="ut_stob_linux_create_by_key">
+<area shape="rect" id="node2" href="$da/dda/group__utstob.html#ga5fbf7366e75f4bc3d3ae4497b5864754" title="ut_stob_module_get" alt="" coords="196,44,335,71"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="392,7,507,33"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="385,69,513,96"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="201,145,329,172"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#gaa6b83e28f137dbf105b2879f854e28fa" title="m0_stob_find" alt="" coords="215,196,315,223"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="383,297,516,324"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga56160fb005c7a5e49471b61ff48271d4" title="m0_stob_locate" alt="" coords="208,297,323,324"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gaf0b065ab6e4efa650e330134d4c3930f" title="m0_stob_create" alt="" coords="208,348,323,375"/>
+</map>

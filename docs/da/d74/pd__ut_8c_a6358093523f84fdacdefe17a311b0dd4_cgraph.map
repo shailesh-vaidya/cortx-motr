@@ -1,0 +1,6 @@
+<map id="my_item_done" name="my_item_done">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="181,5,328,47"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga5ea356eaa3ea935dd90d288c618bccb4" title="m0_rpc_item_timer_stop" alt="" coords="172,71,337,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga47249bb1825a5b975e7f6f9e830434d3" title="m0_rpc_conn_ha_timer_stop" alt="" coords="160,122,349,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="213,173,296,199"/>
+</map>

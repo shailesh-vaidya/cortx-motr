@@ -1,0 +1,17 @@
+<map id="dix_req_smgrp" name="dix_req_smgrp">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga1f83d43c294d8f926819a86591892c56" title="m0_dix_req_lock" alt="" coords="182,5,302,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga1fa081ea1ad5ca812ba8730ae2551acf" title="m0_dix_req_unlock" alt="" coords="175,56,309,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gad4362b323ad70066afa2929a0fa86bbe" title="m0_dix_req_is_locked" alt="" coords="167,107,317,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga3bbb3b29866d3b3f97ab19e6c8b570c4" title="m0_dix_req_fini_lock" alt="" coords="379,145,523,172"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gaceed23464f353f7df8d8a181d633ebc6" title="dix_layout_find_clink_cb" alt="" coords="160,259,324,285"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga43cbca090d14774d6fac2b8c5357a81f" title="dix_layout_find" alt="" coords="397,221,506,248"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga1f7ba30623d0bda8b2764569db75b9f9" title="dix_ldescr_resolve" alt="" coords="386,291,517,317"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#gad8badd1e1247d11048434613c11c6d90" title="dix_idxop_clink_cb" alt="" coords="176,360,308,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga022efc09825f05201eacd8151cd4e6e7" title="dix_idxop_req_send" alt="" coords="383,385,520,412"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga2e7c4383d864144638065c33d0c87bc2" title="dix_idxop_meta_update\l_clink_cb" alt="" coords="163,462,321,503"/>
+<area shape="rect" id="node12" href="$dd/d33/group__dix.html#ga9a2e1bd6069384b53cdfb4c4930e5734" title="dix_idxop_meta_update" alt="" coords="372,499,531,525"/>
+<area shape="rect" id="node13" href="$dd/d33/group__dix.html#ga6164e1cddeeff11e419a4840aecfa326" title="dix_discovery" alt="" coords="191,579,293,605"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#gabc4828aa4ac05f71878273cc02b9fc5d" title="dix_rop_one_completed" alt="" coords="163,629,321,656"/>
+<area shape="rect" id="node15" href="$dd/d33/group__dix.html#ga18bc66f947b93950d0bbe65e7feeaa62" title="dix_cas_rop_clink_cb" alt="" coords="378,680,525,707"/>
+<area shape="rect" id="node16" href="$dd/d33/group__dix.html#ga2ce8b0a84a9b99c99dbf8c0ccab43a1d" title="dix_cas_rops_send" alt="" coords="579,705,713,732"/>
+</map>

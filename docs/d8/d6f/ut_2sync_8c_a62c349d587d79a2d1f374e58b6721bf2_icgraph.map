@@ -1,0 +1,7 @@
+<map id="fake_setup" name="fake_setup">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a09c05feab16e41b0a39480f2fefe7bb9" title="ut_test_sync_request\l_fop_send" alt="" coords="148,5,295,47"/>
+<area shape="rect" id="node3" href="$d8/d6f/ut_2sync_8c.html#aabcfcb45f420cd079210de7dee3cde71" title="ut_test_sync_reply_wait" alt="" coords="140,71,303,98"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a5dc4566c3906935f8a078ec5d80669d9" title="ut_test_sync_record\l_update" alt="" coords="151,123,291,164"/>
+<area shape="rect" id="node5" href="$d8/d6f/ut_2sync_8c.html#a95e27e11de5a06440c09e70bbc17c34e" title="ut_test_sync_request\l_launch_and_wait" alt="" coords="148,188,295,229"/>
+<area shape="rect" id="node6" href="$d8/d6f/ut_2sync_8c.html#a481870458da2e41a529c26bbf9e638c0" title="ut_test_m0_obj_sync" alt="" coords="148,254,295,281"/>
+</map>

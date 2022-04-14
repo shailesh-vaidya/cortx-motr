@@ -1,0 +1,5 @@
+<map id="dix_disk_state" name="dix_disk_state">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a1e9b4866331adfc41c651f19b5cb38ef" title="dix_disk_failure_set" alt="" coords="160,5,297,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a3a45a2591cb2c24116085b8dc1cee9cb" title="dix_disk_online_set" alt="" coords="161,56,297,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a70ad18f26addd3fd745719888ad48a55" title="dix_rec_is_deleted" alt="" coords="163,107,294,133"/>
+</map>

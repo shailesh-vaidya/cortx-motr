@@ -1,0 +1,7 @@
+<map id="layout_dix_req_clink_cb" name="layout_dix_req_clink_cb">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="249,5,347,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gabee85b9a6b1c08460c71750932c782cd" title="m0_dix_meta_generic_rc" alt="" coords="215,56,381,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga3858b37f3baf14c857723288c2028930" title="m0_dix_layout_rep_get" alt="" coords="220,107,376,133"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#a24f8b11dc7fa28001194c7f22e170439" title="layout_dix_req_ast" alt="" coords="233,157,363,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="237,208,359,235"/>
+</map>

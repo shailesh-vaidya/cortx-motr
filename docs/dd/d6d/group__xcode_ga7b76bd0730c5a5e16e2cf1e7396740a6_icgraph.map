@@ -1,0 +1,31 @@
+<map id="fmt" name="fmt">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7c186b5b125c56e49bf0620486d7e73b" title="fom_type" alt="" coords="143,5,219,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga25c29c17055333a3fc5663e362e157c9" title="sm_state" alt="" coords="143,56,219,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gad9edbe0c57ae9ac3b81cda08aac144b5" title="fom_phase" alt="" coords="138,107,225,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga34252f899e31c25c14300aaa70e89e1e" title="counter" alt="" coords="149,157,214,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga6c891abe81d3d7fc637e48d07af4ef2a" title="sm_trans" alt="" coords="143,208,219,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga406cfe7a3e70683ba69913d99318e17f" title="m0_be_ut_fmt_group" alt="" coords="109,259,253,285"/>
+<area shape="rect" id="node8" href="$d8/d98/group__trace.html#ga3a3f51634798b2cb8c33c329b6bc961a" title="m0_console_vprintf" alt="" coords="114,309,249,336"/>
+<area shape="rect" id="node9" href="$d8/d98/group__trace.html#gae53554ca1c5aff7228036c768655ad2c" title="m0_console_printf" alt="" coords="331,335,459,361"/>
+<area shape="rect" id="node10" href="$d8/d98/group__trace.html#gaa60e1a08469c6ae8bf5f0aef04d87474" title="m0_error_printf" alt="" coords="127,411,236,437"/>
+<area shape="rect" id="node11" href="$dd/d6d/group__xcode.html#ga0a606c1fc85dce6a6f9f4d0e2ec91062" title="m0_xcode_read" alt="" coords="124,461,239,488"/>
+<area shape="rect" id="node12" href="$d1/d07/group__uuid.html#ga6d61cd158132d58a46729aea94168b15" title="m0_uuid_format" alt="" coords="124,512,239,539"/>
+<area shape="rect" id="node13" href="$d1/d22/logger_8c.html#a0471c90e4daf3e4f1a2bce155374beac" title="cr_log" alt="" coords="367,563,424,589"/>
+<area shape="rect" id="node14" href="$d1/d22/logger_8c.html#ac51f10ffff228bf48470d3c163774a21" title="cr_log_ex" alt="" coords="561,613,639,640"/>
+<area shape="rect" id="node15" href="$d8/def/group__crate__logger.html#ga1014755ac8711c6b549a23325a63b5ef" title="cr_vlog" alt="" coords="149,613,213,640"/>
+<area shape="rect" id="node16" href="$d8/d88/motr_2m0crate_2parser_8c.html#a1752165b2b55deed3940e6aece9361e7" title="parser_emit_error" alt="" coords="120,715,243,741"/>
+<area shape="rect" id="node17" href="$df/ddd/st__misc_8h.html#a47df046791fa999ff0b4c7bd98345708" title="console_printf" alt="" coords="130,765,233,792"/>
+<area shape="rect" id="node18" href="$de/dec/lnet_2st_2ping_8c.html#a195a60241fb798beb382141c84c071a3" title="nlx_ping_client_init" alt="" coords="115,816,247,843"/>
+<area shape="rect" id="node19" href="$da/d2f/ip_8h.html#ad3abab2329ea46f85fc4c5f071e235dc" title="m0_net_hostname_to_ip" alt="" coords="99,867,263,893"/>
+<area shape="rect" id="node20" href="$d8/de0/group___l_net_core.html#ga9fa65b9a7f3ca1f1a79066e731fddd2a" title="nlx_core_ep_addr_encode" alt="" coords="95,917,268,944"/>
+<area shape="rect" id="node21" href="$d7/db9/group___l_net_d_f_s.html#ga4138d81844fe6bc9ebba3653ca3be292" title="verbose_printk" alt="" coords="128,968,235,995"/>
+<area shape="rect" id="node22" href="$de/d66/group___net_test_u_common_d_f_s.html#gafaac6754421a30ce6afaccb5ae8ad89b" title="m0_net_test_u_print_s" alt="" coords="523,1044,677,1071"/>
+<area shape="rect" id="node23" href="$de/d66/group___net_test_u_common_d_f_s.html#ga0273ba4d8ac69c5b0d81066a9d414804" title="m0_net_test_u_print\l_bsize" alt="" coords="530,1189,670,1230"/>
+<area shape="rect" id="node24" href="$d5/dc5/group___net_test_u_common_internals.html#gacae6e73b1a39a1f1eb9846b341e31dba" title="net_test_u_printf" alt="" coords="122,1120,241,1147"/>
+<area shape="rect" id="node25" href="$de/d66/group___net_test_u_common_d_f_s.html#gab183ae53b13a6ef2ecc530b1e42ce7fb" title="m0_net_test_u_printf" alt="" coords="323,1171,467,1197"/>
+<area shape="rect" id="node26" href="$de/d66/group___net_test_u_common_d_f_s.html#ga975f09153b1f8a41c8048e0d84acc62e" title="m0_net_test_u_printf_v" alt="" coords="316,1069,475,1096"/>
+<area shape="rect" id="node27" href="$dd/d6d/group__xcode.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="156,1272,207,1299"/>
+<area shape="rect" id="node28" href="$dd/d6d/group__xcode.html#ga00033f0aad805de9ac5fdc0cb5c9488e" title="require_init" alt="" coords="139,1323,224,1349"/>
+<area shape="rect" id="node29" href="$dd/d6d/group__xcode.html#ga23d42803f5867c55b808c59006cf1518" title="field_init" alt="" coords="146,1373,217,1400"/>
+<area shape="rect" id="node30" href="$dd/d6d/group__xcode.html#ga0f8f0e17d727641b7c3240cbc183716b" title="type_init" alt="" coords="146,1424,217,1451"/>
+</map>

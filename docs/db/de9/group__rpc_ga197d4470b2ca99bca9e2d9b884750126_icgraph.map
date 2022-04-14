@@ -1,0 +1,12 @@
+<map id="m0_rpc_bulk_store" name="m0_rpc_bulk_store">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga8ff5c09053b9ffa80198717d616acc3a" title="m0_sns_cm_cp_send" alt="" coords="192,5,341,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aeb6d70980d9ff67d1e3f52cd0703c4ff" title="iofop_async_submit" alt="" coords="197,56,336,83"/>
+<area shape="rect" id="node4" href="$da/dda/io__fops_8c.html#aaf85379e89decd3277dee9b6aae5ebad" title="io_fop_coalesce" alt="" coords="209,107,325,133"/>
+<area shape="rect" id="node5" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="213,157,320,184"/>
+<area shape="rect" id="node6" href="$d8/dc1/bulkio__common_8c.html#a2e68bfef2868da731725600746d4a51d" title="io_fop_populate" alt="" coords="210,208,323,235"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#a6cb1bea9d2dacf4cc83162b1c9642932" title="fop_create_populate" alt="" coords="197,259,336,285"/>
+<area shape="rect" id="node8" href="$dc/d83/io__req__fop_8c.html#a9913fc4611ef26f3061246c1f24f0e21" title="ioreq_fop_async_submit" alt="" coords="185,309,348,336"/>
+<area shape="rect" id="node9" href="$d7/df1/group__rpc-at.html#ga319e88981dfdab821cd59e5309107efd" title="rpc_at_bulk_csend" alt="" coords="201,360,332,387"/>
+<area shape="rect" id="node10" href="$d7/df1/group__rpc-at.html#ga243668a0f8e83f51672f793b7a7981c6" title="rpc_at_bulk_crecv" alt="" coords="203,411,331,437"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#ga1ef98148f28104ea16ec772fb8987704" title="spiel_load_fop_send" alt="" coords="197,461,337,488"/>
+</map>

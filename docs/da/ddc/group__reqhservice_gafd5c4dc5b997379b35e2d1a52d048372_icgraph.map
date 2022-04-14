@@ -1,0 +1,9 @@
+<map id="m0_reqh_service_quit" name="m0_reqh_service_quit">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#gad57817a0b3c98b7c6c05d93b95505269" title="m0_rpc_service_stop" alt="" coords="229,5,375,32"/>
+<area shape="rect" id="node3" href="$d1/d2c/motr_2ut_2io_8c.html#a237b8cece1bfb3752f0461298aac021f" title="ut_disable_resource\l_manager" alt="" coords="233,57,371,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga5e31f964396607c9c8c42db79b94b8db" title="m0_be_tx_service_fini" alt="" coords="226,123,378,149"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gac9fb258d5cd52636090ffe276a80b9a6" title="m0_ha_entrypoint_service_fini" alt="" coords="203,173,401,200"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga3e9a2f102da7bf99ffff197b0aec4faa" title="halon_interface_level\l_leave" alt="" coords="230,225,374,266"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga3154bc4efccec00b37243ebdc70525dd" title="m0_ha_link_service_fini" alt="" coords="221,291,383,317"/>
+<area shape="rect" id="node8" href="$d2/d1d/super_8c.html#ab591f6030e9a79f6fc3fd079bdeaf786" title="m0t1fs_rm_service_quit" alt="" coords="221,341,383,368"/>
+</map>

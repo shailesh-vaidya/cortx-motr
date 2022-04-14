@@ -1,0 +1,32 @@
+<map id="credits_are_equal" name="credits_are_equal">
+<area shape="rect" id="node2" href="$de/d51/ut_2rm__rwlock_8c.html#aab73a085e0ff7492f872cdd795a9917d" title="rwlock_read_test" alt="" coords="218,5,339,32"/>
+<area shape="rect" id="node3" href="$de/d51/ut_2rm__rwlock_8c.html#a55157627510590241cb9854ab1fd0fb3" title="rwlock_write_test" alt="" coords="217,56,341,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#a60fc683aa79c773f59f3902c3ef05f8f" title="rwlock_read_read_hold_test" alt="" coords="187,107,371,133"/>
+<area shape="rect" id="node5" href="$de/d51/ut_2rm__rwlock_8c.html#a0fd9deea0234c575b613eae80e5ef4fd" title="rwlock_read_write_hold_test" alt="" coords="185,157,372,184"/>
+<area shape="rect" id="node6" href="$de/d51/ut_2rm__rwlock_8c.html#a78fb30b811ff3941f9d94a20da4c6cb3" title="rwlock_write_read_hold\l_test1" alt="" coords="199,209,358,250"/>
+<area shape="rect" id="node7" href="$de/d51/ut_2rm__rwlock_8c.html#a6cefce079b99fc60db4ad46c419dd50b" title="rwlock_write_read_hold\l_test2" alt="" coords="199,274,358,315"/>
+<area shape="rect" id="node8" href="$de/d51/ut_2rm__rwlock_8c.html#a5be8ed8ec4f6d8c284f57377c8e85ef6" title="rwlock_write_write\l_hold_test" alt="" coords="213,339,344,381"/>
+<area shape="rect" id="node9" href="$de/d51/ut_2rm__rwlock_8c.html#a7b27c2af2df3ec63134b5ef74b202e3f" title="rwlock_two_read_locks_test" alt="" coords="185,405,372,432"/>
+<area shape="rect" id="node10" href="$de/d51/ut_2rm__rwlock_8c.html#aec6828240aad1b850a3d697b11380dce" title="rwlock_writer_starvation_test" alt="" coords="183,456,375,483"/>
+<area shape="rect" id="node11" href="$de/d51/ut_2rm__rwlock_8c.html#aa37dcd4ff9ae0652ba791214744db06e" title="rwlock_read_read_sharing_test" alt="" coords="177,507,380,533"/>
+<area shape="rect" id="node12" href="$d6/d94/rcredits_8c.html#aa5f6a768787efb82f560e7e11de972d6" title="test_two_borrows_single_req" alt="" coords="183,557,374,584"/>
+<area shape="rect" id="node13" href="$d6/d94/rcredits_8c.html#a3665561f428b99496a92a67514ec75a2" title="test_borrow_revoke\l_single_req" alt="" coords="211,609,347,650"/>
+<area shape="rect" id="node14" href="$d6/d94/rcredits_8c.html#a9979189a9e5551707e00f9cac9406330" title="test_revoke_with_hop" alt="" coords="204,675,353,701"/>
+<area shape="rect" id="node15" href="$d6/d94/rcredits_8c.html#a056ffc8c1ef1b7cf789e7921953e191c" title="test_simple_borrow" alt="" coords="211,725,346,752"/>
+<area shape="rect" id="node16" href="$d6/d94/rcredits_8c.html#adc111ba767a1eef2e7843ea0378c92bc" title="test_borrow_non_conflicting" alt="" coords="187,776,371,803"/>
+<area shape="rect" id="node17" href="$d6/d94/rcredits_8c.html#a5c7ae3797b098914085205a1b32d8f69" title="test_revoke_conflicting_wait" alt="" coords="185,827,372,853"/>
+<area shape="rect" id="node18" href="$d6/d94/rcredits_8c.html#ac98f1d1d1bd5806e7baefba8034f0cea" title="test_revoke_conflicting_try" alt="" coords="189,877,368,904"/>
+<area shape="rect" id="node19" href="$d6/d94/rcredits_8c.html#a278bde677d9daff233ac9ddc2f2947ce" title="test_revoke_no_conflict_wait" alt="" coords="183,928,374,955"/>
+<area shape="rect" id="node20" href="$d6/d94/rcredits_8c.html#a08d2cd6cdb9e268cab383b18ca7d6005" title="test_revoke_no_conflict_try" alt="" coords="187,979,370,1005"/>
+<area shape="rect" id="node21" href="$d6/d94/rcredits_8c.html#a12509f6fb150d6ada23db8d9a992a30f" title="test_borrow_held_no\l_conflict" alt="" coords="207,1030,350,1071"/>
+<area shape="rect" id="node22" href="$d6/d94/rcredits_8c.html#acb7ea8bdea992fb84b412e6d42c3adc8" title="test_borrow_held_conflicting" alt="" coords="185,1096,372,1123"/>
+<area shape="rect" id="node23" href="$d6/d94/rcredits_8c.html#ab72a0910765911085a70c74e1b11cdce" title="test_starvation" alt="" coords="225,1147,333,1173"/>
+<area shape="rect" id="node24" href="$d6/d94/rcredits_8c.html#a9145ff78de4c82b19141de7307931668" title="test_barrier" alt="" coords="235,1197,322,1224"/>
+<area shape="rect" id="node25" href="$d6/d94/rcredits_8c.html#a872f038c77df5fe845de10278702f40b" title="test_barrier_overcome" alt="" coords="203,1248,354,1275"/>
+<area shape="rect" id="node26" href="$d6/d94/rcredits_8c.html#a88120a01d5607c07814748a2fd47ef21" title="test_barrier_same_time" alt="" coords="199,1299,358,1325"/>
+<area shape="rect" id="node27" href="$d6/d94/rcredits_8c.html#aeb9e6f84b912fea9d9bffd9ed45f08f1" title="test_debtor_death" alt="" coords="215,1349,342,1376"/>
+<area shape="rect" id="node28" href="$d6/d94/rcredits_8c.html#a85d79aada9bef3c6b514f88bcd1185cf" title="test_creditor_death" alt="" coords="212,1400,345,1427"/>
+<area shape="rect" id="node29" href="$d6/d94/rcredits_8c.html#a475b9dc9304cfaa7134500c991c4c694" title="test_creditor_death2" alt="" coords="209,1451,349,1477"/>
+<area shape="rect" id="node30" href="$d6/d94/rcredits_8c.html#ae2441bb24459fb5da3638ba15fc0d014" title="test_creditor_recovered" alt="" coords="199,1501,358,1528"/>
+<area shape="rect" id="node31" href="$d6/d94/rcredits_8c.html#a148a19108fbffb1cebadc2adce9169b4" title="test_creditor_reset" alt="" coords="213,1552,344,1579"/>
+</map>

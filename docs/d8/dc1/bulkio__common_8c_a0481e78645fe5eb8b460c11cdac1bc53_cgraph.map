@@ -1,0 +1,10 @@
+<map id="bulkio_params_init" name="bulkio_params_init">
+<area shape="rect" id="node2" href="$d8/dc1/bulkio__common_8c.html#ab4085d4539716517c7b8d6c7281fb2c2" title="io_fids_init" alt="" coords="231,5,315,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="190,56,355,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="203,107,342,133"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#ga0042dfb071ce7dab50835d2d68b68d3a" title="min32u" alt="" coords="241,157,305,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="187,209,358,250"/>
+<area shape="rect" id="node7" href="$d8/dc1/bulkio__common_8c.html#aa32bcc36400844d405b285c9c9c1e677" title="io_buffers_allocate" alt="" coords="207,275,338,301"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga5532c311719a06760cedeb1f70112bf9" title="m0_rm_domain_init" alt="" coords="205,325,340,352"/>
+<area shape="rect" id="node9" href="$de/d3f/group___file_lock.html#ga199b185a1145615a455b8f57392ee3f2" title="m0_file_lock_type_register" alt="" coords="184,376,361,403"/>
+</map>

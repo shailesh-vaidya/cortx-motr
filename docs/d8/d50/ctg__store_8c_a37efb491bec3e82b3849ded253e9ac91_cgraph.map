@@ -1,0 +1,10 @@
+<map id="ctg_op_tick_ret" name="ctg_op_tick_ret">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a050c2bc470e26b865a3e3b7e7e4bf4d1" title="ctg_beop" alt="" coords="195,5,269,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8eed425b2323b3f9d18bdcdd7185ea84" title="m0_be_op_lock" alt="" coords="175,56,289,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="181,107,283,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="179,157,285,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="171,208,293,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="172,259,292,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga7796122730f617f1608427fc372184fb" title="m0_be_op_unlock" alt="" coords="169,309,295,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="164,360,300,387"/>
+</map>

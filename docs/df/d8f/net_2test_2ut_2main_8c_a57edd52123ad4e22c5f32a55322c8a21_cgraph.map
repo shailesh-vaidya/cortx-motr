@@ -1,0 +1,8 @@
+<map id="m0_net_test_xprt_dynamic_reg_dereg_ut" name="m0_net_test_xprt_dynamic_reg_dereg_ut">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga9749c2c4935f1a2bc75dbee27e3359d7" title="m0_net_print_xprt" alt="" coords="237,5,363,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga1475c7896ac5dffb9360fd76658dca3c" title="m0_net_check_xprt" alt="" coords="232,56,368,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga51b277ab5932fe7ea57590670438a9ff" title="m0_mem_xprt_fini" alt="" coords="235,107,365,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#gada64cadfa465a16f2e67c4fefab6ced4" title="m0_mem_xprt_init" alt="" coords="235,157,365,184"/>
+<area shape="rect" id="node6" href="$d7/db9/group___l_net_d_f_s.html#gafab2dd0ec974e1a48abac6d96adfc80d" title="m0_net_lnet_fini" alt="" coords="241,208,359,235"/>
+<area shape="rect" id="node7" href="$d7/db9/group___l_net_d_f_s.html#ga2a6666a3f5a3ce0a0cd7bf5779a083c3" title="m0_net_lnet_init" alt="" coords="241,259,359,285"/>
+</map>

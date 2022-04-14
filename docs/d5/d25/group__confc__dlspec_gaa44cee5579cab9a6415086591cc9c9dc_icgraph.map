@@ -1,0 +1,7 @@
+<map id="confc_is_locked" name="confc_is_locked">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga41fb9a92c20c050f4de586c47b815966" title="confc_cache_create" alt="" coords="363,82,501,109"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga1e04c545cb6a13078b12e9c668d705ad" title="on_object_updated" alt="" coords="177,32,307,58"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gad4b343fb8c155c7c8662bbd0d004d1e8" title="path_walk_complete" alt="" coords="171,82,313,109"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga9a5d8b8b68c9ea4dd0aa2e50e89f91f6" title="object_enrich" alt="" coords="193,133,291,160"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#gab3e1c50b683e3bedc3bf8d5f02be38fd" title="confc_cache_preload" alt="" coords="169,184,315,210"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="poolmach_state_update" name="poolmach_state_update">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="241,5,369,32"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#gacb5a46061ba2abadd41969f918326a39" title="m0_conf_obj_get_lock" alt="" coords="229,56,381,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga8a2bfc9e1d3cb5e37624cb33f1914339" title="m0_poolnode_clink_add" alt="" coords="224,107,385,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#gaf45e65f327ad578fb554c0a4648735a9" title="poolnode_clink" alt="" coords="251,157,359,184"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gaf17922aef66dfe137da97a7e59ad4138" title="m0_ha2pm_state_map" alt="" coords="227,208,382,235"/>
+<area shape="rect" id="node7" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="213,259,396,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="444,284,511,311"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga7ccf6e1f6e6286dadf2f5de22311e5e1" title="m0_pooldev_clink_add" alt="" coords="227,360,382,387"/>
+<area shape="rect" id="node10" href="$d8/dec/group__poolmach.html#gaa49b2639010c2cd9c0c1f9286dfbd5cf" title="pooldev_clink" alt="" coords="254,411,355,437"/>
+</map>

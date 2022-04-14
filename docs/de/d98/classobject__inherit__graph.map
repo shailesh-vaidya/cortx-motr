@@ -1,0 +1,5 @@
+<map id="object" name="object">
+<area shape="rect" id="node2" href="$d8/d8d/classrecord_1_1locality.html" title="{record.locality\n|+ trace\l+ foms\l+ idx\l|+ __init__()\l+ fomadd()\l+ fomdel()\l}" alt="" coords="5,358,108,494"/>
+<area shape="rect" id="node3" href="$da/d14/classrecord_1_1record.html" title="{record.record\n|+ trace\l|+ add()\l+ done()\l+ get()\l+ fomexists()\l+ __str__()\l+ getloc()\l}" alt="" coords="133,351,231,501"/>
+<area shape="rect" id="node4" href="$d6/d75/classrecord_1_1trace.html" title="{record.trace\n|+ timeformat\l+ start\l+ prep\l+ label\l+ width\l+ height\l+ loc_nr\l+ usec\l+ step\l+ verb\l+ maxfom\l+ out\l+ lmargin\l+ reqhwidth\l+ lockwidth\land 40 more...\l|+ __init__()\l+ done()\l+ fomadd()\l+ fomdel()\l+ getloc()\l+ getlane()\l+ getpos()\l+ fomfind()\l+ getcolour()\l+ fomcolour()\l+ fomrect()\l+ statecolour()\l+ rect()\l+ line()\l+ tline()\l+ text()\l+ fomtext()\l+ prepare()\l+ ioadd()\l+ netbufadd()\l+ mutex()\l}" alt="" coords="255,131,362,721"/>
+</map>

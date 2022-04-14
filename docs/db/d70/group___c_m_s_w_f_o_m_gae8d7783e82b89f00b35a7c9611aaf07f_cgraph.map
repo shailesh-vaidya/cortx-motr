@@ -1,0 +1,12 @@
+<map id="cm_swu_fom_tick" name="cm_swu_fom_tick">
+<area shape="rect" id="node2" href="$db/d70/group___c_m_s_w_f_o_m.html#ga1dcd7523df4c99d3f68a63c8dd314cc9" title="cm_fom2swu" alt="" coords="229,5,329,32"/>
+<area shape="rect" id="node3" href="$db/d70/group___c_m_s_w_f_o_m.html#ga4ea44d5cd259a9758c0a01053dcd7ec5" title="cm_swu2cm" alt="" coords="231,56,327,83"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="231,107,327,133"/>
+<area shape="rect" id="node5" href="$d0/db0/group___c_m_s_w.html#gac19bcd2f747c4cdc576c4e150282ef03" title="m0_cm_sw_remote_update" alt="" coords="187,157,370,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="424,183,491,209"/>
+<area shape="rect" id="node7" href="$db/d70/group___c_m_s_w_f_o_m.html#ga453c32a23104e0eb604acf268640a6a8" title="m0_cm_sw_update_complete" alt="" coords="181,259,376,285"/>
+<area shape="rect" id="node8" href="$d0/da4/group___c_m.html#ga94b353e2ddfbd6d54e22c4d2e7aa6104" title="m0_cm_complete_notify" alt="" coords="197,309,361,336"/>
+<area shape="rect" id="node9" href="$d0/da4/group___c_m.html#ga7a59387e137f4660d52b23ac4f336d52" title="m0_cm_abort" alt="" coords="228,360,329,387"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="203,411,354,437"/>
+<area shape="rect" id="node11" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="223,461,334,488"/>
+</map>

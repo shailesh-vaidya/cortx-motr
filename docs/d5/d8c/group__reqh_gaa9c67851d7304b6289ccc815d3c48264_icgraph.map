@@ -1,0 +1,12 @@
+<map id="m0_reqh_shutdown_wait" name="m0_reqh_shutdown_wait">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gaede531878205b1e7c812f8ae1f1c9ae2" title="m0_ha_ut_rpc_ctx_fini" alt="" coords="229,5,382,32"/>
+<area shape="rect" id="node3" href="$d3/da7/conf_2ut_2rpc__helpers_8h.html#a3ac4494e16e6f56d67dd7f8a43d967f8" title="m0_ut_rpc_machine_stop" alt="" coords="220,56,391,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gaf23a7b046c09f3524848e5e17b821c33" title="rpc_fop_fom_fini" alt="" coords="246,107,365,133"/>
+<area shape="rect" id="node5" href="$d5/d34/sd__common_8h.html#ae7a904c8aae47f789ce50ec6fb8ef3c9" title="fdmi_serv_stop_ut" alt="" coords="241,157,370,184"/>
+<area shape="rect" id="node6" href="$d2/d76/fop_2ub_2ub_8c.html#a18d1ba506594ac7bdd8b528411a1acce" title="_fini" alt="" coords="282,208,329,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga3e9a2f102da7bf99ffff197b0aec4faa" title="halon_interface_level\l_leave" alt="" coords="233,259,377,301"/>
+<area shape="rect" id="node8" href="$de/d4a/group__m0ham.html#ga78a348d5aa2205c13ff37734c7306764" title="ham_rpc_ctx_fini" alt="" coords="245,325,366,352"/>
+<area shape="rect" id="node9" href="$d7/d93/mdservice_2ut_2mdstore_8c.html#accd2b6e71712d5b3683c70754cdd6722" title="test_fini" alt="" coords="271,376,339,403"/>
+<area shape="rect" id="node10" href="$df/dca/group__m0d.html#gafa81b5154c3b43c53d571a8f1f4e8182" title="cs_reqh_shutdown" alt="" coords="240,427,371,453"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#gad22b9c383b5917817e309f9b4db34822" title="server_fini" alt="" coords="264,477,347,504"/>
+</map>

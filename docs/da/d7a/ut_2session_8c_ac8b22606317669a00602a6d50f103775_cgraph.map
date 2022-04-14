@@ -1,0 +1,7 @@
+<map id="session_hold_release" name="session_hold_release">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="215,5,367,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gaed7f9e3cb8535b9183a1ede0d9e13086" title="m0_rpc_session_hold_busy" alt="" coords="200,56,383,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="431,132,533,159"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="208,157,375,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="208,208,375,235"/>
+</map>

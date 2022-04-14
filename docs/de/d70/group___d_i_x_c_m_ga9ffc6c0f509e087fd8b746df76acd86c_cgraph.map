@@ -1,0 +1,8 @@
+<map id="dix_repair_svc_start" name="dix_repair_svc_start">
+<area shape="rect" id="node2" href="$d3/da7/group__dixcm.html#ga676e1b0b8d44f194d3c249ee475f1f9f" title="m0_dix_cm_svc_start" alt="" coords="207,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="420,31,487,57"/>
+<area shape="rect" id="node4" href="$d0/d80/group___c_p.html#ga15e61a1b2b5b572229d9cb688b8102a9" title="m0_cm_cp_init" alt="" coords="227,107,337,133"/>
+<area shape="rect" id="node5" href="$de/d70/group___d_i_x_c_m.html#gaa2450efe87dadd0c92860f2b257c9937" title="m0_dix_cm_repair_cpx_init" alt="" coords="192,157,372,184"/>
+<area shape="rect" id="node6" href="$de/d70/group___d_i_x_c_m.html#ga88db99d5b9da195855cf898d0bed8b8e" title="m0_dix_repair_sw_onwire\l_fop_init" alt="" coords="196,209,368,250"/>
+<area shape="rect" id="node7" href="$de/d70/group___d_i_x_c_m.html#ga75c5a785efaeebe512bff21551c58813" title="m0_dix_cm_repair_trigger\l_fop_init" alt="" coords="197,274,367,315"/>
+</map>

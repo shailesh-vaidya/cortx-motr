@@ -1,0 +1,5 @@
+<map id="sync_request_fop_send" name="sync_request_fop_send">
+<area shape="rect" id="node2" href="$db/dc2/sync_8c.html#a32551cb62c6a0ac674a1ab9488bf6b3c" title="sync_request_launch" alt="" coords="214,5,359,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gae2edd4323a89b8b077c0fc347088cb2f" title="m0_sync" alt="" coords="249,56,324,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a09c05feab16e41b0a39480f2fefe7bb9" title="ut_test_sync_request\l_fop_send" alt="" coords="213,107,360,149"/>
+</map>

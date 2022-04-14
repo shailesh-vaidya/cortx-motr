@@ -1,0 +1,4 @@
+<map id="timer_hard_stop" name="timer_hard_stop">
+<area shape="rect" id="node2" href="$d7/d2c/group__timer.html#ga9e83a0c29325bb4feaa70206145089f5" title="timer_posix_set" alt="" coords="185,5,300,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="168,56,317,83"/>
+</map>

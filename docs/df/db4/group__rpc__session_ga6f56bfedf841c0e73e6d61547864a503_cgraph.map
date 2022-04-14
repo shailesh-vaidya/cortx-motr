@@ -1,0 +1,6 @@
+<map id="m0_rpc_conn_create" name="m0_rpc_conn_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="439,29,505,56"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga83163fc09d5543c85cd1c1a2a1d9670f" title="m0_rpc_conn_init" alt="" coords="231,29,355,56"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga205d51486166a754a9bf96d4f5098cf9" title="m0_rpc_conn_establish_sync" alt="" coords="196,80,391,106"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gafac3857111012e74e39d7c5d30a817d3" title="m0_rpc_conn_fini" alt="" coords="231,130,355,157"/>
+</map>

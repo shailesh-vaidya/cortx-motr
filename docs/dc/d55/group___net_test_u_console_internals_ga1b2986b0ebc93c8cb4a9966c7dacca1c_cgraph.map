@@ -1,0 +1,9 @@
+<map id="console_run" name="console_run">
+<area shape="rect" id="node2" href="$dc/d55/group___net_test_u_console_internals.html#gaad03f26a4efeb2176319416c85393f15" title="console_step" alt="" coords="185,5,284,32"/>
+<area shape="rect" id="node3" href="$d5/dc5/group___net_test_u_common_internals.html#ga975f09153b1f8a41c8048e0d84acc62e" title="m0_net_test_u_printf_v" alt="" coords="372,31,531,57"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="181,107,288,133"/>
+<area shape="rect" id="node5" href="$d5/dc5/group___net_test_u_common_internals.html#gab183ae53b13a6ef2ecc530b1e42ce7fb" title="m0_net_test_u_printf" alt="" coords="379,208,523,235"/>
+<area shape="rect" id="node6" href="$dc/d55/group___net_test_u_console_internals.html#ga1714f1f9f66767e5c67428c41d19c0c9" title="print_status_data_v" alt="" coords="167,208,303,235"/>
+<area shape="rect" id="node7" href="$dc/d55/group___net_test_u_console_internals.html#gaaafcab4ae55851a5f90d721d7657d1fb" title="print_status_data" alt="" coords="173,259,296,285"/>
+<area shape="rect" id="node8" href="$dc/d55/group___net_test_u_console_internals.html#ga4dfe36132b6cbeb5516970084cc34844" title="print_status_data_parsable" alt="" coords="145,309,324,336"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_rpc_packet_add_item" name="m0_rpc_packet_add_item">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf342b774eb4c0e5151d2d544bcf3f927" title="frm_fill_packet" alt="" coords="432,7,539,34"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="234,29,374,70"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae5fb19175cf9aa8559ef2e812386e719" title="m0_rpc_packet_decode\l_using_cursor" alt="" coords="224,94,384,136"/>
+<area shape="rect" id="node5" href="$da/d5b/ut_2packet_8c.html#a933e19a6002cd36c8de0a40e76922ef3" title="test_packet_encode\l_decode" alt="" coords="235,160,373,201"/>
+</map>

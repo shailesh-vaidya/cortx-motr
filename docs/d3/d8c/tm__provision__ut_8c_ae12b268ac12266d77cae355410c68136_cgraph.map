@@ -1,0 +1,6 @@
+<map id="ut_prov_msg_recv_cb" name="ut_prov_msg_recv_cb">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="204,5,371,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="225,56,350,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#gacaa1314b4436697faf45f84463ba14f5" title="m0_net_buffer_pool_put" alt="" coords="207,107,367,133"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="220,158,355,199"/>
+</map>

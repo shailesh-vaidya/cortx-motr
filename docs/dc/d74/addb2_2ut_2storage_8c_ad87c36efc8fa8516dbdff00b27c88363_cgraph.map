@@ -1,0 +1,12 @@
+<map id="read_many" name="read_many">
+<area shape="rect" id="node2" href="$dc/d74/addb2_2ut_2storage_8c.html#adcaf569693529bf65f6d8cc5c80b2a48" title="stor_init" alt="" coords="173,5,241,32"/>
+<area shape="rect" id="node3" href="$dc/d74/addb2_2ut_2storage_8c.html#aed54f6f4c655bb38cc68faee35df653c" title="add_one" alt="" coords="172,56,243,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gaf54729605f3d1cb7995f4c10df8ad238" title="m0_addb2_pop" alt="" coords="331,81,441,108"/>
+<area shape="rect" id="node5" href="$dc/d74/addb2_2ut_2storage_8c.html#acd0227cf1bb196d7438a43c22a9ff900" title="stor_fini" alt="" coords="173,157,241,184"/>
+<area shape="rect" id="node6" href="$dc/d74/addb2_2ut_2storage_8c.html#a28b8d21e1f72392c52059e6850e8c906" title="stob_get" alt="" coords="171,208,243,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga698f495e2bbbe62d611bf68a9d857efc" title="m0_addb2_sit_init" alt="" coords="144,259,271,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#gadb6207be602ace9fa824f02adb6d99ee" title="m0_addb2_sit_fini" alt="" coords="323,284,449,311"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#gab2110155faff378094304be7d072f61e" title="m0_addb2_sit_next" alt="" coords="140,360,275,387"/>
+<area shape="rect" id="node10" href="$dc/d74/addb2_2ut_2storage_8c.html#ad34f1d79b4ccb7629be2f03451b258d1" title="check_one" alt="" coords="165,411,250,437"/>
+<area shape="rect" id="node11" href="$dc/d74/addb2_2ut_2storage_8c.html#a37622254621520b649e871f4d53bcb21" title="stob_put" alt="" coords="171,461,243,488"/>
+</map>

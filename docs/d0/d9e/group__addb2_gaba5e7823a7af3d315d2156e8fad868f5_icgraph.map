@@ -1,0 +1,8 @@
+<map id="mach_put" name="mach_put">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga6fc4a9312d0b93be87453a6abcd17bb6" title="m0_addb2_push" alt="" coords="151,5,269,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gaf54729605f3d1cb7995f4c10df8ad238" title="m0_addb2_pop" alt="" coords="155,56,265,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga13ae1b932a6367943b24526db4de199b" title="m0_addb2_add" alt="" coords="155,107,265,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gad6659265f41738755d596f26eb11bb5d" title="m0_addb2_sensor_add" alt="" coords="132,157,288,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga55e83890cbb6d1e8cfce70102b05941c" title="m0_addb2_sensor_del" alt="" coords="134,208,286,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gafb67a0c2dbe42082f679430cff18050c" title="m0_addb2_force" alt="" coords="151,259,269,285"/>
+</map>

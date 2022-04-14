@@ -1,0 +1,11 @@
+<map id="ha_link_event_cb" name="ha_link_event_cb">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="421,176,461,203"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga156d225b279a92cccceb93b91a24a4ba" title="m0_ha_link_state_get" alt="" coords="187,46,337,72"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga316e4c94f44852698446b446b614f2b6" title="m0_ha_link_state_name" alt="" coords="181,96,343,123"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gad3411bca35da59040292acfc25f87a39" title="m0_ha_link_recv" alt="" coords="202,147,322,174"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga62e1d705bbc5e6af1ff2c8cbed78fa8f" title="m0_ha_link_delivered\l_consume" alt="" coords="189,198,335,240"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga2e62a55160115868bb074bbee37b12fb" title="m0_ha_link_not_delivered\l_consume" alt="" coords="176,264,348,305"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga70c1cf2656d414cd53e58675045c66e9" title="m0_ha_entrypoint_client\l_request" alt="" coords="181,329,343,370"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="396,395,485,422"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#gae731d1e7c23822c9bd59031b3374114f" title="m0_ha_link_stop" alt="" coords="202,446,322,472"/>
+</map>

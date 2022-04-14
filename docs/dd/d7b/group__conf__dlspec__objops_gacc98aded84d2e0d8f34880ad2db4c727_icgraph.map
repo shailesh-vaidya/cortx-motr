@@ -1,0 +1,12 @@
+<map id="m0_conf_obj_put" name="m0_conf_obj_put">
+<area shape="rect" id="node2" href="$d0/dca/group__confc__dfspec.html#gae63990a2b05b1ea540711250c34cf96b" title="m0_confc_ctx_fini_locked" alt="" coords="175,5,348,32"/>
+<area shape="rect" id="node3" href="$d0/dca/group__confc__dfspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="203,107,320,133"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#gaadae9fea7d72c15ceb235d62b96b9ab5" title="_spiel_conf_dir_iterate" alt="" coords="396,67,548,93"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga6dc7fd3c49090409bdf1690fec7b3121" title="spiel_pool__device\l_collection_fill" alt="" coords="406,129,538,170"/>
+<area shape="rect" id="node6" href="$d2/d01/group__confd__dlspec.html#gafaeb7813cd094497d66eb7f19513738f" title="confd_path_walk" alt="" coords="201,208,321,235"/>
+<area shape="rect" id="node7" href="$dd/d06/conf_2objs_2dir_8c.html#a2d82dffe457fe264718400909a4daff1" title="dir_readdir" alt="" coords="220,259,303,285"/>
+<area shape="rect" id="node8" href="$de/df4/group__rm-ha.html#ga10ace70546b25a4d87db1f4845688f7b" title="m0_rm_ha_unsubscribe" alt="" coords="181,309,341,336"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#gabaf00b78d1a327a1ea762a8c0f0d995a" title="__conn_ha_unsubscribe" alt="" coords="180,360,343,387"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#gabaaec7fb30a6ff4d517cce4303225120" title="spiel_objv_remove" alt="" coords="196,411,327,437"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#gac26be0088ad6f5f824644a2fadb147e1" title="spiel_pver_iterator" alt="" coords="197,461,325,488"/>
+</map>

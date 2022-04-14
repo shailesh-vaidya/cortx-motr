@@ -1,0 +1,11 @@
+<map id="obj_wait_no_launch" name="obj_wait_no_launch">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="225,5,289,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="217,56,298,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga6bdfb2e8450912b6aa8d79efbd618cd0" title="st_entity_create" alt="" coords="200,107,315,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="215,157,300,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="189,208,325,235"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="218,259,297,285"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="216,309,299,336"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#gae7037d6e4cc03fe7aacddb58c31d24ab" title="st_entity_fini" alt="" coords="209,360,305,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="217,411,297,437"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="nlx_dev_ioctl_buf_register" name="nlx_dev_ioctl_buf_register">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="505,26,581,52"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="236,266,399,292"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gaed1d66ac9dd9786841dbd48dfd19ad96" title="nlx_kcore_core_buffer_map" alt="" coords="227,114,408,140"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#ga4325e75464380d034b8f89bbaafdb6e7" title="nlx_kcore_buffer_invariant" alt="" coords="456,114,629,140"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#ga460e610c0a7b3acefc35a42eb6ebd284" title="nlx_kcore_buffer_uva\l_to_kiov" alt="" coords="245,48,390,89"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="509,190,576,216"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#gab6bfac383153bef452f2198e7f456e5c" title="nlx_kcore_core_buffer\l_unmap" alt="" coords="243,317,392,358"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="260,383,375,410"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="253,434,381,460"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="283,484,352,511"/>
+</map>

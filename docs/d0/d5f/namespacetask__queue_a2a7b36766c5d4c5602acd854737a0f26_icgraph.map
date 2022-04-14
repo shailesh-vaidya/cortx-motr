@@ -1,0 +1,7 @@
+<map id="print_info" name="print_info">
+<area shape="rect" id="node2" href="$d0/d5f/namespacetask__queue.html#aeda8999e17247e5b14d2e9473b2515d5" title="task_add" alt="" coords="141,5,215,32"/>
+<area shape="rect" id="node3" href="$d0/d5f/namespacetask__queue.html#a393c2624bef95a040d31e59cb8ed91fc" title="task_del" alt="" coords="143,56,213,83"/>
+<area shape="rect" id="node4" href="$d0/d5f/namespacetask__queue.html#ab1e5c6b838eab79f0632051455b05f9f" title="list_queue" alt="" coords="137,107,219,133"/>
+<area shape="rect" id="node5" href="$d0/d5f/namespacetask__queue.html#a47d4412272383253c725ad46182f71e5" title="list_results" alt="" coords="135,157,221,184"/>
+<area shape="rect" id="node6" href="$d0/d5f/namespacetask__queue.html#a2076bc97240ead69f1ed182bb4964be9" title="task_set_prio" alt="" coords="128,208,228,235"/>
+</map>

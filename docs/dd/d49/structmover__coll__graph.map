@@ -1,0 +1,9 @@
+<map id="mover" name="mover">
+<area shape="rect" id="node3" href="$dd/d74/structsock.html" title="{sock\n||}" alt="" coords="680,499,731,576"/>
+<area shape="rect" id="node11" href="$d9/dd0/structbuf.html" title="{buf\n||}" alt="" coords="123,499,163,576"/>
+<area shape="rect" id="node6" href="$db/d49/structm0__sm.html" title="{m0_sm\n||}" alt="" coords="549,175,614,252"/>
+<area shape="rect" id="node8" href="$df/de8/structpacket.html" title="{packet\n||}" alt="" coords="639,175,700,252"/>
+<area shape="rect" id="node4" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="745,175,816,252"/>
+<area shape="rect" id="node5" href="$da/da7/structep.html" title="{ep\n||}" alt="" coords="56,175,94,252"/>
+<area shape="rect" id="node9" href="$d3/d91/structmover__op__vec.html" title="{mover_op_vec\n||}" alt="" coords="119,175,226,252"/>
+</map>

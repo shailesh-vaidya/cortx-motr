@@ -1,0 +1,5 @@
+<map id="sync_reply_wait" name="sync_reply_wait">
+<area shape="rect" id="node2" href="$db/dc2/sync_8c.html#ae80291ae3968fa11d73651a8a67735a6" title="sync_request_launch\l_and_wait" alt="" coords="169,5,315,47"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gae2edd4323a89b8b077c0fc347088cb2f" title="m0_sync" alt="" coords="205,71,279,98"/>
+<area shape="rect" id="node4" href="$d8/d6f/ut_2sync_8c.html#a7b0b226740be867a6e0f778ba646dbe0" title="call_sync_reply_wait" alt="" coords="171,122,313,149"/>
+</map>

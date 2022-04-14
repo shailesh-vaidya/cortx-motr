@@ -1,0 +1,15 @@
+<map id="st_get_instance" name="st_get_instance">
+<area shape="rect" id="node2" href="$d8/de7/motr_2st_2obj_8c.html#a73a8c64ebe33c8ca24058d671268d3de" title="st_obj_suite_init" alt="" coords="179,5,295,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#af9545511414ec79001c776018fd6ee70" title="st_layout_suite_init" alt="" coords="169,56,304,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a160b1fde431943f7ebcf8cf208d544e1" title="st_idx_suite_init" alt="" coords="179,107,295,133"/>
+<area shape="rect" id="node5" href="$dd/d33/cancel_8c.html#a80f6f420b34ea7e3fb2ea7cc7299754d" title="st_cancel_suite_init" alt="" coords="168,157,305,184"/>
+<area shape="rect" id="node6" href="$d6/dac/example_8c.html#a0ecaa5341c19889ac7029b65932d6780" title="st_example_init" alt="" coords="180,208,293,235"/>
+<area shape="rect" id="node7" href="$df/d61/isync_8c.html#a34d403d6c446bdc2a619e77f063b475f" title="st_isync_init" alt="" coords="189,259,284,285"/>
+<area shape="rect" id="node8" href="$d8/d5d/st__kmain_8c.html#aea1adced490f6562ebc84f29f97cb0e2" title="st_fini_instance" alt="" coords="180,309,293,336"/>
+<area shape="rect" id="node9" href="$d6/d4a/ut_2idx__dix_8c.html#a921166bbc1e67e0436a7e88205ad54f9" title="st_mt" alt="" coords="209,360,264,387"/>
+<area shape="rect" id="node10" href="$d6/d4a/ut_2idx__dix_8c.html#a5391246910110dd53d25173685ccaa66" title="st_lsfid" alt="" coords="205,411,269,437"/>
+<area shape="rect" id="node11" href="$d6/d4a/ut_2idx__dix_8c.html#ab40453ac940043a236b81372cb247dfb" title="st_lsfid_cancel" alt="" coords="182,461,291,488"/>
+<area shape="rect" id="node12" href="$d1/de5/osync_8c.html#ac8aa823f844b12b5aee6bd5d044d2740" title="st_osync_init" alt="" coords="187,512,286,539"/>
+<area shape="rect" id="node13" href="$d2/d16/read_8c.html#af8d71083e6d4436f4965b1ec8e96cd3b" title="st_read_suite_init" alt="" coords="175,563,299,589"/>
+<area shape="rect" id="node14" href="$d1/d9b/write_8c.html#afc7d586d07b8799ec67829e5c60b6b85" title="st_write_init" alt="" coords="191,613,283,640"/>
+</map>

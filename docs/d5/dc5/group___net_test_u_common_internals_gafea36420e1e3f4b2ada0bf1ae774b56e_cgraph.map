@@ -1,0 +1,11 @@
+<map id="m0_net_test_u_lnet_info" name="m0_net_test_u_lnet_info">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="233,5,372,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="220,56,385,83"/>
+<area shape="rect" id="node4" href="$d5/dc5/group___net_test_u_common_internals.html#gab183ae53b13a6ef2ecc530b1e42ce7fb" title="m0_net_test_u_printf" alt="" coords="231,107,375,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="217,158,388,199"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="217,223,388,265"/>
+<area shape="rect" id="node7" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="217,289,388,330"/>
+<area shape="rect" id="node8" href="$d7/db9/group___l_net_d_f_s.html#ga608850305a1bd2f15f951bbce7700db2" title="m0_net_lnet_ifaces_get" alt="" coords="223,355,383,381"/>
+<area shape="rect" id="node9" href="$d7/db9/group___l_net_d_f_s.html#ga0c9f7178e9044e2ee8cf747541f1dece" title="m0_net_lnet_ifaces_put" alt="" coords="223,405,383,432"/>
+<area shape="rect" id="node10" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="233,456,372,483"/>
+</map>

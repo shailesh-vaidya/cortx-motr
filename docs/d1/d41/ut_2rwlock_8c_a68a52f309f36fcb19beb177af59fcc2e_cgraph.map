@@ -1,0 +1,4 @@
+<map id="rcheck" name="rcheck">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga1976268512249e975eed1d63b6c74602" title="m0_rwlock_read_lock" alt="" coords="122,5,270,32"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#gac9f9a8e4d6d5652dd6425f10c33566c5" title="m0_rwlock_read_unlock" alt="" coords="115,56,277,83"/>
+</map>

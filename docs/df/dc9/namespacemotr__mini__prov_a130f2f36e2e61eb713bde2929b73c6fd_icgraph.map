@@ -1,0 +1,5 @@
+<map id="swap_off" name="swap_off">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a78f3f49c015e47c5efa1fee822292f17" title="add_swap_fstab" alt="" coords="167,5,284,32"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#ac881f6ccbe3d64cff69a71f5f597fb90" title="del_swap_fstab_by_vg_name" alt="" coords="128,56,323,83"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#a491ae6f5682b314cf6fb6589d551a16a" title="lvm_clean" alt="" coords="185,107,266,133"/>
+</map>

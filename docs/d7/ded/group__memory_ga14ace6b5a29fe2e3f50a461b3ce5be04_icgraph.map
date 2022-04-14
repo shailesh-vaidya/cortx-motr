@@ -1,0 +1,12 @@
+<map id="m0_addr_is_aligned" name="m0_addr_is_aligned">
+<area shape="rect" id="node2" href="$d9/d39/alloc_8c.html#a03823b3ea00c72a1917ef28f56f78d9a" title="be_alloc_chunk_invariant" alt="" coords="191,5,359,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga49fd1f42aaef22153403ea20e5df5fe7" title="m0_be_allocator_init" alt="" coords="204,56,345,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga15086a8ba1600460b8dce6936dfdeb42" title="m0_be_alloc_aligned" alt="" coords="203,107,346,133"/>
+<area shape="rect" id="node5" href="$da/d2b/ut_2alloc_8c.html#a19ee408cf584e80d5544803f83f40bba" title="be_ut_alloc_ptr_handle" alt="" coords="407,132,561,159"/>
+<area shape="rect" id="node6" href="$d7/de5/group__confd__stob.html#gabf73e6c1c54b1668fdbf5ce03ab3d97a" title="m0_confd_stob_write" alt="" coords="201,208,348,235"/>
+<area shape="rect" id="node7" href="$d0/dc4/group__conf__dfspec__preload.html#ga33c10d634a077c37a206826101214ab5" title="m0_confx_string_free" alt="" coords="411,259,557,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="216,309,333,336"/>
+<area shape="rect" id="node9" href="$d9/dad/ut_2memory_8c.html#a941f470366a6f96c79e7dfe2a83033f7" title="test_memory" alt="" coords="435,335,533,361"/>
+<area shape="rect" id="node10" href="$d6/d47/ut_2vec_8c.html#a7a628320de27dfc07684a038db8ebb7a" title="test_vec" alt="" coords="239,411,311,437"/>
+<area shape="rect" id="node11" href="$d7/df1/group__rpc-at.html#ga68b1828989b1d4d8d8b019e9070ea492" title="m0_rpc_at_add" alt="" coords="219,461,330,488"/>
+</map>

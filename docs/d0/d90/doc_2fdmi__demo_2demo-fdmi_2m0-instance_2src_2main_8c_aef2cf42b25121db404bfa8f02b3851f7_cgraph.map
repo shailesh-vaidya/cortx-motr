@@ -1,0 +1,36 @@
+<map id="inst_init" name="inst_init">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga29118c55f8f7448b35e7fffbfd43d39c" title="m0_layout_domain_init" alt="" coords="135,5,289,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#gaf8456f5b0dfcc590be1fb06f14c84528" title="m0_layout_standard\l_types_register" alt="" coords="143,57,281,98"/>
+<area shape="rect" id="node4" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a838742d1414e6b2be08a568174ab11c6" title="inst_net_init" alt="" coords="166,123,258,149"/>
+<area shape="rect" id="node5" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a1bf481562195bbc9127320346ed29cf7" title="inst_rpc_init" alt="" coords="166,173,258,200"/>
+<area shape="rect" id="node6" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="152,224,272,251"/>
+<area shape="rect" id="node7" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a5399a6c066eff0df5d7a1bcf809a7d82" title="inst_ha_init" alt="" coords="168,275,256,301"/>
+<area shape="rect" id="node8" href="$d5/d8c/group__reqh.html#ga3a2793dfd031d864bc8c641eaea8587b" title="m0_reqh_conf_setup" alt="" coords="141,325,283,352"/>
+<area shape="rect" id="node9" href="$df/d15/group__rconfc__dfspec.html#gaa60d0cf80399e8d96afd2389c10660d5" title="m0_rconfc_start_sync" alt="" coords="137,376,287,403"/>
+<area shape="rect" id="node10" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a8afa3332e2183caaf851b11fa975ee18" title="get_rconfc" alt="" coords="171,427,253,453"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#gab65c7e0cbe52183aceb6ff798474757f" title="m0_ha_client_add" alt="" coords="149,477,275,504"/>
+<area shape="rect" id="node12" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="391,668,502,695"/>
+<area shape="rect" id="node13" href="$d5/d8c/group__reqh.html#gae10be5add2e843f7c68e0c9fccf6719b" title="m0_reqh2profile" alt="" coords="155,579,269,605"/>
+<area shape="rect" id="node14" href="$db/dc2/conf_2helpers_8c.html#ad56aebe4ab17acdad86a5be971eac816" title="m0_conf_full_load" alt="" coords="149,629,275,656"/>
+<area shape="rect" id="node15" href="$dd/d7f/group__pool.html#ga52a8e340df59b3f3597ea09dd0ca2b18" title="m0_pools_common_init" alt="" coords="133,680,291,707"/>
+<area shape="rect" id="node16" href="$dd/d7f/group__pool.html#ga20c5f3886a28297a28f0f1aacde27835" title="m0_pools_setup" alt="" coords="153,781,271,808"/>
+<area shape="rect" id="node17" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="388,744,505,771"/>
+<area shape="rect" id="node18" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="383,832,511,859"/>
+<area shape="rect" id="node19" href="$dd/d7f/group__pool.html#ga3ef0357d640d3b5254452fe485d8c7ac" title="m0_pools_service_ctx\l_create" alt="" coords="136,883,288,925"/>
+<area shape="rect" id="node20" href="$dd/d7f/group__pool.html#ga5c9309b8255e05b5a761220741ece6ae" title="m0_pools_common_service\l_ctx_connect_sync" alt="" coords="120,949,304,990"/>
+<area shape="rect" id="node21" href="$dd/d7f/group__pool.html#gaf280f6571cfcf01d8820698869f63a66" title="m0_pool_versions_setup" alt="" coords="129,1015,295,1041"/>
+<area shape="rect" id="node22" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a1d64d96b3e04fceabce5ae1f950ac8a4" title="inst_reqh_services\l_start" alt="" coords="147,1066,277,1107"/>
+<area shape="rect" id="node23" href="$d5/d8c/group__reqh.html#ga95dabdcac07beecafa49506e016bdc0e" title="m0_reqh_services_terminate" alt="" coords="352,1132,541,1159"/>
+<area shape="rect" id="node24" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a1a1ad0320c641fde3677407f1313b4e1" title="inst_layouts_init" alt="" coords="154,1183,270,1209"/>
+<area shape="rect" id="node25" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#abfabe0c9f6af14244e06ee667db4120f" title="inst_layouts_fini" alt="" coords="154,1233,270,1260"/>
+<area shape="rect" id="node26" href="$dd/d7f/group__pool.html#ga4f4560ea6f524440143c5cd7714abf00" title="m0_pool_versions_destroy" alt="" coords="123,1284,301,1311"/>
+<area shape="rect" id="node27" href="$dd/d7f/group__pool.html#gafff4b50e8426096033fd7438ffb16596" title="m0_pools_service_ctx\l_destroy" alt="" coords="136,1335,288,1377"/>
+<area shape="rect" id="node28" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="133,1401,291,1428"/>
+<area shape="rect" id="node29" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="137,1452,287,1479"/>
+<area shape="rect" id="node30" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="159,1503,265,1529"/>
+<area shape="rect" id="node31" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#ad4e5919b66e1d2c319a97e6faef0f48c" title="inst_ha_stop" alt="" coords="164,1553,260,1580"/>
+<area shape="rect" id="node32" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a97fd016cc18efcde908875de42d1d6e6" title="inst_ha_fini" alt="" coords="168,1604,256,1631"/>
+<area shape="rect" id="node33" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a5fb6bed38f9fcf1eb84f798c36902c45" title="inst_rpc_fini" alt="" coords="166,1655,258,1681"/>
+<area shape="rect" id="node34" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#ab27c7aab24cd2a0c44c58066f37009f1" title="inst_net_fini" alt="" coords="166,1705,258,1732"/>
+<area shape="rect" id="node35" href="$da/da8/group__layout.html#ga6e8dfc86eec7538d7069680f040c82b8" title="m0_layout_domain_fini" alt="" coords="135,1756,289,1783"/>
+</map>

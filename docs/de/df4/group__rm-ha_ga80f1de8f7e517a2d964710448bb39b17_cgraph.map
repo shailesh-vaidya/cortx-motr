@@ -1,0 +1,12 @@
+<map id="rm_ha_sbscr_fs_opened" name="rm_ha_sbscr_fs_opened">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gafd9592ac69d78f895bb981936a4172c0" title="m0_confc_ctx_error_lock" alt="" coords="217,5,385,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga174008a1ed4337cf57da2f53faa7bfd3" title="m0_confc_ctx_result" alt="" coords="230,56,373,83"/>
+<area shape="rect" id="node4" href="$de/df4/group__rm-ha.html#ga8ef71498a9128b9cf085dfbb950691b1" title="rm_ha_sbscr_state_set" alt="" coords="433,120,592,147"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="252,309,351,336"/>
+<area shape="rect" id="node6" href="$de/df4/group__rm-ha.html#gaf12908c15e7d3d0f8779a4d78d2a0f16" title="rm_ha_diter_cb" alt="" coords="246,360,357,387"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gad1da13266b2f748e76fa4a3d7edde2cb" title="m0_conf_diter_wait_arm" alt="" coords="219,411,383,437"/>
+<area shape="rect" id="node8" href="$de/df4/group__rm-ha.html#gad902d974530d0fb776b1349352740b9e" title="rm_ha_sbscr_diter_next" alt="" coords="221,157,382,184"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="454,183,571,209"/>
+<area shape="rect" id="node10" href="$de/df4/group__rm-ha.html#ga8804fd92aba7bddb6112c1ead50705d2" title="rm_ha_sbscr_fail" alt="" coords="452,233,573,260"/>
+<area shape="rect" id="node11" href="$d5/d25/group__confc__dlspec.html#ga56b93a0699b96051fc7430fd0ce40286" title="m0_confc_ctx_fini" alt="" coords="237,461,365,488"/>
+</map>

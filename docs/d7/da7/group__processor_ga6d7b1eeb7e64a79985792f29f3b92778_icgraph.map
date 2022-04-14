@@ -1,0 +1,9 @@
+<map id="m0_processors_online" name="m0_processors_online">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga1b49b821f4223167c7b660d3ad40d72a" title="m0_fom_domain_init" alt="" coords="217,5,360,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#ga1c3fe38572d7b254bbc30da107cc4833" title="processor_getcpu_check" alt="" coords="205,56,372,83"/>
+<area shape="rect" id="node4" href="$d1/d5e/ut_2processor_8c.html#a45dfafd0548868ae38d5b49489c071d2" title="verify_id_get" alt="" coords="241,107,337,133"/>
+<area shape="rect" id="node5" href="$d1/d5e/ut_2processor_8c.html#aeb3e27dd61e31d2b2aa88d98596bcd98" title="verify_map" alt="" coords="245,157,332,184"/>
+<area shape="rect" id="node6" href="$d1/d5e/ut_2processor_8c.html#a6c13c3b4c71d7e231cb78205721d10b1" title="verify_processors" alt="" coords="226,208,351,235"/>
+<area shape="rect" id="node7" href="$d1/d5e/ut_2processor_8c.html#aefaa1097ce8fe670136ff41a4eb61c07" title="test_processor" alt="" coords="235,259,343,285"/>
+<area shape="rect" id="node8" href="$d0/d11/lib_2ut_2main_8c.html#a0e06f56fdd4a95d9eb124e08b75c0333" title="test_locality" alt="" coords="243,309,335,336"/>
+</map>

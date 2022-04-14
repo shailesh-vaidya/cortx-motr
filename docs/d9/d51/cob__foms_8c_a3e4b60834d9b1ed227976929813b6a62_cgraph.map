@@ -1,0 +1,15 @@
+<map id="m0_cob_fom_create" name="m0_cob_fom_create">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga1a417843776b0a95fb0bee9548661bee" title="m0_is_cob_create_fop" alt="" coords="405,6,559,33"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#gaa5321cef10ea9d681fcf19578f13117d" title="m0_is_cob_delete_fop" alt="" coords="406,69,558,96"/>
+<area shape="rect" id="node4" href="$d9/d05/group__bulkclient_d_f_s.html#ga2d4cbfc5e48acb451603521181c8777c" title="m0_is_cob_truncate_fop" alt="" coords="193,348,357,374"/>
+<area shape="rect" id="node5" href="$d9/d05/group__bulkclient_d_f_s.html#gaaebd2e6fc4a1de82be17f5e4b200ac0c" title="m0_is_cob_getattr_fop" alt="" coords="198,398,353,425"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#gaf1de1d1e87acf454944c4b5615560680" title="m0_is_cob_setattr_fop" alt="" coords="198,449,353,476"/>
+<area shape="rect" id="node7" href="$d9/d51/cob__foms_8c.html#aed720a6c3d70a879c71ade467a950530" title="cob_op_fom_create" alt="" coords="207,145,343,172"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="444,145,520,172"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="449,208,515,234"/>
+<area shape="rect" id="node10" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="433,284,531,310"/>
+<area shape="rect" id="node11" href="$d6/d39/group__fop.html#gad880caddbfb81a251493c2f973bbe4f6" title="m0_fop_reply_alloc" alt="" coords="208,500,343,526"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="241,550,310,577"/>
+<area shape="rect" id="node13" href="$d1/d59/group__fom.html#gaa8d2269a41daa6b2913cf8b18eefbfcc" title="m0_fom_init" alt="" coords="229,601,322,628"/>
+<area shape="rect" id="node14" href="$d9/d51/cob__foms_8c.html#a0540efec5ae367dd727fd842135a6210" title="cob_fom_populate" alt="" coords="211,94,339,121"/>
+</map>

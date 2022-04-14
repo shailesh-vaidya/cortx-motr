@@ -1,0 +1,11 @@
+<map id="rebalance_cm_get_space_for" name="rebalance_cm_get_space_for">
+<area shape="rect" id="node2" href="$d7/daf/group___s_n_s_c_m.html#ga6af35b45096f873e3f1d85687dbde017" title="cm2sns" alt="" coords="304,5,372,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="479,295,605,321"/>
+<area shape="rect" id="node4" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga96797cf9205c1d498373afebc5e0e00c" title="agid2fid" alt="" coords="305,107,371,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="281,157,395,184"/>
+<area shape="rect" id="node6" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3e87b2072235352f79cd615d0b968a55" title="m0_sns_cm_fctx_locate" alt="" coords="256,208,420,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="274,259,402,285"/>
+<area shape="rect" id="node8" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="480,375,604,401"/>
+<area shape="rect" id="node9" href="$d7/daf/group___s_n_s_c_m.html#ga5dce1493c0d605eebed5435cc7a91e51" title="m0_sns_cm_incoming\l_reserve_bufs" alt="" coords="262,411,414,453"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#ga75a8df840377548e4f48c361338ffb89" title="m0_sns_cm_has_space_for" alt="" coords="245,309,431,336"/>
+</map>

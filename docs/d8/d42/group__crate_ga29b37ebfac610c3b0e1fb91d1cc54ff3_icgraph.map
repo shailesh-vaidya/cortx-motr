@@ -1,0 +1,8 @@
+<map id="wop" name="wop">
+<area shape="rect" id="node2" href="$db/d82/group__crate__workload.html#ga538d3674763b83518d72d349bc6017c1" title="workload_init" alt="" coords="111,5,209,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="295,81,345,108"/>
+<area shape="rect" id="node4" href="$d8/d42/group__crate.html#ga0ff0f1ee3cf98bb978ad61f2da15f3a4" title="workload_fini" alt="" coords="111,107,209,133"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#ga472dbfe82fe2ac718b9b11fa6fc26681" title="workload_op_get" alt="" coords="100,208,220,235"/>
+<area shape="rect" id="node6" href="$d8/d42/group__crate.html#gaab2a915a5d109c52a77834a6641aaf41" title="worker_thread" alt="" coords="268,233,372,260"/>
+<area shape="rect" id="node7" href="$d8/d42/group__crate.html#gaf8d06c917deff1e1bbd3dcaf30469492" title="workload_run" alt="" coords="111,157,209,184"/>
+</map>

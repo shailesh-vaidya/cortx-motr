@@ -1,0 +1,8 @@
+<map id="dixc_ut_init" name="dixc_ut_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="155,5,293,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="168,56,280,83"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="157,107,291,133"/>
+<area shape="rect" id="node5" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="153,157,295,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a2399c91e82f3d319f10d7b6015dfe061" title="dix_client_init" alt="" coords="173,208,275,235"/>
+<area shape="rect" id="node7" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="141,259,307,285"/>
+</map>

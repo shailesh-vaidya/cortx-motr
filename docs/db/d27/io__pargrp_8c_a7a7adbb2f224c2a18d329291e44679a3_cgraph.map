@@ -1,0 +1,16 @@
+<map id="pargrp_iomap_dgmode_recover" name="pargrp_iomap_dgmode_recover">
+<area shape="rect" id="node2" href="$db/d27/io__pargrp_8c.html#a9795f9bb68a7c292ffd94bb1d51746c1" title="pargrp_iomap_invariant" alt="" coords="211,41,367,68"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="435,41,501,68"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="420,176,516,203"/>
+<area shape="rect" id="node5" href="$d4/dc1/motr_2io_8h.html#abe2ca1d9e097b73d437f5694608bb820" title="m0__page_size" alt="" coords="233,361,346,388"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="433,228,503,255"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="433,283,503,309"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="255,412,324,439"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="228,463,351,489"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="252,513,327,540"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="231,564,348,591"/>
+<area shape="rect" id="node12" href="$db/d27/io__pargrp_8c.html#a991d80da62829f39f7a225d6df1417e8" title="iomap_dgmode_recov\l_prepare" alt="" coords="215,194,364,235"/>
+<area shape="rect" id="node13" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="255,615,323,641"/>
+<area shape="rect" id="node14" href="$d6/d25/group__parity__math.html#gaceedab38c32deaf44707f311da5008be" title="m0_parity_math_recover" alt="" coords="207,92,372,119"/>
+<area shape="rect" id="node15" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a79c269278bbce5a1152b08ad45abac69" title="parity_math" alt="" coords="244,665,335,692"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_rpc_client_connect" name="m0_rpc_client_connect">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="413,186,499,213"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga76ebb193828a7350157c7085863d9ba4" title="m0_ha_ut_rpc_session\l_ctx_init" alt="" coords="209,44,365,86"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gaabb13fea3f2b80372e5b86fbd3e96977" title="rlock_ctx_connect" alt="" coords="223,110,351,137"/>
+<area shape="rect" id="node5" href="$da/dcf/wlock__helper_8c.html#a759fe97444c8c1be980f9f4a3dd1ea6e" title="wlock_ctx_connect" alt="" coords="220,161,355,188"/>
+<area shape="rect" id="node6" href="$d9/d02/rmut_8h.html#ad7b7a8ba830a51f0d9e103435892bca4" title="rm_ctx_connect" alt="" coords="230,212,345,238"/>
+<area shape="rect" id="node7" href="$d4/d86/ut_2rpc__machine_8c.html#afb095dae6e941cf261ceb728fcd2e775" title="rpc_mc_fini_race_test" alt="" coords="212,262,363,289"/>
+<area shape="rect" id="node8" href="$d3/d5a/rpclib_8h.html#a3c1075c78954427c1cc2af501b64f468" title="m0_rpc_client_find\l_connect" alt="" coords="222,314,353,355"/>
+<area shape="rect" id="node9" href="$d3/d5a/rpclib_8h.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="219,380,355,406"/>
+<area shape="rect" id="node10" href="$da/d9c/repair__cli_8h.html#a31bb022ae84a438fb8dde5aaddc6896e" title="repair_rpc_ctx_init" alt="" coords="223,430,351,457"/>
+<area shape="rect" id="node11" href="$d9/d50/group__spiel-api-fspec.html#ga7352002b4d673754a2423859cb6bd0e5" title="m0_spiel_tx_commit\l_forced" alt="" coords="216,482,359,523"/>
+</map>

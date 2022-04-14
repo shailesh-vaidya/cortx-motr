@@ -1,0 +1,11 @@
+<map id="m0_storage_devs_detach_all" name="m0_storage_devs_detach_all">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="267,5,402,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="285,56,384,83"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga0f8d91d38c5021c81672190dcc7780b8" title="storage_devs_detached_cb" alt="" coords="244,107,425,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="268,157,401,184"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga16292f777727b670abb7fc587ee967d0" title="m0_storage_dev_detach" alt="" coords="253,208,417,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="473,233,563,260"/>
+<area shape="rect" id="node8" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="260,309,409,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="285,360,384,387"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="267,411,402,437"/>
+</map>

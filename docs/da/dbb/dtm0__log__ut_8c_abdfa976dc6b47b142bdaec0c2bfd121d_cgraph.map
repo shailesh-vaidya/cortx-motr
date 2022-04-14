@@ -1,0 +1,17 @@
+<map id="test_volatile_dtm0_log" name="test_volatile_dtm0_log">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#gad023d61928369f7bc5f6e7242ecc8a33" title="m0_dtm0_clk_src_init" alt="" coords="214,5,363,32"/>
+<area shape="rect" id="node3" href="$de/d0c/group___d_t_m0_internals.html#ga16dbe31766f190d99c396fe49f3dfdb4" title="m0_be_dtm0_log_alloc" alt="" coords="211,56,366,83"/>
+<area shape="rect" id="node4" href="$de/d0c/group___d_t_m0_internals.html#ga6cf18fa38c0b73023cfec5077c0e192c" title="m0_be_dtm0_log_init" alt="" coords="216,107,361,133"/>
+<area shape="rect" id="node5" href="$da/dbb/dtm0__log__ut_8c.html#ae474731d7edf111be7fc63d9d0b00c7a" title="ut_dl_init" alt="" coords="251,157,326,184"/>
+<area shape="rect" id="node6" href="$da/dbb/dtm0__log__ut_8c.html#a7e70dac70b1a716d4c2981773ea96a2d" title="p_state_set" alt="" coords="243,208,334,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="231,259,346,285"/>
+<area shape="rect" id="node8" href="$de/d0c/group___d_t_m0_internals.html#ga872a9d11682e621c3a3a1310043d7831" title="m0_be_dtm0_log_update" alt="" coords="205,309,372,336"/>
+<area shape="rect" id="node9" href="$de/d0c/group___d_t_m0_internals.html#gae3672a41d2c340a18f93a380b8493dfd" title="m0_be_dtm0_log_find" alt="" coords="420,335,569,361"/>
+<area shape="rect" id="node10" href="$da/dbb/dtm0__log__ut_8c.html#a0d3c3881fbd13e586dfb3e1d64bb75bb" title="ut_dl_verify_log_rec" alt="" coords="219,411,358,437"/>
+<area shape="rect" id="node11" href="$de/d0c/group___d_t_m0_internals.html#ga68e3456ffc1de25e96b9e80d4c4f0ef5" title="m0_be_dtm0_log_prune" alt="" coords="209,461,369,488"/>
+<area shape="rect" id="node12" href="$da/dbb/dtm0__log__ut_8c.html#a8f3a16d4a7a2c230c0c5dcde738fd7d5" title="ut_dl_fini" alt="" coords="251,512,326,539"/>
+<area shape="rect" id="node13" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="225,563,353,589"/>
+<area shape="rect" id="node14" href="$de/d0c/group___d_t_m0_internals.html#ga05ae19cfc2ad4add31d03f8a5ab77451" title="m0_be_dtm0_log_fini" alt="" coords="216,613,361,640"/>
+<area shape="rect" id="node15" href="$de/d0c/group___d_t_m0_internals.html#ga96de5e607ccac4d7d0e05370a34e9c61" title="m0_be_dtm0_log_free" alt="" coords="213,664,364,691"/>
+<area shape="rect" id="node16" href="$d2/d66/group__dtm.html#gabf075b86c328e5c60acb24dbe1489b46" title="m0_dtm0_clk_src_fini" alt="" coords="214,715,363,741"/>
+</map>

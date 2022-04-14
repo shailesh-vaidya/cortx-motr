@@ -1,0 +1,8 @@
+<map id="m0_cm_notify" name="m0_cm_notify">
+<area shape="rect" id="node2" href="$d4/d02/group___c_m_a_g_s_t_o_r_e_f_o_m.html#ga61d1cd5ad2973bdd2152f00c343172c9" title="ag_store_init" alt="" coords="185,5,281,32"/>
+<area shape="rect" id="node3" href="$d4/d02/group___c_m_a_g_s_t_o_r_e_f_o_m.html#gae1f4a34d01106ee77287fb9b13cec5e3" title="ag_store_init_wait" alt="" coords="169,56,296,83"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga559aedd686c3002c64a856abe61c1174" title="m0_cm_complete" alt="" coords="170,107,295,133"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga7a59387e137f4660d52b23ac4f336d52" title="m0_cm_abort" alt="" coords="182,157,283,184"/>
+<area shape="rect" id="node6" href="$dc/d86/group___c_m_p_r_o_x_y.html#gadb9de667a2376cc31cb76b0deadd155c" title="proxy_done" alt="" coords="188,208,277,235"/>
+<area shape="rect" id="node7" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaa66c494f87e2901e2aefd74282a06651" title="m0_cm_proxy_update" alt="" coords="157,259,308,285"/>
+</map>

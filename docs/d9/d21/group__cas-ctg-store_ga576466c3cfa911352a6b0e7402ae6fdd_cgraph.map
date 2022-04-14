@@ -1,0 +1,8 @@
+<map id="m0_ctg_ctidx_lookup_sync" name="m0_ctg_ctidx_lookup_sync">
+<area shape="rect" id="node2" href="$d9/d21/group__cas-ctg-store.html#ga48931f013416d1593581171d7818d4ee" title="m0_ctg_ctidx" alt="" coords="257,5,357,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="235,57,378,98"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#a0a150a88e3f3b81a14f629e4d392e153" title="ctg_vbuf_unpack" alt="" coords="246,123,367,149"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="428,173,495,200"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a5a8da3e5e2689be1bd175cefdf9067d9" title="ctg_vbuf_as_layout" alt="" coords="239,224,374,251"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="233,275,380,301"/>
+</map>

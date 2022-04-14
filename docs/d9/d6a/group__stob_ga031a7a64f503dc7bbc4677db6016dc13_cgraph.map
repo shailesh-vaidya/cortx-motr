@@ -1,0 +1,17 @@
+<map id="stob_domain_init_create" name="stob_domain_init_create">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="294,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga82c41c2e3dc93422e65cd2ddeda393f1" title="m0_stob_domain_find\l_by_location" alt="" coords="239,107,388,149"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga23031efa95fbe096e9fd850ce86d0f0c" title="stob_domain_type" alt="" coords="485,139,613,165"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="687,139,756,165"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="688,341,755,368"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga7db1af152faedfdb45443003e50ecc07" title="stob_domain_location_data" alt="" coords="459,291,639,317"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga809b565edbb15d16022482d8354c6bee" title="stob_domain_create" alt="" coords="479,392,618,419"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gaa3f1ece37b1eab2be7a525957ad88d49" title="stob_domain_init" alt="" coords="489,443,609,469"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#gaaa46bc11405406b126a597623a5bf1f4" title="m0_stob_domain_destroy\l_location" alt="" coords="228,225,399,266"/>
+<area shape="rect" id="node11" href="$de/d4f/group__stobcache.html#gab2d4725c6a35189e7536b7cec583bbbb" title="m0_stob_cache_init" alt="" coords="244,493,383,520"/>
+<area shape="rect" id="node12" href="$d9/d6a/group__stob.html#ga4009ace17f82b3d97ab279699df0a345" title="stob_domain_cache_evict_cb" alt="" coords="216,544,411,571"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga29c5e95a3858dcfb6356732b66b96729" title="m0_stob_domain_find" alt="" coords="239,595,388,621"/>
+<area shape="rect" id="node14" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="467,696,630,723"/>
+<area shape="rect" id="node15" href="$d9/d6a/group__stob.html#ga77c48949acdcd2fca4eb746aa087df71" title="m0_stob_type__dom_add" alt="" coords="228,696,399,723"/>
+<area shape="rect" id="node16" href="$d9/d6a/group__stob.html#gaed8adfae35ec52733c44faf489adeb47" title="m0_stob_domain__invariant" alt="" coords="221,645,405,672"/>
+</map>

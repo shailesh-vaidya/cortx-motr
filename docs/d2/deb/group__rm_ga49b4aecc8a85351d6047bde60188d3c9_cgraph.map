@@ -1,0 +1,7 @@
+<map id="credit_processor" name="credit_processor">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="179,5,314,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga353bd3bccbd870df662d78f03e92f610" title="ha_events_handle" alt="" coords="183,56,310,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="172,107,321,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="202,157,291,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="193,208,300,235"/>
+</map>

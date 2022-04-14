@@ -1,0 +1,8 @@
+<map id="workload_init" name="workload_init">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga95ccb85a68c49a92386156f9bc875a94" title="chs_conf_init" alt="" coords="152,5,251,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga175ff8fdfb47687d7d06c106e76f5ef5" title="net_init" alt="" coords="169,56,233,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga5bd5fb4dd545162f1f6fab1e98708b51" title="net_srv_init" alt="" coords="157,107,246,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga852d67c59b6c1382a1bbcff9b4ba2b68" title="chs_dev_init" alt="" coords="154,157,249,184"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#ga7a83aa340b6710546e753ac38be65ca7" title="elevator_init" alt="" coords="155,208,247,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#gad4462027baecb5a5139cf4304807062e" title="client_init" alt="" coords="163,259,240,285"/>
+</map>

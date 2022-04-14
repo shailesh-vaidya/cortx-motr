@@ -1,0 +1,10 @@
+<map id="m0_stob_create" name="m0_stob_create">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="173,5,303,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="181,56,295,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="171,107,305,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gab57a25cceacab190b43894c14a7cec24" title="m0_stob_fid_get" alt="" coords="179,157,297,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="185,208,291,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="189,259,287,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#gaead05e8d896b50e7a8a39906844c0e1c" title="m0_stob__state_set" alt="" coords="168,309,308,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="205,360,271,387"/>
+</map>

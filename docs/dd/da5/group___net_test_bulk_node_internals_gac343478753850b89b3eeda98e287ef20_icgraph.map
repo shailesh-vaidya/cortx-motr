@@ -1,0 +1,4 @@
+<map id="client_bulk_dequeue" name="client_bulk_dequeue">
+<area shape="rect" id="node2" href="$dd/da5/group___net_test_bulk_node_internals.html#ga28d2dea327b880fa410dc271e927d47d" title="client_transfer_start" alt="" coords="211,5,348,32"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#ga6c9f1d9dce3af4272214b4e7307552e0" title="client_bulk_bufs_dequeue" alt="" coords="193,56,365,83"/>
+</map>

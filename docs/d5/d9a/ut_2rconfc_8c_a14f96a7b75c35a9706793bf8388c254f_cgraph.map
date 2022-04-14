@@ -1,0 +1,11 @@
+<map id="test_confc_ctx_block" name="test_confc_ctx_block">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="399,143,457,169"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#aa11e32f62df4e0d13a656677184e36fd" title="rconfc_ut_motr_start" alt="" coords="204,41,347,68"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="222,92,329,119"/>
+<area shape="rect" id="node5" href="$df/d15/group__rconfc__dfspec.html#gaa60d0cf80399e8d96afd2389c10660d5" title="m0_rconfc_start_sync" alt="" coords="200,143,351,169"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="211,193,339,220"/>
+<area shape="rect" id="node7" href="$d5/d25/group__confc__dlspec.html#ga56b93a0699b96051fc7430fd0ce40286" title="m0_confc_ctx_fini" alt="" coords="211,244,339,271"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="200,295,351,321"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="222,345,329,372"/>
+<area shape="rect" id="node10" href="$d5/d9a/ut_2rconfc_8c.html#a041737d745da2f7bec4fd0d6a5231a5e" title="rconfc_ut_motr_stop" alt="" coords="205,396,346,423"/>
+</map>

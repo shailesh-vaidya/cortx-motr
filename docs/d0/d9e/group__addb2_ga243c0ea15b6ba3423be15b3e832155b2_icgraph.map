@@ -1,0 +1,6 @@
+<map id="m0_addb2_global_thread_leave" name="m0_addb2_global_thread_leave">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gad5383363d23bfd9393a330b5fb00f0cc" title="m0_addb2_global_fini" alt="" coords="222,5,369,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gac60652bd63e26a68eee0e09a62db2a2b" title="thr_addb2_enter" alt="" coords="238,56,353,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga0442208cc440d0d98ffa3159fb84cc4e" title="m0_thread_arch_shun" alt="" coords="220,107,371,133"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#gabfc83bdc7851704ee7d40db6f7286155" title="m0_thread_trampoline" alt="" coords="220,157,371,184"/>
+</map>

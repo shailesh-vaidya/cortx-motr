@@ -1,0 +1,8 @@
+<map id="m0_rpc_conn_pool_destroy" name="m0_rpc_conn_pool_destroy">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="252,5,372,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="255,56,369,83"/>
+<area shape="rect" id="node4" href="$db/d3c/conn__pool_8c.html#a7100d64a5d0ec63e06fc921efed21452" title="pool_item_disconn_ast" alt="" coords="235,107,389,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="251,157,373,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="248,208,376,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="267,259,357,285"/>
+</map>

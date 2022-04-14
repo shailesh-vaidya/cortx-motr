@@ -1,0 +1,10 @@
+<map id="m0_process" name="m0_process">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gaa004d920b7200e225541543a9323e8c6" title="dix_ha_stop" alt="" coords="182,5,274,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga7f5e39df92755cb753643defc45fbe92" title="m0_ha_cookie_record" alt="" coords="153,56,303,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="159,107,297,149"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga4b6ad21b13dcad30d59eeb6d9423b3c9" title="halon_interface_process\l_event" alt="" coords="147,173,309,214"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gaea25c538b59754a23c71443ccfe1ec55" title="halon_interface_service\l_event" alt="" coords="149,238,307,279"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#abcd8a423814b59d396bb0c127ca23f72" title="ha_process_event" alt="" coords="164,304,292,331"/>
+<area shape="rect" id="node8" href="$df/dca/group__m0d.html#ga03f08e3758f6fb1f45e03fe237b90777" title="cs_ha_process_event" alt="" coords="153,355,303,381"/>
+<area shape="rect" id="node9" href="$da/ddc/group__reqhservice.html#gad1eea70c9bfaa76ef2f0e91a7ff8db59" title="reqh_service_ha_event" alt="" coords="150,405,306,432"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="workload_join" name="workload_join">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#ga3dd35eff80ffcf9d6c29d575ab0d866a" title="hpcs_run" alt="" coords="157,5,231,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#gae5c5caa7dced60af0078882c44092b90" title="csum_run" alt="" coords="155,56,233,83"/>
+<area shape="rect" id="node4" href="$d8/d42/group__crate.html#gaf489f1ca248b6c06e9f19a4e36b71f8c" title="run_index" alt="" coords="155,107,233,133"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#gaaf304b80ed8d14f7d4ed92c8db4cd1cb" title="run" alt="" coords="174,157,214,184"/>
+</map>

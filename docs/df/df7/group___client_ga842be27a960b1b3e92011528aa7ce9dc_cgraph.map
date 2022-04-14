@@ -1,0 +1,6 @@
+<map id="st_start_workers" name="st_start_workers">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga78191033c7d127bf26491267a2d6b29b" title="st_get_nr_workers" alt="" coords="172,5,301,32"/>
+<area shape="rect" id="node3" href="$d6/d80/st__worker_8c.html#a434122f41d8fe5c8f99635563cbb2bd2" title="thread_init" alt="" coords="195,56,278,83"/>
+<area shape="rect" id="node4" href="$d6/d80/st__worker_8c.html#ab9a6e178267cb159f978b2e13ff4f6a2" title="st_worker" alt="" coords="197,107,276,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga6d648f95a678ab90e78c31b13ab487d6" title="mem_free" alt="" coords="349,132,429,159"/>
+</map>

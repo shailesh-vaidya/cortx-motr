@@ -1,0 +1,7 @@
+<map id="m0_rm_resource_del" name="m0_rm_resource_del">
+<area shape="rect" id="node2" href="$de/d3f/group___file_lock.html#gad0cd77b416fe238cad398a13a50fdc28" title="m0_file_fini" alt="" coords="239,5,327,32"/>
+<area shape="rect" id="node3" href="$d0/d26/group___distributed.html#ga9f8c4a76d62db4a60d53af206579d2fc" title="m0_rw_lockable_fini" alt="" coords="213,56,353,83"/>
+<area shape="rect" id="node4" href="$de/def/group__rm__service.html#ga7dbf572e9d84b36c3c75a64adea97b37" title="rms_resources_free" alt="" coords="215,107,352,133"/>
+<area shape="rect" id="node5" href="$de/def/group__rm__service.html#ga979f07b1b8fb5b1f22bbc780fe12c1f1" title="m0_rm_svc_owner_create" alt="" coords="196,157,371,184"/>
+<area shape="rect" id="node6" href="$d5/d68/rings_8c.html#a629081298be113a133074daba3065ce1" title="rings_res_unset" alt="" coords="226,208,341,235"/>
+</map>

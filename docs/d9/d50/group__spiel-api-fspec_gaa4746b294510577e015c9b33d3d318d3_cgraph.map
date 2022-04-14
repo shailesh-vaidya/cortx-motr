@@ -1,0 +1,14 @@
+<map id="m0_spiel_process_add" name="m0_spiel_process_add">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#gae108d8811b6b5e168894bd409c86b484" title="spiel_cores_is_valid" alt="" coords="216,5,355,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="449,107,525,133"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="228,107,343,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="230,157,341,184"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga3c1637826c07eb7de889d3fc7706f6cc" title="m0_bitmap_copy" alt="" coords="225,208,346,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#gab35cf34e2c360d0df74e62e5ca793317" title="spiel_process_dirs\l_create" alt="" coords="220,259,351,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="453,325,520,352"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga143e688b628b7373671f4f6b8b237e6d" title="spiel_node_dirs_create" alt="" coords="208,376,363,403"/>
+<area shape="rect" id="node10" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="225,427,346,453"/>
+<area shape="rect" id="node11" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="411,452,563,479"/>
+<area shape="rect" id="node12" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="221,528,349,555"/>
+<area shape="rect" id="node13" href="$d2/dd9/group__conf__dlspec__cache.html#gabac23b5ec19fc0493b8ff1e3c1a5ca48" title="m0_conf_cache_del" alt="" coords="216,579,355,605"/>
+</map>

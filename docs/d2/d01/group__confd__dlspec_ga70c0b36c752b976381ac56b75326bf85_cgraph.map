@@ -1,0 +1,10 @@
+<map id="confd_start" name="confd_start">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="169,5,275,32"/>
+<area shape="rect" id="node3" href="$d2/d01/group__confd__dlspec.html#gae6be70d4174c8005681fd6e4a2771831" title="m0_confd_service_to\l_filename" alt="" coords="149,107,295,149"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="355,85,425,112"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="352,199,428,225"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="357,249,423,276"/>
+<area shape="rect" id="node7" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="174,224,270,251"/>
+<area shape="rect" id="node8" href="$d2/d01/group__confd__dlspec.html#ga9cb65c93c3d0bb094ea95647068ff110" title="m0_confd_cache_create" alt="" coords="140,275,304,301"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="169,376,275,403"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="lock_invariant" name="lock_invariant">
+<area shape="rect" id="node2" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab149301f172d3311436bdb6951300f7d" title="lock" alt="" coords="156,43,203,69"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga2e4c56b3d447243817347d2c2eac61f0" title="unlock" alt="" coords="305,5,365,32"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga501d17a5eb7ce5d0fdfbe3b348ae6f64" title="m0_long_is_read_locked" alt="" coords="252,68,417,95"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga544b706238f43a1d0d87c32ff76bf116" title="m0_long_is_write_locked" alt="" coords="251,131,419,157"/>
+</map>

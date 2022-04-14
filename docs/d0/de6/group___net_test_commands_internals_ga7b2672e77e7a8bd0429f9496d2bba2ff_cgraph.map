@@ -1,0 +1,20 @@
+<map id="commands_initfini" name="commands_initfini">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="257,5,295,32"/>
+<area shape="rect" id="node3" href="$d1/dc0/group__crate__utils.html#ga7ba4301f569cef87364477120b264bda" title="fini" alt="" coords="257,56,295,83"/>
+<area shape="rect" id="node4" href="$dd/d18/group___net_test_s_list_internals.html#gacd517b495a3d6f360740a03acc2cdaab" title="m0_net_test_slist_unique" alt="" coords="191,107,361,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="223,157,329,184"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="209,208,343,235"/>
+<area shape="rect" id="node7" href="$da/d64/group___net_test_ringbuf_internals.html#ga9c8d8b7998c68fa8da134b1b93cbf00c" title="m0_net_test_ringbuf_init" alt="" coords="194,259,358,285"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#gae02b66ff50c7ba2c53e102688c14bef9" title="m0_net_test_network\l_timeouts_never" alt="" coords="203,310,349,351"/>
+<area shape="rect" id="node9" href="$df/d38/group___net_test_network_internals.html#ga7a4ec3c1cbf2bc019165a65f7e9e794c" title="m0_net_test_network\l_ctx_init" alt="" coords="203,375,349,417"/>
+<area shape="rect" id="node10" href="$df/d38/group___net_test_network_internals.html#ga9f1990e0694e1d764941322e0f9e2049" title="m0_net_test_network\l_ep_add_slist" alt="" coords="203,441,349,482"/>
+<area shape="rect" id="node11" href="$d0/de6/group___net_test_commands_internals.html#ga316a3d63f730c362244e349841ad8540" title="commands_recv_enqueue" alt="" coords="189,507,363,533"/>
+<area shape="rect" id="node12" href="$d0/de6/group___net_test_commands_internals.html#ga0dd297318157201d441428958645d734" title="commands_recv_dequeue_nr" alt="" coords="180,557,372,584"/>
+<area shape="rect" id="node13" href="$d0/de6/group___net_test_commands_internals.html#gab2e4069ba31e3d8df5d838568085b8ff" title="m0_net_test_commands\l_invariant" alt="" coords="420,630,585,671"/>
+<area shape="rect" id="node14" href="$d0/de6/group___net_test_commands_internals.html#gafc360d66f3d8a7ae5f26c87badcd099f" title="m0_net_test_commands\l_send_wait_all" alt="" coords="193,659,359,701"/>
+<area shape="rect" id="node15" href="$df/d38/group___net_test_network_internals.html#gacef208f1e12227468c1acec1fe10ee3a" title="m0_net_test_network\l_ctx_fini" alt="" coords="203,725,349,766"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="468,816,537,843"/>
+<area shape="rect" id="node17" href="$da/d64/group___net_test_ringbuf_internals.html#ga64a1e0250068d119fcbdbeff164a0334" title="m0_net_test_ringbuf_fini" alt="" coords="194,841,358,868"/>
+<area shape="rect" id="node18" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="209,892,343,919"/>
+<area shape="rect" id="node19" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="223,943,329,969"/>
+</map>

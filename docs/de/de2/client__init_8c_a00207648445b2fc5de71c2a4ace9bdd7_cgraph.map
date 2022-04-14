@@ -1,0 +1,9 @@
+<map id="initlift_confc" name="initlift_confc">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#ae9e97bcbeee824545903acfe20539738" title="m0c_invariant" alt="" coords="177,5,280,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="360,107,427,133"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="145,107,312,133"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#a0a76316a55f30c385382e3e1fd541666" title="confc_init" alt="" coords="189,157,268,184"/>
+<area shape="rect" id="node6" href="$de/de2/client__init_8c.html#a1956aa499f71c13762b0e44d47f9d63c" title="initlift_fail" alt="" coords="190,208,267,235"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#a46b6f1395a2084392c78d7aefd4e7d56" title="confc_fini" alt="" coords="189,259,268,285"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="157,309,300,336"/>
+</map>

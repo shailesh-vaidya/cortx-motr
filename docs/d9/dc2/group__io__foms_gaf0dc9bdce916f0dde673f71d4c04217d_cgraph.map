@@ -1,0 +1,28 @@
+<map id="io_launch" name="io_launch">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga7765c2548cc8e67b087e0eee87dc74d4" title="m0_is_io_fop" alt="" coords="175,5,274,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga4c3c9a4a75ef435640e271c57da9b26e" title="m0_io_fom_cob_rw_invariant" alt="" coords="367,208,557,235"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="628,107,707,133"/>
+<area shape="rect" id="node5" href="$d7/d08/group__tlist.html#ga316809d4003fee99e70b096bf7708360" title="m0_tlist_invariant" alt="" coords="605,259,729,285"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="411,816,513,843"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga6966211dcdaabcf9b4b3b072b5a1ed9d" title="io_fom_cob2file" alt="" coords="405,56,519,83"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="153,309,296,336"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#gae7b8f3192aa3ddf712c513454359da3c" title="m0_is_write_fop" alt="" coords="403,335,521,361"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="398,1195,526,1221"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="171,461,278,488"/>
+<area shape="rect" id="node12" href="$d9/dc2/group__io__foms.html#ga690611316b80918d7577262d428e96b7" title="align_bufvec" alt="" coords="177,512,272,539"/>
+<area shape="rect" id="node13" href="$d9/dc2/group__io__foms.html#gacaee235ed532b56deb9a132f9ad26913" title="stio_desc_fini" alt="" coords="173,563,276,589"/>
+<area shape="rect" id="node14" href="$d0/d5e/group__data__integrity.html#gae1005e036d69a2a542090b72dc8fceaf" title="m0_di_size_get" alt="" coords="168,613,281,640"/>
+<area shape="rect" id="node15" href="$d9/dc2/group__io__foms.html#gab47dd87ce0c4683bd49eff87de7df475" title="stobio_complete_cb" alt="" coords="155,208,294,235"/>
+<area shape="rect" id="node16" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="167,715,282,741"/>
+<area shape="rect" id="node17" href="$d1/d59/group__fom.html#ga704dcda24d8cbf0d5dbb66c51adba5fb" title="m0_fom_callback_arm" alt="" coords="148,765,301,792"/>
+<area shape="rect" id="node18" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="161,1035,289,1061"/>
+<area shape="rect" id="node19" href="$d9/d6a/group__stob.html#ga861f6ac1e3135d275aa1d012917073f0" title="m0_stob_io_private\l_setup" alt="" coords="157,867,292,909"/>
+<area shape="rect" id="node20" href="$d9/d6a/group__stob.html#ga0e4dbd05dc032e3a62f61b345799bbd3" title="m0_stob_domain_is_of_type" alt="" coords="131,933,319,960"/>
+<area shape="rect" id="node21" href="$d6/d2c/group__stobad.html#ga33ca126a10c9de462875afe2b319623b" title="m0_stob_ad_balloc_set" alt="" coords="145,984,304,1011"/>
+<area shape="rect" id="node22" href="$d9/d6a/group__stob.html#ga9308afb8f3a18c9ec47e96a96bab9cea" title="m0_stob_io_prepare\l_and_launch" alt="" coords="155,1187,294,1229"/>
+<area shape="rect" id="node23" href="$d1/d59/group__fom.html#gac1fc3a60895a72de7186cff3f55ecf17" title="m0_fom_callback_cancel" alt="" coords="140,1085,309,1112"/>
+<area shape="rect" id="node24" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="178,1136,271,1163"/>
+<area shape="rect" id="node25" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="417,385,507,412"/>
+<area shape="rect" id="node26" href="$d9/dc2/group__io__foms.html#ga97e9ddd75a5855c72136e6ee6ccab612" title="nbuf_release_done" alt="" coords="159,259,290,285"/>
+<area shape="rect" id="node27" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="149,1304,300,1331"/>
+</map>

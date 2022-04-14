@@ -1,0 +1,33 @@
+<map id="m0_time_seconds" name="m0_time_seconds">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gac01ae7379770de1ffca0508b9b46c876" title="_clock" alt="" coords="254,5,314,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga4d9ae9cb25cc9eb87bc8fed57dfc06ef" title="duration" alt="" coords="250,56,318,83"/>
+<area shape="rect" id="node4" href="$da/db4/group__ut.html#gaba349472df142c91a5c4d865d09dd9da" title="m0_ut_run" alt="" coords="457,81,539,108"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga50bdd76ead2a460c4c6dcc3a0ca5fd57" title="generation_id_print" alt="" coords="219,157,349,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga51d6444ae809922dfdffb9656eb7ddc8" title="generation_id_verify" alt="" coords="215,208,353,235"/>
+<area shape="rect" id="node7" href="$da/dc4/net_2bulk__emulation_2st_2main_8c.html#a9cf10484d68de21be03f9557c2260e55" title="print_qstats" alt="" coords="239,259,329,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga505390ecef1774e5322dbbc2e2c1428a" title="m0_cob_domain_mkfs" alt="" coords="207,309,361,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga768edde708cad86cd8d0661e8156e032" title="hung_fom_notify" alt="" coords="225,360,343,387"/>
+<area shape="rect" id="node10" href="$d8/dfa/ufid_8c.html#a61dcae07bef71696e91fb3d6c32858b3" title="ufid_generation_id\l_refresh" alt="" coords="435,454,561,495"/>
+<area shape="rect" id="node11" href="$d0/d11/lib_2ut_2main_8c.html#afdefd984a565db431a61ba5275bd49c7" title="test_getopts" alt="" coords="237,461,331,488"/>
+<area shape="rect" id="node12" href="$d9/d7d/group__time.html#ga85ccc232f4679fcbf466033ab02e2757" title="m0_nanosleep" alt="" coords="231,512,337,539"/>
+<area shape="rect" id="node13" href="$d1/d5d/group__semaphore.html#gac475887387f514fc84e78c3da285e2af" title="m0_semaphore_timeddown" alt="" coords="193,563,375,589"/>
+<area shape="rect" id="node14" href="$d7/d2c/group__timer.html#ga4c9b3548f75e90f2009c4e89afa6a310" title="timer_kernel_start" alt="" coords="221,613,347,640"/>
+<area shape="rect" id="node15" href="$d7/d2c/group__timer.html#ga9e83a0c29325bb4feaa70206145089f5" title="timer_posix_set" alt="" coords="227,664,341,691"/>
+<area shape="rect" id="node16" href="$d8/d98/group__trace.html#gafbe3eef052ed270f21ee8fae502f625d" title="print_trace_buf_header" alt="" coords="207,715,361,741"/>
+<area shape="rect" id="node17" href="$d2/d1d/super_8c.html#af207b20c2de2487d239203f3852d4ac7" title="m0t1fs_fill_cob_attr" alt="" coords="216,765,352,792"/>
+<area shape="rect" id="node18" href="$de/d09/crate__index_8c.html#ae5f130b9a38c4d7144f7c1e609536cd0" title="cr_time_in_seconds" alt="" coords="215,816,353,843"/>
+<area shape="rect" id="node19" href="$de/d09/crate__index_8c.html#a98c2632d0c835734206958f837cc74c4" title="cr_time_measure_elapsed_now" alt="" coords="181,867,387,893"/>
+<area shape="rect" id="node20" href="$de/dec/lnet_2st_2ping_8c.html#a1b2436a10fcbd63a7eb5f2b1fb854d15" title="ping_print_qstats" alt="" coords="223,917,345,944"/>
+<area shape="rect" id="node21" href="$d6/d8a/group___k_l_net_core.html#ga712e8e4b669e191a59cad0d8827ac5fa" title="nlx_kcore_buf_event_wait" alt="" coords="197,968,371,995"/>
+<area shape="rect" id="node22" href="$dc/daf/ut_2commands_8c.html#a02661e7074f162a7226fe6d16cd761a2" title="commands_ut_recv_type" alt="" coords="200,1019,368,1045"/>
+<area shape="rect" id="node23" href="$db/d3c/group___net_test_stats_m_p_s_d_f_s.html#ga1de99a1781bb0ab1a6e67464438b2a1a" title="m0_net_test_mps_add" alt="" coords="207,1069,361,1096"/>
+<area shape="rect" id="node24" href="$d3/dba/ut_2stats_8c.html#a6bb17ab11b4c47f318e35c1915fbd7e5" title="stats_time_ut" alt="" coords="233,1120,335,1147"/>
+<area shape="rect" id="node25" href="$de/d66/group___net_test_u_common_d_f_s.html#gae515496835354f8df868d83cab74bd07" title="m0_net_test_u_print_time" alt="" coords="198,1171,370,1197"/>
+<area shape="rect" id="node26" href="$dc/d55/group___net_test_u_console_internals.html#ga11e4fd7fbbfffb10fd533d2d93c272b5" title="avg_total" alt="" coords="247,1221,321,1248"/>
+<area shape="rect" id="node27" href="$dc/d55/group___net_test_u_console_internals.html#gaaafcab4ae55851a5f90d721d7657d1fb" title="print_status_data" alt="" coords="437,1247,559,1273"/>
+<area shape="rect" id="node28" href="$d8/d66/pool__trigger_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="259,1323,309,1349"/>
+<area shape="rect" id="node29" href="$d8/dd5/rpc__ping_8c.html#a76937d1f5c8b9b130a5001be78e54000" title="run_client" alt="" coords="245,1373,323,1400"/>
+<area shape="rect" id="node30" href="$da/db4/group__ut.html#ga693b9db2d5f2abed527f586195445288" title="run_test" alt="" coords="249,1424,319,1451"/>
+<area shape="rect" id="node31" href="$da/db4/group__ut.html#ga3006e97a1c7df34fe2cc4e0d530dc775" title="run_suite" alt="" coords="461,1449,535,1476"/>
+<area shape="rect" id="node32" href="$d8/d98/group__trace.html#gadc264cd321ef47cf0460ecc3c4eff98a" title="is_log_rotation_needed" alt="" coords="207,1525,361,1552"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="process_encode" name="process_encode">
+<area shape="rect" id="node2" href="$df/d21/conf_2objs_2common_8c.html#ac7019e6581a10e4944f93adc6e08ee20" title="confx_encode" alt="" coords="197,5,299,32"/>
+<area shape="rect" id="node3" href="$df/df3/group__bitmap.html#ga8530cc649c5a39b3440ba0eebfbd4be4" title="m0_bitmap_onwire_init" alt="" coords="171,56,325,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="373,183,449,209"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga352a2aef4b0e72a22713557e5dfc9379" title="m0_bitmap_store" alt="" coords="187,157,309,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="215,208,281,235"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga4de53f6e7192c424aac50c5d229a3f5d" title="m0_buf_copy" alt="" coords="198,259,298,285"/>
+<area shape="rect" id="node8" href="$df/d21/conf_2objs_2common_8c.html#a495209efa4101ebbec208163ba2bbd73" title="arrfid_from_dir" alt="" coords="195,309,301,336"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_be_ut_backend_seg_del" name="m0_be_ut_backend_seg_del">
+<area shape="rect" id="node2" href="$dd/d1d/be_2ut_2helper_8c.html#ae633b52383e89ae711d37bf8798ae048" title="m0_be_ut_backend_sm\l_group_lookup" alt="" coords="476,15,636,57"/>
+<area shape="rect" id="node3" href="$dd/d1d/be_2ut_2helper_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="273,48,395,75"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="267,99,401,125"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gae9bf6654efc4881bfe3354bc22154be5" title="m0_be_domain_seg_destroy\l_credit" alt="" coords="240,150,428,191"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="279,216,389,243"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gad4b3db1e468c610593a66336fe64f79d" title="m0_be_tx_exclusive\l_open_sync" alt="" coords="263,267,405,309"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga8f95a715f767a22b6c62ff7592cf1e2e" title="m0_be_domain_seg_destroy" alt="" coords="240,333,428,360"/>
+<area shape="rect" id="node9" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="258,384,410,411"/>
+<area shape="rect" id="node10" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="283,435,385,461"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="259,485,409,512"/>
+</map>

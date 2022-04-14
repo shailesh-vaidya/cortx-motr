@@ -1,0 +1,4 @@
+<map id="m0_obj_lock_get_sync" name="m0_obj_lock_get_sync">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga3221f58098cfedf2584c570769cc398e" title="m0_obj_write_lock_get_sync" alt="" coords="208,5,399,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga8aa17bde029951cbc55e41ff56482f78" title="m0_obj_read_lock_get_sync" alt="" coords="210,56,397,83"/>
+</map>
