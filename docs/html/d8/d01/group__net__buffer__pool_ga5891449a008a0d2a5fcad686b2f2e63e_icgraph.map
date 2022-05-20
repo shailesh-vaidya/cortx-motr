@@ -1,0 +1,6 @@
+<map id="m0_net_buffer_pool_is_locked" name="m0_net_buffer_pool_is_locked">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="210,5,345,47"/>
+<area shape="rect" id="node3" href="$d0/d50/group__net__pvt.html#ga10b81fec0a61efae5b970c93c8166031" title="m0_net__tm_provision_buf" alt="" coords="188,71,367,98"/>
+<area shape="rect" id="node4" href="$d2/d82/tm__provision_8c.html#a233cb9884376e1f8cee9344fc43ec405" title="tm_provision_recv_q" alt="" coords="415,122,557,149"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga56521d311aec804ccae66e4594719282" title="m0_net_domain_buffer\l_pool_not_empty" alt="" coords="605,140,759,181"/>
+</map>

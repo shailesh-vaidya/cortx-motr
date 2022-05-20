@@ -1,0 +1,8 @@
+<map id="zerovec_init_cbuf" name="zerovec_init_cbuf">
+<area shape="rect" id="node2" href="$dd/dd0/zerovec_8c.html#a8b8e6c0fd198b00fe0795d095805cf80" title="zerovec_init" alt="" coords="199,5,291,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="183,56,306,83"/>
+<area shape="rect" id="node4" href="$db/dc9/group__arith.html#gafc22a49a25af85fbc63f63e4e3d42dba" title="m0_rnd" alt="" coords="212,107,277,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gad33083329736dcac3d0bde58328bd2a1" title="m0_0vec_cbuf_add" alt="" coords="177,157,312,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="360,233,429,260"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga1cda4bb9dbf341edc4d154f30f9f7085" title="m0_0vec_fini" alt="" coords="195,259,294,285"/>
+</map>

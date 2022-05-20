@@ -1,0 +1,13 @@
+<map id="service_ctxs_create" name="service_ctxs_create">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gabfe2915b811ae39b3d71e3223d5f0468" title="active_rm_ctx_create" alt="" coords="192,76,339,102"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="605,25,681,52"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gae26a0a39a0d7075feaa47acabdc724c9" title="__service_ctx_create" alt="" coords="399,126,545,153"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="610,152,677,178"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga79add14d299e9392155b5de4316fc391" title="active_rm_ctx_find" alt="" coords="199,278,331,305"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga5d849a10f771be6bae60794819056740" title="service_ctxs_destroy" alt="" coords="192,329,339,356"/>
+<area shape="rect" id="node8" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="387,177,557,204"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga52524a992eb79313a464adbc298e4c9b" title="obj_is_service" alt="" coords="213,380,318,406"/>
+<area shape="rect" id="node10" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="194,430,337,457"/>
+<area shape="rect" id="node11" href="$dd/d7f/group__pool.html#ga351e0d7aa5301ddd52371dc89960bf4b" title="is_local_svc" alt="" coords="218,481,313,508"/>
+<area shape="rect" id="node12" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="201,532,329,558"/>
+</map>

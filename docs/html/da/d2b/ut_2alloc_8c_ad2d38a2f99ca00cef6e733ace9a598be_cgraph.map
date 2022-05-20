@@ -1,0 +1,16 @@
+<map id="m0_be_ut_alloc_spare" name="m0_be_ut_alloc_spare">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a48e49b05111e3d2e9f26c71f1d5f8aad" title="m0_be_ut_backend_init" alt="" coords="219,5,378,32"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="231,56,366,83"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a80a5b6e36aa3b29deea743705b379b62" title="m0_be_ut_seg_init" alt="" coords="233,107,364,133"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad8e33897551c9f1b8efcdd636781874d" title="m0_be_ut_seg_allocator_init" alt="" coords="205,157,392,184"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga22a393587c271c59b97fbcaafbf9a0b7" title="m0_be_seg_allocator" alt="" coords="226,208,371,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga4aee752ddf6ee88c1c6d4b82773664c9" title="m0_be_seg_reserved" alt="" coords="225,259,372,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga00d656f735c32c24e449cfdb2502e44e" title="m0_be_alloc_stats" alt="" coords="233,309,364,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga25ee04853549e44b6774b97440f8435c" title="m0_be_allocator_credit" alt="" coords="221,360,377,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga0de39989a0dc81761d4b0030cf92675f" title="m0_be_free" alt="" coords="253,411,344,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga16c39147338a1bbc8988084e7b04590f" title="m0_be_alloc_stats_credit" alt="" coords="213,461,384,488"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga15086a8ba1600460b8dce6936dfdeb42" title="m0_be_alloc_aligned" alt="" coords="227,512,370,539"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga3142f9f9f9d185d13849288b0483454e" title="m0_be_alloc_stats_capture" alt="" coords="208,563,389,589"/>
+<area shape="rect" id="node14" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#adbf37b214c43d278c7e670b5ae8577ef" title="m0_be_ut_backend_fini" alt="" coords="219,613,378,640"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="254,664,343,691"/>
+</map>

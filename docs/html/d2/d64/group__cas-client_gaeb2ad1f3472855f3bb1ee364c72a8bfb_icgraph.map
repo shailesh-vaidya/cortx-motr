@@ -1,0 +1,6 @@
+<map id="cas_index_req_prepare" name="cas_index_req_prepare">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga47f3add31d4014d10b9e39b99fd86eae" title="m0_cas_index_create" alt="" coords="210,5,359,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gaa98251abcf47fc53b0d95c9733ec6cda" title="m0_cas_index_delete" alt="" coords="211,56,359,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gaef3376e7ac8ee276de5742f376e0a718" title="m0_cas_index_lookup" alt="" coords="209,107,360,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga4a3b90891c9cbd046e63858bdacc7242" title="m0_cas_index_list" alt="" coords="219,157,350,184"/>
+</map>

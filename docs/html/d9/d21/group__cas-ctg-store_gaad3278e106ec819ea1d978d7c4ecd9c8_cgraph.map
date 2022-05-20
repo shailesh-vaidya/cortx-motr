@@ -1,0 +1,9 @@
+<map id="m0_ctg_ctidx_delete_sync" name="m0_ctg_ctidx_delete_sync">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a3d8b0d209cd415ccd64c51dc4bfb99dc" title="imask" alt="" coords="292,5,349,32"/>
+<area shape="rect" id="node3" href="$d9/d21/group__cas-ctg-store.html#ga48931f013416d1593581171d7818d4ee" title="m0_ctg_ctidx" alt="" coords="459,81,559,108"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga576466c3cfa911352a6b0e7402ae6fdd" title="m0_ctg_ctidx_lookup_sync" alt="" coords="231,107,411,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gab7db79554512aa8c5f403dca76c73c69" title="m0_dix_imask_is_empty" alt="" coords="237,157,404,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a86d17f828608bcf301d728db0441c2a2" title="cas_seg" alt="" coords="285,208,356,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaa7004085a25ef20895934e3e228ae4c9" title="m0_be_btree_delete" alt="" coords="251,259,390,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="235,309,406,336"/>
+</map>

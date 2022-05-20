@@ -1,0 +1,26 @@
+var structcob__req =
+[
+    [ "cr_ar", "d8/d5b/structcob__req.html#acf0ceab38c9fcf9c1dfa6612f39fd115", null ],
+    [ "cr_cinst", "d8/d5b/structcob__req.html#ae6408dbe108ad38059358d1e3b797202", null ],
+    [ "cr_cob_attr", "d8/d5b/structcob__req.html#a84244bed062fb3019ff729c81e6f979e", null ],
+    [ "cr_cob_type", "d8/d5b/structcob__req.html#a48070a30c59736cb09fd535448762f44", null ],
+    [ "cr_csb", "d8/d5b/structcob__req.html#a6ae473f737fcf82b7e4524ac1ff8aef9", null ],
+    [ "cr_deadline", "d8/d5b/structcob__req.html#a1c2977f3cda3d9299b5cf48367c1ca75", null ],
+    [ "cr_fid", "d8/d5b/structcob__req.html#a98c57e7725666fa2f28e5bac34a038ac", null ],
+    [ "cr_flags", "d8/d5b/structcob__req.html#ae57941cf290dbf1904a7ed74cb322cf1", null ],
+    [ "cr_icr_nr", "d8/d5b/structcob__req.html#aadbee614441f62a452a557474e033f46", null ],
+    [ "cr_id", "d8/d5b/structcob__req.html#a6aed76262d84e01279135d03eeffeab7", null ],
+    [ "cr_ios_fop", "d8/d5b/structcob__req.html#a9156050fec62572d2cf42514d37906f8", null ],
+    [ "cr_ios_replied", "d8/d5b/structcob__req.html#abbd9b8c639c4d01cb588307ed0ecb9d4", null ],
+    [ "cr_magic", "d8/d5b/structcob__req.html#adb520e622363afd9b1bed56922ba3c53", null ],
+    [ "cr_mds_fop", "d8/d5b/structcob__req.html#a2650b9b35f450a7f06a3cb2d4ae5a860", null ],
+    [ "cr_name", "d8/d5b/structcob__req.html#a8183709c1590d92a899042f18d8de0f0", null ],
+    [ "cr_op", "d8/d5b/structcob__req.html#a42cdcf2399a5807825953385cea8b077", null ],
+    [ "cr_op_sm_grp", "d8/d5b/structcob__req.html#a94bfafd47d923380a2cadc111574cfc3", null ],
+    [ "cr_opcode", "d8/d5b/structcob__req.html#a4123a77741b01de5538d970716852fed", null ],
+    [ "cr_pver", "d8/d5b/structcob__req.html#a32326de2a52e38f79034d33ef6e1b60c", null ],
+    [ "cr_rc", "d8/d5b/structcob__req.html#add1e6f7a07c58c297578e32b9dd39aa7", null ],
+    [ "cr_ref", "d8/d5b/structcob__req.html#ac320629b3a07ecd01e4e9d651463c508", null ],
+    [ "cr_rep_fop", "d8/d5b/structcob__req.html#a434b73ec599f5279bd79c08fd0091797", null ],
+    [ "cr_sem", "d8/d5b/structcob__req.html#a09c47652f3fcb54000b5cf79ff8d0b84", null ]
+];

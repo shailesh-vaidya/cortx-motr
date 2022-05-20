@@ -1,0 +1,9 @@
+<map id="m0_rconfc_ver_max_read" name="m0_rconfc_ver_max_read">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="401,57,460,84"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga6926f12c2d28376109989504ab21dcf3" title="rconfc_state" alt="" coords="242,32,337,58"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="232,82,347,109"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#gaf09a62ac732850ebc8fb6c6e997a1ed7" title="max64" alt="" coords="259,133,320,160"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga8dc42649f080f54b5f73d414a4ea16f2" title="_confc_ver_read" alt="" coords="230,184,349,210"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="225,234,353,261"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="245,285,334,312"/>
+</map>

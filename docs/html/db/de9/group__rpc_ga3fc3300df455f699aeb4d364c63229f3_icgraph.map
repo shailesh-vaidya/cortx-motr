@@ -1,0 +1,9 @@
+<map id="frm_rmachine" name="frm_rmachine">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga02c962c370662ed0e0d63738ab038ffd" title="frm_rmachine_is_locked" alt="" coords="155,5,317,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="399,31,492,57"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="166,107,306,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa07dac379805ff93dccdacaac4c9dfb2" title="item_source_limits_test" alt="" coords="365,144,525,171"/>
+<area shape="rect" id="node6" href="$d6/d63/ut_2formation2_8c.html#a8145d81073138b4730512671e086875f" title="packet_ready" alt="" coords="186,224,286,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga11cd1ffc4ab020d443b65a152a4fc804" title="rpc_buffer__rmachine" alt="" coords="163,275,309,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga2c9f886fa1fc289e8e6990d5c47fd414" title="rpc_buffer_init" alt="" coords="185,325,287,352"/>
+</map>

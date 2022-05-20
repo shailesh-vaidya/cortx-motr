@@ -1,0 +1,24 @@
+<map id="m0_sm_fail" name="m0_sm_fail">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga7239dee7a79cea29c5794ed130877645" title="cas_req_failure" alt="" coords="193,5,303,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga3f0eccefba46ab6fb20d443af8a7cf74" title="dix_cli_failure" alt="" coords="197,56,299,83"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga68b2932d73eb35e41b83fb578eaadace" title="m0_cm_fail" alt="" coords="203,107,293,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#gaa1e1fcbb9e3385fc31e3dc444c16b86d" title="_state_fail" alt="" coords="207,157,289,184"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga37242dcf201fc3a4555faa33dc7f74d7" title="rconfc_fail" alt="" coords="207,208,289,235"/>
+<area shape="rect" id="node7" href="$d1/da1/motr_2layout_8c.html#a629ab596d82d63b8186d57b26cfb2e53" title="layout_op_cb_launch" alt="" coords="417,272,561,299"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga5283a0db7bb0548852620d20c0a765b1" title="dix_req_failure" alt="" coords="195,461,301,488"/>
+<area shape="rect" id="node9" href="$d5/d34/sd__common_8h.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="182,512,314,539"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ad0bbc0b27869452fce77c76ff78ec2ae" title="ioreq_sm_failed" alt="" coords="191,563,305,589"/>
+<area shape="rect" id="node11" href="$d3/d3a/ios__start__sm_8c.html#a4358365f910f495615c132326c4aab4d" title="ios_start_sm_failure" alt="" coords="179,613,317,640"/>
+<area shape="rect" id="node12" href="$de/de2/client__init_8c.html#a538037b067eb6691711331e3c533ac14" title="initlift_uninitialised" alt="" coords="184,664,312,691"/>
+<area shape="rect" id="node13" href="$df/da5/composite__layout_8c.html#a24134555be260e0d59ae52ddc5835f65" title="layout_op_failed" alt="" coords="190,715,306,741"/>
+<area shape="rect" id="node14" href="$df/da5/composite__layout_8c.html#a66c38a7aaf914039d43d5003c8c0d0d6" title="composite_io_op_done" alt="" coords="411,335,566,361"/>
+<area shape="rect" id="node15" href="$d7/dde/io__req_8c.html#ad6e71fad998d056deabfb31a3e3162b0" title="ioreq_iosm_handle_launch" alt="" coords="401,385,576,412"/>
+<area shape="rect" id="node16" href="$d2/deb/group__rm.html#ga3e6c9526eba9bc13c4588e6106cf8e22" title="owner_fail" alt="" coords="207,765,289,792"/>
+<area shape="rect" id="node17" href="$de/df4/group__rm-ha.html#ga8804fd92aba7bddb6112c1ead50705d2" title="rm_ha_sbscr_fail" alt="" coords="187,816,309,843"/>
+<area shape="rect" id="node18" href="$df/db4/group__rpc__session.html#ga4a4f8bc1dff97e6c3534109c31c52a66" title="conn_failed" alt="" coords="204,867,292,893"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#gae2d8b44ee0c5728e6a3178061fa8ddf2" title="rpc_conn_sessions_cleanup_fail" alt="" coords="143,917,353,944"/>
+<area shape="rect" id="node20" href="$df/db4/group__rpc__session.html#ga368d147999efeca08da437e215468af4" title="session_failed" alt="" coords="195,968,301,995"/>
+<area shape="rect" id="node21" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="196,309,300,336"/>
+<area shape="rect" id="node22" href="$d0/d5d/ut_2sm_8c.html#a650dc0223fedfdd44ccdf04a6d341433" title="genesis_4_8" alt="" coords="201,1069,295,1096"/>
+<area shape="rect" id="node23" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="461,1044,516,1071"/>
+</map>

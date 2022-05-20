@@ -1,0 +1,7 @@
+<map id="idx_create_or_delete" name="idx_create_or_delete">
+<area shape="rect" id="node2" href="$df/d61/isync_8c.html#a84a07f2a1bd600068ecb2c0452ca3ba4" title="isync_error_handling" alt="" coords="196,5,337,32"/>
+<area shape="rect" id="node3" href="$df/d61/isync_8c.html#aa6856d7ae99c9fbc694e76ac8f7a67ed" title="isync_by_sync_op" alt="" coords="201,56,332,83"/>
+<area shape="rect" id="node4" href="$df/d61/isync_8c.html#ad083d124023d5cecd7ec64fdf475ada1" title="isync_on_op" alt="" coords="219,107,314,133"/>
+<area shape="rect" id="node5" href="$df/d61/isync_8c.html#a00da311f797def93a7651048afc4305e" title="isync_on_idx_delete" alt="" coords="197,157,337,184"/>
+<area shape="rect" id="node6" href="$df/d61/isync_8c.html#ae2ff47627b0c75d09764b0633ebae529" title="isync_on_kv_delete" alt="" coords="198,208,335,235"/>
+</map>

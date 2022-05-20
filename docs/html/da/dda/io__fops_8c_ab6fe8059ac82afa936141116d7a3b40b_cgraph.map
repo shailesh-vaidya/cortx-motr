@@ -1,0 +1,5 @@
+<map id="m0_io_fop_segs_nr" name="m0_io_fop_segs_nr">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="234,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="188,57,359,98"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga0d85adabb9bf5ffce4dbf92d676837b1" title="m0_fop_domain_get" alt="" coords="204,123,343,149"/>
+</map>

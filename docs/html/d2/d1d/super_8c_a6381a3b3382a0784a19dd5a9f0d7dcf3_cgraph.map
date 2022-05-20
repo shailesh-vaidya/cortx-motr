@@ -1,0 +1,10 @@
+<map id="m0t1fs_ref_get_lock" name="m0t1fs_ref_get_lock">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="201,5,315,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="209,56,307,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="207,107,309,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="194,157,322,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="205,208,311,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="193,259,323,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="209,309,307,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="225,360,291,387"/>
+</map>

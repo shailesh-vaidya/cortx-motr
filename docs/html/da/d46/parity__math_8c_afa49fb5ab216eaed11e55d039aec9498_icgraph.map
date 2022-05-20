@@ -1,0 +1,8 @@
+<map id="ir_blocks_count" name="ir_blocks_count">
+<area shape="rect" id="node2" href="$d8/d6c/group__incremental__recovery.html#ga7467f90a1b55428b9fbe6baa84769be2" title="m0_sns_ir_init" alt="" coords="343,30,449,57"/>
+<area shape="rect" id="node3" href="$d8/d6c/group__incremental__recovery.html#ga3c50d599748ef39088498a485155a968" title="m0_sns_ir_fini" alt="" coords="177,30,284,57"/>
+<area shape="rect" id="node4" href="$da/d46/parity__math_8c.html#a1569b3265e8719dea544d41b3f880c1f" title="ir_si_blocks_init" alt="" coords="173,81,288,108"/>
+<area shape="rect" id="node5" href="$da/d46/parity__math_8c.html#a98d6e17cfbe7ff402624fb5c0646895c" title="is_usable" alt="" coords="192,132,269,158"/>
+<area shape="rect" id="node6" href="$da/d46/parity__math_8c.html#a42272c9b1ac7c7ed9fc798683ba93f11" title="is_valid_block_idx" alt="" coords="167,182,295,209"/>
+<area shape="rect" id="node7" href="$da/d46/parity__math_8c.html#ab8a10ea1594293c38014e2e313c17d66" title="ir_mat_compute" alt="" coords="173,233,288,260"/>
+</map>

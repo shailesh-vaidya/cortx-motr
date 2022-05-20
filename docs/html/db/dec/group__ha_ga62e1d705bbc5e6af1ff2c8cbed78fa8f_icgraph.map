@@ -1,0 +1,7 @@
+<map id="m0_ha_link_delivered_consume" name="m0_ha_link_delivered_consume">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga412cb3de12584c94e1809d505b06f3ca" title="ha_link_event_cb" alt="" coords="224,5,347,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gae9fe20695ec7a2c59e2f700ce77a946c" title="m0_ha_ut_link_usecase" alt="" coords="204,56,367,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga8280357f299f98c76f140ebefe04adb9" title="ha_ut_link_mt_thread" alt="" coords="212,107,359,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga97b27c820a22b222b50f3b3122e5c7ca" title="ha_ut_link_msg_transfer" alt="" coords="203,157,367,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga299901afa635d683b234b6268a904b81" title="m0_ha_ut_link_reconnect\l_multiple" alt="" coords="200,209,371,250"/>
+</map>

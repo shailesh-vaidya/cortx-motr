@@ -1,0 +1,10 @@
+<map id="rvk_data_setup" name="rvk_data_setup">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="380,90,505,117"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga94e9428a47babfc5c6d9a13995051b86" title="m0_rm_remote_init" alt="" coords="181,40,315,66"/>
+<area shape="rect" id="node4" href="$da/dd3/group__cookie.html#ga289890e8cb6e9317bf3b0ed7dc44076b" title="m0_cookie_init" alt="" coords="193,90,303,117"/>
+<area shape="rect" id="node5" href="$dd/d39/ut_2rm__foms_8c.html#a4009da7e5794512e7380b4dfb33db8e1" title="m0_remotes_tlist_add" alt="" coords="173,141,323,168"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga661442afb03a965d369f709f0625f9b8" title="m0_rm_loan_init" alt="" coords="189,192,307,218"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="181,242,315,269"/>
+<area shape="rect" id="node8" href="$d5/d57/rmapi_8c.html#a8615cc817320766347801b14ed4f63ad" title="m0_rm_ur_tlist_is_empty" alt="" coords="164,293,332,320"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="173,344,323,370"/>
+</map>

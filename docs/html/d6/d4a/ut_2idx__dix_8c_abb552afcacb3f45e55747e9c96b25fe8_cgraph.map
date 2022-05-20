@@ -1,0 +1,8 @@
+<map id="idx_teardown" name="idx_teardown">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#gaa4e7d45d5a7862844716c486cea81e8e" title="m0_entity_delete" alt="" coords="152,5,273,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="159,56,266,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="167,107,259,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="170,157,255,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="167,208,258,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#gaf84b10be1b1478f38b0d75a3bad4f424" title="m0_idx_fini" alt="" coords="169,259,257,285"/>
+</map>

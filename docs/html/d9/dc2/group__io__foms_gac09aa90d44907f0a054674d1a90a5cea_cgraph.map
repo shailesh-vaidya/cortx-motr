@@ -1,0 +1,11 @@
+<map id="m0_io_cob_create" name="m0_io_cob_create">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga47e20f53fd0d79ce9a28d3135f74b32f" title="m0_cob_alloc" alt="" coords="215,5,318,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="400,208,467,235"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#gaea18d599ad9639280cd8ac35e6a03aa4" title="m0_fid_convert_cob2gob" alt="" coords="183,107,350,133"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a2ad519fe56945f348e65c730b4d7d2ab" title="m0_cc_cob_nskey_make" alt="" coords="181,157,352,184"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="191,208,342,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="220,259,313,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga7c8f48452a610db82777a0c4711db441" title="m0_cob_nsrec_init" alt="" coords="201,309,332,336"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#ga7840e004a1c1b8431a212119e27b7bb5" title="m0_cob_create" alt="" coords="211,360,322,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="232,411,301,437"/>
+</map>

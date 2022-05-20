@@ -1,0 +1,7 @@
+<map id="m0_ios_mds_conn_get" name="m0_ios_mds_conn_get">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="222,5,373,32"/>
+<area shape="rect" id="node3" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga6c9ed9083cfe002846139a8af53d8f09" title="ios_mds_conn_get_locked" alt="" coords="209,56,385,83"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="215,107,380,133"/>
+<area shape="rect" id="node5" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga8edd780eac94ebebfa3567b5d88b90bf" title="m0_ios_mds_conn_init" alt="" coords="220,157,375,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="433,183,500,209"/>
+</map>

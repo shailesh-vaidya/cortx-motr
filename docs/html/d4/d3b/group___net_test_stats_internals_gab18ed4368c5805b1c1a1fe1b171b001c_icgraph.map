@@ -1,0 +1,7 @@
+<map id="m0_net_test_stats_reset" name="m0_net_test_stats_reset">
+<area shape="rect" id="node2" href="$db/dd4/group___net_test_console_internals.html#gaaa18dc4fecc9fbaa24e56e31ba36f33f" title="status_data_reset" alt="" coords="232,5,359,32"/>
+<area shape="rect" id="node3" href="$d7/d6f/group___net_test_node_helper_d_f_s.html#ga03b3992119969815683e16863d60b60e" title="m0_net_test_nh_init" alt="" coords="226,56,365,83"/>
+<area shape="rect" id="node4" href="$db/d3c/group___net_test_stats_m_p_s_d_f_s.html#gabac860ba3793112d3ecdf581dca796fd" title="m0_net_test_mps_init" alt="" coords="220,107,371,133"/>
+<area shape="rect" id="node5" href="$d3/dba/ut_2stats_8c.html#a6bb17ab11b4c47f318e35c1915fbd7e5" title="stats_time_ut" alt="" coords="245,157,346,184"/>
+<area shape="rect" id="node6" href="$d3/dba/ut_2stats_8c.html#a1b44439c174fcf99078a0290980c9044" title="m0_net_test_stats_ut" alt="" coords="419,183,567,209"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="cas_dtm0_logrec_add" name="cas_dtm0_logrec_add">
+<area shape="rect" id="node2" href="$d1/da8/dtm0_2service_8c.html#a5c34c17030e76d4d5de04d09c372bec2" title="m0_dtm0_service_find" alt="" coords="215,5,368,32"/>
+<area shape="rect" id="node3" href="$d0/d60/cas_2service_8c.html#a1ba6d1978b9b2d69f34d6273b8aa81f5" title="cas_op" alt="" coords="259,56,323,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="250,107,333,133"/>
+<area shape="rect" id="node5" href="$dd/d6d/group__xcode.html#ga5a25acd32d709d7f330cecebb563217e" title="m0_xcode_obj_enc_to_buf" alt="" coords="203,157,380,184"/>
+<area shape="rect" id="node6" href="$d4/d89/dtm0_2fop_8c.html#ab2a39337fde70c636e42454b51cb66a7" title="m0_dtm0_logrec_update" alt="" coords="209,208,373,235"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="244,259,339,285"/>
+</map>

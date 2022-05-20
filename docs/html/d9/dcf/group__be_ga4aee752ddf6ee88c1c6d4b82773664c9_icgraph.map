@@ -1,0 +1,10 @@
+<map id="m0_be_seg_reserved" name="m0_be_seg_reserved">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0f7cac25d444e2394ddb843b064ef21e" title="m0_be_allocator_create" alt="" coords="200,5,360,32"/>
+<area shape="rect" id="node3" href="$dd/d4c/be_2ut_2main_8c.html#a6b2e7ac872cc3dcbc823aa8539b7706b" title="m0_be_ut_alloc_oom" alt="" coords="207,56,353,83"/>
+<area shape="rect" id="node4" href="$dd/d4c/be_2ut_2main_8c.html#a52049679f3f0f4293c2d69bb6752b16e" title="m0_be_ut_alloc_spare" alt="" coords="204,107,356,133"/>
+<area shape="rect" id="node5" href="$dd/d4c/be_2ut_2main_8c.html#a11e1e50b88004cd3676b6c873ae4f303" title="m0_be_ut_fl" alt="" coords="233,157,327,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gac65cf38cecdd19200ad396e9c385f6af" title="betool_st_data_check" alt="" coords="205,208,355,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga84c8075c8ee2c52d74df157355a31e66" title="betool_st_data_write" alt="" coords="209,259,351,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga656bb30f8c04e7d93bafbf1ae704e360" title="m0_be_ut_tx_capturing" alt="" coords="201,309,359,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga66a9f4580a4a1bdd2abd47326472feb7" title="m0_be_ut_tx_gc" alt="" coords="221,360,339,387"/>
+</map>

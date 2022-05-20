@@ -1,0 +1,7 @@
+<map id="st_obj_suite_init" name="st_obj_suite_init">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga536cbbd7d309612ab9d2a4bd37b38e15" title="m0_container_init" alt="" coords="176,5,300,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#gaaf4258f0b9b42d9554b49dd49830504c" title="st_get_instance" alt="" coords="181,56,295,83"/>
+<area shape="rect" id="node4" href="$d8/d84/st__misc_8c.html#a47df046791fa999ff0b4c7bd98345708" title="console_printf" alt="" coords="187,107,289,133"/>
+<area shape="rect" id="node5" href="$d8/d84/st__misc_8c.html#a79defe9fd0a25c6cb95dcf18bb2bf1dd" title="generate_random" alt="" coords="177,157,299,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="169,208,307,235"/>
+</map>

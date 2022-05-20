@@ -1,0 +1,10 @@
+<map id="m0_fdmi__handle_release" name="m0_fdmi__handle_release">
+<area shape="rect" id="node2" href="$d3/d97/group__fdmi__main.html#ga477e326fce76b49bb5a5cc8dcb65717a" title="m0_fdmi_src_dock_get" alt="" coords="227,5,384,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="272,56,339,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a1c039c828314ce748de2792692443d41" title="if" alt="" coords="286,107,325,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="248,157,363,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="241,208,369,235"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="258,259,353,285"/>
+<area shape="rect" id="node8" href="$d4/de4/refs_8c.html#a96dc9c89402bf6a5782c951d9de8285b" title="m0_ref_put" alt="" coords="262,309,349,336"/>
+<area shape="rect" id="node9" href="$d6/dc3/group__fdmi__sd__int.html#ga021e444219679dc7094accca3ab7c75b" title="m0_fdmi__fs_put" alt="" coords="244,360,367,387"/>
+</map>

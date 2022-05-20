@@ -1,0 +1,10 @@
+<map id="machine_nb_idle" name="machine_nb_idle">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="172,5,355,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="214,56,313,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="212,107,315,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="180,157,347,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="210,208,317,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="187,259,339,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="214,309,313,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="214,360,313,387"/>
+</map>

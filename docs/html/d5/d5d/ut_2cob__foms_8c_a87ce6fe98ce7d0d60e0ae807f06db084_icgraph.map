@@ -1,0 +1,17 @@
+<map id="fop_alloc" name="fop_alloc">
+<area shape="rect" id="node2" href="$d5/d5d/ut_2cob__foms_8c.html#ae24439e1e2b124bda3832544ff9e5556" title="cc_fom_alloc" alt="" coords="165,5,263,32"/>
+<area shape="rect" id="node3" href="$d5/d5d/ut_2cob__foms_8c.html#a40288d85939ff4b77753491335512e3e" title="cd_fom_alloc" alt="" coords="165,56,263,83"/>
+<area shape="rect" id="node4" href="$d9/dbf/ut_2item_8c.html#abb028b1ec4e22619f3f3005266a7a594" title="test_simple_transitions" alt="" coords="136,107,292,133"/>
+<area shape="rect" id="node5" href="$d9/dbf/ut_2item_8c.html#a3c0f9c2367da5b0157897e6ef0c741b3" title="test_reply_item_error" alt="" coords="142,157,286,184"/>
+<area shape="rect" id="node6" href="$d9/dbf/ut_2item_8c.html#a706007a8000a9b6db4ccc3830d57d8f7" title="test_timeout" alt="" coords="371,233,466,260"/>
+<area shape="rect" id="node7" href="$d9/dbf/ut_2item_8c.html#a54c40d20dc58fbdfb0c14dc028d1db0d" title="_test_timeout" alt="" coords="163,259,265,285"/>
+<area shape="rect" id="node8" href="$d9/dbf/ut_2item_8c.html#a8eb9d4f9b7c8b1d59e3927f611b79150" title="test_ha_notify" alt="" coords="367,309,471,336"/>
+<area shape="rect" id="node9" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="373,411,464,437"/>
+<area shape="rect" id="node10" href="$d9/dbf/ut_2item_8c.html#ad5c7d59f701cd14cfdbc66ef90ecb2cc" title="_test_resend" alt="" coords="165,360,263,387"/>
+<area shape="rect" id="node11" href="$d9/dbf/ut_2item_8c.html#aa4cb5b48d261b7e580ee37b629e7771c" title="_test_timer_start_failure" alt="" coords="133,461,295,488"/>
+<area shape="rect" id="node12" href="$d9/dbf/ut_2item_8c.html#a3502dc4d1dbdfd9b79df41cb2e93ed40" title="_test" alt="" coords="189,512,239,539"/>
+<area shape="rect" id="node13" href="$d9/dbf/ut_2item_8c.html#a4403c6c12f97f1eef76c958fc5c928f6" title="fop_test" alt="" coords="179,563,249,589"/>
+<area shape="rect" id="node14" href="$d9/dbf/ut_2item_8c.html#ac67cb1d0c924d6d5385167d86d4ce220" title="test_cancel_session" alt="" coords="348,588,489,615"/>
+<area shape="rect" id="node15" href="$d9/dbf/ut_2item_8c.html#ac5cb6059e2551d3f30a6bdbb8844b4cf" title="cancel_item_with_various\l_states" alt="" coords="128,665,300,706"/>
+<area shape="rect" id="node16" href="$d9/dbf/ut_2item_8c.html#a26900cfe21ba8c24038778fd435149c5" title="test_ha_cancel" alt="" coords="159,731,269,757"/>
+</map>

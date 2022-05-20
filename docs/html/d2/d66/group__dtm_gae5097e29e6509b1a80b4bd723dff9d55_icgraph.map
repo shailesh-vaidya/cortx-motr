@@ -1,0 +1,12 @@
+<map id="m0_dtx_open_sync" name="m0_dtx_open_sync">
+<area shape="rect" id="node2" href="$d9/d5b/repair_2ut_2xform_8c.html#a4a4ea168c86c796b83221d78637d6f62" title="cob_create" alt="" coords="216,5,303,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/repair_2ut_2xform_8c.html#aa2870da3f7a6ac0756263aeca6c3e0fe" title="cob_delete" alt="" coords="217,56,302,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#a377c93ae2fb193312f3dab3659c6f810" title="cc_cob_create_test" alt="" coords="379,120,515,147"/>
+<area shape="rect" id="node5" href="$d5/d5d/ut_2cob__foms_8c.html#abbebf0dc594c14eb64605a3a6e10bece" title="cd_cob_delete_test" alt="" coords="379,183,514,209"/>
+<area shape="rect" id="node6" href="$d5/d5d/ut_2cob__foms_8c.html#a0af5d51ed87d3c253b1f680c45ac4ca0" title="fom_stob_tx_credit" alt="" coords="193,157,326,184"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="188,259,331,301"/>
+<area shape="rect" id="node8" href="$df/dca/group__m0d.html#ga7328ee5ca18d0095a11872614fdfd815" title="cs_storage_prepare" alt="" coords="191,325,327,352"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#ga343bcedd9354c54766ac26cd3420370e" title="test_write" alt="" coords="220,376,299,403"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga1e6b1e406f6c47d9043901309a399337" title="test_punch" alt="" coords="216,427,303,453"/>
+<area shape="rect" id="node11" href="$da/dda/group__utstob.html#ga63263199f473416bbd01d2a88c376190" title="m0_ut_dtx_open" alt="" coords="200,477,319,504"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="conf_save_load_fail" name="conf_save_load_fail">
+<area shape="rect" id="node2" href="$d7/de5/group__confd__stob.html#gadbe5ae0b9837be54a19b5ecb8a17b968" title="m0_confd_stob_init" alt="" coords="210,5,345,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="422,183,545,209"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="412,107,555,133"/>
+<area shape="rect" id="node5" href="$d7/de5/group__confd__stob.html#gabf73e6c1c54b1668fdbf5ce03ab3d97a" title="m0_confd_stob_write" alt="" coords="204,56,351,83"/>
+<area shape="rect" id="node6" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="210,208,345,235"/>
+<area shape="rect" id="node7" href="$d7/de5/group__confd__stob.html#ga51c448525548acaca6aaac90408b5de3" title="m0_confd_stob_read" alt="" coords="206,157,349,184"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="425,284,542,311"/>
+<area shape="rect" id="node9" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="191,360,364,387"/>
+<area shape="rect" id="node10" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="226,411,329,437"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#gaaa46bc11405406b126a597623a5bf1f4" title="m0_stob_domain_destroy\l_location" alt="" coords="192,462,363,503"/>
+<area shape="rect" id="node12" href="$d7/de5/group__confd__stob.html#gab14cfe0e881c0410d4c354e5287dd0db" title="m0_confd_stob_fini" alt="" coords="210,528,345,555"/>
+</map>

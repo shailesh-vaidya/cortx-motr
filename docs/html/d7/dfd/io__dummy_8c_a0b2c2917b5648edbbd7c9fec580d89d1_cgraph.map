@@ -1,0 +1,13 @@
+<map id="ut_dummy_ioo_create" name="ut_dummy_ioo_create">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="209,5,387,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#gaf8321413645f4fb1b2966192a395956b" title="m0_layout_find" alt="" coords="243,56,353,83"/>
+<area shape="rect" id="node4" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="236,107,360,133"/>
+<area shape="rect" id="node5" href="$d7/dfd/io__dummy_8c.html#aa25d8fbc549b6c9298c68b7dd2eb80d1" title="ut_dummy_pdclust_instance\l_create" alt="" coords="204,158,392,199"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="443,195,571,221"/>
+<area shape="rect" id="node7" href="$d7/dfd/io__dummy_8c.html#a4a4860bef320e4c1a5aed9262ef16c7f" title="ut_dummy_obj_create" alt="" coords="223,275,373,301"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="440,405,573,432"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="253,376,343,403"/>
+<area shape="rect" id="node10" href="$d7/dfd/io__dummy_8c.html#af46566c4315be50e6167102d1b861a9c" title="ut_dummy_xfer_req_init" alt="" coords="217,427,379,453"/>
+<area shape="rect" id="node11" href="$d7/dfd/io__dummy_8c.html#a6293a57e76b4ac5e939637fe22ecadae" title="ut_dummy_pargrp_iomap\l_create" alt="" coords="214,478,382,519"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="234,544,362,571"/>
+</map>

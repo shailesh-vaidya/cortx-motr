@@ -1,0 +1,10 @@
+<map id="nlx_kcore_buf_event_wait" name="nlx_kcore_buf_event_wait">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="230,5,379,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga530692bcf0e267d1a08e8faced4528a4" title="nlx_kcore_tm_invariant" alt="" coords="227,56,383,83"/>
+<area shape="rect" id="node4" href="$dd/d08/group__bevcqueue.html#ga5d24e1b0bc217d8d53b11f0afcdcce03" title="bev_cqueue_is_empty" alt="" coords="229,107,381,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="271,157,338,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="253,208,356,235"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga1011dd8f416435c5a5d0f0f7f98d754d" title="m0_time_sub" alt="" coords="255,259,355,285"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#gacfac2ac7f95e189a0202dca2335cc423" title="m0_time_seconds" alt="" coords="241,309,369,336"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#gae4c97bbded0d43d1a4536529d56bd2bb" title="m0_time_nanoseconds" alt="" coords="227,360,383,387"/>
+</map>

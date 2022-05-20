@@ -1,0 +1,19 @@
+<map id="m0_be_op_reset" name="m0_be_op_reset">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gab1771948185c3ac742e9a9c0b93b45e9" title="be_ut_io_sched_thread" alt="" coords="188,5,344,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga61e2be7f633db1055a60f9833e0633bd" title="be_log_header_io_sync" alt="" coords="187,56,345,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga3ec896144f494aa07585afff21ce2333" title="m0_be_log_record_reset" alt="" coords="184,107,348,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gac965685a385641504e781e3285aee3fd" title="m0_be_group_format\l_reset" alt="" coords="441,150,585,191"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gafaa84d6066ced529ca6b2ced2e544388" title="m0_be_log_record_io\l_launch" alt="" coords="193,209,339,250"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gade6e3c042037b8de7f767cdab628f7b0" title="be_log_discard_sync\l_done_cb" alt="" coords="194,274,338,315"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga6da66f1a1a68e75f541cb5e62f0e750a" title="m0_be_log_store_rbuf\l_io_reset" alt="" coords="191,339,341,381"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga7110f048535dc2da92d23fc4c5de86fb" title="m0_be_pd_io_put" alt="" coords="204,405,328,432"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gadd120017b158fc2931431f987df0ec73" title="be_ut_queue_thread" alt="" coords="197,456,335,483"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gad2b0b927dba89d39fba8bb04bdfd3e35" title="be_tx_bulk_queue_get_cb" alt="" coords="179,507,353,533"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga6e25ca4087f002ef922c1d9bb3a0bb28" title="be_ut_tx_bulk_parallel\l_thread" alt="" coords="191,558,341,599"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga6c1e69516ec63777b4942ed562c1bab6" title="m0_be_ut_tx_bulk_parallel_1_15" alt="" coords="408,595,619,621"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga511a24088a51576d986c03acb87e894b" title="be_tx_group_reconstruct\l_transactions" alt="" coords="183,675,349,717"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#ga9d45285704a78fc7012d00ed2ac9e4c1" title="tx_group_fom_tick" alt="" coords="201,741,331,768"/>
+<area shape="rect" id="node16" href="$d8/d50/ctg__store_8c.html#a8f2e8b3ecb553d3a06fe121549f71ab9" title="versioned_cursor_next_sync" alt="" coords="172,792,360,819"/>
+<area shape="rect" id="node17" href="$d8/d50/ctg__store_8c.html#a05a37ad375095832bd67df15b5df7027" title="versioned_cursor_get_sync" alt="" coords="423,817,604,844"/>
+<area shape="rect" id="node18" href="$da/d54/group__dtm0.html#gae1da688304622eafad50d63c16f2fd30" title="m0_dtm0_ut_drlink_simple" alt="" coords="177,893,355,920"/>
+</map>

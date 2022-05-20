@@ -1,0 +1,6 @@
+<map id="idx_bufvec_free" name="idx_bufvec_free">
+<area shape="rect" id="node2" href="$de/d09/crate__index_8c.html#a813dd6e605943dca495d4137a50d3a51" title="kv_pair_fini" alt="" coords="168,5,256,32"/>
+<area shape="rect" id="node3" href="$de/d09/crate__index_8c.html#ae684f9130aeefa2c26bb8eb377be8c5f" title="fill_kv_next" alt="" coords="168,56,256,83"/>
+<area shape="rect" id="node4" href="$de/d09/crate__index_8c.html#a7d0a0e22b125c740058b4839aca8e47f" title="fill_kv_get" alt="" coords="171,107,253,133"/>
+<area shape="rect" id="node5" href="$de/d09/crate__index_8c.html#a02da4c586ba394b85af98ecbb416ff33" title="fill_kv_put" alt="" coords="171,157,253,184"/>
+</map>

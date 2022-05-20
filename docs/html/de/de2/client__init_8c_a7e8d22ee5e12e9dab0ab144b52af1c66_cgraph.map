@@ -1,0 +1,10 @@
+<map id="initlift_pool_version" name="initlift_pool_version">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#ae9e97bcbeee824545903acfe20539738" title="m0c_invariant" alt="" coords="224,5,327,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="412,107,479,133"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="201,107,350,133"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#gaf280f6571cfcf01d8820698869f63a66" title="m0_pool_versions_setup" alt="" coords="192,157,359,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="208,208,343,235"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#a1956aa499f71c13762b0e44d47f9d63c" title="initlift_fail" alt="" coords="237,259,314,285"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#ga4f4560ea6f524440143c5cd7714abf00" title="m0_pool_versions_destroy" alt="" coords="187,309,364,336"/>
+<area shape="rect" id="node9" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="204,360,347,387"/>
+</map>

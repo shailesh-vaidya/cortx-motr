@@ -1,0 +1,9 @@
+<map id="m0_trace_allot" name="m0_trace_allot">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga9b280fa18fe055a4b7e1f5374558d57c" title="m0_atomic64_add_return" alt="" coords="160,5,328,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="207,56,281,83"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#ga3e61bf94f2c9b65297b69d27cb8232a8" title="calc_string_data_size" alt="" coords="170,107,318,133"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#ga9812d0c69430d4068b1cd5ccd297b6e3" title="m0_trace_stats_update" alt="" coords="165,157,323,184"/>
+<area shape="rect" id="node6" href="$d8/d98/group__trace.html#gaac7dfb7dd41b2f0aae18f95882876a5b" title="m0_rdtsc" alt="" coords="206,208,282,235"/>
+<area shape="rect" id="node7" href="$d8/d98/group__trace.html#ga790bd08a95f2a26e1152faf846a06fd1" title="copy_string_data" alt="" coords="183,259,305,285"/>
+<area shape="rect" id="node8" href="$d8/d98/group__trace.html#ga255fc0779ca69db573514280f38018e2" title="m0_trace_record_print" alt="" coords="169,309,319,336"/>
+</map>

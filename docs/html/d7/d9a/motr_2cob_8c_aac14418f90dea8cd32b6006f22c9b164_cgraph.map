@@ -1,0 +1,9 @@
+<map id="cob_ios_send" name="cob_ios_send">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="179,5,276,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="347,31,413,57"/>
+<area shape="rect" id="node4" href="$d7/d9a/motr_2cob_8c.html#a161d15b7a5867e41e05b25f81919ca1c" title="cob_req_to_rpc_map" alt="" coords="156,107,299,133"/>
+<area shape="rect" id="node5" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="161,157,293,184"/>
+<area shape="rect" id="node6" href="$d7/d9a/motr_2cob_8c.html#adffe0899de064893a7ba4f898bec075e" title="cob_ios_fop_fini" alt="" coords="169,208,285,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="189,259,265,285"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="157,309,297,336"/>
+</map>

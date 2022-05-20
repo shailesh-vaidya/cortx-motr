@@ -1,0 +1,16 @@
+<map id="ut_composite_io_op_cb_launch" name="ut_composite_io_op_cb_launch">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="407,8,557,34"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="433,88,531,114"/>
+<area shape="rect" id="node4" href="$d0/d3f/motr_2ut_2layout_8c.html#abbcfb51ce5f858df07da009891f430cb" title="ut_composite_io_op\l_alloc" alt="" coords="206,95,345,136"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="418,150,546,177"/>
+<area shape="rect" id="node6" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="431,206,533,233"/>
+<area shape="rect" id="node7" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="208,262,343,289"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="415,442,549,469"/>
+<area shape="rect" id="node9" href="$df/da5/composite__layout_8c.html#a42504f8d9a5e2b622c37e8927705839d" title="composite_io_op_cb\l_launch" alt="" coords="205,314,346,355"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="430,380,534,406"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="437,518,527,545"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="407,576,557,602"/>
+<area shape="rect" id="node13" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="418,633,546,660"/>
+<area shape="rect" id="node14" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="224,532,327,558"/>
+<area shape="rect" id="node15" href="$d0/d3f/motr_2ut_2layout_8c.html#aca44fd9cd4ddb67b6a863a933e2d1839" title="ut_composite_io_op_free" alt="" coords="192,684,359,710"/>
+</map>

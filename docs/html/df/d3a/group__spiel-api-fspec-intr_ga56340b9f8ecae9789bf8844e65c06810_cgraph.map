@@ -1,0 +1,8 @@
+<map id="m0_spiel_tx_open" name="m0_spiel_tx_open">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="196,5,303,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#ga51454624a47b0fabc4999c1052eb946a" title="m0_conf_cache_init" alt="" coords="180,56,319,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="367,81,456,108"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="192,157,307,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="187,208,311,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="185,259,313,285"/>
+</map>

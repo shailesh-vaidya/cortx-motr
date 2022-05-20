@@ -1,0 +1,16 @@
+<map id="m0_cs_ctx_get" name="m0_cs_ctx_get">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad9ec17eced44cea1cb5514a344b08573" title="fail_device" alt="" coords="199,5,283,32"/>
+<area shape="rect" id="node3" href="$d3/d26/sns_2cm_2repair_2ut_2storage_8c.html#a84bd81f26a052799e63d957c6fc3e2f4" title="write_post" alt="" coords="200,56,283,83"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga18fd06631c2caeea1687592f8985442d" title="m0_sns_cm_rm_init" alt="" coords="172,107,311,133"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga4bd2430c1963fc35da64421ac5af8c8c" title="m0_sns_cm_prepare" alt="" coords="367,132,509,159"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga21cec19aa494a42c7c1227e4489b66b2" title="m0_sns_cm_setup" alt="" coords="175,208,307,235"/>
+<area shape="rect" id="node7" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#a072ecae37a7206e442adf3353587fd5b" title="iter_setup" alt="" coords="202,259,281,285"/>
+<area shape="rect" id="node8" href="$d9/d5b/repair_2ut_2xform_8c.html#a4a4ea168c86c796b83221d78637d6f62" title="cob_create" alt="" coords="198,309,285,336"/>
+<area shape="rect" id="node9" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#a7ffa6fae660d2557aa3e763a8186887e" title="iter_run" alt="" coords="209,360,274,387"/>
+<area shape="rect" id="node10" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#a28e2dba4654baa7426df7a9a9daaebe5" title="iter_stop" alt="" coords="205,411,277,437"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#gac73c0391368c955cb7bd800ab027a4e1" title="io_prepare" alt="" coords="200,461,283,488"/>
+<area shape="rect" id="node12" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga8edd780eac94ebebfa3567b5d88b90bf" title="m0_ios_mds_conn_init" alt="" coords="164,512,319,539"/>
+<area shape="rect" id="node13" href="$d7/d99/conf_8c.html#a7c95f2c1d77526b572531d3c190fbb06" title="is_local_service" alt="" coords="184,563,299,589"/>
+<area shape="rect" id="node14" href="$d5/d10/pool__foms_8c.html#a3ae6521930336f9c2af634cd6f638f5f" title="poolmach_set_op" alt="" coords="179,613,303,640"/>
+<area shape="rect" id="node15" href="$d5/d10/pool__foms_8c.html#af651d460e3306bc420f302c74821b405" title="poolmach_query_op" alt="" coords="172,664,311,691"/>
+</map>

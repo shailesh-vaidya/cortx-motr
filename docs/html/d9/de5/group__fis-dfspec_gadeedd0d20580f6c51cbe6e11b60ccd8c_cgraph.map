@@ -1,0 +1,13 @@
+<map id="m0_fi_command_post_sync" name="m0_fi_command_post_sync">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="303,5,343,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="239,56,408,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="456,81,523,108"/>
+<area shape="rect" id="node5" href="$d0/def/group__fis-dlspec.html#gaec5853d3af74d80ae7aca7c53bd91597" title="fi_str_not_empty" alt="" coords="264,157,383,184"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="274,208,373,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="262,259,385,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="285,309,361,336"/>
+<area shape="rect" id="node9" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="257,360,389,387"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="275,411,372,437"/>
+<area shape="rect" id="node11" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="253,461,393,488"/>
+<area shape="rect" id="node12" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="263,512,384,539"/>
+</map>

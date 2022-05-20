@@ -1,0 +1,6 @@
+<map id="m0_rm_credit_decode" name="m0_rm_credit_decode">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga389564d613684c1f52950f0e03664b55" title="incoming_prepare" alt="" coords="211,5,335,32"/>
+<area shape="rect" id="node3" href="$d7/db2/rm__fops_8c.html#afdee329ad6c2dd26aab90260aa5352c9" title="rm_borrow_ast" alt="" coords="219,56,327,83"/>
+<area shape="rect" id="node4" href="$d0/d11/ut_2rm__fops_8c.html#aa212fd0ce5a8f94b6be6e2d545be3b92" title="borrow_fop_validate" alt="" coords="204,107,343,133"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#a7d12abac0dc938736ed84b483d7e7e24" title="revoke_fop_validate" alt="" coords="204,157,343,184"/>
+</map>

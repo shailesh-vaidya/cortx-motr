@@ -1,0 +1,11 @@
+<map id="be_log_level_leave" name="be_log_level_leave">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga69a7c9bb086b67ddb00ba18823b0bfe3" title="be_log_module2log" alt="" coords="204,5,337,32"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="217,56,324,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="404,259,511,285"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3ac6f16820ba145a1e3fcf5741b8f481" title="m0_be_log_sched_fini" alt="" coords="195,157,346,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga2af331c7406d8620bd2245a1643d34a2" title="m0_be_log_store_destroy" alt="" coords="185,208,356,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gabe42926b194c80ababf2e8b649cc34ac" title="m0_be_log_store_close" alt="" coords="191,259,350,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga36d10ef1b1b495bcdfe8fe2a74ddd7e4" title="be_log_header_update" alt="" coords="195,309,347,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga9206024e215103d8cdc6703474036d76" title="be_log_header_write" alt="" coords="200,360,341,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga2c067a1bf41c043974f60e023e1d1876" title="m0_be_recovery_fini" alt="" coords="199,411,342,437"/>
+</map>

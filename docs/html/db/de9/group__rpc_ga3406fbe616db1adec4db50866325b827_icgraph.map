@@ -1,0 +1,9 @@
+<map id="item_kind" name="item_kind">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga5a8fdf6d8b77168c423a8c63e22f01d1" title="item_sent" alt="" coords="189,5,268,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga536eb429cebfab138e4a062d0f178bed" title="m0_rpc_packet_add_item" alt="" coords="143,56,314,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gad6dc1652528ac2f81e1149ece53a657d" title="m0_rpc_packet_remove_item" alt="" coords="132,107,325,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="376,196,473,223"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="154,208,303,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaedf0cb0b861e8f225b159816ee5838d0" title="item_received" alt="" coords="373,272,476,299"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga4dfe1f8a0c1d572c2dbf0d7331a4bd1d" title="item_received_fi" alt="" coords="170,309,287,336"/>
+</map>

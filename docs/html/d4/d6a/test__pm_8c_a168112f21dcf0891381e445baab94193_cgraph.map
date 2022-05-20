@@ -1,0 +1,11 @@
+<map id="pm_test_spare_slot" name="pm_test_spare_slot">
+<area shape="rect" id="node2" href="$d4/d6a/test__pm_8c.html#a2cec96675c7879a125dbff4cdc91e6a6" title="pool_pver_init" alt="" coords="235,5,338,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#ga071e928905a90d459e712b7b3dbf6bdc" title="m0_poolmach_failvec\l_apply" alt="" coords="213,57,361,98"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="432,93,615,120"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="213,174,361,215"/>
+<area shape="rect" id="node6" href="$d8/dec/group__poolmach.html#gaf78c14f80bf2d638b61880cc388a4277" title="m0_poolmach_sns_repair\l_spare_query" alt="" coords="201,239,372,281"/>
+<area shape="rect" id="node7" href="$d8/dec/group__poolmach.html#ga504664e01e2e9dbfd6b9741a2dc28bc3" title="m0_poolmach_sns_rebalance\l_spare_query" alt="" coords="189,305,384,346"/>
+<area shape="rect" id="node8" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="200,371,373,397"/>
+<area shape="rect" id="node9" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="235,421,338,448"/>
+<area shape="rect" id="node10" href="$d4/d6a/test__pm_8c.html#af9075b0b66a33603d71ad5321914677b" title="pool_pver_fini" alt="" coords="235,472,338,499"/>
+</map>

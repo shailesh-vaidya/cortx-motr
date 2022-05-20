@@ -1,0 +1,8 @@
+<map id="stob_object_find" name="stob_object_find">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#gac46fb755845a2224cfae67b60e87c6e3" title="m0_cs_storage_devs_get" alt="" coords="181,5,351,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga7765c2548cc8e67b087e0eee87dc74d4" title="m0_is_io_fop" alt="" coords="217,56,315,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga4c3c9a4a75ef435640e271c57da9b26e" title="m0_io_fom_cob_rw_invariant" alt="" coords="171,107,361,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="409,132,488,159"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="181,208,351,235"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#ga50870cdfed558fa1856b5505b6e26073" title="m0_storage_dev_stob_find" alt="" coords="177,259,355,285"/>
+</map>

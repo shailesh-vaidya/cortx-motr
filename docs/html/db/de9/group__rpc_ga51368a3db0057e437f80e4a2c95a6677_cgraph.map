@@ -1,0 +1,9 @@
+<map id="req_replied" name="req_replied">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="164,5,287,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga4e43c836b6c6f5fa51b1857390bd5b50" title="m0_rpc_frm_remove_item" alt="" coords="139,56,312,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="380,139,463,165"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga738f7318704f5dd40c245c6843d2ed27" title="m0_rpc_item_process\l_reply" alt="" coords="150,158,301,199"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="360,193,483,220"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="142,275,309,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="192,325,259,352"/>
+</map>

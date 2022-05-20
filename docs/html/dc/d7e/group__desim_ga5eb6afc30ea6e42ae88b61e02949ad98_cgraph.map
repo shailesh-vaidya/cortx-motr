@@ -1,0 +1,4 @@
+<map id="sim_sleep" name="sim_sleep">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga70f88a70d2ca746fd31aa7a5051bf415" title="sim_wakeup_post" alt="" coords="143,5,269,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga77668a2ba3f37e738e40223e6c4a79c6" title="sim_thread_suspend" alt="" coords="135,56,277,83"/>
+</map>

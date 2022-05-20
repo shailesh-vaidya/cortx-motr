@@ -1,0 +1,8 @@
+<map id="rebalance_svc_start" name="rebalance_svc_start">
+<area shape="rect" id="node2" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#ga5a11b92dc2d60939ca50e305b67c8683" title="m0_sns_cm_svc_start" alt="" coords="193,5,347,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="396,31,463,57"/>
+<area shape="rect" id="node4" href="$d0/d80/group___c_p.html#ga15e61a1b2b5b572229d9cb688b8102a9" title="m0_cm_cp_init" alt="" coords="215,107,325,133"/>
+<area shape="rect" id="node5" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#ga718c27d54fb6ef382ff5e7813597beb3" title="m0_sns_cm_rebalance\l_cpx_init" alt="" coords="192,158,348,199"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#gab85df902801c6ea26e4d7d45ff8a2c25" title="m0_sns_cm_rebalance\l_sw_onwire_fop_init" alt="" coords="192,223,348,265"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga39c924482915ef609ef80a1a1339aa3f" title="m0_sns_cm_rebalance\l_trigger_fop_init" alt="" coords="192,289,348,330"/>
+</map>

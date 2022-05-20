@@ -1,0 +1,10 @@
+<map id="rm_group_test" name="rm_group_test">
+<area shape="rect" id="node2" href="$db/d70/group_8c.html#a999194dae99d56744764f35f38fc2732" title="rm_group_utinit" alt="" coords="194,5,305,32"/>
+<area shape="rect" id="node3" href="$db/d70/group_8c.html#a5ffbdedd363cf3bfdd84f77f71eb2370" title="rm_server_start" alt="" coords="193,56,306,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gac475887387f514fc84e78c3da285e2af" title="m0_semaphore_timeddown" alt="" coords="159,107,340,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="181,157,317,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="176,208,323,235"/>
+<area shape="rect" id="node7" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="194,259,305,285"/>
+<area shape="rect" id="node8" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="196,309,303,336"/>
+<area shape="rect" id="node9" href="$db/d70/group_8c.html#a76bbbe0758f72a7da79d7566e1042c01" title="rm_group_utfini" alt="" coords="194,360,305,387"/>
+</map>

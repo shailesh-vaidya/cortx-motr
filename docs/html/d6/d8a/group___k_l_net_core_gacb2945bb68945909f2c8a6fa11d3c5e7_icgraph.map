@@ -1,0 +1,14 @@
+<map id="nlx_core_kmem_loc_set" name="nlx_core_kmem_loc_set">
+<area shape="rect" id="node2" href="$dd/d08/group__bevcqueue.html#gae67d05e9d250b186c38319d87252910d" title="bev_link_bless" alt="" coords="249,5,357,32"/>
+<area shape="rect" id="node3" href="$d8/d9e/group___l_net_dev_internal.html#gaca44147b1297b273d9453735493b2cbf" title="nlx_dev_ioctl_bev_bless" alt="" coords="437,31,601,57"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gaa243e6da95eb97974854ef9289fc6b9e" title="nlx_core_dom_init" alt="" coords="456,183,583,209"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#ga9a7243ef73c4d6b8c9ecf249adf54a69" title="nlx_core_dom_fini" alt="" coords="239,157,366,184"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#ga449a802356f3257888fa265e54ca7671" title="nlx_core_buf_register" alt="" coords="229,208,376,235"/>
+<area shape="rect" id="node7" href="$d8/de0/group___l_net_core.html#gaceb7d73c016add28bb9a1fcfd74ae248" title="nlx_core_tm_start" alt="" coords="239,259,366,285"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#ga00e38a4ba9f087356675ba41a57dc3d7" title="nlx_kcore_kcore_dom_init" alt="" coords="216,309,389,336"/>
+<area shape="rect" id="node9" href="$d8/d9e/group___l_net_dev_internal.html#ga480a38459177bb04627ce25930245566" title="nlx_dev_ioctl_dom_init" alt="" coords="225,360,380,387"/>
+<area shape="rect" id="node10" href="$d8/d9e/group___l_net_dev_internal.html#gacd65375ccf4de7d7a7f5f4427aa835e5" title="nlx_dev_ioctl_buf_register" alt="" coords="216,411,389,437"/>
+<area shape="rect" id="node11" href="$d8/d9e/group___l_net_dev_internal.html#gacca7f081b1af30e2331a0617979afc21" title="nlx_dev_ioctl_tm_start" alt="" coords="226,461,379,488"/>
+<area shape="rect" id="node12" href="$d8/d9e/group___l_net_dev_internal.html#ga120c166ef9fa98855c20aa3b67ff519b" title="nlx_dev_close" alt="" coords="250,512,355,539"/>
+<area shape="rect" id="node13" href="$df/df1/klnet__ut_8c.html#a95cc262ac9020bc3a00df13b6d2cc491" title="ktest_enc_dec" alt="" coords="249,563,356,589"/>
+</map>

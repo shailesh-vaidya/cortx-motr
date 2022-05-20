@@ -1,0 +1,7 @@
+<map id="nlx_core_buf_desc_encode" name="nlx_core_buf_desc_encode">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9146ce039a8e7335b7d94608c325331d" title="nlx_core_tm_is_locked" alt="" coords="255,5,410,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="480,31,629,57"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gad11c1a84c224954dec2763ca4e92efcb" title="nlx_core_buffer_invariant" alt="" coords="249,107,416,133"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#gabc028f669de40e37950aabfef085c410" title="nlx_core_match_bits\l_encode" alt="" coords="261,158,404,199"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#gaa4d937234f964e00a9b42ce26e875980" title="nlx_core_buf_desc_checksum" alt="" coords="233,224,432,251"/>
+</map>

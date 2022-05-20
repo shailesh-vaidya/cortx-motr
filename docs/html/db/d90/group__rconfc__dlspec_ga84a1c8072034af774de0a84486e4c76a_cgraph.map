@@ -1,0 +1,16 @@
+<map id="rconfc__cb_quorum_test" name="rconfc__cb_quorum_test">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="827,304,885,330"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#gaccd01aa86fa643a5ed9927174b066a3a" title="rconfc_is_locked" alt="" coords="659,202,779,229"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga1fafd6a0b6fe36dda7a26e32d713cfdd" title="m0_confc_ctx_is_completed" alt="" coords="423,684,611,710"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga3345102f46c980aef89a53a342ace13a" title="m0_confc_ctx_error" alt="" coords="228,709,365,736"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaf4bb017ba0433bb164c8cd696df89128" title="rconfc_quorum_is_reached" alt="" coords="427,202,606,229"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gaf73a45fb232de3be09025947de009ad5" title="rconfc_quorum_test" alt="" coords="228,405,365,432"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="472,456,561,482"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga5b734478017d2453f175dc748ab92026" title="rconfc_active_add" alt="" coords="453,557,581,584"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#ga13f3669a9e09779f4ed761f4f42b65d3" title="rconfc_active_populate" alt="" coords="219,506,375,533"/>
+<area shape="rect" id="node11" href="$db/d90/group__rconfc__dlspec.html#gaac368a71b4743794d84d9c9e0107f3a6" title="rconfc_cctx_fini" alt="" coords="239,760,354,786"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="455,354,578,381"/>
+<area shape="rect" id="node13" href="$db/d90/group__rconfc__dlspec.html#ga566fcd60e1cebb041232e1d199b0afbc" title="rconfc_quorum_is_possible" alt="" coords="427,101,607,128"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga92b8e301323dee8d0b7a15e473bf3cd2" title="rconfc_ast_post" alt="" coords="661,608,776,634"/>
+<area shape="rect" id="node15" href="$db/d90/group__rconfc__dlspec.html#ga9d1c8fb2df194543e51785b1d4ec9b69" title="rconfc_version_elected" alt="" coords="219,304,375,330"/>
+</map>

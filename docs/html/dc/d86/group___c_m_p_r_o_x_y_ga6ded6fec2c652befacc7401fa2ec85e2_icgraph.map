@@ -1,0 +1,6 @@
+<map id="__wake_up_pending_cps" name="__wake_up_pending_cps">
+<area shape="rect" id="node2" href="$dc/d86/group___c_m_p_r_o_x_y.html#gad7d4d22381ccf7ee3f1a92a7763e979c" title="_sw_update" alt="" coords="260,5,352,32"/>
+<area shape="rect" id="node3" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga795dc28a265d42dca08cc435d0d52619" title="proxy_sw_onwire_ast_cb" alt="" coords="221,56,391,83"/>
+<area shape="rect" id="node4" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaeef8985ee0da3fd51bdb0af257fe47b2" title="m0_cm_proxy_pending\l_cps_wakeup" alt="" coords="228,107,384,149"/>
+<area shape="rect" id="node5" href="$dc/d86/group___c_m_p_r_o_x_y.html#gacec8d0e3eccb2a0137aebc691fa1bfcf" title="px_fail_ast_cb" alt="" coords="253,173,359,200"/>
+</map>

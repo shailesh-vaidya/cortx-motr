@@ -1,0 +1,9 @@
+<map id="inst_rpc_init" name="inst_rpc_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga5e9c39839774a7d3dbe3172bb38b6917" title="m0_rpc_bufs_nr" alt="" coords="168,5,283,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="145,57,305,98"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga7de928bf0cc92e7751cd7e3377264bfc" title="m0_rpc_machine_init" alt="" coords="153,123,298,149"/>
+<area shape="rect" id="node5" href="$d9/d2c/ms__fom__ut_8c.html#a8ab6ea513f08d3ded46e474fba393c03" title="reqh_fini" alt="" coords="190,173,261,200"/>
+<area shape="rect" id="node6" href="$d5/d8c/group__reqh.html#gafe423b616670567412fed259897708a4" title="m0_reqh_fini" alt="" coords="353,199,449,225"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#ga074be1304e31590ad109bd330c6fb336" title="m0_reqh_start" alt="" coords="173,275,278,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga48860be7f6278837ffe38b1420c4fc7e" title="m0_rpc_net_buffer_pool\l_cleanup" alt="" coords="145,326,305,367"/>
+</map>

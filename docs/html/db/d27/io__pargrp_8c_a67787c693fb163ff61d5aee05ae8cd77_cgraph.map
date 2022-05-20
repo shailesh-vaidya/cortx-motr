@@ -1,0 +1,9 @@
+<map id="data_buf_alloc_init" name="data_buf_alloc_init">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a20292f3ffe70c0848ebb1d010916d83e" title="m0__obj_instance" alt="" coords="185,5,311,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="187,56,309,83"/>
+<area shape="rect" id="node4" href="$d4/dc1/motr_2io_8h.html#ad9fcb4843aec8223dc993e740d0ea495" title="obj_buffer_size" alt="" coords="193,107,303,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="189,157,307,184"/>
+<area shape="rect" id="node6" href="$db/d27/io__pargrp_8c.html#aa151c0033892597bd50125571824789b" title="data_buf_init" alt="" coords="200,208,296,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="360,233,449,260"/>
+<area shape="rect" id="node8" href="$db/d27/io__pargrp_8c.html#a77e35b33d60b81ada3365935e1b9ec6c" title="data_buf_invariant" alt="" coords="184,309,312,336"/>
+</map>

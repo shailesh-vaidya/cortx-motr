@@ -1,0 +1,11 @@
+<map id="ut_test_target_ioreq_init" name="ut_test_target_ioreq_init">
+<area shape="rect" id="node2" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="429,38,557,65"/>
+<area shape="rect" id="node3" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="215,38,381,65"/>
+<area shape="rect" id="node4" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="223,89,373,115"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="223,139,373,166"/>
+<area shape="rect" id="node6" href="$de/df0/io__nw__xfer_8c.html#a5746d58c55587730f5bd92eaf416e284" title="target_ioreq_init" alt="" coords="241,190,355,217"/>
+<area shape="rect" id="node7" href="$dd/d5f/group__fid.html#ga1b53d861df8dc089fb08caf0b88a289c" title="m0_fid_cmp" alt="" coords="251,241,345,267"/>
+<area shape="rect" id="node8" href="$de/df0/io__nw__xfer_8c.html#a7239f5857ae3b348ce13740c30ae5f66" title="target_ioreq_fini" alt="" coords="241,291,355,318"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="247,342,349,369"/>
+<area shape="rect" id="node10" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="223,393,373,419"/>
+</map>

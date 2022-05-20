@@ -1,0 +1,7 @@
+<map id="zone_start_get" name="zone_start_get">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a3ae80a68c8ac683ec586384759de4325" title="balloc_simple_scan\l_group" alt="" coords="168,5,304,47"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a0a32d8780ca052e78817affb46089d65" title="balloc_check_limits" alt="" coords="168,71,304,98"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#abd0e74f7c5c3c4fa973fa97f8aeb8910" title="balloc_measure_extent" alt="" coords="359,97,515,123"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ae69edc18179ec56bcd41be9e08d0c278" title="balloc_try_best_found" alt="" coords="161,173,311,199"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#acbe3d3fc78005ecd3199f8ae3367f77b" title="balloc_free_internal" alt="" coords="169,223,303,250"/>
+</map>

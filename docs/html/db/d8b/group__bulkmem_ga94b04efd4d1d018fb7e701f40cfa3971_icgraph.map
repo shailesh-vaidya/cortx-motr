@@ -1,0 +1,9 @@
+<map id="mem_ep_to_pvt" name="mem_ep_to_pvt">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#ga0cec6f90a8d91dc75cff23ebe9347725" title="mem_xo_end_point_release" alt="" coords="168,5,352,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#ga82bb255731d56bb45bbf1626c298a783" title="mem_ep_create" alt="" coords="203,56,317,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#gaa8ec4051fefe4f15ca38fb43c8ef4023" title="mem_ep_equals_addr" alt="" coords="185,107,335,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#gae96f00294d40aa58d2a6d4dc4ae0574b" title="mem_eps_are_equal" alt="" coords="400,157,543,184"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#ga4dfd25b5026c57bc6fd83eb31606b5b4" title="mem_find_remote_tm" alt="" coords="591,183,739,209"/>
+<area shape="rect" id="node7" href="$db/d8b/group__bulkmem.html#gaaf738329dbe32ce09494cc122e4a7612" title="mem_desc_create" alt="" coords="195,259,325,285"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#ga213232090de86f4b51184aab94331632" title="mem_ep_invariant" alt="" coords="196,309,324,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="idx_query_del" name="idx_query_del">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="347,31,421,57"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#a89928b1fb7a02568d3b1d8e25de1491d" title="idx_bufvec_alloc" alt="" coords="156,31,275,57"/>
+<area shape="rect" id="node4" href="$d8/d84/st__misc_8c.html#a79defe9fd0a25c6cb95dcf18bb2bf1dd" title="generate_random" alt="" coords="323,93,445,120"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a82031dfeaf9ff367d707bd9996476dbd" title="idx_pick_keys" alt="" coords="163,81,268,108"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="349,169,419,196"/>
+<area shape="rect" id="node7" href="$da/dbb/st_2idx_8c.html#ae34ab2553374eef9a059b5ce81d847c7" title="idx_bufvec_free" alt="" coords="158,233,273,260"/>
+</map>

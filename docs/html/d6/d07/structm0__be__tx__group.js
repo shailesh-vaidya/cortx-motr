@@ -1,0 +1,28 @@
+var structm0__be__tx__group =
+[
+    [ "tg_cfg", "d6/d07/structm0__be__tx__group.html#aa49355e9b3ebac958dd80fc3b9811288", null ],
+    [ "tg_close_deadline", "d6/d07/structm0__be__tx__group.html#a79513c419a94f8e7a5d9871f71e5ec98", null ],
+    [ "tg_close_timer", "d6/d07/structm0__be__tx__group.html#adc7debc086a946d95e5c87bf6aeae791", null ],
+    [ "tg_close_timer_arm", "d6/d07/structm0__be__tx__group.html#a0467451d06d56b957a42f13c6747e50b", null ],
+    [ "tg_close_timer_disarm", "d6/d07/structm0__be__tx__group.html#a943b36690ac006db4747fbbcb2f37c85", null ],
+    [ "tg_domain", "d6/d07/structm0__be__tx__group.html#ab43da25c1c742eb5bc1680add4b2a749", null ],
+    [ "tg_engine", "d6/d07/structm0__be__tx__group.html#a54cdb67c7ad415b398e9b795621ff219", null ],
+    [ "tg_engine_linkage", "d6/d07/structm0__be__tx__group.html#a5043817ab6c6c0110bc78c9f48511d5d", null ],
+    [ "tg_fom", "d6/d07/structm0__be__tx__group.html#a7bbbf32ca6482bb51ee11825e138cf61", null ],
+    [ "tg_log", "d6/d07/structm0__be__tx__group.html#a9f75072fee2fedd44766d6a4e47402fd", null ],
+    [ "tg_log_reserved", "d6/d07/structm0__be__tx__group.html#a8f72ffad52da33e79d28fa16ae636572", null ],
+    [ "tg_magic", "d6/d07/structm0__be__tx__group.html#a068a9c2ed8b045404eb210340d86b6e9", null ],
+    [ "tg_merger", "d6/d07/structm0__be__tx__group.html#aa007035a6ca2605460ce08374237abaa", null ],
+    [ "tg_nr_unclosed", "d6/d07/structm0__be__tx__group.html#a0d4fb54fc3a20e0a446e4fe4d782664c", null ],
+    [ "tg_nr_unstable", "d6/d07/structm0__be__tx__group.html#a27e0f10d134b628b6a41a28f7cbf4a9b", null ],
+    [ "tg_od", "d6/d07/structm0__be__tx__group.html#a9fc4b403de7d6db2d21b6923670a95ae", null ],
+    [ "tg_payload_prepared", "d6/d07/structm0__be__tx__group.html#a2e7ebde670b02466183b5feda01265dd", null ],
+    [ "tg_recovering", "d6/d07/structm0__be__tx__group.html#a2ada07a2cccc7c40592b73326f9cdd9d", null ],
+    [ "tg_reg_area", "d6/d07/structm0__be__tx__group.html#aa6afeff43b0d7c7a315775c27c52dce7", null ],
+    [ "tg_rtxs", "d6/d07/structm0__be__tx__group.html#a467b4f78225c47540d7d863fb63fe37d", null ],
+    [ "tg_size", "d6/d07/structm0__be__tx__group.html#abad32a0749cdd52ee924d0c6b635f27e", null ],
+    [ "tg_state", "d6/d07/structm0__be__tx__group.html#a52d10ab58c3048f3d167a53cbc592693", null ],
+    [ "tg_txs", "d6/d07/structm0__be__tx__group.html#ac783c41d906cfe4b7e17c6e150b4e2a3", null ],
+    [ "tg_txs_recovering", "d6/d07/structm0__be__tx__group.html#aaaf3ed870ffce9089f086c6503da6ef4", null ],
+    [ "tg_used", "d6/d07/structm0__be__tx__group.html#a44318f4cd7e12be81f2af18466eed36f", null ]
+];

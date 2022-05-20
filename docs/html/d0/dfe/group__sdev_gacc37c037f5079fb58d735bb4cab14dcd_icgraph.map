@@ -1,0 +1,9 @@
+<map id="storage_devs_is_locked" name="storage_devs_is_locked">
+<area shape="rect" id="node2" href="$d0/dfe/group__sdev.html#ga3ccec1f9c82512ace070b176081a4585" title="m0_storage_devs_locks\l_disable" alt="" coords="229,5,392,47"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#gae93d0a93b96e46a2db4b99e2da5e9051" title="m0_storage_devs_find\l_by_cid" alt="" coords="234,71,387,112"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="453,137,615,163"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga0ac68c06f7d1dac899812353cdc54c1d" title="storage_dev_update\l_by_conf" alt="" coords="663,172,801,213"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga8f1646121c10e0e1fbb73c979880d9a0" title="storage_devs_conf_refresh" alt="" coords="849,209,1028,235"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#gac0ac8aabf350fbdb3371277a03487251" title="m0_storage_devs_find\l_by_dom" alt="" coords="234,289,387,331"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#ga7ea5c44dc45ddc659676989760048503" title="m0_storage_devs_fdatasync" alt="" coords="216,355,405,382"/>
+</map>

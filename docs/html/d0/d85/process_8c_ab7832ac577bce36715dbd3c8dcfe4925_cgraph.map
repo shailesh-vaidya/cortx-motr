@@ -1,0 +1,10 @@
+<map id="process_decode" name="process_decode">
+<area shape="rect" id="node2" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="177,5,288,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="343,31,419,57"/>
+<area shape="rect" id="node4" href="$d0/d85/process_8c.html#a311b2ffe157a6fe94fe9ca983abf2816" title="_bitmap_width" alt="" coords="179,107,286,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#ga342ec39b30a5636d85c307fd615bc78b" title="m0_bitmap_load" alt="" coords="174,157,291,184"/>
+<area shape="rect" id="node6" href="$d8/d64/group__buf.html#ga1eeecff1ad43b9b294e36e1a54605fca" title="m0_buf_strdup" alt="" coords="179,208,287,235"/>
+<area shape="rect" id="node7" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="177,259,288,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="347,335,414,361"/>
+<area shape="rect" id="node9" href="$df/d59/group__conf__dir.html#gab086091155a03f0b3ce88e9d07c6bed7" title="m0_conf_dir_new" alt="" coords="171,360,295,387"/>
+</map>

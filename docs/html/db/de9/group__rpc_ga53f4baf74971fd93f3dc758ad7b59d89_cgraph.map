@@ -1,0 +1,14 @@
+<map id="frm_balance" name="frm_balance">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga02c962c370662ed0e0d63738ab038ffd" title="frm_rmachine_is_locked" alt="" coords="147,5,309,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga3fc3300df455f699aeb4d364c63229f3" title="frm_rmachine" alt="" coords="392,31,493,57"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga2124b5ee88d7b1754e8b6dbd18260b4f" title="frm_invariant" alt="" coords="394,157,491,184"/>
+<area shape="rect" id="node5" href="$df/dca/lib_2misc_8c.html#af814f494803636e6c66124506fc61f56" title="m0_bool_to_str" alt="" coords="173,157,283,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gab6f3fda22d1776d4e6f8538ab3e5182d" title="frm_is_ready" alt="" coords="179,208,277,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa31da58e7b9b967e25676b5d701bc737" title="m0_rpc_packet_init" alt="" coords="161,309,295,336"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="398,335,487,361"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaf342b774eb4c0e5151d2d544bcf3f927" title="frm_fill_packet" alt="" coords="175,259,281,285"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga67e45d78e9fcbf5eb13f74d6abe235dd" title="m0_rpc_packet_is_empty" alt="" coords="357,512,528,539"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga1cd5d75d6ed19b39e3bd38b4bae218e4" title="m0_rpc_packet_fini" alt="" coords="161,411,295,437"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="193,512,263,539"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#ga3b2ff9a41da039ab6d3fa30a221cfb81" title="frm_packet_ready" alt="" coords="165,563,291,589"/>
+</map>

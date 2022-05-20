@@ -1,0 +1,36 @@
+<map id="m0_fop_reply_alloc" name="m0_fop_reply_alloc">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#a79c10a0c7c0c11a421762bc1d97de840" title="cas_fom_create" alt="" coords="220,5,335,32"/>
+<area shape="rect" id="node3" href="$db/d2e/group___s_n_s_c_m_s_w.html#ga7980160ee72aded0c80c610afb6033dc" title="sns_rebalance_sw_fom\l_create" alt="" coords="198,57,357,98"/>
+<area shape="rect" id="node4" href="$db/d2e/group___s_n_s_c_m_s_w.html#ga28c411f2002343f2f052b260257fed0d" title="sns_repair_sw_fom_create" alt="" coords="188,123,367,149"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga8a412f1df6e78e0266bdea27fe961257" title="m0_trigger_fom_create" alt="" coords="200,173,355,200"/>
+<area shape="rect" id="node6" href="$df/d1e/group__confd__dfspec.html#gabfd605b0e3ec07bc790eee5f2b623c82" title="m0_confd_fom_create" alt="" coords="202,224,353,251"/>
+<area shape="rect" id="node7" href="$df/db4/group__spiel__foms.html#ga8cbb75b379e4fa2ac1e58a6ca7a1ca80" title="m0_conf_flip_fom_create" alt="" coords="193,275,361,301"/>
+<area shape="rect" id="node8" href="$d4/d89/dtm0_2fop_8c.html#a9019e31a772947311cb8181753d1944f" title="dtm0_fom_create" alt="" coords="216,325,339,352"/>
+<area shape="rect" id="node9" href="$df/db4/group__spiel__foms.html#ga66b20ef71bbbcfb0825af8324d42e541" title="m0_conf_load_fom_create" alt="" coords="190,376,365,403"/>
+<area shape="rect" id="node10" href="$d9/de6/group__console.html#ga444470b44a1e73574facc46d751e0c69" title="console_fom_create" alt="" coords="208,427,347,453"/>
+<area shape="rect" id="node11" href="$da/d52/dix_2cm_2rebalance_2rebalance__cp__onwire_8c.html#a88d687a0d407c75fd338add235e5c785" title="dix_rebalance_cp_fom\l_create" alt="" coords="201,478,353,519"/>
+<area shape="rect" id="node12" href="$d0/d61/sns_2cm_2rebalance_2rebalance__cp__onwire_8c.html#ad6ab84a3ffcf8fbfadde75dfae87f19c" title="rebalance_cp_fom_create" alt="" coords="192,544,363,571"/>
+<area shape="rect" id="node13" href="$dd/d33/group__dix.html#gab2aa8989e57097fee4aec1b2403b9bec" title="dix_rebalance_sw_fom\l_create" alt="" coords="200,595,355,637"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#gaa3cd2d8de15dd71b10d035f0907ade84" title="dix_repair_sw_fom_create" alt="" coords="190,661,365,688"/>
+<area shape="rect" id="node15" href="$d3/d3e/dix_2cm_2repair_2repair__cp__onwire_8c.html#a3ff4d212622f49e0f987bae8c4a0c040" title="dix_repair_cp_fom_create" alt="" coords="192,712,363,739"/>
+<area shape="rect" id="node16" href="$d5/dd5/sns_2cm_2repair_2repair__cp__onwire_8c.html#a8b0cd575d128d33bb95cacaa1bb637b6" title="repair_cp_fom_create" alt="" coords="204,763,351,789"/>
+<area shape="rect" id="node17" href="$d2/dd9/rpc_2ub_2fops_8c.html#a20aea6fe26da81f44693e4de16a4a656" title="ub_req_fom_tick" alt="" coords="218,813,337,840"/>
+<area shape="rect" id="node18" href="$d0/def/group__fis-dlspec.html#ga7b7e2fcde6c23fffc4e116977257193f" title="fi_command_fom_create" alt="" coords="195,864,360,891"/>
+<area shape="rect" id="node19" href="$d1/d59/group__fom.html#ga1288b2f49d0cbcdc8084241f0798a3e3" title="generic_reply_build" alt="" coords="211,915,344,941"/>
+<area shape="rect" id="node20" href="$d6/d9c/note__foms_8c.html#ad4fe9daf3803ed06d8863767595d4b44" title="ha_state_set_fom_create" alt="" coords="193,965,362,992"/>
+<area shape="rect" id="node21" href="$db/d1f/cob__foms_8h.html#a3e4b60834d9b1ed227976929813b6a62" title="m0_cob_fom_create" alt="" coords="207,1016,347,1043"/>
+<area shape="rect" id="node22" href="$d9/dc2/group__io__foms.html#ga9a64af006d04431583d77289fb671b2c" title="m0_io_fom_cob_rw_create" alt="" coords="188,1067,367,1093"/>
+<area shape="rect" id="node23" href="$d8/dec/isc_8c.html#a971ae3c43b137bf9e5593bdfee420fd3" title="isc_fom_create" alt="" coords="222,1117,333,1144"/>
+<area shape="rect" id="node24" href="$da/df1/fsync__foms_8h.html#afc3ac2b4d399995df9eed8599eb02446" title="m0_fsync_req_fom_create" alt="" coords="189,1168,365,1195"/>
+<area shape="rect" id="node25" href="$d0/d3c/md__foms_8h.html#a6031b816dac884eee547703913f0fce6" title="m0_md_req_fom_create" alt="" coords="196,1219,359,1245"/>
+<area shape="rect" id="node26" href="$d5/d10/pool__foms_8c.html#a38000b2834192932469c1a02a2ec9cfa" title="poolmach_fom_create" alt="" coords="202,1269,353,1296"/>
+<area shape="rect" id="node27" href="$d5/d8c/group__reqh.html#ga426ccb64413a3e9daf6884cf53caf258" title="disallowed_fop_tick" alt="" coords="209,1320,345,1347"/>
+<area shape="rect" id="node28" href="$d7/d3a/fop__allow__ut_8c.html#a9f6de61ee4fa2866fc371789dcb790ce" title="fom_create" alt="" coords="234,1371,321,1397"/>
+<area shape="rect" id="node29" href="$dc/da4/group__stobio.html#ga61bf1b0bccacac8ff017752efae7f379" title="stob_io_fop_fom_create\l_helper" alt="" coords="197,1422,358,1463"/>
+<area shape="rect" id="node30" href="$d2/deb/group__rm.html#gae140cd5506b616d35749d3590a8cab32" title="request_fom_create" alt="" coords="209,1488,346,1515"/>
+<area shape="rect" id="node31" href="$d5/db1/ping__fom_8h.html#ad47da126e20d07f4e3eaaa5d2d896619" title="m0_fom_ping_state" alt="" coords="209,1539,345,1565"/>
+<area shape="rect" id="node32" href="$df/db4/group__rpc__session.html#ga7468bc2e87de14a7a7af684ec99aa50b" title="session_gen_fom_create" alt="" coords="194,1589,361,1616"/>
+<area shape="rect" id="node33" href="$d1/de2/at__ut_8c.html#a1e4004db92ee63b4a0e164cbc4d2776e" title="atfom_create" alt="" coords="228,1640,327,1667"/>
+<area shape="rect" id="node34" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga787624e7250e79c6619e73cf8e041e6a" title="sss_device_fom_create" alt="" coords="197,1691,357,1717"/>
+<area shape="rect" id="node35" href="$d9/dfb/cs__fop_8c.html#a60efc6e0fc854e8c8571d1c78576cdcd" title="cs_ds_req_fop_fom_create" alt="" coords="188,1741,367,1768"/>
+</map>

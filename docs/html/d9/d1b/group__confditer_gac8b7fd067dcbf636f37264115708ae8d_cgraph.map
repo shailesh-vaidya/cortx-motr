@@ -1,0 +1,10 @@
+<map id="m0_conf__diter_init" name="m0_conf__diter_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="224,5,300,32"/>
+<area shape="rect" id="node3" href="$d9/d1b/group__confditer.html#gaec47642103dc1c74af907db1ccf5ed7c" title="m0_conf_diter_lvl_init" alt="" coords="188,56,336,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="213,107,311,133"/>
+<area shape="rect" id="node5" href="$d9/d1b/group__confditer.html#ga0e39bb3abd1891498b32631c27aaada0" title="diter_chan_cb" alt="" coords="211,157,313,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="209,208,315,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="213,259,311,285"/>
+<area shape="rect" id="node8" href="$d9/d1b/group__confditer.html#gae27b8fc0396c804d8e5f503418c723f7" title="diter_invariant" alt="" coords="211,309,313,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="229,360,295,387"/>
+</map>

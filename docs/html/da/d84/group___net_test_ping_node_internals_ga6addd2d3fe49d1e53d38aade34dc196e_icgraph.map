@@ -1,0 +1,7 @@
+<map id="node_ping_buf_enqueue_recv" name="node_ping_buf_enqueue_recv">
+<area shape="rect" id="node2" href="$da/d84/group___net_test_ping_node_internals.html#ga0363a02fad4a4a1f8c45e3b908b00bd3" title="node_ping_client_cb2" alt="" coords="261,5,407,32"/>
+<area shape="rect" id="node3" href="$da/d84/group___net_test_ping_node_internals.html#gab5220b2a4ba8e0207a022b1c0fa60522" title="node_ping_client_handle" alt="" coords="468,56,632,83"/>
+<area shape="rect" id="node4" href="$da/d84/group___net_test_ping_node_internals.html#gad140866dfd616785995d5b674b577524" title="node_ping_client_recv_cb" alt="" coords="248,107,420,133"/>
+<area shape="rect" id="node5" href="$da/d84/group___net_test_ping_node_internals.html#gadfc7c55f71af76d5510b8db1b2cd6c64" title="node_ping_server_handle" alt="" coords="249,157,419,184"/>
+<area shape="rect" id="node6" href="$da/d84/group___net_test_ping_node_internals.html#ga530e84c8aee6587a120413b0ee131a2d" title="node_ping_rb_fill" alt="" coords="275,208,393,235"/>
+</map>

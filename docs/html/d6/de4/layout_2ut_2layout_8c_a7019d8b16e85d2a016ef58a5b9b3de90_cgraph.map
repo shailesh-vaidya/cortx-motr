@@ -1,0 +1,8 @@
+<map id="test_reg_unreg" name="test_reg_unreg">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#gaf632ada4e99f27410b406855d9f3b848" title="m0_layout_standard\l_types_unregister" alt="" coords="169,5,308,47"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga29118c55f8f7448b35e7fffbfd43d39c" title="m0_layout_domain_init" alt="" coords="161,71,316,98"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#gaf8456f5b0dfcc590be1fb06f14c84528" title="m0_layout_standard\l_types_register" alt="" coords="169,123,308,164"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#ga6e8dfc86eec7538d7069680f040c82b8" title="m0_layout_domain_fini" alt="" coords="161,189,316,215"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="204,239,273,266"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="194,290,283,317"/>
+</map>

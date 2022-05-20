@@ -1,0 +1,16 @@
+<map id="m0_rpc_packet_encode_using_cursor" name="m0_rpc_packet_encode_using_cursor">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="439,26,606,53"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga67e45d78e9fcbf5eb13f74d6abe235dd" title="m0_rpc_packet_is_empty" alt="" coords="213,51,384,78"/>
+<area shape="rect" id="node4" href="$dd/dc1/group__format.html#ga4d30f4095392dc864b6ff37123d73fed" title="m0_format_header_pack" alt="" coords="440,127,605,154"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae0536813ea2de6923a82ce44463b60f9" title="packet_header_encdec" alt="" coords="221,254,377,281"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="489,229,556,255"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gaf216f7ec16fd791438eabb10527219ad" title="m0_sm_id_get" alt="" coords="245,406,352,433"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaaf604fc4136fa5e29ed80ef59a001846" title="m0_rpc_item_xid_assign" alt="" coords="215,457,382,483"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga91060fe381595e9dd3855d5741e64992" title="m0_rpc_item_xid_min\l_update" alt="" coords="224,508,373,549"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="235,574,363,601"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga0f887b583281a64ae3ee020242218448" title="item_encode" alt="" coords="251,153,347,179"/>
+<area shape="rect" id="node12" href="$dd/dc1/group__format.html#ga31c6be6bba988ad05a7cea6ae9060118" title="m0_format_footer_generate" alt="" coords="432,330,613,357"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#ga1f3fdda70ec43a0bd95ab8e9531d3a74" title="packet_footer_encdec" alt="" coords="223,305,374,331"/>
+<area shape="rect" id="node14" href="$d0/d7f/group__vec.html#ga40940080b1488cdda7e4b2846eead25c" title="m0_bufvec_cursor_align" alt="" coords="217,675,380,702"/>
+<area shape="rect" id="node15" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="442,650,603,677"/>
+</map>

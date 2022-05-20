@@ -1,0 +1,17 @@
+<map id="run_server" name="run_server">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="155,5,294,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="169,56,281,83"/>
+<area shape="rect" id="node4" href="$d8/dd5/rpc__ping_8c.html#a6abb1968c01e756556922c35ce8927a3" title="int2str" alt="" coords="195,107,254,133"/>
+<area shape="rect" id="node5" href="$dd/d9e/cs__service_8c.html#a27e11c6faf30278c60f4a2fe337c58ab" title="m0_cs_default_stypes_init" alt="" coords="136,157,313,184"/>
+<area shape="rect" id="node6" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="193,208,257,235"/>
+<area shape="rect" id="node7" href="$d7/d3e/ping__fop_8c.html#a0c639b2f740f289f082f1830bb2b2456" title="m0_ping_fop_init" alt="" coords="165,259,285,285"/>
+<area shape="rect" id="node8" href="$d8/dd5/rpc__ping_8c.html#a2a1dae1897e64f388c92379ff7abc0c7" title="build_endpoint_addr" alt="" coords="156,309,293,336"/>
+<area shape="rect" id="node9" href="$db/d84/iterator__test_8c.html#a8f7f9aeb4ee1d37fb743d9d2b935d21f" title="fop_fini" alt="" coords="193,360,257,387"/>
+<area shape="rect" id="node10" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="154,411,295,437"/>
+<area shape="rect" id="node11" href="$d8/dd5/rpc__ping_8c.html#aa3a733bd18879cd0b8da0c84a64c6689" title="quit_dialog" alt="" coords="183,461,267,488"/>
+<area shape="rect" id="node12" href="$d8/dd5/rpc__ping_8c.html#a275d52e03f09108841bc84b346f87907" title="print_stats" alt="" coords="183,512,266,539"/>
+<area shape="rect" id="node13" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="165,563,284,589"/>
+<area shape="rect" id="node14" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="155,613,295,640"/>
+<area shape="rect" id="node15" href="$d7/d3e/ping__fop_8c.html#ac1f5696b6c743fe34dea50a51d4920a7" title="m0_ping_fop_fini" alt="" coords="165,664,285,691"/>
+<area shape="rect" id="node16" href="$dd/d9e/cs__service_8c.html#a1a15dc53dc91656462a8e23ef5289414" title="m0_cs_default_stypes_fini" alt="" coords="136,715,313,741"/>
+</map>

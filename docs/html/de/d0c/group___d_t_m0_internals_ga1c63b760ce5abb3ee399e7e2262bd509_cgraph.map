@@ -1,0 +1,7 @@
+<map id="m0_be_dtm0_log_clear" name="m0_be_dtm0_log_clear">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="246,5,361,32"/>
+<area shape="rect" id="node3" href="$db/de1/dtm0__log_8c.html#ac5f8d314ede54cc52b5da5ee935ee4d6" title="m0_dtm0_log_rec__invariant" alt="" coords="209,56,397,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gaaa6a908a4bd8de756d14c1e21ffc3aef" title="m0_dtm0_tx_desc_state_eq" alt="" coords="210,107,397,133"/>
+<area shape="rect" id="node5" href="$db/de1/dtm0__log_8c.html#a872aa3bf1df0f450f83df311435e10b3" title="log_rec_fini" alt="" coords="259,157,347,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="239,208,367,235"/>
+</map>

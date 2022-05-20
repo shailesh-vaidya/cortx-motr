@@ -1,0 +1,6 @@
+<map id="m0_trace_stats_update" name="m0_trace_stats_update">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="235,5,359,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga217a253d1b8ba93cbd1bac336d3c17b3" title="max" alt="" coords="274,56,321,83"/>
+<area shape="rect" id="node4" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="431,132,556,159"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#gac0e252a1669e258fcbbf04f7d3d21de3" title="m0_trace_logbuf_pos_get" alt="" coords="212,157,383,184"/>
+</map>

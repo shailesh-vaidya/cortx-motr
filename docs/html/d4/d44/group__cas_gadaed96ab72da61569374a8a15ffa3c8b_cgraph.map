@@ -1,0 +1,7 @@
+<map id="put_del_ver_case_verify" name="put_del_ver_case_verify">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#ga445461083311acf8487d0a3937155e22" title="outcome" alt="" coords="263,5,335,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga99b77aca1ba3ce1bd5f5824c84f9f49b" title="has_tombstones" alt="" coords="431,132,549,159"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga9a6542b094305cccadbdb79fc4601b51" title="has_values" alt="" coords="255,107,343,133"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#ga78c5418dc9762a5b7601ed63121010d7" title="has_versions" alt="" coords="250,157,349,184"/>
+<area shape="rect" id="node6" href="$d4/d44/group__cas.html#ga11ff9182d6a3a1e914bf8f4a578974a3" title="verify_version_properties" alt="" coords="216,208,383,235"/>
+</map>

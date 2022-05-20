@@ -1,0 +1,14 @@
+<map id="nlx_ping_client" name="nlx_ping_client">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="205,5,312,32"/>
+<area shape="rect" id="node3" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="209,56,308,83"/>
+<area shape="rect" id="node4" href="$de/dec/lnet_2st_2ping_8c.html#a195a60241fb798beb382141c84c071a3" title="nlx_ping_client_init" alt="" coords="193,107,325,133"/>
+<area shape="rect" id="node5" href="$de/dec/lnet_2st_2ping_8c.html#ad22f69ada6773f019a3a155d4f8dedbc" title="ping_print_interfaces" alt="" coords="187,157,330,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="221,208,296,235"/>
+<area shape="rect" id="node7" href="$de/dec/lnet_2st_2ping_8c.html#aa29b486d9e2999df29726ef62452087b" title="nlx_ping_client_msg\l_send_recv" alt="" coords="189,259,329,301"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="404,351,473,377"/>
+<area shape="rect" id="node9" href="$de/dec/lnet_2st_2ping_8c.html#a90803e285640bfb3403188535840d4f4" title="nlx_ping_client_passive_recv" alt="" coords="163,376,355,403"/>
+<area shape="rect" id="node10" href="$de/dec/lnet_2st_2ping_8c.html#adfc27bd9ed8e147867dc1f91eef5a4f6" title="nlx_ping_client_passive_send" alt="" coords="161,427,356,453"/>
+<area shape="rect" id="node11" href="$de/dec/lnet_2st_2ping_8c.html#abffd8a6fa73509cd6c4d4748dba3e525" title="nlx_ping_client_fini" alt="" coords="193,477,325,504"/>
+<area shape="rect" id="node12" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="209,528,308,555"/>
+<area shape="rect" id="node13" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="205,579,312,605"/>
+</map>

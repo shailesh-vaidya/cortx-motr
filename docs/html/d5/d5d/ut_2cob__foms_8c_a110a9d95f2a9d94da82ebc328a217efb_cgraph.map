@@ -1,0 +1,9 @@
+<map id="fom_create" name="fom_create">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#aed720a6c3d70a879c71ade467a950530" title="cob_op_fom_create" alt="" coords="143,5,279,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="151,56,270,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#gaa8d2269a41daa6b2913cf8b18eefbfcc" title="m0_fom_init" alt="" coords="164,107,257,133"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="329,132,479,159"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#gab9c9335821b84addf2bb7e73537dbd65" title="m0_fom_locality_inc" alt="" coords="140,208,281,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga47571d2d700dc2b5f276f5993a73c75e" title="m0_fom_sm_init" alt="" coords="151,259,270,285"/>
+<area shape="rect" id="node8" href="$d1/d12/group__fol.html#ga6ee0cdc7b06bb4d36e934a25bf23a5bb" title="m0_fol_rec_init" alt="" coords="155,309,266,336"/>
+</map>

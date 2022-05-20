@@ -1,0 +1,4 @@
+<map id="fdmi_service_stop" name="fdmi_service_stop">
+<area shape="rect" id="node2" href="$d0/d06/fdmi__sample__plugin_8c.html#a0bed65174e789a6eaaf0c1ff15efb453" title="fsp_init" alt="" coords="181,5,245,32"/>
+<area shape="rect" id="node3" href="$d0/d06/fdmi__sample__plugin_8c.html#abda48a7f23e6c4fb9218446c8aa6cb67" title="fsp_fini" alt="" coords="181,56,245,83"/>
+</map>

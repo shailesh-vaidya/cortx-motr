@@ -1,0 +1,14 @@
+<map id="m0_net_test_network_buf" name="m0_net_test_network_buf">
+<area shape="rect" id="node2" href="$d9/d9e/group___net_test_commands_d_f_s.html#ga267303fbdaad9163f717966c1f6ee6b1" title="m0_net_test_commands_send" alt="" coords="225,5,425,32"/>
+<area shape="rect" id="node3" href="$d9/d9e/group___net_test_commands_d_f_s.html#gadbec1cc50906a917313bfba98ebd6c23" title="m0_net_test_commands_recv" alt="" coords="227,56,424,83"/>
+<area shape="rect" id="node4" href="$de/d26/group___net_test_network_d_f_s.html#gaa51cff3411fb530491555812a2cad9a9" title="m0_net_test_network\l_buffer_dequeue" alt="" coords="252,107,399,149"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#gab49a6038d172af4015ea2fd63fffbe3e" title="network_bd_nr_add" alt="" coords="258,173,393,200"/>
+<area shape="rect" id="node6" href="$de/d26/group___net_test_network_d_f_s.html#gae34773d318d4e5ae959892e2b7d0f819" title="m0_net_test_network\l_bd_serialize" alt="" coords="473,191,620,233"/>
+<area shape="rect" id="node7" href="$de/d26/group___net_test_network_d_f_s.html#gae36d98ef49e452f578713596a2fb48e9" title="m0_net_test_network\l_buf_resize" alt="" coords="252,275,399,317"/>
+<area shape="rect" id="node8" href="$de/d26/group___net_test_network_d_f_s.html#ga9cbe9ee4ae1b99f78c15b0306c9e9bcf" title="m0_net_test_network\l_buf_fill" alt="" coords="252,341,399,382"/>
+<area shape="rect" id="node9" href="$d3/d88/ut_2network_8c.html#a61fc89502014500456c4d16e3c84be5f" title="net_buf_data_eq" alt="" coords="266,407,385,433"/>
+<area shape="rect" id="node10" href="$d3/d88/ut_2network_8c.html#a062be46ef68fad2dae924a28076c22d7" title="buf_desc_eq" alt="" coords="277,457,373,484"/>
+<area shape="rect" id="node11" href="$dd/da5/group___net_test_bulk_node_internals.html#ga1ce9c858367c25a0fdea1e9f5ed855d4" title="net_buf_bulk_get" alt="" coords="265,508,386,535"/>
+<area shape="rect" id="node12" href="$da/d84/group___net_test_ping_node_internals.html#ga1a6d87de08541cabc78256d3ad89c679" title="node_ping_timestamp_put" alt="" coords="238,559,413,585"/>
+<area shape="rect" id="node13" href="$da/d84/group___net_test_ping_node_internals.html#gac65b7663db1028b70404936ea9ce7c36" title="node_ping_timestamp_get" alt="" coords="238,609,413,636"/>
+</map>

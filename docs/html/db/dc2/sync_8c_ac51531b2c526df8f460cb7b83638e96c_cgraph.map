@@ -1,0 +1,10 @@
+<map id="sync_reply_process" name="sync_reply_process">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="200,5,331,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="217,56,314,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="195,107,335,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="227,157,303,184"/>
+<area shape="rect" id="node6" href="$db/dc2/sync_8c.html#a8ee33e66551ac4610eb76d88956f99e6" title="sync_fop_stx_update" alt="" coords="192,208,339,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="208,259,323,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="201,309,329,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="232,360,299,387"/>
+</map>

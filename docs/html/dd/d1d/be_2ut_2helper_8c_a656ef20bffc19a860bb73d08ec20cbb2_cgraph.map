@@ -1,0 +1,7 @@
+<map id="m0_be_ut_seg_allocate_addr" name="m0_be_ut_seg_allocate_addr">
+<area shape="rect" id="node2" href="$dd/d1d/be_2ut_2helper_8c.html#aa830f68b357eebb89b6cc7f504976ff6" title="be_ut_helper_init_once" alt="" coords="244,5,399,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="284,56,359,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#gaa7d753f616c52f2bd9fc85cf7b1dacf4" title="m0_pagesize_get" alt="" coords="259,107,383,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="264,157,379,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="257,208,385,235"/>
+</map>

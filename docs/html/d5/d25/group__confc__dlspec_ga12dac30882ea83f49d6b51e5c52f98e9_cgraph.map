@@ -1,0 +1,10 @@
+<map id="request_create" name="request_create">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga584f691edb49d1db92dc863a18ae5bb4" title="ctx_invariant" alt="" coords="182,5,278,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="161,56,299,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga851703c2c3070c74399d812bf88f8b17" title="confc_fop_alloc" alt="" coords="173,107,287,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="192,157,268,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga19254f362815fa432e6292ab221d54a7" title="m0_confc2sess" alt="" coords="173,208,287,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="181,259,279,285"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#gaa9e28638a731eed2bec52d3aaa5fcb5a" title="eop" alt="" coords="209,309,251,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="197,360,263,387"/>
+</map>

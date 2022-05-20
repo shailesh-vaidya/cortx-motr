@@ -1,0 +1,9 @@
+<map id="m0_cm_cp_buf_add" name="m0_cm_cp_buf_add">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#afcbd44181c1ea62dbb45b274fe7e76f5" title="test_cp_send_mismatch\l_epoch" alt="" coords="405,8,569,50"/>
+<area shape="rect" id="node3" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#adaa2b7376b4bc7d156db0e8ad443eddb" title="test_cp_send_recv_verify" alt="" coords="401,172,572,198"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga618ec79ee3ba6783b0b2298925f4fb95" title="m0_sns_cm_buf_attach" alt="" coords="192,92,353,118"/>
+<area shape="rect" id="node5" href="$d0/d80/group___c_p.html#ga9c9a1fe3e73c342440ec194b6294c57e" title="m0_cm_cp_buf_move" alt="" coords="197,142,348,169"/>
+<area shape="rect" id="node6" href="$de/d9e/cm_2ut_2cp_8c.html#a24ceab9071663c02f9abd6379c9b7893" title="cp_post" alt="" coords="239,193,307,220"/>
+<area shape="rect" id="node7" href="$d9/d5b/repair_2ut_2xform_8c.html#aede6aec72883ae1fb8f830eef0b0acdc" title="buffers_attach" alt="" coords="221,244,325,270"/>
+<area shape="rect" id="node8" href="$dc/da6/cp__common_8h.html#ab7b3cb91de34d6354898ad23c6c3a604" title="cp_prepare" alt="" coords="229,41,316,68"/>
+</map>

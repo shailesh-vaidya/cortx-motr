@@ -1,0 +1,10 @@
+<map id="io_spare_map" name="io_spare_map">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="197,41,293,68"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a488e33754485f299230b9f4c6168688c" title="layout_instance" alt="" coords="409,41,523,68"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a092ad16955304064bd8dd5655e5fd3cd" title="pdlayout_instance" alt="" coords="403,99,529,125"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a73df3b18adabcb5e9467bbd36454f507" title="file_to_fid" alt="" coords="206,295,285,321"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af91758c9dc568ee8b64c82f54b7ca5b0" title="m0t1fs_file_to_poolmach" alt="" coords="383,161,549,188"/>
+<area shape="rect" id="node7" href="$d7/d0c/parity__repair_8c.html#a696d145f546f789bf2aa2cab33594e73" title="m0_sns_repair_spare_map" alt="" coords="156,345,335,372"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="433,237,499,264"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa80f74daeb84c939558fd4f32c6f22b0" title="unit_state" alt="" coords="206,143,285,169"/>
+</map>

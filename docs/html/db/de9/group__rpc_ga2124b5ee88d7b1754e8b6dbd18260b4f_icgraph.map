@@ -1,0 +1,9 @@
+<map id="frm_invariant" name="frm_invariant">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga2d5f7b25d996fed5c4bad4cb2953b7da" title="m0_rpc_frm_init" alt="" coords="151,5,265,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga9960c080acf2a24c6fe5cdb9c768b8a3" title="m0_rpc_frm_fini" alt="" coords="151,56,265,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga3bf1052769410cf305bf2505167c4a21" title="m0_rpc_frm_enq_item" alt="" coords="468,183,619,209"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="313,208,407,235"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga9ec41705c5def9568760991f896f8777" title="m0_rpc_frm_run_formation" alt="" coords="455,233,632,260"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gac26d2f0ba5fe46a6470603c3a855a458" title="m0_rpc_frm_packet_done" alt="" coords="457,284,629,311"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaf342b774eb4c0e5151d2d544bcf3f927" title="frm_fill_packet" alt="" coords="155,157,261,184"/>
+</map>

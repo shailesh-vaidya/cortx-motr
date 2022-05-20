@@ -1,0 +1,7 @@
+<map id="balloc_group_work_put" name="balloc_group_work_put">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="220,5,335,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="213,56,341,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a356598c595f10a4aa299c7ceab75f3bf" title="balloc_group_write\l_credit" alt="" coords="212,107,343,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga664ca6b81055daa61ee9ec34f479295a" title="m0_be_tx_bulk_put" alt="" coords="210,173,345,200"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga1c927a21b3ea62e173f6498a94f3aeec" title="m0_be_tx_bulk_end" alt="" coords="208,224,347,251"/>
+</map>

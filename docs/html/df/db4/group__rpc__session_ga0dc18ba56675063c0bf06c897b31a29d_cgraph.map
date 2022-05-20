@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_terminate_sync" name="m0_rpc_conn_terminate_sync">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga5e60eacb678413b3d9969d827bccbfa9" title="m0_rpc_conn_terminate" alt="" coords="250,93,411,120"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="460,5,547,32"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="465,81,541,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="470,144,537,171"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga1639200f6eb9a63fdad2d647dc1cecd1" title="m0_rpc_conn_timedwait" alt="" coords="249,144,412,171"/>
+</map>

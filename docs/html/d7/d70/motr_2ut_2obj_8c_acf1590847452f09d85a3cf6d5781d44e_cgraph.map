@@ -1,0 +1,10 @@
+<map id="ut_test_m0__obj_layout_instance_build" name="ut_test_m0__obj_layout_instance_build">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="238,5,358,32"/>
+<area shape="rect" id="node3" href="$d7/d70/motr_2ut_2obj_8c.html#a0a9c951bed7afb5c7e2bdf3d3f3c3f65" title="ut_layout_domain_fill" alt="" coords="226,56,370,83"/>
+<area shape="rect" id="node4" href="$d7/d70/motr_2ut_2obj_8c.html#a58d879c0df277a971e56871e7984b564" title="ut_layout_init" alt="" coords="249,107,347,133"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="431,132,609,159"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#a4743068e33d77f4bd567db584560fc8a" title="m0__obj_layout_instance\l_build" alt="" coords="213,209,383,250"/>
+<area shape="rect" id="node7" href="$d7/d70/motr_2ut_2obj_8c.html#a9fb534c589aa9ab388ff36604bf65b07" title="ut_layout_fini" alt="" coords="249,275,347,301"/>
+<area shape="rect" id="node8" href="$d7/d70/motr_2ut_2obj_8c.html#aeedf470cb42bcac10a9d8b5486b58a1f" title="ut_layout_domain_empty" alt="" coords="215,325,381,352"/>
+<area shape="rect" id="node9" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="238,376,358,403"/>
+</map>

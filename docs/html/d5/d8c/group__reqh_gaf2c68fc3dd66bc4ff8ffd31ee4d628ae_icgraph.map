@@ -1,0 +1,6 @@
+<map id="m0_reqh_post_storage_fini_svcs_stop" name="m0_reqh_post_storage_fini_svcs_stop">
+<area shape="rect" id="node2" href="$d7/d93/mdservice_2ut_2mdstore_8c.html#accd2b6e71712d5b3683c70754cdd6722" title="test_fini" alt="" coords="269,5,337,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#gab65ebba36975558b4943afb927f55f00" title="cs_reqh_storage_fini" alt="" coords="231,56,374,83"/>
+<area shape="rect" id="node4" href="$d5/d8c/group__reqh.html#ga95dabdcac07beecafa49506e016bdc0e" title="m0_reqh_services_terminate" alt="" coords="208,107,397,133"/>
+<area shape="rect" id="node5" href="$d1/d8e/ut__rpc__machine_8h.html#a4bffc6b7c87bb26af9efda67c4bec60c" title="m0_ut_rpc_mach_fini" alt="" coords="229,157,376,184"/>
+</map>

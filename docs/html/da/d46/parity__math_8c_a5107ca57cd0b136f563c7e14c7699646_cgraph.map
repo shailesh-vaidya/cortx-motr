@@ -1,0 +1,11 @@
+<map id="ir_recover" name="ir_recover">
+<area shape="rect" id="node2" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="161,5,272,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="351,233,417,260"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="163,107,270,133"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="167,157,266,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga76bf6ba520361324e84244cec225549c" title="m0_bufvec_to_buf_copy" alt="" coords="135,208,299,235"/>
+<area shape="rect" id="node7" href="$da/d46/parity__math_8c.html#a3b0b4fd894c584cc3c3bdc768d2c4321" title="isal_encode_data_update" alt="" coords="132,309,301,336"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="349,335,419,361"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#gad82d74793518bb89c9b61abd16161a27" title="m0_buf_to_bufvec_copy" alt="" coords="135,259,299,285"/>
+<area shape="rect" id="node10" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="169,411,264,437"/>
+</map>

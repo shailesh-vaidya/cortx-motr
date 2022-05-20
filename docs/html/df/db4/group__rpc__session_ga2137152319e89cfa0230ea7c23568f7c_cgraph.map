@@ -1,0 +1,8 @@
+<map id="m0_rpc_session_reset" name="m0_rpc_session_reset">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="232,5,355,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="217,56,369,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="428,183,531,209"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="210,157,377,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="229,208,357,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="207,259,380,285"/>
+</map>

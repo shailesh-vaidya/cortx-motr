@@ -1,0 +1,8 @@
+<map id="test_state_query_fom_fini" name="test_state_query_fom_fini">
+<area shape="rect" id="node2" href="$d0/d66/group__stats__fop.html#ga0da088845e4332e31b9cce23fb169a8d" title="m0_stats_query_fop_get" alt="" coords="225,5,391,32"/>
+<area shape="rect" id="node3" href="$d0/d66/group__stats__fop.html#ga4fa088e848478bdbc994e887e5bdcd4d" title="m0_stats_query_rep\l_fop_get" alt="" coords="238,57,378,98"/>
+<area shape="rect" id="node4" href="$d3/dff/stats__srv_8c.html#ac13de4c6928254290f3f74e7cc36b863" title="stats_query_fom_fini" alt="" coords="237,123,379,149"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="251,173,365,200"/>
+<area shape="rect" id="node6" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="250,224,366,251"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="244,275,372,301"/>
+</map>

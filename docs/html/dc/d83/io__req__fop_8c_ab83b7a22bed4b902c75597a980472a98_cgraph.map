@@ -1,0 +1,24 @@
+<map id="ioreq_fop_release" name="ioreq_fop_release">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga07d2838afc35637b4b1116e97186ec95" title="m0_fop_rpc_machine" alt="" coords="187,5,334,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="399,107,513,133"/>
+<area shape="rect" id="node4" href="$d7/d08/group__tlist.html#gafb8a2b1155e0f1393794a5f59ae5bab9" title="m0_tlist_is_empty" alt="" coords="197,427,325,453"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="211,477,310,504"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="209,528,312,555"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga54b29f9e2a79f822933e9c7127961c50" title="m0_rpc_bulk_store_del\l_unqueued" alt="" coords="183,310,339,351"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="411,288,501,315"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="392,157,520,184"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gae930de5fe77b8e6a549802b724a42815" title="m0_rpc_bulk_store_del" alt="" coords="183,157,339,184"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="203,579,318,605"/>
+<area shape="rect" id="node12" href="$d3/de8/group__atomic.html#gad86e5a2fd8619a602ea98fc0cd98caa2" title="m0_atomic64_sub" alt="" coords="392,655,520,681"/>
+<area shape="rect" id="node13" href="$d3/de8/group__atomic.html#ga4ae2177e248e4c3f676d0e802dafd8e0" title="m0_atomic64_dec" alt="" coords="197,731,325,757"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="177,781,344,808"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="207,832,314,859"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="185,883,337,909"/>
+<area shape="rect" id="node17" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="196,933,325,960"/>
+<area shape="rect" id="node18" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="211,984,310,1011"/>
+<area shape="rect" id="node19" href="$db/de9/group__rpc.html#gaf80bc32fa31b96a5f3790b13a037a21b" title="m0_rpc_bulk_is_empty" alt="" coords="183,107,339,133"/>
+<area shape="rect" id="node20" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="221,1035,300,1061"/>
+<area shape="rect" id="node21" href="$dc/d83/io__req__fop_8c.html#a028a72aad56036bf96bf22c647a78efc" title="ioreq_fop_fini" alt="" coords="211,376,310,403"/>
+<area shape="rect" id="node22" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga862999a610d2b411e137f7f4c5226cec" title="m0_io_fop_fini" alt="" coords="207,1085,314,1112"/>
+<area shape="rect" id="node23" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="226,680,295,707"/>
+</map>

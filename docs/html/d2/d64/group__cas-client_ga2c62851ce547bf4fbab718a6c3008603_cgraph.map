@@ -1,0 +1,9 @@
+<map id="nreq_asmbl_prep" name="nreq_asmbl_prep">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="187,5,284,32"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#ga52c51d0e4d53a3cd3fd7f3739a97cf34" title="m0_rpc_at_init" alt="" coords="182,56,289,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga2a7d31cea75e0f6580581c9a5d8f1f88" title="creq_kv_buf_add" alt="" coords="175,107,296,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="197,157,273,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga3811156c9642154af76ce9c882985862" title="creq_recv_fini" alt="" coords="184,208,287,235"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#ga37e5e6a38e9218a1debb0a45bee464b3" title="fid_is_meta" alt="" coords="191,259,280,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="202,309,269,336"/>
+</map>

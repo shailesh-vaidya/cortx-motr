@@ -1,0 +1,10 @@
+<map id="rfom_debtor_subscribe" name="rfom_debtor_subscribe">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga0f16ce4d1bbc5beb48c1ebf0bde4504e" title="m0_rpc_item_remote\l_ep_addr" alt="" coords="223,5,367,47"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga33b9076472a483cf4bea77359a6cb999" title="m0_clink_is_armed" alt="" coords="228,71,363,98"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="431,173,497,199"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="240,173,351,199"/>
+<area shape="rect" id="node6" href="$de/df4/group__rm-ha.html#ga94630ddaeda4345ec94ff228311d62a3" title="m0_rm_ha_subscriber_init" alt="" coords="208,223,383,250"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="227,274,363,301"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="235,325,356,351"/>
+<area shape="rect" id="node9" href="$de/df4/group__rm-ha.html#ga4fb4a55c227eec9881bbb3312735acaf" title="m0_rm_ha_subscribe" alt="" coords="222,375,369,402"/>
+</map>

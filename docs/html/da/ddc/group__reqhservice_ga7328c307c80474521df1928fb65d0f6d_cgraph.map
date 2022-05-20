@@ -1,0 +1,11 @@
+<map id="m0_reqh_service_cancel_reconnect" name="m0_reqh_service_cancel_reconnect">
+<area shape="rect" id="node2" href="$de/d82/group__rpc__link.html#ga5b6b65d74a79d4952f5a7769437707fd" title="m0_rpc_link_end_point" alt="" coords="231,5,386,32"/>
+<area shape="rect" id="node3" href="$d8/d46/reqh__service__internal_8h.html#aa830acb4b40c557ac0f5ab7bbe7c0c12" title="reqh_service_ctx_sm_lock" alt="" coords="220,56,397,83"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga1848e8f77b3d99c9a334e205b9db66d4" title="reqh_service_context\l_invariant" alt="" coords="235,107,382,149"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#ga88ce2ded45346c2b5ad0fa7547ca6308" title="m0_reqh_service_ctx\l_is_connected" alt="" coords="235,173,382,214"/>
+<area shape="rect" id="node6" href="$d8/d46/reqh__service__internal_8h.html#a67442858f3fb92ab7ad809b5ad41b5c1" title="reqh_service_ctx_flag\l_is_set" alt="" coords="445,217,595,258"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gaeddb3439ca8c8339e207af5c4688cb17" title="m0_rpc_session_cancel" alt="" coords="227,289,390,316"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="475,304,565,331"/>
+<area shape="rect" id="node9" href="$da/ddc/group__reqhservice.html#ga70299ac49787c9da230c1690cbd52607" title="reqh_service_disconnect\l_locked" alt="" coords="225,391,392,433"/>
+<area shape="rect" id="node10" href="$d8/d46/reqh__service__internal_8h.html#aafb9880254f76e9b3077756e8622ae4a" title="reqh_service_ctx_sm\l_unlock" alt="" coords="235,457,382,498"/>
+</map>

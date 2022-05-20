@@ -1,0 +1,12 @@
+<map id="m0_pool_version_init_by_conf" name="m0_pool_version_init_by_conf">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga12285b5a998287a11b06a1cbefc93812" title="_nodes_count" alt="" coords="236,43,339,69"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="463,101,539,128"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="467,236,534,263"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga14c9ae05d60458667b7cc70c5fdb8732" title="m0_pool_version_init" alt="" coords="215,413,359,440"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga0ed5202d88839aa6b7b3e59c0a5180c3" title="pool_version_invariant" alt="" coords="425,439,576,465"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#gae7e1360c641a21e17a75b0efadcc8f02" title="m0_pool_version_device\l_map_init" alt="" coords="205,94,370,135"/>
+<area shape="rect" id="node8" href="$d8/dec/group__poolmach.html#gab67ed2eb3e57d16471616c78547170c8" title="m0_poolmach_init_by_conf" alt="" coords="197,160,377,187"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#gacfad4a5e1a7cacc327fd3a5a55a05c33" title="m0_poolmach_spare_build" alt="" coords="199,312,375,339"/>
+<area shape="rect" id="node10" href="$d9/d33/group__failure__domains.html#ga6eef06c1deefcc1c0da2ad43851bb4e2" title="m0_fd_tile_build" alt="" coords="229,363,345,389"/>
+<area shape="rect" id="node11" href="$d9/d33/group__failure__domains.html#ga1cdc41d7d9f5ea939005e501cf971818" title="m0_fd_tree_build" alt="" coords="227,211,348,237"/>
+</map>

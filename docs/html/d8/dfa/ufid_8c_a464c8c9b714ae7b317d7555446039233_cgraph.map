@@ -1,0 +1,8 @@
+<map id="m0_ufid_new" name="m0_ufid_new">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="335,58,411,85"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="162,33,277,59"/>
+<area shape="rect" id="node4" href="$d8/dfa/ufid_8c.html#a8260dfda17cdd68cc30d12be3e119378" title="ufid_seq_id_refresh" alt="" coords="152,83,287,110"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="339,109,406,135"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="155,185,283,211"/>
+<area shape="rect" id="node7" href="$d8/dfa/ufid_8c.html#a0a50dc68be13870099ba72406c57c882" title="ufid_to_id128" alt="" coords="170,235,269,262"/>
+</map>

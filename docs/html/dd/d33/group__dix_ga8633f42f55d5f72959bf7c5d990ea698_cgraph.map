@@ -1,0 +1,5 @@
+<map id="m0_dix_layout_fini" name="m0_dix_layout_fini">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="184,5,347,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga29c80e8d71855cfeace3c8d6f6ced055" title="m0_layout_put" alt="" coords="212,56,319,83"/>
+<area shape="rect" id="node4" href="$df/d01/group__pdclust.html#gaf6469d781786f85efe0a4152b677aa9b" title="m0_pdl_to_layout" alt="" coords="203,107,327,133"/>
+</map>

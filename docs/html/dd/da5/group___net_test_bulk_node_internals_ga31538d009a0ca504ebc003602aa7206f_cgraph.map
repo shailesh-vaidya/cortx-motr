@@ -1,0 +1,6 @@
+<map id="client_process_queued_bulk" name="client_process_queued_bulk">
+<area shape="rect" id="node2" href="$da/d64/group___net_test_ringbuf_internals.html#ga0007258049234ad1644bc87f35d4124c" title="m0_net_test_ringbuf_nr" alt="" coords="240,5,399,32"/>
+<area shape="rect" id="node3" href="$da/d64/group___net_test_ringbuf_internals.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="447,107,615,133"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#ga87d5f0bbb2e9c41f2090406bb0bb1829" title="client_server_index" alt="" coords="252,107,387,133"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#gabc2ea6bf9c542380c53a434cc1204017" title="client_bds_send" alt="" coords="261,157,377,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_locality_get" name="m0_locality_get">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3c2709e819250a6aba657d075c5a719e" title="m0_addb2_force_all" alt="" coords="184,5,323,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga500ae281e5037148959dd7671a69149d" title="m0_be_tx_bulk_init" alt="" coords="186,56,321,83"/>
+<area shape="rect" id="node4" href="$df/d22/conf_2helpers_8h.html#aa406086d2c5d55e230ec7423b4e51803" title="m0_confc_ready_cb" alt="" coords="184,107,323,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="193,157,313,184"/>
+<area shape="rect" id="node6" href="$d0/d11/lib_2ut_2main_8c.html#a0e06f56fdd4a95d9eb124e08b75c0333" title="test_locality" alt="" coords="388,183,480,209"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#gae357b215b0b438f0ca32ba1234e39b79" title="reqh_service_ctx_rlink_cb" alt="" coords="167,259,340,285"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#gaad33e944f2875f332646229b9c6990d7" title="reqh_service_ctx_destroy\l_if_abandoned" alt="" coords="168,310,339,351"/>
+<area shape="rect" id="node9" href="$d1/dff/group__stobperf.html#gab2f87d2f79d48722c6ba8b5976bc4217" title="stob_perf_timer_cb" alt="" coords="187,376,320,403"/>
+</map>

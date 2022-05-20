@@ -1,0 +1,11 @@
+<map id="m0_conf_process2service_get" name="m0_conf_process2service_get">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#a18a3841e04e943dddbfbc1e440c47762" title="confc_obj_get" alt="" coords="286,5,389,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="471,56,537,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="279,107,396,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="299,157,375,184"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="252,208,423,235"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="266,259,409,285"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="273,309,401,336"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="273,360,401,387"/>
+<area shape="rect" id="node10" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="286,411,389,437"/>
+</map>

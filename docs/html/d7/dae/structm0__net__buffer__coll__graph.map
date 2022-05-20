@@ -1,0 +1,11 @@
+<map id="m0_net_buffer" name="m0_net_buffer">
+<area shape="rect" id="node2" href="$d4/d52/structm0__net__buffer__pool.html" title="{m0_net_buffer_pool\n||}" alt="" coords="557,587,691,664"/>
+<area shape="rect" id="node12" href="$d4/d78/structm0__net__transfer__mc.html" title="{m0_net_transfer_mc\n||}" alt="" coords="724,815,865,892"/>
+<area shape="rect" id="node5" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="732,373,847,451"/>
+<area shape="rect" id="node11" href="$d2/d80/structm0__net__end__point.html" title="{m0_net_end_point\n||}" alt="" coords="887,955,1015,1032"/>
+<area shape="rect" id="node9" href="$d0/db8/structm0__net__buf__desc.html" title="{m0_net_buf_desc\n||}" alt="" coords="5,480,131,557"/>
+<area shape="rect" id="node6" href="$d9/de0/structm0__tlink.html" title="{m0_tlink\n||}" alt="" coords="1401,145,1471,223"/>
+<area shape="rect" id="node7" href="$d4/d0a/structm0__list__link.html" title="{m0_list_link\n||}" alt="" coords="1391,5,1481,83"/>
+<area shape="rect" id="node13" href="$d8/d8d/structm0__net__buffer__callbacks.html" title="{m0_net_buffer_callbacks\n||}" alt="" coords="1119,587,1286,664"/>
+<area shape="rect" id="node14" href="$da/d2c/structm0__bufvec.html" title="{m0_bufvec\n||}" alt="" coords="1749,955,1835,1032"/>
+</map>

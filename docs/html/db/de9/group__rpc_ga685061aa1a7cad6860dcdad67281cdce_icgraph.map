@@ -1,0 +1,5 @@
+<map id="frm_is_idle" name="frm_is_idle">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga2124b5ee88d7b1754e8b6dbd18260b4f" title="frm_invariant" alt="" coords="139,5,236,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gac26d2f0ba5fe46a6470603c3a855a458" title="m0_rpc_frm_packet_done" alt="" coords="284,31,456,57"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gafc2d206690b3e288dc1ce7ff6c2b5cbe" title="frm_remove" alt="" coords="142,107,233,133"/>
+</map>

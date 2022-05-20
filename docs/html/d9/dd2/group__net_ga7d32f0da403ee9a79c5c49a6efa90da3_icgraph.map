@@ -1,0 +1,12 @@
+<map id="m0_net_buffer_deregister" name="m0_net_buffer_deregister">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#gacee3366ac3ea4c57c35ec88b263a3159" title="buffer_remove" alt="" coords="251,5,355,32"/>
+<area shape="rect" id="node3" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a1eb8ef692776c05aa0ffa0e2008be7c5" title="ping_fini" alt="" coords="267,56,338,83"/>
+<area shape="rect" id="node4" href="$d3/d50/bulk__mem__ut_8c.html#aaf3c762585b20b0104d3ae57a6f88afb" title="test_failure" alt="" coords="259,107,346,133"/>
+<area shape="rect" id="node5" href="$df/df1/klnet__ut_8c.html#af394cd480709585ec31e5e0b69a4b710" title="ktest_buf_reg" alt="" coords="252,157,353,184"/>
+<area shape="rect" id="node6" href="$d2/d68/lnet__ut_8c.html#a6e84e8ac42832d81377865378c4dd282" title="test_bulk_passive_send" alt="" coords="221,208,384,235"/>
+<area shape="rect" id="node7" href="$d2/d68/lnet__ut_8c.html#a41d302e88c1ead323ffc473deef1fdd9" title="test_bulk_passive_recv" alt="" coords="223,259,382,285"/>
+<area shape="rect" id="node8" href="$df/d38/group___net_test_network_internals.html#ga3926a7739955042d4be369b79a29d4db" title="net_test_buf_fini" alt="" coords="243,309,362,336"/>
+<area shape="rect" id="node9" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="245,360,360,387"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga52a7381b0345f4b0e26127bc33aa3d4c" title="rpc_bulk_buf_deregister" alt="" coords="223,411,383,437"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga7e4aea9ed695d7b20109b9ba8ba80041" title="net_buffer_free" alt="" coords="249,461,357,488"/>
+</map>

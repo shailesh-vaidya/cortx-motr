@@ -1,0 +1,16 @@
+<map id="mem_tm_to_pvt" name="mem_tm_to_pvt">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#ga40c963907d4a07942052cff19c6cb7c3" title="mem_wf_active_bulk" alt="" coords="175,5,321,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gaad376667dea0f3c969e95125189ea2c3" title="mem_wf_msg_send" alt="" coords="179,56,317,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga843d12c66b2e2bbfda6558e7665a60a6" title="mem_wf_state_change" alt="" coords="169,107,327,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga2574205a220ed4b20504b49f52272402" title="mem_post_error" alt="" coords="190,157,306,184"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#ga09cb1ed4d5b619af17cfd047b4b18e8a" title="mem_xo_tm_worker" alt="" coords="178,259,318,285"/>
+<area shape="rect" id="node7" href="$db/d8b/group__bulkmem.html#ga4dea63f05381039efd529d45a4ea7016" title="mem_xo_tm_start" alt="" coords="389,259,515,285"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#gab72e9884ac5e58f9f730c4ec5257ccd3" title="mem_tm_invariant" alt="" coords="183,461,313,488"/>
+<area shape="rect" id="node9" href="$db/d8b/group__bulkmem.html#ga27b13e48eb50f66be75551a41296247e" title="mem_xo_buf_add" alt="" coords="389,309,515,336"/>
+<area shape="rect" id="node10" href="$db/d8b/group__bulkmem.html#ga3822e07349181a0d2e1612d4e47909c7" title="mem_xo_buf_del" alt="" coords="391,360,513,387"/>
+<area shape="rect" id="node11" href="$db/d8b/group__bulkmem.html#ga56e50c8739fca14332939695434e306f" title="mem_xo_tm_init" alt="" coords="393,411,511,437"/>
+<area shape="rect" id="node12" href="$db/d8b/group__bulkmem.html#ga5f773289cdaf36b6c420ba88898a5b5e" title="mem_xo_tm_fini" alt="" coords="393,463,511,489"/>
+<area shape="rect" id="node13" href="$db/d8b/group__bulkmem.html#ga5694b37a29edabaffa72225e7709abdc" title="m0_net_bulk_mem_tm\l_set_num_threads" alt="" coords="375,517,529,558"/>
+<area shape="rect" id="node14" href="$db/d8b/group__bulkmem.html#ga9a4e7cd079f530df32d44777bb7743ef" title="m0_net_bulk_mem_tm\l_get_num_threads" alt="" coords="375,587,529,629"/>
+<area shape="rect" id="node15" href="$db/d8b/group__bulkmem.html#gaeb46edd7c09569fa3dbdc8629e24ba6e" title="mem_xo_tm_stop" alt="" coords="389,663,515,689"/>
+</map>

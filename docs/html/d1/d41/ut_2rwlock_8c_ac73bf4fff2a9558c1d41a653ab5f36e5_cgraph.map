@@ -1,0 +1,6 @@
+<map id="test_rw_wstarve" name="test_rw_wstarve">
+<area shape="rect" id="node2" href="$d1/d41/ut_2rwlock_8c.html#aa1e8182ba266b8fc7a5eedeb64936bd2" title="rstarver" alt="" coords="194,5,261,32"/>
+<area shape="rect" id="node3" href="$d1/d41/ut_2rwlock_8c.html#a4a0e86a6080e245bb0983db4c3c56ca6" title="wcheck" alt="" coords="194,56,261,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="172,107,283,133"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="174,157,281,184"/>
+</map>

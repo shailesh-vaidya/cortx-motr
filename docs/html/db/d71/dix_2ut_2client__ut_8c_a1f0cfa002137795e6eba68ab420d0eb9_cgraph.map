@@ -1,0 +1,7 @@
+<map id="ut_service_fini" name="ut_service_fini">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gadc747bac71f4ce12be3fc73eed9b7637" title="m0_dix_cli_lock" alt="" coords="172,5,287,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gac1f6c7b019fc6d3945033cc3b399a267" title="m0_dix_cli_stop" alt="" coords="171,56,287,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga959d696bbd2d6c64fb9af94a2ae8ada9" title="m0_dix_cli_unlock" alt="" coords="165,107,294,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gadbfead1f18bd92998dffdc9087edfceb" title="m0_dix_cli_fini_lock" alt="" coords="160,157,299,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#aba3aa98362256c541a365cd9f889f340" title="dixc_ut_fini" alt="" coords="185,208,273,235"/>
+</map>

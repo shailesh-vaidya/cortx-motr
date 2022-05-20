@@ -1,0 +1,5 @@
+<map id="spiel_proc_item_postprocess" name="spiel_proc_item_postprocess">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#ga7d123884a141cef97b3f0f02de6dccdb" title="spiel_proc_item_disconnect_cb" alt="" coords="244,5,448,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga4ee27d08d512b55c1aa8ff47e04c7075" title="spiel_proc_item_rlink_cb" alt="" coords="263,56,429,83"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga840fa920ed07667b8ecdb87c56895cce" title="spiel_process__health\l_async" alt="" coords="496,74,647,115"/>
+</map>

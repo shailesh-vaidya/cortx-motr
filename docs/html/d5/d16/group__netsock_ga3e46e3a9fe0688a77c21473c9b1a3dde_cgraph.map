@@ -1,0 +1,13 @@
+<map id="sock_init" name="sock_init">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga78251ee15fee7c0c5da7f01379891e47" title="ep_ma" alt="" coords="443,40,504,66"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="280,141,383,168"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="293,254,369,281"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="287,470,376,497"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga429999edeace62099ef3af8bd784d97d" title="mover_init" alt="" coords="133,445,215,472"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga906821f5f2486bc82055c4e23550f9b9" title="sock_init_fd" alt="" coords="128,344,220,370"/>
+<area shape="rect" id="node8" href="$d5/d16/group__netsock.html#ga0551d085ef008b4fac533739771a1eb7" title="addr_encode" alt="" coords="283,318,379,345"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="298,394,365,421"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="268,192,395,218"/>
+<area shape="rect" id="node11" href="$d5/d16/group__netsock.html#ga85d8da4dc83ae2334a7422a46b355949" title="sock_done" alt="" coords="131,90,217,117"/>
+<area shape="rect" id="node12" href="$d5/d16/group__netsock.html#gadbe2464eb0dd92b5b19e5f2cfe21b715" title="sock_invariant" alt="" coords="278,40,385,66"/>
+</map>

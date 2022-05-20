@@ -1,0 +1,5 @@
+<map id="nw_xfer_request_init" name="nw_xfer_request_init">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="209,5,289,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abfe42dac8c4bfb773f727e2fb629d1e6" title="io_request_init" alt="" coords="196,56,303,83"/>
+<area shape="rect" id="node4" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a5a0bd22e448f85edf59192ea3e3cd2c0" title="target_ioreq_test" alt="" coords="351,81,469,108"/>
+</map>

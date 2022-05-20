@@ -1,0 +1,7 @@
+<map id="m0_rm_request_out" name="m0_rm_request_out">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga5cee28ba9c8690be93de940f3ee0847c" title="revoke_send" alt="" coords="191,5,287,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga3b82c83a419d301c9dce0b79f3b152b9" title="borrow_send" alt="" coords="191,56,287,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga1cfc08defeb8139e02aafb307cb5390a" title="cancel_send" alt="" coords="191,107,286,133"/>
+<area shape="rect" id="node5" href="$d0/d11/ut_2rm__fops_8c.html#abc5f90605217828a5ba1408fcdf74e2f" title="reply_test" alt="" coords="199,157,278,184"/>
+<area shape="rect" id="node6" href="$d0/d11/ut_2rm__fops_8c.html#a6d369b616f28762eea7209f21e970b6a" title="request_test" alt="" coords="191,208,286,235"/>
+</map>

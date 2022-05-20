@@ -1,0 +1,9 @@
+<map id="test_rpclib" name="test_rpclib">
+<area shape="rect" id="node2" href="$d7/da0/clnt__srv__ctx_8c.html#a15466eefb188bead757445784bc7a940" title="sctx_reset" alt="" coords="165,5,248,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="136,56,277,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="139,107,275,133"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#gad22b9c383b5917817e309f9b4db34822" title="server_fini" alt="" coords="165,157,248,184"/>
+<area shape="rect" id="node6" href="$da/de8/rpclib__ut_8c.html#ae2c708c6f5ae404882186b6302636c86" title="send_fop" alt="" coords="169,208,244,235"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="139,259,274,285"/>
+<area shape="rect" id="node8" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="137,309,277,336"/>
+</map>

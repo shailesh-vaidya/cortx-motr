@@ -1,0 +1,9 @@
+<map id="m0_ctg_dead_index" name="m0_ctg_dead_index">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#a5c1139285d87df20b0ea61793b1b7ee9" title="cas_fom_cleanup" alt="" coords="219,5,343,32"/>
+<area shape="rect" id="node3" href="$d0/d60/cas_2service_8c.html#a5f0dec0408898b2113293d6d3cc52321" title="cas_fom_tick" alt="" coords="417,56,517,83"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#aa06cb589fc85ec05a1f9c7db77297772" title="ctg_is_ordinary" alt="" coords="225,107,336,133"/>
+<area shape="rect" id="node5" href="$d9/d21/group__cas-ctg-store.html#ga5da68bd3d1d235743e28cc0fec51876b" title="m0_ctg_dead_index_insert" alt="" coords="192,157,369,184"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#gaddcc6b97bb302b6f35c80ef650854ba8" title="m0_ctg_mark_deleted\l_credit" alt="" coords="205,209,356,250"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga859b198f85cc3d00657104d24552f663" title="m0_ctg_dead_clean_credit" alt="" coords="192,275,369,301"/>
+<area shape="rect" id="node8" href="$d5/dac/index__gc_8c.html#a717c3cc1735e3ded9244d4e3479d0432" title="cgc_fom_tick" alt="" coords="417,300,517,327"/>
+</map>

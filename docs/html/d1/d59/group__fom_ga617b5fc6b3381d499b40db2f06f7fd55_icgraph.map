@@ -1,0 +1,9 @@
+<map id="fom_is_update" name="fom_is_update">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga921ecfc081f2a0ef86b735a7be443617" title="fom_tx_init" alt="" coords="198,5,285,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gab7f3e41131a0247aeda13595779ae76d" title="fom_tx_open" alt="" coords="193,56,290,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga0647b82d7a79ee3da19f5fca98b4984b" title="fom_tx_wait" alt="" coords="195,107,288,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga9e5d30ec2988b19f93a2647460c62d9f" title="fom_fol_rec_add" alt="" coords="182,157,301,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga90135174e704b68e397774b37be90a18" title="fom_tx_commit" alt="" coords="185,208,297,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#gaba86f16aa45c6db1ae1a956c4ec22832" title="m0_fom_tx_logged_wait" alt="" coords="160,259,323,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga678005611c4505f7ad99b7e168270a22" title="m0_fom_tx_done_wait" alt="" coords="165,309,318,336"/>
+</map>

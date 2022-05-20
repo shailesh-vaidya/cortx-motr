@@ -1,0 +1,10 @@
+<map id="cobfoms_ut" name="cobfoms_ut">
+<area shape="rect" id="node6" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="93,233,154,311"/>
+<area shape="rect" id="node8" href="$da/d01/structm0__rpc__client__ctx.html" title="{m0_rpc_client_ctx\n||}" alt="" coords="233,436,361,513"/>
+<area shape="rect" id="node9" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="382,233,497,311"/>
+<area shape="rect" id="node3" href="$d5/d0f/structm0__cob__domain.html" title="{m0_cob_domain\n||}" alt="" coords="669,436,786,513"/>
+<area shape="rect" id="node4" href="$d5/da0/structm0__net__xprt.html" title="{m0_net_xprt\n||}" alt="" coords="487,5,581,83"/>
+<area shape="rect" id="node5" href="$d5/d1f/structm0__rpc__server__ctx.html" title="{m0_rpc_server_ctx\n||}" alt="" coords="587,335,721,412"/>
+<area shape="rect" id="node7" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="810,436,893,513"/>
+<area shape="rect" id="node10" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="923,436,988,513"/>
+</map>

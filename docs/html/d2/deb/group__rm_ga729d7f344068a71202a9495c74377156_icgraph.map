@@ -1,0 +1,10 @@
+<map id="m0_rm_domain_fini" name="m0_rm_domain_fini">
+<area shape="rect" id="node2" href="$d4/d00/ut_2di_8c.html#a3ee0d971569661239b39e346f9c79d4a" title="file_di_fini" alt="" coords="227,5,307,32"/>
+<area shape="rect" id="node3" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="214,56,321,83"/>
+<area shape="rect" id="node4" href="$d1/d6d/bulkio__common_8h.html#a79d0015d92a2b69fe258ee651ed278a7" title="bulkio_params_fini" alt="" coords="202,107,333,133"/>
+<area shape="rect" id="node5" href="$d0/d26/group___distributed.html#gae42313fce650f45c2c7a4e006831f992" title="m0_rwlockable_domain\l_type_fini" alt="" coords="188,158,347,199"/>
+<area shape="rect" id="node6" href="$de/def/group__rm__service.html#ga5a4554907815d80aaa923e0c16203ce4" title="rms_stop" alt="" coords="229,224,305,251"/>
+<area shape="rect" id="node7" href="$d5/d57/rmapi_8c.html#a44b23b7af152f5d037620de698b7ecab" title="rt_api_test" alt="" coords="226,275,309,301"/>
+<area shape="rect" id="node8" href="$d5/d57/rmapi_8c.html#a8845631042adf9563d9b785dbb3837d5" title="dom_api_test" alt="" coords="217,325,317,352"/>
+<area shape="rect" id="node9" href="$d9/d02/rmut_8h.html#a5ded66f68179baf0cf35c04367b9c6f4" title="rm_utdata_fini" alt="" coords="215,400,319,427"/>
+</map>

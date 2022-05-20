@@ -1,0 +1,9 @@
+<map id="m0_net__buffer_invariant" name="m0_net__buffer_invariant">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="230,5,385,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga7d32f0da403ee9a79c5c49a6efa90da3" title="m0_net_buffer_deregister" alt="" coords="223,56,391,83"/>
+<area shape="rect" id="node4" href="$d0/d50/group__net__pvt.html#ga12df135f261cfd2be817aee51ae5f8a9" title="m0_net__buffer_add" alt="" coords="238,107,377,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga16dcb753d03ab30508f3b056b3ef5e72" title="m0_net_buffer_del" alt="" coords="243,157,371,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gaff7a97dce21f4689aba444caaf0dc00b" title="m0_net_buffer_event_post" alt="" coords="220,208,395,235"/>
+<area shape="rect" id="node7" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga8981f76e729a689a753ea62f6cdc3320" title="nlx_xo_core_bev_to\l_net_bev" alt="" coords="238,259,377,301"/>
+<area shape="rect" id="node8" href="$d5/d16/group__netsock.html#gaca062f63e8a27154bb6e046504692bc9" title="buf_invariant" alt="" coords="259,325,355,352"/>
+</map>

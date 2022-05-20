@@ -1,0 +1,8 @@
+<map id="m0_fom_invariant" name="m0_fom_invariant">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga517185ebb724226e95acdaf205ad71cf" title="m0_fom_group_is_locked" alt="" coords="179,5,349,32"/>
+<area shape="rect" id="node3" href="$d7/d08/group__tlist.html#gae306f43c68c953c493d195c553ca61b8" title="m0_tlink_invariant" alt="" coords="201,56,327,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga0f6fba57e5f56ce36cbba1af281797db" title="fom_state" alt="" coords="397,183,477,209"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga8c6d05d2f30a9d5a372991799832b86d" title="is_in_runq" alt="" coords="223,157,305,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga69371a9f760940ed561b67ea174328c3" title="is_in_wail" alt="" coords="225,208,303,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga28a52dc053b5fb6fa53362a51396a937" title="fom_is_blocked" alt="" coords="207,259,321,285"/>
+</map>

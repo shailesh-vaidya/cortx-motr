@@ -1,0 +1,10 @@
+<map id="m0_buf_memcpy" name="m0_buf_memcpy">
+<area shape="rect" id="node2" href="$db/de1/dtm0__log_8c.html#af6729246378f75a4966dad713674035f" title="plog_rec_init" alt="" coords="216,5,311,32"/>
+<area shape="rect" id="node3" href="$db/de1/dtm0__log_8c.html#a3b5be1586edfde4f0fc8f8e7959fb131" title="dtm0_log__set" alt="" coords="210,56,317,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga804f86d63b97af8abf135854dbe04fe5" title="be_queue_q_put" alt="" coords="205,107,322,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3454e7ee4a9ea16521bdb33709e497fa" title="be_queue_q_peek" alt="" coords="200,157,327,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gae827ab37d5fbb3b3b132f5ed4781fdb5" title="be_queue_q_get" alt="" coords="205,208,322,235"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga2f8c801ebabbe16129cd61377ca3f385" title="m0_ctg__meta_insert" alt="" coords="190,259,337,285"/>
+<area shape="rect" id="node8" href="$d8/d50/ctg__store_8c.html#a6f8452151892ff49885404c0ae4988f4" title="ctg_op_cb" alt="" coords="222,309,305,336"/>
+<area shape="rect" id="node9" href="$d9/d21/group__cas-ctg-store.html#gabc4234ad8946e2503833059a05d1e385" title="m0_ctg_ctidx_insert_sync" alt="" coords="176,360,351,387"/>
+</map>

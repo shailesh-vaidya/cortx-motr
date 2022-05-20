@@ -1,0 +1,22 @@
+<map id="item2conn" name="item2conn">
+<area shape="rect" id="node2" href="$da/d74/pd__ut_8c.html#a6358093523f84fdacdefe17a311b0dd4" title="my_item_done" alt="" coords="177,5,283,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga711cbee953d6e40d321baf18909dc58d" title="m0_rpc_conn_establish\l_reply_received" alt="" coords="151,57,309,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gadd5208d8ef0cfe3371e75358d43432f3" title="m0_rpc_conn_terminate\l_reply_received" alt="" coords="149,122,311,163"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="159,239,301,281"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga8169f12deaa8f4358b7202042aa3b98f" title="m0_rpc_item_cancel" alt="" coords="410,217,553,244"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga151e848bc9c05b10c5f9841fa725c1ed" title="m0_rpc_item_cancel_init" alt="" coords="398,287,565,313"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="639,484,732,511"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gadd56efc8f554d5d0473828fc7e34040e" title="item_conn_test" alt="" coords="175,356,285,383"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="415,444,547,471"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga0f16ce4d1bbc5beb48c1ebf0bde4504e" title="m0_rpc_item_remote\l_ep_addr" alt="" coords="158,407,302,449"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga51368a3db0057e437f80e4a2c95a6677" title="req_replied" alt="" coords="643,647,728,673"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#gacb459487d34b747427a6cef754d5f3ec" title="item__on_reply_postprocess" alt="" coords="136,575,324,601"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#ga738f7318704f5dd40c245c6843d2ed27" title="m0_rpc_item_process\l_reply" alt="" coords="406,610,557,651"/>
+<area shape="rect" id="node15" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="181,727,279,753"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#gacbfe74a884f1912395ef2a9bde8ad927" title="m0_rpc_reply_post" alt="" coords="164,828,296,855"/>
+<area shape="rect" id="node17" href="$df/db4/group__rpc__session.html#gaae8474a7a00b2d265d17af1070ce564e" title="m0_rpc_fom_session\l_establish_tick" alt="" coords="408,783,555,825"/>
+<area shape="rect" id="node18" href="$df/db4/group__rpc__session.html#ga633c83a41f3c6e594e4cd5a7c089593f" title="m0_rpc_fom_session\l_terminate_tick" alt="" coords="408,853,555,894"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#ga222a2bc2db6d856f6c07e42185625241" title="m0_rpc_fom_conn_terminate_tick" alt="" coords="372,925,591,952"/>
+<area shape="rect" id="node20" href="$df/db4/group__rpc__session.html#ga5cd2a6793445cbc2521e0c0f3f50428a" title="m0_rpc_session_terminate\l_reply_received" alt="" coords="141,981,319,1022"/>
+<area shape="rect" id="node21" href="$df/db4/group__rpc__session.html#ga3d5db540c5931abbebc3a277d1d8a310" title="conn_terminate_reply\l_sent_cb" alt="" coords="157,1046,303,1087"/>
+</map>

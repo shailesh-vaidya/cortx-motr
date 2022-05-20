@@ -1,0 +1,22 @@
+<map id="builder_init" name="builder_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="399,13,475,40"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="400,89,475,116"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a3fc6a07a41ff597a38e9ebf05fb70373" title="m0_be_ut_backend_cfg\l_default" alt="" coords="157,507,317,549"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gab9fc16dde8f102bac0d53aac136e2370" title="be_cfg_default_init" alt="" coords="171,573,302,600"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga02a2bbc3eaefc7b3106a8cb98cb4d21c" title="be_cfg_from_yaml_update" alt="" coords="149,624,324,651"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ae582fe634d666b102afb9b3297558ed7" title="m0_be_ut_backend_init_cfg" alt="" coords="145,675,329,701"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga19602f6607de42c90169125456324006" title="m0_be_domain_seg0_get" alt="" coords="151,725,322,752"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gad6b06593f8947f69956282e972959d20" title="m0_be_domain_seg_first" alt="" coords="153,776,320,803"/>
+<area shape="rect" id="node10" href="$dd/d1d/be_2ut_2helper_8c.html#a3520d7664a315a70a8c5bf172d96dd75" title="m0_be_ut_backend_seg_add2" alt="" coords="137,827,336,853"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga50bdd76ead2a460c4c6dcc3a0ca5fd57" title="generation_id_print" alt="" coords="171,877,302,904"/>
+<area shape="rect" id="node12" href="$d5/d8c/group__reqh.html#ga622637b86bc17afad03decd8551d49bd" title="m0_reqh_be_init" alt="" coords="178,203,295,229"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="404,203,471,229"/>
+<area shape="rect" id="node14" href="$d9/d21/group__cas-ctg-store.html#ga928178a243e4997ae317baf217352973" title="m0_ctg_store_init" alt="" coords="174,304,299,331"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="384,329,491,356"/>
+<area shape="rect" id="node16" href="$d9/dcf/group__be.html#ga9a8e7aab16a8c31c6855665da1dc91f8" title="ctg_pver_fid_get" alt="" coords="177,928,296,955"/>
+<area shape="rect" id="node17" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#gafdcb68754e497e2781eee6d13097a70c" title="m0_ios_cdom_get" alt="" coords="173,456,301,483"/>
+<area shape="rect" id="node18" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="405,405,470,432"/>
+<area shape="rect" id="node19" href="$d3/d8e/group__cob.html#gac4b37a502cabfea87ac769e0e78f0495" title="m0_cob_domain_init" alt="" coords="166,253,307,280"/>
+<area shape="rect" id="node20" href="$d9/dcf/group__be.html#gaef1f2b9b67b3014a9f491317bb0abcd0" title="ad_dom_init" alt="" coords="191,101,283,128"/>
+<area shape="rect" id="node21" href="$d9/dcf/group__be.html#gaa687df1aa848da139154ebab1a29cc07" title="builder_thread" alt="" coords="185,979,288,1005"/>
+</map>

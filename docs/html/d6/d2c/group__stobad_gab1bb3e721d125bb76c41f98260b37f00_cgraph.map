@@ -1,0 +1,17 @@
+<map id="stob_ad_write_map" name="stob_ad_write_map">
+<area shape="rect" id="node2" href="$d6/d2c/group__stobad.html#ga7543a2f9b534ab7100998e37de1338ee" title="stob_ad_fol_frag_alloc" alt="" coords="205,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="477,411,544,437"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="223,107,338,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga7beeba62c9004164b99c898d14cdf729" title="m0_stob_domain_id_get" alt="" coords="199,157,362,184"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="216,208,345,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga3b8c55c5a3bc679ba4667229893178ee" title="m0_ivec_cursor_index" alt="" coords="205,259,357,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga328f47dead930796d93217b23d002e04" title="m0_ivec_cursor_step" alt="" coords="207,309,354,336"/>
+<area shape="rect" id="node9" href="$d6/d2c/group__stobad.html#ga4c14dad3d60230395e4aaf18fa7d91ec" title="stob_ad_wext_cursor_step" alt="" coords="421,360,600,387"/>
+<area shape="rect" id="node10" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="648,461,755,488"/>
+<area shape="rect" id="node11" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="466,512,555,539"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#gafb38a675c298d142a1c8be4972646d34" title="stob_ad_write_map_ext" alt="" coords="201,461,361,488"/>
+<area shape="rect" id="node13" href="$d0/d7f/group__vec.html#gad91d27a0c5db7a267d18d70ae8817a8f" title="m0_ivec_cursor_move" alt="" coords="204,563,357,589"/>
+<area shape="rect" id="node14" href="$d6/d2c/group__stobad.html#gad8d66ef833a3383b4331418e4b3a8e9e" title="stob_ad_wext_cursor_move" alt="" coords="188,56,373,83"/>
+<area shape="rect" id="node15" href="$d1/d12/group__fol.html#gae8d9713b880afa64e53208c3a2b09ad4" title="m0_fol_frag_add" alt="" coords="221,664,340,691"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#ga90b0f83fcf65cb6882b2b0a1df2aec66" title="stob_ad_fol_frag_free" alt="" coords="207,715,354,741"/>
+</map>

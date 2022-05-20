@@ -1,0 +1,8 @@
+<map id="post_borrow_cleanup" name="post_borrow_cleanup">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="203,5,343,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="206,56,341,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="396,157,521,184"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="239,157,308,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gad99ce5e28725a8b60da00344bd99de5c" title="m0_rm_loan_fini" alt="" coords="215,208,332,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="199,259,348,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="cs_conf_fini" name="cs_conf_fini">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="145,5,304,32"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="149,56,300,83"/>
+<area shape="rect" id="node4" href="$df/dca/group__m0d.html#ga00af9da70891c758a46a668f218dada5" title="motr2rconfc" alt="" coords="179,107,270,133"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="171,157,278,184"/>
+</map>

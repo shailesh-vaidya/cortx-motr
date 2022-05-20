@@ -1,0 +1,29 @@
+<map id="m0_stob_dom_get" name="m0_stob_dom_get">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga861f6ac1e3135d275aa1d012917073f0" title="m0_stob_io_private\l_setup" alt="" coords="205,5,340,47"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga328103b536288ef61e58c10ea126cb19" title="m0_stob_io_prepare" alt="" coords="203,71,342,98"/>
+<area shape="rect" id="node4" href="$d7/de5/group__confd__stob.html#gab14cfe0e881c0410d4c354e5287dd0db" title="m0_confd_stob_fini" alt="" coords="433,285,567,311"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga9ffe224c49d57a21cad7f6307c398c51" title="stob_be_credit" alt="" coords="219,629,326,655"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#gadfdb45281e0dad0f73312ba2f85baa92" title="m0_storage_dev_stob\l_create" alt="" coords="425,419,575,460"/>
+<area shape="rect" id="node7" href="$d3/d73/storage__dev__ut_8c.html#ad66c3e0fbc359eeeea8ed4588e2bd543" title="storage_dev_linux" alt="" coords="637,229,764,255"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#gaaf4bfb7d5661b1fa1d809c7eabf0413b" title="m0_storage_dev_stob\l_destroy" alt="" coords="425,107,575,148"/>
+<area shape="rect" id="node9" href="$d0/dfe/group__sdev.html#ga50870cdfed558fa1856b5505b6e26073" title="m0_storage_dev_stob_find" alt="" coords="411,346,589,373"/>
+<area shape="rect" id="node10" href="$d0/dfe/group__sdev.html#gaebb38206ae2bc8441ac89f0a1a94027a" title="m0_storage_dev_stob_put" alt="" coords="413,229,587,255"/>
+<area shape="rect" id="node11" href="$db/d53/bulkio__ut_8c.html#a105e3116ef5035f62e35ca72f5030b1c" title="builkio_ut_stob_get" alt="" coords="433,705,567,731"/>
+<area shape="rect" id="node12" href="$d6/d2c/group__stobad.html#ga2c3cc23b3ee39da574364473eed1c4f0" title="stob_ad_punch_credit" alt="" coords="198,781,347,807"/>
+<area shape="rect" id="node13" href="$d6/d2c/group__stobad.html#gaf8949dc21052d88b103d7c0ecc67f715" title="ext_punch" alt="" coords="231,831,314,858"/>
+<area shape="rect" id="node14" href="$d6/d2c/group__stobad.html#ga768c7debaad77bd1ddac601ddf293054" title="stob_ad_destroy_credit" alt="" coords="194,882,351,909"/>
+<area shape="rect" id="node15" href="$d6/d2c/group__stobad.html#ga388e1eaf9053c1fbef9cd3b478b6d6af" title="stob_ad_destroy" alt="" coords="213,933,332,959"/>
+<area shape="rect" id="node16" href="$d6/d2c/group__stobad.html#ga764a3cd2b074ced2cfcf5d2c9a37e098" title="stob_ad_block_shift" alt="" coords="203,983,342,1010"/>
+<area shape="rect" id="node17" href="$d6/d2c/group__stobad.html#ga25954f60fb4818291ea6c62a154b85fc" title="stob_ad_write_credit" alt="" coords="201,1034,344,1061"/>
+<area shape="rect" id="node18" href="$d6/d2c/group__stobad.html#gab1bb3e721d125bb76c41f98260b37f00" title="stob_ad_write_map" alt="" coords="205,1085,340,1111"/>
+<area shape="rect" id="node19" href="$d6/d2c/group__stobad.html#ga167500c073d2d0b0201557eb33ddabfa" title="stob_ad_io_launch_prepare" alt="" coords="183,1135,363,1162"/>
+<area shape="rect" id="node20" href="$d6/d2c/group__stobad.html#ga6e4ea9dd43e3a7b323da708c56f5c641" title="stob_ad_io_launch" alt="" coords="207,1186,338,1213"/>
+<area shape="rect" id="node21" href="$d9/d6a/group__stob.html#ga1e6b1e406f6c47d9043901309a399337" title="test_punch" alt="" coords="229,1237,316,1263"/>
+<area shape="rect" id="node22" href="$d9/d6a/group__stob.html#ga56160fb005c7a5e49471b61ff48271d4" title="m0_stob_locate" alt="" coords="215,426,330,453"/>
+<area shape="rect" id="node23" href="$d9/d6a/group__stob.html#gaf0b065ab6e4efa650e330134d4c3930f" title="m0_stob_create" alt="" coords="215,527,330,554"/>
+<area shape="rect" id="node24" href="$da/dda/group__utstob.html#ga8fc0f60606d088767c1b55e55a091451" title="m0_ut_stob_create" alt="" coords="433,553,567,579"/>
+<area shape="rect" id="node25" href="$d9/d6a/group__stob.html#ga90d0bf5f7f45ddcf38bf3f3636d43c90" title="m0_stob_get" alt="" coords="224,730,321,757"/>
+<area shape="rect" id="node26" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="224,325,321,351"/>
+<area shape="rect" id="node27" href="$d9/d6a/group__stob.html#ga53e05c2f86d2e508bc4f83764dc312b1" title="m0_stob__cache_evict" alt="" coords="195,1287,351,1314"/>
+<area shape="rect" id="node28" href="$da/dda/group__utstob.html#ga0668f88b3f07db64099e2a6160a1dde1" title="m0_ut_stob_destroy" alt="" coords="203,1338,343,1365"/>
+</map>

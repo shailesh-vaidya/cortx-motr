@@ -1,0 +1,7 @@
+<map id="bulkio_stob_create" name="bulkio_stob_create">
+<area shape="rect" id="node2" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#gaf915254407a9ea4a868bc63d662230cb" title="m0_io_fop_init" alt="" coords="198,5,305,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="367,31,445,57"/>
+<area shape="rect" id="node4" href="$de/d3f/group___file_lock.html#ga3574f8b12fd8c723c35a7a601f4345e1" title="m0_file_init" alt="" coords="207,107,295,133"/>
+<area shape="rect" id="node5" href="$d8/dc1/bulkio__common_8c.html#ac44a822f8e8685c5b93277a4bb37e774" title="io_fops_rpc_submit" alt="" coords="184,157,319,184"/>
+<area shape="rect" id="node6" href="$d8/dc1/bulkio__common_8c.html#a642841ac9f28126c1474e546b07b3fea" title="io_fops_destroy" alt="" coords="194,208,309,235"/>
+</map>

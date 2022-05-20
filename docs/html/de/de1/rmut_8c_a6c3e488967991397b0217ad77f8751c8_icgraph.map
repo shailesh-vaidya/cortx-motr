@@ -1,0 +1,9 @@
+<map id="creditor_cookie_setup" name="creditor_cookie_setup">
+<area shape="rect" id="node2" href="$d2/dab/file_2ut_2file_8c.html#a80d65b2f048e7d60835ad2b70f217e32" title="client_dlock_run" alt="" coords="216,5,332,32"/>
+<area shape="rect" id="node3" href="$d2/dab/file_2ut_2file_8c.html#adfe8f25c9924d7f983ab93415d02f344" title="testcase1_run" alt="" coords="222,56,326,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#a5b1d19c8f6577dedd00189bca8ccea8d" title="rwlock_utinit" alt="" coords="227,107,321,133"/>
+<area shape="rect" id="node5" href="$db/d70/group_8c.html#ace4b590227394eff6e40595fc86fb0d3" title="ring_get" alt="" coords="240,157,308,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="203,259,345,285"/>
+<area shape="rect" id="node7" href="$d6/d94/rcredits_8c.html#ae2441bb24459fb5da3638ba15fc0d014" title="test_creditor_recovered" alt="" coords="393,233,552,260"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#a148a19108fbffb1cebadc2adce9169b4" title="test_creditor_reset" alt="" coords="407,296,538,323"/>
+</map>

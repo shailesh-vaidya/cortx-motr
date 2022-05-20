@@ -1,0 +1,35 @@
+var group__stats__fop =
+[
+    [ "m0_uint64_seq", "da/d76/structm0__uint64__seq.html", [
+      [ "se_data", "da/d76/structm0__uint64__seq.html#a667241870d30e31a5fc0d31ee36e6628", null ],
+      [ "se_nr", "da/d76/structm0__uint64__seq.html#ad6271db4fd65b0b828454f04fb2756a5", null ]
+    ] ],
+    [ "m0_stats_sum", "d0/d2e/structm0__stats__sum.html", [
+      [ "ss_data", "d0/d2e/structm0__stats__sum.html#a1f649d287e9b05ad30b66b85441084c6", null ],
+      [ "ss_id", "d0/d2e/structm0__stats__sum.html#a226fa247d455a2933a93d9d73521753a", null ]
+    ] ],
+    [ "m0_stats_recs", "dd/db4/structm0__stats__recs.html", [
+      [ "sf_nr", "dd/db4/structm0__stats__recs.html#a12f620a31d0e236406174828bdd52c3d", null ],
+      [ "sf_stats", "dd/db4/structm0__stats__recs.html#a9183ee6e2bb195a47092be4ce010c382", null ]
+    ] ],
+    [ "m0_stats_update_fop", "dd/dc6/structm0__stats__update__fop.html", [
+      [ "suf_stats", "dd/dc6/structm0__stats__update__fop.html#a9b70d5743cddfcf419e71b451d096193", null ]
+    ] ],
+    [ "m0_stats_query_fop", "d2/d36/structm0__stats__query__fop.html", [
+      [ "sqf_ids", "d2/d36/structm0__stats__query__fop.html#ac339e5092a803298d88d05e6c0442139", null ]
+    ] ],
+    [ "m0_stats_query_rep_fop", "da/ddc/structm0__stats__query__rep__fop.html", [
+      [ "sqrf_rc", "da/ddc/structm0__stats__query__rep__fop.html#a615179ff14149de6c5e67ff830982c98", null ],
+      [ "sqrf_stats", "da/ddc/structm0__stats__query__rep__fop.html#a39e1581b52fba2cc7b8b966a73eb7c58", null ]
+    ] ],
+    [ "m0_stats_fops_fini", "d0/d66/group__stats__fop.html#ga0092fca9a05bfed7e2cde0d1bf36492c", null ],
+    [ "m0_stats_fops_init", "d0/d66/group__stats__fop.html#ga3d854e6226b89d5580d0e1a8afd9f415", null ],
+    [ "m0_stats_query_fop_get", "d0/d66/group__stats__fop.html#ga0da088845e4332e31b9cce23fb169a8d", null ],
+    [ "m0_stats_query_fop_release", "d0/d66/group__stats__fop.html#ga74562b47db46bc318f6f463b25884098", null ],
+    [ "m0_stats_query_rep_fop_get", "d0/d66/group__stats__fop.html#ga4fa088e848478bdbc994e887e5bdcd4d", null ],
+    [ "m0_stats_update_fop_get", "d0/d66/group__stats__fop.html#gadd3bedfa0448f739880686a466c89f43", null ],
+    [ "M0_XCA_DOMAIN", "d0/d66/group__stats__fop.html#gad156f73cb685670e76c85def61a4675e", null ],
+    [ "m0_fop_stats_query_fopt", "d0/d66/group__stats__fop.html#gac1fed5b9053d8a3008915eb7a2dbfab2", null ],
+    [ "m0_fop_stats_query_rep_fopt", "d0/d66/group__stats__fop.html#gab4f76a429f8e93db080dcb8cf4b519f5", null ],
+    [ "m0_fop_stats_update_fopt", "d0/d66/group__stats__fop.html#ga2a2b8217405c91f4395267facacfcee7", null ]
+];

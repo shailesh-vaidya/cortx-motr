@@ -1,0 +1,13 @@
+<map id="m0_be_tx_group_tx_closed" name="m0_be_tx_group_tx_closed">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga7c91e309abc0423c17ccef80c802c430" title="m0_be_tx__is_recovering" alt="" coords="237,5,407,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaaa24c58f091ffd9bf8e1fad1c07ac749" title="m0_be_reg_area_prepared" alt="" coords="235,56,409,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa37ea7ffa19e4119c5772bd1570cb700" title="m0_be_tx__reg_area" alt="" coords="251,107,393,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaa2d7aba6e1ffee44a43dde0d952180a2" title="m0_be_reg_area_captured" alt="" coords="235,157,409,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga044f22f969951defa364744ffbdf4b05" title="m0_be_tx_credit_le" alt="" coords="255,208,389,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0212fd02efdf41e4c6da39e249a592ac" title="m0_be_tx_credit_sub" alt="" coords="249,259,395,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="249,309,395,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gaca8b034d9d6db9c37d532a0595b7ce6a" title="m0_be_group_format\l_log_reserved_size" alt="" coords="250,361,394,402"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#gaf216f7ec16fd791438eabb10527219ad" title="m0_sm_id_get" alt="" coords="269,427,375,453"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="258,477,386,504"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gaaa4cc6e54d228fec4c5868227e76224c" title="m0_be_log_unreserve" alt="" coords="247,528,397,555"/>
+</map>

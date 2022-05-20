@@ -1,0 +1,22 @@
+<map id="m0_rpc_net_buffer_pool_setup" name="m0_rpc_net_buffer_pool_setup">
+<area shape="rect" id="node2" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a1bf481562195bbc9127320346ed29cf7" title="inst_rpc_init" alt="" coords="253,5,345,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gafd7342a48d9d44929bb48eabc93ce0e0" title="m0_ha_ut_rpc_ctx_init" alt="" coords="223,56,376,83"/>
+<area shape="rect" id="node4" href="$d9/dd4/load_8c.html#a40046dd8271c3a86c994e63b13de90e7" title="conf_ut_reqh_init" alt="" coords="239,107,360,133"/>
+<area shape="rect" id="node5" href="$d3/da7/conf_2ut_2rpc__helpers_8h.html#a8888f99821dada56eaaf3cfeb1a9d711" title="m0_ut_rpc_machine_start" alt="" coords="213,157,385,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gaff3e1d0accc691990ca6f90434f176db" title="dix_rpc_init" alt="" coords="255,208,343,235"/>
+<area shape="rect" id="node7" href="$d5/d34/sd__common_8h.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="240,259,359,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga917e1268509fbd8b7c785c86fe710e41" title="halon_interface_level\l_enter" alt="" coords="227,310,371,351"/>
+<area shape="rect" id="node9" href="$de/d4a/group__m0ham.html#gac5212a0f4e1d37280794cfdef24d982b" title="ham_rpc_ctx_init" alt="" coords="239,376,360,403"/>
+<area shape="rect" id="node10" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a593b9645481e2966fa255235f3fb0db9" title="m0t1fs_rpc_init" alt="" coords="244,427,355,453"/>
+<area shape="rect" id="node11" href="$de/de2/client__init_8c.html#a8fd0239a3238abc70e5aa0a53b7ead95" title="rpc_init" alt="" coords="267,477,331,504"/>
+<area shape="rect" id="node12" href="$df/dca/group__m0d.html#ga1f7d07589e78482bc4001822b65d5d60" title="cs_buffer_pool_setup" alt="" coords="227,528,372,555"/>
+<area shape="rect" id="node13" href="$d5/d8c/group__reqh.html#ga2e2421c376c0c9af69a0443ba10aebf3" title="server_init" alt="" coords="258,579,341,605"/>
+<area shape="rect" id="node14" href="$d7/dad/service__ctx_8c.html#a3d36b14b6ad8ba6215b2e9543fed5806" title="reqh_service_ctx_ut\l__remote_rmach_init" alt="" coords="228,630,371,671"/>
+<area shape="rect" id="node15" href="$d0/d7e/rwlock__helper_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="274,696,325,723"/>
+<area shape="rect" id="node16" href="$d4/d86/ut_2rpc__machine_8c.html#a761883e7b529e30690f495c8cd481871" title="rpc_mc_ut_init" alt="" coords="246,747,353,773"/>
+<area shape="rect" id="node17" href="$d3/d5a/rpclib_8h.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="231,797,367,824"/>
+<area shape="rect" id="node18" href="$d1/de2/at__ut_8c.html#ae29924739fb734d9ee25dbd79acf5961" title="reqh_init" alt="" coords="264,848,335,875"/>
+<area shape="rect" id="node19" href="$d7/d2a/link__ut_8c.html#ad3b86adf956964a1093d9f421c379beb" title="rlut_init" alt="" coords="267,899,331,925"/>
+<area shape="rect" id="node20" href="$d8/db3/spiel__ut__common_8h.html#aaba9705602ddc3dc88f96dccf6b28f52" title="m0_spiel__ut_reqh_init" alt="" coords="222,949,377,976"/>
+<area shape="rect" id="node21" href="$d1/d8e/ut__rpc__machine_8h.html#a37fcbcb0d583cf848ae4b0596e9b45fd" title="m0_ut_rpc_mach_init\l_and_add" alt="" coords="226,1001,373,1042"/>
+</map>

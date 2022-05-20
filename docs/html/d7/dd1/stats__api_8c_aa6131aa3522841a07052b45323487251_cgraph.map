@@ -1,0 +1,10 @@
+<map id="m0_stats_query" name="m0_stats_query">
+<area shape="rect" id="node2" href="$d7/dd1/stats__api_8c.html#a765e24a0eea6732a325a4f2942ca1a51" title="query_fop_alloc" alt="" coords="181,5,295,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="200,56,276,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="172,107,304,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="177,157,299,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="205,208,271,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="168,259,308,285"/>
+<area shape="rect" id="node8" href="$d0/d66/group__stats__fop.html#ga4fa088e848478bdbc994e887e5bdcd4d" title="m0_stats_query_rep\l_fop_get" alt="" coords="168,310,308,351"/>
+<area shape="rect" id="node9" href="$d7/dd1/stats__api_8c.html#aa5817d7387ed7d50e735a669771450be" title="stats_recs_dup" alt="" coords="183,376,293,403"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="fdmi_rec_notif_replied" name="fdmi_rec_notif_replied">
+<area shape="rect" id="node2" href="$d3/d97/group__fdmi__main.html#ga477e326fce76b49bb5a5cc8dcb65717a" title="m0_fdmi_src_dock_get" alt="" coords="432,36,589,63"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="441,471,581,498"/>
+<area shape="rect" id="node4" href="$d0/de2/group__fdmi__sd.html#ga740016e49aabb132498ebd80a7cb272b" title="m0_fdmi__record_is\l_valid" alt="" coords="441,380,580,421"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#gab245866b62546bb7093dd0126f5dcfdb" title="m0_rpc_item_generic\l_reply_rc" alt="" coords="220,505,367,546"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga586dd7705f399c27e7bcb92d302ffa9d" title="m0_rpc_conn_addr" alt="" coords="227,571,359,598"/>
+<area shape="rect" id="node7" href="$db/d3c/conn__pool_8c.html#a9bdc2b2699cc95ffd1ceaa8117ed69ea" title="m0_rpc_conn_pool_put" alt="" coords="215,150,371,176"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="453,112,568,139"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="447,182,575,208"/>
+<area shape="rect" id="node10" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="246,622,341,648"/>
+<area shape="rect" id="node11" href="$d4/de4/refs_8c.html#a96dc9c89402bf6a5782c951d9de8285b" title="m0_ref_put" alt="" coords="250,672,337,699"/>
+<area shape="rect" id="node12" href="$d6/dc3/group__fdmi__sd__int.html#ga021e444219679dc7094accca3ab7c75b" title="m0_fdmi__fs_put" alt="" coords="232,352,355,379"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="466,302,555,328"/>
+<area shape="rect" id="node14" href="$db/d3c/conn__pool_8c.html#aa5902d536bf02c9d3475201e75916f5b" title="m0_rpc_conn_pool_destroy" alt="" coords="203,200,384,227"/>
+<area shape="rect" id="node15" href="$d6/dc3/group__fdmi__sd__int.html#gaf5d3ff7ec6a184591411ee61a12aa375" title="m0_fdmi__enqueue" alt="" coords="226,48,361,75"/>
+</map>

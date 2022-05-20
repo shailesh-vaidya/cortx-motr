@@ -1,0 +1,9 @@
+<map id="dix_req_indices_copy" name="dix_req_indices_copy">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga48b6ead2d190ebc3eb5b1a5e1990a73d" title="m0_dix_create" alt="" coords="221,5,327,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga4e68ebfe29d19b823a5fd8282905e49f" title="m0_dix_delete" alt="" coords="221,56,327,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gae40566b856a74526b4cab0bbd3d2a7f6" title="m0_dix_cctgs_lookup" alt="" coords="200,107,348,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaed791ec535f3ce18113aefe491e647be" title="m0_dix_put" alt="" coords="229,157,319,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gae2b00393bb97f1310959e0ae75fc3dc0" title="m0_dix_get" alt="" coords="229,208,319,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga3e7b7e7bde02b6227f8d8afcaa0a8c4e" title="m0_dix_del" alt="" coords="230,259,318,285"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gabf8c6cfd59e9c5105d63135576993551" title="m0_dix_next" alt="" coords="226,309,322,336"/>
+</map>

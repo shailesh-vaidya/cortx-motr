@@ -1,0 +1,9 @@
+<map id="ut_composite_sub_io_ops_build" name="ut_composite_sub_io_ops_build">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="201,5,351,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a3ccb2acbbfdeed84d137b60bf1daaa4a" title="m0_op_get" alt="" coords="233,56,319,83"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="227,107,325,133"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#abd86003ec151f49fde3e1d309b98cf71" title="composite_sub_io_ops\l_build" alt="" coords="199,158,353,199"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="401,195,471,221"/>
+<area shape="rect" id="node7" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="225,275,327,301"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="225,325,327,352"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_error_printf" name="m0_error_printf">
+<area shape="rect" id="node2" href="$d8/d98/group__trace.html#ga95ce8854a56ba344584d0183e664ccfa" title="m0_trace_subsys_list\l_to_mask" alt="" coords="181,5,331,47"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#gac156e628c7c8ff66320d6fd6eaf9e7dd" title="m0_trace_level_parse" alt="" coords="181,71,331,98"/>
+<area shape="rect" id="node4" href="$d8/d98/group__trace.html#gab54f087cf3ab40aadbacdeeebe6fc098" title="m0_trace_set_level" alt="" coords="397,97,532,123"/>
+<area shape="rect" id="node5" href="$d8/d98/group__trace.html#gabae905bbe7ec94621bc4286a0245a03a" title="m0_trace_print_context\l_parse" alt="" coords="177,173,335,215"/>
+<area shape="rect" id="node6" href="$d8/d98/group__trace.html#ga255fc0779ca69db573514280f38018e2" title="m0_trace_record_print" alt="" coords="181,239,331,266"/>
+<area shape="rect" id="node7" href="$d8/d98/group__trace.html#gaa5207beb323bf3cc22ac7bc065bb695e" title="m0_trace_record_print_yaml" alt="" coords="163,290,349,317"/>
+<area shape="rect" id="node8" href="$d8/d98/group__trace.html#gab69dc4376e986affb23385a666467fc6" title="m0_trace_set_buffer_size" alt="" coords="171,341,341,367"/>
+<area shape="rect" id="node9" href="$df/dca/group__m0d.html#ga9eaccc4505d14861026fcce76742ac28" title="main" alt="" coords="439,366,490,393"/>
+<area shape="rect" id="node10" href="$d9/d54/group__init.html#gad763c4a52a40ced8b15bfaa74776a9b6" title="init_nr" alt="" coords="227,442,285,469"/>
+</map>

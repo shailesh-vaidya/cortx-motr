@@ -1,0 +1,6 @@
+<map id="test_borrow_non_conflicting" name="test_borrow_non_conflicting">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="237,5,380,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#af9b3a730795bc7f12ec0c04289cfc0f2" title="borrow_and_cache" alt="" coords="243,56,374,83"/>
+<area shape="rect" id="node4" href="$de/de1/rmut_8c.html#ab1e99efa41b385980208747c51d801b8" title="credits_are_equal" alt="" coords="247,107,371,133"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#ae0564774909d39e6a26d505262673aca" title="remote_credits_utfini" alt="" coords="237,157,380,184"/>
+</map>

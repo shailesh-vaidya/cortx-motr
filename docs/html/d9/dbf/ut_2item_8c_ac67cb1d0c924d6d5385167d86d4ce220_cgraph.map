@@ -1,0 +1,14 @@
+<map id="test_cancel_session" name="test_cancel_session">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="229,5,327,32"/>
+<area shape="rect" id="node3" href="$d5/d5d/ut_2cob__foms_8c.html#a87ce6fe98ce7d0d60e0ae807f06db084" title="fop_alloc" alt="" coords="440,56,515,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="409,107,545,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="229,360,327,387"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gaeddb3439ca8c8339e207af5c4688cb17" title="m0_rpc_session_cancel" alt="" coords="197,411,359,437"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="593,208,688,235"/>
+<area shape="rect" id="node8" href="$d9/dbf/ut_2item_8c.html#aa0d27071b98c5bafff70ff288ae4763c" title="chk_state" alt="" coords="438,259,517,285"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="417,208,538,235"/>
+<area shape="rect" id="node10" href="$d9/dbf/ut_2item_8c.html#a4403c6c12f97f1eef76c958fc5c928f6" title="fop_test" alt="" coords="243,157,313,184"/>
+<area shape="rect" id="node11" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="227,461,329,488"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="195,512,361,539"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#ga27ef5040cce8192ba6c7dfc49d4c3760" title="m0_rpc_session_create" alt="" coords="198,563,358,589"/>
+</map>

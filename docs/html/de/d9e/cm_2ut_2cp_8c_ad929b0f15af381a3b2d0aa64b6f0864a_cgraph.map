@@ -1,0 +1,8 @@
+<map id="test_cp_multi_thread" name="test_cp_multi_thread">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="196,5,331,32"/>
+<area shape="rect" id="node3" href="$de/d9e/cm_2ut_2cp_8c.html#a31cfb7d38c00b8a9858aa13b96e72a8c" title="cp_op" alt="" coords="235,56,292,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="208,107,319,133"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga6c8c49d2292e236f7f005d6dccd189c0" title="m0_reqh_idle_wait" alt="" coords="198,157,329,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="229,208,298,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="196,259,331,285"/>
+</map>

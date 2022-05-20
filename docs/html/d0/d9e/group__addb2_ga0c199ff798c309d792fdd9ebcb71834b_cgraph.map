@@ -1,0 +1,9 @@
+<map id="sys_lock" name="sys_lock">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="186,5,226,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#ga830dd17058fdf40574ddf1a7ac057d50" title="m0_thread_tls" alt="" coords="365,81,469,108"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga3499d6f495de6815f79e3e1b1477bc8b" title="m0_mutex_is_not_locked" alt="" coords="332,281,503,308"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga2fa7b79079440c7dccde7c99a829d910" title="m0_addb2_net__is_not\l_locked" alt="" coords="128,274,284,315"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga02c87a9bcd854c8b89817cc6322ee888" title="m0_addb2_storage__is\l_not_locked" alt="" coords="128,209,284,250"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="149,340,263,367"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga557530c472993a6ca80ea94361f5dda9" title="sys_invariant" alt="" coords="157,56,255,83"/>
+</map>

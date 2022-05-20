@@ -1,0 +1,8 @@
+<map id="ctg_state_update" name="ctg_state_update">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a86d17f828608bcf301d728db0441c2a2" title="cas_seg" alt="" coords="226,5,297,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="204,56,319,83"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#a75afd4f607bd6cdf1c82c1a31fa7bee3" title="ctg_state_counter_add" alt="" coords="184,107,339,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#a2860cf59100f8bd3f1c448000aa56107" title="ctg_state_counter_sub" alt="" coords="184,157,339,184"/>
+<area shape="rect" id="node6" href="$dd/dc1/group__format.html#ga5f05742845abbd56398831e0569c805a" title="m0_format_footer_update" alt="" coords="176,208,347,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="197,259,325,285"/>
+</map>

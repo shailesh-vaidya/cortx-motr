@@ -1,0 +1,8 @@
+<map id="m0_be_dtm0_log_find" name="m0_be_dtm0_log_find">
+<area shape="rect" id="node2" href="$de/d0c/group___d_t_m0_internals.html#ga872a9d11682e621c3a3a1310043d7831" title="m0_be_dtm0_log_update" alt="" coords="203,43,369,69"/>
+<area shape="rect" id="node3" href="$da/dbb/dtm0__log__ut_8c.html#abdfa976dc6b47b142bdaec0c2bfd121d" title="test_volatile_dtm0_log" alt="" coords="427,5,579,32"/>
+<area shape="rect" id="node4" href="$da/dbb/dtm0__log__ut_8c.html#a50b539e091fbae1e87b468a7503afc76" title="persistent_log_operate" alt="" coords="427,68,580,95"/>
+<area shape="rect" id="node5" href="$d6/df3/dtm0_2fop_8h.html#af9b60ae337d40ecc4be173968f5d986b" title="m0_dtm0_on_committed" alt="" coords="203,144,369,171"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga7cb6945aa719e627c7d72af88bf4189f" title="dtx_persistent_ast_cb" alt="" coords="211,195,361,221"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gabf800c8dc6328e272e9d9138838c98a2" title="m0_dtm0_dtx_pmsg_post" alt="" coords="417,220,589,247"/>
+</map>

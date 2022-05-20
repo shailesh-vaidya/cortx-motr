@@ -1,0 +1,9 @@
+<map id="ctg_init" name="ctg_init">
+<area shape="rect" id="node2" href="$dd/dc1/group__format.html#ga4d30f4095392dc864b6ff37123d73fed" title="m0_format_header_pack" alt="" coords="120,5,285,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="142,56,263,83"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab1eef955bd95c3cc2e3a72cedc7702f8" title="m0_long_lock_init" alt="" coords="139,107,266,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="336,132,443,159"/>
+<area shape="rect" id="node6" href="$d9/d21/group__cas-ctg-store.html#ga49f24371eb839c39da6451cbeecbd8bf" title="m0_ctg_lock" alt="" coords="155,208,251,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="153,259,252,285"/>
+<area shape="rect" id="node8" href="$dd/dc1/group__format.html#ga5f05742845abbd56398831e0569c805a" title="m0_format_footer_update" alt="" coords="117,309,288,336"/>
+</map>

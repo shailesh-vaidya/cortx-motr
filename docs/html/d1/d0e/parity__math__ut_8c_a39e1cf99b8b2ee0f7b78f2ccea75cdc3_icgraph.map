@@ -1,0 +1,5 @@
+<map id="failure_setup" name="failure_setup">
+<area shape="rect" id="node2" href="$d1/d0e/parity__math__ut_8c.html#aee90bb6f040c1a0f01833b5c85b3636c" title="direct_recover" alt="" coords="167,5,271,32"/>
+<area shape="rect" id="node3" href="$d1/d0e/parity__math__ut_8c.html#a253c118efe655a7b67ab471fb9d4efc1" title="incremental_recover" alt="" coords="149,56,288,83"/>
+<area shape="rect" id="node4" href="$d1/d0e/parity__math__ut_8c.html#aeccb5b087e658f45e4c9c525a6fb797e" title="test_invalid_input" alt="" coords="157,107,280,133"/>
+</map>

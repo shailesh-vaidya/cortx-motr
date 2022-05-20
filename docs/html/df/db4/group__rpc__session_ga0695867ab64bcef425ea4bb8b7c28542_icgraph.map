@@ -1,0 +1,7 @@
+<map id="m0_rpc_session_fini_locked" name="m0_rpc_session_fini_locked">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#gad5cf2d5f7847b1a98e4f6f92593cb0ae" title="session_zero_detach" alt="" coords="231,5,377,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gae2d8b44ee0c5728e6a3178061fa8ddf2" title="rpc_conn_sessions_cleanup_fail" alt="" coords="199,56,409,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga4791c259b0df215a07f9bd5b8a2949cb" title="m0_rpc_session_fini" alt="" coords="233,107,375,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga633c83a41f3c6e594e4cd5a7c089593f" title="m0_rpc_fom_session\l_terminate_tick" alt="" coords="231,158,377,199"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga222a2bc2db6d856f6c07e42185625241" title="m0_rpc_fom_conn_terminate_tick" alt="" coords="195,224,413,251"/>
+</map>

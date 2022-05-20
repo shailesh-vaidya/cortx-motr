@@ -1,0 +1,6 @@
+<map id="m0_rpc_bulk_store_del_unqueued" name="m0_rpc_bulk_store_del_unqueued">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga00a94f44de1fa233440477b01effb202" title="rpc_bulk_invariant" alt="" coords="222,5,349,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gafe5fb5c1becc6b5f30159f64681c5f12" title="m0_chan_has_waiters" alt="" coords="209,56,361,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga700f878d52d38fc159259516239d95de" title="rpc_bulk_buf_fini" alt="" coords="225,107,345,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="409,132,499,159"/>
+</map>

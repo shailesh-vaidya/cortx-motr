@@ -1,0 +1,8 @@
+<map id="m0_cas_ctg" name="m0_cas_ctg">
+<area shape="rect" id="node2" href="$d8/d98/structm0__format__footer.html" title="{m0_format_footer\n||}" alt="" coords="5,5,129,83"/>
+<area shape="rect" id="node3" href="$d2/d56/structm0__be__btree.html" title="{m0_be_btree\n||}" alt="" coords="135,145,232,223"/>
+<area shape="rect" id="node4" href="$d6/de9/structm0__format__header.html" title="{m0_format_header\n||}" alt="" coords="185,5,315,83"/>
+<area shape="rect" id="node5" href="$d0/d1a/structm0__be__mutex.html" title="{m0_be_mutex\n||}" alt="" coords="366,145,470,223"/>
+<area shape="rect" id="node7" href="$d4/dc3/structm0__be__chan.html" title="{m0_be_chan\n||}" alt="" coords="566,145,662,223"/>
+<area shape="rect" id="node8" href="$d7/d40/structm0__be__long__lock.html" title="{m0_be_long_lock\n||}" alt="" coords="686,145,809,223"/>
+</map>

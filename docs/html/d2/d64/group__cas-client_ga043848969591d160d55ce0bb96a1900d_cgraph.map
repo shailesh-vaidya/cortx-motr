@@ -1,0 +1,6 @@
+<map id="m0_cas_req_fini_lock" name="m0_cas_req_fini_lock">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga58bd33d160ccef5352be98a8b1102b4d" title="m0_cas_req_lock" alt="" coords="209,5,333,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga48afd8872cd6e6f46f27263d2ff8fd99" title="cas_req_fini" alt="" coords="225,56,317,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="388,81,477,108"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#gac608ff3f2d925a1acfea06bb79b5f82a" title="m0_cas_req_unlock" alt="" coords="201,157,340,184"/>
+</map>

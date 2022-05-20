@@ -1,0 +1,13 @@
+<map id="m0_layout_standard_types_register" name="m0_layout_standard_types_register">
+<area shape="rect" id="node2" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#aef2cf42b25121db404bfa8f02b3851f7" title="inst_init" alt="" coords="234,5,301,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#adaecb17814dd21abf6226295f1cb433a" title="pdclust_map" alt="" coords="219,56,315,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a2399c91e82f3d319f10d7b6015dfe061" title="dix_client_init" alt="" coords="217,107,318,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gacc25491fc701ea2eb16b7961d52ccfe9" title="layout_build" alt="" coords="222,157,313,184"/>
+<area shape="rect" id="node6" href="$d6/de4/layout_2ut_2layout_8c.html#aa044b1c8bafd557a844fa07ff4187237" title="test_init" alt="" coords="233,208,301,235"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#a7019d8b16e85d2a016ef58a5b9b3de90" title="test_reg_unreg" alt="" coords="213,259,321,285"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#a90347de8dc7e15b5da28cc5be2e8ee7e" title="test_reg_unreg_failure" alt="" coords="192,309,343,336"/>
+<area shape="rect" id="node9" href="$d6/de4/layout_2ut_2layout_8c.html#a9a5a7f055adf91c9ac3c03d99697201a" title="test_max_recsize" alt="" coords="205,360,330,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga7329df0fac123ba7029067ec3e0d35be" title="dix_init" alt="" coords="236,411,299,437"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#ga622637b86bc17afad03decd8551d49bd" title="m0_reqh_be_init" alt="" coords="209,461,326,488"/>
+<area shape="rect" id="node12" href="$da/da8/group__layout.html#gaf756ccec9957386c95c840fb71000060" title="dummy_create" alt="" coords="213,512,321,539"/>
+</map>

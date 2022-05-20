@@ -1,0 +1,6 @@
+<map id="cas_service_start" name="cas_service_start">
+<area shape="rect" id="node2" href="$da/ddc/group__reqhservice.html#gada3dfd68bbc59c6a900523737bfd9c22" title="m0_reqh_service_state_get" alt="" coords="179,5,361,32"/>
+<area shape="rect" id="node3" href="$df/d03/group__cas__dfspec.html#ga432ba81e1ffa61ff767b592b58d7bdf3" title="m0_cas__ut_svc_be_get" alt="" coords="409,81,576,108"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga928178a243e4997ae317baf217352973" title="m0_ctg_store_init" alt="" coords="430,144,555,171"/>
+<area shape="rect" id="node5" href="$d5/dac/index__gc_8c.html#a4ee327cd5feb1b32f1e236dfa4156f12" title="m0_cas_gc_start" alt="" coords="209,107,331,133"/>
+</map>

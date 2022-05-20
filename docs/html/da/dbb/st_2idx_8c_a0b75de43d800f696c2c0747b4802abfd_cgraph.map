@@ -1,0 +1,7 @@
+<map id="idx_query_empty_next" name="idx_query_empty_next">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="234,5,298,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#ab6a754ded4f7666f30ea9d4c2ac574ca" title="idx_create_one" alt="" coords="211,56,321,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a89928b1fb7a02568d3b1d8e25de1491d" title="idx_bufvec_alloc" alt="" coords="207,107,325,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a0f2f9a205f31036a0726af1ec08533f4" title="idx_delete_one" alt="" coords="211,157,321,184"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#ae34ab2553374eef9a059b5ce81d847c7" title="idx_bufvec_free" alt="" coords="209,208,323,235"/>
+</map>

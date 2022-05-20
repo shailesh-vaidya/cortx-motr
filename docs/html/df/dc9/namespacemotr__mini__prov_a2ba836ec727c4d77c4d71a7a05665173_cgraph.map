@@ -1,0 +1,5 @@
+<map id="configure_net" name="configure_net">
+<area shape="rect" id="node2" href="$df/dc9/namespacemotr__mini__prov.html#a02db6547843ab8a3dae9340569235e38" title="check_type" alt="" coords="172,5,261,32"/>
+<area shape="rect" id="node3" href="$df/dc9/namespacemotr__mini__prov.html#abab6c16c0865449cd898c4d4a94280a2" title="configure_lnet" alt="" coords="165,56,268,83"/>
+<area shape="rect" id="node4" href="$df/dc9/namespacemotr__mini__prov.html#a1d819322a43bc5171c9831ea57ab7cbb" title="configure_libfabric" alt="" coords="153,107,280,133"/>
+</map>

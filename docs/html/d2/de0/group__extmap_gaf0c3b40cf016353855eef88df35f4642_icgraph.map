@@ -1,0 +1,9 @@
+<map id="be_emap_next" name="be_emap_next">
+<area shape="rect" id="node2" href="$d2/de0/group__extmap.html#ga01aecec6d0c3ba8ba78adf0639c48d20" title="emap_dump" alt="" coords="201,5,294,32"/>
+<area shape="rect" id="node3" href="$d2/de0/group__extmap.html#ga3564f279f9cbb9110e4ee9ab43e9374a" title="m0_be_emap_dump" alt="" coords="178,56,317,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga65a9dc702ff3cb187efa5fdaab637f35" title="m0_be_emap_next" alt="" coords="181,107,313,133"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#ga9322a2d7d3bf9c2dcb3b41ff559ab8e8" title="update_next_segment" alt="" coords="172,157,323,184"/>
+<area shape="rect" id="node6" href="$d2/de0/group__extmap.html#gacb42370decd15c6a360bcc3b311ea67d" title="m0_be_emap_paste" alt="" coords="178,208,317,235"/>
+<area shape="rect" id="node7" href="$d2/de0/group__extmap.html#ga94c1dfe136c52a857c424afeac92e039" title="m0_be_emap_caret_move" alt="" coords="160,259,335,285"/>
+<area shape="rect" id="node8" href="$d2/de0/group__extmap.html#gacf8b66e7ec04f257d2cdb784cfe6c2d0" title="be_emap_invariant_check" alt="" coords="161,309,334,336"/>
+</map>

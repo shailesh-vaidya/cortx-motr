@@ -1,0 +1,9 @@
+<map id="proxy_sw_onwire_item_replied_cb" name="proxy_sw_onwire_item_replied_cb">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="437,5,577,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga68ee024f7a3ac51ffbfd1bb7d0d3d89d" title="m0_rpc_item_is_generic\l_reply_fop" alt="" coords="425,69,588,110"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#gab245866b62546bb7093dd0126f5dcfdb" title="m0_rpc_item_generic\l_reply_rc" alt="" coords="219,101,366,142"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="458,160,555,187"/>
+<area shape="rect" id="node6" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga795dc28a265d42dca08cc435d0d52619" title="proxy_sw_onwire_ast_cb" alt="" coords="208,217,377,244"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="462,243,551,269"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="231,319,354,345"/>
+</map>

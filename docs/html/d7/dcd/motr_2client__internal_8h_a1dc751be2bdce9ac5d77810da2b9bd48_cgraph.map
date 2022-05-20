@@ -1,0 +1,18 @@
+<map id="m0__obj_namei_send" name="m0__obj_namei_send">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#acd18d2616848a687b2e651aae611b770" title="m0__oo_instance" alt="" coords="211,5,335,32"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#ga3bd15da27e515c8627be1be2a5b0002f" title="m0_conf_fid_is_valid" alt="" coords="201,56,345,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="394,132,542,159"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="235,208,311,235"/>
+<area shape="rect" id="node6" href="$d7/d9a/motr_2cob_8c.html#af0346d493bdc232a1644614461e3c9b1" title="cob_req_alloc" alt="" coords="222,259,325,285"/>
+<area shape="rect" id="node7" href="$d7/d9a/motr_2cob_8c.html#a5a761fea0fcc9fe2a94452e4e06bca2b" title="cob_req_free" alt="" coords="225,309,322,336"/>
+<area shape="rect" id="node8" href="$d7/dcd/motr_2client__internal_8h.html#a7fceb3a5022e7f85c5b98b1a0808c979" title="m0__obj_entity" alt="" coords="218,360,329,387"/>
+<area shape="rect" id="node9" href="$d7/d9a/motr_2cob_8c.html#a13e41e4de4680758a8236fa42f9df7f0" title="cob_req_send" alt="" coords="222,461,325,488"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="435,436,501,463"/>
+<area shape="rect" id="node11" href="$d7/d9a/motr_2cob_8c.html#ad782f7073186cbb503bc9de55d348ee2" title="cob_ast_fail_cr" alt="" coords="218,512,329,539"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="212,563,335,589"/>
+<area shape="rect" id="node13" href="$d7/d9a/motr_2cob_8c.html#a15d088e274492fd38f870b833d9685f8" title="cob_ast_ios_io_send" alt="" coords="201,157,345,184"/>
+<area shape="rect" id="node14" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="416,639,520,665"/>
+<area shape="rect" id="node15" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="393,696,543,723"/>
+<area shape="rect" id="node16" href="$d7/d9a/motr_2cob_8c.html#ada17c0bb2109de12254541813de42c57" title="cob_complete_op" alt="" coords="211,664,335,691"/>
+<area shape="rect" id="node17" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="401,759,535,785"/>
+</map>

@@ -1,0 +1,25 @@
+var structm0__workload__index =
+[
+    [ "exec_time", "d9/dc6/structm0__workload__index.html#a176bfde14f45e8c5b4c7299cc744632a", null ],
+    [ "ids", "d9/dc6/structm0__workload__index.html#a1d319367ecb78b12b002261cd16c795f", null ],
+    [ "index_fid", "d9/dc6/structm0__workload__index.html#ac758d1afed6953ea4f5421860ceaca22", null ],
+    [ "key_prefix", "d9/dc6/structm0__workload__index.html#a1d72e7aceec0afa1c707e0807c4f8d24", null ],
+    [ "key_size", "d9/dc6/structm0__workload__index.html#a0f3084a1981fbadcba999d0bd8744c80", null ],
+    [ "keys_count", "d9/dc6/structm0__workload__index.html#a24bb9d3a9dccb24581d359a218837c6f", null ],
+    [ "keys_ordered", "d9/dc6/structm0__workload__index.html#ac5d0fde241fd27cf3e126c76e4ad24d0", null ],
+    [ "max_key_size", "d9/dc6/structm0__workload__index.html#a64e7951a6f5e30d46af6ace4955fd3dc", null ],
+    [ "max_value_size", "d9/dc6/structm0__workload__index.html#a1565921c83b65d06bd1981e1a1d031fe", null ],
+    [ "min_key_size", "d9/dc6/structm0__workload__index.html#a128e48358be67af8529fa4f93554dbd3", null ],
+    [ "mode", "d9/dc6/structm0__workload__index.html#a1ea5d0cb93f22f7d0fdf804bd68c3326", null ],
+    [ "next_records", "d9/dc6/structm0__workload__index.html#a2691df277211bc29d5960bc262e89ad1", null ],
+    [ "num_index", "d9/dc6/structm0__workload__index.html#a730dd5145c7865a1772fa5164ab4c8a3", null ],
+    [ "num_kvs", "d9/dc6/structm0__workload__index.html#ab3776c1a74bca4279ab637cebd8412a0", null ],
+    [ "op_count", "d9/dc6/structm0__workload__index.html#a85a9400ea3d5eb96dde74c65d0734e55", null ],
+    [ "op_status", "d9/dc6/structm0__workload__index.html#a14befefe70c3901f71ddf7a1130b25d4", null ],
+    [ "opcode", "d9/dc6/structm0__workload__index.html#aff3af4fae5174de7c7e40ec004999ca0", null ],
+    [ "opcode_prcnt", "d9/dc6/structm0__workload__index.html#afe13bfbbc2547c71c05e1173ace50b48", null ],
+    [ "seed", "d9/dc6/structm0__workload__index.html#a13dfa5fcb8e1184f1f7756e717fd2807", null ],
+    [ "value_size", "d9/dc6/structm0__workload__index.html#aa67835599638c99d057adc7087ba65e7", null ],
+    [ "warmup_del_ratio", "d9/dc6/structm0__workload__index.html#a2f1cfca16d5251ac64b9170d321fef03", null ],
+    [ "warmup_put_cnt", "d9/dc6/structm0__workload__index.html#a1635c1890dc4937e218188d0d86f5b72", null ]
+];

@@ -1,0 +1,7 @@
+<map id="m0_reqh_io_service_invariant" name="m0_reqh_io_service_invariant">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga20ae6ec9dfefec8f5eb40e1f8070ee01" title="net_buffer_acquire" alt="" coords="217,5,345,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="201,56,360,83"/>
+<area shape="rect" id="node4" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga9bfc314511ba60e341f0740c2c56c9eb" title="m0_ios_create_buffer_pool" alt="" coords="192,107,369,133"/>
+<area shape="rect" id="node5" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga3c656a3c41e36e12fedd4b8d6a5adcda" title="m0_ios_delete_buffer_pool" alt="" coords="193,157,369,184"/>
+<area shape="rect" id="node6" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga3970af79d194488da5b824f9b432b7d8" title="ios_fini" alt="" coords="249,208,312,235"/>
+</map>

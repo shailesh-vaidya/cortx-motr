@@ -1,0 +1,7 @@
+<map id="be_allocator_header_create" name="be_allocator_header_create">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="230,5,306,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaadc17a574ec24d9f3676add8ff612333" title="m0_be_fl_create" alt="" coords="209,56,327,83"/>
+<area shape="rect" id="node4" href="$d9/d39/alloc_8c.html#a942cd1ecbe7b10d30672ef18c2a61285" title="be_allocator_stats_init" alt="" coords="192,107,344,133"/>
+<area shape="rect" id="node5" href="$d9/d39/alloc_8c.html#ad29b123573e1828e3918bed56be2673f" title="be_allocator_stats\l_capture" alt="" coords="204,158,332,199"/>
+<area shape="rect" id="node6" href="$d9/d39/alloc_8c.html#a863800c8c1b6a054c23528080894c165" title="be_alloc_chunk_add\l_after" alt="" coords="198,223,338,265"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="dix_ut_del" name="dix_ut_del">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#af86955ceb7d1fa13f2eaafa8bdd90ab6" title="dix_put_overwrite" alt="" coords="141,5,265,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a2e3856ce33b6f6825776b5fedd341e68" title="dix_put_dgmode" alt="" coords="144,56,261,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a14e95f51e264634f66dd5462b92ea67c" title="dix_get" alt="" coords="171,107,235,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#ab874297eb5ba5bd770ad4d1f1a760544" title="dix_del" alt="" coords="171,157,234,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#acae93ac22580c74e1d5c089cd6a627cc" title="dix_records_restore" alt="" coords="135,208,271,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#af242a3f073a03347c301ae620459292d" title="dix_del_dgmode" alt="" coords="319,233,435,260"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a11c2586daf8a73151aedca88e2456b2f" title="dix_null_value" alt="" coords="151,309,255,336"/>
+</map>

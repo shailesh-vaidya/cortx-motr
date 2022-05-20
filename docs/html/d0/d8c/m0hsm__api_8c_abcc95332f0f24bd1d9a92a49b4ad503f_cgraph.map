@@ -1,0 +1,8 @@
+<map id="get_next_extents" name="get_next_extents">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga94dc4391285a0716a064d19748c53eec" title="m0_idx_op" alt="" coords="201,5,287,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="191,56,297,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="198,107,290,133"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="176,157,312,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="201,208,287,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="199,259,289,285"/>
+</map>

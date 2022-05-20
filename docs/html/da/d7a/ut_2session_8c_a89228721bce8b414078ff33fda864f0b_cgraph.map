@@ -1,0 +1,8 @@
+<map id="session_check" name="session_check">
+<area shape="rect" id="node2" href="$da/d7a/ut_2session_8c.html#ad7a451afe5eaadc80c8dbd793b646d57" title="session_init_and_establish" alt="" coords="163,5,341,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="389,157,492,184"/>
+<area shape="rect" id="node4" href="$da/d7a/ut_2session_8c.html#a38e0046b033470c2fd8b32a3853e0054" title="session_establish_reply" alt="" coords="171,107,333,133"/>
+<area shape="rect" id="node5" href="$da/d7a/ut_2session_8c.html#ac8b22606317669a00602a6d50f103775" title="session_hold_release" alt="" coords="179,157,325,184"/>
+<area shape="rect" id="node6" href="$da/d7a/ut_2session_8c.html#a3b4caf63022db138950ac52f3fd3467b" title="session_terminate" alt="" coords="188,208,316,235"/>
+<area shape="rect" id="node7" href="$da/d7a/ut_2session_8c.html#a0c05f900fd55b64dabede0c05954e6fa" title="session_terminate_reply\l_and_fini" alt="" coords="171,259,333,301"/>
+</map>

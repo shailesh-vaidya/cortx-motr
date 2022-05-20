@@ -1,0 +1,11 @@
+<map id="m0t1fs_direct_IO" name="m0t1fs_direct_IO">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a029196acc6abe6bd84c5af37fce96a74" title="m0t1fs_file_to_inode" alt="" coords="183,5,326,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ad3225b5085165045efb3753ca9a50c1d" title="indexvec_create" alt="" coords="196,208,313,235"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="408,107,497,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="418,157,487,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af72a425dffdbb39d58c4847e9eb7b0f3" title="indexvec_varr_count" alt="" coords="381,233,524,260"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="217,309,293,336"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ab70e9ff5473dd6ef4560dfa7050ce263" title="v_seg_endpos" alt="" coords="201,360,308,387"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a3de95985754f2f14571a59f11f638aa5" title="m0t1fs_aio" alt="" coords="211,107,298,133"/>
+<area shape="rect" id="node10" href="$d0/d7f/group__vec.html#ga0440f816273dbe5921ba9e56df7ad828" title="m0_indexvec_varr_free" alt="" coords="176,411,333,437"/>
+</map>

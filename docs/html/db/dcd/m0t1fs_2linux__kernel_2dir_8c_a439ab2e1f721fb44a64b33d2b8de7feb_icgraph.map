@@ -1,0 +1,14 @@
+<map id="m0t1fs_mds_cob_op" name="m0t1fs_mds_cob_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae8d2bacadc156bb7af70145397c57e79" title="m0t1fs_mds_statfs" alt="" coords="215,5,350,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#af35bb1f448814809f6e1e21e0355045c" title="m0t1fs_mds_cob_create" alt="" coords="200,56,365,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a59f3bff943774b4dcffc86f2422073cb" title="m0t1fs_mds_cob_unlink" alt="" coords="201,107,364,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae88cf77b09b7c1e6d49b00bd6dff4780" title="m0t1fs_mds_cob_link" alt="" coords="208,157,357,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a7f1a7e6e2427e4b1cb76936045aa5202" title="m0t1fs_mds_cob_lookup" alt="" coords="199,208,366,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#aad296d4a9e9d733df9f8deccde611d7a" title="m0t1fs_mds_cob_getattr" alt="" coords="199,259,366,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a81051855d90a8a8778da1045eb9b1593" title="m0t1fs_mds_cob_setattr" alt="" coords="199,309,366,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a0c9384258c42e18b63ac4c377b0e9cb0" title="m0t1fs_mds_cob_readdir" alt="" coords="199,360,367,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ab0d252507ea70ed98e9870d8320d1ffe" title="m0t1fs_mds_cob_setxattr" alt="" coords="196,411,369,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a3a9c1037e76510d300902f28052c4a18" title="m0t1fs_mds_cob_getxattr" alt="" coords="196,461,369,488"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae05d195f055d33fefeb6919808b5e47f" title="m0t1fs_mds_cob_listxattr" alt="" coords="197,512,369,539"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9c7236811139a3c2074b83ae6541b201" title="m0t1fs_mds_cob_delxattr" alt="" coords="197,563,369,589"/>
+</map>

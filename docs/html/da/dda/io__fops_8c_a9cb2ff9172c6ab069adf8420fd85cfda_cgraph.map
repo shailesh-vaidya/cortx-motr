@@ -1,0 +1,6 @@
+<map id="io_fop_desc_alloc" name="io_fop_desc_alloc">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="180,5,325,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="187,56,319,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="213,107,292,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="215,157,291,184"/>
+</map>

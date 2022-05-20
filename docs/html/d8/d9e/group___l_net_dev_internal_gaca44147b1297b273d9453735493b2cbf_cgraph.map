@@ -1,0 +1,13 @@
+<map id="nlx_dev_ioctl_bev_bless" name="nlx_dev_ioctl_bev_bless">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="265,5,341,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga530692bcf0e267d1a08e8faced4528a4" title="nlx_kcore_tm_invariant" alt="" coords="225,56,381,83"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="436,191,599,217"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#gad040d4c33abc1b0824385271527f0c08" title="nlx_kcore_core_bev_map" alt="" coords="217,157,388,184"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#ga7d87bfc66f51fa5e0a24155424e515f9" title="nlx_core_kmem_loc_is\l_empty" alt="" coords="225,209,380,250"/>
+<area shape="rect" id="node7" href="$dd/d08/group__bevcqueue.html#gae67d05e9d250b186c38319d87252910d" title="bev_link_bless" alt="" coords="249,275,357,301"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#ga50148eb7f1be19bec7ba39176c4ae111" title="nlx_kcore_core_bev\l_unmap" alt="" coords="233,326,372,367"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="245,392,360,419"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="239,443,367,469"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="268,493,337,520"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="269,544,336,571"/>
+</map>

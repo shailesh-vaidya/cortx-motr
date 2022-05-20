@@ -1,0 +1,13 @@
+<map id="cob_stob_delete_credit" name="cob_stob_delete_credit">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="429,5,527,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga5ce49298eda9038c8fce417d6d77a06b" title="m0_fom_tx_credit" alt="" coords="415,63,541,89"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#ad1c2d6172b01dc3cfe312a7e79ff745c" title="cob_is_md" alt="" coords="435,125,521,152"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#ae8a7beadf3657791198210c7db187893" title="cob_op_credit" alt="" coords="427,201,529,228"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="445,277,511,304"/>
+<area shape="rect" id="node7" href="$d9/d51/cob__foms_8c.html#afe773fd53e6d8a1a155de9325b359631" title="ce_stob_edit_credit" alt="" coords="221,252,355,279"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#a0177e60caaa00ce59459034a1323434d" title="cob_stob_create_credit" alt="" coords="209,100,367,127"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gac9b73cc098fae1476ae4894c75f30584" title="m0_be_should_break" alt="" coords="215,353,361,380"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga540ed0a1ddcaf608b37da2332b2ab5cc" title="m0_fom_tx" alt="" coords="245,404,331,431"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="215,455,361,481"/>
+<area shape="rect" id="node12" href="$d9/d51/cob__foms_8c.html#acfb2f92156d717215cd3a11e0ec1a5bf" title="ce_stob_destroy_credit" alt="" coords="209,505,367,532"/>
+</map>

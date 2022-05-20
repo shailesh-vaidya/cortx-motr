@@ -1,0 +1,10 @@
+<map id="m0_be_btree_init" name="m0_be_btree_init">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a704efc3f8ca8f321a5180f0159beea77" title="balloc_init_internal" alt="" coords="181,5,310,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#gaecc96acddec75add7f0c9e2fa55d4253" title="m0_balloc_create" alt="" coords="183,56,307,83"/>
+<area shape="rect" id="node4" href="$dd/d2d/ut_2btree_8c.html#a3117c49de170fe5f13b76cd0f51bddf7" title="create_tree" alt="" coords="202,107,289,133"/>
+<area shape="rect" id="node5" href="$dd/d2d/ut_2btree_8c.html#af50679b2a9c6df6b92db164e8a1def16" title="check" alt="" coords="217,157,274,184"/>
+<area shape="rect" id="node6" href="$d2/de0/group__extmap.html#ga3d5f8012ff20d719be1978cc6dd902f8" title="m0_be_emap_init" alt="" coords="183,208,307,235"/>
+<area shape="rect" id="node7" href="$d8/d50/ctg__store_8c.html#a998fef0c785df84a633d44219161cdc4" title="ctg_init" alt="" coords="213,259,277,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#gac4b37a502cabfea87ac769e0e78f0495" title="m0_cob_domain_init" alt="" coords="175,309,316,336"/>
+<area shape="rect" id="node9" href="$d2/db5/db_8c.html#a2e0e0eda3fbacb2b4f30408729ee0258" title="confdb_table_init" alt="" coords="185,360,305,387"/>
+</map>

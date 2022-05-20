@@ -1,0 +1,9 @@
+<map id="storage_dev_update_by_conf" name="storage_dev_update_by_conf">
+<area shape="rect" id="node2" href="$d0/dfe/group__sdev.html#gacc37c037f5079fb58d735bb4cab14dcd" title="storage_devs_is_locked" alt="" coords="404,147,567,174"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="452,42,519,69"/>
+<area shape="rect" id="node4" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="438,223,533,250"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga16292f777727b670abb7fc587ee967d0" title="m0_storage_dev_detach" alt="" coords="192,325,356,351"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga7d5a0cbc8671ee327895566c213b633f" title="m0_storage_dev_new\l_by_conf" alt="" coords="199,5,349,47"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="236,274,312,301"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="193,173,355,199"/>
+</map>

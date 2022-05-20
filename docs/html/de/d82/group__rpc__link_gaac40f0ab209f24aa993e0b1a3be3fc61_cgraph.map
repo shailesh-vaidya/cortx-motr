@@ -1,0 +1,6 @@
+<map id="rpc_link_call_sync" name="rpc_link_call_sync">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="187,5,285,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="183,56,289,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="187,107,285,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="203,157,269,184"/>
+</map>

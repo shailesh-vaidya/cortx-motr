@@ -1,0 +1,13 @@
+<map id="ep_create" name="ep_create">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="132,5,235,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gafe00935b90da1e6a5c7315945de225c4" title="addr_invariant" alt="" coords="283,259,385,285"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga7d9e1d49b40b58dcb0d60a64aa70c4aa" title="ep_net" alt="" coords="153,107,214,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga6f158d48c8168947b0fef56f8bc52747" title="ep_eq" alt="" coords="155,157,212,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="150,208,217,235"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga1346d46974aa7185fed3b07d84480295" title="addr_print" alt="" coords="144,259,223,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="149,309,218,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="145,360,221,387"/>
+<area shape="rect" id="node10" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="140,411,227,437"/>
+<area shape="rect" id="node11" href="$d5/d16/group__netsock.html#ga5d22cfa334f2d6feb81248e6cd840562" title="ep_release" alt="" coords="141,461,226,488"/>
+<area shape="rect" id="node12" href="$d5/d16/group__netsock.html#gae9390c6a48f66a887e7e0929bd089c25" title="ep_invariant" alt="" coords="137,512,229,539"/>
+</map>

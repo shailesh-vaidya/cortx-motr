@@ -1,0 +1,5 @@
+<map id="nlx_kcore_kcore_dom_fini" name="nlx_kcore_kcore_dom_fini">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#gaa243e6da95eb97974854ef9289fc6b9e" title="nlx_core_dom_init" alt="" coords="227,5,353,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga9a7243ef73c4d6b8c9ecf249adf54a69" title="nlx_core_dom_fini" alt="" coords="227,56,353,83"/>
+<area shape="rect" id="node4" href="$d8/d9e/group___l_net_dev_internal.html#ga120c166ef9fa98855c20aa3b67ff519b" title="nlx_dev_close" alt="" coords="237,107,343,133"/>
+</map>

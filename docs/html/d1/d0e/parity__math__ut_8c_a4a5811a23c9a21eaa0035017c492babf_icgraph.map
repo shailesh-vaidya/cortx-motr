@@ -1,0 +1,5 @@
+<map id="test_recovery" name="test_recovery">
+<area shape="rect" id="node2" href="$d1/d0e/parity__math__ut_8c.html#a72c0b4a747b27f64bb2b2003b63902be" title="test_rs_fv_recover" alt="" coords="173,5,303,32"/>
+<area shape="rect" id="node3" href="$d1/d0e/parity__math__ut_8c.html#a0ee53f4c478c121303618ef2d434dd55" title="test_xor_fv_recover" alt="" coords="169,56,307,83"/>
+<area shape="rect" id="node4" href="$d1/d0e/parity__math__ut_8c.html#af95482d19169360abe0b7896f340ce8a" title="test_xor_fail_idx_recover" alt="" coords="155,107,321,133"/>
+</map>

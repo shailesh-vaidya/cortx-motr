@@ -1,0 +1,13 @@
+<map id="test_revoke_no_conflict_wait" name="test_revoke_no_conflict_wait">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a7d0af84b0e39bc9423616c659ccf8d02" title="remote_credits_utinit" alt="" coords="263,5,406,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="267,56,402,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#a2d9ceaea822ef317893aa33fddc9db38" title="borrow_and_hold" alt="" coords="275,107,395,133"/>
+<area shape="rect" id="node5" href="$de/de1/rmut_8c.html#ab1e99efa41b385980208747c51d801b8" title="credits_are_equal" alt="" coords="273,157,397,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#ada430490ad48efdc2f6da26c6a7ad453" title="credit_get_and_hold\l_nowait" alt="" coords="265,209,404,250"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#gac475887387f514fc84e78c3da285e2af" title="m0_semaphore_timeddown" alt="" coords="244,275,425,301"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="267,325,403,352"/>
+<area shape="rect" id="node9" href="$d6/d94/rcredits_8c.html#ad0a07991248a89d48b9d2506d984dda2" title="held_credit_cache" alt="" coords="271,376,398,403"/>
+<area shape="rect" id="node10" href="$d6/d94/rcredits_8c.html#adfea67d68cecc11160cdb49b20c72b1f" title="wait_for_credit" alt="" coords="281,427,388,453"/>
+<area shape="rect" id="node11" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="267,477,402,504"/>
+<area shape="rect" id="node12" href="$d6/d94/rcredits_8c.html#ae0564774909d39e6a26d505262673aca" title="remote_credits_utfini" alt="" coords="263,528,406,555"/>
+</map>

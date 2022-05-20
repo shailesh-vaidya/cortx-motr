@@ -1,0 +1,29 @@
+<map id="m0_confc_root_open" name="m0_confc_root_open">
+<area shape="rect" id="node2" href="$d1/df2/group__motr.html#gae76dec6cd32ad33d4a9655c59ab85e88" title="motr_ha_confd_iter" alt="" coords="213,5,346,32"/>
+<area shape="rect" id="node3" href="$d1/df2/group__motr.html#ga4671b7a2e03d507e47db88f798481634" title="motr_ha_entrypoint\l_rep_rm_fill" alt="" coords="213,57,346,98"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="205,123,353,149"/>
+<area shape="rect" id="node5" href="$df/dca/group__m0d.html#gad6e989ec529cdfd8ccc1cfb458dbbbfd" title="m0_cs_dix_setup" alt="" coords="423,173,547,200"/>
+<area shape="rect" id="node6" href="$df/dca/group__m0d.html#ga7d140b6c63a0d5050043944b6ddc3885" title="cs_level_enter" alt="" coords="607,224,713,251"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga85841f6845a6601b4a4b4762ccbb5666" title="pool_from_virtual_pver" alt="" coords="203,275,356,301"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a2399c91e82f3d319f10d7b6015dfe061" title="dix_client_init" alt="" coords="229,325,330,352"/>
+<area shape="rect" id="node9" href="$db/d71/dix_2ut_2client__ut_8c.html#a9e6a40ff3a91470938ad6fe2cbb8c0db" title="ut_pver_find" alt="" coords="233,376,326,403"/>
+<area shape="rect" id="node10" href="$d2/d72/ut_2confc_8c.html#a7b00651a2c04fc36c6b50dc2f3ef9970" title="root_open_test" alt="" coords="225,427,333,453"/>
+<area shape="rect" id="node11" href="$df/d22/conf_2helpers_8h.html#aa826bda14553a326ba3170660c49a051" title="m0_conf_pver_get" alt="" coords="215,477,344,504"/>
+<area shape="rect" id="node12" href="$df/d22/conf_2helpers_8h.html#ac42b94e1e34e4dc28084c177ff71bd97" title="m0_conf_device_cid\l_to_fid" alt="" coords="209,529,350,570"/>
+<area shape="rect" id="node13" href="$db/dc2/conf_2helpers_8c.html#a8bdfe44e42d8704c7493bbc575d70c77" title="confc_service_find" alt="" coords="214,595,345,621"/>
+<area shape="rect" id="node14" href="$db/dc2/conf_2helpers_8c.html#a5bb136a64ec7b045acf01d3a5bf19d0f" title="conf__objs_count" alt="" coords="217,645,341,672"/>
+<area shape="rect" id="node15" href="$db/d90/group__rconfc__dlspec.html#ga3135666601237aee1bec7e928bee6f33" title="rconfc_conf_full_load" alt="" coords="207,696,352,723"/>
+<area shape="rect" id="node16" href="$db/d90/group__rconfc__dlspec.html#gae16fd577a37c9b7520601b36797d1a3c" title="rconfc_local_load" alt="" coords="218,747,341,773"/>
+<area shape="rect" id="node17" href="$d5/d9a/ut_2rconfc_8c.html#a79db09c64638fc3bb10f7ababa6c401d" title="test_drain" alt="" coords="240,797,319,824"/>
+<area shape="rect" id="node18" href="$dd/d33/group__dix.html#ga7329df0fac123ba7029067ec3e0d35be" title="dix_init" alt="" coords="248,848,311,875"/>
+<area shape="rect" id="node19" href="$dd/d33/group__dix.html#gaf9830b5d40b55e8bb377a3bbd5c8376b" title="dix_root_pver_find" alt="" coords="215,899,343,925"/>
+<area shape="rect" id="node20" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a5aa05c92e834b5040adfe02fb07a33ea" title="file_io_ut_init" alt="" coords="230,949,329,976"/>
+<area shape="rect" id="node21" href="$d7/d48/ut_2note_8c.html#a8252928801ed48260aaefd27e3209e1e" title="ha_ut_conf_init" alt="" coords="224,1000,335,1027"/>
+<area shape="rect" id="node22" href="$d6/d85/group__iscservice.html#ga2dead6b7b390b5f29134adafa360262b" title="m0_isc_lib_register" alt="" coords="212,1051,347,1077"/>
+<area shape="rect" id="node23" href="$d2/d1d/super_8c.html#af66f1783405b5d83616a9c3195c0360f" title="m0t1fs_setup" alt="" coords="229,1101,330,1128"/>
+<area shape="rect" id="node24" href="$de/de2/client__init_8c.html#a0a76316a55f30c385382e3e1fd541666" title="confc_init" alt="" coords="240,1152,319,1179"/>
+<area shape="rect" id="node25" href="$d7/d99/conf_8c.html#a9a1d5256e4452dd0d01fb52e4812a939" title="cs_conf_storage_is\l_n1_k0_s0" alt="" coords="212,1203,347,1245"/>
+<area shape="rect" id="node26" href="$df/dca/group__m0d.html#ga7692f293bcdaff9f2f7a4aa007a0b5a1" title="cs_conf_services_init" alt="" coords="411,772,559,799"/>
+<area shape="rect" id="node27" href="$d2/d61/group__index-dix.html#ga9bea22e477b098428ca9fb356512d93a" title="dix_root_idx_pver" alt="" coords="217,1320,341,1347"/>
+<area shape="rect" id="node28" href="$df/dca/group__m0d.html#gaa8c79520afb4d81f86ebb44c6451b49d" title="be_repair_zone_pcnt_get" alt="" coords="196,1371,363,1397"/>
+</map>

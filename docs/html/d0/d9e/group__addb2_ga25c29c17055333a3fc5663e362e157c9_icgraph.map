@@ -1,0 +1,12 @@
+<map id="sm_state" name="sm_state">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gafb2466506eae6d4d96da2ae1c685cdac" title="fom_state" alt="" coords="143,5,223,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga761972c6888634e8b1b34444172700e0" title="rpc_in" alt="" coords="154,56,211,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gad8b47df3199ce31acaaac15ace861d40" title="rpc_out" alt="" coords="150,107,215,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga01b0c9b566e0a3826b44cc801ac064a9" title="tx_state" alt="" coords="148,157,217,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga5beda2aaeba6dfa3924ce95697f42f4c" title="dtx0_state" alt="" coords="141,208,224,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gab48cc4aa9e4149caa4ec9922465e88d7" title="op_state" alt="" coords="147,259,219,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#gaf2b21e461484a5307dbae995f65fa6fc" title="dix_op_state" alt="" coords="135,309,231,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga7926f02e838273ae84a4f6b6970aaf07" title="cas_op_state" alt="" coords="133,360,233,387"/>
+<area shape="rect" id="node10" href="$d0/d9e/group__addb2.html#ga63d5205dc18dbfd416b296cd83abd3f5" title="ioo_req_state" alt="" coords="133,411,233,437"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga0a06f600075573dfc9ce4c1c52183e79" title="item_cancel_fi" alt="" coords="129,461,236,488"/>
+</map>

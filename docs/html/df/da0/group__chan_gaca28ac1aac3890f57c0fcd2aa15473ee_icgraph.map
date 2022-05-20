@@ -1,0 +1,19 @@
+<map id="m0_clink_signal" name="m0_clink_signal">
+<area shape="rect" id="node2" href="$dd/da7/conf_2ut_2common_8h.html#a1a7776a0ba858cac853bc12f882c6d4e" title="m0_conf_ut_ast_thread_fini" alt="" coords="182,5,365,32"/>
+<area shape="rect" id="node3" href="$dd/d1d/be_2ut_2helper_8c.html#a89aacd3c37138e1cc77beffaa09f9e90" title="m0_be_ut_sm_group_thread_fini" alt="" coords="168,56,379,83"/>
+<area shape="rect" id="node4" href="$d2/dd6/be_2ut_2helper_8h.html#a1dc33ba8f98ce04410a51fe6f7dd53a2" title="m0_be_ut_backend_sm\l_group_asts_run" alt="" coords="193,107,353,149"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#gaf4d1723abdd66181f4084c92a48d49a0" title="m0_cm_ast_run_thread_fini" alt="" coords="182,173,365,200"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga6673129331a1922c11eb309bda789423" title="rconfc_load_ast_thread_fini" alt="" coords="183,224,364,251"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga2329efad9db4fff88bf3ff8570b8524d" title="m0_fom_block_leave" alt="" coords="201,275,346,301"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga1f596e6fd3cc0d47826e606b5f5787e5" title="loc_fini" alt="" coords="242,325,305,352"/>
+<area shape="rect" id="node9" href="$d7/d48/ut_2note_8c.html#af93c2642ba634f633a0bf32b1bcc3ff2" title="ast_thread_fini" alt="" coords="220,376,327,403"/>
+<area shape="rect" id="node10" href="$de/d2a/ut_2chan_8c.html#a70a6157a86c827b00e47d24977215c9f" title="signal_the_chan_in\l_timer" alt="" coords="207,427,340,469"/>
+<area shape="rect" id="node11" href="$d8/dec/group__locality.html#gac1480087884ff54f826c1574e4c5034e" title="m0_localities_fini" alt="" coords="212,493,335,520"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#ga94e817e4bb538c7926ea6191fb2b65eb" title="m0_rm_type_deregister" alt="" coords="194,544,353,571"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#ga3895b0df9036d486f0555e5ef2ca166c" title="rm_on_remote_death_cb" alt="" coords="191,595,356,621"/>
+<area shape="rect" id="node14" href="$d6/d63/ut_2formation2_8c.html#ab9a7fc37b2ef7145ac154d73380c3e18" title="frm_ut_fini" alt="" coords="232,645,315,672"/>
+<area shape="rect" id="node15" href="$db/de9/group__rpc.html#ga7de928bf0cc92e7751cd7e3377264bfc" title="m0_rpc_machine_init" alt="" coords="201,696,346,723"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#gafc61a4a3957bc213860676f31429771c" title="m0_rpc_machine_fini" alt="" coords="201,747,346,773"/>
+<area shape="rect" id="node17" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="212,797,335,824"/>
+<area shape="rect" id="node18" href="$d0/d5d/ut_2sm_8c.html#aa3baa9e0e4e440469934bd1b8b0c1a26" title="fini" alt="" coords="254,848,293,875"/>
+</map>

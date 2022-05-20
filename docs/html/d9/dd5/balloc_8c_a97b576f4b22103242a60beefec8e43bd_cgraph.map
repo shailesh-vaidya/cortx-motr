@@ -1,0 +1,8 @@
+<map id="balloc_init" name="balloc_init">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="148,5,268,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#ga871317ed8b5f3e0b7c24313b77e57fbf" title="b2m0" alt="" coords="181,56,235,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="141,107,275,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a704efc3f8ca8f321a5180f0159beea77" title="balloc_init_internal" alt="" coords="143,157,273,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="331,183,397,209"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="133,259,283,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="packet_fini" name="packet_fini">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="152,5,287,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaec96dc31cab9eace69e8bc10deb92649" title="m0_rpc_packet_remove\l_all_items" alt="" coords="139,57,300,98"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="145,123,294,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga1cd5d75d6ed19b39e3bd38b4bae218e4" title="m0_rpc_packet_fini" alt="" coords="152,173,287,200"/>
+</map>

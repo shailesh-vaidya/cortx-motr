@@ -1,0 +1,11 @@
+<map id="m0_addb2_sensor_add" name="m0_addb2_sensor_add">
+<area shape="rect" id="node2" href="$d6/d7d/ut_2consumer_8c.html#a2f9c00cd4ef25abbb72e0e08e1b6e11d" title="sensor" alt="" coords="271,5,332,32"/>
+<area shape="rect" id="node3" href="$d6/d7d/ut_2consumer_8c.html#ad5fd78ba94d5cfacdd45241c8f01a909" title="sensor_N" alt="" coords="262,56,341,83"/>
+<area shape="rect" id="node4" href="$d6/d7d/ut_2consumer_8c.html#ad830b8e1643d37709b3372ab9545f7d2" title="id_philter" alt="" coords="264,107,339,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga981ed8486c642a49ab08f0b98f124e66" title="m0_addb2_counter_add" alt="" coords="221,157,381,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga5b99644cf27419af2fe6abd6f16949a2" title="m0_addb2_list_counter_add" alt="" coords="209,208,393,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gaaef4368678e6640d4999b205aebd771d" title="m0_addb2_clock_add" alt="" coords="227,259,375,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga86036063c41ac9396285503cfdc3fc23" title="m0_addb2_hist_add" alt="" coords="232,309,371,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga182952577861c80edc8b9fc32eec3e6c" title="m0_addb2_hist_add_auto" alt="" coords="216,360,387,387"/>
+<area shape="rect" id="node10" href="$dc/de2/base_8c.html#a8731492cbad5685cf248f2ce0bab5ded" title="sensor_depth" alt="" coords="251,411,351,437"/>
+</map>

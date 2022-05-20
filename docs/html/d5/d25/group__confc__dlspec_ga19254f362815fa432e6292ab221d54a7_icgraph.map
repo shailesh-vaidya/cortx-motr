@@ -1,0 +1,9 @@
+<map id="m0_confc2sess" name="m0_confc2sess">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga3f43e4a2e619613db12a6c5e8c281ebd" title="disconnect_from_confd" alt="" coords="177,5,334,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga12dac30882ea83f49d6b51e5c52f98e9" title="request_create" alt="" coords="201,56,309,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gaae3152a6848b4933b5882ac1750a5361" title="request_check" alt="" coords="202,107,309,133"/>
+<area shape="rect" id="node5" href="$d3/da7/rconfc__link__fom_8c.html#af1cdee6deb33b30093111189734b8a89" title="rconfc_link__on_sess_idle" alt="" coords="168,157,343,184"/>
+<area shape="rect" id="node6" href="$d3/da7/rconfc__link__fom_8c.html#ada26646bbaaf79b64f55b214d2cb6f0a" title="rconfc_herd_link_fom\l_wait_on" alt="" coords="391,230,537,271"/>
+<area shape="rect" id="node7" href="$d3/da7/rconfc__link__fom_8c.html#a83ee6d9b099373cd06d7d4ff574a4452" title="rconfc_link_fom_tick" alt="" coords="585,296,728,323"/>
+<area shape="rect" id="node8" href="$d3/da7/rconfc__link__fom_8c.html#afbe5ff1dbc0ae44d1fb3f6040579c10b" title="rconfc_link__on_sess\l_terminated" alt="" coords="181,259,329,301"/>
+</map>

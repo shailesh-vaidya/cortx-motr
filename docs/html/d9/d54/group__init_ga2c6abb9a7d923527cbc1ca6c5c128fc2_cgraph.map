@@ -1,0 +1,5 @@
+<map id="m0_init_once" name="m0_init_once">
+<area shape="rect" id="node2" href="$d9/d54/group__init.html#gad763c4a52a40ced8b15bfaa74776a9b6" title="init_nr" alt="" coords="181,5,238,32"/>
+<area shape="rect" id="node3" href="$d9/d54/group__init.html#gab1be55cde2bfe4089d53e3dc9f754306" title="fini_nr" alt="" coords="315,31,372,57"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga7e01f18772e6f1eeac7e1ea1a800a497" title="m0_threads_init" alt="" coords="152,107,267,133"/>
+</map>

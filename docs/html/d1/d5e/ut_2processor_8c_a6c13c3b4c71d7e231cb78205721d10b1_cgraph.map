@@ -1,0 +1,11 @@
+<map id="verify_processors" name="verify_processors">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga8c33f37769f2ad3fb0140594feb5be84" title="m0_processors_init" alt="" coords="191,5,326,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#gab53991d09969970bb10218a072d1cd6b" title="m0_processor_nr_max" alt="" coords="181,56,336,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="203,107,314,133"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga6d7b1eeb7e64a79985792f29f3b92778" title="m0_processors_online" alt="" coords="183,157,335,184"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="203,208,314,235"/>
+<area shape="rect" id="node7" href="$d7/da7/group__processor.html#ga7ae6a342436336d5bd8669fb6d2a6bc1" title="m0_processor_describe" alt="" coords="179,259,339,285"/>
+<area shape="rect" id="node8" href="$d1/d5e/ut_2processor_8c.html#a40c596ddee90aed141b31562b07da276" title="verify_a_processor" alt="" coords="193,309,325,336"/>
+<area shape="rect" id="node9" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="203,360,314,387"/>
+<area shape="rect" id="node10" href="$d7/da7/group__processor.html#ga3a235bc41dd368af53d7a2148a3d6ef0" title="m0_processors_fini" alt="" coords="191,411,326,437"/>
+</map>

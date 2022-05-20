@@ -1,0 +1,6 @@
+<map id="frm_ut_fini" name="frm_ut_fini">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="162,5,277,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="136,56,303,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="164,107,275,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="155,157,283,184"/>
+</map>

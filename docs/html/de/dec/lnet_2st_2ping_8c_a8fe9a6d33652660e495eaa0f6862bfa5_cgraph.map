@@ -1,0 +1,7 @@
+<map id="encode_desc" name="encode_desc">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="577,104,617,130"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="369,53,522,80"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="152,104,313,130"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="361,154,529,181"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#gad481d7c4ffe49912e0cca7c0262baa0b" title="m0_bufvec_cursor_step" alt="" coords="152,205,313,232"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_io_cob_stob_create" name="m0_io_cob_stob_create">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga0dbb535d77d4a1e711e145381603bfac" title="m0_cob_oikey_make" alt="" coords="432,107,577,133"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gac0403dde99c1bb3e817b017a137a1310" title="m0_cob_locate" alt="" coords="449,208,560,235"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="639,157,705,184"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="625,284,719,311"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="257,385,340,412"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gaea5beed5f07d89eefb198a547fa4fcd5" title="m0_cob_delete" alt="" coords="243,157,354,184"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga540ed0a1ddcaf608b37da2332b2ab5cc" title="m0_fom_tx" alt="" coords="255,436,342,463"/>
+<area shape="rect" id="node9" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="213,487,384,513"/>
+<area shape="rect" id="node10" href="$d9/d51/cob__foms_8c.html#a5785248f02f1a997fe79622fb1f2bbe1" title="m0_cc_stob_create" alt="" coords="437,5,573,32"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#gac09aa90d44907f0a054674d1a90a5cea" title="m0_io_cob_create" alt="" coords="441,259,569,285"/>
+</map>

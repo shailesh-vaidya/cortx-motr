@@ -1,0 +1,6 @@
+<map id="m0_rpc_item_change_state" name="m0_rpc_item_change_state">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="200,5,383,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga97fb5e47d64f690b06dc09b96ff67e6f" title="item_state_name" alt="" coords="230,56,353,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga0cfa12045a60003d9ceed0fb70783888" title="m0_sm_state_name" alt="" coords="431,81,571,108"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="228,157,355,184"/>
+</map>

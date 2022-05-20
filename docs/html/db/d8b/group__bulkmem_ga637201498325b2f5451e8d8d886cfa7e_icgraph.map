@@ -1,0 +1,9 @@
+<map id="mem_wi_to_buffer" name="mem_wi_to_buffer">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#gac49708d3c6704e8adab2650b693bd88c" title="mem_wf_passive_bulk_cb" alt="" coords="181,5,357,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#ga40c963907d4a07942052cff19c6cb7c3" title="mem_wf_active_bulk" alt="" coords="197,56,342,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#gae026d29da06bc664e55367dc608c739e" title="mem_wf_msg_recv_cb" alt="" coords="191,107,348,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#gaad376667dea0f3c969e95125189ea2c3" title="mem_wf_msg_send" alt="" coords="200,157,339,184"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#gad89a5998eab98d93998c4dbb0ad039b1" title="mem_wf_cancel_cb" alt="" coords="200,208,339,235"/>
+<area shape="rect" id="node7" href="$db/d8b/group__bulkmem.html#ga09cb1ed4d5b619af17cfd047b4b18e8a" title="mem_xo_tm_worker" alt="" coords="199,259,339,285"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#gaf463adf4827b4debe25f60b72bb83dee" title="mem_wi_post_buffer\l_event" alt="" coords="198,310,341,351"/>
+</map>

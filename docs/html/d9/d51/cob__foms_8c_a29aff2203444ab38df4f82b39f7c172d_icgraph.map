@@ -1,0 +1,5 @@
+<map id="cob_tick_tail" name="cob_tick_tail">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a436b45604f1eba4458e8a0618f0bc238" title="cob_getattr_fom_tick" alt="" coords="148,5,292,32"/>
+<area shape="rect" id="node3" href="$d9/d51/cob__foms_8c.html#a248f4ce335db52ea21813c5dfc8af56c" title="cob_setattr_fom_tick" alt="" coords="148,56,292,83"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="156,107,284,133"/>
+</map>

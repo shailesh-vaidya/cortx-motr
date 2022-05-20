@@ -1,0 +1,6 @@
+<map id="m0_ut_stob_fini" name="m0_ut_stob_fini">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="208,5,273,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gabbd339f3e7924e9ee2be1667b7ef0991" title="m0_stob_domain_fini" alt="" coords="168,56,313,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="361,81,431,108"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="187,157,294,184"/>
+</map>

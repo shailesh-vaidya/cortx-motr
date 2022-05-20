@@ -1,0 +1,6 @@
+<map id="m0_be_dtm0_log_credit" name="m0_be_dtm0_log_credit">
+<area shape="rect" id="node2" href="$db/de1/dtm0__log_8c.html#a6f206ec9dddb0b24ea005e47eed2acac" title="log_create_credit" alt="" coords="216,5,337,32"/>
+<area shape="rect" id="node3" href="$db/de1/dtm0__log_8c.html#ad5c1e71f0a1f4bc42baa626c00ecebc4" title="log_rec_partial_insert\l_credit" alt="" coords="388,78,533,119"/>
+<area shape="rect" id="node4" href="$db/de1/dtm0__log_8c.html#acc575e91fac5555ceb1d8e2997d38e17" title="log_rec_full_insert\l_credit" alt="" coords="213,107,340,149"/>
+<area shape="rect" id="node5" href="$db/de1/dtm0__log_8c.html#a9b60fa6e769d6cebf34d902f3734ab90" title="log_rec_del_credit" alt="" coords="213,173,340,200"/>
+</map>

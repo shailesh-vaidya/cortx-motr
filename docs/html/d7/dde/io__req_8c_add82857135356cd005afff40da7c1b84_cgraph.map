@@ -1,0 +1,10 @@
+<map id="ioreq_dgmode_read" name="ioreq_dgmode_read">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#a1fa97a3d8f65a6bcf17f78ec486d4042" title="m0_op_io_invariant" alt="" coords="201,37,335,64"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="396,67,507,93"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="418,205,485,232"/>
+<area shape="rect" id="node5" href="$d7/dde/io__req_8c.html#ae9e72a731d2ec6b218854d6adeba043e" title="device_check" alt="" coords="217,155,319,181"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="413,256,489,283"/>
+<area shape="rect" id="node7" href="$d9/d5b/motr_2io_8c.html#a7c993604ae4bc15e50df74316a9d5e65" title="ioo_to_poolmach" alt="" coords="208,357,328,384"/>
+<area shape="rect" id="node8" href="$d4/dc1/motr_2io_8h.html#a355289fc7f36466076c0147fc5f0ebe1" title="ioreq_fop_dgmode_read" alt="" coords="188,256,348,283"/>
+<area shape="rect" id="node9" href="$d7/dde/io__req_8c.html#ab05381e114a21ce022664b2f5bcdbf38" title="ioreq_sm_state_set\l_locked" alt="" coords="200,89,336,130"/>
+</map>

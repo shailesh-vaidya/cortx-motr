@@ -1,0 +1,13 @@
+<map id="m0_dix_cm_cp_init" name="m0_dix_cm_cp_init">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975" title="cp2dixcp" alt="" coords="236,5,311,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="225,56,322,83"/>
+<area shape="rect" id="node4" href="$d5/df4/group___d_i_x_c_m_c_p.html#gadef52497bb3337804482fe150ddfa1ca" title="dixcpx_to_dixcp" alt="" coords="215,107,331,133"/>
+<area shape="rect" id="node5" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac6187a25fa14442ba52f0e4ec5252b3e" title="cpfom2cm" alt="" coords="232,157,315,184"/>
+<area shape="rect" id="node6" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="225,208,321,235"/>
+<area shape="rect" id="node7" href="$d6/db9/group___c_m_a_g.html#ga735967226ee3f7fa7f0840c6952dcf5e" title="m0_cm_aggr_group_alloc" alt="" coords="188,259,359,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="407,284,473,311"/>
+<area shape="rect" id="node9" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="218,360,329,387"/>
+<area shape="rect" id="node10" href="$d6/db9/group___c_m_a_g.html#ga5352f93151a44c6de039541f79404775" title="m0_cm_ag_cp_add" alt="" coords="206,411,341,437"/>
+<area shape="rect" id="node11" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf1ae488b8e87316ced7848717c2756a6" title="m0_long_lock_link_init" alt="" coords="197,461,350,488"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="205,512,341,539"/>
+</map>

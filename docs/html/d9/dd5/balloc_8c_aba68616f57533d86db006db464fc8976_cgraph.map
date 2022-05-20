@@ -1,0 +1,12 @@
+<map id="balloc_wild_scan_group" name="balloc_wild_scan_group">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#ab1c25928253b22f7d5f68dea541e1089" title="is_spare" alt="" coords="271,5,341,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a0a82eece40bd96787abef55884c68fef" title="group_spare_freeblocks_get" alt="" coords="213,56,399,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a16a18635d83284758bd9230bdad9adc5" title="group_freeblocks_get" alt="" coords="233,107,379,133"/>
+<area shape="rect" id="node5" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="657,171,711,197"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a6b641cd81d0f60b45ec40e7cb9e19176" title="balloc_bn2gn" alt="" coords="635,233,733,260"/>
+<area shape="rect" id="node7" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="261,461,351,488"/>
+<area shape="rect" id="node8" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="631,309,737,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="481,360,548,387"/>
+<area shape="rect" id="node10" href="$d9/dd5/balloc_8c.html#abd0e74f7c5c3c4fa973fa97f8aeb8910" title="balloc_measure_extent" alt="" coords="228,309,384,336"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#a0a32d8780ca052e78817affb46089d65" title="balloc_check_limits" alt="" coords="447,259,583,285"/>
+</map>

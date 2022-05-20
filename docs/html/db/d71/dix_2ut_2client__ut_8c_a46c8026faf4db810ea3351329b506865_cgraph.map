@@ -1,0 +1,14 @@
+<map id="dix_client_fini" name="dix_client_fini">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga4f4560ea6f524440143c5cd7714abf00" title="m0_pool_versions_destroy" alt="" coords="157,5,335,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga835d4b003abab4074c0682826115894a" title="m0_layout_domain_cleanup" alt="" coords="155,56,337,83"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#gaf632ada4e99f27410b406855d9f3b848" title="m0_layout_standard\l_types_unregister" alt="" coords="177,107,315,149"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#ga6e8dfc86eec7538d7069680f040c82b8" title="m0_layout_domain_fini" alt="" coords="169,173,323,200"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gafff4b50e8426096033fd7438ffb16596" title="m0_pools_service_ctx\l_destroy" alt="" coords="170,225,322,266"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="182,291,310,317"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="385,341,455,368"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="167,392,325,419"/>
+<area shape="rect" id="node10" href="$db/d90/group__rconfc__dlspec.html#gaf2e40c95204318391ec2bd4c3187c913" title="m0_rconfc_stop_sync" alt="" coords="171,443,321,469"/>
+<area shape="rect" id="node11" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="193,493,299,520"/>
+<area shape="rect" id="node12" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="179,544,313,571"/>
+<area shape="rect" id="node13" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="177,595,315,621"/>
+</map>

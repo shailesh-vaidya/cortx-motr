@@ -1,0 +1,19 @@
+<map id="m0t1fs_mds_cob_op" name="m0t1fs_mds_cob_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad87ae68db1f47a3826d3a3e1e376bd4e" title="M0_ENTRY" alt="" coords="235,5,327,32"/>
+<area shape="rect" id="node3" href="$d2/d1d/super_8c.html#a31354d7263b9d985c8e2e6dbfe82f542" title="m0t1fs_filename_to\l_mds_session" alt="" coords="213,57,349,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gae04549341ae7838ea697d669b2f161ec" title="m0_rpc_session_validate" alt="" coords="196,123,365,149"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="437,173,504,200"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="433,257,509,284"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gabcc9798121a1f27cb1c1d7d71b370693" title="m0_fop_alloc_at" alt="" coords="222,443,339,469"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5882dafb81051d6db1c9184196ce59b0" title="M0_LOG" alt="" coords="244,493,317,520"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="211,544,351,571"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#aae28a21740233ba32e5f513ffff29b56" title="m0t1fs_mds_cob_fop\l_populate" alt="" coords="207,275,354,317"/>
+<area shape="rect" id="node11" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="413,309,528,336"/>
+<area shape="rect" id="node12" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="422,364,519,391"/>
+<area shape="rect" id="node13" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="215,595,347,621"/>
+<area shape="rect" id="node14" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="211,645,351,672"/>
+<area shape="rect" id="node15" href="$d6/d39/group__fop.html#ga9bd7e793ec19730ad058d84a4cb9a5ce" title="m0_fop_get" alt="" coords="235,696,326,723"/>
+<area shape="rect" id="node16" href="$da/ddc/group__reqhservice.html#gae488641b26a437ca67589340a9f9778f" title="m0_reqh_service_ctx\l_from_session" alt="" coords="207,747,354,789"/>
+<area shape="rect" id="node17" href="$d2/d8f/fsync_8c.html#a77a4ac0fb72541ef4318b35538ae18e9" title="m0t1fs_fsync_record\l_update" alt="" coords="209,813,353,854"/>
+<area shape="rect" id="node18" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ac5340447ae4f80028855a3315d9774e8" title="m0_fop_put0_lock" alt="" coords="217,879,345,905"/>
+</map>

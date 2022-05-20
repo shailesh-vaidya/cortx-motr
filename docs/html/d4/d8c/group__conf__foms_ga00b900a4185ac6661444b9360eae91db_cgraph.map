@@ -1,0 +1,10 @@
+<map id="conf_flip_fom_tick" name="conf_flip_fom_tick">
+<area shape="rect" id="node2" href="$da/dec/flip__fop_8c.html#aa5591919af0c96d00c86fb0d2ecaa79b" title="m0_is_conf_flip_fop" alt="" coords="385,5,523,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga604374b8c983f14fbae8cd5be4791289" title="m0_fom_tick_generic" alt="" coords="181,81,328,108"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="421,107,487,133"/>
+<area shape="rect" id="node5" href="$d4/d8c/group__conf__foms.html#gab136e355caedf5ce7185dd95b54407ef" title="conf_flip_fom_invariant" alt="" coords="376,183,532,209"/>
+<area shape="rect" id="node6" href="$d4/d8c/group__conf__foms.html#gae26ec1cab99b9863f8b156a00c5fe305" title="conf_flip_prepare" alt="" coords="194,183,315,209"/>
+<area shape="rect" id="node7" href="$d4/d8c/group__conf__foms.html#gab3e4fda5a8a84ac3a9721dcacfacf8b0" title="conf_flip_apply" alt="" coords="200,132,309,159"/>
+<area shape="rect" id="node8" href="$da/dec/flip__fop_8c.html#afdd242835a5c09efc90c075a3cc60be1" title="m0_conf_fop_to_flip\l_fop_rep" alt="" coords="185,285,324,326"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga0d4cf60def3ba4390460d35d68902cb7" title="m0_fom_rc" alt="" coords="211,351,298,377"/>
+</map>

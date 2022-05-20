@@ -1,0 +1,24 @@
+<map id="test_pdclust_instance_obj" name="test_pdclust_instance_obj">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#gaa87d0f5d58a435ae036044bab9ea4661" title="enum_id" alt="" coords="480,47,551,73"/>
+<area shape="rect" id="node3" href="$df/dca/lib_2misc_8c.html#aa4f9b74ceb2eff5829e8c547939733c3" title="m0_uint128_init" alt="" coords="259,351,373,377"/>
+<area shape="rect" id="node4" href="$d6/de4/layout_2ut_2layout_8c.html#acabce7ab7d4c6eee02784d2fb0d39ad8" title="NKP_assign_and_pool_init" alt="" coords="227,47,405,73"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#a4a236b9bc1d9225f913efe29eb8ce964" title="pdclust_layout_build" alt="" coords="246,148,386,175"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga93e17e15f5e23270b07c6bf65f41e499" title="m0_fid_set" alt="" coords="472,123,559,149"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="481,187,550,213"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#ab97a4182e9b1e120592a7cd11354ae74" title="list_lookup" alt="" coords="473,244,557,271"/>
+<area shape="rect" id="node9" href="$df/d01/group__pdclust.html#gaf6469d781786f85efe0a4152b677aa9b" title="m0_pdl_to_layout" alt="" coords="453,300,577,327"/>
+<area shape="rect" id="node10" href="$df/d01/group__pdclust.html#ga65e2d12da25e81b4089e888081f4c625" title="m0_pdclust_N" alt="" coords="263,401,369,428"/>
+<area shape="rect" id="node11" href="$df/d01/group__pdclust.html#gacb690cdeb5f357c44d0f9b1dcf7c2bd5" title="m0_pdclust_K" alt="" coords="263,452,369,479"/>
+<area shape="rect" id="node12" href="$df/d01/group__pdclust.html#gad0da5f1b7414cb89199462c51a38921c" title="m0_pdclust_S" alt="" coords="263,503,369,529"/>
+<area shape="rect" id="node13" href="$df/d01/group__pdclust.html#gac571331a5cc385329fbe8f7070b17c50" title="m0_pdclust_P" alt="" coords="263,553,369,580"/>
+<area shape="rect" id="node14" href="$df/d01/group__pdclust.html#ga363fd0cb752eda44be8a297e1c404f02" title="m0_pdclust_unit_size" alt="" coords="242,604,390,631"/>
+<area shape="rect" id="node15" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="231,655,401,681"/>
+<area shape="rect" id="node16" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="468,731,563,757"/>
+<area shape="rect" id="node17" href="$da/da8/group__layout.html#ga832cf9903637b74d72d756111220aa78" title="m0_layout_instance\l_build" alt="" coords="247,807,385,849"/>
+<area shape="rect" id="node18" href="$df/d01/group__pdclust.html#ga5202a3887f4bcd90f007b3260f5361c8" title="m0_layout_instance\l_to_pdi" alt="" coords="247,873,385,914"/>
+<area shape="rect" id="node19" href="$d6/de4/layout_2ut_2layout_8c.html#af02aa077a7371cb42e71cb9b787b8c44" title="ldemo" alt="" coords="287,939,345,965"/>
+<area shape="rect" id="node20" href="$da/da8/group__layout.html#ga49d41573708bdb05901549c7b5df0d08" title="m0_layout_instance\l_to_enum" alt="" coords="247,990,385,1031"/>
+<area shape="rect" id="node21" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="235,1056,397,1083"/>
+<area shape="rect" id="node22" href="$da/da8/group__layout.html#ga29c80e8d71855cfeace3c8d6f6ced055" title="m0_layout_put" alt="" coords="263,756,369,783"/>
+<area shape="rect" id="node23" href="$dd/d7f/group__pool.html#ga94bc2b9d1ad8d5a89d0be837ee40c1c8" title="m0_pool_fini" alt="" coords="269,1107,363,1133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="rconfc_unpinned_cb" name="rconfc_unpinned_cb">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="413,169,471,195"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga6926f12c2d28376109989504ab21dcf3" title="rconfc_state" alt="" coords="223,42,318,69"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="221,93,320,119"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="213,143,328,170"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga92b8e301323dee8d0b7a15e473bf3cd2" title="rconfc_ast_post" alt="" coords="213,194,328,221"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gafbd29751542858fde9e2d9c18184883f" title="rconfc_conductor_drain" alt="" coords="192,295,349,322"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="397,321,487,347"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="207,245,335,271"/>
+</map>

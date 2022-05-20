@@ -1,0 +1,8 @@
+<map id="ha_ut_ha2usecase_ctx" name="ha_ut_ha2usecase_ctx">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga8f1bb8d56268b8e88f2f5bb0b6339cb7" title="ha_ut_usecase_entrypoint\l_request" alt="" coords="209,5,384,47"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga4484c47dc5cdc9629bc653f860b62137" title="ha_ut_usecase_entrypoint\l_replied" alt="" coords="209,71,384,112"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga52c8138dd94aff59b325eb7aaff14875" title="ha_ut_usecase_link\l_connected" alt="" coords="228,136,365,177"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga167e79570bfff125c7ec2258b79d7263" title="ha_ut_usecase_link\l_reused" alt="" coords="228,201,365,243"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga05a74ad093751c6a1aed9dce84925425" title="ha_ut_usecase_link\l_is_disconnecting" alt="" coords="228,267,365,308"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga70c73da6feaffc3bd4f60b2b71f7c5d9" title="ha_ut_usecase_link\l_disconnected" alt="" coords="228,332,365,373"/>
+</map>

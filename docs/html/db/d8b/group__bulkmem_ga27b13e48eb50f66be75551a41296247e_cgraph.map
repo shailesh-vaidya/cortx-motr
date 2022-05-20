@@ -1,0 +1,12 @@
+<map id="mem_xo_buf_add" name="mem_xo_buf_add">
+<area shape="rect" id="node2" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="186,5,333,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gafe187f145003d02f322bac93d59e6b78" title="mem_buffer_to_pvt" alt="" coords="388,44,521,71"/>
+<area shape="rect" id="node4" href="$d0/da0/mem__xprt__xo_8c.html#gab72e9884ac5e58f9f730c4ec5257ccd3" title="mem_tm_invariant" alt="" coords="195,107,324,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga64164fd89a42e6e0eeedb1e59eccf0d0" title="mem_tm_to_pvt" alt="" coords="397,120,513,147"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="187,208,332,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="221,259,297,285"/>
+<area shape="rect" id="node8" href="$db/d8b/group__bulkmem.html#ga845da3c02b489891235dd111f9d1d5e3" title="mem_dom_to_pvt" alt="" coords="196,309,323,336"/>
+<area shape="rect" id="node9" href="$db/d8b/group__bulkmem.html#ga900f903b5a7c775a0e416b2130270171" title="mem_bmo_desc_create" alt="" coords="179,360,340,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="226,411,293,437"/>
+<area shape="rect" id="node11" href="$d0/da0/mem__xprt__xo_8c.html#ga564a7e7cbc5ba4f31ba0a163549ac151" title="mem_wi_add" alt="" coords="210,461,309,488"/>
+</map>

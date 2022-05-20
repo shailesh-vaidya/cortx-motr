@@ -1,0 +1,47 @@
+var ad_8h =
+[
+    [ "__MOTR_STOB_AD_INTERNAL_H__", "d7/ded/ad_8h.html#a7e5d9e43ea2665815989988069100f5a", null ],
+    [ "AD_PATHLEN", "d6/d2c/group__stobad.html#gga713868ded7dde1bbf80f480ff485d8dcaf6dd4ec3b39568522dabf0409d89b6a5", null ],
+    [ "STOB_TYPE_AD", "d6/d2c/group__stobad.html#gga20e19b7361a5e689c6dacac20180ab73af5042030b0f875d1185a8567fef7324b", null ],
+    [ "BALLOC_FRAGS_MAX", "d6/d2c/group__stobad.html#gga20e19b7361a5e689c6dacac20180ab73a735ad1aa3fac65bc92acbdba691f755c", null ],
+    [ "m0_stob_ad_domain_format_version", "d6/d2c/group__stobad.html#ga74cd84d36d4c6953d23854b48be1425b", [
+      [ "M0_STOB_AD_DOMAIN_FORMAT_VERSION_1", "d6/d2c/group__stobad.html#gga74cd84d36d4c6953d23854b48be1425bac11302dee9d15532c4404ee7cdad5abc", null ],
+      [ "M0_STOB_AD_DOMAIN_FORMAT_VERSION", "d6/d2c/group__stobad.html#gga74cd84d36d4c6953d23854b48be1425ba752636a70505e47f62a57385f234c541", null ]
+    ] ],
+    [ "stob_ad_allocation_extent_type", "d6/d2c/group__stobad.html#gab8896c5122a1b323f221efdb5711341b", [
+      [ "AET_MIN", "d6/d2c/group__stobad.html#ggab8896c5122a1b323f221efdb5711341ba7dfcc650ccba4e0cbdb51923dbea18ce", null ],
+      [ "AET_HOLE", "d6/d2c/group__stobad.html#ggab8896c5122a1b323f221efdb5711341ba4d390150f018de175ded16001a2d7ab9", null ]
+    ] ],
+    [ "M0_BASSERT", "d6/d2c/group__stobad.html#ga0344f7051aba9487febadeaff5fd5b29", null ],
+    [ "M0_BASSERT", "d6/d2c/group__stobad.html#ga06e41ddccfb43e459d175db55ea03c54", null ],
+    [ "m0_stob_ad_balloc_clear", "d6/d2c/group__stobad.html#gaf7b8d5bf4adb9677d53818c0bd2d5f7e", null ],
+    [ "m0_stob_ad_balloc_set", "d6/d2c/group__stobad.html#ga33ca126a10c9de462875afe2b319623b", null ],
+    [ "m0_stob_ad_cfg_make", "d6/d2c/group__stobad.html#ga9282ddb159cd5ff24d583dd0c18f2e4a", null ],
+    [ "m0_stob_ad_domain2balloc", "d6/d2c/group__stobad.html#gaa2d5e17d6094f56a35aed1d47d8ff1df", null ],
+    [ "m0_stob_ad_domain__invariant", "d6/d2c/group__stobad.html#ga8192a4ed09f06acfa9e548c3fbd13db1", null ],
+    [ "m0_stob_ad_get_checksum_addr", "d6/d2c/group__stobad.html#ga59353f3e0a2e3ee66f158b8d342bb2dc", null ],
+    [ "m0_stob_ad_init_cfg_make", "d6/d2c/group__stobad.html#ga8e6f97810457cd1168a853cae9f19896", null ],
+    [ "m0_stob_ad_spares_calc", "d6/d2c/group__stobad.html#ga2e669610d1fcec4902752e999b992541", null ],
+    [ "M0_XCA_DOMAIN", "d6/d2c/group__stobad.html#ga7633ef64564e23c78dd99a6853a18e74", null ],
+    [ "stob_ad_cursor", "d6/d2c/group__stobad.html#gab38db3bb7cbebfe3d7eb2cae04473db9", null ],
+    [ "ab_ops", "d7/ded/ad_8h.html#a698b6d711c66b6037bd03fdd7971edc5", null ],
+    [ "m0_stob_ad_type", "d6/d2c/group__stobad.html#ga0acb73c00a093b902b5d30c7d8a56319", null ],
+    [ "M0_XCA_DOMAIN", "d6/d2c/group__stobad.html#ga2f44857c1c0feba244c43ef961db4cd1", null ],
+    [ "sad_adata", "d7/ded/ad_8h.html#a26b52ba527a0973ada84cac2b82acf96", null ],
+    [ "sad_babshift", "d7/ded/ad_8h.html#aa3d14275629aebdd87c8e6a004f2fa66", null ],
+    [ "sad_ballroom", "d7/ded/ad_8h.html#a0e580b5bfc2aff342b53ecff55397d4e", null ],
+    [ "sad_be_seg", "d7/ded/ad_8h.html#a8afc3b0e928e8d6e68739ee07546b469", null ],
+    [ "sad_blocks_per_group", "d7/ded/ad_8h.html#a75206640026e32b084ba16998b454c2c", null ],
+    [ "sad_bshift", "d7/ded/ad_8h.html#ad8c389f7b188cafdbfcc2352a89ed85e", null ],
+    [ "sad_bstore", "d7/ded/ad_8h.html#a4a8c8fdd29f37509076e0d4fce0495f5", null ],
+    [ "sad_bstore_id", "d7/ded/ad_8h.html#aefb3d712ab21f84669547054c8027554", null ],
+    [ "sad_container_size", "d7/ded/ad_8h.html#a47bcfee5e398e9f86decad58c8dcf17d", null ],
+    [ "sad_dom_key", "d7/ded/ad_8h.html#a7b7d1a91f7a24e647e5b621d79b11c81", null ],
+    [ "sad_footer", "d7/ded/ad_8h.html#a9e837a465b1dcb660b1ad9900408ded1", null ],
+    [ "sad_header", "d7/ded/ad_8h.html#a6d25f0d1819c5251b9ae23a28ab14884", null ],
+    [ "sad_magix", "d7/ded/ad_8h.html#a74c637c4ed1267f0be621f4602e5eea1", null ],
+    [ "sad_overwrite", "d7/ded/ad_8h.html#afe8798d47f13080b1f73e28f92591945", null ],
+    [ "sad_pad", "d7/ded/ad_8h.html#a9e7c5dceedbf3fcba0526f91a07d38cc", null ],
+    [ "sad_path", "d7/ded/ad_8h.html#af4e01e20d13ce957a6d889b3627c2757", null ],
+    [ "sad_spare_blocks_per_group", "d7/ded/ad_8h.html#ae8f53dab911fe7a5e4587f52230d6c05", null ]
+];

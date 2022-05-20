@@ -1,0 +1,5 @@
+<map id="bev_cqueue_pnext" name="bev_cqueue_pnext">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7dd778e9ea7db52ededdd419e33d1d01" title="ptr" alt="" coords="262,5,301,32"/>
+<area shape="rect" id="node3" href="$dd/d08/group__bevcqueue.html#gae71169a69c6ad9ee871ae20a1186873c" title="bev_cqueue_invariant" alt="" coords="207,56,355,83"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gad28e86382484f1799b767f8c4f77b61f" title="nlx_core_kmem_loc_invariant" alt="" coords="184,107,379,133"/>
+</map>

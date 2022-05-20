@@ -1,0 +1,33 @@
+<map id="cas/service.c" name="cas/service.c">
+<area shape="rect" id="node2" href="$d5/d6c/op_8h.html" title="be/op.h" alt="" coords="1261,155,1326,181"/>
+<area shape="rect" id="node3" href="$d4/d0a/tx__credit_8h.html" title="be/tx_credit.h" alt="" coords="1453,155,1555,181"/>
+<area shape="rect" id="node4" href="$d3/d2d/dtm0__log_8h.html" title="be/dtm0_log.h" alt="" coords="93,80,197,107"/>
+<area shape="rect" id="node5" href="$d6/df3/dtm0_2fop_8h.html" title="dtm0/fop.h" alt="" coords="222,80,306,107"/>
+<area shape="rect" id="node6" href="$dc/d7a/dtm0_2service_8h.html" title="dtm0/service.h" alt="" coords="121,229,229,256"/>
+<area shape="rect" id="node7" href="$d7/d27/reqh__service_8h.html" title="reqh/reqh_service.h" alt="" coords="276,304,412,331"/>
+<area shape="rect" id="node8" href="$d7/de3/schema_8h.html" title="conf/schema.h" alt="" coords="121,379,229,405"/>
+<area shape="rect" id="node9" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="654,80,733,107"/>
+<area shape="rect" id="node10" href="$d7/deb/arith_8h.html" title="lib/arith.h" alt="" coords="603,155,677,181"/>
+<area shape="rect" id="node11" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="522,229,609,256"/>
+<area shape="rect" id="node12" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="737,155,815,181"/>
+<area shape="rect" id="node13" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="432,80,528,107"/>
+<area shape="rect" id="node14" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="390,155,477,181"/>
+<area shape="rect" id="node15" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="990,80,1069,107"/>
+<area shape="rect" id="node16" href="$d9/d63/ext_8h.html" title="lib/ext.h" alt="" coords="1117,80,1185,107"/>
+<area shape="rect" id="node17" href="$db/d9e/fom__long__lock_8h.html" title="fop/fom_long_lock.h" alt="" coords="1627,155,1765,181"/>
+<area shape="rect" id="node18" href="$d0/dab/fom__generic_8h.html" title="fop/fom_generic.h" alt="" coords="1814,155,1941,181"/>
+<area shape="rect" id="node19" href="$df/daf/fom__interpose_8h.html" title="fop/fom_interpose.h" alt="" coords="1237,229,1374,256"/>
+<area shape="rect" id="node20" href="$d7/d0c/reqh_8h.html" title="reqh/reqh.h" alt="" coords="1981,229,2067,256"/>
+<area shape="rect" id="node21" href="$dd/d4b/rpc__opcodes_8h.html" title="rpc/rpc_opcodes.h" alt="" coords="1498,80,1627,107"/>
+<area shape="rect" id="node22" href="$d6/d29/rpc__machine_8h.html" title="rpc/rpc_machine.h" alt="" coords="1651,80,1781,107"/>
+<area shape="rect" id="node23" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="1805,80,1933,107"/>
+<area shape="rect" id="node24" href="$d7/d66/addb2_2addb2_8h.html" title="addb2/addb2.h" alt="" coords="757,80,864,107"/>
+<area shape="rect" id="node25" href="$d6/df0/ctg__store_8h.html" title="cas/ctg_store.h" alt="" coords="1361,80,1473,107"/>
+<area shape="rect" id="node26" href="$d1/dbf/cas_8h.html" title="cas/cas.h" alt="" coords="1350,155,1429,181"/>
+<area shape="rect" id="node27" href="$d7/df7/setup_8h.html" title="motr/setup.h" alt="" coords="1977,155,2071,181"/>
+<area shape="rect" id="node28" href="$d4/d20/pool_2pool_8h.html" title="pool/pool.h" alt="" coords="2092,229,2177,256"/>
+<area shape="rect" id="node29" href="$df/dfb/dix_2cm_2cm_8h.html" title="dix/cm/cm.h" alt="" coords="2211,80,2306,107"/>
+<area shape="rect" id="node30" href="$d9/d2a/dix_2fid__convert_8h.html" title="dix/fid_convert.h" alt="" coords="2330,80,2449,107"/>
+<area shape="rect" id="node31" href="$d5/d60/cas__addb2_8h.html" title="cas/cas_addb2.h" alt="" coords="2473,80,2594,107"/>
+<area shape="rect" id="node33" href="$d6/d81/index__gc_8h.html" title="cas/index_gc.h" alt="" coords="2742,80,2853,107"/>
+</map>

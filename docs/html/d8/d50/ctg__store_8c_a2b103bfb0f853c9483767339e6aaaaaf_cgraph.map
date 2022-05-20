@@ -1,0 +1,13 @@
+<map id="ctg_op_exec_versioned" name="ctg_op_exec_versioned">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a050c2bc470e26b865a3e3b7e7e4bf4d1" title="ctg_beop" alt="" coords="677,29,752,55"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#aa06cb589fc85ec05a1f9c7db77297772" title="ctg_is_ordinary" alt="" coords="247,333,358,359"/>
+<area shape="rect" id="node4" href="$d8/d50/ctg__store_8c.html#a86b8150576c9dc7003bcbbec4ad8e82d" title="versioned_put_sync" alt="" coords="466,231,605,258"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="681,181,748,207"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a20ebf09cd52fa41b0fed55fc87557f04" title="versioned_get_sync" alt="" coords="466,282,605,309"/>
+<area shape="rect" id="node7" href="$d8/d50/ctg__store_8c.html#a05a37ad375095832bd67df15b5df7027" title="versioned_cursor_get_sync" alt="" coords="212,79,393,106"/>
+<area shape="rect" id="node8" href="$d8/d50/ctg__store_8c.html#a8f2e8b3ecb553d3a06fe121549f71ab9" title="versioned_cursor_next_sync" alt="" coords="441,130,629,157"/>
+<area shape="rect" id="node9" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="249,383,356,410"/>
+<area shape="rect" id="node10" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="241,434,365,461"/>
+<area shape="rect" id="node11" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="244,485,361,511"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="235,535,371,562"/>
+</map>

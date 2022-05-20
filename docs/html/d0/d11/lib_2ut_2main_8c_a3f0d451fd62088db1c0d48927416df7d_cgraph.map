@@ -1,0 +1,8 @@
+<map id="test_refs" name="test_refs">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="144,5,219,32"/>
+<area shape="rect" id="node3" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="138,56,225,83"/>
+<area shape="rect" id="node4" href="$d4/d8c/ut_2refs_8c.html#a667e46ecb8acc4321697ed1254057e8b" title="test_destructor" alt="" coords="127,107,236,133"/>
+<area shape="rect" id="node5" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="134,157,229,184"/>
+<area shape="rect" id="node6" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="138,208,225,235"/>
+<area shape="rect" id="node7" href="$d4/de4/refs_8c.html#a96dc9c89402bf6a5782c951d9de8285b" title="m0_ref_put" alt="" coords="138,259,225,285"/>
+</map>

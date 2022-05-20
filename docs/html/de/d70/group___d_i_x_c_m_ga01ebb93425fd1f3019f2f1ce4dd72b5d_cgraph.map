@@ -1,0 +1,8 @@
+<map id="dix_rebalance_svc_start" name="dix_rebalance_svc_start">
+<area shape="rect" id="node2" href="$d3/da7/group__dixcm.html#ga676e1b0b8d44f194d3c249ee475f1f9f" title="m0_dix_cm_svc_start" alt="" coords="217,5,367,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="416,31,483,57"/>
+<area shape="rect" id="node4" href="$d0/d80/group___c_p.html#ga15e61a1b2b5b572229d9cb688b8102a9" title="m0_cm_cp_init" alt="" coords="237,107,347,133"/>
+<area shape="rect" id="node5" href="$de/d70/group___d_i_x_c_m.html#ga89743ff5c2d67aef0804623af1a567f9" title="m0_dix_cm_rebalance\l_cpx_init" alt="" coords="216,158,368,199"/>
+<area shape="rect" id="node6" href="$de/d70/group___d_i_x_c_m.html#ga800e8661bde6f808524059d68ae07059" title="m0_dix_rebalance_sw\l_onwire_fop_init" alt="" coords="217,223,367,265"/>
+<area shape="rect" id="node7" href="$de/d70/group___d_i_x_c_m.html#ga73b6f76ddcc75a15b529391ba5bd77f3" title="m0_dix_cm_rebalance\l_trigger_fop_init" alt="" coords="216,289,368,330"/>
+</map>

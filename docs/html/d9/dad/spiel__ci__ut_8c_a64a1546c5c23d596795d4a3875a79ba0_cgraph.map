@@ -1,0 +1,6 @@
+<map id="spiel_stob_exists" name="spiel_stob_exists">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="207,5,273,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="176,56,304,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga307eafea1b91e1121350cf3dcbbf0933" title="m0_stob_lookup" alt="" coords="181,107,299,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="191,157,289,184"/>
+</map>

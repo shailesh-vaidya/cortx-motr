@@ -1,0 +1,7 @@
+<map id="fom_create" name="fom_create">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="143,5,278,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga491fc9643f64ea3438f3ed7224c41116" title="borrow_fom_create" alt="" coords="144,56,277,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gad76ae45f5d0c5cdd960798efc8ec317f" title="revoke_fom_create" alt="" coords="144,107,277,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga47571d2d700dc2b5f276f5993a73c75e" title="m0_fom_sm_init" alt="" coords="151,157,270,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#gab9c9335821b84addf2bb7e73537dbd65" title="m0_fom_locality_inc" alt="" coords="140,208,281,235"/>
+</map>

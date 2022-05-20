@@ -1,0 +1,6 @@
+<map id="add_extents" name="add_extents">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="147,5,309,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a8e5975419b682d85933dc28d71d2d933" title="fill_ext_kv_pairs" alt="" coords="170,56,286,83"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#a69c9d175fdae15bd95b362a1e9cb724e" title="do_add_extents" alt="" coords="171,107,285,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="171,157,285,184"/>
+</map>

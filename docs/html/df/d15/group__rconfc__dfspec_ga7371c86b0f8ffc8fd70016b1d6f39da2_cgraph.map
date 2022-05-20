@@ -1,0 +1,20 @@
+<map id="m0_rconfc_init" name="m0_rconfc_init">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="427,107,485,133"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="418,360,494,387"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga7bf7023f8c2c25dfa47be730edf5b014" title="rlock_ctx_create" alt="" coords="200,360,319,387"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="423,411,489,437"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaf1ed07094ef045b1ccb8e8698a188e20" title="_confc_phony_init" alt="" coords="196,411,323,437"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="210,512,309,539"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gaa6bcf7e5ec7f2a27bbbe1253cb146683" title="rconfc_unpinned_cb" alt="" coords="190,157,329,184"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga4a36fceb51f644e5dacbd45148d0d95a" title="rconfc_herd_fini_cb" alt="" coords="192,5,327,32"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="206,563,313,589"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="407,639,505,665"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="215,664,304,691"/>
+<area shape="rect" id="node13" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="423,233,489,260"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga32a7bff0ce9d2abd953ccbf95d5bc484" title="ha_clink_cb" alt="" coords="214,208,305,235"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="193,715,326,741"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#gad3bb5be16db0e0f073e8f3f469a635b6" title="m0_ha_entrypoint_client_chan" alt="" coords="160,765,359,792"/>
+<area shape="rect" id="node17" href="$db/d90/group__rconfc__dlspec.html#ga89f93799248ee341c08cc6b0810642ca" title="rconfc_ha_update_cb" alt="" coords="186,56,333,83"/>
+<area shape="rect" id="node18" href="$db/d90/group__rconfc__dlspec.html#ga116033ad011970946eda7744c70a48ba" title="rlock_ctx_destroy" alt="" coords="197,867,322,893"/>
+<area shape="rect" id="node19" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="421,841,491,868"/>
+</map>

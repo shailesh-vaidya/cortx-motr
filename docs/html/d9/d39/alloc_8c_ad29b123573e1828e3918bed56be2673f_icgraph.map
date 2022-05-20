@@ -1,0 +1,5 @@
+<map id="be_allocator_stats_capture" name="be_allocator_stats_capture">
+<area shape="rect" id="node2" href="$d9/d39/alloc_8c.html#a2d686e22dd81061a6a2b5681de84f9ac" title="be_allocator_header\l_create" alt="" coords="183,5,322,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga15086a8ba1600460b8dce6936dfdeb42" title="m0_be_alloc_aligned" alt="" coords="181,71,324,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaeec518865032dc746078c652cd89edce" title="m0_be_free_aligned" alt="" coords="183,122,322,149"/>
+</map>

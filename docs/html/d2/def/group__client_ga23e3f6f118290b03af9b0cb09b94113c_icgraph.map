@@ -1,0 +1,22 @@
+<map id="m0_client_layout_alloc" name="m0_client_layout_alloc">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga06a0cb3de2e09c556cbc28a7e56f7a1b" title="m0_obj_op" alt="" coords="261,5,346,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gac17fa1f1320bd3d879079ef005f04251" title="m0_client_layout_capture" alt="" coords="218,157,389,184"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#ade969724bb567e18000aec709153a1b9" title="layout_capture" alt="" coords="469,59,575,85"/>
+<area shape="rect" id="node5" href="$d6/dd3/motr_2st_2layout_8c.html#a4150bd27aaa37b308b6e65a3d84547e5" title="layout_capture_io" alt="" coords="460,112,584,139"/>
+<area shape="rect" id="node6" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="451,167,593,209"/>
+<area shape="rect" id="node7" href="$d0/d3f/motr_2ut_2layout_8c.html#ab178a9c2ae430e80acba92add04d7b96" title="ut_m0_layout_capture" alt="" coords="447,241,597,268"/>
+<area shape="rect" id="node8" href="$d6/dd3/motr_2st_2layout_8c.html#a01b71dafcd26af1558107a9c9745df32" title="layout_op_get_obj" alt="" coords="240,309,367,336"/>
+<area shape="rect" id="node9" href="$d6/dd3/motr_2st_2layout_8c.html#ad4b2d82fc244973eb885b9ce5f29b828" title="layout_composite_create" alt="" coords="220,360,387,387"/>
+<area shape="rect" id="node10" href="$d6/dd3/motr_2st_2layout_8c.html#aa334280749666474391fdc6a40460758" title="layout_composite_create\l_then_get" alt="" coords="220,411,387,453"/>
+<area shape="rect" id="node11" href="$d6/dd3/motr_2st_2layout_8c.html#ad0565ba08b264e3298cc38d23957a332" title="layout_composite_io\l_one_layer" alt="" coords="233,477,374,518"/>
+<area shape="rect" id="node12" href="$d6/dd3/motr_2st_2layout_8c.html#a0ba4ddbffc0d70d392ea7a466979ba6e" title="layout_composite_io\l_multi_layers" alt="" coords="233,542,374,583"/>
+<area shape="rect" id="node13" href="$d6/dd3/motr_2st_2layout_8c.html#a5814068876158c333e32ca790dd2170c" title="layout_composite_io\l_overlapping_layers" alt="" coords="233,607,374,649"/>
+<area shape="rect" id="node14" href="$d6/dd3/motr_2st_2layout_8c.html#abb02903905b458463042341a52024128" title="layout_composite_extent_idx" alt="" coords="208,673,399,700"/>
+<area shape="rect" id="node15" href="$d0/d3f/motr_2ut_2layout_8c.html#a9221b6d9a05fd897a11be199d72baa75" title="ut_m0_layout_op" alt="" coords="243,724,364,751"/>
+<area shape="rect" id="node16" href="$d0/d3f/motr_2ut_2layout_8c.html#ae076750d44406d3f0b384ec762b4a0ca" title="ut_m0_client_layout\l_alloc" alt="" coords="234,775,373,817"/>
+<area shape="rect" id="node17" href="$d0/d3f/motr_2ut_2layout_8c.html#a9b50b601faac38c90095eba674a7d514" title="ut_m0_composite_layer_add" alt="" coords="209,841,397,868"/>
+<area shape="rect" id="node18" href="$d0/d3f/motr_2ut_2layout_8c.html#ac52e6ae0dc2e21f2332aec8e7ddc01f1" title="ut_m0_composite_layer_del" alt="" coords="211,892,395,919"/>
+<area shape="rect" id="node19" href="$d0/d3f/motr_2ut_2layout_8c.html#a1e36bff7c7524e0710c9c616bc4160f0" title="ut_composite_io_divide" alt="" coords="224,943,383,969"/>
+<area shape="rect" id="node20" href="$d0/d8c/m0hsm__api_8c.html#ae2dc89c5360a76285ce721790b25e8d8" title="obj_layout_get" alt="" coords="250,993,357,1020"/>
+<area shape="rect" id="node21" href="$d2/d5a/m0hsm__api_8h.html#aa9665cb8f9b7720db3e85962cb9a485c" title="m0hsm_create" alt="" coords="249,1044,357,1071"/>
+</map>

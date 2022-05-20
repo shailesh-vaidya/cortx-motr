@@ -1,0 +1,6 @@
+<map id="m0_stats_query_fop_get" name="m0_stats_query_fop_get">
+<area shape="rect" id="node2" href="$d3/dff/stats__srv_8c.html#a6ce8d6d2c1ce559b88d873c907865ec2" title="read_stats" alt="" coords="263,5,346,32"/>
+<area shape="rect" id="node3" href="$d3/dff/stats__srv_8c.html#ab0043e9902ffc308058f38eeebd34466" title="stats_query_fom_create" alt="" coords="223,56,386,83"/>
+<area shape="rect" id="node4" href="$d5/d51/stats__ut__svc_8c.html#a285635dc6646d965776ec5ec82136f99" title="query_fom_test" alt="" coords="439,81,551,108"/>
+<area shape="rect" id="node5" href="$d5/d51/stats__ut__svc_8c.html#a33d6ba4cd7aaa9c1b4cc2264d64cf760" title="test_state_query_fom_fini" alt="" coords="219,157,391,184"/>
+</map>

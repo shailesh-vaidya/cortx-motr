@@ -1,0 +1,11 @@
+<map id="m0_rconfc_stop_sync" name="m0_rconfc_stop_sync">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="563,102,621,128"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga6926f12c2d28376109989504ab21dcf3" title="rconfc_state" alt="" coords="224,51,319,78"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="204,355,339,382"/>
+<area shape="rect" id="node5" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="245,406,298,432"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gae604bd67ad0690514cde2749809b203c" title="m0_rconfc_stop" alt="" coords="214,203,329,230"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="393,152,508,179"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="387,254,515,280"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="387,102,515,128"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="406,304,495,331"/>
+</map>

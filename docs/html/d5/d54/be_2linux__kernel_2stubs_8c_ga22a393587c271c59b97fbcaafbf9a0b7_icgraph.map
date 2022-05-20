@@ -1,0 +1,18 @@
+<map id="m0_be_seg_allocator" name="m0_be_seg_allocator">
+<area shape="rect" id="node2" href="$dd/d4c/be_2ut_2main_8c.html#af2ea857a0416e60f4c9026ea6d925332" title="m0_be_ut_alloc_init_fini" alt="" coords="199,5,361,32"/>
+<area shape="rect" id="node3" href="$da/d2b/ut_2alloc_8c.html#a0336368a83f7c24c1ac91915f9463422" title="be_ut_alloc_thread" alt="" coords="215,56,345,83"/>
+<area shape="rect" id="node4" href="$dd/d4c/be_2ut_2main_8c.html#ab7fbe7d48cca7789f481a3109510e2cb" title="m0_be_ut_alloc_info" alt="" coords="209,107,351,133"/>
+<area shape="rect" id="node5" href="$dd/d4c/be_2ut_2main_8c.html#a6b2e7ac872cc3dcbc823aa8539b7706b" title="m0_be_ut_alloc_oom" alt="" coords="207,157,353,184"/>
+<area shape="rect" id="node6" href="$dd/d4c/be_2ut_2main_8c.html#a52049679f3f0f4293c2d69bb6752b16e" title="m0_be_ut_alloc_spare" alt="" coords="204,208,356,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga25f6642c143dd595723153dffb41ba49" title="tree_allocator" alt="" coords="230,259,330,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga2dd8b97fa529f0869f63d38ae81e6869" title="be_domain_seg_structs\l_create" alt="" coords="200,310,360,351"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gace475bc3b9a3ca0eef635e39164f9fdd" title="be_domain_seg_close" alt="" coords="205,376,355,403"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga860c313e0dd6ba2d6b49482b439839e5" title="be_domain_seg_open" alt="" coords="206,427,354,453"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gabc6d881d8f3eee3ac16ca034ca126cc7" title="m0_be_0type_del_credit" alt="" coords="199,477,361,504"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga3821d1896228463799aeb6becd4a0238" title="m0_be_seg_dict_insert" alt="" coords="202,528,358,555"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga0c618e7d3abf238cd651e083479511f0" title="m0_be_seg_dict_delete" alt="" coords="201,579,359,605"/>
+<area shape="rect" id="node14" href="$dd/d1d/be_2ut_2helper_8c.html#acaf549b9887dae8742fb9cb8d3c72852" title="m0_be_ut_alloc" alt="" coords="223,629,337,656"/>
+<area shape="rect" id="node15" href="$dd/d1d/be_2ut_2helper_8c.html#affa1a56fc4678175e7a435d7141c5e01" title="m0_be_ut_free" alt="" coords="226,680,334,707"/>
+<area shape="rect" id="node16" href="$dd/d1d/be_2ut_2helper_8c.html#adf4919b8f93e5590f95f750668360d4e" title="be_ut_seg_allocator\l_initfini" alt="" coords="211,731,349,773"/>
+<area shape="rect" id="node17" href="$d2/db5/db_8c.html#af4a2917fd09a1d9e14ea1119b68f773d" title="confdb_alloc" alt="" coords="233,797,327,824"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="m0_client_fini" name="m0_client_fini">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga5f0a3371e7db29eecd202d84dad4bf57" title="m0_sm_conf_is_initialized" alt="" coords="163,5,337,32"/>
+<area shape="rect" id="node3" href="$d1/da8/dtm0_2service_8c.html#a8783d63327b0648666cd447da83b0d67" title="m0_dtm_client_service_stop" alt="" coords="156,56,344,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga3c2709e819250a6aba657d075c5a719e" title="m0_addb2_force_all" alt="" coords="181,107,319,133"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#gab8a0f9780aec6a5d7564951767269ce1" title="m0_reqh_addb2_fini" alt="" coords="181,157,319,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="183,208,317,235"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#abcd8a423814b59d396bb0c127ca23f72" title="ha_process_event" alt="" coords="186,259,314,285"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#acd4729a525f50ca933ee2b28715eb0d1" title="initlift_move_next\l_floor" alt="" coords="188,310,312,351"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="175,376,325,403"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="392,440,523,467"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="404,503,511,529"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="186,477,314,504"/>
+<area shape="rect" id="node13" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="218,579,282,605"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="215,629,285,656"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="205,680,295,707"/>
+</map>

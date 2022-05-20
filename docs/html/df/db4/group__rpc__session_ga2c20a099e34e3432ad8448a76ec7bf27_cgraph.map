@@ -1,0 +1,10 @@
+<map id="m0_rpc_conn_fini_locked" name="m0_rpc_conn_fini_locked">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="427,132,609,159"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="223,5,379,32"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="475,31,561,57"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#gad5cf2d5f7847b1a98e4f6f92593cb0ae" title="session_zero_detach" alt="" coords="228,157,373,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="473,208,563,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gaac498e568abefc231e8dee9c578d82af" title="__conn_fini" alt="" coords="257,259,345,285"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#gae7d041ee8c1c6a73dc67aca91084609c" title="conn_state_set" alt="" coords="245,309,356,336"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="256,360,345,387"/>
+</map>

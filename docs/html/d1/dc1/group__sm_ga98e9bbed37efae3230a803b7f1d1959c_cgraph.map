@@ -1,0 +1,4 @@
+<map id="m0_sm_ast_wait_fini" name="m0_sm_ast_wait_fini">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="199,5,324,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga7bac31f42a103a8135eecf056ae17892" title="m0_chan_fini" alt="" coords="212,56,311,83"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="node_thread" name="node_thread">
+<area shape="rect" id="node2" href="$d2/d9a/group___net_test_node_internals.html#gaa4ae51af7329f0a8584412be8d9531d3" title="node_cmd_wait" alt="" coords="190,65,303,91"/>
+<area shape="rect" id="node3" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="409,19,545,46"/>
+<area shape="rect" id="node4" href="$d2/d9a/group___net_test_node_internals.html#ga79eba8ea272df858e0837014895acad4" title="node_cmd_get" alt="" coords="424,75,531,102"/>
+<area shape="rect" id="node5" href="$d0/de6/group___net_test_commands_internals.html#ga46882f16857c495634dbc637d7765a6a" title="m0_net_test_commands\l_received_free" alt="" coords="395,137,560,179"/>
+<area shape="rect" id="node6" href="$d2/d9a/group___net_test_node_internals.html#gaa4e9b9209b2464fe137037316c7aef25" title="service_ops_get" alt="" coords="188,217,305,243"/>
+<area shape="rect" id="node7" href="$d7/dbf/group___net_test_service_internals.html#gabb1512e2ce6a66834f26e983e1ed82cb" title="m0_net_test_service_init" alt="" coords="163,267,330,294"/>
+<area shape="rect" id="node8" href="$d7/dbf/group___net_test_service_internals.html#ga1db5533cc03e7d23245297f0a56a4525" title="m0_net_test_service\l_cmd_handle" alt="" coords="175,319,318,360"/>
+<area shape="rect" id="node9" href="$d0/de6/group___net_test_commands_internals.html#gafc360d66f3d8a7ae5f26c87badcd099f" title="m0_net_test_commands\l_send_wait_all" alt="" coords="164,384,329,425"/>
+<area shape="rect" id="node10" href="$d0/de6/group___net_test_commands_internals.html#ga267303fbdaad9163f717966c1f6ee6b1" title="m0_net_test_commands_send" alt="" coords="147,450,347,477"/>
+<area shape="rect" id="node11" href="$d7/dbf/group___net_test_service_internals.html#ga29e3993bfa9cc3a29f5257fb0e416e93" title="m0_net_test_service_step" alt="" coords="159,501,334,527"/>
+<area shape="rect" id="node12" href="$d7/dbf/group___net_test_service_internals.html#ga3244373fd27c35f278b67aa4a1014e79" title="m0_net_test_service\l_state_get" alt="" coords="175,552,318,593"/>
+<area shape="rect" id="node13" href="$d7/dbf/group___net_test_service_internals.html#ga9cea1a9bf87ef734b90120c9d127a82b" title="m0_net_test_service_fini" alt="" coords="163,618,330,645"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="212,669,281,695"/>
+<area shape="rect" id="node15" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="181,719,313,746"/>
+</map>

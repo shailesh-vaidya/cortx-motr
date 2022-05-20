@@ -1,0 +1,20 @@
+<map id="conf_flip_apply" name="conf_flip_apply">
+<area shape="rect" id="node2" href="$da/dec/flip__fop_8c.html#aa5591919af0c96d00c86fb0d2ecaa79b" title="m0_is_conf_flip_fop" alt="" coords="405,50,544,77"/>
+<area shape="rect" id="node3" href="$d4/d8c/group__conf__foms.html#gab136e355caedf5ce7185dd95b54407ef" title="conf_flip_fom_invariant" alt="" coords="170,101,326,127"/>
+<area shape="rect" id="node4" href="$da/dec/flip__fop_8c.html#aa27e19356235c78d18820bdf4912562b" title="m0_conf_fop_to_flip_fop" alt="" coords="166,50,330,77"/>
+<area shape="rect" id="node5" href="$d7/de5/group__confd__stob.html#gaf2ceedc9f1c4c88d9f5765f4cf7a2dff" title="m0_conf_stob_location\l_generate" alt="" coords="170,305,326,347"/>
+<area shape="rect" id="node6" href="$d2/d01/group__confd__dlspec.html#gae6be70d4174c8005681fd6e4a2771831" title="m0_confd_service_to\l_filename" alt="" coords="401,359,548,400"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="616,206,685,233"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="617,450,684,477"/>
+<area shape="rect" id="node9" href="$d7/de5/group__confd__stob.html#gadbe5ae0b9837be54a19b5ecb8a17b968" title="m0_confd_stob_init" alt="" coords="407,475,542,502"/>
+<area shape="rect" id="node10" href="$d7/de5/group__confd__stob.html#ga51c448525548acaca6aaac90408b5de3" title="m0_confd_stob_read" alt="" coords="177,577,319,603"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="403,526,546,553"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="416,627,533,654"/>
+<area shape="rect" id="node13" href="$d2/d01/group__confd__dlspec.html#ga9cb65c93c3d0bb094ea95647068ff110" title="m0_confd_cache_create" alt="" coords="393,678,557,705"/>
+<area shape="rect" id="node14" href="$d4/d8c/group__conf__foms.html#ga1b744d8ec9cc1e8dbc396b2d1f401014" title="conf_flip_confd_config_save" alt="" coords="381,729,568,755"/>
+<area shape="rect" id="node15" href="$d4/d8c/group__conf__foms.html#gacabecf78e86548445565b7a46e0de700" title="conf_after_flip_apply" alt="" coords="403,206,546,233"/>
+<area shape="rect" id="node16" href="$d1/d59/group__fom.html#gafc46158ba1af8b01b99b32c4570dba7a" title="m0_fom2reqh" alt="" coords="197,779,299,806"/>
+<area shape="rect" id="node17" href="$d2/d01/group__confd__dlspec.html#ga52f49ea95321dfc5ad5140f3d9668364" title="m0_confd_cache_destroy" alt="" coords="163,151,333,178"/>
+<area shape="rect" id="node18" href="$d7/de5/group__confd__stob.html#gab14cfe0e881c0410d4c354e5287dd0db" title="m0_confd_stob_fini" alt="" coords="181,830,315,857"/>
+<area shape="rect" id="node19" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="169,881,327,907"/>
+</map>

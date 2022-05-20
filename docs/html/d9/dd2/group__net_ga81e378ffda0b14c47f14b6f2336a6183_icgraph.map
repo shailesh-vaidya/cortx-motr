@@ -1,0 +1,22 @@
+<map id="m0_net_domain_get_max_buffer_segment_size" name="m0_net_domain_get_max_buffer_segment_size">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="281,5,366,32"/>
+<area shape="rect" id="node3" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a86d084112f54a9fd59eb88de5aeb84da" title="isc_ut_client_start" alt="" coords="259,56,387,83"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga21cec19aa494a42c7c1227e4489b66b2" title="m0_sns_cm_setup" alt="" coords="257,107,389,133"/>
+<area shape="rect" id="node5" href="$d6/d8d/load__fop_8h.html#a6526646718a4e1c6994057c1344f0505" title="m0_conf_segment_size" alt="" coords="243,157,403,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="260,208,387,235"/>
+<area shape="rect" id="node7" href="$dd/d3e/io__fops_8h.html#ab6fe8059ac82afa936141116d7a3b40b" title="m0_io_fop_segs_nr" alt="" coords="256,259,391,285"/>
+<area shape="rect" id="node8" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga9bfc314511ba60e341f0740c2c56c9eb" title="m0_ios_create_buffer_pool" alt="" coords="235,309,412,336"/>
+<area shape="rect" id="node9" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="491,584,598,611"/>
+<area shape="rect" id="node10" href="$de/df0/io__nw__xfer_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="257,411,389,453"/>
+<area shape="rect" id="node11" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga1fff359ff9ddaf568bae789d38066600" title="nlx_xo_rpc_max_seg_size" alt="" coords="235,477,411,504"/>
+<area shape="rect" id="node12" href="$df/df1/klnet__ut_8c.html#ab9f7e283243ed40da6200c409e3612db" title="ktest_buf_shape" alt="" coords="264,528,383,555"/>
+<area shape="rect" id="node13" href="$df/d38/group___net_test_network_internals.html#gac5e9e5052c775ffcd6ae5d641d0e0c7c" title="net_test_buf_init" alt="" coords="264,579,383,605"/>
+<area shape="rect" id="node14" href="$de/d66/group___net_test_u_common_d_f_s.html#gafea36420e1e3f4b2ada0bf1ae774b56e" title="m0_net_test_u_lnet_info" alt="" coords="241,629,405,656"/>
+<area shape="rect" id="node15" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="266,680,381,707"/>
+<area shape="rect" id="node16" href="$d3/d8c/tm__provision__ut_8c.html#aa062adb23a2556f9eb61a768311e5e64" title="test_net_tm_prov" alt="" coords="262,731,385,757"/>
+<area shape="rect" id="node17" href="$d7/df1/group__rpc-at.html#ga199731a99b2b726a02eeb62bac79af95" title="rpc_at_bulk_segs_nr" alt="" coords="252,781,395,808"/>
+<area shape="rect" id="node18" href="$d9/d05/group__bulkclient_d_f_s.html#ga75a4ab280e5ca68250159fa2e2f7b9f1" title="m0_rpc_bulk_buf_databuf_add" alt="" coords="224,832,423,859"/>
+<area shape="rect" id="node19" href="$df/d3a/group__spiel-api-fspec-intr.html#ga5d371793510639168c8f67ef96d32577" title="spiel_load_fop_create" alt="" coords="471,857,619,884"/>
+<area shape="rect" id="node20" href="$d9/d84/at__ut_8h.html#adbe266ade727c7ebd4d27f4f0be38382" title="atut__bufdata_alloc" alt="" coords="256,933,391,960"/>
+<area shape="rect" id="node21" href="$d1/de2/at__ut_8c.html#ae29924739fb734d9ee25dbd79acf5961" title="reqh_init" alt="" coords="288,984,359,1011"/>
+</map>

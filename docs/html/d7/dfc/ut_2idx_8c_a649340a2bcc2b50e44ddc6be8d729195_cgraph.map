@@ -1,0 +1,7 @@
+<map id="ut_idx_op_cb_fini" name="ut_idx_op_cb_fini">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="176,5,327,32"/>
+<area shape="rect" id="node3" href="$d7/dfc/ut_2idx_8c.html#aa922049842d40785ef8b6313ae168be8" title="ut_m0_op_idx_alloc" alt="" coords="183,56,320,83"/>
+<area shape="rect" id="node4" href="$d2/db6/idx_8c.html#a1d372cbc6357f7126e6217b0241222cc" title="idx_op_cb_fini" alt="" coords="199,107,304,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="200,157,303,184"/>
+<area shape="rect" id="node6" href="$d7/dfc/ut_2idx_8c.html#a52eb44ffea375681e631cfdb885d4c25" title="ut_m0_op_idx_free" alt="" coords="185,208,317,235"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="m0_rm_loan_fini" name="m0_rm_loan_fini">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gae4dbada5398f59889574f6c3025b79c7" title="owner_liquidate" alt="" coords="194,5,306,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga274ff1090864ea5075753eede64ac00d" title="owner_cleanup" alt="" coords="195,56,305,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga2426936ba202f26bd7449317600d3fc1" title="m0_rm_outgoing_fini" alt="" coords="179,107,321,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga4b57a60665d46ae97ee208de327559d0" title="remnant_loan_get" alt="" coords="187,208,313,235"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga3897c6a6a3e5a68d0dbdccbc173c13d2" title="m0_rm_revoke_commit" alt="" coords="383,183,542,209"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gadb6d1d215814052636885d71c9e2ba56" title="m0_rm_owner_loan_debit" alt="" coords="377,233,548,260"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga32d92744c352c47cffa79d21b5247de0" title="m0_rm_borrow_commit" alt="" coords="171,309,329,336"/>
+<area shape="rect" id="node9" href="$dd/d39/ut_2rm__foms_8c.html#ae497fbafdf2c6ec7f6c5d89f612b07e4" title="brw_test_cleanup" alt="" coords="188,360,312,387"/>
+<area shape="rect" id="node10" href="$dd/d39/ut_2rm__foms_8c.html#aaa19c10a3912f979fea00ed118b7f4e4" title="rvk_test_cleanup" alt="" coords="189,411,311,437"/>
+<area shape="rect" id="node11" href="$d0/d11/ut_2rm__fops_8c.html#afbf5da04b7cbb0912d24c17b3d84d8dd" title="request_param_fini" alt="" coords="184,461,316,488"/>
+<area shape="rect" id="node12" href="$d0/d11/ut_2rm__fops_8c.html#ae37b1a004277d8a646420af4501142d7" title="post_borrow_cleanup" alt="" coords="177,512,323,539"/>
+<area shape="rect" id="node13" href="$d0/d11/ut_2rm__fops_8c.html#ab8b489ca077c6e96639b113edb6b1434" title="post_revoke_cleanup" alt="" coords="177,563,323,589"/>
+</map>

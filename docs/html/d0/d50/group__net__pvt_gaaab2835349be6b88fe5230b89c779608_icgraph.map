@@ -1,0 +1,22 @@
+<map id="m0_net__tm_invariant" name="m0_net__tm_invariant">
+<area shape="rect" id="node2" href="$d0/d50/group__net__pvt.html#ga12df135f261cfd2be817aee51ae5f8a9" title="m0_net__buffer_add" alt="" coords="229,5,368,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga16dcb753d03ab30508f3b056b3ef5e72" title="m0_net_buffer_del" alt="" coords="235,56,363,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#gaff7a97dce21f4689aba444caaf0dc00b" title="m0_net_buffer_event_post" alt="" coords="211,107,386,133"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga4dfd25b5026c57bc6fd83eb31606b5b4" title="mem_find_remote_tm" alt="" coords="225,157,373,184"/>
+<area shape="rect" id="node6" href="$db/d8b/group__bulkmem.html#ga09cb1ed4d5b619af17cfd047b4b18e8a" title="mem_xo_tm_worker" alt="" coords="229,208,369,235"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga69b566f47f16edf4094db7e7794ddac7" title="ma_invariant" alt="" coords="251,259,347,285"/>
+<area shape="rect" id="node8" href="$d9/dd2/group__net.html#ga02f718bc8c6d91fa667fa74af3b858d6" title="m0_net__tm_event_invariant" alt="" coords="204,309,393,336"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#ga13d554760e4fc59ffb3428fe81b63555" title="m0_net_tm_start" alt="" coords="239,360,359,387"/>
+<area shape="rect" id="node10" href="$d9/dd2/group__net.html#ga9858ef0b4919bdf6b5abd5fd4186b53a" title="m0_net_tm_stop" alt="" coords="239,411,358,437"/>
+<area shape="rect" id="node11" href="$d9/dd2/group__net.html#ga52269ce855b383f61e84ff33f85de181" title="m0_net__tm_stats_get" alt="" coords="221,461,376,488"/>
+<area shape="rect" id="node12" href="$d9/dd2/group__net.html#gac1fd8e90b9cc27145764db8503e77a46" title="m0_net_tm_confine" alt="" coords="231,512,367,539"/>
+<area shape="rect" id="node13" href="$d9/dd2/group__net.html#ga3dcea028a826a4f4fdd3dc392b496fe6" title="m0_net_buffer_event\l_deliver_synchronously" alt="" coords="219,563,378,605"/>
+<area shape="rect" id="node14" href="$d9/dd2/group__net.html#gac14378833476363fc5dce912b9481de1" title="m0_net_buffer_event\l_deliver_all" alt="" coords="227,629,370,670"/>
+<area shape="rect" id="node15" href="$d9/dd2/group__net.html#ga0aaa79c77e39a4e205502f9b86333b37" title="m0_net_buffer_event\l_pending" alt="" coords="227,694,370,735"/>
+<area shape="rect" id="node16" href="$d9/dd2/group__net.html#gad257823f54d86f2891741986a8a190bb" title="m0_net_buffer_event\l_notify" alt="" coords="227,759,370,801"/>
+<area shape="rect" id="node17" href="$d9/dd2/group__net.html#ga914a2a40268980dd7cd53064123cbc8b" title="m0_net_tm_colour_set" alt="" coords="221,825,376,852"/>
+<area shape="rect" id="node18" href="$d9/dd2/group__net.html#ga43df1796517e1a3bb4dd2765d8dae2dc" title="m0_net_tm_colour_get" alt="" coords="221,876,376,903"/>
+<area shape="rect" id="node19" href="$d9/dd2/group__net.html#ga711c501232bfbf09dcf4c9607e62b4c7" title="m0_net_tm_pool_attach" alt="" coords="218,927,379,953"/>
+<area shape="rect" id="node20" href="$d9/dd2/group__net.html#gac077a492d8ac995912594898504f03fa" title="m0_net_tm_pool_length_set" alt="" coords="206,977,391,1004"/>
+<area shape="rect" id="node21" href="$d2/d82/tm__provision_8c.html#a233cb9884376e1f8cee9344fc43ec405" title="tm_provision_recv_q" alt="" coords="227,1028,370,1055"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="btree_insert" name="btree_insert">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf50e9ec1881a65bb62ef9483b4082bc5" title="m0_be_btree_insert\l_credit2" alt="" coords="152,5,288,47"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="159,71,281,98"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="165,122,275,149"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="145,173,295,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gabc8c6d76d9a2c74983450a1e2ffb3064" title="m0_be_btree_insert" alt="" coords="152,223,288,250"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="144,274,296,301"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="169,325,271,351"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="185,375,255,402"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="187,426,253,453"/>
+</map>

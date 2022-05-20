@@ -1,0 +1,10 @@
+<map id="pargrp_iomap_databuf_alloc" name="pargrp_iomap_databuf_alloc">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="247,5,323,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="204,56,365,83"/>
+<area shape="rect" id="node4" href="$d4/dc1/motr_2io_8h.html#a8cf5e32a818ecffc9a457bf56e70f5fd" title="addr_is_network_aligned" alt="" coords="413,183,579,209"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="223,157,346,184"/>
+<area shape="rect" id="node6" href="$d4/dc1/motr_2io_8h.html#ad9fcb4843aec8223dc993e740d0ea495" title="obj_buffer_size" alt="" coords="230,208,339,235"/>
+<area shape="rect" id="node7" href="$db/d27/io__pargrp_8c.html#aa151c0033892597bd50125571824789b" title="data_buf_init" alt="" coords="237,259,333,285"/>
+<area shape="rect" id="node8" href="$db/d27/io__pargrp_8c.html#a77e35b33d60b81ada3365935e1b9ec6c" title="data_buf_invariant" alt="" coords="221,309,349,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="251,360,318,387"/>
+</map>

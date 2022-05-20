@@ -1,0 +1,8 @@
+<map id="m0_layout__init" name="m0_layout__init">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="167,5,361,32"/>
+<area shape="rect" id="node3" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="221,56,307,83"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#ga05fd1a282ebd93e519cb81be62d42f76" title="layout_type_get" alt="" coords="207,107,321,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="211,157,317,184"/>
+<area shape="rect" id="node6" href="$da/da8/group__layout.html#ga20342dc3186c428da5a18fa162423204" title="m0_layout__allocated\l_invariant" alt="" coords="190,209,338,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="219,275,309,301"/>
+</map>

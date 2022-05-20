@@ -1,0 +1,12 @@
+<map id="m0_ha_rpc_endpoint" name="m0_ha_rpc_endpoint">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gadc261afbd134f1fd882b4ab1f9e4952d" title="halon_interface_msg\l_received_cb" alt="" coords="210,5,353,47"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga071134cc08a2e4f2019bdbaaeb173379" title="halon_interface_msg\l_is_delivered_cb" alt="" coords="210,71,353,112"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga0393a63b9fc230af5d978e3a426fcf7b" title="halon_interface_msg\l_is_not_delivered_cb" alt="" coords="209,136,353,177"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga7e38d73ff098ca05c2e3bc830150762a" title="halon_interface_link\l_connected_cb" alt="" coords="213,201,350,243"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#gad25fd45041dd280d47bb3c4115f953de" title="halon_interface_link\l_reused_cb" alt="" coords="213,267,350,308"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga8b235619e199a1a5f71f0ba38a45f6ba" title="halon_interface_link\l_is_disconnecting_cb" alt="" coords="208,332,355,373"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga6cf2c42067c53f47a4a06f825b27e0a3" title="halon_interface_link\l_disconnected_cb" alt="" coords="213,397,350,439"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gade4d2f36ccef8017579f3908b47ccbc6" title="m0_halon_interface_send" alt="" coords="196,463,367,490"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#gab049e9cbf8851b65fd24893d6d2f7fb1" title="m0_halon_interface\l_delivered" alt="" coords="214,515,349,556"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#gae430796e6d7ff0b0de84480f1de55f76" title="m0_halon_interface\l_disconnect" alt="" coords="214,580,349,621"/>
+</map>

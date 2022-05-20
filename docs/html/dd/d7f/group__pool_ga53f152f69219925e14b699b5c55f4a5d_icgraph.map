@@ -1,0 +1,7 @@
+<map id="pools_common_invariant" name="pools_common_invariant">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga36fcbdcca2295d36cf6b1b06f6def4bf" title="m0_pools_common_conf\l_ready_async_cb" alt="" coords="220,5,387,47"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga75223173244445a370892be6c2c7be94" title="m0__pools_common_init" alt="" coords="435,42,601,69"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaf845d60a3816d996863cf67ff737b9bb" title="pools_common_refresh\l_locked" alt="" coords="225,123,382,164"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="224,189,383,215"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gafff4b50e8426096033fd7438ffb16596" title="m0_pools_service_ctx\l_destroy" alt="" coords="227,240,379,281"/>
+</map>

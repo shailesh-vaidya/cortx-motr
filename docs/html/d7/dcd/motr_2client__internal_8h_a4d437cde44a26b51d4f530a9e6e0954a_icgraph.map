@@ -1,0 +1,11 @@
+<map id="m0_op_init" name="m0_op_init">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a13bd7889127737da9a8a7f45eab1c5e3" title="obj_op_init" alt="" coords="169,5,253,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#a257d2e696ea53b500d8316a51dd803f2" title="ut_test_m0_op_init" alt="" coords="145,56,277,83"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#a9c27ec9d3376c1c3870d4b620ed940ca" title="ut_test_m0_op_fini" alt="" coords="145,107,277,133"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#a20215d5dd5e29eb2f983e0588125b951" title="ut_test_m0_op_kick" alt="" coords="141,157,280,184"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#ace1563711ff4a90fa8bf6c51fe85fab1" title="obj_op_prepare" alt="" coords="155,208,266,235"/>
+<area shape="rect" id="node7" href="$d1/da1/motr_2layout_8c.html#a71f908108625da728895714ed22edcee" title="layout_op_init" alt="" coords="159,259,262,285"/>
+<area shape="rect" id="node8" href="$df/da5/composite__layout_8c.html#a0913585306bdfb34eeffd652b3b77b1a" title="composite_io_op_init" alt="" coords="139,309,283,336"/>
+<area shape="rect" id="node9" href="$d2/db6/idx_8c.html#a92cd58b45966ca973d0e8cc2c4182258" title="idx_op_init" alt="" coords="169,360,253,387"/>
+<area shape="rect" id="node10" href="$db/dc2/sync_8c.html#a32b8667595114b50666fc2d42716185f" title="sync_op_init" alt="" coords="163,411,258,437"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ioreq_cc_fop_init" name="ioreq_cc_fop_init">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="215,5,305,32"/>
+<area shape="rect" id="node3" href="$dc/d83/io__req__fop_8c.html#a06944f4e1411ca9ca0b268e72ed8f8b0" title="ioreq_cc_fop_release" alt="" coords="187,56,333,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="399,81,488,108"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="195,157,325,184"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gab9513898baaf29424a22ef08d0a8d70d" title="m0_fop_session_machine" alt="" coords="173,208,347,235"/>
+<area shape="rect" id="node7" href="$d9/d05/group__bulkclient_d_f_s.html#gafbfe09d0bc74c1a2dbb2dba4ec16e339" title="m0_cobfop_common_get" alt="" coords="176,259,344,285"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="395,284,492,311"/>
+<area shape="rect" id="node9" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="185,360,335,387"/>
+<area shape="rect" id="node10" href="$d4/dc1/motr_2io_8h.html#aea2837a336efedb3832aaa2686286c8f" title="m0_io_attr" alt="" coords="219,411,301,437"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga8c6bcb9fdfe038020ea62f35e37171d3" title="m0_indexvec_pack" alt="" coords="193,461,327,488"/>
+<area shape="rect" id="node12" href="$d0/d7f/group__vec.html#gad88f18db2b614820d84705334b44bc5b" title="m0_indexvec_mem2wire" alt="" coords="177,512,343,539"/>
+<area shape="rect" id="node13" href="$d0/d7f/group__vec.html#ga436467c6ef1eec3f085d814856e10f6f" title="m0_io_count" alt="" coords="212,563,308,589"/>
+<area shape="rect" id="node14" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="198,613,322,640"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="227,664,293,691"/>
+</map>

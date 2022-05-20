@@ -1,0 +1,5 @@
+<map id="nlx_kcore_core_buffer_map" name="nlx_kcore_core_buffer_map">
+<area shape="rect" id="node2" href="$d8/d9e/group___l_net_dev_internal.html#gacd65375ccf4de7d7a7f5f4427aa835e5" title="nlx_dev_ioctl_buf_register" alt="" coords="241,5,415,32"/>
+<area shape="rect" id="node3" href="$d8/d9e/group___l_net_dev_internal.html#gae3f50550da4e0288fd1d3b7e84139bc5" title="nlx_dev_buf_deregister" alt="" coords="250,56,406,83"/>
+<area shape="rect" id="node4" href="$d8/d9e/group___l_net_dev_internal.html#ga175f6caf97ceaf447e08991c8d75a77a" title="nlx_dev_ioctl_buf_queue_op" alt="" coords="235,107,421,133"/>
+</map>

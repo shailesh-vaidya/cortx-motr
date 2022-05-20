@@ -1,0 +1,11 @@
+<map id="nlx_ping_server_work" name="nlx_ping_server_work">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="201,5,347,32"/>
+<area shape="rect" id="node3" href="$dd/d12/group__list.html#gab8fa44f932c853ec075bd76504c84768" title="m0_list_is_empty" alt="" coords="212,56,336,83"/>
+<area shape="rect" id="node4" href="$dd/d12/group__list.html#ga8809410638c896c3ee5ab7e400ee1de6" title="m0_list_first" alt="" coords="227,107,321,133"/>
+<area shape="rect" id="node5" href="$de/dec/lnet_2st_2ping_8c.html#a1a24d52d76c41527f351429d84392134" title="set_msg_timeout" alt="" coords="213,157,335,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gacce89dfe5af29f0c271b458408c6e57e" title="m0_net_buffer_add" alt="" coords="208,208,340,235"/>
+<area shape="rect" id="node7" href="$de/dec/lnet_2st_2ping_8c.html#afba97d5e4d8dec07554af2a44a3d5aac" title="set_bulk_timeout" alt="" coords="213,259,335,285"/>
+<area shape="rect" id="node8" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="212,309,336,336"/>
+<area shape="rect" id="node9" href="$dd/d12/group__list.html#gadd264358911c229b0e226e3d7c16b021" title="m0_list_del" alt="" coords="230,360,318,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="239,411,309,437"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sm_waiter_wait" name="sm_waiter_wait">
+<area shape="rect" id="node2" href="$d0/dca/group__confc__dfspec.html#ga8da0ed89c2a4cc2ab864463b353571d5" title="m0_confc__open_sync" alt="" coords="184,5,340,32"/>
+<area shape="rect" id="node3" href="$d0/dca/group__confc__dfspec.html#ga39251b65490e1ef465dddedf5335eb56" title="m0_confc_open_by_fid_sync" alt="" coords="167,56,357,83"/>
+<area shape="rect" id="node4" href="$d0/dca/group__confc__dfspec.html#gab395786643873d814ddbb951571ddd14" title="m0_confc_readdir_sync" alt="" coords="182,107,342,133"/>
+</map>

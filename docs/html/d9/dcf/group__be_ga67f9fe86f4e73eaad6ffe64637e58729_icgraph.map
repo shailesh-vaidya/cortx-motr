@@ -1,0 +1,7 @@
+<map id="m0_be_log_record_assign" name="m0_be_log_record_assign">
+<area shape="rect" id="node2" href="$d2/df0/be_2ut_2log_8c.html#a01ee89fd493ea032edc6c90670e6a233" title="be_ut_log_multi_ut" alt="" coords="239,5,370,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#a843618798afc974ec6a9efe335c69dc6" title="be_ut_log_recover_and\l_discard" alt="" coords="227,57,383,98"/>
+<area shape="rect" id="node4" href="$dd/d4c/be_2ut_2main_8c.html#a09f9e77157a5a3748c61367537c94e1f" title="m0_be_ut_log_user" alt="" coords="237,123,372,149"/>
+<area shape="rect" id="node5" href="$d2/d39/ut_2recovery_8c.html#a8c2bb94ebe97d719534cd597aa41a22b" title="be_ut_recovery_iter\l_count" alt="" coords="237,174,373,215"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaf3ba7120492a878215573a8f71e52750" title="m0_be_group_format\l_recovery_prepare" alt="" coords="233,239,377,281"/>
+</map>

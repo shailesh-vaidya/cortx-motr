@@ -1,0 +1,7 @@
+<map id="dix_create" name="dix_create">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#ad4ba5e5ae248260bccb561dfd366fd9a" title="ut_service_init" alt="" coords="153,5,260,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#ab8da95ddc7d17fd485c50ee853945e31" title="dix_index_init" alt="" coords="156,56,257,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a669e6fa505ac253fdf9cf94c6ea00bcd" title="dix_common_idx_op" alt="" coords="136,107,277,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#afd22dbe43474720e004d49fb72062fe8" title="dix_index_fini" alt="" coords="156,157,257,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a1f0cfa002137795e6eba68ab420d0eb9" title="ut_service_fini" alt="" coords="153,208,260,235"/>
+</map>

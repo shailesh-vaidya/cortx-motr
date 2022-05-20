@@ -1,0 +1,10 @@
+<map id="test_spiel_service_order" name="test_spiel_service_order">
+<area shape="rect" id="node2" href="$d9/dad/spiel__ci__ut_8c.html#aaa15f99cda35851207c50a12d53e359f" title="spiel_ci_ut_init" alt="" coords="215,5,323,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga8f97e0ad7876fdb64d1d359319848896" title="m0_spiel_process_quiesce" alt="" coords="180,56,359,83"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga527c2717f57b0f501902e9edb0c64544" title="m0_spiel_service_stop" alt="" coords="192,107,347,133"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#gae1181156d341a60840cbcfd312c7fae4" title="m0_spiel_service_init" alt="" coords="196,157,343,184"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#gaaefec707da1b4b288b41977a8f52f81e" title="m0_spiel_service_start" alt="" coords="191,208,347,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#ga8e68c9c0b50fc19a21cbebea15130061" title="m0_spiel_process_list\l_services" alt="" coords="194,259,345,301"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="235,325,304,352"/>
+<area shape="rect" id="node9" href="$d9/dad/spiel__ci__ut_8c.html#a1fbadce7d3c77bdbdb4e62946a2398e8" title="spiel_ci_ut_fini" alt="" coords="215,376,323,403"/>
+</map>

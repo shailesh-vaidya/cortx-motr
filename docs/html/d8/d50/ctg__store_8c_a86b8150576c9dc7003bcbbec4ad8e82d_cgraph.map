@@ -1,0 +1,16 @@
+<map id="versioned_put_sync" name="versioned_put_sync">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="257,5,307,32"/>
+<area shape="rect" id="node3" href="$d8/d50/ctg__store_8c.html#a9f6b6a8b1cfbab53b304ce2c6a9c9614" title="ctg_op_version_get" alt="" coords="215,56,349,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#gaddb8a2b2736c66a66a94cb0ab68cf5c2" title="m0_crv_is_none" alt="" coords="223,107,341,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="211,158,353,199"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a0a150a88e3f3b81a14f629e4d392e153" title="ctg_vbuf_unpack" alt="" coords="221,275,343,301"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="458,237,534,264"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="463,313,529,340"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="209,376,355,403"/>
+<area shape="rect" id="node10" href="$d4/d44/group__cas.html#gaaa001ec5cafbf9466861d33bcf0a1715" title="m0_crv_cmp" alt="" coords="233,427,331,453"/>
+<area shape="rect" id="node11" href="$d8/d50/ctg__store_8c.html#a33fd7132942afebeaa02bf05fea57ed9" title="ctg_vbuf_packed_size" alt="" coords="420,553,572,580"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gaac8a21c08655ecc11ef228af1e8baa05" title="m0_be_btree_save_inplace" alt="" coords="192,528,372,555"/>
+<area shape="rect" id="node13" href="$d8/d50/ctg__store_8c.html#a64e3416922c2a4089c8e291db30b5c2d" title="ctg_op_zones" alt="" coords="231,579,333,605"/>
+<area shape="rect" id="node14" href="$d8/d50/ctg__store_8c.html#ad7d41d610a116bbac4cdef76efff060d" title="ctg_vbuf_pack" alt="" coords="229,629,335,656"/>
+<area shape="rect" id="node15" href="$d9/d21/group__cas-ctg-store.html#ga2e97a7b938cb3307b9c953e118f585dd" title="m0_ctg_state_inc_update" alt="" coords="197,680,367,707"/>
+</map>

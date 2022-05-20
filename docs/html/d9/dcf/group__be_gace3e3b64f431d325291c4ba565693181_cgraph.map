@@ -1,0 +1,4 @@
+<map id="m0_be_tx_bulk_status" name="m0_be_tx_bulk_status">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga2fd8469fef43dbe0a02a4a17cdefc541" title="be_tx_bulk_lock" alt="" coords="214,5,330,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gac915272cc0f6da768eba5de46ef9e6ae" title="be_tx_bulk_unlock" alt="" coords="207,56,337,83"/>
+</map>

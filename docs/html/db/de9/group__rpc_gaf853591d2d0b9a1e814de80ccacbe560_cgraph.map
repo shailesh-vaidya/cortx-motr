@@ -1,0 +1,9 @@
+<map id="item_decode" name="item_decode">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga4033ee660071359dff82fc72a1a62489" title="m0_rpc_item_header1\l_encdec" alt="" coords="163,71,314,112"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="381,107,447,134"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="376,326,452,353"/>
+<area shape="rect" id="node5" href="$dd/dc1/group__format.html#gaa8c1621ce128fe346c8e6bb5bd91c282" title="m0_format_header_unpack" alt="" coords="149,187,328,214"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga94818281be2eac642c0227d165ce3e13" title="m0_rpc_item_type_lookup" alt="" coords="151,238,326,265"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga49dbb7a88c32b1d8fee1b35240c9bfd2" title="m0_rpc_item_footer\l_encdec" alt="" coords="170,5,307,47"/>
+<area shape="rect" id="node8" href="$dd/dc1/group__format.html#gaedfcc2fed67c83b2b5926f8cfc015680" title="m0_format_footer_verify\l_generic" alt="" coords="157,289,320,331"/>
+</map>

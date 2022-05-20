@@ -1,0 +1,6 @@
+<map id="net_srv_init" name="net_srv_init">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gaf850014ff6f6e7babe2ae177863453bb" title="sim_chan_init" alt="" coords="165,5,268,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga92c5c35eca3f0b82e3e0d9b3e4fdca9b" title="sim_alloc" alt="" coords="339,81,416,108"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#gaf38ca0eecc8700d3dc2e1fc3638ed5e5" title="sim_timer_add" alt="" coords="163,107,270,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gaf41028afe3d25928517909c363a74388" title="net_srv_threads_start" alt="" coords="143,157,291,184"/>
+</map>

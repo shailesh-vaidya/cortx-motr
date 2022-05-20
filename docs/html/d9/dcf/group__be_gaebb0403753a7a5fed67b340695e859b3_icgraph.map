@@ -1,0 +1,6 @@
+<map id="be_btree_search" name="be_btree_search">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gab051fee783fe845df4e6edb039d85fb3" title="be_btree_insert_newkey" alt="" coords="172,5,335,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga2d9a38444404a34e172dec2983c05769" title="btree_save" alt="" coords="383,31,469,57"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gad3449940899d437096d8565fa7c9eb2c" title="m0_be_btree_update\l_inplace" alt="" coords="182,107,325,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="182,173,325,214"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="write_post" name="write_post">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="154,5,289,32"/>
+<area shape="rect" id="node3" href="$d3/daf/group___s_n_s_c_m_c_p.html#gaae231e8f1c999c42171b84aafdde9d99" title="cp_prepare" alt="" coords="178,56,265,83"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga6af35b45096f873e3f1d85687dbde017" title="cm2sns" alt="" coords="187,107,255,133"/>
+<area shape="rect" id="node5" href="$df/dca/group__m0d.html#gaa8f36db897ac9f5c640dbd4aae743e6e" title="m0_cs_ctx_get" alt="" coords="166,157,277,184"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="147,208,295,235"/>
+<area shape="rect" id="node7" href="$df/d01/group__pdclust.html#gaf6469d781786f85efe0a4152b677aa9b" title="m0_pdl_to_layout" alt="" coords="159,259,283,285"/>
+<area shape="rect" id="node8" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="136,309,307,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="166,360,277,387"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="147,411,296,437"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#ga6c8c49d2292e236f7f005d6dccd189c0" title="m0_reqh_idle_wait" alt="" coords="156,461,287,488"/>
+</map>

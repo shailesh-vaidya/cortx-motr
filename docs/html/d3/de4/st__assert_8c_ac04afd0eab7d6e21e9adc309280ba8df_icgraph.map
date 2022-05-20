@@ -1,0 +1,9 @@
+<map id="get_bin" name="get_bin">
+<area shape="rect" id="node2" href="$de/dc4/st__assert_8h.html#a39cf654532fc4bcc0a868126d5067e9a" title="st_mark_op" alt="" coords="147,5,237,32"/>
+<area shape="rect" id="node3" href="$de/dc4/st__assert_8h.html#afce9bb6fed7eae8dfcfb94a3453501e5" title="st_unmark_op" alt="" coords="140,56,244,83"/>
+<area shape="rect" id="node4" href="$de/dc4/st__assert_8h.html#a0a965964e69db7f341d0a02d762ebf3f" title="st_mark_entity" alt="" coords="138,107,246,133"/>
+<area shape="rect" id="node5" href="$de/dc4/st__assert_8h.html#a4d3e16012e2ee30343fdab83a42be65f" title="st_unmark_entity" alt="" coords="131,157,253,184"/>
+<area shape="rect" id="node6" href="$de/dc4/st__assert_8h.html#afaad652d5f27a62f21ce47dca073a9b6" title="st_mark_ptr" alt="" coords="147,208,237,235"/>
+<area shape="rect" id="node7" href="$de/dc4/st__assert_8h.html#a6f40563d44a7c5c95c0d39296d5a48a4" title="st_unmark_ptr" alt="" coords="139,259,245,285"/>
+<area shape="rect" id="node8" href="$de/dc4/st__assert_8h.html#ab4fc6f3047af156cc4235d8e817ecb1f" title="st_cleaner_empty_bin" alt="" coords="117,309,267,336"/>
+</map>

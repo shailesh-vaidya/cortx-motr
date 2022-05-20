@@ -1,0 +1,11 @@
+<map id="m0_sm_timedwait" name="m0_sm_timedwait">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gacbeec3bef660262fb808812c318cd555" title="m0_sm_invariant" alt="" coords="190,5,311,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="201,56,300,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="199,107,302,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gaec69bf94fe92c9851f455e73b66874d3" title="sm_state" alt="" coords="213,157,289,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gaf55eff09e070f0e4e664557578ff2e15" title="sm_unlock" alt="" coords="208,208,293,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gacf59d500a3c9d8e44c753b64e221b6dd" title="m0_chan_timedwait" alt="" coords="181,259,320,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga63bddace55294d9d310a1b46f92a275f" title="sm_lock" alt="" coords="215,309,286,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="201,360,300,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="201,411,300,437"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_composite_layer_add" name="m0_composite_layer_add">
+<area shape="rect" id="node2" href="$d6/dd3/motr_2st_2layout_8c.html#abd192c93a5cbc0a09f750ee8c734aa94" title="layout_composite_add\l_layers" alt="" coords="242,5,394,47"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="247,71,389,112"/>
+<area shape="rect" id="node4" href="$d0/d3f/motr_2ut_2layout_8c.html#a9b50b601faac38c90095eba674a7d514" title="ut_m0_composite_layer_add" alt="" coords="224,137,412,163"/>
+<area shape="rect" id="node5" href="$d0/d3f/motr_2ut_2layout_8c.html#ac52e6ae0dc2e21f2332aec8e7ddc01f1" title="ut_m0_composite_layer_del" alt="" coords="226,187,410,214"/>
+<area shape="rect" id="node6" href="$d0/d3f/motr_2ut_2layout_8c.html#a6e616fd67ac7e6952f934ead504db273" title="composite_layout_add\l_layers" alt="" coords="242,239,394,280"/>
+<area shape="rect" id="node7" href="$d0/d8c/m0hsm__api_8c.html#a8495064868e6302238fd6bacbe30e8e1" title="layout_add_top_layer" alt="" coords="245,305,391,331"/>
+<area shape="rect" id="node8" href="$d0/d8c/m0hsm__api_8c.html#ae312d90eb09a820060f8932ae0177aa4" title="copy_cb" alt="" coords="460,330,531,357"/>
+<area shape="rect" id="node9" href="$d2/d5a/m0hsm__api_8h.html#aa9665cb8f9b7720db3e85962cb9a485c" title="m0hsm_create" alt="" coords="264,406,372,433"/>
+</map>

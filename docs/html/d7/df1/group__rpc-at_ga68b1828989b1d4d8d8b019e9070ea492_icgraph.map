@@ -1,0 +1,9 @@
+<map id="m0_rpc_at_add" name="m0_rpc_at_add">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga1eb512486d570535821a2495fb9c49a2" title="dixcp_to_dixcpx" alt="" coords="182,5,298,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga2a7d31cea75e0f6580581c9a5d8f1f88" title="creq_kv_buf_add" alt="" coords="179,56,301,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga7d964641ff67aa4a96645cac9c7e09a8" title="cas_index_op_prepare" alt="" coords="164,107,316,133"/>
+<area shape="rect" id="node5" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a734a6867a83536a267c2d3de6410a6f8" title="req_fop_prepare" alt="" coords="183,157,297,184"/>
+<area shape="rect" id="node6" href="$d8/d3c/util_8h.html#ab2f780c8a91fdeece67c0be4519668b3" title="isc_req_prepare" alt="" coords="183,208,297,235"/>
+<area shape="rect" id="node7" href="$d1/de2/at__ut_8c.html#a7c18309f303abd138f334fae4ee44e03" title="inline_send" alt="" coords="197,259,283,285"/>
+<area shape="rect" id="node8" href="$d1/de2/at__ut_8c.html#ad80298a036a336f36ba50cff50ff2e73" title="inbulk_send" alt="" coords="195,309,285,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="poolmach_conf_ready_cb" name="poolmach_conf_ready_cb">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="224,5,383,32"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="227,56,379,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga7ccf6e1f6e6286dadf2f5de22311e5e1" title="m0_pooldev_clink_add" alt="" coords="226,107,381,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#gaa49b2639010c2cd9c0c1f9286dfbd5cf" title="pooldev_clink" alt="" coords="253,157,354,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gacb5a46061ba2abadd41969f918326a39" title="m0_conf_obj_get_lock" alt="" coords="227,208,379,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="259,259,348,285"/>
+</map>

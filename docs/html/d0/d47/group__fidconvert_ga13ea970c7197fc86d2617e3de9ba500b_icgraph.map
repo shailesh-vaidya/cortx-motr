@@ -1,0 +1,15 @@
+<map id="m0_fid_cob_device_id" name="m0_fid_cob_device_id">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a77b054aeba2f4d0f1ac1a7ed7147c958" title="cob_ios_prepare" alt="" coords="221,5,338,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4655ca8fecad9c23d821eca74876cefb" title="m0t1fs_ios_cob_op" alt="" coords="212,56,347,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a19307247d2e0a0e538f6bb7ecdcdf671" title="target_session" alt="" coords="226,107,333,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#adaf38a1dd7a04a7069ef195f5e4f44e6" title="target_cob_create_fop\l_prepare" alt="" coords="204,158,355,199"/>
+<area shape="rect" id="node6" href="$d5/d5d/ut_2cob__foms_8c.html#a33c35e693fbb969ef04395f7a507a347" title="cc_fom_populate_test" alt="" coords="204,224,355,251"/>
+<area shape="rect" id="node7" href="$d5/d5d/ut_2cob__foms_8c.html#ae753ed2ed709ab4cbc1d9a0db2e4bf6d" title="cd_fom_populate_test" alt="" coords="204,275,355,301"/>
+<area shape="rect" id="node8" href="$d5/d5d/ut_2cob__foms_8c.html#a487c5b24444f37be0dc224ad5220a5c9" title="fid_convert_ut_check" alt="" coords="206,325,353,352"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#gac09aa90d44907f0a054674d1a90a5cea" title="m0_io_cob_create" alt="" coords="215,376,343,403"/>
+<area shape="rect" id="node10" href="$d8/dc1/bulkio__common_8c.html#a2e68bfef2868da731725600746d4a51d" title="io_fop_populate" alt="" coords="223,427,336,453"/>
+<area shape="rect" id="node11" href="$db/d53/bulkio__ut_8c.html#a6cb1bea9d2dacf4cc83162b1c9642932" title="fop_create_populate" alt="" coords="210,477,349,504"/>
+<area shape="rect" id="node12" href="$dc/d83/io__req__fop_8c.html#a3cb767009f727f1b851bbd281c037c91" title="ioreq_cc_fop_init" alt="" coords="219,528,339,555"/>
+<area shape="rect" id="node13" href="$d7/daf/group___s_n_s_c_m.html#ga1df4efe7cdc6b2a87875417f1784816e" title="cm_conf_service_get" alt="" coords="206,579,353,605"/>
+<area shape="rect" id="node14" href="$d9/d5b/repair_2ut_2xform_8c.html#aba60105c2978b8f0672bd28abc38414d" title="tgt_fid_cob_create" alt="" coords="215,629,344,656"/>
+</map>

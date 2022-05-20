@@ -1,0 +1,6 @@
+<map id="m0_ha_delivered" name="m0_ha_delivered">
+<area shape="rect" id="node2" href="$d1/df2/group__motr.html#ga2bc672116c1d6ea09b6462c1e43d5318" title="motr_ha_msg_received_cb" alt="" coords="173,5,352,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gadc261afbd134f1fd882b4ab1f9e4952d" title="halon_interface_msg\l_received_cb" alt="" coords="191,57,334,98"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gab049e9cbf8851b65fd24893d6d2f7fb1" title="m0_halon_interface\l_delivered" alt="" coords="195,122,330,163"/>
+<area shape="rect" id="node5" href="$de/d4a/group__m0ham.html#ga022ff1b7d55b2af51477f8685584c754" title="ham_msg_received" alt="" coords="195,188,330,215"/>
+</map>

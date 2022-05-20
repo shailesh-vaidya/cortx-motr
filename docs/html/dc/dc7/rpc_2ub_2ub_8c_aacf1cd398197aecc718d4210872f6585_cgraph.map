@@ -1,0 +1,6 @@
+<map id="_stop" name="_stop">
+<area shape="rect" id="node2" href="$dc/dc7/rpc_2ub_2ub_8c.html#a91d9a90a839f305e1a5c1105ae8f2e05" title="_client_stop" alt="" coords="133,5,225,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="299,31,368,57"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="109,107,249,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/rpc_2ub_2fops_8c.html#a4033ccf841bb31d29381873136212a68" title="m0_rpc_ub_fops_fini" alt="" coords="108,157,251,184"/>
+</map>

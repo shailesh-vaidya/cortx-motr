@@ -1,0 +1,14 @@
+<map id="m0_cob_domain_mkfs" name="m0_cob_domain_mkfs">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="419,12,509,38"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga6091d62e4e5b4453a12f39b103912211" title="cob_table_insert" alt="" coords="405,74,523,101"/>
+<area shape="rect" id="node4" href="$d3/d8e/group__cob.html#ga47e20f53fd0d79ce9a28d3135f74b32f" title="m0_cob_alloc" alt="" coords="231,201,333,228"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="431,125,497,152"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="207,252,357,278"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="235,302,329,329"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga7c8f48452a610db82777a0c4711db441" title="m0_cob_nsrec_init" alt="" coords="217,353,347,380"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#gacfac2ac7f95e189a0202dca2335cc423" title="m0_time_seconds" alt="" coords="218,404,346,430"/>
+<area shape="rect" id="node10" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="231,454,333,481"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#ga2bcda8ab1e2c60b75efc3449167de40c" title="m0_cob_fabrec_make" alt="" coords="207,505,357,532"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="247,556,317,582"/>
+<area shape="rect" id="node13" href="$d3/d8e/group__cob.html#ga7840e004a1c1b8431a212119e27b7bb5" title="m0_cob_create" alt="" coords="227,49,337,76"/>
+</map>

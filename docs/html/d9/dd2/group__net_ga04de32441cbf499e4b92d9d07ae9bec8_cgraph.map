@@ -1,0 +1,9 @@
+<map id="m0_net_buffer_register" name="m0_net_buffer_register">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="253,5,329,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="234,56,349,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="423,157,529,184"/>
+<area shape="rect" id="node5" href="$dd/d12/group__list.html#ga64bd572b16e4877aa56a229a3a95be4e" title="m0_list_add_tail" alt="" coords="233,157,349,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gade3c99118f605e1975055c935cf806d6" title="m0_net__buffer_invariant" alt="" coords="208,208,375,235"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="227,259,355,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="258,309,325,336"/>
+</map>

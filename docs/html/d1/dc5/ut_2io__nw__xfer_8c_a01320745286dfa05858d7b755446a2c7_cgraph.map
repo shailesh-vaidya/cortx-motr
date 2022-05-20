@@ -1,0 +1,10 @@
+<map id="ut_test_target_session" name="ut_test_target_session">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="216,5,367,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="216,56,367,83"/>
+<area shape="rect" id="node4" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="423,81,551,108"/>
+<area shape="rect" id="node5" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="208,157,375,184"/>
+<area shape="rect" id="node6" href="$de/df0/io__nw__xfer_8c.html#aa6dfefa6688da18e6d1fa43cf7dafde3" title="target_session" alt="" coords="238,208,345,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="452,309,521,336"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="240,309,343,336"/>
+<area shape="rect" id="node9" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="217,360,366,387"/>
+</map>

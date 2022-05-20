@@ -1,0 +1,10 @@
+<map id="sys_balance" name="sys_balance">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga557530c472993a6ca80ea94361f5dda9" title="sys_invariant" alt="" coords="188,5,287,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gacf40b8b280f890bb37a1a1e88a582dd2" title="sys_qlock" alt="" coords="197,56,278,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gae3d464c9404e6bc3d83b2fb039c8c541" title="sys_qunlock" alt="" coords="190,107,285,133"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="205,157,270,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gad84119e420af0bea92d6a610321e7782" title="m0_addb2_storage_submit" alt="" coords="148,208,327,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga711eb16cce79f5a38b72377fb4750c55" title="m0_addb2_net_submit" alt="" coords="161,259,314,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga195b69754b267793b790b9f1abcef41a" title="m0_addb2_trace_done" alt="" coords="161,309,314,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga5e57b7a5a4250bd09020121126cc7956" title="m0_addb2_mach_fini" alt="" coords="165,360,310,387"/>
+</map>

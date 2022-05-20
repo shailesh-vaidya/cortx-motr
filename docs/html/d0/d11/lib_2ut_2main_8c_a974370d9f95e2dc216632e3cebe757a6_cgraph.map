@@ -1,0 +1,5 @@
+<map id="test_trace" name="test_trace">
+<area shape="rect" id="node2" href="$d5/d06/ut_2trace_8c.html#adff4bafc8fe16adb9eba68a5cb0a656e" title="trace_thread_func" alt="" coords="133,5,260,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="141,56,252,83"/>
+<area shape="rect" id="node4" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="143,107,250,133"/>
+</map>

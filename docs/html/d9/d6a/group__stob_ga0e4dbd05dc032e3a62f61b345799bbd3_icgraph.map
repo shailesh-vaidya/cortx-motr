@@ -1,0 +1,12 @@
+<map id="m0_stob_domain_is_of_type" name="m0_stob_domain_is_of_type">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga4fa2916d3284be0f22e81101c6e8c722" title="cp_io" alt="" coords="299,5,353,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#gaf0dc9bdce916f0dde673f71d4c04217d" title="io_launch" alt="" coords="287,56,365,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga2ceed5523dec4a69cd5285f0d624c55d" title="io_finish" alt="" coords="501,143,571,169"/>
+<area shape="rect" id="node5" href="$d6/d2c/group__stobad.html#gaf7b8d5bf4adb9677d53818c0bd2d5f7e" title="m0_stob_ad_balloc_clear" alt="" coords="241,157,411,184"/>
+<area shape="rect" id="node6" href="$d3/d78/group__stoblinux.html#ga10d67dd9e7794543c7068374256f2472" title="m0_stob_linux_domain\l_container" alt="" coords="249,209,403,250"/>
+<area shape="rect" id="node7" href="$d3/d78/group__stoblinux.html#gaf0a5a42d025e9ca32c8a2a446f1844cf" title="m0_stob_linux_domain\l_directio" alt="" coords="459,223,613,265"/>
+<area shape="rect" id="node8" href="$d3/d78/group__stoblinux.html#ga8082bdb9e8fe40b40f071902191eb1d1" title="m0_stob_linux_reopen" alt="" coords="250,325,402,352"/>
+<area shape="rect" id="node9" href="$d3/d78/group__stoblinux.html#gad7e6e295dfed1b2f84a466adb1baabbc" title="m0_stob_linux_conf\l_sdev_associate" alt="" coords="257,377,395,418"/>
+<area shape="rect" id="node10" href="$d3/d78/group__stoblinux.html#ga6c16ec4db5b0569e7b49608139df91fd" title="m0_stob_linux_domain\l_fd_get" alt="" coords="249,442,403,483"/>
+<area shape="rect" id="node11" href="$d3/d78/group__stoblinux.html#gaa8dfb95b94a27117a7e2fa4b0e06ec8c" title="m0_stob_linux_domain\l_fd_put" alt="" coords="249,507,403,549"/>
+</map>

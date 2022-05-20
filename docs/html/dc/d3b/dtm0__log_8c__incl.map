@@ -1,0 +1,17 @@
+<map id="be/dtm0_log.c" name="be/dtm0_log.c">
+<area shape="rect" id="node2" href="$d3/d2d/dtm0__log_8h.html" title="be/dtm0_log.h" alt="" coords="31,80,135,107"/>
+<area shape="rect" id="node3" href="$dd/df6/be_2list_8h.html" title="be/list.h" alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node4" href="$d6/d6d/buf_8h.html" title="lib/buf.h" alt="" coords="192,155,260,181"/>
+<area shape="rect" id="node5" href="$d2/dfe/alloc_8h.html" title="be/alloc.h" alt="" coords="605,155,684,181"/>
+<area shape="rect" id="node6" href="$d5/dfe/clk__src_8h.html" title="dtm0/clk_src.h" alt="" coords="299,80,407,107"/>
+<area shape="rect" id="node7" href="$d5/d6c/op_8h.html" title="be/op.h" alt="" coords="431,80,496,107"/>
+<area shape="rect" id="node8" href="$de/db9/tx_8h.html" title="be/tx.h" alt="" coords="160,80,223,107"/>
+<area shape="rect" id="node9" href="$d4/d0a/tx__credit_8h.html" title="be/tx_credit.h" alt="" coords="617,80,718,107"/>
+<area shape="rect" id="node10" href="$d8/d1f/seg_8h.html" title="be/seg.h" alt="" coords="521,80,593,107"/>
+<area shape="rect" id="node11" href="$dc/da7/assert_8h.html" title="lib/assert.h" alt="" coords="889,155,976,181"/>
+<area shape="rect" id="node12" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="913,80,992,107"/>
+<area shape="rect" id="node13" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="793,80,889,107"/>
+<area shape="rect" id="node14" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="1143,80,1221,107"/>
+<area shape="rect" id="node15" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="1094,155,1193,181"/>
+<area shape="rect" id="node16" href="$d6/df3/dtm0_2fop_8h.html" title="dtm0/fop.h" alt="" coords="1245,80,1329,107"/>
+</map>

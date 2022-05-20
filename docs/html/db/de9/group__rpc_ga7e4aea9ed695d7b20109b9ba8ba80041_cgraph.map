@@ -1,0 +1,5 @@
+<map id="net_buffer_free" name="net_buffer_free">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga7d32f0da403ee9a79c5c49a6efa90da3" title="m0_net_buffer_deregister" alt="" coords="161,5,329,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga192dc68dfbf640e79e605568436c1d2d" title="m0_bufvec_free_aligned" alt="" coords="164,56,327,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="201,107,290,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0__obj_layout_send" name="m0__obj_layout_send">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a1bc6dfe6d240d86aa3c7a1e3418f5c44" title="m0__entity_instance" alt="" coords="204,5,347,32"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#ga3bd15da27e515c8627be1be2a5b0002f" title="m0_conf_fid_is_valid" alt="" coords="203,56,347,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="201,107,349,133"/>
+<area shape="rect" id="node5" href="$d7/d9a/motr_2cob_8c.html#af0346d493bdc232a1644614461e3c9b1" title="cob_req_alloc" alt="" coords="224,157,327,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="397,183,467,209"/>
+<area shape="rect" id="node7" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="211,259,339,285"/>
+<area shape="rect" id="node8" href="$d7/d9a/motr_2cob_8c.html#a6ae263f3bbdb9eb4d69611afac702d4d" title="cob_make_name" alt="" coords="215,309,336,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="399,360,465,387"/>
+<area shape="rect" id="node10" href="$d7/d9a/motr_2cob_8c.html#a13e41e4de4680758a8236fa42f9df7f0" title="cob_req_send" alt="" coords="224,411,327,437"/>
+<area shape="rect" id="node11" href="$d7/d9a/motr_2cob_8c.html#a5a761fea0fcc9fe2a94452e4e06bca2b" title="cob_req_free" alt="" coords="227,461,324,488"/>
+</map>

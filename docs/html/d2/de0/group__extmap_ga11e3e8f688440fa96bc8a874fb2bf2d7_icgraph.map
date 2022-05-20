@@ -1,0 +1,11 @@
+<map id="m0_be_emap_credit" name="m0_be_emap_credit">
+<area shape="rect" id="node2" href="$da/d8d/ut_2extmap_8c.html#acba08c3a3319512a31cf338a9871f1a5" title="test_init" alt="" coords="241,5,309,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga09b1441e473b458eae4b0da9edefed2b" title="emap_prep" alt="" coords="232,56,319,83"/>
+<area shape="rect" id="node4" href="$d6/d2c/group__stobad.html#ga02c5e673afed111c0152a9e059396da5" title="stob_ad_domain_create\l_credit" alt="" coords="195,107,355,149"/>
+<area shape="rect" id="node5" href="$d6/d2c/group__stobad.html#gaaf40466e324afc99e7697abff375e143" title="stob_ad_domain_destroy\l_credit" alt="" coords="192,173,359,214"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga33f74f28ab2aab5288a0bc433d90b979" title="stob_ad_create_credit" alt="" coords="200,239,351,265"/>
+<area shape="rect" id="node7" href="$d6/d2c/group__stobad.html#ga2c3cc23b3ee39da574364473eed1c4f0" title="stob_ad_punch_credit" alt="" coords="201,289,350,316"/>
+<area shape="rect" id="node8" href="$d6/d2c/group__stobad.html#ga768c7debaad77bd1ddac601ddf293054" title="stob_ad_destroy_credit" alt="" coords="197,340,354,367"/>
+<area shape="rect" id="node9" href="$d6/d2c/group__stobad.html#ga25954f60fb4818291ea6c62a154b85fc" title="stob_ad_write_credit" alt="" coords="204,391,347,417"/>
+<area shape="rect" id="node10" href="$d6/d2c/group__stobad.html#ga0716abfc9a9ed6aac7ef6d2e0650a378" title="stob_ad_rec_frag_undo\l_redo_op_cred" alt="" coords="197,442,354,483"/>
+</map>

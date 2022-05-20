@@ -1,0 +1,9 @@
+<map id="transition" name="transition">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga851deafe4c8d220bab667cf4c222bc84" title="m0_sm_conf_init" alt="" coords="142,5,263,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="135,56,270,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="158,107,247,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="325,208,452,235"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="158,208,247,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="151,259,255,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="128,309,277,336"/>
+</map>

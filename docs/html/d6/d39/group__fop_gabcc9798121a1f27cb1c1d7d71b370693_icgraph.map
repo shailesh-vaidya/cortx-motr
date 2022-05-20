@@ -1,0 +1,16 @@
+<map id="m0_fop_alloc_at" name="m0_fop_alloc_at">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#af981bb99b95ee07ff2a9064873c3af8d" title="cob_mds_send" alt="" coords="189,5,299,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a439ab2e1f721fb44a64b33d2b8de7feb" title="m0t1fs_mds_cob_op" alt="" coords="173,56,315,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a65f948ee0b36c5623d5f075d4b4d18c1" title="m0t1fs_cob_getattr" alt="" coords="177,107,311,133"/>
+<area shape="rect" id="node5" href="$dc/dc7/rpc_2ub_2ub_8c.html#af195ef48990b788969b51e7f5a6aaa28" title="fop_send" alt="" coords="207,157,281,184"/>
+<area shape="rect" id="node6" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#ga7307d998e9748942e323735709a0b6fa" title="m0_ios_mds_getattr" alt="" coords="174,208,314,235"/>
+<area shape="rect" id="node7" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#gaecdb1a12dbb15b387b1c1199fbac50d5" title="m0_ios_getattr" alt="" coords="190,259,298,285"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#aa0d69538b154bfb2da46a20887dd5f9a" title="rootfid_lookup" alt="" coords="193,309,295,336"/>
+<area shape="rect" id="node9" href="$d5/ded/cs__ut__main_8c.html#ab0e207fdd311343f738134f8bc94c855" title="m0_cs_ut_send_fops" alt="" coords="171,360,317,387"/>
+<area shape="rect" id="node10" href="$d8/d66/pool__trigger_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="219,411,269,437"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#ga5077a3240df4e8b654297318ecf219f2" title="create_send" alt="" coords="197,461,291,488"/>
+<area shape="rect" id="node12" href="$d5/d8c/group__reqh.html#gabba62fbb0c0855ef552df8cc0fa3ac5b" title="read_send" alt="" coords="203,512,285,539"/>
+<area shape="rect" id="node13" href="$d5/d8c/group__reqh.html#gaec4f990a9a0626e36a85d1672373b4d3" title="write_send" alt="" coords="201,563,287,589"/>
+<area shape="rect" id="node14" href="$d8/dd5/rpc__ping_8c.html#a7dbf03e26b5efd813f2d9396c6a93fa5" title="send_ping_fop" alt="" coords="191,613,297,640"/>
+<area shape="rect" id="node15" href="$da/de8/rpclib__ut_8c.html#ae2c708c6f5ae404882186b6302636c86" title="send_fop" alt="" coords="207,664,281,691"/>
+</map>

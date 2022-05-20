@@ -1,0 +1,12 @@
+<map id="pools_common__update_by_conf" name="pools_common__update_by_conf">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#ac1a4911ce247b30b9a3b0bfdfc5abf55" title="m0_confc2reqh" alt="" coords="437,12,548,39"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#gae10be5add2e843f7c68e0c9fccf6719b" title="m0_reqh2profile" alt="" coords="245,451,360,477"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="451,88,534,115"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#gad48b7a5200f673a5c24e6060dcd1ee72" title="pools_common__md_pool\l_cleanup" alt="" coords="216,502,389,543"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gaf845d60a3816d996863cf67ff737b9bb" title="pools_common_refresh\l_locked" alt="" coords="224,202,381,243"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="459,241,526,268"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#gaac206473f99f7eeb6e7c31b05a221403" title="pools_common__dev2ios\l_build" alt="" coords="218,267,387,309"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga20c5f3886a28297a28f0f1aacde27835" title="m0_pools_setup" alt="" coords="244,333,361,360"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#gaf280f6571cfcf01d8820698869f63a66" title="m0_pool_versions_setup" alt="" coords="219,49,386,76"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#ga13f34a598f9c8bdd12819335a4c75e1a" title="m0_reqh_mdpool_layout\l_build" alt="" coords="221,385,384,426"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="idx_create_or_delete" name="idx_create_or_delete">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga7ef57e10c55fca07aa6eb6b6522899c4" title="st_idx_init" alt="" coords="213,5,294,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#ga6bdfb2e8450912b6aa8d79efbd618cd0" title="st_entity_create" alt="" coords="196,56,311,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga6135a5854786f84d1112a83c2570262b" title="st_idx_open" alt="" coords="207,107,299,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga83d22263c019d3871c84e9731a77e025" title="st_entity_delete" alt="" coords="196,157,311,184"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="204,208,303,235"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="211,259,296,285"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="214,309,293,336"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="212,360,295,387"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#gab1b1983128ea2efbf59bf7ebf0793607" title="st_idx_fini" alt="" coords="213,411,294,437"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="219,461,288,488"/>
+</map>

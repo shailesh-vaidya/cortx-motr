@@ -1,0 +1,5 @@
+<map id="dix_rop_ctx_fini" name="dix_rop_ctx_fini">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gafad00f6135c712b21e4e08454db8ee8d" title="dix_rec_op_fini" alt="" coords="173,5,283,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="337,56,407,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga83191580d2936b3217989aab3537264f" title="dix_cas_rops_fini" alt="" coords="167,107,289,133"/>
+</map>

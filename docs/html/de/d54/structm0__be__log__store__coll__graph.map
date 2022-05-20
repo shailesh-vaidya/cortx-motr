@@ -1,0 +1,10 @@
+<map id="m0_be_log_store" name="m0_be_log_store">
+<area shape="rect" id="node2" href="$dc/dbe/structm0__be__log__io.html" title="{m0_be_log_io\n||}" alt="" coords="112,436,214,513"/>
+<area shape="rect" id="node4" href="$de/d06/structm0__buf.html" title="{m0_buf\n||}" alt="" coords="269,219,334,296"/>
+<area shape="rect" id="node5" href="$d1/d0a/structm0__stob.html" title="{m0_stob\n||}" alt="" coords="412,436,484,513"/>
+<area shape="rect" id="node6" href="$dc/d61/structm0__stob__domain.html" title="{m0_stob_domain\n||}" alt="" coords="518,219,640,296"/>
+<area shape="rect" id="node9" href="$d1/de8/structm0__be__log__store__cfg.html" title="{m0_be_log_store_cfg\n||}" alt="" coords="1160,436,1307,513"/>
+<area shape="rect" id="node10" href="$d5/d3a/structm0__be__op.html" title="{m0_be_op\n||}" alt="" coords="660,436,743,513"/>
+<area shape="rect" id="node11" href="$de/d0f/structm0__be__fmt__log__store__header.html" title="{m0_be_fmt_log_store\l_header\n||}" alt="" coords="828,320,975,412"/>
+<area shape="rect" id="node7" href="$d1/d3c/structm0__module.html" title="{m0_module\n||}" alt="" coords="1332,436,1421,513"/>
+</map>

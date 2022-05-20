@@ -1,0 +1,7 @@
+<map id="m0_ha_entrypoint_rep_free" name="m0_ha_entrypoint_rep_free">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga467b261da00f64e4d24ba438a7051207" title="rconfc_ha_update_ast" alt="" coords="475,9,625,36"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga1ba3b4c90beb9238a86e507946535f04" title="rconfc_start" alt="" coords="284,35,375,61"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="260,86,399,127"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gadcedbf8114d679b44e18d1b34024f20c" title="m0_ha_entrypoint_client_stop" alt="" coords="232,152,427,179"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga894a96b21725374ac8cf786a6943c5e0" title="m0_ha_entrypoint_rep_copy" alt="" coords="237,203,422,229"/>
+</map>

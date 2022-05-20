@@ -1,0 +1,10 @@
+<map id="sss_device_fom_disk_opened" name="sss_device_fom_disk_opened">
+<area shape="rect" id="node2" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="392,6,503,33"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga1499e1e71e1c59d130775ea0e91585fe" title="m0_fom_reqh" alt="" coords="397,82,498,109"/>
+<area shape="rect" id="node4" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga2534765e138c86d40c0609da888273cc" title="sss_disk_info_use" alt="" coords="207,195,338,222"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="414,145,481,171"/>
+<area shape="rect" id="node6" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gae54ceb57d5c5176919c1e26bcb40edf8" title="sss_confc_ctx_init" alt="" coords="207,43,338,70"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="223,246,322,273"/>
+<area shape="rect" id="node8" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga7c6089d892e56474b1fc4cafda8bd3f6" title="sss_dfom_confc_ctx\l_check_cb" alt="" coords="201,297,344,339"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="206,363,339,390"/>
+</map>

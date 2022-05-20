@@ -1,0 +1,11 @@
+<map id="ring_get" name="ring_get">
+<area shape="rect" id="node2" href="$de/de1/rmut_8c.html#a6c3e488967991397b0217ad77f8751c8" title="creditor_cookie_setup" alt="" coords="121,5,271,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gae85a9aa985d78a0fd6bb2e2d5cdb4ae4" title="m0_rm_incoming_init" alt="" coords="123,56,269,83"/>
+<area shape="rect" id="node4" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="169,107,223,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga35b16fb825a3e37b39bace544db5abe5" title="m0_rm_credit_get" alt="" coords="133,259,259,285"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="326,208,461,235"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="319,259,468,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="132,360,260,387"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga5642217a5a12914f27500be7aa65154a" title="m0_rm_credit_put" alt="" coords="133,208,259,235"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gab1a04ef57fb9eedf5d2f44e85f24dcf8" title="m0_rm_incoming_fini" alt="" coords="123,411,269,437"/>
+</map>

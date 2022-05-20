@@ -1,0 +1,10 @@
+<map id="ktest_buf_reg" name="ktest_buf_reg">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="177,5,315,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="186,56,306,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="385,132,492,159"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="169,157,323,184"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="155,208,337,235"/>
+<area shape="rect" id="node7" href="$d9/dd2/group__net.html#ga7d32f0da403ee9a79c5c49a6efa90da3" title="m0_net_buffer_deregister" alt="" coords="162,259,330,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="189,309,303,336"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="177,360,315,387"/>
+</map>

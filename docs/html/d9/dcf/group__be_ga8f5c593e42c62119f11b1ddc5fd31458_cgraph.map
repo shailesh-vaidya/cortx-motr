@@ -1,0 +1,10 @@
+<map id="be_tx_group_reg_area_gather" name="be_tx_group_reg_area_gather">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga9b319ee42f7821d3e0c3ef04db01b70d" title="m0_be_tx_group_tx_nr" alt="" coords="223,5,378,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa37ea7ffa19e4119c5772bd1570cb700" title="m0_be_tx__reg_area" alt="" coords="229,56,372,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga11ffd3dc05cc1c2f2c343fa8633bc424" title="m0_be_reg_area_merger_add" alt="" coords="204,107,397,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaaa24c58f091ffd9bf8e1fad1c07ac749" title="m0_be_reg_area_prepared" alt="" coords="213,157,388,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaa2d7aba6e1ffee44a43dde0d952180a2" title="m0_be_reg_area_captured" alt="" coords="213,208,388,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6574432283579ea41e1a725fa87a0df9" title="m0_be_reg_area_used" alt="" coords="224,259,377,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaee19b2fc53876e697eb2114af7310a29" title="m0_be_reg_area_merger\l_merge_to" alt="" coords="218,310,383,351"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga341a605a2e8c7ad71579a7a40fd9fddf" title="m0_be_reg_area_optimize" alt="" coords="213,376,388,403"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="ff2c_token_get" name="ff2c_token_get">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#ga77ec850928c5cdab94d8778ade6acfb5" title="skip_space" alt="" coords="287,69,375,95"/>
+<area shape="rect" id="node3" href="$dd/d6d/group__xcode.html#gac18a7085e89d952004996f5445351376" title="ctx_step" alt="" coords="423,69,495,95"/>
+<area shape="rect" id="node4" href="$dd/d6d/group__xcode.html#ga3e2f5b1dadef9f95a4ee5dc2684326d4" title="ctx_move" alt="" coords="543,18,621,45"/>
+<area shape="rect" id="node5" href="$dd/d6d/group__xcode.html#ga44f0d2ee812fb0647c72314b571f9d0d" title="at" alt="" coords="180,322,219,349"/>
+<area shape="rect" id="node6" href="$dd/d6d/group__xcode.html#ga6efd4b04e0e9dbd061994cc3a0d4643b" title="get_literal" alt="" coords="160,119,239,146"/>
+<area shape="rect" id="node7" href="$dd/d6d/group__xcode.html#ga09fe1385e39b1b07e0a1881870b43fc1" title="is_middle" alt="" coords="292,221,369,247"/>
+<area shape="rect" id="node8" href="$dd/d6d/group__xcode.html#gad947b3b42e577f8447416760ce641cb0" title="is_start" alt="" coords="426,246,491,273"/>
+<area shape="rect" id="node9" href="$dd/d6d/group__xcode.html#gae609e5e38d751d967dba9c06ff414d0d" title="tok_end" alt="" coords="297,170,365,197"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="be/log.h" name="be/log.h">
+<area shape="rect" id="node2" href="$d0/df8/mutex_8h.html" title="lib/mutex.h" alt="" coords="566,304,653,331"/>
+<area shape="rect" id="node3" href="$d9/d49/types_8h.html" title="lib/types.h" alt="" coords="289,379,372,405"/>
+<area shape="rect" id="node4" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="369,304,439,331"/>
+<area shape="rect" id="node5" href="$db/def/fmt_8h.html" title="be/fmt.h" alt="" coords="75,155,146,181"/>
+<area shape="rect" id="node6" href="$d5/d8c/log__store_8h.html" title="be/log_store.h" alt="" coords="93,80,197,107"/>
+<area shape="rect" id="node7" href="$d9/db6/log__sched_8h.html" title="be/log_sched.h" alt="" coords="273,80,383,107"/>
+<area shape="rect" id="node8" href="$d5/d2a/be_2io_8h.html" title="be/io.h" alt="" coords="447,155,508,181"/>
+<area shape="rect" id="node9" href="$d5/d6c/op_8h.html" title="be/op.h" alt="" coords="323,229,389,256"/>
+<area shape="rect" id="node10" href="$d2/d93/stob_2io_8h.html" title="stob/io.h" alt="" coords="640,229,712,256"/>
+<area shape="rect" id="node11" href="$dc/db3/recovery_8h.html" title="be/recovery.h" alt="" coords="515,229,615,256"/>
+</map>

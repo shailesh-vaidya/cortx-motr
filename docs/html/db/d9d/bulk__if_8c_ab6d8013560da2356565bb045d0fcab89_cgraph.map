@@ -1,0 +1,6 @@
+<map id="ut_end_point_create" name="ut_end_point_create">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="385,52,531,79"/>
+<area shape="rect" id="node3" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="221,27,308,54"/>
+<area shape="rect" id="node4" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="221,78,308,104"/>
+<area shape="rect" id="node5" href="$db/d9d/bulk__if_8c.html#a43a18e00223ff1d5ba69686a310f9e94" title="ut_end_point_release" alt="" coords="192,128,337,155"/>
+</map>

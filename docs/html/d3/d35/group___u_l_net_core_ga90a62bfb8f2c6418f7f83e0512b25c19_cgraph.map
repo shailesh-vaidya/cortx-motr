@@ -1,0 +1,9 @@
+<map id="nlx_core_new_blessed_bev" name="nlx_core_new_blessed_bev">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga530692bcf0e267d1a08e8faced4528a4" title="nlx_kcore_tm_invariant" alt="" coords="249,5,405,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="289,56,365,83"/>
+<area shape="rect" id="node4" href="$dd/d08/group__bevcqueue.html#gae67d05e9d250b186c38319d87252910d" title="bev_link_bless" alt="" coords="273,107,381,133"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="253,157,402,184"/>
+<area shape="rect" id="node6" href="$d3/d35/group___u_l_net_core.html#gae03491e536a0dfc4dd5231889d5e5d09" title="nlx_ucore_domain_invariant" alt="" coords="236,208,419,235"/>
+<area shape="rect" id="node7" href="$d3/d35/group___u_l_net_core.html#ga30fd6ddb1763e2f0d70bda49050b6ebe" title="nlx_ucore_tm_invariant" alt="" coords="249,259,405,285"/>
+<area shape="rect" id="node8" href="$d3/d35/group___u_l_net_core.html#ga03477b58c5db5c1fe1204969e32685cf" title="nlx_ucore_ioctl" alt="" coords="273,309,382,336"/>
+</map>

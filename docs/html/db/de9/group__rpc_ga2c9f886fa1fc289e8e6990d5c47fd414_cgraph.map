@@ -1,0 +1,9 @@
+<map id="rpc_buffer_init" name="rpc_buffer_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3fc3300df455f699aeb4d364c63229f3" title="frm_rmachine" alt="" coords="185,5,287,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga4052bce0a406a4dc33b832cbc2a70b9e" title="frm_rchan" alt="" coords="377,31,457,57"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gab921b579a52b30f443cc1ba98004afd8" title="net_buffer_allocate" alt="" coords="171,107,301,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="384,157,451,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga3d9ecdd0f4d435e3ebd729d013c09c1b" title="m0_rpc_packet_encode" alt="" coords="156,208,316,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="364,233,471,260"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga7e4aea9ed695d7b20109b9ba8ba80041" title="net_buffer_free" alt="" coords="182,309,290,336"/>
+</map>

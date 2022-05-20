@@ -1,0 +1,10 @@
+<map id="m0_rm_borrow_commit" name="m0_rm_borrow_commit">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga8c16f005b04b4a40e2e2cde31ea0ac4a" title="m0_rm_remote_find" alt="" coords="223,5,361,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaa492ac7c46e5d6a2b269c42f99e5f3a0" title="m0_rm_loan_alloc" alt="" coords="229,157,355,184"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="421,132,488,159"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gaa9cdbff3a446fd6be5bba4e3d8f0eed1" title="cached_credits_remove" alt="" coords="212,208,372,235"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="420,284,489,311"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gad99ce5e28725a8b60da00344bd99de5c" title="m0_rm_loan_fini" alt="" coords="233,259,351,285"/>
+<area shape="rect" id="node8" href="$da/dd3/group__cookie.html#ga289890e8cb6e9317bf3b0ed7dc44076b" title="m0_cookie_init" alt="" coords="237,309,347,336"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#gadd0e99a07234dbc54d6b9361543a3534" title="owner_invariant" alt="" coords="235,107,349,133"/>
+</map>

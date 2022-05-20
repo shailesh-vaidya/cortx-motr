@@ -1,0 +1,7 @@
+<map id="mem_xo_buf_deregister" name="mem_xo_buf_deregister">
+<area shape="rect" id="node2" href="$d0/da0/mem__xprt__xo_8c.html#ga02bdbbb4a7a3f535775903393e5e18e5" title="mem_buffer_invariant" alt="" coords="215,5,361,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gafe187f145003d02f322bac93d59e6b78" title="mem_buffer_to_pvt" alt="" coords="409,31,543,57"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga845da3c02b489891235dd111f9d1d5e3" title="mem_dom_to_pvt" alt="" coords="225,107,351,133"/>
+<area shape="rect" id="node5" href="$dd/d12/group__list.html#ga78506f502881c69c681553748e8f1e17" title="m0_list_link_fini" alt="" coords="231,157,345,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="253,208,323,235"/>
+</map>

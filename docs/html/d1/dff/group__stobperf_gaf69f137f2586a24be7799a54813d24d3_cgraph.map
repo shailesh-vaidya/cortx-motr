@@ -1,0 +1,8 @@
+<map id="stob_perf_domain_read_config" name="stob_perf_domain_read_config">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#ga02e2d5edc9afc9777b37b199c4a4b04c" title="stob_perf_domain_config" alt="" coords="211,5,377,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="425,31,500,57"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="256,107,332,133"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#ga055c14e456478e0d58face4fdd5c3580" title="stob_perf_domain_cfg\l_parse" alt="" coords="219,158,369,199"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="259,224,329,251"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="261,275,327,301"/>
+</map>

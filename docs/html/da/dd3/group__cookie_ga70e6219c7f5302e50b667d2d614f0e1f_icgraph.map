@@ -1,0 +1,14 @@
+<map id="m0_cookie_new" name="m0_cookie_new">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0348941d6b6a12f74932b286d2037085" title="btree_create" alt="" coords="217,5,311,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#ga3cc34aaa6ade1607bb35b35ad68419f9" title="m0_dtm_history_init" alt="" coords="195,56,333,83"/>
+<area shape="rect" id="node4" href="$dc/db7/group__graph.html#gab40b832bb911a1376c0736cfc3ed7b0c" title="vertice_init" alt="" coords="221,107,307,133"/>
+<area shape="rect" id="node5" href="$dd/d8a/lib_2ut_2cookie_8c.html#a45dd2e2b93115017a8f2ef687aeea129" title="test_init_apis" alt="" coords="215,157,313,184"/>
+<area shape="rect" id="node6" href="$dd/d8a/lib_2ut_2cookie_8c.html#acb9d11197a79389737db7dc8a89cb1a7" title="test_m0_cookie_dereference" alt="" coords="169,208,359,235"/>
+<area shape="rect" id="node7" href="$d8/d9c/failvec_8h.html#a247e3d73843e664ce0fa1a2d0271f8e8" title="m0_ha_fvec_handler_add" alt="" coords="179,259,349,285"/>
+<area shape="rect" id="node8" href="$d8/dec/isc_8c.html#ab30e2ce0c272f6862ca67285f08777a1" title="comp_register" alt="" coords="212,309,316,336"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#gabba8714965f4e31ba57d1087f358bb18" title="rm_ctx_init" alt="" coords="221,360,307,387"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#ga9cdacdb6229f7becd262087bcefc9715" title="buf_add" alt="" coords="230,411,298,437"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga66f0aa542468273007b2324acc60bd86" title="m0_rm_owner_init" alt="" coords="200,461,328,488"/>
+<area shape="rect" id="node12" href="$d2/deb/group__rm.html#ga661442afb03a965d369f709f0625f9b8" title="m0_rm_loan_init" alt="" coords="205,512,323,539"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="189,563,339,589"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="m0_trace_set_buffer_size" name="m0_trace_set_buffer_size">
+<area shape="rect" id="node2" href="$d8/d98/group__trace.html#gaa60e1a08469c6ae8bf5f0aef04d87474" title="m0_error_printf" alt="" coords="231,5,341,32"/>
+<area shape="rect" id="node3" href="$db/dc9/group__arith.html#ga49cc6e76d2443fdb3cd22fbb6bf01dec" title="m0_is_po2" alt="" coords="243,56,329,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#gaa7d753f616c52f2bd9fc85cf7b1dacf4" title="m0_pagesize_get" alt="" coords="224,107,348,133"/>
+</map>

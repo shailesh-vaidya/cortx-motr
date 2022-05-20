@@ -1,0 +1,24 @@
+<map id="rows_nr" name="rows_nr">
+<area shape="rect" id="node2" href="$d1/d2c/motr_2ut_2io_8c.html#ac8673adec3c9acc9ca1b1fa0fd8ba44c" title="ut_helper_rows_nr" alt="" coords="134,5,262,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ac3159d640e355e0798ce915535734950" title="page_pos_get" alt="" coords="147,461,249,488"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a9f81d38017e6c4d14842d33857b54ee3" title="pargrp_iomap_seg_process" alt="" coords="323,411,504,437"/>
+<area shape="rect" id="node5" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a2a7c482b43b3c49574d32dd286bee127" title="pargrp_iomap_test" alt="" coords="552,219,681,245"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a75e9fd9a25ca52124e795bd76d4844fd" title="pargrp_iomap_dgmode\l_process" alt="" coords="337,513,490,554"/>
+<area shape="rect" id="node7" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a1da428103d05f2aebef88273bf8e823b" title="helpers_test" alt="" coords="367,360,460,387"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af9f6507ff549acf8db628b061b7e97a2" title="parity_page_pos_get" alt="" coords="127,680,269,707"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ab44af75962177c1a22ef13a344280d42" title="paritybufs_set_dgw_mode" alt="" coords="326,655,501,681"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5c1d154df31b50d031166ffe69fd8273" title="data_page_offset_get" alt="" coords="125,781,271,808"/>
+<area shape="rect" id="node11" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a801e2903673a15e9fc733a3fc9dc2535" title="pargrp_iomap_dgmode\l_postprocess" alt="" coords="337,753,490,794"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0f05b7df22b02742ec3d729976221d1e" title="data_buf_invariant_nr" alt="" coords="125,832,271,859"/>
+<area shape="rect" id="node13" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ad6e99c93cf477d1b68d6a6cec2f5e909" title="pargrp_iomap_parity\l_verify" alt="" coords="129,883,267,925"/>
+<area shape="rect" id="node14" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a14ec11ba28525c4a55f45607117bd16f" title="pargrp_iomap_parity\l_recalc" alt="" coords="344,10,483,51"/>
+<area shape="rect" id="node15" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a8de3c7c0bb92ff015da5bd67c701c823" title="pargrp_iomap_init" alt="" coords="351,76,475,103"/>
+<area shape="rect" id="node16" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#afaa21597026652f4ffb627c74d3d3fc2" title="pargrp_iomap_fini" alt="" coords="351,127,475,153"/>
+<area shape="rect" id="node17" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0a37b5e031c56bacd802090b0cdd7f41" title="pargrp_iomap_fullpages\l_count" alt="" coords="334,178,493,219"/>
+<area shape="rect" id="node18" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af2c6d329476b15854518e634afd533d5" title="pargrp_iomap_paritybufs\l_alloc" alt="" coords="331,243,495,285"/>
+<area shape="rect" id="node19" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0bd5706a2904bab536f64bb5bae70cde" title="pargrp_iomap_pages\l_mark_as_failed" alt="" coords="127,563,269,605"/>
+<area shape="rect" id="node20" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a7a7adbb2f224c2a18d329291e44679a3" title="pargrp_iomap_dgmode\l_recover" alt="" coords="121,1001,275,1042"/>
+<area shape="rect" id="node21" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a67185937a057c1233131e9fc1976477d" title="dgmode_readio_test" alt="" coords="344,979,483,1005"/>
+<area shape="rect" id="node22" href="$db/d27/io__pargrp_8c.html#a226eff1bf0ee8f50cffbc1260c67edc4" title="pargrp_iomap_databuf\l_replicate" alt="" coords="123,1066,273,1107"/>
+<area shape="rect" id="node23" href="$db/d27/io__pargrp_8c.html#a5d099ad5d9bd8438c7f3a1c30319a75b" title="pargrp_iomap_replica\l_elect" alt="" coords="125,1131,271,1173"/>
+</map>

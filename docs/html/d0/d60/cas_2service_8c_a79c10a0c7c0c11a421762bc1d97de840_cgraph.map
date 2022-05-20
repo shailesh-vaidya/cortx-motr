@@ -1,0 +1,12 @@
+<map id="cas_fom_create" name="cas_fom_create">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#ac6e17e074e0279ef643e2e6ab632a391" title="cas_service_started" alt="" coords="175,5,314,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="207,56,283,83"/>
+<area shape="rect" id="node4" href="$d0/d60/cas_2service_8c.html#a29d3c95bd24c106a25d8535ca5080839" title="cas_in_nr" alt="" coords="205,107,284,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="369,157,467,184"/>
+<area shape="rect" id="node6" href="$d0/d60/cas_2service_8c.html#a23994cc46a816c19e91db837118f34b5" title="cas_out_nr" alt="" coords="201,208,288,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gad880caddbfb81a251493c2f973bbe4f6" title="m0_fop_reply_alloc" alt="" coords="177,259,312,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#gaa8d2269a41daa6b2913cf8b18eefbfcc" title="m0_fom_init" alt="" coords="198,309,291,336"/>
+<area shape="rect" id="node9" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf1ae488b8e87316ced7848717c2756a6" title="m0_long_lock_link_init" alt="" coords="168,360,321,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="211,411,278,437"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="210,461,279,488"/>
+</map>

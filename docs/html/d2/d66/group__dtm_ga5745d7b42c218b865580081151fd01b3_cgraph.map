@@ -1,0 +1,9 @@
+<map id="src_fini" name="src_fini">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga91aded8dd7b219a6f57e4ba755d086d9" title="m0_dtm_oper_fini" alt="" coords="142,5,267,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="160,56,249,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#ga59952b48bd6a8c24a30c330555d92330" title="m0_dtm_history_fini" alt="" coords="135,107,274,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga77f4ed4989a40f73a711453c43b2103e" title="m0_dtm_local_remote_fini" alt="" coords="117,157,292,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#gaa0e1581481370bc49fab4111fbf22799" title="m0_dtm_history_type\l_deregister" alt="" coords="340,226,487,267"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gade2ec990465fb9d060e64459aab1ac1f" title="m0_dtm_fini" alt="" coords="158,259,251,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#gaf23a7b046c09f3524848e5e17b821c33" title="rpc_fop_fom_fini" alt="" coords="145,309,264,336"/>
+</map>

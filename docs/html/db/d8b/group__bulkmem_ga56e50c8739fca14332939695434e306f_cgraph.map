@@ -1,0 +1,9 @@
+<map id="mem_xo_tm_init" name="mem_xo_tm_init">
+<area shape="rect" id="node2" href="$d0/da0/mem__xprt__xo_8c.html#ga57a4c35e853715b899c5b30e606fcd9a" title="mem_dom_invariant" alt="" coords="349,41,488,67"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#ga845da3c02b489891235dd111f9d1d5e3" title="mem_dom_to_pvt" alt="" coords="536,15,663,42"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="199,91,275,118"/>
+<area shape="rect" id="node5" href="$db/d8b/group__bulkmem.html#ga64164fd89a42e6e0eeedb1e59eccf0d0" title="mem_tm_to_pvt" alt="" coords="361,218,477,245"/>
+<area shape="rect" id="node6" href="$dd/d12/group__list.html#gae479855d2a4231a12ad18ac0ebd7d285" title="m0_list_init" alt="" coords="193,193,281,219"/>
+<area shape="rect" id="node7" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="187,243,286,270"/>
+<area shape="rect" id="node8" href="$d0/da0/mem__xprt__xo_8c.html#gab72e9884ac5e58f9f730c4ec5257ccd3" title="mem_tm_invariant" alt="" coords="172,142,301,169"/>
+</map>

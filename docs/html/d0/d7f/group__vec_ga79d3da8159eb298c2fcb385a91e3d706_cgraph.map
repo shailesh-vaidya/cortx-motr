@@ -1,0 +1,8 @@
+<map id="bufvec_alloc" name="bufvec_alloc">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga30a2851755e56de26f753abccd885c24" title="pack" alt="" coords="184,5,235,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="148,56,271,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="172,107,247,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="152,157,267,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga7fe32c9d18bd103974c5f9869a093f10" title="m0_bufvec_free2" alt="" coords="148,208,271,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="171,259,247,285"/>
+</map>

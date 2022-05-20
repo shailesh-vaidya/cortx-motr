@@ -1,0 +1,8 @@
+<map id="m0_net_test_commands_send" name="m0_net_test_commands_send">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#gab2e4069ba31e3d8df5d838568085b8ff" title="m0_net_test_commands\l_invariant" alt="" coords="257,5,422,47"/>
+<area shape="rect" id="node3" href="$df/d38/group___net_test_network_internals.html#ga29526d2634815c728f1140293a08d321" title="m0_net_test_network_buf" alt="" coords="253,71,425,98"/>
+<area shape="rect" id="node4" href="$d0/de6/group___net_test_commands_internals.html#gab2242dd1ab3578add7ab66fff9bde8bc" title="cmd_serialize" alt="" coords="288,122,391,149"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#gac7f0f7d356fc7795161674cde389232d" title="m0_net_test_network\l_msg_send" alt="" coords="266,173,413,215"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="282,239,397,266"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="275,290,403,317"/>
+</map>

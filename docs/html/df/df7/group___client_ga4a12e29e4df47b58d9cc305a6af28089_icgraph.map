@@ -1,0 +1,26 @@
+<map id="st_entity_open" name="st_entity_open">
+<area shape="rect" id="node2" href="$d8/de7/motr_2st_2obj_8c.html#a29ca33961a9230da2dbb64585e003a36" title="obj_delete_multiple" alt="" coords="193,5,326,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#ae1ed4d5cdfd8a80cfc0efd5e4c219d86" title="write_obj" alt="" coords="222,107,297,133"/>
+<area shape="rect" id="node4" href="$d6/dd3/motr_2st_2layout_8c.html#a4150bd27aaa37b308b6e65a3d84547e5" title="layout_capture_io" alt="" coords="428,107,552,133"/>
+<area shape="rect" id="node5" href="$d6/dd3/motr_2st_2layout_8c.html#a01b71dafcd26af1558107a9c9745df32" title="layout_op_get_obj" alt="" coords="196,461,323,488"/>
+<area shape="rect" id="node6" href="$d6/dd3/motr_2st_2layout_8c.html#a8f6a849985959d214fe60f2c288cd934" title="layout_create_capture_obj" alt="" coords="172,157,347,184"/>
+<area shape="rect" id="node7" href="$d6/dd3/motr_2st_2layout_8c.html#ade969724bb567e18000aec709153a1b9" title="layout_capture" alt="" coords="437,183,543,209"/>
+<area shape="rect" id="node8" href="$d6/dd3/motr_2st_2layout_8c.html#a801ec4a3c8bc45ecb396b94cf96907e2" title="layout_composite_io\l_on_capture_layer" alt="" coords="419,277,561,318"/>
+<area shape="rect" id="node9" href="$d6/dd3/motr_2st_2layout_8c.html#a881b4276bf85517a0f245711d691aea6" title="layout_composite_create_obj" alt="" coords="164,360,355,387"/>
+<area shape="rect" id="node10" href="$d6/dd3/motr_2st_2layout_8c.html#aa334280749666474391fdc6a40460758" title="layout_composite_create\l_then_get" alt="" coords="407,386,573,427"/>
+<area shape="rect" id="node11" href="$d6/dd3/motr_2st_2layout_8c.html#a1e0dd6afbec2abc2efb675882769db9b" title="write_io_segs" alt="" coords="208,309,311,336"/>
+<area shape="rect" id="node12" href="$dd/d33/cancel_8c.html#a499d54b19d9a5e02af25cdb6071a6f41" title="m0_write_cancel" alt="" coords="199,512,319,539"/>
+<area shape="rect" id="node13" href="$d6/dac/example_8c.html#a96f5df95693136c5e8e5df4a112be607" title="example_abitmorecomplicated" alt="" coords="160,563,359,589"/>
+<area shape="rect" id="node14" href="$d1/de5/osync_8c.html#a0e5a764dcdba47eeb50d015777764a12" title="osync_after_each_write" alt="" coords="179,613,339,640"/>
+<area shape="rect" id="node15" href="$d1/de5/osync_8c.html#af80f97ffb56c42e9d540ce952f686c20" title="osync_after_writes" alt="" coords="193,664,325,691"/>
+<area shape="rect" id="node16" href="$d1/de5/osync_8c.html#ad7f5b2b1f2ab3fd7b85d8d837e766c92" title="osync_by_sync_op" alt="" coords="192,715,327,741"/>
+<area shape="rect" id="node17" href="$d1/de5/osync_8c.html#a864aa04b353fe00a5107ac505393e6f4" title="osync_on_op" alt="" coords="210,765,309,792"/>
+<area shape="rect" id="node18" href="$d2/d16/read_8c.html#a179f153a8e41ed72bf2a7ed0c40fedb4" title="write_objs" alt="" coords="219,816,300,843"/>
+<area shape="rect" id="node19" href="$d2/d16/read_8c.html#a859a877d2df5fd9fe8e527f1e14de624" title="read_one_block" alt="" coords="203,867,316,893"/>
+<area shape="rect" id="node20" href="$d2/d16/read_8c.html#af2d84f3417aac2f300a4db31596ff938" title="read_multiple_blocks" alt="" coords="187,917,331,944"/>
+<area shape="rect" id="node21" href="$d2/d16/read_8c.html#ab8ba99964d74c10bb62c6f1e2e309382" title="read_multiple_blocks\l_into_aligned_buffers" alt="" coords="187,969,331,1010"/>
+<area shape="rect" id="node22" href="$d2/d16/read_8c.html#a1e633980b8a25e821b9a734a964e7a9c" title="read_objs_in_parallel" alt="" coords="188,1035,331,1061"/>
+<area shape="rect" id="node23" href="$d1/d9b/write_8c.html#ab3ee86753b84792aa6468e3b5e569101" title="write_verify" alt="" coords="215,1085,304,1112"/>
+<area shape="rect" id="node24" href="$d1/d9b/write_8c.html#aff9a471977beea395c4f11eb37b918fe" title="write_verify_unorder" alt="" coords="190,1187,329,1213"/>
+<area shape="rect" id="node25" href="$d1/d9b/write_8c.html#aa53c2fd05bd78087f7a31573f61e7c6b" title="write_unordered_obj" alt="" coords="421,1161,559,1188"/>
+</map>

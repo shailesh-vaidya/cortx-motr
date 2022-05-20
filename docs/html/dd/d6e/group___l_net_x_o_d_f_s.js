@@ -1,0 +1,85 @@
+var group___l_net_x_o_d_f_s =
+[
+    [ "nlx_xo_interceptable_subs", "d3/d19/structnlx__xo__interceptable__subs.html", [
+      [ "_nlx_core_buf_event_wait", "d3/d19/structnlx__xo__interceptable__subs.html#a2385a30f18dc31b2d9a64df4761d6207", null ],
+      [ "_nlx_ep_create", "d3/d19/structnlx__xo__interceptable__subs.html#a74512a3fc16b8b0c67f9aba4cfbc56aa", null ],
+      [ "_nlx_tm_get_buffer_timeout_tick", "d3/d19/structnlx__xo__interceptable__subs.html#a41aad3ec24b55bf7b5418afc25694b3b", null ],
+      [ "_nlx_tm_timeout_buffers", "d3/d19/structnlx__xo__interceptable__subs.html#a2b679ad5bcfac294f917f010feebbedb", null ]
+    ] ],
+    [ "nlx_xo_ep", "d1/df1/structnlx__xo__ep.html", [
+      [ "xe_addr", "d1/df1/structnlx__xo__ep.html#a946082007c47a0075643ca7afa2e67f1", null ],
+      [ "xe_core", "d1/df1/structnlx__xo__ep.html#a60dded54675c746e83d809a456070ceb", null ],
+      [ "xe_ep", "d1/df1/structnlx__xo__ep.html#ae04a748295b9c1fb5747e8647cd26199", null ],
+      [ "xe_magic", "d1/df1/structnlx__xo__ep.html#a63f6a25754252eb76a173087902e3645", null ]
+    ] ],
+    [ "nlx_xo_domain", "d7/d22/structnlx__xo__domain.html", [
+      [ "_debug_", "d7/d22/structnlx__xo__domain.html#af19e75dff520d48d885b99d3a505bb2b", null ],
+      [ "xd_core", "d7/d22/structnlx__xo__domain.html#accaeb87651f236909a49901afe3cfe21", null ],
+      [ "xd_dom", "d7/d22/structnlx__xo__domain.html#a8864847130bf4e989d7af047fe4269c7", null ]
+    ] ],
+    [ "nlx_xo_transfer_mc", "da/de5/structnlx__xo__transfer__mc.html", [
+      [ "_debug_", "da/de5/structnlx__xo__transfer__mc.html#af19e75dff520d48d885b99d3a505bb2b", null ],
+      [ "xtm_core", "da/de5/structnlx__xo__transfer__mc.html#a9211fdda6bf37bad236e76716e8f715c", null ],
+      [ "xtm_ev_chan", "da/de5/structnlx__xo__transfer__mc.html#adc3971355759c6fb6adb7d1921bc7900", null ],
+      [ "xtm_ev_cond", "da/de5/structnlx__xo__transfer__mc.html#a52f4649ab98b777d2a313536f948bdd7", null ],
+      [ "xtm_ev_thread", "da/de5/structnlx__xo__transfer__mc.html#a8a741b5bdd80bc9da0d167d5cfeb2d61", null ],
+      [ "xtm_processors", "da/de5/structnlx__xo__transfer__mc.html#a2100460f327b4ca16d1b26f06e36c632", null ],
+      [ "xtm_tm", "da/de5/structnlx__xo__transfer__mc.html#a30b5fc557e79c3d65565d1dcbe007ff8", null ]
+    ] ],
+    [ "nlx_xo_buffer", "d2/d4f/structnlx__xo__buffer.html", [
+      [ "xb_core", "d2/d4f/structnlx__xo__buffer.html#aaef3322dc2159123b4c51168ed8f3a1d", null ],
+      [ "xb_nb", "d2/d4f/structnlx__xo__buffer.html#a9f965f71ffe933eb061fb216169fbbe7", null ]
+    ] ],
+    [ "NLX_core_buf_event_wait", "dd/d6e/group___l_net_x_o_d_f_s.html#gab545442f1df1727f04b545363ec6c39a", null ],
+    [ "NLX_ep_create", "dd/d6e/group___l_net_x_o_d_f_s.html#gaa03565e1b90f3d5cb921835ab45fdc16", null ],
+    [ "NLX_tm_get_buffer_timeout_tick", "dd/d6e/group___l_net_x_o_d_f_s.html#gaf71ceb33dde581921a606a470c0b7d8f", null ],
+    [ "NLX_tm_timeout_buffers", "dd/d6e/group___l_net_x_o_d_f_s.html#ga03042edecb86e95e8defa07ce2addc84", [
+      [ "M0_NET_LNET_EVT_SHORT_WAIT_SECS", "dd/d6e/group___l_net_x_o_d_f_s.html#gga83f72dd946185574b53be115821f6876ab961834db78120f6870664bc159535fb", null ],
+      [ "M0_NET_LNET_EVT_LONG_WAIT_SECS", "dd/d6e/group___l_net_x_o_d_f_s.html#gga83f72dd946185574b53be115821f6876a8b23f8d9f46901d4bcbb52aee2d605a7", null ],
+      [ "M0_NET_LNET_BUF_TIMEOUT_TICK_SECS", "dd/d6e/group___l_net_x_o_d_f_s.html#gga83f72dd946185574b53be115821f6876a2a72633432b0c6b6d4535f660aac19cd", null ]
+    ] ],
+    [ "all_tm_queues_are_empty", "dd/d6e/group___l_net_x_o_d_f_s.html#ga4ad0709396e177757d4894620821a56a", null ],
+    [ "nlx_buffer_invariant", "dd/d6e/group___l_net_x_o_d_f_s.html#ga20255e6971d1c631ae7a4c31215fc794", null ],
+    [ "nlx_dom_invariant", "dd/d6e/group___l_net_x_o_d_f_s.html#ga093395bbb65f3f9005d70ae9c22bca18", null ],
+    [ "nlx_ep_create", "dd/d6e/group___l_net_x_o_d_f_s.html#gaf1a92754883486e4cc6e9a91a24f99a1", null ],
+    [ "nlx_ep_invariant", "dd/d6e/group___l_net_x_o_d_f_s.html#ga1f4b08eb9f71ae2a0a898a6b9f52e9b6", null ],
+    [ "nlx_ep_release", "dd/d6e/group___l_net_x_o_d_f_s.html#ga41792f3b119d5a2de154c02445b407f5", null ],
+    [ "nlx_ep_to_core", "dd/d6e/group___l_net_x_o_d_f_s.html#ga2d41004aeb2c46203f3d58243624e4ad", null ],
+    [ "nlx_tm_ev_worker", "dd/d6e/group___l_net_x_o_d_f_s.html#gae28f349113706579939dc63c9338df55", null ],
+    [ "nlx_tm_get_buffer_timeout_tick", "dd/d6e/group___l_net_x_o_d_f_s.html#ga3b55a84aff96c45a049e3e77559509c2", null ],
+    [ "nlx_tm_invariant", "dd/d6e/group___l_net_x_o_d_f_s.html#gaa6e85aee1e5a5cb6b06ec6f011bca497", null ],
+    [ "nlx_tm_timeout_buffers", "dd/d6e/group___l_net_x_o_d_f_s.html#ga34b149ac5e71af9f89edfe09441d4300", null ],
+    [ "nlx_xo__nbd_allocate", "dd/d6e/group___l_net_x_o_d_f_s.html#gaf20319555a8228e7c544f0bef79a7ae0", null ],
+    [ "nlx_xo__nbd_recover", "dd/d6e/group___l_net_x_o_d_f_s.html#ga5f1aac6ead584ece44933df19a0df908", null ],
+    [ "nlx_xo_bev_deliver_all", "dd/d6e/group___l_net_x_o_d_f_s.html#ga075ea92e6d12c26fa7036f912cb6a826", null ],
+    [ "nlx_xo_bev_deliver_sync", "dd/d6e/group___l_net_x_o_d_f_s.html#ga3b6394372e53f5a224d4769915c0db19", null ],
+    [ "nlx_xo_bev_notify", "dd/d6e/group___l_net_x_o_d_f_s.html#ga9f25f7040a5cf21ed4c97b3e20df9631", null ],
+    [ "nlx_xo_bev_pending", "dd/d6e/group___l_net_x_o_d_f_s.html#ga0bb1d1531087ab3c7e94324770b92679", null ],
+    [ "nlx_xo_buf_add", "dd/d6e/group___l_net_x_o_d_f_s.html#gac88a3ce0522654d1cecef0c7023f4b9e", null ],
+    [ "nlx_xo_buf_del", "dd/d6e/group___l_net_x_o_d_f_s.html#ga1140579818cddf6708fea327d0c313fb", null ],
+    [ "nlx_xo_buf_deregister", "dd/d6e/group___l_net_x_o_d_f_s.html#gaed95a082f316accae27e0b408ac4bc37", null ],
+    [ "nlx_xo_buf_register", "dd/d6e/group___l_net_x_o_d_f_s.html#ga1ddeaa7c75bb854cb5ef95458f8ef4a4", null ],
+    [ "nlx_xo_buffer_bufvec_invariant", "dd/d6e/group___l_net_x_o_d_f_s.html#ga82c92e42340b9396930b0e4ab6e7e74a", null ],
+    [ "nlx_xo_core_bev_to_net_bev", "dd/d6e/group___l_net_x_o_d_f_s.html#ga8981f76e729a689a753ea62f6cdc3320", null ],
+    [ "nlx_xo_dom_fini", "dd/d6e/group___l_net_x_o_d_f_s.html#ga3e39a052d650531c3e6ff61ed8c69dc7", null ],
+    [ "nlx_xo_dom_init", "dd/d6e/group___l_net_x_o_d_f_s.html#ga5ebd6a38d696a1c3d2649bdd5815c08d", null ],
+    [ "nlx_xo_end_point_create", "dd/d6e/group___l_net_x_o_d_f_s.html#ga844541dc98b25bc870e5482f0aad3dcb", null ],
+    [ "nlx_xo_get_max_buffer_desc_size", "dd/d6e/group___l_net_x_o_d_f_s.html#ga448acdb6eed7673d37f64ca57feb8161", null ],
+    [ "nlx_xo_get_max_buffer_segment_size", "dd/d6e/group___l_net_x_o_d_f_s.html#ga79d3a06e9a7d9b2dd36190996709fd29", null ],
+    [ "nlx_xo_get_max_buffer_segments", "dd/d6e/group___l_net_x_o_d_f_s.html#gaf6646fbd39bbcecc617068917a29b169", null ],
+    [ "nlx_xo_get_max_buffer_size", "dd/d6e/group___l_net_x_o_d_f_s.html#ga733873ecf83898b876ffd2be6700be1f", null ],
+    [ "nlx_xo_rpc_max_msg_size", "dd/d6e/group___l_net_x_o_d_f_s.html#ga215630b50bc3f311b34feb1bea541c46", null ],
+    [ "nlx_xo_rpc_max_recv_msgs", "dd/d6e/group___l_net_x_o_d_f_s.html#ga17d8635be59fb5ba17aeccd2ece8dffa", null ],
+    [ "nlx_xo_rpc_max_seg_size", "dd/d6e/group___l_net_x_o_d_f_s.html#ga1fff359ff9ddaf568bae789d38066600", null ],
+    [ "nlx_xo_rpc_max_segs_nr", "dd/d6e/group___l_net_x_o_d_f_s.html#gab671a19f8680be9aabdc44e831a531ad", null ],
+    [ "nlx_xo_tm_confine", "dd/d6e/group___l_net_x_o_d_f_s.html#gad8b371bd12bbf18146c2d1fab215538f", null ],
+    [ "nlx_xo_tm_fini", "dd/d6e/group___l_net_x_o_d_f_s.html#gaefd7f92ee503c744041f6d4faf26ae94", null ],
+    [ "nlx_xo_tm_init", "dd/d6e/group___l_net_x_o_d_f_s.html#ga3a49def9d891f703ead27c9e154e951c", null ],
+    [ "nlx_xo_tm_start", "dd/d6e/group___l_net_x_o_d_f_s.html#ga95e95b2526091b50996ee350fb5dfda9", null ],
+    [ "nlx_xo_tm_stop", "dd/d6e/group___l_net_x_o_d_f_s.html#gac218309f3cae3f0900be05ff1ee217fb", null ],
+    [ "nlx_xo_iv", "dd/d6e/group___l_net_x_o_d_f_s.html#ga1be14262c167355313509b9049234126", null ],
+    [ "nlx_xo_xprt_ops", "dd/d6e/group___l_net_x_o_d_f_s.html#ga7ce424ca5415066abbc05602f8c46fd4", null ],
+    [ "M0_NET_LNET_PID", "d7/db9/group___l_net_d_f_s.html#gga9163f45c8bbcd0e9190aaf395e5017dcac3d59616e794dea5c498aa235a5dce79", null ],
+    [ "M0_NET_LNET_XEP_ADDR_LEN", "d7/db9/group___l_net_d_f_s.html#gga9163f45c8bbcd0e9190aaf395e5017dca95a0369ea6df1e42f8db18df8b44ea66", null ],
+    [ "M0_NET_LNET_TM_STAT_INTERVAL_SECS", "d7/db9/group___l_net_d_f_s.html#gga9163f45c8bbcd0e9190aaf395e5017dca9281d6af971fcb50c395d97f469397df", null ]
+];

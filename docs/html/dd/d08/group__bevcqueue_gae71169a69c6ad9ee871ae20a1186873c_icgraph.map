@@ -1,0 +1,8 @@
+<map id="bev_cqueue_invariant" name="bev_cqueue_invariant">
+<area shape="rect" id="node2" href="$dd/d08/group__bevcqueue.html#ga590b6faabdb5da756b429cf13c4c0ec4" title="bev_cqueue_add" alt="" coords="217,5,337,32"/>
+<area shape="rect" id="node3" href="$dd/d08/group__bevcqueue.html#ga1e5ff189be5e9394e1f1ddad3cf64f6f" title="bev_cqueue_init" alt="" coords="401,31,517,57"/>
+<area shape="rect" id="node4" href="$dd/d08/group__bevcqueue.html#ga11b67df4714ae0ba1291f29d59af90cd" title="bev_cqueue_fini" alt="" coords="219,107,335,133"/>
+<area shape="rect" id="node5" href="$dd/d08/group__bevcqueue.html#ga5d24e1b0bc217d8d53b11f0afcdcce03" title="bev_cqueue_is_empty" alt="" coords="201,157,353,184"/>
+<area shape="rect" id="node6" href="$dd/d08/group__bevcqueue.html#ga6027e82fa54371c2e9335f5366455adf" title="bev_cqueue_pnext" alt="" coords="212,208,343,235"/>
+<area shape="rect" id="node7" href="$dd/d08/group__bevcqueue.html#gaef877c0746747aab043617177b5973df" title="bev_cqueue_put" alt="" coords="219,259,336,285"/>
+</map>

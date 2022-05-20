@@ -1,0 +1,10 @@
+<map id="m0_sns_repair_data_map" name="m0_sns_repair_data_map">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#ga65e2d12da25e81b4089e888081f4c625" title="m0_pdclust_N" alt="" coords="255,5,362,32"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#gacb690cdeb5f357c44d0f9b1dcf7c2bd5" title="m0_pdclust_K" alt="" coords="256,56,361,83"/>
+<area shape="rect" id="node4" href="$d9/d33/group__failure__domains.html#ga3d49961d155e7c76f8285ebc7a388d2a" title="m0_fd_fwd_map" alt="" coords="249,107,368,133"/>
+<area shape="rect" id="node5" href="$d7/d0c/parity__repair_8c.html#a873a3f025dd3c54eab1f17d30cb9ad73" title="frame_get" alt="" coords="269,157,349,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="441,183,508,209"/>
+<area shape="rect" id="node7" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="235,259,383,301"/>
+<area shape="rect" id="node8" href="$d9/d33/group__failure__domains.html#ga66132eec8e0fd28d20197ad6760fc359" title="m0_fd_bwd_map" alt="" coords="248,325,369,352"/>
+<area shape="rect" id="node9" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="224,376,393,403"/>
+</map>

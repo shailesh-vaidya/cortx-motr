@@ -1,0 +1,14 @@
+<map id="m0_rpc_item_wait_for_reply" name="m0_rpc_item_wait_for_reply">
+<area shape="rect" id="node2" href="$d9/de6/group__console.html#gaf3ab40334dd3d719f40c417d68f0882c" title="mesg_send_client" alt="" coords="247,5,374,32"/>
+<area shape="rect" id="node3" href="$d2/dc8/console__mesg_8h.html#ad86255102beda95ab488460a9af65eaf" title="Builds and send FOP using rpc_post and waits for reply. " alt="" coords="243,56,378,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#aa7607d7818a9237771147595b7d379dc" title="cobfops_send_wait" alt="" coords="243,107,378,133"/>
+<area shape="rect" id="node5" href="$d5/d5d/ut_2cob__foms_8c.html#a4e9cb48570ebecca63b7f96362200ebc" title="cobfoms_fsync_send_fop" alt="" coords="225,157,396,184"/>
+<area shape="rect" id="node6" href="$d5/d5d/ut_2cob__foms_8c.html#a42804c787e2b7086f69b47a1eee94719" title="cobfoms_fsync_create\l_delete" alt="" coords="465,175,620,217"/>
+<area shape="rect" id="node7" href="$d5/d5d/ut_2cob__foms_8c.html#ae14739ea7f11c01b448d7fe56c8c1f27" title="md_cob_fop_create_delete_test" alt="" coords="207,259,414,285"/>
+<area shape="rect" id="node8" href="$d1/d6d/bulkio__common_8h.html#a8b17851a49cd516634ca86b084e9c826" title="io_fsync_send_fop" alt="" coords="245,309,376,336"/>
+<area shape="rect" id="node9" href="$d1/d6d/bulkio__common_8h.html#ac44a822f8e8685c5b93277a4bb37e774" title="io_fops_rpc_submit" alt="" coords="243,360,378,387"/>
+<area shape="rect" id="node10" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="265,411,356,437"/>
+<area shape="rect" id="node11" href="$d9/dbf/ut_2item_8c.html#a8eb9d4f9b7c8b1d59e3927f611b79150" title="test_ha_notify" alt="" coords="259,461,363,488"/>
+<area shape="rect" id="node12" href="$d3/d5a/rpclib_8h.html#a9c0488993864b2a0bf49fec3740b6f4e" title="m0_rpc_post_with_timeout_sync" alt="" coords="204,512,417,539"/>
+<area shape="rect" id="node13" href="$df/d3a/group__spiel-api-fspec-intr.html#gab9dbfbdc489127208cfa56df74119d38" title="spiel__pool_cmd_status_get" alt="" coords="217,563,404,589"/>
+</map>

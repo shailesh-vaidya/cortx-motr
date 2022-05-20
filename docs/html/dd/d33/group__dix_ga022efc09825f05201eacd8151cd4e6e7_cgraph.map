@@ -1,0 +1,21 @@
+<map id="dix_idxop_req_send" name="dix_idxop_req_send">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga1976268512249e975eed1d63b6c74602" title="m0_rwlock_read_lock" alt="" coords="198,5,346,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga7cad73d2ce8215059d5dbaa88a0cea2a" title="dix_idxop_pver_analyse" alt="" coords="191,259,353,285"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="417,157,493,184"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="421,208,488,235"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#gaa2bd53271528f705f6c6393dddb63ee8" title="m0_cas_req_init" alt="" coords="213,360,331,387"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga31dc0e13ea4c7f8cccb294c863581b8c" title="dix_req_smgrp" alt="" coords="401,436,508,463"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gac61a7eefea2e8448569fd0e6b1b1a898" title="dix_to_cas_map" alt="" coords="213,613,331,640"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="223,664,321,691"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#gad8badd1e1247d11048434613c11c6d90" title="dix_idxop_clink_cb" alt="" coords="206,512,338,539"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="405,500,504,527"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="405,551,504,577"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="221,715,323,741"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#gaa32a72b6616ebef7484a8e10d2319e85" title="m0_dix_fid_convert\l_dix2cctg" alt="" coords="205,766,339,807"/>
+<area shape="rect" id="node15" href="$dd/d33/group__dix.html#ga391e7d9d1b1c465750daa3d36997bebf" title="m0_dix_ldesc_copy" alt="" coords="203,832,341,859"/>
+<area shape="rect" id="node16" href="$d2/d64/group__cas-client.html#ga47f3add31d4014d10b9e39b99fd86eae" title="m0_cas_index_create" alt="" coords="197,107,347,133"/>
+<area shape="rect" id="node17" href="$d2/d64/group__cas-client.html#gaa98251abcf47fc53b0d95c9733ec6cda" title="m0_cas_index_delete" alt="" coords="198,157,346,184"/>
+<area shape="rect" id="node18" href="$d2/d64/group__cas-client.html#gaef3376e7ac8ee276de5742f376e0a718" title="m0_cas_index_lookup" alt="" coords="197,208,347,235"/>
+<area shape="rect" id="node19" href="$d4/d44/group__cas.html#ga9fcfb893d16f043757d14bf7c52b543d" title="m0_cas_id_fini" alt="" coords="217,883,327,909"/>
+<area shape="rect" id="node20" href="$db/ded/group__rwlock.html#gac9f9a8e4d6d5652dd6425f10c33566c5" title="m0_rwlock_read_unlock" alt="" coords="191,933,353,960"/>
+</map>

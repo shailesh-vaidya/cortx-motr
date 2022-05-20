@@ -1,0 +1,12 @@
+<map id="initlift_addb2" name="initlift_addb2">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga6ebb07a74e69dd30872301ad49d6fbb2" title="m0_addb2_global_get" alt="" coords="173,5,321,32"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#ae9e97bcbeee824545903acfe20539738" title="m0c_invariant" alt="" coords="196,56,299,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="445,107,512,133"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="176,157,319,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga9401f9f09e326c97a837269053125dc5" title="m0_addb2_sys_sm_start" alt="" coords="163,208,331,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#gac2f57be9c69e56ab605276b53ebd1727" title="m0_addb2_sys_net_start" alt="" coords="395,284,563,311"/>
+<area shape="rect" id="node8" href="$de/de2/client__init_8c.html#a1956aa499f71c13762b0e44d47f9d63c" title="initlift_fail" alt="" coords="209,309,286,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#gadce73e9c44464e2d137ca82567290aed" title="m0_addb2_sys_net_start_with" alt="" coords="148,360,347,387"/>
+<area shape="rect" id="node10" href="$d0/d9e/group__addb2.html#gaeddde06addbdd7b726ca60b71917a478" title="m0_addb2_sys_net_stop" alt="" coords="395,385,562,412"/>
+<area shape="rect" id="node11" href="$d0/d9e/group__addb2.html#ga0f4c3d3c04a275fbb1d67eb0409f8e03" title="m0_addb2_sys_sm_stop" alt="" coords="164,461,331,488"/>
+</map>

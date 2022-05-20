@@ -1,0 +1,10 @@
+<map id="m0_varr_init" name="m0_varr_init">
+<area shape="rect" id="node2" href="$dc/d17/varr_8c.html#aba52909ef96b580abd22d2109f4d8a4c" title="nearest_power_of_two" alt="" coords="147,5,300,32"/>
+<area shape="rect" id="node3" href="$dc/d17/varr_8c.html#a19cb0f30f36fd78b7967c0137a456ce4" title="total_leaf_buffers" alt="" coords="163,56,284,83"/>
+<area shape="rect" id="node4" href="$dc/d17/varr_8c.html#a441fc36aecf8fc47d3c7aa1b762265a4" title="varr_obj_nr_in_buff" alt="" coords="158,107,289,133"/>
+<area shape="rect" id="node5" href="$dc/d17/varr_8c.html#acc4ac4f9d3862ba274c1df8fe5c3a230" title="depth_find" alt="" coords="182,157,265,184"/>
+<area shape="rect" id="node6" href="$dc/d17/varr_8c.html#a8b01ee449c16a7a3030adf3f8d8c356d" title="varr_buffers_alloc" alt="" coords="161,208,285,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="365,247,431,273"/>
+<area shape="rect" id="node8" href="$d1/d85/group__varr.html#ga6f8bba2108de618eb1951ec19286b101" title="m0_varr_fini" alt="" coords="177,309,270,336"/>
+<area shape="rect" id="node9" href="$dc/d17/varr_8c.html#a6f03808b645cb00e0dad3d80115e3200" title="varr_invariant" alt="" coords="348,323,448,349"/>
+</map>

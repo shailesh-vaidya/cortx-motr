@@ -1,0 +1,31 @@
+<map id="m0_rconfc_init" name="m0_rconfc_init">
+<area shape="rect" id="node2" href="$d4/d8c/group__conf__foms.html#gacabecf78e86548445565b7a46e0de700" title="conf_after_flip_apply" alt="" coords="171,5,313,32"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#ac49401143b9c9cf8e6c8176e2e8b8fa9" title="test_init_fini" alt="" coords="196,56,288,83"/>
+<area shape="rect" id="node4" href="$d5/d9a/ut_2rconfc_8c.html#ab0d6964cd632e7b797ac4f70ec8e544b" title="test_start_stop" alt="" coords="187,107,297,133"/>
+<area shape="rect" id="node5" href="$d5/d9a/ut_2rconfc_8c.html#a93b4a042e65c53b072bc310e400d82f9" title="test_start_stop_local" alt="" coords="171,157,313,184"/>
+<area shape="rect" id="node6" href="$d5/d9a/ut_2rconfc_8c.html#a57b991f18a606978a0c2224cdf197538" title="test_local_load_fail" alt="" coords="175,208,309,235"/>
+<area shape="rect" id="node7" href="$d5/d9a/ut_2rconfc_8c.html#afb9346022ed6cdec23081007ba01d69c" title="test_start_failures" alt="" coords="179,259,305,285"/>
+<area shape="rect" id="node8" href="$d5/d9a/ut_2rconfc_8c.html#a9e73aa91825470608f1da3b16e25e099" title="test_fail_abort" alt="" coords="190,309,294,336"/>
+<area shape="rect" id="node9" href="$d5/d9a/ut_2rconfc_8c.html#a83e0ff7675cdb0d576186e499e02833b" title="test_fail_retry_rm" alt="" coords="181,360,303,387"/>
+<area shape="rect" id="node10" href="$d5/d9a/ut_2rconfc_8c.html#abdb4b8fc9bf2c3dca39e1294b32e5316" title="test_fail_retry_confd" alt="" coords="172,411,312,437"/>
+<area shape="rect" id="node11" href="$d5/d9a/ut_2rconfc_8c.html#a9f6d40b8823bb867a65fe4b0b5fb5204" title="test_no_rms" alt="" coords="195,461,289,488"/>
+<area shape="rect" id="node12" href="$d5/d9a/ut_2rconfc_8c.html#a0c525ff44539b72fde8dbb3e0f03d721" title="test_dead_down" alt="" coords="183,512,301,539"/>
+<area shape="rect" id="node13" href="$d5/d9a/ut_2rconfc_8c.html#a195c6ea41f15d592e9dce5a13021f3f4" title="test_dead_stop" alt="" coords="187,563,297,589"/>
+<area shape="rect" id="node14" href="$d5/d9a/ut_2rconfc_8c.html#a2de05b455f237615202b9af12a049eec" title="test_reading" alt="" coords="195,613,289,640"/>
+<area shape="rect" id="node15" href="$d5/d9a/ut_2rconfc_8c.html#a82501bb00e28e4c1158bba92daf8298c" title="test_quorum_impossible" alt="" coords="161,664,323,691"/>
+<area shape="rect" id="node16" href="$d5/d9a/ut_2rconfc_8c.html#a2f4524df3363b588ae2e8ede7b529c28" title="test_quorum_retry" alt="" coords="179,715,305,741"/>
+<area shape="rect" id="node17" href="$d5/d9a/ut_2rconfc_8c.html#a4c2b7c9e49473cf42d530a6d6cb03d37" title="test_gops" alt="" coords="203,765,281,792"/>
+<area shape="rect" id="node18" href="$d5/d9a/ut_2rconfc_8c.html#aacfec80404aaa99fe629775a192463a4" title="test_version_change" alt="" coords="171,816,313,843"/>
+<area shape="rect" id="node19" href="$d5/d9a/ut_2rconfc_8c.html#addf9971e3f4a5988c1e3df4a2b1578c3" title="test_cache_drop" alt="" coords="183,867,301,893"/>
+<area shape="rect" id="node20" href="$d5/d9a/ut_2rconfc_8c.html#a14f96a7b75c35a9706793bf8388c254f" title="test_confc_ctx_block" alt="" coords="169,917,315,944"/>
+<area shape="rect" id="node21" href="$d5/d9a/ut_2rconfc_8c.html#a05afecf897079fd92fdf8040504d2c43" title="test_reconnect_success" alt="" coords="160,968,324,995"/>
+<area shape="rect" id="node22" href="$d5/d9a/ut_2rconfc_8c.html#a9f7b434cacc792241b69333409cd05e5" title="test_ha_notify" alt="" coords="190,1019,294,1045"/>
+<area shape="rect" id="node23" href="$d5/d9a/ut_2rconfc_8c.html#a79db09c64638fc3bb10f7ababa6c401d" title="test_drain" alt="" coords="203,1069,281,1096"/>
+<area shape="rect" id="node24" href="$d7/d48/ut_2note_8c.html#a256b1e39a6e18b05833a6a032f641f02" title="test_ha_session_states" alt="" coords="162,1120,322,1147"/>
+<area shape="rect" id="node25" href="$d5/ded/cs__ut__main_8c.html#ac84545c15a57f09e188982060a921117" title="test_cs_ut_rconfc_fatal" alt="" coords="163,1171,321,1197"/>
+<area shape="rect" id="node26" href="$d5/d8c/group__reqh.html#ga3a2793dfd031d864bc8c641eaea8587b" title="m0_reqh_conf_setup" alt="" coords="171,1221,313,1248"/>
+<area shape="rect" id="node27" href="$d9/dbf/ut_2item_8c.html#a99d313b3ec97133bbc33fa871cd5e233" title="test_resend" alt="" coords="197,1272,287,1299"/>
+<area shape="rect" id="node28" href="$d9/dbf/ut_2item_8c.html#a26900cfe21ba8c24038778fd435149c5" title="test_ha_cancel" alt="" coords="187,1323,297,1349"/>
+<area shape="rect" id="node29" href="$d3/d31/rcv__session_8c.html#a4168742bc5f2e77b7d13584b4fcb2515" title="test_conn_ha_subscribe" alt="" coords="161,1373,323,1400"/>
+<area shape="rect" id="node30" href="$d9/d50/group__spiel-api-fspec.html#ga93e4575c66649f04441005a321e8ad1d" title="m0_spiel_rconfc_start" alt="" coords="167,1424,317,1451"/>
+</map>

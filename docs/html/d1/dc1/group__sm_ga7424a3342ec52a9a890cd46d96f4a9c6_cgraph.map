@@ -1,0 +1,5 @@
+<map id="m0_sm_ast_wait_signal" name="m0_sm_ast_wait_signal">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga1a87282e5191ec5bf578185b573f118d" title="m0_chan_is_locked" alt="" coords="240,5,377,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga12eced08fe17bdb50a404be0a4773ff4" title="m0_atomic64_dec_and_test" alt="" coords="216,56,401,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga57339950d21ecc706c5f2e623647f122" title="m0_chan_signal" alt="" coords="251,107,367,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="test_session_establish" name="test_session_establish">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga156c33ba284b2a346414c38891148114" title="m0_net_end_point_create" alt="" coords="208,5,379,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga6f56bfedf841c0e73e6d61547864a503" title="m0_rpc_conn_create" alt="" coords="222,56,365,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="225,107,361,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga27ef5040cce8192ba6c7dfc49d4c3760" title="m0_rpc_session_create" alt="" coords="213,157,373,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga140fa9ce0675c481c929b9bd1a0c708f" title="m0_rpc_session_destroy" alt="" coords="210,208,377,235"/>
+<area shape="rect" id="node7" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="244,259,343,285"/>
+<area shape="rect" id="node8" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="242,309,345,336"/>
+<area shape="rect" id="node9" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="218,360,369,387"/>
+<area shape="rect" id="node10" href="$d9/dd2/group__net.html#gaefce6a1c8eeaca5e47c72e728cf89f0c" title="m0_net_end_point_put" alt="" coords="217,411,370,437"/>
+</map>

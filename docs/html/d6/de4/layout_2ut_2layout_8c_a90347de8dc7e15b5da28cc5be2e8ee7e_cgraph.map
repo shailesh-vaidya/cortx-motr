@@ -1,0 +1,12 @@
+<map id="test_reg_unreg_failure" name="test_reg_unreg_failure">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#gaf632ada4e99f27410b406855d9f3b848" title="m0_layout_standard\l_types_unregister" alt="" coords="212,5,351,47"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga29118c55f8f7448b35e7fffbfd43d39c" title="m0_layout_domain_init" alt="" coords="204,71,359,98"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="214,122,349,149"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#gae04efc159be8db0ef835d287cd99da92" title="m0_layout_type_register" alt="" coords="407,223,571,250"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="619,223,708,250"/>
+<area shape="rect" id="node7" href="$da/da8/group__layout.html#gaa7da4b439d649ec6f910b2f42ffe578e" title="m0_layout_enum_type\l_register" alt="" coords="412,275,565,316"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#gaf8456f5b0dfcc590be1fb06f14c84528" title="m0_layout_standard\l_types_register" alt="" coords="212,275,351,316"/>
+<area shape="rect" id="node9" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="230,391,333,418"/>
+<area shape="rect" id="node10" href="$da/da8/group__layout.html#ga6e8dfc86eec7538d7069680f040c82b8" title="m0_layout_domain_fini" alt="" coords="204,442,359,469"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="247,493,316,519"/>
+</map>

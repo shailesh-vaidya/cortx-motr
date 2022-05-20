@@ -1,0 +1,9 @@
+<map id="rconfc_version_elect" name="rconfc_version_elect">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="429,34,488,60"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga17f91262cd35718e8ced4be2ad538351" title="rconfc_state_set" alt="" coords="219,34,338,60"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="215,186,343,212"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="409,211,508,238"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="414,135,503,162"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga84a1c8072034af774de0a84486e4c76a" title="rconfc__cb_quorum_test" alt="" coords="196,84,361,111"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="227,287,330,314"/>
+</map>

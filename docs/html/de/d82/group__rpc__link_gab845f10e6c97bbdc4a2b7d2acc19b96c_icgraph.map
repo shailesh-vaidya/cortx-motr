@@ -1,0 +1,12 @@
+<map id="m0_rpc_link_connect_async" name="m0_rpc_link_connect_async">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#gaa4d746d0017e11c20266bcb169e9dfdb" title="m0_rpc_service_reverse\l_session_get" alt="" coords="207,5,371,47"/>
+<area shape="rect" id="node3" href="$db/d1b/drlink_8c.html#a7193e19fefeca9f8dad9b2255819396d" title="co_rpc_link_connect" alt="" coords="218,71,359,98"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="219,123,358,164"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga2a0c1413d0e24a7423b06a4f26f1e021" title="ha_link_outgoing_fom_tick" alt="" coords="201,189,377,215"/>
+<area shape="rect" id="node6" href="$de/d82/group__rpc__link.html#ga8309b4759cc9f2a221467ac5779d3518" title="m0_rpc_link_connect_sync" alt="" coords="199,239,379,266"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#ga68d71430dce184927bdb55c8889f69fa" title="reqh_service_connect\l_locked" alt="" coords="214,291,363,332"/>
+<area shape="rect" id="node8" href="$d2/d6b/conn__pool_8h.html#a156c79b3485d31c0f0c83c5e207f953e" title="m0_rpc_conn_pool_get\l_async" alt="" coords="211,356,367,397"/>
+<area shape="rect" id="node9" href="$d7/d2a/link__ut_8c.html#a3403e30d93cb730c06f77c74d33d56c7" title="rlut_connect_async" alt="" coords="221,422,356,449"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#ga840fa920ed07667b8ecdb87c56895cce" title="spiel_process__health\l_async" alt="" coords="213,473,364,515"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#gaae465f96d52a4b42514b69621fc29c49" title="spiel_process__counters\l_async" alt="" coords="205,539,372,580"/>
+</map>

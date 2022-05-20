@@ -1,0 +1,7 @@
+<map id="delete_credit" name="delete_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga4ae21158ae82ddaa0814e14053ff61a0" title="kv_delete_credit" alt="" coords="168,5,285,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0e1154801a6afdeb1cfd06409f708b7f" title="btree_node_update_credit" alt="" coords="352,132,523,159"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga95c25fe99034dc832d82a065793e974e" title="m0_be_tx_credit_mac" alt="" coords="571,183,721,209"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga2fee43f53b539ab99cab9f04b134c73a" title="btree_node_free_credit" alt="" coords="149,107,304,133"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gacd15d6593645c01331cce35a935812e5" title="btree_rebalance_credit" alt="" coords="150,157,303,184"/>
+</map>

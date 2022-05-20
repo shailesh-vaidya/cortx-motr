@@ -1,0 +1,7 @@
+<map id="idx_pick_keys" name="idx_pick_keys">
+<area shape="rect" id="node2" href="$da/dbb/st_2idx_8c.html#a52c47f348df5b912af769c836fc0ae01" title="idx_query_get" alt="" coords="199,5,301,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#a17d5895b67cfa065194813f6e7eef1cf" title="idx_query_get_cancel" alt="" coords="176,56,324,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a359d0416a0d057760d778710d5171019" title="idx_query_get_nonexist" alt="" coords="171,107,329,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#aa2ae76e17183283dc6347cbf6d8c5b35" title="idx_query_get_non_existing\l_index" alt="" coords="159,158,341,199"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#a0dec697b5ba025e697335622b865c4bc" title="idx_query_del" alt="" coords="199,224,301,251"/>
+</map>

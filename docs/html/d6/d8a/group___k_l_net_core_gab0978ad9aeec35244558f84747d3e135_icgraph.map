@@ -1,0 +1,6 @@
+<map id="bufvec_seg_page_count" name="bufvec_seg_page_count">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga38d3143636a3de0ca58baf83bb9c1ae2" title="bufvec_seg_kla_to_kiov" alt="" coords="218,5,381,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga6603afe28452dca2d31446c4056777d0" title="nlx_kcore_buffer_kla\l_to_kiov" alt="" coords="433,33,574,74"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#ga70dcbe17c64e85d1cdfb2faee6cc35e4" title="bufvec_seg_uva_to_kiov" alt="" coords="216,107,383,133"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#ga460e610c0a7b3acefc35a42eb6ebd284" title="nlx_kcore_buffer_uva\l_to_kiov" alt="" coords="431,115,576,157"/>
+</map>

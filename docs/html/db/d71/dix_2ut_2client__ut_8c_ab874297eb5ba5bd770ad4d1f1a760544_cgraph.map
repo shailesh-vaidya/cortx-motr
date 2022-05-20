@@ -1,0 +1,12 @@
+<map id="dix_del" name="dix_del">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#ad4ba5e5ae248260bccb561dfd366fd9a" title="ut_service_init" alt="" coords="134,5,241,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#ab8da95ddc7d17fd485c50ee853945e31" title="dix_index_init" alt="" coords="137,56,238,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a8dad444b061c9064e02d7393b54ed592" title="dix_kv_alloc_and_fill" alt="" coords="116,107,259,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a669e6fa505ac253fdf9cf94c6ea00bcd" title="dix_common_idx_op" alt="" coords="117,157,258,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a6a1744ebe226f762b89c5e0d53728912" title="dix_ut_del" alt="" coords="147,208,228,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#ac0b0ab7a49f6fc1ccd5807f450ee1998" title="dix_rep_free" alt="" coords="141,259,234,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a0c27047d541c685e706ef6767af8ed79" title="dix_ut_put" alt="" coords="146,309,229,336"/>
+<area shape="rect" id="node9" href="$db/d71/dix_2ut_2client__ut_8c.html#a6d2822148db1630248b69f5340e9fc4a" title="dix_kv_destroy" alt="" coords="132,360,243,387"/>
+<area shape="rect" id="node10" href="$db/d71/dix_2ut_2client__ut_8c.html#afd22dbe43474720e004d49fb72062fe8" title="dix_index_fini" alt="" coords="137,411,238,437"/>
+<area shape="rect" id="node11" href="$db/d71/dix_2ut_2client__ut_8c.html#a1f0cfa002137795e6eba68ab420d0eb9" title="ut_service_fini" alt="" coords="134,461,241,488"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="wlock_ctx_destroy" name="wlock_ctx_destroy">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2d0ff47e706181f973b2414700bed00c" title="spiel_tx_write_lock_get" alt="" coords="184,5,343,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa41c7217138735fa92ddef9c908bb23e" title="spiel_tx_write_lock_put" alt="" coords="184,56,343,83"/>
+</map>

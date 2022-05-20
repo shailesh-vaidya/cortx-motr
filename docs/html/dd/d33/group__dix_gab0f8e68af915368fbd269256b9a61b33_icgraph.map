@@ -1,0 +1,15 @@
+<map id="dix_req_state" name="dix_req_state">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga2735a2d99b8a3ff458e04dd9c03d05f4" title="dix_layout_find_ast_cb" alt="" coords="163,5,317,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gaf02bcd2aac8dcfd3e0b3007d916635be" title="dix_idxop_item_rc_update" alt="" coords="153,56,327,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga7cad73d2ce8215059d5dbaa88a0cea2a" title="dix_idxop_pver_analyse" alt="" coords="159,107,321,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gaa7610316e0750b024d9973bf67507c10" title="dix_item_should_be_sent" alt="" coords="155,157,325,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga9a0463916bc4c083f252102a4b61bfe7" title="dix_idxop_reqs_send" alt="" coords="375,183,519,209"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gac27e87e3442f2940785282082a5cd27a" title="dix__rop" alt="" coords="205,259,275,285"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga4ff0a3fb284c283c3e4ac0e04f9d0e86" title="dix_item_rc_update" alt="" coords="173,309,307,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga512fa32bb1f8ce5eff0b3ee451bc6e6e" title="dix_rop_completed" alt="" coords="175,360,305,387"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga3c8a53edd485ea641f00d6944aa1cd91" title="dix_rop_failed_unit_tgt" alt="" coords="164,411,316,437"/>
+<area shape="rect" id="node11" href="$dd/d33/group__dix.html#ga3f0fa2ffcd1f0a80f61d832ae280fac0" title="dix_pg_unit_skip" alt="" coords="181,461,299,488"/>
+<area shape="rect" id="node12" href="$dd/d33/group__dix.html#ga2b7ec3f851b47336517b4c9d520ba001" title="m0_dix_generic_rc" alt="" coords="175,512,305,539"/>
+<area shape="rect" id="node13" href="$dd/d33/group__dix.html#gaa4183a9a9f25f7975c61739360b0ca88" title="m0_dix_get_rep_mlock" alt="" coords="162,563,318,589"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#ga402009a42890524ed0aad1fd90886085" title="m0_dix_next_rep_mlock" alt="" coords="159,613,321,640"/>
+</map>

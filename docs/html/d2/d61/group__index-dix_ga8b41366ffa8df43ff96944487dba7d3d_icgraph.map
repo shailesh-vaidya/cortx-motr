@@ -1,0 +1,6 @@
+<map id="dix_dreq_prepare" name="dix_dreq_prepare">
+<area shape="rect" id="node2" href="$d2/d61/group__index-dix.html#gaec7112d0cbf93e63f5ed70bb79f6128b" title="dix_put_ast" alt="" coords="178,5,267,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#gaec0252395dfb3a064ac964eac732742e" title="dix_get_ast" alt="" coords="178,56,267,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#gae9eda3f64e3eddadce8ccc259be812d6" title="dix_del_ast" alt="" coords="179,107,267,133"/>
+<area shape="rect" id="node5" href="$d2/d61/group__index-dix.html#gaa41e336a8f6c4ef70712aaf1691aac6d" title="dix_next_ast" alt="" coords="175,157,271,184"/>
+</map>

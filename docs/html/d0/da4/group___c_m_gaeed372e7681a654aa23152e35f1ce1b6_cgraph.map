@@ -1,0 +1,14 @@
+<map id="cm_replicas_connect" name="cm_replicas_connect">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="435,233,561,260"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf976c3b2587bd1975efbfe2c048c202b" title="m0_rpc_machine_ep" alt="" coords="221,56,364,83"/>
+<area shape="rect" id="node4" href="$de/d82/group__rpc__link.html#ga5b6b65d74a79d4952f5a7769437707fd" title="m0_rpc_link_end_point" alt="" coords="215,107,370,133"/>
+<area shape="rect" id="node5" href="$dd/d7b/group__conf__dlspec__objops.html#ga96ba4960f7f6a23d070ad8ad5ae42774" title="m0_conf_obj_find_lock" alt="" coords="215,5,370,32"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="465,81,531,108"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="460,469,536,496"/>
+<area shape="rect" id="node8" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga862ce5913169fb7ee70b1565b4dfa827" title="m0_cm_proxy_init" alt="" coords="229,309,357,336"/>
+<area shape="rect" id="node9" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga9f69c2b9596557d0d0d25e8ab7de0a53" title="m0_cm_proxy_add" alt="" coords="227,259,359,285"/>
+<area shape="rect" id="node10" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga5ea60db4e0d9e88edab1179e7fb7bcf1" title="m0_cm_proxy_event_handle\l_register" alt="" coords="199,411,387,453"/>
+<area shape="rect" id="node11" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga592b68ae309b14272813dbdf765c773c" title="m0_cm_proxy_lock" alt="" coords="225,477,360,504"/>
+<area shape="rect" id="node12" href="$dc/d86/group___c_m_p_r_o_x_y.html#gac16376a933ed5875a2b6f0b16e7ca88a" title="m0_cm_proxy_unlock" alt="" coords="218,528,367,555"/>
+<area shape="rect" id="node13" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="237,360,348,387"/>
+</map>

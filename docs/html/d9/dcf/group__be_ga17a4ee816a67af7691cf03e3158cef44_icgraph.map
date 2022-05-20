@@ -1,0 +1,4 @@
+<map id="be_tx_bulk_queues_drain" name="be_tx_bulk_queues_drain">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga156b902cd0bb716b9e2d27eaf1d07900" title="be_tx_bulk_finish_cb" alt="" coords="223,5,367,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gafa0c54fff513825134fd505be0135720" title="be_tx_bulk_open_cb" alt="" coords="224,56,365,83"/>
+</map>

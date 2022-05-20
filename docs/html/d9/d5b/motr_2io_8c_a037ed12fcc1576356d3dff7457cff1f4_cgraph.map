@@ -1,0 +1,9 @@
+<map id="m0_op_io_invariant" name="m0_op_io_invariant">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="220,5,331,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="222,56,329,83"/>
+<area shape="rect" id="node4" href="$df/dca/lib_2misc_8c.html#add44350825d5d2112b6691d812e92f63" title="m0_no_of_bits_set" alt="" coords="209,107,341,133"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga9f695a7bd0b64f3897a471dff7a96549" title="m0_fid_is_valid" alt="" coords="219,157,331,184"/>
+<area shape="rect" id="node6" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="411,259,536,285"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#afceb262b1f0ab3a5201b68089b814c79" title="pargrp_iomap_invariant_nr" alt="" coords="188,259,363,285"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a72686e8dc00ede426c8d0a799a8d5929" title="nw_xfer_request_invariant" alt="" coords="188,309,363,336"/>
+</map>

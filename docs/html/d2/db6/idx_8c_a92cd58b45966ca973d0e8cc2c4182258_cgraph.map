@@ -1,0 +1,16 @@
+<map id="idx_op_init" name="idx_op_init">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga3cfccc9c9cdbd670f507d9ffcea4b310" title="locality" alt="" coords="178,5,241,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="167,107,252,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="335,107,411,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="340,157,407,184"/>
+<area shape="rect" id="node6" href="$d2/db6/idx_8c.html#a1f53cfc07a23482a802a02111e56c81e" title="idx_op_cb_launch" alt="" coords="146,309,273,336"/>
+<area shape="rect" id="node7" href="$d2/db6/idx_8c.html#a3f81feb6bb3a262182915d3a747b1ede" title="oi_instance" alt="" coords="329,309,417,336"/>
+<area shape="rect" id="node8" href="$d2/db6/idx_8c.html#a1d372cbc6357f7126e6217b0241222cc" title="idx_op_cb_fini" alt="" coords="157,411,262,437"/>
+<area shape="rect" id="node9" href="$d2/db6/idx_8c.html#ab9b00f80dd2a15c4186b2de90805d690" title="idx_op_cb_free" alt="" coords="154,461,265,488"/>
+<area shape="rect" id="node10" href="$d2/db6/idx_8c.html#ac38d9cbb87ad98ebc2b0b4105c2a5502" title="idx_op_cb_cancel" alt="" coords="146,360,273,387"/>
+<area shape="rect" id="node11" href="$d6/db6/motr_2client_8c.html#a6e917deea38911358f4be3afe8680eb7" title="m0__locality_pick" alt="" coords="146,512,273,539"/>
+<area shape="rect" id="node12" href="$d2/d66/group__dtm.html#ga1c56538a3f422a48f82fcf6c86d59c27" title="m0_dtx0_alloc" alt="" coords="156,563,263,589"/>
+<area shape="rect" id="node13" href="$d1/dc1/group__sm.html#gaf216f7ec16fd791438eabb10527219ad" title="m0_sm_id_get" alt="" coords="156,613,263,640"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="145,664,273,691"/>
+<area shape="rect" id="node15" href="$d2/db6/idx_8c.html#aab6492f4c8fd56ce6d153011a04bd6aa" title="idx_pool_version_get" alt="" coords="137,157,281,184"/>
+</map>

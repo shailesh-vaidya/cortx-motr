@@ -1,0 +1,11 @@
+<map id="m0_poolmach_failvec_apply" name="m0_poolmach_failvec_apply">
+<area shape="rect" id="node2" href="$d8/dec/group__poolmach.html#ga806de6dfe470504a6436b24ccf0dfdff" title="m0_poolmach_fid_to_idx" alt="" coords="213,5,380,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#gaf17922aef66dfe137da97a7e59ad4138" title="m0_ha2pm_state_map" alt="" coords="219,56,374,83"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="678,121,829,148"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#ga76c8f6fb7cfe7b21ac072b94c4e69f3a" title="spare_usage_arr_update" alt="" coords="671,227,835,253"/>
+<area shape="rect" id="node6" href="$d8/dec/group__poolmach.html#ga615818aaa780aa5cd3bd52f6f253aa08" title="disk_is_in" alt="" coords="713,279,793,305"/>
+<area shape="rect" id="node7" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="671,333,836,360"/>
+<area shape="rect" id="node8" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="440,252,623,279"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#ga95afaf9aeefb9832a718ed1c27c12a64" title="poolmach_event_queue_drop" alt="" coords="201,427,392,453"/>
+<area shape="rect" id="node10" href="$d8/dec/group__poolmach.html#ga1d9c2019bfaca65505d626557d6bc3e2" title="m0_poolmach_event_queue\l_apply" alt="" coords="205,259,389,301"/>
+</map>

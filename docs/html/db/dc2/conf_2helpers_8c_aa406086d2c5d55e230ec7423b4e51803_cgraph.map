@@ -1,0 +1,8 @@
+<map id="m0_confc_ready_cb" name="m0_confc_ready_cb">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="243,5,301,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="400,81,571,108"/>
+<area shape="rect" id="node4" href="$db/dc2/conf_2helpers_8c.html#a8599b67be655f01c3d86c4b64fcbb449" title="confc_ready_async_ast" alt="" coords="192,107,352,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="441,132,530,159"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="211,208,333,235"/>
+<area shape="rect" id="node7" href="$d8/dec/group__locality.html#gabc71d9f29c0cc950480c2bc876e1ae07" title="m0_locality_get" alt="" coords="215,259,329,285"/>
+</map>

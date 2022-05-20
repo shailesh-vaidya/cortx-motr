@@ -1,0 +1,8 @@
+<map id="_start" name="_start">
+<area shape="rect" id="node2" href="$dc/dc7/rpc_2ub_2ub_8c.html#aba02223c779151d6a81d918f7b0ed49c" title="args_init" alt="" coords="144,5,215,32"/>
+<area shape="rect" id="node3" href="$dc/dc7/rpc_2ub_2ub_8c.html#a9ac5de3268e2284e89b3f59387f9cdf8" title="args_parse" alt="" coords="136,56,223,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="109,107,250,133"/>
+<area shape="rect" id="node5" href="$dc/dc7/rpc_2ub_2ub_8c.html#a8add493ebc536d9adac720a66b70c839" title="_client_start" alt="" coords="133,157,226,184"/>
+<area shape="rect" id="node6" href="$d2/dd9/rpc_2ub_2fops_8c.html#a71260918263f0637b620f260e78323c7" title="m0_rpc_ub_fops_init" alt="" coords="108,208,251,235"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="109,259,249,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ut_test_data_buf_alloc_init" name="ut_test_data_buf_alloc_init">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a4a4860bef320e4c1a5aed9262ef16c7f" title="ut_dummy_obj_create" alt="" coords="231,5,381,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="231,56,381,83"/>
+<area shape="rect" id="node4" href="$db/d27/io__pargrp_8c.html#a67787c693fb163ff61d5aee05ae8cd77" title="data_buf_alloc_init" alt="" coords="241,107,371,133"/>
+<area shape="rect" id="node5" href="$db/d27/io__pargrp_8c.html#adf2657e9dc60c6d0ba523dfc333ccdd9" title="data_buf_dealloc_fini" alt="" coords="234,157,378,184"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a721f56c8b225c692aee42b1978fdb891" title="ut_dummy_obj_delete" alt="" coords="231,208,381,235"/>
+</map>

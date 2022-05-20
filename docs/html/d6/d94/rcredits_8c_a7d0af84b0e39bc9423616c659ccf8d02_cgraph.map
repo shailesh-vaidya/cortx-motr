@@ -1,0 +1,9 @@
+<map id="remote_credits_utinit" name="remote_credits_utinit">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#gabba8714965f4e31ba57d1087f358bb18" title="rm_ctx_init" alt="" coords="227,5,314,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#a1a2313708372c1a9b3dbe624fd88981c" title="rm_ctxs_conf_init" alt="" coords="208,56,333,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#aa92684d2feed9605d1a400dd6f303b21" title="chain_hier_config" alt="" coords="209,107,332,133"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a9a444c2efd09eba877cf2c95ab66fd8e" title="star_hier_config" alt="" coords="213,157,328,184"/>
+<area shape="rect" id="node6" href="$d5/d68/rings_8c.html#a4af5db4b243ac98dbeb119efa46ee94c" title="rings_utdata_ops_set" alt="" coords="197,208,344,235"/>
+<area shape="rect" id="node7" href="$de/de1/rmut_8c.html#a7d6ca528fc6faef109c0adfa62af173d" title="rm_ctx_server_start" alt="" coords="201,259,340,285"/>
+<area shape="rect" id="node8" href="$de/de1/rmut_8c.html#a6c3e488967991397b0217ad77f8751c8" title="creditor_cookie_setup" alt="" coords="196,309,345,336"/>
+</map>

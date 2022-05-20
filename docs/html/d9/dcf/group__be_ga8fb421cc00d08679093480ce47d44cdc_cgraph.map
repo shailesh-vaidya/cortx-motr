@@ -1,0 +1,10 @@
+<map id="m0_be_pd_sync" name="m0_be_pd_sync">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga776bb84c6ea82f3cf7fcb449a1eec74a" title="m0_be_io_reset" alt="" coords="193,5,307,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad8f425de85ba0883af5e44986eeac274" title="m0_be_io_add" alt="" coords="197,56,303,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga2af3a2e9012e43d8d88b7762be21c841" title="m0_be_io_sync_enable" alt="" coords="171,107,329,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga661dfea095941a1c8ae7006f31f545a6" title="m0_be_io_configure" alt="" coords="181,157,319,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga10ed3580ebcdb4f36c543f2fd0993763" title="be_pd_sync_run" alt="" coords="191,208,309,235"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="377,233,480,260"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="189,309,311,336"/>
+<area shape="rect" id="node9" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="190,360,310,387"/>
+</map>

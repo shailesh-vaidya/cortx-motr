@@ -1,0 +1,8 @@
+<map id="read_metadata_file" name="read_metadata_file">
+<area shape="rect" id="node2" href="$d6/dca/namespaceerror__injection.html#a0c5861ec850e0927ed049e4a91a4afe9" title="InduceCorruption" alt="" coords="210,5,331,32"/>
+<area shape="rect" id="node3" href="$d6/dca/namespaceerror__injection.html#aaff3395db70a3d13191cb5087a67dae3" title="InduceRandomCorruption" alt="" coords="185,56,356,83"/>
+<area shape="rect" id="node4" href="$d6/dca/namespaceerror__injection.html#a7a099b7f6e341e680d99b3d8d79b8738" title="InduceErrInRecords" alt="" coords="201,107,340,133"/>
+<area shape="rect" id="node5" href="$d6/dca/namespaceerror__injection.html#a76fbee9a75866e7ecb6e8e28d1a048f4" title="CorruptEmap" alt="" coords="221,157,320,184"/>
+<area shape="rect" id="node6" href="$d6/dca/namespaceerror__injection.html#a2db575eebcd16a3e9af4cdf55d4600b7" title="ListAllEmapPerDevice" alt="" coords="194,208,347,235"/>
+<area shape="rect" id="node7" href="$d6/dca/namespaceerror__injection.html#a5600878dc3ef74b515e24e71d0910e66" title="VerifyLengthOfRecord" alt="" coords="195,259,346,285"/>
+</map>

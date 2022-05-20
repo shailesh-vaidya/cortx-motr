@@ -1,0 +1,9 @@
+<map id="ioreq_fop_init" name="ioreq_fop_init">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="331,23,441,50"/>
+<area shape="rect" id="node3" href="$dc/d83/io__req__fop_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="164,35,271,62"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="347,99,425,126"/>
+<area shape="rect" id="node5" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#gaf915254407a9ea4a868bc63d662230cb" title="m0_io_fop_init" alt="" coords="164,187,271,214"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="353,238,419,265"/>
+<area shape="rect" id="node7" href="$dc/d83/io__req__fop_8c.html#ab83b7a22bed4b902c75597a980472a98" title="ioreq_fop_release" alt="" coords="155,137,279,163"/>
+<area shape="rect" id="node8" href="$dc/d83/io__req__fop_8c.html#ab6afc924c312dc377691691892c4a85a" title="ioreq_fop_invariant" alt="" coords="152,289,283,315"/>
+</map>

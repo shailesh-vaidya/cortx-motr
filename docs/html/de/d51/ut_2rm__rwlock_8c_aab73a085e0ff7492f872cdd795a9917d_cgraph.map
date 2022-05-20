@@ -1,0 +1,7 @@
+<map id="rwlock_read_test" name="rwlock_read_test">
+<area shape="rect" id="node2" href="$de/d51/ut_2rm__rwlock_8c.html#a5b1d19c8f6577dedd00189bca8ccea8d" title="rwlock_utinit" alt="" coords="189,5,284,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#ab1e99efa41b385980208747c51d801b8" title="credits_are_equal" alt="" coords="175,56,299,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#a3f853f6667c15917815aa28ecc3333bf" title="rwlock_acquire" alt="" coords="182,107,291,133"/>
+<area shape="rect" id="node5" href="$de/d51/ut_2rm__rwlock_8c.html#ab749eaece2dfac1471a544db768cf52b" title="rwlock_release" alt="" coords="182,157,291,184"/>
+<area shape="rect" id="node6" href="$de/d51/ut_2rm__rwlock_8c.html#a866f8ca0726d5d3b15055d4de5b1261b" title="rwlock_utfini" alt="" coords="189,208,284,235"/>
+</map>

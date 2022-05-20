@@ -1,0 +1,7 @@
+<map id="m0_net_test_network_msg_recv" name="m0_net_test_network_msg_recv">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga316a3d63f730c362244e349841ad8540" title="commands_recv_enqueue" alt="" coords="208,5,383,32"/>
+<area shape="rect" id="node3" href="$d3/d88/ut_2network_8c.html#a04039edf899d26d765a2c12a40f44aa6" title="m0_net_test_network\l_ut_ping" alt="" coords="222,57,369,98"/>
+<area shape="rect" id="node4" href="$d3/d88/ut_2network_8c.html#a5a4c9d681c9599f481938d06e879f668" title="m0_net_test_network\l_ut_bulk" alt="" coords="222,122,369,163"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga947672699590adaf7fdb3f5737609880" title="server_process_unused_ping" alt="" coords="200,188,391,215"/>
+<area shape="rect" id="node6" href="$da/d84/group___net_test_ping_node_internals.html#ga9baf8cdea74ddd5bbf2eb7345e054ddd" title="node_ping_buf_enqueue" alt="" coords="214,239,377,265"/>
+</map>

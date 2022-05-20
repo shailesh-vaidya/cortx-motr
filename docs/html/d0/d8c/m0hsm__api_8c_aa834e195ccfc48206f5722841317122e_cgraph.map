@@ -1,0 +1,7 @@
+<map id="m0hsm_set_write_tier" name="m0hsm_set_write_tier">
+<area shape="rect" id="node2" href="$d0/d8c/m0hsm__api_8c.html#a277750fa428e66921c8eca57e20e7bde" title="is_hsm_reserved" alt="" coords="216,5,337,32"/>
+<area shape="rect" id="node3" href="$d0/d8c/m0hsm__api_8c.html#a6ad7243af7368d5a0dd77e92dc46a778" title="layout_get" alt="" coords="235,56,318,83"/>
+<area shape="rect" id="node4" href="$d0/d8c/m0hsm__api_8c.html#a5c5858477e649a1ce7397cab5eb1ddd4" title="top_layer_get" alt="" coords="227,107,327,133"/>
+<area shape="rect" id="node5" href="$d0/d8c/m0hsm__api_8c.html#a02dc3860c8bee511c8666e4202ffc066" title="hsm_prio2tier" alt="" coords="227,157,327,184"/>
+<area shape="rect" id="node6" href="$d0/d8c/m0hsm__api_8c.html#a8495064868e6302238fd6bacbe30e8e1" title="layout_add_top_layer" alt="" coords="204,208,349,235"/>
+</map>

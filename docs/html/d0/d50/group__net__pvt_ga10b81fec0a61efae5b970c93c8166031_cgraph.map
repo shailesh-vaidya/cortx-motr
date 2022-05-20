@@ -1,0 +1,6 @@
+<map id="m0_net__tm_provision_buf" name="m0_net__tm_provision_buf">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="440,35,585,62"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#ga5891449a008a0d2a5fcad686b2f2e63e" title="m0_net_buffer_pool\l_is_locked" alt="" coords="245,28,379,69"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#gac6bdd9900fc54c802b1e16d44cb6b64f" title="m0_net_buffer_pool_get" alt="" coords="232,94,392,120"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga12df135f261cfd2be817aee51ae5f8a9" title="m0_net__buffer_add" alt="" coords="243,144,381,171"/>
+</map>

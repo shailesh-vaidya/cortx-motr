@@ -1,0 +1,11 @@
+<map id="be_ut_alloc_mt" name="be_ut_alloc_mt">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a48e49b05111e3d2e9f26c71f1d5f8aad" title="m0_be_ut_backend_init" alt="" coords="178,5,337,32"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a80a5b6e36aa3b29deea743705b379b62" title="m0_be_ut_seg_init" alt="" coords="192,56,323,83"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad8e33897551c9f1b8efcdd636781874d" title="m0_be_ut_seg_allocator_init" alt="" coords="164,107,351,133"/>
+<area shape="rect" id="node5" href="$da/d2b/ut_2alloc_8c.html#a0336368a83f7c24c1ac91915f9463422" title="be_ut_alloc_thread" alt="" coords="192,157,323,184"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="202,208,313,235"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="204,259,311,285"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a510b05c67b0b7c8a4e13c1b5c7bf5b84" title="m0_be_ut_seg_allocator_fini" alt="" coords="164,309,351,336"/>
+<area shape="rect" id="node9" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#affc877578a852ba466e28223c9f03f3b" title="m0_be_ut_seg_fini" alt="" coords="192,360,323,387"/>
+<area shape="rect" id="node10" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#adbf37b214c43d278c7e670b5ae8577ef" title="m0_be_ut_backend_fini" alt="" coords="178,411,337,437"/>
+</map>

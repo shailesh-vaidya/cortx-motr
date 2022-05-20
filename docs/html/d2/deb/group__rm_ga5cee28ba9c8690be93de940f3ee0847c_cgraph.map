@@ -1,0 +1,9 @@
+<map id="revoke_send" name="revoke_send">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="155,5,281,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaa38562806494d2a16c9c9ca2dbf749b9" title="m0_rm_credit_copy" alt="" coords="150,56,286,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga38eb9127b511d639e9b9b2fbdae1db20" title="credit_is_empty" alt="" coords="335,81,449,108"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga62a2c4f8fedd86bdc490e7e01870fbf7" title="outgoing_check" alt="" coords="161,157,275,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="359,208,425,235"/>
+<area shape="rect" id="node7" href="$d7/db2/rm__fops_8c.html#a62efa3a3106f2ba4eaf1e3b00cf3dfec" title="m0_rm_request_out" alt="" coords="149,259,287,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="155,309,281,336"/>
+</map>

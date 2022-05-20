@@ -1,0 +1,10 @@
+<map id="net_srv_loop" name="net_srv_loop">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga0801132a80d0463be24d98b7b9d61f94" title="sim_chan_wait" alt="" coords="360,170,469,197"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#gad91ed09600c2181b3c5535ca7b993683" title="sim_thread_exit" alt="" coords="173,43,288,70"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga162c9bd586d89a0c119309a0b24cbe80" title="m0_stob_id_dom_id_get" alt="" coords="149,94,312,121"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga9d4384df55c7bfca104875c759e9acef" title="sim_log" alt="" coords="197,145,264,171"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#ga5eb6afc30ea6e42ae88b61e02949ad98" title="sim_sleep" alt="" coords="190,195,271,222"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#ga4d058e31a2d3a206f4d7c1164386d2c9" title="sim_rnd" alt="" coords="197,246,265,273"/>
+<area shape="rect" id="node8" href="$dc/d7e/group__desim.html#ga4269422aff216931a94e94e133abab04" title="sim_chan_signal" alt="" coords="171,297,290,323"/>
+<area shape="rect" id="node9" href="$dc/d7e/group__desim.html#ga30939dbcf48a3fa557ab0c4582e0dd16" title="elevator_io" alt="" coords="188,347,273,374"/>
+</map>

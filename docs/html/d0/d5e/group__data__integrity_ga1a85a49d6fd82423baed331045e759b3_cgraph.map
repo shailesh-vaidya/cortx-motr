@@ -1,0 +1,6 @@
+<map id="file_di_crc_sum" name="file_di_crc_sum">
+<area shape="rect" id="node2" href="$d0/d5e/group__data__integrity.html#ga906e2eff46aa9ccb53599f0b1a052362" title="file_di_info_setup" alt="" coords="177,5,300,32"/>
+<area shape="rect" id="node3" href="$d0/d5e/group__data__integrity.html#gafce02aab06ef630b016c480f3dda2057" title="file_checksum" alt="" coords="185,56,292,83"/>
+<area shape="rect" id="node4" href="$d0/d5e/group__data__integrity.html#ga3f4dc6e7f879edb74ae2e69df874b730" title="m0_crc32" alt="" coords="199,107,278,133"/>
+<area shape="rect" id="node5" href="$d0/d5e/group__data__integrity.html#ga20de8b3cbff2960d23e8399a28d93b28" title="t10_ref_tag_compute" alt="" coords="167,157,311,184"/>
+</map>

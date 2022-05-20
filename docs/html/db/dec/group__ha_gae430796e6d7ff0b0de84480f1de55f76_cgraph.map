@@ -1,0 +1,7 @@
+<map id="m0_halon_interface_disconnect" name="m0_halon_interface_disconnect">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga4759d4213e03d649e9b02499bd3c3f97" title="hi" alt="" coords="264,5,303,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="251,56,316,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gadf6ec5d30fd099e9801ca3a30c76177d" title="m0_ha_rpc_endpoint" alt="" coords="212,107,355,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga83cd7f20a24b5730d7d09605cd519851" title="m0_ha_disconnect_incoming" alt="" coords="188,157,379,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="427,183,516,209"/>
+</map>

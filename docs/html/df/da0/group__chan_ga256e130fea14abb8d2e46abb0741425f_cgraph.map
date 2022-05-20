@@ -1,0 +1,5 @@
+<map id="m0_chan_broadcast_lock" name="m0_chan_broadcast_lock">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="240,5,347,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="224,56,363,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="233,107,353,133"/>
+</map>

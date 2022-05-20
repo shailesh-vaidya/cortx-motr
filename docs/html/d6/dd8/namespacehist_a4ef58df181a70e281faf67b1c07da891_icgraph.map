@@ -1,0 +1,13 @@
+<map id="query" name="query">
+<area shape="rect" id="node2" href="$d2/db6/idx_8c.html#a1f53cfc07a23482a802a02111e56c81e" title="idx_op_cb_launch" alt="" coords="119,5,245,32"/>
+<area shape="rect" id="node3" href="$d5/d65/idx__cass_8c.html#a19da943f2c462132aff17be266d2c659" title="create_prepared" alt="" coords="125,56,239,83"/>
+<area shape="rect" id="node4" href="$d5/d65/idx__cass_8c.html#a5d9e7ce9cbebe0afa68f335349c116c6" title="set_prepared" alt="" coords="309,107,406,133"/>
+<area shape="rect" id="node5" href="$d5/d65/idx__cass_8c.html#a08ea1b5a36b204a84686dd46454a0415" title="make_query_string" alt="" coords="116,208,248,235"/>
+<area shape="rect" id="node6" href="$d5/d65/idx__cass_8c.html#a9960bca2443b7a93ffb41ba7ffa7e1e7" title="idx_cass_get" alt="" coords="308,164,407,191"/>
+<area shape="rect" id="node7" href="$d5/d65/idx__cass_8c.html#ab04d652411a0f7282b421a4240efcb33" title="idx_cass_del" alt="" coords="308,227,407,253"/>
+<area shape="rect" id="node8" href="$d5/d65/idx__cass_8c.html#aeaebbc12bae1df24f4522fdbcc86b9a9" title="idx_cass_next" alt="" coords="304,303,411,329"/>
+<area shape="rect" id="node9" href="$d5/d65/idx__cass_8c.html#a3e983925b79cccbff7eb015c8224e3d6" title="row_exists" alt="" coords="139,360,225,387"/>
+<area shape="rect" id="node10" href="$d5/d65/idx__cass_8c.html#afa8c9f844ba09c149bfaa3df42064573" title="idx_cass_namei_new" alt="" coords="109,411,255,437"/>
+<area shape="rect" id="node11" href="$d5/d65/idx__cass_8c.html#a8921a419c2266c227d523d0f46a23ed9" title="idx_cass_namei_drop" alt="" coords="108,461,256,488"/>
+<area shape="rect" id="node12" href="$d6/dd8/namespacehist.html#a2085c9b8a605dc92f4bf83b3cf1ac355" title="hist" alt="" coords="161,512,203,539"/>
+</map>

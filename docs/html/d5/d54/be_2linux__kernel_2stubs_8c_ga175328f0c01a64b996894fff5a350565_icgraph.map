@@ -1,0 +1,23 @@
+<map id="m0_be_tx_init" name="m0_be_tx_init">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a3733f90eabf897192bcc8084a1a56d0c" title="sb_update" alt="" coords="198,5,281,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#gaecc96acddec75add7f0c9e2fa55d4253" title="m0_balloc_create" alt="" coords="177,56,301,83"/>
+<area shape="rect" id="node4" href="$d6/d2c/group__stobad.html#ga6e7bbfbcad79aa0e4d287b726bba890a" title="stob_ad_domain_create" alt="" coords="381,81,541,108"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga2dd8b97fa529f0869f63d38ae81e6869" title="be_domain_seg_structs\l_create" alt="" coords="159,158,319,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaf45237d80f2094ca1523ffac861b79c3" title="m0_be_domain_seg_create" alt="" coords="371,195,552,221"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga470581b2910ac2355c0ce83e1c49b4ae" title="be_domain_mkfs_seg0" alt="" coords="161,275,317,301"/>
+<area shape="rect" id="node8" href="$db/d92/ut_2seg__dict_8c.html#afb7e2c0ab1185a02ca9e9c61be8ee834" title="m0_be_ut_seg_dict" alt="" coords="172,325,307,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gadb2fa05009bce057720ecd966220f5d3" title="be_tx_bulk_open" alt="" coords="179,376,299,403"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga511a24088a51576d986c03acb87e894b" title="be_tx_group_reconstruct\l_transactions" alt="" coords="157,427,322,469"/>
+<area shape="rect" id="node11" href="$dd/d1d/be_2ut_2helper_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="179,493,300,520"/>
+<area shape="rect" id="node12" href="$de/db0/dtm0_2helper_8h.html#adcfc39ab0940acb3befd727374f0c2cf" title="m0_dtm0_log_create" alt="" coords="168,544,311,571"/>
+<area shape="rect" id="node13" href="$d8/d50/ctg__store_8c.html#a62c6f00ca3e288abea3f75a8ac0e39bb" title="ctg_store_create" alt="" coords="180,595,299,621"/>
+<area shape="rect" id="node14" href="$d4/d02/group___c_m_a_g_s_t_o_r_e_f_o_m.html#gae280432cbfca3e83727ce027e2e5e700" title="ag_store_init_load" alt="" coords="176,645,303,672"/>
+<area shape="rect" id="node15" href="$db/ddf/sns_2cm_2repair_2ut_2cm_8c.html#a14311642ccd641e017c2a86a0b1b1428" title="_cpp_tx_start" alt="" coords="189,696,290,723"/>
+<area shape="rect" id="node16" href="$d3/d8e/group__cob.html#ga9f73a48854d75533d909f5314fcab7b6" title="m0_cob_domain_create" alt="" coords="159,747,319,773"/>
+<area shape="rect" id="node17" href="$d3/d8e/group__cob.html#ga834203d92a2f4b53253ebcf3deb339b1" title="m0_cob_domain_destroy" alt="" coords="156,797,323,824"/>
+<area shape="rect" id="node18" href="$d2/d66/group__dtm.html#gaa03010f6aced17577815ba0186019cab" title="m0_dtx_init" alt="" coords="195,848,284,875"/>
+<area shape="rect" id="node19" href="$d2/d66/group__dtm.html#ga162f2a1df73f29dfda3e0e3c6e3b4cc7" title="m0_dtm_ltx_open" alt="" coords="177,899,302,925"/>
+<area shape="rect" id="node20" href="$d3/d3a/ios__start__sm_8c.html#a910b50e79f169e8d8697e1f0ca001b2b" title="ios_start_cdom_tx_open" alt="" coords="157,949,321,976"/>
+<area shape="rect" id="node21" href="$d3/d3a/ios__start__sm_8c.html#a266826794b53b3e4de8afd7aeb256f47" title="ios_start_cob_tx_open" alt="" coords="163,1000,316,1027"/>
+<area shape="rect" id="node22" href="$d6/d2c/group__stobad.html#ga703b763b8966689432844d797d8367eb" title="stob_ad_domain_destroy" alt="" coords="156,1051,323,1077"/>
+</map>

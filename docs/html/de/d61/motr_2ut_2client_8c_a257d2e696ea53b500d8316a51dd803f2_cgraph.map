@@ -1,0 +1,10 @@
+<map id="ut_test_m0_op_init" name="ut_test_m0_op_init">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="201,5,321,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="185,56,336,83"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="218,208,303,235"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="391,157,526,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gacbeec3bef660262fb808812c318cd555" title="m0_sm_invariant" alt="" coords="398,284,519,311"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="384,208,533,235"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="209,157,312,184"/>
+<area shape="rect" id="node9" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="201,360,321,387"/>
+</map>

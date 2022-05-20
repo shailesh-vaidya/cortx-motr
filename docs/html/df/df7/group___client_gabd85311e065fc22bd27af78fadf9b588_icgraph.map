@@ -1,0 +1,14 @@
+<map id="st_obj_op" name="st_obj_op">
+<area shape="rect" id="node2" href="$d6/dd3/motr_2st_2layout_8c.html#ae1ed4d5cdfd8a80cfc0efd5e4c219d86" title="write_obj" alt="" coords="167,5,241,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#a1e0dd6afbec2abc2efb675882769db9b" title="write_io_segs" alt="" coords="153,56,255,83"/>
+<area shape="rect" id="node4" href="$dd/d33/cancel_8c.html#a499d54b19d9a5e02af25cdb6071a6f41" title="m0_write_cancel" alt="" coords="144,107,264,133"/>
+<area shape="rect" id="node5" href="$d1/de5/osync_8c.html#a864aa04b353fe00a5107ac505393e6f4" title="osync_on_op" alt="" coords="155,157,253,184"/>
+<area shape="rect" id="node6" href="$d2/d16/read_8c.html#a179f153a8e41ed72bf2a7ed0c40fedb4" title="write_objs" alt="" coords="163,208,245,235"/>
+<area shape="rect" id="node7" href="$d2/d16/read_8c.html#a859a877d2df5fd9fe8e527f1e14de624" title="read_one_block" alt="" coords="147,259,261,285"/>
+<area shape="rect" id="node8" href="$d2/d16/read_8c.html#af2d84f3417aac2f300a4db31596ff938" title="read_multiple_blocks" alt="" coords="132,309,276,336"/>
+<area shape="rect" id="node9" href="$d2/d16/read_8c.html#ab8ba99964d74c10bb62c6f1e2e309382" title="read_multiple_blocks\l_into_aligned_buffers" alt="" coords="132,361,276,402"/>
+<area shape="rect" id="node10" href="$d2/d16/read_8c.html#a1e633980b8a25e821b9a734a964e7a9c" title="read_objs_in_parallel" alt="" coords="133,427,275,453"/>
+<area shape="rect" id="node11" href="$d1/d9b/write_8c.html#ab3ee86753b84792aa6468e3b5e569101" title="write_verify" alt="" coords="159,477,249,504"/>
+<area shape="rect" id="node12" href="$d1/d9b/write_8c.html#aff9a471977beea395c4f11eb37b918fe" title="write_verify_unorder" alt="" coords="135,528,273,555"/>
+<area shape="rect" id="node13" href="$d1/d9b/write_8c.html#aa53c2fd05bd78087f7a31573f61e7c6b" title="write_unordered_obj" alt="" coords="324,553,463,580"/>
+</map>

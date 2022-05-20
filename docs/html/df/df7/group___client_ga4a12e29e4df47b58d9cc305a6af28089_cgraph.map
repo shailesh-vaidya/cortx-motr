@@ -1,0 +1,11 @@
+<map id="st_entity_open" name="st_entity_open">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga83b17d626874459cf3fa9663bf67dc57" title="m0_entity_open" alt="" coords="171,5,285,32"/>
+<area shape="rect" id="node3" href="$d3/de4/st__assert_8c.html#a39cf654532fc4bcc0a868126d5067e9a" title="st_mark_op" alt="" coords="183,56,273,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="179,107,277,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="185,157,271,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="344,183,436,209"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="160,259,296,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga830895eaaf22e9b2d3208abc97461aa4" title="m0_op_cancel" alt="" coords="175,309,281,336"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="189,360,267,387"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="187,411,269,437"/>
+</map>

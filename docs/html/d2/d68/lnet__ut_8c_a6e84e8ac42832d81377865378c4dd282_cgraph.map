@@ -1,0 +1,18 @@
+<map id="test_bulk_passive_send" name="test_bulk_passive_send">
+<area shape="rect" id="node2" href="$d2/d68/lnet__ut_8c.html#ae91bcf98f43e83155b0c4023a246730a" title="ut_cbreset" alt="" coords="262,5,345,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="237,56,370,83"/>
+<area shape="rect" id="node4" href="$d2/d68/lnet__ut_8c.html#a420439de83dd830edef84820b56235f7" title="ut_net_buffer_sign" alt="" coords="239,107,367,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#gacce89dfe5af29f0c271b458408c6e57e" title="m0_net_buffer_add" alt="" coords="237,157,369,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gaf9ad970071b746bdfb358982137bdcf7" title="m0_net_desc_copy" alt="" coords="236,208,371,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="219,259,387,285"/>
+<area shape="rect" id="node8" href="$d9/dd2/group__net.html#ga04de32441cbf499e4b92d9d07ae9bec8" title="m0_net_buffer_register" alt="" coords="226,309,381,336"/>
+<area shape="rect" id="node9" href="$d2/d68/lnet__ut_8c.html#a7957c0bdf96b91a8bc68cc4dda63cd9b" title="ut_chan_timedwait" alt="" coords="238,360,369,387"/>
+<area shape="rect" id="node10" href="$d2/d68/lnet__ut_8c.html#a13883f1c25e61cb8a5a0a9ab1be7acad" title="ut_net_buffer_authenticate" alt="" coords="216,411,391,437"/>
+<area shape="rect" id="node11" href="$d9/dd2/group__net.html#ga082ab41ca1cd4100202b7e614335d977" title="m0_net_tm_stats_get" alt="" coords="229,461,377,488"/>
+<area shape="rect" id="node12" href="$d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e" title="m0_net_desc_free" alt="" coords="239,512,368,539"/>
+<area shape="rect" id="node13" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="439,537,508,564"/>
+<area shape="rect" id="node14" href="$d9/dd2/group__net.html#ga16dcb753d03ab30508f3b056b3ef5e72" title="m0_net_buffer_del" alt="" coords="239,613,367,640"/>
+<area shape="rect" id="node15" href="$d9/dd2/group__net.html#ga7d32f0da403ee9a79c5c49a6efa90da3" title="m0_net_buffer_deregister" alt="" coords="219,664,387,691"/>
+<area shape="rect" id="node16" href="$d0/d7f/group__vec.html#ga192dc68dfbf640e79e605568436c1d2d" title="m0_bufvec_free_aligned" alt="" coords="222,715,385,741"/>
+<area shape="rect" id="node17" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="239,765,368,792"/>
+</map>

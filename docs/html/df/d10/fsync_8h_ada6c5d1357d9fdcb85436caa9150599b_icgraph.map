@@ -1,0 +1,5 @@
+<map id="m0t1fs_fsync_core" name="m0t1fs_fsync_core">
+<area shape="rect" id="node2" href="$df/d10/fsync_8h.html#a389eff049efbd0e1d797f17d94739ff6" title="m0t1fs_fsync" alt="" coords="216,5,317,32"/>
+<area shape="rect" id="node3" href="$de/dd4/ut_2fsync_8c.html#ad13fe16abbc6e636af2977dbc9dcddc1" title="call_m0t1fs_fsync_core" alt="" coords="187,56,347,83"/>
+<area shape="rect" id="node4" href="$dc/d32/ioctl_8c.html#ad01673c6ae4c9fc4139dedbf1dd593e6" title="m0t1fs_ioctl" alt="" coords="220,107,313,133"/>
+</map>

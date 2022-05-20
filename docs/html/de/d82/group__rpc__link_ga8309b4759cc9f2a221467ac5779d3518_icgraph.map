@@ -1,0 +1,10 @@
+<map id="m0_rpc_link_connect_sync" name="m0_rpc_link_connect_sync">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga885af5093cfd600755ea9dc16920bb5e" title="connect_to_confd" alt="" coords="253,5,378,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#gad6e989ec529cdfd8ccc1cfb458dbbbfd" title="m0_cs_dix_setup" alt="" coords="253,56,377,83"/>
+<area shape="rect" id="node4" href="$d7/d2a/link__ut_8c.html#afc2117e3cdf5a6d871af3414b722009e" title="rlut_remote_unreachable" alt="" coords="233,107,397,133"/>
+<area shape="rect" id="node5" href="$d7/d2a/link__ut_8c.html#a000ceefad35d6363526fe0c465128e1e" title="rlut_reconnect" alt="" coords="263,157,367,184"/>
+<area shape="rect" id="node6" href="$d7/d2a/link__ut_8c.html#a5fa2dce3cbf58d7bf4f54b8a7fa13e94" title="rlut_remote_delay" alt="" coords="253,208,378,235"/>
+<area shape="rect" id="node7" href="$d7/d2a/link__ut_8c.html#aea4231b79bb5347c0d047e7c2bcd5d9f" title="rlut_reset" alt="" coords="277,259,353,285"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#ga320777858ec8a01648e476bc1a4b4bac" title="spiel_cmd_send" alt="" coords="257,309,373,336"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga611d13c5d3646894ab9210fddc42a211" title="spiel_repreb_cmd_send" alt="" coords="236,360,395,387"/>
+</map>

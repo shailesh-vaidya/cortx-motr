@@ -1,0 +1,15 @@
+<map id="bulkio_params" name="bulkio_params">
+<area shape="rect" id="node4" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="213,401,274,478"/>
+<area shape="rect" id="node8" href="$d8/d71/structm0__rm__resource__type.html" title="{m0_rm_resource_type\n||}" alt="" coords="1436,401,1587,478"/>
+<area shape="rect" id="node14" href="$d6/d93/structm0__io__fop.html" title="{m0_io_fop\n||}" alt="" coords="1638,401,1721,478"/>
+<area shape="rect" id="node15" href="$d6/d2f/structm0__be__tx__remid.html" title="{m0_be_tx_remid\n||}" alt="" coords="1192,515,1311,592"/>
+<area shape="rect" id="node16" href="$da/d01/structm0__rpc__client__ctx.html" title="{m0_rpc_client_ctx\n||}" alt="" coords="441,616,569,693"/>
+<area shape="rect" id="node17" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="953,401,1068,478"/>
+<area shape="rect" id="node18" href="$d9/d7e/structm0__net__buffer.html" title="{m0_net_buffer\n||}" alt="" coords="969,616,1073,693"/>
+<area shape="rect" id="node3" href="$d8/d89/structm0__file.html" title="{m0_file\n||}" alt="" coords="162,616,226,693"/>
+<area shape="rect" id="node5" href="$d5/da0/structm0__net__xprt.html" title="{m0_net_xprt\n||}" alt="" coords="1356,160,1451,237"/>
+<area shape="rect" id="node13" href="$d5/d1f/structm0__rpc__server__ctx.html" title="{m0_rpc_server_ctx\n||}" alt="" coords="1789,401,1922,478"/>
+<area shape="rect" id="node11" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="1869,160,1952,237"/>
+<area shape="rect" id="node7" href="$d5/d0f/structm0__cob__domain.html" title="{m0_cob_domain\n||}" alt="" coords="828,616,945,693"/>
+<area shape="rect" id="node9" href="$de/d9b/structm0__rm__domain.html" title="{m0_rm_domain\n||}" alt="" coords="1520,616,1631,693"/>
+</map>

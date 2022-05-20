@@ -1,0 +1,5 @@
+<map id="mem_desc_create" name="mem_desc_create">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="203,5,277,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="202,56,278,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga94b04efd4d1d018fb7e701f40cfa3971" title="mem_ep_to_pvt" alt="" coords="183,107,297,133"/>
+</map>

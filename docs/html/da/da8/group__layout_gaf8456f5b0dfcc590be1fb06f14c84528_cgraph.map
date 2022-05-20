@@ -1,0 +1,7 @@
+<map id="m0_layout_standard_types_register" name="m0_layout_standard_types_register">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="419,85,613,112"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#gae04efc159be8db0ef835d287cd99da92" title="m0_layout_type_register" alt="" coords="199,173,363,200"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="483,173,549,200"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#gaa7da4b439d649ec6f910b2f42ffe578e" title="m0_layout_enum_type\l_register" alt="" coords="205,107,358,149"/>
+<area shape="rect" id="node6" href="$da/da8/group__layout.html#gad201204e6659bd0b2cf580cbaf050447" title="m0_layout_type_unregister" alt="" coords="192,5,371,32"/>
+</map>

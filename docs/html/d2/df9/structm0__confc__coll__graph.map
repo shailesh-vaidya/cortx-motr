@@ -1,0 +1,10 @@
+<map id="m0_confc" name="m0_confc">
+<area shape="rect" id="node2" href="$d8/d51/structm0__rpc__link.html" title="{m0_rpc_link\n||}" alt="" coords="131,300,223,377"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="268,5,351,83"/>
+<area shape="rect" id="node4" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="347,145,421,223"/>
+<area shape="rect" id="node8" href="$d0/d1a/structm0__conf__cache.html" title="{m0_conf_cache\n||}" alt="" coords="908,300,1023,377"/>
+<area shape="rect" id="node11" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="384,455,488,532"/>
+<area shape="rect" id="node7" href="$df/da6/structm0__conf__obj.html" title="{m0_conf_obj\n||}" alt="" coords="676,455,772,532"/>
+<area shape="rect" id="node9" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="452,300,527,377"/>
+<area shape="rect" id="node10" href="$d9/dc4/structm0__confc__gate__ops.html" title="{m0_confc_gate_ops\n||}" alt="" coords="1092,455,1231,532"/>
+</map>

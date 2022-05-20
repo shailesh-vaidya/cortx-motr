@@ -1,0 +1,10 @@
+<map id="spiel_device_command_fop_send" name="spiel_device_command_fop_send">
+<area shape="rect" id="node2" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga893805e648e4072126d89060e979c7cd" title="m0_sss_device_fop_create" alt="" coords="212,5,393,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="441,81,517,108"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga320777858ec8a01648e476bc1a4b4bac" title="spiel_cmd_send" alt="" coords="245,107,361,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="446,132,513,159"/>
+<area shape="rect" id="node6" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gadc7ec14ca19f9cb8a645d74b694ef3dd" title="m0_sss_fop_to_dev_rep" alt="" coords="221,208,385,235"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="233,259,373,285"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="242,309,363,336"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#gaae742e634f99f9ca9909720c762e1dec" title="spiel_rpc_link_destroy" alt="" coords="227,360,378,387"/>
+</map>

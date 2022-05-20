@@ -1,0 +1,9 @@
+<map id="ut_test_m0_entity_delete" name="ut_test_m0_entity_delete">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="237,5,357,32"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="420,31,555,57"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="221,107,372,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="253,157,341,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="228,208,365,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#gaa4e7d45d5a7862844716c486cea81e8e" title="m0_entity_delete" alt="" coords="236,259,357,285"/>
+<area shape="rect" id="node8" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="237,309,357,336"/>
+</map>

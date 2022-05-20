@@ -1,0 +1,6 @@
+<map id="stob_io_destroy" name="stob_io_destroy">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga42b6747b9b94d1c1f76ca76d5b519ae2" title="m0_stob_io_fini" alt="" coords="185,5,299,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gaeda31531eb71213baf4a6eef44e12e51" title="m0_fom_callback_fini" alt="" coords="168,56,316,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="178,107,306,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,157,277,184"/>
+</map>

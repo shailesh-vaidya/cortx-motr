@@ -1,0 +1,6 @@
+<map id="session_failed" name="session_failed">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#gaf9335bb6847b8de2d2b8f22db154525c" title="m0_rpc_session_establish" alt="" coords="160,5,336,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga9b7bac260c195f562191fc8132df0632" title="m0_rpc_session_establish\l_reply_received" alt="" coords="160,57,336,98"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga32f9dfc4fd17ee95f26877ae7350cb9c" title="m0_rpc_session_terminate" alt="" coords="159,123,337,149"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga5cd2a6793445cbc2521e0c0f3f50428a" title="m0_rpc_session_terminate\l_reply_received" alt="" coords="159,174,337,215"/>
+</map>

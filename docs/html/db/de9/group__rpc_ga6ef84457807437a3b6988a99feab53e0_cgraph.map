@@ -1,0 +1,5 @@
+<map id="m0_rpc_item_type_deregister" name="m0_rpc_item_type_deregister">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="254,5,405,32"/>
+<area shape="rect" id="node3" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="247,56,412,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="285,107,374,133"/>
+</map>

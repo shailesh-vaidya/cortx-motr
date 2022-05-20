@@ -1,0 +1,9 @@
+<map id="reqh_init" name="reqh_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="140,5,279,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="127,56,292,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="124,107,295,149"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="124,173,295,214"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="129,238,289,279"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga5e9c39839774a7d3dbe3172bb38b6917" title="m0_rpc_bufs_nr" alt="" coords="152,304,267,331"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga7de928bf0cc92e7751cd7e3377264bfc" title="m0_rpc_machine_init" alt="" coords="137,355,282,381"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="item_sent" name="item_sent">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="180,44,259,71"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="355,44,519,71"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga079619b3736cef08e4d324f485587679" title="m0_rpc_item_is_reply" alt="" coords="362,95,511,122"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga2196ae0b9b009e0b055cb685bb82b14f" title="m0_rpc_item_sent_invoke" alt="" coords="132,364,307,391"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="363,172,510,213"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="375,263,498,290"/>
+<area shape="rect" id="node8" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="136,415,303,442"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga738f7318704f5dd40c245c6843d2ed27" title="m0_rpc_item_process\l_reply" alt="" coords="144,197,295,238"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="392,314,481,340"/>
+</map>

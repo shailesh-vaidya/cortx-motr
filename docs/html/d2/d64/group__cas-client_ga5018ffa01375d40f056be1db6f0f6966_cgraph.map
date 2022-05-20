@@ -1,0 +1,9 @@
+<map id="greq_asmbl_add" name="greq_asmbl_add">
+<area shape="rect" id="node2" href="$d7/df1/group__rpc-at.html#ga52c51d0e4d53a3cd3fd7f3739a97cf34" title="m0_rpc_at_init" alt="" coords="182,5,289,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga2a7d31cea75e0f6580581c9a5d8f1f88" title="creq_kv_buf_add" alt="" coords="175,56,296,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga4a2507fcce6206800122336ed83fa939" title="creq_rpc_conn" alt="" coords="348,95,455,121"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#gac829a8aa34a93eb3c47b46c9f23ed591" title="m0_rpc_at_recv" alt="" coords="178,157,293,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="368,171,435,197"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#ga5e1e71489dd5a7d1e51fe2295395505a" title="m0_rpc_at_detach" alt="" coords="171,259,300,285"/>
+<area shape="rect" id="node8" href="$d7/df1/group__rpc-at.html#ga785bd6138fd08ce2374c24dd71825546" title="m0_rpc_at_fini" alt="" coords="182,309,289,336"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_be_queue_get" name="m0_be_queue_get">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="388,199,533,225"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gae75a3935f52bd9d98515c71f316bebf3" title="be_queue_invariant" alt="" coords="193,199,328,225"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="199,97,323,124"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga6d97388877d4c57cb37ba8f7fc49c010" title="be_queue_is_empty" alt="" coords="391,21,530,48"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="402,476,519,503"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="216,249,305,276"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gab6a383cae718cd3bd04472c3f48d92e3" title="be_queue_op_get_is\l_waiting" alt="" coords="190,301,331,342"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gac7250657b8b9a87196f11ee81adeb92e" title="be_queue_op_get" alt="" coords="199,367,323,393"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gae827ab37d5fbb3b3b132f5ed4781fdb5" title="be_queue_q_get" alt="" coords="202,47,319,73"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gac28c9d76de118038ff9adaa785478ada" title="be_queue_op_put_is\l_waiting" alt="" coords="190,469,331,510"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gaa158115900ffad38364c481afd4c1cb8" title="be_queue_op_put_done" alt="" coords="181,417,340,444"/>
+</map>

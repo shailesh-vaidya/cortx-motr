@@ -1,0 +1,6 @@
+<map id="bufvec_alloc_init" name="bufvec_alloc_init">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="192,5,315,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga436467c6ef1eec3f085d814856e10f6f" title="m0_io_count" alt="" coords="205,56,301,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="172,107,335,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="219,157,288,184"/>
+</map>

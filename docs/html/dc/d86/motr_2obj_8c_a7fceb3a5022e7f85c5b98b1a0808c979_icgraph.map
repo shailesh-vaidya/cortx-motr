@@ -1,0 +1,8 @@
+<map id="m0__obj_entity" name="m0__obj_entity">
+<area shape="rect" id="node2" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a836f476eb5656a12ad83acdee4a294fc" title="create_object" alt="" coords="189,5,289,32"/>
+<area shape="rect" id="node3" href="$d7/d9a/motr_2cob_8c.html#ae7385abc9d78fabef4b3827f44988f10" title="cob_rep_process" alt="" coords="179,56,300,83"/>
+<area shape="rect" id="node4" href="$d7/d9a/motr_2cob_8c.html#a1dc751be2bdce9ac5d77810da2b9bd48" title="m0__obj_namei_send" alt="" coords="165,107,313,133"/>
+<area shape="rect" id="node5" href="$dc/d86/motr_2obj_8c.html#a8a18c477e055fa4c868045cc941836f9" title="obj_op_obj_init" alt="" coords="185,157,293,184"/>
+<area shape="rect" id="node6" href="$d1/da1/motr_2layout_8c.html#a4b146afe037601aa2873b0e9a7741766" title="pdclust_layout_launch" alt="" coords="164,208,315,235"/>
+<area shape="rect" id="node7" href="$df/da5/composite__layout_8c.html#a24f8b11dc7fa28001194c7f22e170439" title="layout_dix_req_ast" alt="" coords="174,259,305,285"/>
+</map>

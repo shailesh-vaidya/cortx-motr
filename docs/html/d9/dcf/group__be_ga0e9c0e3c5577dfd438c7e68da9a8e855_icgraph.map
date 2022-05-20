@@ -1,0 +1,8 @@
+<map id="qinvariant" name="qinvariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga6db3dd925e796117384f96462ce48d68" title="qinit" alt="" coords="146,5,193,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad8930ce1968a48c64fca341021d3fcb2" title="qfini" alt="" coords="146,56,193,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga02198e049b63f8893255d1cac7106049" title="qput" alt="" coords="146,107,193,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga78d584737b4ac1f910b2b7d2b4294e60" title="qget" alt="" coords="146,157,193,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga8b0b4114ecd7e490abc1ce0a2790add3" title="qtry" alt="" coords="147,208,191,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0ddc5509d838dd9c812eeb7afc6fcd89" title="isqempty" alt="" coords="132,259,207,285"/>
+</map>

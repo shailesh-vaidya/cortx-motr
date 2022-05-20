@@ -1,0 +1,16 @@
+<map id="m0_rm_owner_init" name="m0_rm_owner_init">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga781f8ea476bd0c53167526d232694084" title="m0_fid_tget" alt="" coords="397,32,488,59"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="398,108,487,135"/>
+<area shape="rect" id="node4" href="$d3/deb/rm__internal_8h.html#a2795b241579729ff14ff27ac1beb9cf8" title="owner_grp" alt="" coords="401,247,484,273"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="189,247,323,273"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga65fc1f9048af043f8900f7d34aec36e0" title="owner_state_set" alt="" coords="197,348,315,375"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="181,297,331,324"/>
+<area shape="rect" id="node8" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="229,145,283,172"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga93e17e15f5e23270b07c6bf65f41e499" title="m0_fid_set" alt="" coords="213,399,299,425"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga8a8f9f477584640004bf8df1b322f0c2" title="resource_get" alt="" coords="207,500,305,527"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="385,461,500,488"/>
+<area shape="rect" id="node12" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="379,519,507,545"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="398,595,487,621"/>
+<area shape="rect" id="node14" href="$da/dd3/group__cookie.html#ga70e6219c7f5302e50b667d2d614f0e1f" title="m0_cookie_new" alt="" coords="198,652,314,679"/>
+<area shape="rect" id="node15" href="$d2/deb/group__rm.html#gadd0e99a07234dbc54d6b9361543a3534" title="owner_invariant" alt="" coords="199,44,313,71"/>
+</map>

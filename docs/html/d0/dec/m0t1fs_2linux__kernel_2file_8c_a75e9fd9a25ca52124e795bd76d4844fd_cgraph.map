@@ -1,0 +1,18 @@
+<map id="pargrp_iomap_dgmode_process" name="pargrp_iomap_dgmode_process">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a7261507e9052e45c7c69f3c63732a485" title="pargrp_iomap_invariant" alt="" coords="207,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af91758c9dc568ee8b64c82f54b7ca5b0" title="m0t1fs_file_to_poolmach" alt="" coords="411,233,577,260"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="211,782,359,823"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="446,309,542,336"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af17612ee4d780f8bf7a20c6fe41b8007" title="pargrp_src_addr" alt="" coords="227,157,342,184"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a339cf939549936bf815698fc212b50fd" title="layout_unit_size" alt="" coords="625,132,741,159"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a2e307ebd1efd4256bde19a2315824972" title="layout_n" alt="" coords="459,527,529,553"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="459,592,529,619"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a01fce546f1c0808833f988e7fc9232bb" title="io_spare_map" alt="" coords="233,259,336,285"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="461,360,527,387"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#af24e8f4cfdee370fb6d35021761298a4" title="gfile_offset" alt="" coords="242,107,327,133"/>
+<area shape="rect" id="node13" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ac3159d640e355e0798ce915535734950" title="page_pos_get" alt="" coords="233,411,336,437"/>
+<area shape="rect" id="node14" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="460,461,528,488"/>
+<area shape="rect" id="node15" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ae85c2b3583142b344d61bc397e43384b" title="page_nr" alt="" coords="649,596,717,623"/>
+<area shape="rect" id="node16" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a0bd5706a2904bab536f64bb5bae70cde" title="pargrp_iomap_pages\l_mark_as_failed" alt="" coords="213,513,356,554"/>
+<area shape="rect" id="node17" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="456,672,532,699"/>
+</map>

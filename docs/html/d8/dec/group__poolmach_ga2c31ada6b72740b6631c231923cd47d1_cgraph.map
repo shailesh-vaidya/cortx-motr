@@ -1,0 +1,10 @@
+<map id="poolmach_spare_inherit" name="poolmach_spare_inherit">
+<area shape="rect" id="node2" href="$d8/dec/group__poolmach.html#ga1d9c2019bfaca65505d626557d6bc3e2" title="m0_poolmach_event_queue\l_apply" alt="" coords="212,102,396,143"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="444,124,627,151"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="724,29,791,56"/>
+<area shape="rect" id="node5" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="682,109,833,136"/>
+<area shape="rect" id="node6" href="$d8/dec/group__poolmach.html#ga76c8f6fb7cfe7b21ac072b94c4e69f3a" title="spare_usage_arr_update" alt="" coords="675,175,839,201"/>
+<area shape="rect" id="node7" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="675,255,840,281"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="259,320,349,347"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="263,371,345,397"/>
+</map>

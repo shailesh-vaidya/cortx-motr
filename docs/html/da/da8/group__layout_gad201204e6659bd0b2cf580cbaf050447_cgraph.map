@@ -1,0 +1,7 @@
+<map id="m0_layout_type_unregister" name="m0_layout_type_unregister">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="423,28,617,54"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="246,28,361,54"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#gadf9097358192995ef733a59d223e129f" title="max_recsize_update" alt="" coords="232,78,375,105"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="239,129,367,156"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="259,180,348,206"/>
+</map>

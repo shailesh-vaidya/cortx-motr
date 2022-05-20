@@ -1,0 +1,12 @@
+<map id="m0_fol_rec_fini" name="m0_fol_rec_fini">
+<area shape="rect" id="node2" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#a9c33e8cc5af12c9366a5bbf46e051e0f" title="classify_handle_fdmi\l_rec_not" alt="" coords="164,5,308,47"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#gab5dfdefafd23bcef58b85f84b93f9d8d" title="m0_dtx_fini" alt="" coords="191,71,281,98"/>
+<area shape="rect" id="node4" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="356,89,499,131"/>
+<area shape="rect" id="node5" href="$da/d6e/fol_2ut_2fol_8c.html#ad165b0ee61a8022d9cf716673289f6a6" title="test_fol_frag_encdec" alt="" coords="165,173,307,199"/>
+<area shape="rect" id="node6" href="$dd/dc6/group__fdmi__fol__src.html#ga0685854eb2ed22c90ec54094a4600b98" title="ffs_op_decode" alt="" coords="183,223,289,250"/>
+<area shape="rect" id="node7" href="$d0/d06/fdmi__sample__plugin_8c.html#aa8ecc3343910ab4b69e89abfa29d994f" title="process_fdmi_record" alt="" coords="165,274,307,301"/>
+<area shape="rect" id="node8" href="$d0/d0a/fdmi__echo_8c.html#a3d196ce447c5416818e5e2d0b6be1b44" title="handle_fdmi_rec_not" alt="" coords="165,325,307,351"/>
+<area shape="rect" id="node9" href="$d9/d96/fol__ut_8c.html#a6822a5de7d46273f33a15103d3156d80" title="fdmi_fol_test_ops" alt="" coords="173,375,299,402"/>
+<area shape="rect" id="node10" href="$d5/d5d/ut_2cob__foms_8c.html#ab9c82f8cb944c4406444186b955015e8" title="fom_fini" alt="" coords="202,426,270,453"/>
+<area shape="rect" id="node11" href="$db/d53/bulkio__ut_8c.html#a222a477580590b89d39bb783b7cae047" title="bulkio_server_write\l_fol_rec_verify" alt="" coords="169,477,303,519"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_sns_cm_file_lock" name="m0_sns_cm_file_lock">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="229,295,356,321"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="442,193,587,220"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga4f598fa301d9f0778ff775c6fadea07a" title="m0_sns_cm_fid_is_valid" alt="" coords="432,92,597,119"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#gaf223799cbcb8499e5775f11839d9b444" title="m0_sns_cm2reqh" alt="" coords="645,92,771,119"/>
+<area shape="rect" id="node6" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="249,396,336,423"/>
+<area shape="rect" id="node7" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga1394c9bec34b9008e4f8d47febf873c9" title="m0_sns_cm_fctx_state_get" alt="" coords="201,447,384,473"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="481,143,548,169"/>
+<area shape="rect" id="node9" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga69fc05d71127f15be58de58ee6edafca" title="m0_sns_cm_fctx_init" alt="" coords="219,41,366,68"/>
+<area shape="rect" id="node10" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3fecf608cea3c8b6f5cb8d56ae91636b" title="__sns_cm_file_lock" alt="" coords="224,92,361,119"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaaffb6a70e5ce0d407d96fa0dce636848" title="__sns_cm_file_oo_lock" alt="" coords="213,193,372,220"/>
+</map>

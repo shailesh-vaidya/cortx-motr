@@ -1,0 +1,11 @@
+<map id="poller" name="poller">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga1ccbabd9aaf069d324a4bba8a258ceb3" title="ma_event_post" alt="" coords="109,5,219,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga14e6c41476564f25463e5b82fb17454f" title="ma_lock" alt="" coords="129,56,199,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="269,157,372,184"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga69b566f47f16edf4094db7e7794ddac7" title="ma_invariant" alt="" coords="273,309,369,336"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga41bd19654c4aa2b6f9cbfb78c32b953a" title="sock_event" alt="" coords="119,208,209,235"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga87fceeb0675eca3bdc635f0be855673f" title="ma_buf_timeout" alt="" coords="107,309,221,336"/>
+<area shape="rect" id="node8" href="$d5/d16/group__netsock.html#ga87f26fc0b5e6e27c0130d1c1bd877ff8" title="ma_buf_done" alt="" coords="114,259,214,285"/>
+<area shape="rect" id="node9" href="$d5/d16/group__netsock.html#ga9ed54523c05b17d045c4e884d7d0cc8a" title="ma_prune" alt="" coords="125,107,203,133"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#gac11937bd71bc58ad75da8f7973aa3ddf" title="ma_unlock" alt="" coords="121,411,207,437"/>
+</map>

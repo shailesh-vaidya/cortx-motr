@@ -1,0 +1,7 @@
+<map id="conn_pool_item_fini" name="conn_pool_item_fini">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="191,5,336,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="214,56,313,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="384,132,515,159"/>
+<area shape="rect" id="node5" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="205,157,321,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="229,208,298,235"/>
+</map>

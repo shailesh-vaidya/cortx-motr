@@ -1,0 +1,29 @@
+<map id="m0_rpc_item_error" name="m0_rpc_item_error">
+<area shape="rect" id="node2" href="$d5/df4/group___d_i_x_c_m_c_p.html#gaeb0525ec2a5321bd99eb7cedde596663" title="dix_cp_reply_received" alt="" coords="202,5,353,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gad660800487fe105a0e1a78b85efe5462" title="creq_asmbl_replied_ast" alt="" coords="198,56,357,83"/>
+<area shape="rect" id="node4" href="$d7/d9a/motr_2cob_8c.html#aefd642156dfe7da14a36f151fa35b8c3" title="cob_ios_rio_replied" alt="" coords="211,107,344,133"/>
+<area shape="rect" id="node5" href="$d7/d9a/motr_2cob_8c.html#a446257ec77afb0c1b250b99efb984ad3" title="cob_mds_rio_replied" alt="" coords="207,157,348,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga784e9f03c814919df4810f9f276e8379" title="on_replied" alt="" coords="237,208,318,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a46c5c55f0f9494ad38149a47437be34e" title="cob_rpc_item_cb" alt="" coords="217,259,338,285"/>
+<area shape="rect" id="node8" href="$db/d1b/drlink_8c.html#a0fe87e4af2163d5bb6b5d59f34a86284" title="dtm0_rlink_rpc_item\l_reply_cb" alt="" coords="208,310,347,351"/>
+<area shape="rect" id="node9" href="$db/d1b/drlink_8c.html#aa62503bf34ec06dda39886a39ee79202" title="drlink_coro_fom_tick" alt="" coords="206,376,349,403"/>
+<area shape="rect" id="node10" href="$dc/dc7/rpc_2ub_2ub_8c.html#ad66c7558bb37c5c65109a5bf6a0878b7" title="ub_item_replied" alt="" coords="221,427,334,453"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#ga95175d2e3263eed5c3885b8d97ac551b" title="ha_entrypoint_client\l_replied" alt="" coords="208,478,347,519"/>
+<area shape="rect" id="node12" href="$db/dec/group__ha.html#gac6593de491b687c964c7fae62e55ca44" title="ha_entrypoint_client\l_fom_tick" alt="" coords="208,543,347,585"/>
+<area shape="rect" id="node13" href="$da/dda/io__fops_8c.html#a69a053d5bb7f5c25d68a27686209f9e3" title="io_item_replied" alt="" coords="223,609,332,636"/>
+<area shape="rect" id="node14" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#gaddbd48370146200b2dc8cdc248cf709c" title="getattr_rpc_item_reply_cb" alt="" coords="191,660,363,687"/>
+<area shape="rect" id="node15" href="$db/dc2/sync_8c.html#ac51531b2c526df8f460cb7b83638e96c" title="sync_reply_process" alt="" coords="208,711,347,737"/>
+<area shape="rect" id="node16" href="$d7/db2/rm__fops_8c.html#afdee329ad6c2dd26aab90260aa5352c9" title="rm_borrow_ast" alt="" coords="223,761,331,788"/>
+<area shape="rect" id="node17" href="$d7/db2/rm__fops_8c.html#a6676305c8003439b6700ce7acfc54d70" title="rm_revoke_ast" alt="" coords="223,812,331,839"/>
+<area shape="rect" id="node18" href="$d7/db2/rm__fops_8c.html#a34e29c54a3f6cf7981e2a5009d82cc42" title="rm_cancel_ast" alt="" coords="224,863,331,889"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#ga711cbee953d6e40d321baf18909dc58d" title="m0_rpc_conn_establish\l_reply_received" alt="" coords="198,914,357,955"/>
+<area shape="rect" id="node20" href="$df/db4/group__rpc__session.html#gadd5208d8ef0cfe3371e75358d43432f3" title="m0_rpc_conn_terminate\l_reply_received" alt="" coords="197,979,358,1021"/>
+<area shape="rect" id="node21" href="$d8/dd5/rpc__ping_8c.html#a8dd4baa2dc7eb278528b0761b8f044c1" title="ping_reply_received" alt="" coords="209,1045,346,1072"/>
+<area shape="rect" id="node22" href="$df/db4/group__rpc__session.html#ga9b7bac260c195f562191fc8132df0632" title="m0_rpc_session_establish\l_reply_received" alt="" coords="189,1097,365,1138"/>
+<area shape="rect" id="node23" href="$df/db4/group__rpc__session.html#ga5cd2a6793445cbc2521e0c0f3f50428a" title="m0_rpc_session_terminate\l_reply_received" alt="" coords="188,1162,367,1203"/>
+<area shape="rect" id="node24" href="$df/d08/repair__main_8c.html#a0eee09dcfa65c59ac470caf978b63547" title="repair_reply_received" alt="" coords="205,1228,350,1255"/>
+<area shape="rect" id="node25" href="$df/d3a/group__spiel-api-fspec-intr.html#gab9dbfbdc489127208cfa56df74119d38" title="spiel__pool_cmd_status_get" alt="" coords="184,1279,371,1305"/>
+<area shape="rect" id="node26" href="$df/d3a/group__spiel-api-fspec-intr.html#gab227aff581081cddf57995e6c2baccf9" title="spiel_process_health\l_replied_ast" alt="" coords="205,1330,349,1371"/>
+<area shape="rect" id="node27" href="$df/d3a/group__spiel-api-fspec-intr.html#gaf6e695eac9f05aafd3eee6d1e8d82e30" title="spiel_process_counter\l_replied_ast" alt="" coords="201,1395,353,1437"/>
+<area shape="rect" id="node28" href="$d9/dfb/cs__fop_8c.html#ad82d0335d39b9c539d288f7059e1d6c0" title="cs_ut_rpc_item_reply_cb" alt="" coords="194,1461,361,1488"/>
+</map>

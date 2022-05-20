@@ -1,0 +1,17 @@
+<map id="test_init" name="test_init">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a3fc6a07a41ff597a38e9ebf05fb70373" title="m0_be_ut_backend_cfg\l_default" alt="" coords="133,5,293,47"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ae582fe634d666b102afb9b3297558ed7" title="m0_be_ut_backend_init_cfg" alt="" coords="121,71,305,98"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a80a5b6e36aa3b29deea743705b379b62" title="m0_be_ut_seg_init" alt="" coords="148,122,279,149"/>
+<area shape="rect" id="node5" href="$da/d8d/ut_2extmap_8c.html#a232a5a12efc35b3c01e45610791a7a1a" title="emap_be_alloc" alt="" coords="159,274,268,301"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ad83697b7706d030d9a7eee13c85f3f37" title="m0_be_ut_tx_init" alt="" coords="367,186,489,213"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="373,262,483,289"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="353,313,503,339"/>
+<area shape="rect" id="node9" href="$d2/de0/group__extmap.html#ga3d5f8012ff20d719be1978cc6dd902f8" title="m0_be_emap_init" alt="" coords="151,375,275,402"/>
+<area shape="rect" id="node10" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="144,426,283,453"/>
+<area shape="rect" id="node11" href="$d2/de0/group__extmap.html#ga54888019b5c4641de0a3812efacde675" title="m0_be_emap_create" alt="" coords="142,477,285,503"/>
+<area shape="rect" id="node12" href="$df/dca/lib_2misc_8c.html#aa4f9b74ceb2eff5829e8c547939733c3" title="m0_uint128_init" alt="" coords="157,527,270,554"/>
+<area shape="rect" id="node13" href="$d2/de0/group__extmap.html#gab5131acd58e7265465ed9d208d2b3218" title="m0_be_emap_seg_get" alt="" coords="137,578,290,605"/>
+<area shape="rect" id="node14" href="$d2/de0/group__extmap.html#ga39bdbbb15157da6da1e931f16f1ac625" title="m0_be_emap_op" alt="" coords="153,629,274,655"/>
+<area shape="rect" id="node15" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="179,679,248,706"/>
+<area shape="rect" id="node16" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="169,730,258,757"/>
+</map>

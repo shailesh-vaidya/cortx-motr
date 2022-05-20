@@ -1,0 +1,16 @@
+<map id="dix_kv_alloc_and_fill" name="dix_kv_alloc_and_fill">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a5b62c112034e4ee767809d7e698f83e9" title="dix_delete_crow" alt="" coords="200,5,316,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#afff1c05194935818efb75a6e91364c06" title="dix_put" alt="" coords="226,56,290,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#af86955ceb7d1fa13f2eaafa8bdd90ab6" title="dix_put_overwrite" alt="" coords="196,107,320,133"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a006827d9ed7bc88a619ae6d295b91e35" title="dix_put_crow" alt="" coords="209,157,307,184"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a2e3856ce33b6f6825776b5fedd341e68" title="dix_put_dgmode" alt="" coords="199,208,317,235"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#a14e95f51e264634f66dd5462b92ea67c" title="dix_get" alt="" coords="226,259,290,285"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#a6734cac47b9bac731278521779a92ebd" title="dix_get_dgmode" alt="" coords="199,309,317,336"/>
+<area shape="rect" id="node9" href="$db/d71/dix_2ut_2client__ut_8c.html#ad6a7f1f1658e57c215b5d5a86bbf5cdd" title="dix_get_resend" alt="" coords="203,360,313,387"/>
+<area shape="rect" id="node10" href="$db/d71/dix_2ut_2client__ut_8c.html#a100ce36bda6630fb7f90520d3f2904e9" title="dix_next" alt="" coords="223,411,293,437"/>
+<area shape="rect" id="node11" href="$db/d71/dix_2ut_2client__ut_8c.html#adb1876f1e2d996e07ab02d1eb85af644" title="dix_next_crow" alt="" coords="205,461,311,488"/>
+<area shape="rect" id="node12" href="$db/d71/dix_2ut_2client__ut_8c.html#ac619cf0b393d0f7b96b9c2ba70e7ca95" title="dix_next_dgmode" alt="" coords="196,512,320,539"/>
+<area shape="rect" id="node13" href="$db/d71/dix_2ut_2client__ut_8c.html#ab874297eb5ba5bd770ad4d1f1a760544" title="dix_del" alt="" coords="227,563,289,589"/>
+<area shape="rect" id="node14" href="$db/d71/dix_2ut_2client__ut_8c.html#af242a3f073a03347c301ae620459292d" title="dix_del_dgmode" alt="" coords="200,613,316,640"/>
+<area shape="rect" id="node15" href="$db/d71/dix_2ut_2client__ut_8c.html#a436cbfbfdaa7cabeaeb6b1cb737b30ac" title="local_failures" alt="" coords="209,664,307,691"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0__locality_pick" name="m0__locality_pick">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="212,5,292,32"/>
+<area shape="rect" id="node3" href="$dc/d86/motr_2obj_8c.html#a8a18c477e055fa4c868045cc941836f9" title="obj_op_obj_init" alt="" coords="198,56,306,83"/>
+<area shape="rect" id="node4" href="$d1/da1/motr_2layout_8c.html#a71f908108625da728895714ed22edcee" title="layout_op_init" alt="" coords="201,107,303,133"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#a0913585306bdfb34eeffd652b3b77b1a" title="composite_io_op_init" alt="" coords="180,157,324,184"/>
+<area shape="rect" id="node6" href="$d2/db6/idx_8c.html#a92cd58b45966ca973d0e8cc2c4182258" title="idx_op_init" alt="" coords="210,208,294,235"/>
+<area shape="rect" id="node7" href="$db/dc2/sync_8c.html#a32b8667595114b50666fc2d42716185f" title="sync_op_init" alt="" coords="205,259,299,285"/>
+</map>

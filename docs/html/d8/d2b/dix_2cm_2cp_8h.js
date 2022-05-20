@@ -1,0 +1,35 @@
+var dix_2cm_2cp_8h =
+[
+    [ "m0_dix_cm_cp", "d4/d31/structm0__dix__cm__cp.html", "d4/d31/structm0__dix__cm__cp" ],
+    [ "__MOTR_DIX_CM_CP_H__", "d8/d2b/dix_2cm_2cp_8h.html#a808ad35b0bc283aaf025f83495859812", null ],
+    [ "m0_dix_cm_phase_transmit", "d8/d2b/dix_2cm_2cp_8h.html#af70fbe969e49027937b2f0d72dd73f6d", [
+      [ "DCM_PT_KEY", "d8/d2b/dix_2cm_2cp_8h.html#af70fbe969e49027937b2f0d72dd73f6daefa26b6c5ff144156bc0af2c98b172d1", null ],
+      [ "DCM_PT_VAL", "d8/d2b/dix_2cm_2cp_8h.html#af70fbe969e49027937b2f0d72dd73f6da22632330e5b1ecd843d0e0bade28adc7", null ],
+      [ "DCM_PT_NR", "d8/d2b/dix_2cm_2cp_8h.html#af70fbe969e49027937b2f0d72dd73f6dac959c636d57a701426368f171734ab78", null ]
+    ] ],
+    [ "cp2dixcp", "d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975", null ],
+    [ "cpfom2cm", "d3/daf/group___s_n_s_c_m_c_p.html#gac6187a25fa14442ba52f0e4ec5252b3e", null ],
+    [ "m0_dix_cm_cp_alloc", "d5/df4/group___d_i_x_c_m_c_p.html#gac80f27a1a560bc47bb314309aa4324f5", null ],
+    [ "m0_dix_cm_cp_complete", "d5/df4/group___d_i_x_c_m_c_p.html#ga61984fc35871dea8d285015b84b72512", null ],
+    [ "m0_dix_cm_cp_dup", "d5/df4/group___d_i_x_c_m_c_p.html#ga6e28034e3e1da214c25e11c3b07cc806", null ],
+    [ "m0_dix_cm_cp_fail", "d5/df4/group___d_i_x_c_m_c_p.html#ga63e454878f9921691d2fa1f53ebd74d5", null ],
+    [ "m0_dix_cm_cp_fini", "d5/df4/group___d_i_x_c_m_c_p.html#gaf43dc8feba2bfa549ffd31135e797f36", null ],
+    [ "m0_dix_cm_cp_free", "d5/df4/group___d_i_x_c_m_c_p.html#ga1f6503613139b69160bbe8ac13616ab1", null ],
+    [ "m0_dix_cm_cp_home_loc_helper", "d5/df4/group___d_i_x_c_m_c_p.html#ga277f166c55eaf93dce5a1c9e2664462b", null ],
+    [ "m0_dix_cm_cp_init", "d5/df4/group___d_i_x_c_m_c_p.html#ga15bd336359b4a07eec6aecae35bdc104", null ],
+    [ "m0_dix_cm_cp_invariant", "d5/df4/group___d_i_x_c_m_c_p.html#ga822c174d9493d98845a4d2d357300cd6", null ],
+    [ "m0_dix_cm_cp_io_wait", "d5/df4/group___d_i_x_c_m_c_p.html#ga112207254d7facaae8bde54ae9042426", null ],
+    [ "m0_dix_cm_cp_read", "d5/df4/group___d_i_x_c_m_c_p.html#gafe6c5a7f579da9e12655617ef0b8f636", null ],
+    [ "m0_dix_cm_cp_recv_init", "d5/df4/group___d_i_x_c_m_c_p.html#gac3a2c0842e6c9552c6dd68d116aaf1b4", null ],
+    [ "m0_dix_cm_cp_recv_wait", "d5/df4/group___d_i_x_c_m_c_p.html#ga3df1967fbbdc194f9bd42beaf290588a", null ],
+    [ "m0_dix_cm_cp_send", "d5/df4/group___d_i_x_c_m_c_p.html#gaaed9ef6fa08701561234ef7f09b11ca4", null ],
+    [ "m0_dix_cm_cp_send_wait", "d5/df4/group___d_i_x_c_m_c_p.html#ga508e9f5dabf36220c5d229e15f109f76", null ],
+    [ "m0_dix_cm_cp_setup", "d5/df4/group___d_i_x_c_m_c_p.html#ga789800f6986a6424fda4c8c7244b1476", null ],
+    [ "m0_dix_cm_cp_sw_check", "d5/df4/group___d_i_x_c_m_c_p.html#gabbcc7fbd163f6b5d5a95599f4f8ff338", null ],
+    [ "m0_dix_cm_cp_tgt_info_fill", "d5/df4/group___d_i_x_c_m_c_p.html#ga5cd834d2e697750af39ba794d6288fbd", null ],
+    [ "m0_dix_cm_cp_write", "d5/df4/group___d_i_x_c_m_c_p.html#ga1b47a20814148ac65da77e8e8ca71729", null ],
+    [ "m0_dix_cm_cp_write_pre", "d5/df4/group___d_i_x_c_m_c_p.html#ga145a01db25317045962bc488140027bd", null ],
+    [ "m0_dix_cm_cp_xform", "d5/df4/group___d_i_x_c_m_c_p.html#ga8471f00c47432de2961c1d1d62ffc8d8", null ],
+    [ "m0_dix_cm_rebalance_cp_ops", "de/d70/group___d_i_x_c_m.html#ga968edae2d517870abb68ebdfecc392c0", null ],
+    [ "m0_dix_cm_repair_cp_ops", "de/d70/group___d_i_x_c_m.html#gae48f619527bb815d8d3768cb8f0fe1de", null ]
+];

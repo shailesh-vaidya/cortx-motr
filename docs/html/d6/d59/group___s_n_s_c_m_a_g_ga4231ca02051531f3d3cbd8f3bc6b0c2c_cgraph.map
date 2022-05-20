@@ -1,0 +1,7 @@
+<map id="m0_sns_cm_repair_ag_inbufs" name="m0_sns_cm_repair_ag_inbufs">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="459,71,583,98"/>
+<area shape="rect" id="node3" href="$d7/daf/group___s_n_s_c_m.html#gad60a39d8c2af4f6f731f3ff274d7e46a" title="m0_sns_cm_data_seg_nr" alt="" coords="436,154,607,181"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#gaa037bb4063b506b52774dcd407aec354" title="m0_sns_cm_cp_buf_nr" alt="" coords="443,209,600,235"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga5dce1493c0d605eebed5435cc7a91e51" title="m0_sns_cm_incoming\l_reserve_bufs" alt="" coords="221,173,373,215"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga313ada0b4ad98bcc9df959028203fd1a" title="m0_sns_cm_ag_unrepaired\l_units" alt="" coords="207,5,388,47"/>
+</map>

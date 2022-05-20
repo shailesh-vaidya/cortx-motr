@@ -1,0 +1,12 @@
+<map id="m0_dix_cm_cp_io_wait" name="m0_dix_cm_cp_io_wait">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga540ed0a1ddcaf608b37da2332b2ab5cc" title="m0_fom_tx" alt="" coords="605,128,692,154"/>
+<area shape="rect" id="node3" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga0f92ab6b98a6ab5f8041ba2aaac11975" title="cp2dixcp" alt="" coords="449,26,523,53"/>
+<area shape="rect" id="node4" href="$d5/df4/group___d_i_x_c_m_c_p.html#gae96ac3a55dcb632d2d7cdccd9b0bda47" title="dix_cm_cp_dtx_failure" alt="" coords="213,102,365,129"/>
+<area shape="rect" id="node5" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga6e4467745861be2cf31210ff4d594226" title="dix_cm_cp_dtx_fini" alt="" coords="419,153,553,180"/>
+<area shape="rect" id="node6" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga792dc676405649b6d00e4e59cc9b962a" title="dix_cm_fom_tx_wait" alt="" coords="415,204,557,230"/>
+<area shape="rect" id="node7" href="$d5/df4/group___d_i_x_c_m_c_p.html#ga75ec554d87bc0f8bf910617e54b9f7dd" title="dix_cm_cp_reply_send" alt="" coords="212,52,367,78"/>
+<area shape="rect" id="node8" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf275d1f45f62ea03cf941299c2ba29b6" title="m0_long_write_unlock" alt="" coords="214,254,365,281"/>
+<area shape="rect" id="node9" href="$d9/d21/group__cas-ctg-store.html#ga49f24371eb839c39da6451cbeecbd8bf" title="m0_ctg_lock" alt="" coords="241,305,337,332"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga49c0886e7459bf20d1ba974852f18fcd" title="m0_fom_phase_set" alt="" coords="221,356,357,382"/>
+<area shape="rect" id="node11" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="214,406,365,433"/>
+</map>

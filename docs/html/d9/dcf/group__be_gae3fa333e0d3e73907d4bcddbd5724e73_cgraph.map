@@ -1,0 +1,11 @@
+<map id="m0_be_log_discard_init" name="m0_be_log_discard_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="255,5,331,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="259,56,328,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="240,107,347,133"/>
+<area shape="rect" id="node5" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="240,157,347,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga571211cb8a392521c959deb80fe884dd" title="m0_be_op_callback_set" alt="" coords="212,208,375,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gade6e3c042037b8de7f767cdab628f7b0" title="be_log_discard_sync\l_done_cb" alt="" coords="221,259,365,301"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga027a02eb8e59c1d83b8b3f8ce24d14c3" title="m0_sm_timer_init" alt="" coords="231,325,356,352"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="226,376,361,403"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga41b8ecc4ae891c65c5eaa5a78de84c6c" title="be_log_discard_timer\l_start" alt="" coords="221,427,366,469"/>
+</map>

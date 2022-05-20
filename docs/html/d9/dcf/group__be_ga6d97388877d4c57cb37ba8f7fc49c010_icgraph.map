@@ -1,0 +1,7 @@
+<map id="be_queue_is_empty" name="be_queue_is_empty">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga3454e7ee4a9ea16521bdb33709e497fa" title="be_queue_q_peek" alt="" coords="194,5,321,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga48703cc7acc328db8f673ec2e100f682" title="m0_be_queue_peek" alt="" coords="371,44,509,71"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gae827ab37d5fbb3b3b132f5ed4781fdb5" title="be_queue_q_get" alt="" coords="199,107,316,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga81a94ea851eb348735a2eef6b1a84f2d" title="m0_be_queue_get" alt="" coords="376,120,504,147"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gab504c766f84c028cccc42c3287ed744a" title="m0_be_queue_end" alt="" coords="192,208,323,235"/>
+</map>

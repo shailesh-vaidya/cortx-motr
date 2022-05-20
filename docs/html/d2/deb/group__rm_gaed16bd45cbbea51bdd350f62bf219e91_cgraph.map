@@ -1,0 +1,10 @@
+<map id="m0_rm_outgoing_send" name="m0_rm_outgoing_send">
+<area shape="rect" id="node2" href="$d7/db2/rm__fops_8c.html#afdee329ad6c2dd26aab90260aa5352c9" title="rm_borrow_ast" alt="" coords="220,33,328,60"/>
+<area shape="rect" id="node3" href="$d7/db2/rm__fops_8c.html#a24b77878582a46d8400cb4637dca8822" title="outreq_fini" alt="" coords="393,58,475,85"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="389,109,479,136"/>
+<area shape="rect" id="node5" href="$d7/db2/rm__fops_8c.html#a6676305c8003439b6700ce7acfc54d70" title="rm_revoke_ast" alt="" coords="220,84,328,110"/>
+<area shape="rect" id="node6" href="$d7/db2/rm__fops_8c.html#a34e29c54a3f6cf7981e2a5009d82cc42" title="rm_cancel_ast" alt="" coords="221,134,327,161"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="225,236,323,262"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga4bd0dc547aa64d0d8513eafe325be3d5" title="m0_sm_ast_cancel" alt="" coords="207,286,341,313"/>
+<area shape="rect" id="node9" href="$d3/deb/rm__internal_8h.html#a2795b241579729ff14ff27ac1beb9cf8" title="owner_grp" alt="" coords="233,337,315,364"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="repair_svc_stop" name="repair_svc_stop">
+<area shape="rect" id="node2" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gaa381dd56ca4fa7bf0b4f88677c72bb47" title="m0_sns_cm_svc_stop" alt="" coords="183,5,337,32"/>
+<area shape="rect" id="node3" href="$df/d2a/group___s_n_s_c_m_s_v_c.html#gabb87f8315bc7b05e95d1a7760533428b" title="m0_sns_cm_repair_cpx_fini" alt="" coords="168,56,352,83"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga50d67385ea58ef05cbf30a9cec9327ed" title="m0_sns_cm_repair_sw\l_onwire_fop_fini" alt="" coords="182,107,338,149"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga3a7522f9c8c93f552080d79e9e0f1cdf" title="m0_sns_cm_repair_trigger\l_fop_fini" alt="" coords="173,173,347,214"/>
+</map>

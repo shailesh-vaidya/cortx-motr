@@ -1,0 +1,7 @@
+<map id="m0_stob_cache_purge" name="m0_stob_cache_purge">
+<area shape="rect" id="node2" href="$de/d4f/group__stobcache.html#gaff7780337fe9a61ccfe2a725d277bd3c" title="m0_stob_cache_lock" alt="" coords="223,5,368,32"/>
+<area shape="rect" id="node3" href="$de/d4f/group__stobcache.html#gac8f2fb8b4b001db231f8b997522d8efb" title="m0_stob_cache__invariant" alt="" coords="207,56,384,83"/>
+<area shape="rect" id="node4" href="$de/d4f/group__stobcache.html#ga8ec67c6ada1446217fbbebdeaa2281e2" title="stob_cache_idle_del" alt="" coords="225,107,365,133"/>
+<area shape="rect" id="node5" href="$de/d4f/group__stobcache.html#gac2460561dce7da6be419e49712036542" title="stob_cache_evict" alt="" coords="233,157,357,184"/>
+<area shape="rect" id="node6" href="$de/d4f/group__stobcache.html#gaa2af4e4baaf0d82067f2206257ca5b91" title="m0_stob_cache_unlock" alt="" coords="216,208,375,235"/>
+</map>

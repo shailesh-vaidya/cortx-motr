@@ -1,0 +1,8 @@
+<map id="cs_ut_test_helper_success" name="cs_ut_test_helper_success">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="235,5,400,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="247,56,388,83"/>
+<area shape="rect" id="node4" href="$d5/ded/cs__ut__main_8c.html#ac7ce8560c0090a33967bc4c01f62a5dd" title="cs_ut_client_init" alt="" coords="259,107,375,133"/>
+<area shape="rect" id="node5" href="$d5/ded/cs__ut__main_8c.html#ab0e207fdd311343f738134f8bc94c855" title="m0_cs_ut_send_fops" alt="" coords="244,157,391,184"/>
+<area shape="rect" id="node6" href="$d5/ded/cs__ut__main_8c.html#a5f37d76bc8f551db0996d7a86df95576" title="cs_ut_client_fini" alt="" coords="259,208,375,235"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="247,259,387,285"/>
+</map>

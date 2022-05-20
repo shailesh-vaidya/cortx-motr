@@ -1,0 +1,6 @@
+<map id="m0_spiel_load_command" name="m0_spiel_load_command">
+<area shape="rect" id="node2" href="$d2/de3/structm0__rpc__conn.html" title="{m0_rpc_conn\n||}" alt="" coords="5,5,105,83"/>
+<area shape="rect" id="node3" href="$dd/d65/structm0__rpc__session.html" title="{m0_rpc_session\n||}" alt="" coords="141,145,258,223"/>
+<area shape="rect" id="node5" href="$db/d99/structm0__rpc__bulk.html" title="{m0_rpc_bulk\n||}" alt="" coords="363,145,459,223"/>
+<area shape="rect" id="node6" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="484,145,549,223"/>
+</map>

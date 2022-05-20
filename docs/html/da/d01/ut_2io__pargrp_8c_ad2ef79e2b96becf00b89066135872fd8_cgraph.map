@@ -1,0 +1,8 @@
+<map id="ut_test_gobj_offset" name="ut_test_gobj_offset">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a6293a57e76b4ac5e939637fe22ecadae" title="ut_dummy_pargrp_iomap\l_create" alt="" coords="185,5,353,47"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="194,71,345,98"/>
+<area shape="rect" id="node4" href="$d0/ddc/motr_2ut_2client_8h.html#abff1a6e86632e60a2b13e680f6819cf0" title="ut_get_pdclust_layout\l_from_ioo" alt="" coords="195,123,344,164"/>
+<area shape="rect" id="node5" href="$db/d27/io__pargrp_8c.html#aeec9fb0f45f915b9835434c12663fd44" title="gobj_offset" alt="" coords="227,189,312,215"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="195,239,344,266"/>
+<area shape="rect" id="node7" href="$d0/ddc/motr_2ut_2client_8h.html#a82100879c3e67b7ac85c713dbe1aacf1" title="ut_dummy_pargrp_iomap\l_delete" alt="" coords="185,291,353,332"/>
+</map>

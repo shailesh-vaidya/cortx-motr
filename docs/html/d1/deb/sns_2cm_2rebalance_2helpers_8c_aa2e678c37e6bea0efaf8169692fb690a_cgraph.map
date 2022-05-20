@@ -1,0 +1,13 @@
+<map id="rebalance_ag_is_relevant" name="rebalance_ag_is_relevant">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="509,38,633,65"/>
+<area shape="rect" id="node3" href="$d7/daf/group___s_n_s_c_m.html#ga138fca034c6d402e4ba7b0402082df16" title="m0_sns_cm_ag_size" alt="" coords="255,393,401,420"/>
+<area shape="rect" id="node4" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="708,190,763,217"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga391cd128c66b57c080dfa925f6ddb257" title="m0_sns_cm_unit2cobfid" alt="" coords="489,89,652,116"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#gafff40218cea86ec47faaa80b1b704b72" title="m0_sns_cm_is_cob_rebalancing" alt="" coords="223,444,433,470"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga75dd9cb423344b46e6125b5487d68196" title="m0_sns_cm_is_local_cob" alt="" coords="485,140,657,166"/>
+<area shape="rect" id="node8" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="243,494,413,521"/>
+<area shape="rect" id="node9" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa8607f34c03bba78736c5a0eb29620b0" title="is_spare_relevant" alt="" coords="266,190,390,217"/>
+<area shape="rect" id="node10" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="494,241,647,268"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="487,292,654,318"/>
+<area shape="rect" id="node12" href="$d7/d0c/parity__repair_8c.html#a696d145f546f789bf2aa2cab33594e73" title="m0_sns_repair_spare_map" alt="" coords="481,342,660,369"/>
+</map>

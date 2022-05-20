@@ -1,0 +1,7 @@
+<map id="timer_hard_init" name="timer_hard_init">
+<area shape="rect" id="node2" href="$d7/d2c/group__timer.html#gab52ebd779a507a91cd52e8fc839ef605" title="timer_locality_tid_next" alt="" coords="160,5,312,32"/>
+<area shape="rect" id="node3" href="$d7/d2c/group__timer.html#ga5bf04a41c9f56bd4aaaf86c1987138d4" title="timer_posix_init" alt="" coords="179,56,293,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="360,81,427,108"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="169,157,303,184"/>
+<area shape="rect" id="node6" href="$d7/d2c/group__timer.html#ga3e7be0f9b929ed3bbe22544a1adba1fb" title="timer_posix_fini" alt="" coords="179,208,293,235"/>
+</map>

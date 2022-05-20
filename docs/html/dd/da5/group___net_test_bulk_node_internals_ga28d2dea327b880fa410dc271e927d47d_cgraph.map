@@ -1,0 +1,7 @@
+<map id="client_transfer_start" name="client_transfer_start">
+<area shape="rect" id="node2" href="$dd/da5/group___net_test_bulk_node_internals.html#ga278773f33d44631284956832a1ed83cf" title="node_bulk_state_change" alt="" coords="191,5,357,32"/>
+<area shape="rect" id="node3" href="$da/d64/group___net_test_ringbuf_internals.html#ga8b4f78da0bb88700b30dc74d3de3d062" title="m0_net_test_ringbuf_push" alt="" coords="405,31,580,57"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#gab884b6f8dfd778d9de60283b34a21571" title="client_bulk_enqueue" alt="" coords="204,107,344,133"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga76f172e23ed9e36bc64c72faa77d14bb" title="sd_update" alt="" coords="233,157,315,184"/>
+<area shape="rect" id="node6" href="$dd/da5/group___net_test_bulk_node_internals.html#gac343478753850b89b3eeda98e287ef20" title="client_bulk_dequeue" alt="" coords="204,208,344,235"/>
+</map>

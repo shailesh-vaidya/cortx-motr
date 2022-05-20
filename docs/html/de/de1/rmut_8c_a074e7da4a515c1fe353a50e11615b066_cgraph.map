@@ -1,0 +1,9 @@
+<map id="rm_ctxs_rmsvc_conf_add" name="rm_ctxs_rmsvc_conf_add">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="232,5,377,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#gac2d2d1b66e2bb2c56602d9afc6b3a896" title="m0_fid_tset" alt="" coords="259,56,350,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="432,132,591,159"/>
+<area shape="rect" id="node5" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="243,157,367,184"/>
+<area shape="rect" id="node6" href="$dd/df9/group__conf__dfspec__obj.html#ga82b53521dbe90ae70f4c597339c525d1" title="m0_conf_obj_is_stub" alt="" coords="232,208,377,235"/>
+<area shape="rect" id="node7" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="244,259,365,285"/>
+<area shape="rect" id="node8" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="225,309,384,336"/>
+</map>

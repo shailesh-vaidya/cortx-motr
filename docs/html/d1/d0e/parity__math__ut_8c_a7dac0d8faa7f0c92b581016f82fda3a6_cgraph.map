@@ -1,0 +1,7 @@
+<map id="sns_ir_nodes_gather" name="sns_ir_nodes_gather">
+<area shape="rect" id="node2" href="$d1/d0e/parity__math__ut_8c.html#a5559c8879526e7225c33e4019863413c" title="block_nr" alt="" coords="227,5,297,32"/>
+<area shape="rect" id="node3" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="207,56,317,83"/>
+<area shape="rect" id="node4" href="$d8/d6c/group__incremental__recovery.html#ga1a9d7c0d915660f5a25acc11d018c6b0" title="m0_sns_ir_recover" alt="" coords="196,107,328,133"/>
+<area shape="rect" id="node5" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="207,157,317,184"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="207,208,317,235"/>
+</map>

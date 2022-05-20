@@ -1,0 +1,12 @@
+<map id="m0_rpc_item_remote_ep_addr" name="m0_rpc_item_remote_ep_addr">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#gaa4d746d0017e11c20266bcb169e9dfdb" title="m0_rpc_service_reverse\l_session_get" alt="" coords="207,5,371,47"/>
+<area shape="rect" id="node3" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="212,71,365,112"/>
+<area shape="rect" id="node4" href="$da/d74/pd__ut_8c.html#a37f38349af1df9067e74f915b7182355" title="fdmi_pd_fake_release_rep" alt="" coords="428,107,603,134"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga768edde708cad86cd8d0661e8156e032" title="hung_fom_notify" alt="" coords="229,187,348,214"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga158402db4d70d36b2b77de407e1f03c1" title="ha_entrypoint_get_fom_tick" alt="" coords="197,238,380,265"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gad746bfbbf03eaa6ed7545d2fbee2b13d" title="rfom_debtor_subscribe" alt="" coords="211,289,366,315"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga19456426c3b750c13c91fad820ba336b" title="item_done" alt="" coords="474,365,557,391"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="221,390,356,417"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="449,427,581,454"/>
+<area shape="rect" id="node11" href="$df/d08/repair__main_8c.html#a0eee09dcfa65c59ac470caf978b63547" title="repair_reply_received" alt="" coords="216,491,361,518"/>
+</map>

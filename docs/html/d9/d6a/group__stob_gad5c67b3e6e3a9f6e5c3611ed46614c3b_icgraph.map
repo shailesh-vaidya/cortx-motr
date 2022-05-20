@@ -1,0 +1,6 @@
+<map id="stob_types_get" name="stob_types_get">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga657046b8b43b16764053b2ea2d032994" title="m0_stob_types_init" alt="" coords="376,55,511,81"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gacc0640ca5d0f1fd992bbed9232266de3" title="m0_stob_types_fini" alt="" coords="179,29,313,56"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gacd2dcc1ebea0a444f2e43956b749f22f" title="m0_stob_type_by_name" alt="" coords="164,80,328,107"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga28ebe6b8e9f696158af23411c63e3be0" title="m0_stob_type_register" alt="" coords="169,131,323,157"/>
+</map>

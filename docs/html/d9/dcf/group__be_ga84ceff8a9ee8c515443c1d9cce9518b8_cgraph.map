@@ -1,0 +1,10 @@
+<map id="cob_proc" name="cob_proc">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga86b37b4ded5badf06e0bd752f6cb3d0a" title="scanner_action" alt="" coords="154,5,265,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga43ebe982d997359786ac21017e529b3f" title="cob_kv_get" alt="" coords="165,56,254,83"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="339,81,433,108"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gacc4310b83b169138f0916b8111ae2ca3" title="btree_bad_kv_count\l_update" alt="" coords="140,158,279,199"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="175,224,244,251"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga7d619c956a21c340f5b144bd20dc145d" title="format_header_verify" alt="" coords="137,275,281,301"/>
+<area shape="rect" id="node8" href="$dd/dc1/group__format.html#ga855348e7fffce05eb9b2ce54891f0f9d" title="m0_format_footer_verify" alt="" coords="128,325,291,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga02198e049b63f8893255d1cac7106049" title="qput" alt="" coords="186,376,233,403"/>
+</map>

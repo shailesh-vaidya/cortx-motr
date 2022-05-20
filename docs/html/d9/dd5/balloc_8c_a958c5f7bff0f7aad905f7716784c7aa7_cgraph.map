@@ -1,0 +1,8 @@
+<map id="balloc_allocate_internal" name="balloc_allocate_internal">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a2cafaed97a6cf7a10c59727e01672f56" title="balloc_got_freespace" alt="" coords="223,5,368,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="428,81,495,108"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a839f1c9aefe2ae96a58169d88c90f26b" title="balloc_init_ac" alt="" coords="245,107,346,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a4b1e21c9dfa6e18a552d0ab45aac57cc" title="balloc_use_prealloc" alt="" coords="227,157,363,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#abd241e4662ffbf0d2173ed1dd2031e96" title="balloc_normalize_request" alt="" coords="211,208,380,235"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a373e3eda233bab1e419d0a8262adafbd" title="balloc_regular_allocator" alt="" coords="216,259,375,285"/>
+</map>

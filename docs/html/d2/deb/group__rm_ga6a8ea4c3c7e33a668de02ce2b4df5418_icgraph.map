@@ -1,0 +1,7 @@
+<map id="owner_balance" name="owner_balance">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gae4dbada5398f59889574f6c3025b79c7" title="owner_liquidate" alt="" coords="196,5,308,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaa59379775dd45bf5e3b9c43693cffee2" title="owner_windup_locked" alt="" coords="177,56,327,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gaef0d2623aa51b6318ab37be3984f4d90" title="incoming_queue" alt="" coords="194,107,310,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga5642217a5a12914f27500be7aa65154a" title="m0_rm_credit_put" alt="" coords="189,157,315,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga195667cb9f3eb476c2aa34e998a14011" title="m0_rm_outgoing_complete" alt="" coords="163,208,341,235"/>
+</map>

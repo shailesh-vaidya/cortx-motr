@@ -1,0 +1,10 @@
+<map id="conf_zero_copy_finish" name="conf_zero_copy_finish">
+<area shape="rect" id="node2" href="$d7/d67/load__fop_8c.html#a4738ab9e8167e7d3ef4f051ebc0d66df" title="m0_is_conf_load_fop" alt="" coords="216,5,361,32"/>
+<area shape="rect" id="node3" href="$d4/d8c/group__conf__foms.html#gaf0a2164b146ba5bc8694542604556abe" title="conf_load_fom_invariant" alt="" coords="207,56,370,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="427,233,541,260"/>
+<area shape="rect" id="node5" href="$d4/d8c/group__conf__foms.html#ga5cef4c431537fd1cf43092b3ecb4d9c5" title="conf_fom_conf_file_save" alt="" coords="205,107,372,133"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="451,132,517,159"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="210,259,367,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="420,335,548,361"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaac880a484c7139d4c4761d55291c3104" title="m0_rpc_bulk_fini" alt="" coords="229,309,349,336"/>
+</map>

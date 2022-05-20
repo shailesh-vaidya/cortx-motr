@@ -1,0 +1,12 @@
+<map id="m0_ctg_ctidx_insert_sync" name="m0_ctg_ctidx_insert_sync">
+<area shape="rect" id="node2" href="$d9/d21/group__cas-ctg-store.html#ga48931f013416d1593581171d7818d4ee" title="m0_ctg_ctidx" alt="" coords="263,5,363,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a3d8b0d209cd415ccd64c51dc4bfb99dc" title="imask" alt="" coords="285,56,342,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gafd81eca2c7a69e60197049afb0407ab9" title="m0_be_btree_insert\l_inplace" alt="" coords="245,107,381,149"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga4fd5ecab967fd3acc097ececa509a6e0" title="m0_buf_memcpy" alt="" coords="252,173,375,200"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gab7db79554512aa8c5f403dca76c73c69" title="m0_dix_imask_is_empty" alt="" coords="230,224,397,251"/>
+<area shape="rect" id="node7" href="$d8/d50/ctg__store_8c.html#a86d17f828608bcf301d728db0441c2a2" title="cas_seg" alt="" coords="278,275,349,301"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga34d55dbb6aefe0a78545f46a6cb3e268" title="m0_be_tx_capture" alt="" coords="249,325,378,352"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="228,376,399,403"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="240,427,387,453"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="280,477,347,504"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rpc_at_bulk_segs_nr" name="rpc_at_bulk_segs_nr">
+<area shape="rect" id="node2" href="$d7/df1/group__rpc-at.html#ga3800920f3fc4584d8bdb4804ddf26d7a" title="rpc_at_bulk_nb_alloc" alt="" coords="196,32,340,59"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#ga6c47168d8f6a226dd92d20685bd5780a" title="rpc_at_bulk_srecv" alt="" coords="388,7,516,33"/>
+<area shape="rect" id="node4" href="$d7/df1/group__rpc-at.html#ga243668a0f8e83f51672f793b7a7981c6" title="rpc_at_bulk_crecv" alt="" coords="388,57,516,84"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#ga319e88981dfdab821cd59e5309107efd" title="rpc_at_bulk_csend" alt="" coords="203,133,333,160"/>
+<area shape="rect" id="node6" href="$d7/df1/group__rpc-at.html#ga81da0e94c1de2e587b05f7fa2acda212" title="rpc_at_bulk_ssend" alt="" coords="203,184,333,211"/>
+</map>

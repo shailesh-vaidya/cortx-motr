@@ -1,0 +1,7 @@
+<map id="group_spare_freeblocks_get" name="group_spare_freeblocks_get">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a75a3847c2c362733235e558f2e30dcee" title="balloc_gi_sync" alt="" coords="272,5,380,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a62f9e3613c1b6523641c3d77f1980e17" title="balloc_is_good_group" alt="" coords="253,56,399,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#aba68616f57533d86db006db464fc8976" title="balloc_wild_scan_group" alt="" coords="246,107,406,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ae69edc18179ec56bcd41be9e08d0c278" title="balloc_try_best_found" alt="" coords="251,157,401,184"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#abade7fc19eb80bf1cc505db7be0446d3" title="is_free_space_unavailable" alt="" coords="239,208,413,235"/>
+</map>

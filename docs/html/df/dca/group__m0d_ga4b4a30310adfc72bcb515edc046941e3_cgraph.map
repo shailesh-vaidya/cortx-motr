@@ -1,0 +1,13 @@
+<map id="cs_conf_to_args" name="cs_conf_to_args">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga5614acafa8103ea4cfdcd417b729672b" title="m0_confc_from_obj" alt="" coords="189,5,325,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="219,56,295,83"/>
+<area shape="rect" id="node4" href="$d7/d99/conf_8c.html#a6fb6584d042df30287802801df325a66" title="option_add" alt="" coords="412,221,497,248"/>
+<area shape="rect" id="node5" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="172,157,343,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="421,145,488,172"/>
+<area shape="rect" id="node7" href="$d7/d99/conf_8c.html#a8f8de6174043f13757237eaa0f05f74d" title="service_and_node" alt="" coords="194,309,321,336"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="391,360,519,387"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="186,360,329,387"/>
+<area shape="rect" id="node10" href="$d7/d99/conf_8c.html#a25b6673b020b2b6d0ee65c9a49a45d5e" title="service_options_add" alt="" coords="187,208,328,235"/>
+<area shape="rect" id="node11" href="$d7/d99/conf_8c.html#a4bfdfce78c9ee79141f8ee72fa387b77" title="node_options_add" alt="" coords="194,461,321,488"/>
+<area shape="rect" id="node12" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="193,512,321,539"/>
+</map>

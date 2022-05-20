@@ -1,0 +1,26 @@
+var ktrace_8c =
+[
+    [ "m0_arch_trace_buf_header_init", "d8/d98/group__trace.html#ga615ef0ca39a02a408dbe2986f1905663", null ],
+    [ "m0_arch_trace_fini", "d8/d98/group__trace.html#ga56caeb90224f1e60f9e193fd0acf62ca", null ],
+    [ "m0_arch_trace_init", "d8/d98/group__trace.html#ga91bd3f82c67d9d18b75f0ed69666c414", null ],
+    [ "m0_console_flush", "d8/d98/group__trace.html#ga9d1e22facc94eebd3b0a6b0a5b9a6086", null ],
+    [ "m0_console_vprintf", "d8/d98/group__trace.html#ga3a3f51634798b2cb8c33c329b6bc961a", null ],
+    [ "m0_error_printf", "d8/d98/group__trace.html#gaa60e1a08469c6ae8bf5f0aef04d87474", null ],
+    [ "m0_trace_file_path_get", "d8/d98/group__trace.html#ga8560075c3da97abb7c0273809ea823e9", null ],
+    [ "m0_trace_get_stats", "d8/d98/group__trace.html#ga33e7e4eb06a2f636738252993677ec8e", null ],
+    [ "m0_trace_set_immediate_mask", "d8/d98/group__trace.html#gaafcfb9783fc06e399cf2273b325d6364", null ],
+    [ "m0_trace_stats_update", "d8/d98/group__trace.html#ga9812d0c69430d4068b1cd5ccd297b6e3", null ],
+    [ "module_param", "d8/d98/group__trace.html#gab6cb91791c5386fda969305e1a5ec2cf", null ],
+    [ "module_param", "d8/d98/group__trace.html#gab18bd883e589c06011701ad887bd5053", null ],
+    [ "module_param", "d8/d98/group__trace.html#gac0172bc10a68d1da1d3dc3c5bdaf9464", null ],
+    [ "module_param", "d8/d98/group__trace.html#ga746650d369ecdd963d803794f1975ec2", null ],
+    [ "MODULE_PARM_DESC", "d8/d98/group__trace.html#ga11d55c033772a51eedc5f521db56779c", null ],
+    [ "MODULE_PARM_DESC", "d8/d98/group__trace.html#gaa53e82ed74b3c9313dba2fc1d9876538", null ],
+    [ "MODULE_PARM_DESC", "d8/d98/group__trace.html#gaf7cce3339e4c88ac0ca76a5d75cfa629", null ],
+    [ "MODULE_PARM_DESC", "d8/d98/group__trace.html#gad71d75deba9029c3d83ae45154878d41", null ],
+    [ "stats", "d8/d98/group__trace.html#gad70adc7114601e33a46afca3bc5579f5", null ],
+    [ "trace_buf_size", "d8/d98/group__trace.html#gaa4d251b0a6ae608d1aa09212c6bda980", null ],
+    [ "trace_immediate_mask", "d8/d98/group__trace.html#gaf6e9aab362b3222043eb758d2126a34a", null ],
+    [ "trace_level", "d8/d98/group__trace.html#gacb9e9b91569004aae1b35a9d09298507", null ],
+    [ "trace_print_context", "d8/d98/group__trace.html#ga81ae60716a5ce0135083a7cfb9efbe3c", null ]
+];

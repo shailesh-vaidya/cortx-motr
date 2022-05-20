@@ -1,0 +1,9 @@
+<map id="test_fini" name="test_fini">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="328,5,495,32"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="344,58,479,99"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="344,126,479,167"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="135,257,266,284"/>
+<area shape="rect" id="node6" href="$d8/d01/group__net__buffer__pool.html#ga6a3e7055ae94f1e50574dc7c8816c284" title="m0_net_buffer_pool_fini" alt="" coords="121,105,280,132"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="377,197,446,224"/>
+<area shape="rect" id="node8" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="131,308,270,335"/>
+</map>

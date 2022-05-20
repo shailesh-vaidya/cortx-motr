@@ -1,0 +1,9 @@
+<map id="cas_req_reply_handle" name="cas_req_reply_handle">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#ga6eeeb69bb6f78fa5ab431e859b0bbf00" title="cas_rep" alt="" coords="432,34,500,60"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="548,59,645,86"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gad7a10be18a3621dc5c42e584f8dc7c64" title="cas_req_fsync_remid_copy" alt="" coords="202,34,383,60"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#gac5e588aef000ff82adae4f0cde388fc1" title="creq_kv_hold_down" alt="" coords="224,135,361,162"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gaf2d979af233312b28864ccc46435c975" title="m0_rpc_item_put_lock" alt="" coords="216,186,369,212"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="232,236,353,263"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga094001439ef761bb9e4e3080ac83ca48" title="cas_req_fragment_continue" alt="" coords="201,287,384,314"/>
+</map>

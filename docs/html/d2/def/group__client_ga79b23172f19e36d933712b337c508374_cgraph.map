@@ -1,0 +1,7 @@
+<map id="rm_lock_req_init" name="rm_lock_req_init">
+<area shape="rect" id="node2" href="$da/d7a/group___r_w_lock.html#gaec14c8481849e52572f1ceb59da13c75" title="m0_rm_rwlock_req_init" alt="" coords="171,5,327,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="375,31,464,57"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="195,107,302,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="199,157,298,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="182,208,315,235"/>
+</map>

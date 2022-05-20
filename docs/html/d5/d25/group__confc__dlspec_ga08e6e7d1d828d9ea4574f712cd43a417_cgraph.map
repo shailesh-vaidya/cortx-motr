@@ -1,0 +1,7 @@
+<map id="sm_waiter_init" name="sm_waiter_init">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga91bf72b4f1a8aac4121111c141d804d4" title="m0_confc_ctx_init" alt="" coords="163,5,291,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="341,31,440,57"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga0aa986b78822f877585d040634a3e998" title="sm__filter" alt="" coords="187,107,266,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="160,157,293,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="193,208,260,235"/>
+</map>

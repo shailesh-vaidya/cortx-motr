@@ -1,0 +1,36 @@
+<map id="m0_net_buffer_pool_lock" name="m0_net_buffer_pool_lock">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="282,5,367,32"/>
+<area shape="rect" id="node3" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#afcbd44181c1ea62dbb45b274fe7e76f5" title="test_cp_send_mismatch\l_epoch" alt="" coords="243,57,407,98"/>
+<area shape="rect" id="node4" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#adaa2b7376b4bc7d156db0e8ad443eddb" title="test_cp_send_recv_verify" alt="" coords="239,123,410,149"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#gaf9a189d26aa2801b1bec336d6610140c" title="m0_sns_cm_buffer_pool\l_provision" alt="" coords="243,174,406,215"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#gaf240bbad523eef960d83d64259b49ec0" title="buffer_pool_prune" alt="" coords="263,240,387,267"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga129054683e81f0834e07ca9cf1af044c" title="m0_sns_cm_buf_wait" alt="" coords="250,291,399,317"/>
+<area shape="rect" id="node8" href="$d7/daf/group___s_n_s_c_m.html#ga618ec79ee3ba6783b0b2298925f4fb95" title="m0_sns_cm_buf_attach" alt="" coords="244,341,405,368"/>
+<area shape="rect" id="node9" href="$d7/daf/group___s_n_s_c_m.html#ga75a8df840377548e4f48c361338ffb89" title="m0_sns_cm_has_space_for" alt="" coords="232,392,417,419"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#gabd60cea1eeaac8df2ef0d672a510830e" title="m0_sns_cm_reserve_space" alt="" coords="232,443,417,469"/>
+<area shape="rect" id="node11" href="$d7/daf/group___s_n_s_c_m.html#ga2f7a24ac31fc21fead44f9dfd50386a8" title="m0_sns_cm_cancel_reservation" alt="" coords="220,493,429,520"/>
+<area shape="rect" id="node12" href="$d0/d80/group___c_p.html#ga22d931f00946818998815eb22db7f10d" title="m0_cm_cp_buf_release" alt="" coords="245,544,405,571"/>
+<area shape="rect" id="node13" href="$d9/dc2/group__io__foms.html#ga20ae6ec9dfefec8f5eb40e1f8070ee01" title="net_buffer_acquire" alt="" coords="261,595,389,621"/>
+<area shape="rect" id="node14" href="$d9/dc2/group__io__foms.html#ga97e9ddd75a5855c72136e6ee6ccab612" title="nbuf_release_done" alt="" coords="259,645,390,672"/>
+<area shape="rect" id="node15" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="245,696,404,723"/>
+<area shape="rect" id="node16" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga9bfc314511ba60e341f0740c2c56c9eb" title="m0_ios_create_buffer_pool" alt="" coords="477,749,655,776"/>
+<area shape="rect" id="node17" href="$db/d53/bulkio__ut_8c.html#a0c0021e0d4d5c63dea4e5c613817a5dd" title="empty_buffers_pool" alt="" coords="257,1051,392,1077"/>
+<area shape="rect" id="node18" href="$db/d53/bulkio__ut_8c.html#a3edf7bbdd80a234d3e94166897a255a4" title="check_write_fom_tick" alt="" coords="491,1076,641,1103"/>
+<area shape="rect" id="node19" href="$db/d53/bulkio__ut_8c.html#ad64f68d8d9cae9a924a039c1a717afde" title="check_read_fom_tick" alt="" coords="493,1140,639,1167"/>
+<area shape="rect" id="node20" href="$db/d53/bulkio__ut_8c.html#a12d8d9eafcfb69d0eec60190f10bcfe8" title="release_one_buffer" alt="" coords="259,1101,390,1128"/>
+<area shape="rect" id="node21" href="$db/d53/bulkio__ut_8c.html#a509b9f4b453461070c655c3196a66f24" title="fill_buffers_pool" alt="" coords="269,1152,381,1179"/>
+<area shape="rect" id="node22" href="$d8/d01/group__net__buffer__pool.html#ga6a3e7055ae94f1e50574dc7c8816c284" title="m0_net_buffer_pool_fini" alt="" coords="245,848,404,875"/>
+<area shape="rect" id="node23" href="$d7/dfe/buffer__pool__ut_8c.html#accd2b6e71712d5b3683c70754cdd6722" title="test_fini" alt="" coords="532,805,600,832"/>
+<area shape="rect" id="node24" href="$d3/d8c/tm__provision__ut_8c.html#aa062adb23a2556f9eb61a768311e5e64" title="test_net_tm_prov" alt="" coords="505,867,627,893"/>
+<area shape="rect" id="node25" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="486,939,646,981"/>
+<area shape="rect" id="node26" href="$d0/d50/group__net__pvt.html#ga8ba7ab498de3ba7b1e9818dfa25708d0" title="m0_net__tm_provision\l_recv_q" alt="" coords="248,1254,401,1295"/>
+<area shape="rect" id="node27" href="$d7/dfe/buffer__pool__ut_8c.html#acba08c3a3319512a31cf338a9871f1a5" title="test_init" alt="" coords="291,1320,359,1347"/>
+<area shape="rect" id="node28" href="$d7/dfe/buffer__pool__ut_8c.html#a7e397b420ebcaba12c8ae7c0ec57b7a7" title="test_get_put" alt="" coords="277,1371,372,1397"/>
+<area shape="rect" id="node29" href="$d7/dfe/buffer__pool__ut_8c.html#a056d8fcec335c87e78165d32f4d1567e" title="test_get_put_colour" alt="" coords="257,1421,393,1448"/>
+<area shape="rect" id="node30" href="$d7/dfe/buffer__pool__ut_8c.html#a2b7d733ce26f673ebc8c403b6846767b" title="test_grow" alt="" coords="285,1472,364,1499"/>
+<area shape="rect" id="node31" href="$d7/dfe/buffer__pool__ut_8c.html#a707430924a9feee691f58b02fc0204f2" title="test_prune" alt="" coords="283,1523,366,1549"/>
+<area shape="rect" id="node32" href="$d7/dfe/buffer__pool__ut_8c.html#a4c62e6d9ec5c37525da477e69a74a171" title="test_get_put_multiple" alt="" coords="493,1599,639,1625"/>
+<area shape="rect" id="node33" href="$d7/dfe/buffer__pool__ut_8c.html#ac94f759827073e859d915c4077a01439" title="buffers_get_put" alt="" coords="269,1624,380,1651"/>
+<area shape="rect" id="node34" href="$d3/d8c/tm__provision__ut_8c.html#ae12b268ac12266d77cae355410c68136" title="ut_prov_msg_recv_cb" alt="" coords="249,1675,400,1701"/>
+<area shape="rect" id="node35" href="$db/de9/group__rpc.html#ga3ad6cf0ef81c71fa5960ee72f0357563" title="rpc_recv_pool_buffer_put" alt="" coords="241,1725,408,1752"/>
+</map>

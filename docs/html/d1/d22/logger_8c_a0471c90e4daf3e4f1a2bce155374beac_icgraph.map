@@ -1,0 +1,26 @@
+<map id="cr_log" name="cr_log">
+<area shape="rect" id="node2" href="$d8/d42/group__crate.html#gafbf3b835866102dee8142a0b288c6647" title="getrnd" alt="" coords="153,54,212,80"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga589abf996b5a3483a4deb16394a1bff2" title="hpcs_op_get" alt="" coords="305,16,401,43"/>
+<area shape="rect" id="node4" href="$d8/d42/group__crate.html#gae23737ab2750f47d25874011c1a2c129" title="csum_op_get" alt="" coords="303,79,403,106"/>
+<area shape="rect" id="node5" href="$d8/d42/group__crate.html#ga472dbfe82fe2ac718b9b11fa6fc26681" title="workload_op_get" alt="" coords="123,155,243,182"/>
+<area shape="rect" id="node6" href="$db/d82/group__crate__workload.html#ga81529198acbb537e615470182e4c2471" title="workload_start" alt="" coords="129,256,236,283"/>
+<area shape="rect" id="node7" href="$d8/d42/group__crate.html#ga3dd35eff80ffcf9d6c29d575ab0d866a" title="hpcs_run" alt="" coords="315,256,390,283"/>
+<area shape="rect" id="node8" href="$d8/d42/group__crate.html#gae5c5caa7dced60af0078882c44092b90" title="csum_run" alt="" coords="313,307,392,334"/>
+<area shape="rect" id="node9" href="$d8/d42/group__crate.html#gaaf304b80ed8d14f7d4ed92c8db4cd1cb" title="run" alt="" coords="333,358,373,384"/>
+<area shape="rect" id="node10" href="$db/d82/group__crate__workload.html#ga4a7f2f9af0aa0e75dc2a45ca33b3e611" title="workload_join" alt="" coords="132,307,233,334"/>
+<area shape="rect" id="node11" href="$d8/d42/group__crate.html#gaf8d06c917deff1e1bbd3dcaf30469492" title="workload_run" alt="" coords="458,510,557,536"/>
+<area shape="rect" id="node12" href="$d8/d42/group__crate.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="612,535,663,562"/>
+<area shape="rect" id="node13" href="$d8/d42/group__crate.html#gaf7d9f53c8946ff28ddfd14ba4644e61c" title="hpcs_op_run" alt="" coords="135,712,231,739"/>
+<area shape="rect" id="node14" href="$d8/d42/group__crate.html#gac516ee6fd67e2de906cc6b9cec997c25" title="print_workload_detail" alt="" coords="111,763,255,790"/>
+<area shape="rect" id="node15" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="163,814,202,840"/>
+<area shape="rect" id="node16" href="$dd/d85/crate__io_8c.html#affb2c239144a7e8eae9a90b90d0ed515" title="cr_op_failed" alt="" coords="137,915,229,942"/>
+<area shape="rect" id="node17" href="$dd/d85/crate__io_8c.html#a553789f4859bf97ce64fb975a36b0c10" title="cr_op_namei" alt="" coords="305,890,401,916"/>
+<area shape="rect" id="node18" href="$dd/d85/crate__io_8c.html#a3d357ad30b0d0b69a3400b0d9c6dd75b" title="cr_op_io" alt="" coords="317,952,388,979"/>
+<area shape="rect" id="node19" href="$dd/d85/crate__io_8c.html#ac1262f45ee120db645039faada52ebd5" title="cr_buffer_read" alt="" coords="131,1016,235,1043"/>
+<area shape="rect" id="node20" href="$dd/d85/crate__io_8c.html#affea6e6bf2f21bf60218009d14ccd2f3" title="cr_get_oids" alt="" coords="138,1067,227,1094"/>
+<area shape="rect" id="node21" href="$d8/d42/group__crate.html#ga7d1707eff761b3dfa6d8d751ac2284cd" title="m0_op_run" alt="" coords="139,1118,226,1144"/>
+<area shape="rect" id="node22" href="$d1/dc0/group__crate__utils.html#gaf79f543de8d420b27f2367b8c5854602" title="getnum" alt="" coords="150,662,215,688"/>
+<area shape="rect" id="node23" href="$d8/d88/motr_2m0crate_2parser_8c.html#ac7a2c88a26075b1980d02c1af3cadac2" title="copy_value" alt="" coords="309,611,397,638"/>
+<area shape="rect" id="node24" href="$d6/db8/group__crate__parser.html#ga7b067fcba2ae61562ddb146d04afa2fb" title="parse_yaml_file" alt="" coords="451,560,564,587"/>
+<area shape="rect" id="node25" href="$d1/d22/logger_8c.html#ac51f10ffff228bf48470d3c163774a21" title="cr_log_ex" alt="" coords="143,1168,222,1195"/>
+</map>

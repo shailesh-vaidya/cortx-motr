@@ -1,0 +1,6 @@
+<map id="server2_tests" name="server2_tests">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="175,5,281,32"/>
+<area shape="rect" id="node3" href="$db/d70/group_8c.html#a3ab5609a92d591483156c4bd4a6fb211" title="group_borrow_run" alt="" coords="165,56,291,83"/>
+<area shape="rect" id="node4" href="$db/d70/group_8c.html#a8ad214b2048fb88b5a86acc219f1db51" title="group_borrow_verify" alt="" coords="159,107,297,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="155,157,301,184"/>
+</map>

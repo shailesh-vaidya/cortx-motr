@@ -1,0 +1,8 @@
+<map id="getattr_rpc_item_reply_cb" name="getattr_rpc_item_reply_cb">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="433,115,475,142"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="235,39,375,66"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="240,90,371,116"/>
+<area shape="rect" id="node5" href="$d9/d05/group__bulkclient_d_f_s.html#gaaebd2e6fc4a1de82be17f5e4b200ac0c" title="m0_is_cob_getattr_fop" alt="" coords="228,140,383,167"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="257,191,354,218"/>
+<area shape="rect" id="node7" href="$d4/d4c/md__foms_8c.html#a3d91426c271d95ab40b1416edde854bc" title="m0_md_cob_wire2mem" alt="" coords="225,242,385,268"/>
+</map>

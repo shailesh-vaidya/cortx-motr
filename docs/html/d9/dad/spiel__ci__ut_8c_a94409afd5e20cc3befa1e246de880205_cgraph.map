@@ -1,0 +1,8 @@
+<map id="spiel_repair_start" name="spiel_repair_start">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#ga1006230964c5b12d8b039ec6e0690141" title="m0_spiel_sns_repair\l_start" alt="" coords="175,5,316,47"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga21e2a7143089f9c3692e01a04820e65a" title="m0_spiel_dix_repair\l_start" alt="" coords="177,71,314,112"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga8e8a0f7f67abe316bae0effe47728852" title="m0_spiel_sns_repair\l_status" alt="" coords="175,136,316,177"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2c55fc7293cd34b83e8d45366d887d7a" title="m0_spiel_dix_repair\l_status" alt="" coords="177,201,314,243"/>
+<area shape="rect" id="node6" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="204,267,287,294"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="211,318,280,345"/>
+</map>

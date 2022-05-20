@@ -1,0 +1,7 @@
+<map id="m0_sm_ast_wait" name="m0_sm_ast_wait">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gaa7f51358c062449485211bd02b3edb66" title="m0_sm_ast_wait_prepare" alt="" coords="180,5,351,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="205,56,325,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga58967835f247d49ee6c18b0cea4b6b46" title="m0_sm_ast_wait_loop" alt="" coords="189,107,341,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="212,157,319,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga2d1956bcff0e6c5446de54e9be3f1b2a" title="m0_sm_ast_wait_complete" alt="" coords="175,208,356,235"/>
+</map>

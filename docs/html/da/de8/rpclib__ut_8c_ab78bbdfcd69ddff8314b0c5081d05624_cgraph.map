@@ -1,0 +1,7 @@
+<map id="test_m0_rpc_client_start" name="test_m0_rpc_client_start">
+<area shape="rect" id="node2" href="$d7/da0/clnt__srv__ctx_8c.html#a15466eefb188bead757445784bc7a940" title="sctx_reset" alt="" coords="215,5,297,32"/>
+<area shape="rect" id="node3" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="185,56,327,83"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="189,107,323,133"/>
+<area shape="rect" id="node5" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="188,157,324,184"/>
+<area shape="rect" id="node6" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="186,208,326,235"/>
+</map>

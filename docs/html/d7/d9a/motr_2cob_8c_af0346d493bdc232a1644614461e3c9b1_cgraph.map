@@ -1,0 +1,8 @@
+<map id="cob_req_alloc" name="cob_req_alloc">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="201,5,275,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="203,56,273,83"/>
+<area shape="rect" id="node4" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="195,107,281,133"/>
+<area shape="rect" id="node5" href="$d7/d9a/motr_2cob_8c.html#a0fc05786b1c4e0d1046ad74cc2f4b95b" title="cob_req_ref_release" alt="" coords="169,157,307,184"/>
+<area shape="rect" id="node6" href="$df/dca/lib_2misc_8c.html#a0fecf3ca8cbf0000c35d5b3d70d640dd" title="m0_dummy_id_generate" alt="" coords="156,208,320,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="174,259,302,285"/>
+</map>

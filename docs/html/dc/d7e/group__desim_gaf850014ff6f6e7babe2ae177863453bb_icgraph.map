@@ -1,0 +1,8 @@
+<map id="sim_chan_init" name="sim_chan_init">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga5bd5fb4dd545162f1f6fab1e98708b51" title="net_srv_init" alt="" coords="157,5,247,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#gaebbf2f8d8999c6544e5de5a2883b2faf" title="m0t1fs_init" alt="" coords="296,31,383,57"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga175ff8fdfb47687d7d06c106e76f5ef5" title="net_init" alt="" coords="170,107,234,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gad9936bd72a74a5dd058d487ea9373792" title="net_rpc_init" alt="" coords="157,157,247,184"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#gad4462027baecb5a5139cf4304807062e" title="client_init" alt="" coords="163,208,241,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#ga7a83aa340b6710546e753ac38be65ca7" title="elevator_init" alt="" coords="156,259,248,285"/>
+</map>

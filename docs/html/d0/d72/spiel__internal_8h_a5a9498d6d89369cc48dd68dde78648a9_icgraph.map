@@ -1,0 +1,7 @@
+<map id="spiel_rmachine" name="spiel_rmachine">
+<area shape="rect" id="node2" href="$d9/d50/group__spiel-api-fspec.html#ga8e68c9c0b50fc19a21cbebea15130061" title="m0_spiel_process_list\l_services" alt="" coords="163,5,313,47"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga5d371793510639168c8f67ef96d32577" title="spiel_load_fop_create" alt="" coords="164,71,312,98"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#gafeb98cb4976c28abae6bd4e927fc91b4" title="wlock_ctx_create" alt="" coords="176,122,300,149"/>
+<area shape="rect" id="node5" href="$d9/d50/group__spiel-api-fspec.html#ga7352002b4d673754a2423859cb6bd0e5" title="m0_spiel_tx_commit\l_forced" alt="" coords="361,191,504,232"/>
+<area shape="rect" id="node6" href="$d9/d50/group__spiel-api-fspec.html#ga93e4575c66649f04441005a321e8ad1d" title="m0_spiel_rconfc_start" alt="" coords="163,223,313,250"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_net_test_ringbuf_pop" name="m0_net_test_ringbuf_pop">
+<area shape="rect" id="node2" href="$d9/d9e/group___net_test_commands_d_f_s.html#gadbec1cc50906a917313bfba98ebd6c23" title="m0_net_test_commands_recv" alt="" coords="221,5,419,32"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#ga021fb48b0d908f8cabc07d5c96564c0a" title="node_bulk_state_transition\l_auto_all" alt="" coords="231,57,409,98"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#ga947672699590adaf7fdb3f5737609880" title="server_process_unused_ping" alt="" coords="225,123,415,149"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga69cb493bcce0ea7fc8e26fda116d8405" title="node_bulk_server_transfer\l_start" alt="" coords="233,174,407,215"/>
+<area shape="rect" id="node6" href="$dd/da5/group___net_test_bulk_node_internals.html#gae958234f9c9562dd6172f4f509238e9f" title="client_process_unused_bulk" alt="" coords="227,240,413,267"/>
+<area shape="rect" id="node7" href="$dd/da5/group___net_test_bulk_node_internals.html#gabc2ea6bf9c542380c53a434cc1204017" title="client_bds_send" alt="" coords="262,291,378,317"/>
+<area shape="rect" id="node8" href="$dd/da5/group___net_test_bulk_node_internals.html#ga31538d009a0ca504ebc003602aa7206f" title="client_process_queued_bulk" alt="" coords="467,316,653,343"/>
+<area shape="rect" id="node9" href="$da/d84/group___net_test_ping_node_internals.html#gadefb080f43cb93dc2832ea0f1577b922" title="node_ping_worker" alt="" coords="257,392,383,419"/>
+<area shape="rect" id="node10" href="$d1/dfd/ut_2ringbuf_8c.html#aa084188900a335648524727d2f44dc30" title="ringbuf_push_pop" alt="" coords="258,443,382,469"/>
+<area shape="rect" id="node11" href="$d1/dfd/ut_2ringbuf_8c.html#a30a6f2f1043f2f6b4fe92a2f59d5c1f8" title="m0_net_test_ringbuf_ut" alt="" coords="481,468,639,495"/>
+</map>

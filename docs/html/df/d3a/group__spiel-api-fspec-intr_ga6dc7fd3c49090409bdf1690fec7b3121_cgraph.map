@@ -1,0 +1,15 @@
+<map id="spiel_pool__device_collection_fill" name="spiel_pool__device_collection_fill">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#ga392658a87434161928daacf0162738eb" title="_filter_pool" alt="" coords="228,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="244,107,297,133"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="411,69,525,96"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="404,132,532,159"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="185,208,356,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="435,259,501,285"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#ga7c96d9b2c7e30a4c76824c95632073ce" title="_filter_objv" alt="" coords="228,309,313,336"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="199,360,342,387"/>
+<area shape="rect" id="node10" href="$dd/d7b/group__conf__dlspec__objops.html#gacb5a46061ba2abadd41969f918326a39" title="m0_conf_obj_get_lock" alt="" coords="195,411,347,437"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#ga70dff6d782b0e9eb1f5d45c15bfbe869" title="spiel_pool_device_collect" alt="" coords="185,461,356,488"/>
+<area shape="rect" id="node12" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="409,512,527,539"/>
+<area shape="rect" id="node13" href="$dd/d7b/group__conf__dlspec__objops.html#gacc98aded84d2e0d8f34880ad2db4c727" title="m0_conf_obj_put" alt="" coords="580,537,701,564"/>
+<area shape="rect" id="node14" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="207,613,335,640"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="test_net_modules" name="test_net_modules">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="203,5,268,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="179,56,292,83"/>
+<area shape="rect" id="node4" href="$d7/da6/group__module.html#gaf67b9c80ea6d4020e59668be75fe8cac" title="m0_module_fini" alt="" coords="179,107,292,133"/>
+</map>

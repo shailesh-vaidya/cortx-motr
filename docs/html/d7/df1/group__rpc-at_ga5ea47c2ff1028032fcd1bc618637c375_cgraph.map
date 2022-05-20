@@ -1,0 +1,11 @@
+<map id="rpc_at_bulk_fini" name="rpc_at_bulk_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf80bc32fa31b96a5f3790b13a037a21b" title="m0_rpc_bulk_is_empty" alt="" coords="364,20,520,47"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#ga5b00eb59654c1a6d52387240b9b8e90e" title="rpc_at_bulk_qtype" alt="" coords="177,45,305,72"/>
+<area shape="rect" id="node4" href="$d7/df1/group__rpc-at.html#gac53a61dad7c68441e2ef34b1e8b534d9" title="rpc_at_bulk_store_del" alt="" coords="167,96,316,123"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga8d23794d6c38cb94c3c7ee91031826ef" title="m0_rpc_bulk_buflist\l_empty" alt="" coords="172,147,311,189"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gaac880a484c7139d4c4761d55291c3104" title="m0_rpc_bulk_fini" alt="" coords="181,213,301,240"/>
+<area shape="rect" id="node7" href="$d8/d64/group__buf.html#gab5e0f6d1f372dc267c5f9795e4eae6bf" title="m0_buf_is_set" alt="" coords="188,264,295,291"/>
+<area shape="rect" id="node8" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="194,315,289,341"/>
+<area shape="rect" id="node9" href="$d7/df1/group__rpc-at.html#ga87203ab55b104ef73716ebba1b56abfc" title="rpc_at_bulk_nb_free" alt="" coords="172,365,311,392"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,416,276,443"/>
+</map>

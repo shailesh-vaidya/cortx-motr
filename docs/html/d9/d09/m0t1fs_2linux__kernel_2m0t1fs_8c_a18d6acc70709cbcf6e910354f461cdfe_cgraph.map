@@ -1,0 +1,25 @@
+<map id="m0t1fs_init" name="m0t1fs_init">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga6ebb07a74e69dd30872301ad49d6fbb2" title="m0_addb2_global_get" alt="" coords="151,5,299,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="172,56,279,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="170,259,281,285"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="359,157,435,184"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="170,208,281,235"/>
+<area shape="rect" id="node7" href="$df/d1d/fsync__fops_8c.html#a929279cf08662994d10a638b2ee62f75" title="m0_mdservice_fsync\l_fop_init" alt="" coords="152,513,299,554"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="363,520,430,547"/>
+<area shape="rect" id="node9" href="$da/dda/io__fops_8c.html#a0cca6aa7b5ba93a18bbc8d9657d030ee" title="m0_ioservice_fop_init" alt="" coords="151,360,299,387"/>
+<area shape="rect" id="node10" href="$d5/d42/md__fops_8c.html#a4ff4b50ffadd72de7573c4a568476cb2" title="m0_mdservice_fop_init" alt="" coords="147,411,303,437"/>
+<area shape="rect" id="node11" href="$d0/d9c/group__process__fop.html#ga7e79213d365f230e545a60c4ccae5700" title="m0_ss_process_fops_init" alt="" coords="140,461,311,488"/>
+<area shape="rect" id="node12" href="$d8/d2b/inode_8c.html#a1c9b9dcd8b76f557bbc5270f72efb4eb" title="m0t1fs_inode_cache_init" alt="" coords="142,309,309,336"/>
+<area shape="rect" id="node13" href="$d0/d9e/group__addb2.html#ga9401f9f09e326c97a837269053125dc5" title="m0_addb2_sys_sm_start" alt="" coords="141,579,309,605"/>
+<area shape="rect" id="node14" href="$d0/d9e/group__addb2.html#gac2f57be9c69e56ab605276b53ebd1727" title="m0_addb2_sys_net_start" alt="" coords="141,157,309,184"/>
+<area shape="rect" id="node15" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="158,680,293,707"/>
+<area shape="rect" id="node16" href="$d0/d9e/group__addb2.html#gaeddde06addbdd7b726ca60b71917a478" title="m0_addb2_sys_net_stop" alt="" coords="142,731,309,757"/>
+<area shape="rect" id="node17" href="$d0/d9e/group__addb2.html#ga0f4c3d3c04a275fbb1d67eb0409f8e03" title="m0_addb2_sys_sm_stop" alt="" coords="142,781,309,808"/>
+<area shape="rect" id="node18" href="$d8/d2b/inode_8c.html#aee4f294c36dd72bab213e13192697ccf" title="m0t1fs_inode_cache_fini" alt="" coords="142,832,309,859"/>
+<area shape="rect" id="node19" href="$d0/d9c/group__process__fop.html#gaf84673cd3cb1f66e46c2cdaa50c5ddc1" title="m0_ss_process_fops_fini" alt="" coords="140,883,311,909"/>
+<area shape="rect" id="node20" href="$d5/d42/md__fops_8c.html#afd95ffe0af24dd298153d0d4e5f8315d" title="m0_mdservice_fop_fini" alt="" coords="147,933,303,960"/>
+<area shape="rect" id="node21" href="$da/dda/io__fops_8c.html#ac862064a83d1414bafc7f232c29ff297" title="m0_ioservice_fop_fini" alt="" coords="151,984,299,1011"/>
+<area shape="rect" id="node22" href="$df/d1d/fsync__fops_8c.html#a4c642fdd34e2c2a51ef228434ed1dbb4" title="m0_mdservice_fsync\l_fop_fini" alt="" coords="152,1035,299,1077"/>
+<area shape="rect" id="node23" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="170,1101,281,1128"/>
+<area shape="rect" id="node24" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="172,1152,279,1179"/>
+</map>

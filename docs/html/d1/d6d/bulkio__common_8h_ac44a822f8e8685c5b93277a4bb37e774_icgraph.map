@@ -1,0 +1,6 @@
+<map id="io_fops_rpc_submit" name="io_fops_rpc_submit">
+<area shape="rect" id="node2" href="$db/d53/bulkio__ut_8c.html#a54544bd9fcf188398505bf2b4dae4651" title="bulkio_stob_create" alt="" coords="198,5,329,32"/>
+<area shape="rect" id="node3" href="$db/d53/bulkio__ut_8c.html#a5f30b40c6698681e26637cc43c049d43" title="io_fops_submit" alt="" coords="208,56,319,83"/>
+<area shape="rect" id="node4" href="$db/d53/bulkio__ut_8c.html#ad4cacd856a0e48d7ec932d5f901a4455" title="bulkio_server_fsync\l_multiple_read_write" alt="" coords="193,107,334,149"/>
+<area shape="rect" id="node5" href="$db/d53/bulkio__ut_8c.html#a5af1e1a4bb5f7011902d00e974472ec3" title="bulkio_server_multiple\l_read_write" alt="" coords="188,173,339,214"/>
+</map>

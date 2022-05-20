@@ -1,0 +1,9 @@
+<map id="decode_msg" name="decode_msg">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7be2f145dc9b5b3220c69a52f0409b25" title="cur" alt="" coords="361,91,401,118"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="155,41,308,67"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="151,91,312,118"/>
+<area shape="rect" id="node5" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a797fd1064bdab3132ace55fa9a751d6b" title="netbuf_step" alt="" coords="186,142,277,169"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="194,193,269,219"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga99b661d2a7ae85138c17689090b8d4f1" title="m0_bufvec_cursor_copy" alt="" coords="149,243,313,270"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#gad481d7c4ffe49912e0cca7c0262baa0b" title="m0_bufvec_cursor_step" alt="" coords="151,294,312,321"/>
+</map>

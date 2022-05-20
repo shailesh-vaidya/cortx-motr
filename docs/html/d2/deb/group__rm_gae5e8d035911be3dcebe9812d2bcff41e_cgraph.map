@@ -1,0 +1,11 @@
+<map id="resource_locate" name="resource_locate">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="179,5,324,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="202,56,301,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="200,107,303,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga2a137d7a45b6ca434c61f4ab4f4d5dee" title="m0_rm_remote_resource\l_locate" alt="" coords="168,158,335,199"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="198,224,305,251"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="213,275,289,301"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="202,325,301,352"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="202,376,301,403"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="218,427,285,453"/>
+</map>

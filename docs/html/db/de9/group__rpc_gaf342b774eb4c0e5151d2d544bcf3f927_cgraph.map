@@ -1,0 +1,16 @@
+<map id="frm_fill_packet" name="frm_fill_packet">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga2124b5ee88d7b1754e8b6dbd18260b4f" title="frm_invariant" alt="" coords="193,5,291,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gae8212ba836407b9f5a836b028c3ede6d" title="available_space_in\l_packet" alt="" coords="619,251,751,293"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga34f436a05b7ff78c20e074fc3907ac61" title="item_will_exceed_packet_size" alt="" coords="372,259,571,285"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="160,731,324,757"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gafc2d206690b3e288dc1ce7ff6c2b5cbe" title="frm_remove" alt="" coords="197,208,287,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="410,208,533,235"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="640,360,729,387"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="388,563,555,589"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="623,512,746,539"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga5b7c6e21e4a8d1ddce2554cb29e348b4" title="item_supports_merging" alt="" coords="163,781,321,808"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gab8b05479a023472290e68ab0d775235a" title="frm_try_merging_item" alt="" coords="397,107,545,133"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#ga536eb429cebfab138e4a062d0f178bed" title="m0_rpc_packet_add_item" alt="" coords="386,512,557,539"/>
+<area shape="rect" id="node14" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="398,614,545,655"/>
+<area shape="rect" id="node15" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="172,411,312,453"/>
+</map>

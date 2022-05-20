@@ -1,0 +1,9 @@
+<map id="m0_rconfc_start" name="m0_rconfc_start">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="531,132,589,159"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="385,208,452,235"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gae16fd577a37c9b7520601b36797d1a3c" title="rconfc_local_load" alt="" coords="177,259,299,285"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#gaa6c3f77c06b8efa25c89578f867ca6f6" title="m0_rconfc_lock" alt="" coords="361,309,476,336"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga5bd0b9cb0ab8d117a53d8abffa19c0bd" title="m0_rconfc_unlock" alt="" coords="355,157,483,184"/>
+<area shape="rect" id="node7" href="$db/d90/group__rconfc__dlspec.html#ga92b8e301323dee8d0b7a15e473bf3cd2" title="rconfc_ast_post" alt="" coords="181,5,295,32"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gaafbaaf4ec28ed6dc897804c6b44c11a2" title="rconfc_start_ast_cb" alt="" coords="169,56,307,83"/>
+</map>

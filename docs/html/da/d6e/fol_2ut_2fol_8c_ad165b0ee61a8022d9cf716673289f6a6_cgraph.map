@@ -1,0 +1,8 @@
+<map id="test_fol_frag_encdec" name="test_fol_frag_encdec">
+<area shape="rect" id="node2" href="$d1/d12/group__fol.html#ga6ee0cdc7b06bb4d36e934a25bf23a5bb" title="m0_fol_rec_init" alt="" coords="208,5,319,32"/>
+<area shape="rect" id="node3" href="$d1/d12/group__fol.html#gabc3c1398a9e911d9b8fa46511c0c8095" title="m0_fol_frag_init" alt="" coords="381,81,495,108"/>
+<area shape="rect" id="node4" href="$d1/d12/group__fol.html#gae8d9713b880afa64e53208c3a2b09ad4" title="m0_fol_frag_add" alt="" coords="379,183,497,209"/>
+<area shape="rect" id="node5" href="$d1/d12/group__fol.html#ga231dcbcea4a3b5aa0eeacab5700f6422" title="m0_fol_rec_encode" alt="" coords="196,157,331,184"/>
+<area shape="rect" id="node6" href="$d1/d12/group__fol.html#ga3f4f1a824e9a9f69cc897392f01ae9d2" title="m0_fol_rec_fini" alt="" coords="208,208,319,235"/>
+<area shape="rect" id="node7" href="$d1/d12/group__fol.html#ga240300d5ac437dd9b6b354a94848807e" title="m0_fol_rec_decode" alt="" coords="196,107,331,133"/>
+</map>

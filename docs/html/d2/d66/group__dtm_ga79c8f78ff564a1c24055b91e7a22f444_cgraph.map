@@ -1,0 +1,6 @@
+<map id="dtx_fini" name="dtx_fini">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="319,59,464,86"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="149,30,239,57"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gacabad30fa4970ce192591dea825f3754" title="m0_dtm0_tx_desc_fini" alt="" coords="117,81,271,107"/>
+<area shape="rect" id="node5" href="$de/d0c/group___d_t_m0_internals.html#ga3223c18144d1871714b11d66d3fa5452" title="m0_be_dtm0_volatile\l_log_del" alt="" coords="121,132,267,173"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="test_obj_xtors" name="test_obj_xtors">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#ga93621565b39a6e205481de9c0a4f6f25" title="m0_conf_obj_type_next" alt="" coords="157,5,317,32"/>
+<area shape="rect" id="node3" href="$dd/df9/group__conf__dfspec__obj.html#ga3bd15da27e515c8627be1be2a5b0002f" title="m0_conf_fid_is_valid" alt="" coords="165,56,309,83"/>
+<area shape="rect" id="node4" href="$dd/d7b/group__conf__dlspec__objops.html#gac42c23f1d8b2888c97ab0fd119bce4ad" title="m0_conf_obj_create" alt="" coords="168,107,307,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="165,157,310,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#ga7b1d9b1879b021ed5c57ebb1a97dfe29" title="m0_conf_obj_delete" alt="" coords="168,208,307,235"/>
+<area shape="rect" id="node7" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="158,259,317,285"/>
+</map>

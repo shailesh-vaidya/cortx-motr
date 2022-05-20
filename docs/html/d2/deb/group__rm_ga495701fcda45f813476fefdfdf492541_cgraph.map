@@ -1,0 +1,7 @@
+<map id="credit_eq" name="credit_eq">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga9b069e05858c758aeae83b6a9af54a4a" title="m0_rm_credit_init" alt="" coords="133,5,259,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaa38562806494d2a16c9c9ca2dbf749b9" title="m0_rm_credit_copy" alt="" coords="128,56,264,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga38eb9127b511d639e9b9b2fbdae1db20" title="credit_is_empty" alt="" coords="312,81,427,108"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga275fafc7afad42be9468a66e9aeaf8f1" title="credit_diff" alt="" coords="157,157,235,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="133,208,259,235"/>
+</map>

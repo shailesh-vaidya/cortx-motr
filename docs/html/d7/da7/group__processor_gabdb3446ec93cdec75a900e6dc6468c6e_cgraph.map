@@ -1,0 +1,14 @@
+<map id="processors_summary_get" name="processors_summary_get">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga0afbb1796823b32f756c2adf6720dd9b" title="processor_maxsz_get" alt="" coords="235,5,386,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="461,107,537,133"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#gad5bd696c0cdad55e6219d35595afe2d3" title="processor_map_type_set" alt="" coords="227,157,395,184"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="466,183,533,209"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="444,360,555,387"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="603,411,672,437"/>
+<area shape="rect" id="node8" href="$dd/d12/group__list.html#gae479855d2a4231a12ad18ac0ebd7d285" title="m0_list_init" alt="" coords="267,309,355,336"/>
+<area shape="rect" id="node9" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="255,360,366,387"/>
+<area shape="rect" id="node10" href="$d7/da7/group__processor.html#ga58ee54c26629cc49a3776b14db851e36" title="processor_cache_destroy" alt="" coords="225,411,396,437"/>
+<area shape="rect" id="node11" href="$d7/da7/group__processor.html#ga9b6f6c3093c6653a6a8afb5a1dfc271f" title="processor_info_get" alt="" coords="245,107,377,133"/>
+<area shape="rect" id="node12" href="$dd/d12/group__list.html#gac5ee57b03153cb03b020dba5a19d9555" title="m0_list_add" alt="" coords="265,512,357,539"/>
+<area shape="rect" id="node13" href="$dd/d12/group__list.html#gab8fa44f932c853ec075bd76504c84768" title="m0_list_is_empty" alt="" coords="249,563,373,589"/>
+</map>

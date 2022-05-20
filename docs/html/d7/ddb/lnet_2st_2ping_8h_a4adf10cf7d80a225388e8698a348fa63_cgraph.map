@@ -1,0 +1,6 @@
+<map id="nlx_ping_server_should_stop" name="nlx_ping_server_should_stop">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="251,5,365,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga57339950d21ecc706c5f2e623647f122" title="m0_chan_signal" alt="" coords="420,81,536,108"/>
+<area shape="rect" id="node4" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="250,107,366,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="244,157,372,184"/>
+</map>

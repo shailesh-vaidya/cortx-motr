@@ -1,0 +1,15 @@
+<map id="m0_pools_setup" name="m0_pools_setup">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#a6e24902359e9cca1b2ae7630108a1856" title="m0_confc_profile_open" alt="" coords="178,56,334,83"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="394,81,461,108"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="389,309,465,336"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="197,157,315,184"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="171,5,341,32"/>
+<area shape="rect" id="node7" href="$db/dc2/conf_2helpers_8c.html#a182f6745c1607665818858cc141cbc0c" title="m0_conf_obj_is_pool" alt="" coords="184,259,328,285"/>
+<area shape="rect" id="node8" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="185,309,327,336"/>
+<area shape="rect" id="node9" href="$dd/d7f/group__pool.html#ga3b2c450d68740a6ab07a5e6b919c6ae7" title="profile_has_pool" alt="" coords="198,360,314,387"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#gad6ded7891d5cbfcf3ec1cdf404a5a03a" title="pool_find" alt="" coords="390,537,465,564"/>
+<area shape="rect" id="node11" href="$dd/d7f/group__pool.html#ga733f9b50917b2901a297f55f5ecbc433" title="_pool_create" alt="" coords="208,208,304,235"/>
+<area shape="rect" id="node12" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="192,512,320,539"/>
+<area shape="rect" id="node13" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="192,563,320,589"/>
+<area shape="rect" id="node14" href="$dd/d7f/group__pool.html#ga3c40e5b7a1f3dea1278b166e0ffdabe5" title="dix_pool_setup" alt="" coords="201,461,311,488"/>
+</map>

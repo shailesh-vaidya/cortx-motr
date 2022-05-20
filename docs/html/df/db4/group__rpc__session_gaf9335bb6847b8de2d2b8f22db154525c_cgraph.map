@@ -1,0 +1,20 @@
+<map id="m0_rpc_session_establish" name="m0_rpc_session_establish">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="489,19,556,46"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="461,95,584,122"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="485,152,561,179"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="264,208,353,235"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga9f5a710636647ebaff28b5071b495bbf" title="session_establish_fop\l_release" alt="" coords="233,260,384,301"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="243,326,374,352"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="248,427,369,454"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="447,402,599,428"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#gacd879a192974d7f0d92ee1601658d436" title="m0_fop_put" alt="" coords="477,464,568,491"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="439,522,606,548"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="436,630,609,656"/>
+<area shape="rect" id="node13" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="657,630,760,656"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#ga368d147999efeca08da437e215468af4" title="session_failed" alt="" coords="256,680,361,707"/>
+<area shape="rect" id="node15" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="265,731,352,758"/>
+<area shape="rect" id="node16" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="260,782,357,808"/>
+<area shape="rect" id="node17" href="$d2/d66/group__dtm.html#gadbe2e802c2499a2a3aa2133620d7dc96" title="m0_rpc_conn_session0" alt="" coords="229,832,388,859"/>
+<area shape="rect" id="node18" href="$db/de9/group__rpc.html#gacd66f9e6bb4c05211488d1b08145b2ac" title="m0_rpc__fop_post" alt="" coords="244,56,373,83"/>
+<area shape="rect" id="node19" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="245,883,373,910"/>
+</map>

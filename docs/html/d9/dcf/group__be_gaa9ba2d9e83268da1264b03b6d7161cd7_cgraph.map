@@ -1,0 +1,8 @@
+<map id="be_ut_transact" name="be_ut_transact">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga8855e7f746701987cdef07f13eff21f1" title="m0_be_tx_prep" alt="" coords="181,5,291,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="161,56,311,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga7d5040dc3fb6bb8064af9719150f3a9f" title="be_ut_tx_alloc" alt="" coords="183,107,289,133"/>
+<area shape="rect" id="node5" href="$dd/d6d/group__xcode.html#gad0bcad9ebcf6866d4cac43a6175ff7dc" title="alloc" alt="" coords="359,132,408,159"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga34d55dbb6aefe0a78545f46a6cb3e268" title="m0_be_tx_capture" alt="" coords="171,208,301,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga2f7f51ff6aeaeed6e454a2acfddf1e63" title="m0_be_tx_close" alt="" coords="177,259,295,285"/>
+</map>

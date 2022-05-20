@@ -1,0 +1,21 @@
+<map id="m0_chan_lock" name="m0_chan_lock">
+<area shape="rect" id="node2" href="$d8/d50/ctg__store_8c.html#a37efb491bec3e82b3849ded253e9ac91" title="ctg_op_tick_ret" alt="" coords="200,5,311,32"/>
+<area shape="rect" id="node3" href="$de/d70/group___d_i_x_c_m.html#ga38a396741919f4edeb5ea4d1df255c01" title="m0_dix_cm_data_next" alt="" coords="179,56,332,83"/>
+<area shape="rect" id="node4" href="$db/d1b/drlink_8c.html#a7193e19fefeca9f8dad9b2255819396d" title="co_rpc_link_connect" alt="" coords="185,107,326,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga16052f86d32e6cae9dba4627e77bd4e0" title="m0_fom_fini" alt="" coords="209,157,302,184"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#a7322dd6b0157ad6526c3e67431ea0e31" title="cob_stob_ref_drop_wait" alt="" coords="175,208,335,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="190,259,321,285"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="399,436,532,463"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="182,360,329,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="170,411,341,437"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="189,461,322,488"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="191,512,320,539"/>
+<area shape="rect" id="node13" href="$df/da0/group__chan.html#ga8900b27581d613004d22da2d62fdd02a" title="m0_clink_cleanup" alt="" coords="192,563,319,589"/>
+<area shape="rect" id="node14" href="$da/dea/group__cond.html#ga528fb5a1fe32776af5bba9ecacf26b6b" title="m0_cond_wait" alt="" coords="202,613,309,640"/>
+<area shape="rect" id="node15" href="$da/dea/group__cond.html#ga3e4e4ec5b200b90e7fb6f8eeb4e10fc7" title="m0_cond_timedwait" alt="" coords="186,664,325,691"/>
+<area shape="rect" id="node16" href="$de/de2/client__init_8c.html#aeea03d6507bc96abca45a28082df1734" title="io_ref_cb" alt="" coords="218,715,293,741"/>
+<area shape="rect" id="node17" href="$de/df4/group__rm-ha.html#gae8426964349f34f74c5b5572aab1c279" title="m0_rm_ha_unsubscribe_lock" alt="" coords="160,765,351,792"/>
+<area shape="rect" id="node18" href="$d1/dc1/group__sm.html#ga87a2345ac11ab91a275b2bd18ea5247d" title="m0_sm_ast_wait" alt="" coords="195,816,316,843"/>
+<area shape="rect" id="node19" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#gaead8acdcf13ad888866a4a8cf0224149" title="sss_device_stob_detach" alt="" coords="172,867,339,893"/>
+<area shape="rect" id="node20" href="$d2/dbe/process__foms_8c.html#a9da16ffc1bb90ce113c6de06d68f154a" title="ss_process_confc_ctx_arm" alt="" coords="164,917,347,944"/>
+</map>

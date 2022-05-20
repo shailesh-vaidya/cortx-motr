@@ -1,0 +1,12 @@
+<map id="receiver_ag_create" name="receiver_ag_create">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a03efdcd0f8f11f0c1eb584c7403b78aa" title="ag_setup" alt="" coords="237,51,312,78"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="419,14,515,41"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="412,77,523,103"/>
+<area shape="rect" id="node5" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga706fa7e94f9b5c615041a1c704700c8c" title="m0_cm_proxy_in_count\l_alloc" alt="" coords="195,153,355,195"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="221,219,328,246"/>
+<area shape="rect" id="node7" href="$d3/daf/group___s_n_s_c_m_c_p.html#gabdda9f0b81466c8db7c62ae62a2a050b" title="m0_sns_cm_acc_cp_init" alt="" coords="191,270,358,297"/>
+<area shape="rect" id="node8" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="189,321,360,347"/>
+<area shape="rect" id="node9" href="$d7/daf/group___s_n_s_c_m.html#ga618ec79ee3ba6783b0b2298925f4fb95" title="m0_sns_cm_buf_attach" alt="" coords="194,371,355,398"/>
+<area shape="rect" id="node10" href="$d6/db9/group___c_m_a_g.html#ga014c1ae7e643846509dcb2cb3a0638af" title="m0_cm_aggr_group_add" alt="" coords="193,422,357,449"/>
+<area shape="rect" id="node11" href="$d6/db9/group___c_m_a_g.html#gafd7ae6d5bcb76926b56f97f7e9520418" title="m0_cm_aggr_group_locate" alt="" coords="185,473,364,499"/>
+</map>

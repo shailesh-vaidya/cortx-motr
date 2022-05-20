@@ -1,0 +1,8 @@
+<map id="layout_composite_add_layers" name="layout_composite_add_layers">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="259,5,323,32"/>
+<area shape="rect" id="node3" href="$d6/dd3/motr_2st_2layout_8c.html#abc02b232b189b1ad8ee31910da0f3234" title="create_obj" alt="" coords="249,107,332,133"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="431,81,513,108"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#gae7037d6e4cc03fe7aacddb58c31d24ab" title="st_entity_fini" alt="" coords="424,132,520,159"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga4831dd6b23563c820344c4e9b8a95abe" title="m0_composite_layer_add" alt="" coords="205,208,376,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga671a9ee2857c9f1f649f71368b945ad8" title="m0_composite_layer_del" alt="" coords="207,259,374,285"/>
+</map>

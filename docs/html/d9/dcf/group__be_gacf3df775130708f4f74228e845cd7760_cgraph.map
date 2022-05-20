@@ -1,0 +1,11 @@
+<map id="m0_be_io_single" name="m0_be_io_single">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0098bb4fc76c4f6fbd6d6de4a8b023ba" title="m0_be_io_init" alt="" coords="193,5,295,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga70ca9a80048304c5ae00dec47e2233a3" title="m0_be_io_allocate" alt="" coords="179,56,309,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="364,81,431,108"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gad8f425de85ba0883af5e44986eeac274" title="m0_be_io_add" alt="" coords="191,157,297,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga661dfea095941a1c8ae7006f31f545a6" title="m0_be_io_configure" alt="" coords="175,208,313,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga60f944391d16bf73c7930aa48cc7393d" title="m0_be_io_launch" alt="" coords="183,259,305,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga90d90ac438e0fde0842616d5b55361bb" title="m0_be_io_deallocate" alt="" coords="172,309,316,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga6fd8be4f657d99ade4bcc9ffed8626e6" title="m0_be_io_fini" alt="" coords="193,360,295,387"/>
+<area shape="rect" id="node10" href="$dc/db1/group__be-ha.html#gabdab9d9f83ca497112184a01576e8452" title="m0_be_io_err_send" alt="" coords="177,411,311,437"/>
+</map>

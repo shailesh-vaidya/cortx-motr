@@ -1,0 +1,5 @@
+<map id="m0_confc_init_wait" name="m0_confc_init_wait">
+<area shape="rect" id="node2" href="$d0/dca/group__confc__dfspec.html#gabf209a6bf58ef464c9b0798e897a59c2" title="m0_confc_init" alt="" coords="224,5,327,32"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#gae89d8a897597f274982642669ff5012f" title="rconfc_herd_link_init" alt="" coords="205,56,346,83"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga690a2b3e5c2103d12fdbd677753b12c5" title="rconfc_conductor_connect" alt="" coords="188,107,363,133"/>
+</map>

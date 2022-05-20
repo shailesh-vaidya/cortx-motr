@@ -1,0 +1,14 @@
+<map id="m0_mdstore_rename" name="m0_mdstore_rename">
+<area shape="rect" id="node2" href="$dd/d5f/group__fid.html#ga1b53d861df8dc089fb08caf0b88a289c" title="m0_fid_cmp" alt="" coords="596,39,689,65"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="429,89,518,116"/>
+<area shape="rect" id="node4" href="$de/d60/group__mdstore.html#gaaeedea9869d8466dc7e85ca83953e20a" title="m0_mdstore_lookup" alt="" coords="205,241,343,268"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="432,191,515,217"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="399,241,548,268"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="440,292,507,319"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga3e56b98f8dbe848e8bf185b2d3484f7c" title="m0_cob_nskey_cmp" alt="" coords="402,39,545,65"/>
+<area shape="rect" id="node9" href="$de/d60/group__mdstore.html#ga9354589147ac858b337e6ac95d84b00d" title="m0_mdstore_unlink" alt="" coords="207,191,341,217"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="439,343,508,369"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="227,495,321,521"/>
+<area shape="rect" id="node12" href="$d3/d8e/group__cob.html#gacb5d1a65b13b1b957728a1457415a6a8" title="m0_cob_name_update" alt="" coords="197,343,351,369"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="229,545,319,572"/>
+</map>

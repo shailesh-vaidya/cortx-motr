@@ -1,0 +1,7 @@
+<map id="ReadMetadata" name="ReadMetadata">
+<area shape="rect" id="node2" href="$d6/dca/namespaceerror__injection.html#ae70cf5231e1966a5f28352b2f8ca797d" title="EditMetadata" alt="" coords="186,93,285,120"/>
+<area shape="rect" id="node3" href="$d6/dca/namespaceerror__injection.html#a0c5861ec850e0927ed049e4a91a4afe9" title="InduceCorruption" alt="" coords="383,5,505,32"/>
+<area shape="rect" id="node4" href="$d6/dca/namespaceerror__injection.html#aaff3395db70a3d13191cb5087a67dae3" title="InduceRandomCorruption" alt="" coords="359,68,529,95"/>
+<area shape="rect" id="node5" href="$d6/dca/namespaceerror__injection.html#a7a099b7f6e341e680d99b3d8d79b8738" title="InduceErrInRecords" alt="" coords="375,119,513,145"/>
+<area shape="rect" id="node6" href="$d6/dca/namespaceerror__injection.html#ad76dd37d4da253f684c498e7d7358123" title="ReadCompleteRecord" alt="" coords="160,195,311,221"/>
+</map>

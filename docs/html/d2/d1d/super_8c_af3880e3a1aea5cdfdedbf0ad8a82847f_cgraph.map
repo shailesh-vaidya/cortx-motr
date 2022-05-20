@@ -1,0 +1,12 @@
+<map id="m0t1fs_net_init" name="m0t1fs_net_init">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="209,41,284,68"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="397,39,486,65"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="408,96,475,123"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="384,159,499,185"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga7a3a03e4b5410c0c7d03179e42957001" title="m0_bitmap_ffz" alt="" coords="193,295,300,321"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="377,235,505,261"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="212,345,281,372"/>
+<area shape="rect" id="node9" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="191,396,302,423"/>
+<area shape="rect" id="node10" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="164,447,329,473"/>
+<area shape="rect" id="node11" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="177,143,316,169"/>
+</map>

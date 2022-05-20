@@ -1,0 +1,8 @@
+<map id="stobio_complete_cb" name="stobio_complete_cb">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga517185ebb724226e95acdaf205ad71cf" title="m0_fom_group_is_locked" alt="" coords="202,5,373,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga90cb29f4496ffdc2b1da0f4efa03c021" title="m0_stob_io_desc_invariant" alt="" coords="197,56,377,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga4c3c9a4a75ef435640e271c57da9b26e" title="m0_io_fom_cob_rw_invariant" alt="" coords="192,107,383,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="230,157,345,184"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga9cedbe4cab296c0f3dde7f271cc5d367" title="io_rw_rep_get" alt="" coords="236,208,339,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#gaf925ebe69d324b2711efa634d14f3b88" title="m0_fom_ready" alt="" coords="233,259,341,285"/>
+</map>

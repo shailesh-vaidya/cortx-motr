@@ -1,0 +1,14 @@
+<map id="actrec_case" name="actrec_case">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#gad8b4f23dd455dd49c06ff67933b2b18d" title="create" alt="" coords="205,5,263,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga371e6a13078ef21cb73504994ffd7e0d" title="add" alt="" coords="213,56,255,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga167c9bcd84d1b841ee1da2919cf2c6ac" title="del" alt="" coords="215,107,253,133"/>
+<area shape="rect" id="node5" href="$da/df8/group___b_e.html#ga8a37b7821aee252a487445e89ae4ef76" title="m0_be_active_record\l_credit" alt="" coords="161,158,307,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga95c25fe99034dc832d82a065793e974e" title="m0_be_tx_credit_mac" alt="" coords="159,224,309,251"/>
+<area shape="rect" id="node7" href="$d4/d4f/ut_2active__record_8c.html#ae0a48bcae4cc1f164cffefca3f9ce4e5" title="ut_tx_open" alt="" coords="191,275,277,301"/>
+<area shape="rect" id="node8" href="$da/df8/group___b_e.html#ga7aeb7220ed8e0b82a4e823e304570a9e" title="m0_be_active_record\l_create" alt="" coords="161,326,307,367"/>
+<area shape="rect" id="node9" href="$da/df8/group___b_e.html#ga940a0e27cbe066755c9f1f29dff36a25" title="m0_be_active_record_add" alt="" coords="147,392,321,419"/>
+<area shape="rect" id="node10" href="$da/df8/group___b_e.html#ga22f6805a5f9035050ffa06334a1e5cd8" title="m0_be_active_record_del" alt="" coords="149,443,319,469"/>
+<area shape="rect" id="node11" href="$da/df8/group___b_e.html#gaa7817b50ebaa61cc4d3f019179eb436c" title="m0_be_active_record\l_destroy" alt="" coords="161,494,307,535"/>
+<area shape="rect" id="node12" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga425a6b9557988c9cf2f48f52baa4ec90" title="m0_be_tx_close_sync" alt="" coords="158,560,310,587"/>
+<area shape="rect" id="node13" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga0acecf114309e10c8660609de54d29f1" title="m0_be_tx_fini" alt="" coords="183,611,285,637"/>
+</map>

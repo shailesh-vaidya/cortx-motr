@@ -1,0 +1,19 @@
+<map id="read_multiple_blocks_into_aligned_buffers" name="read_multiple_blocks_into_aligned_buffers">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="411,31,453,57"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="199,107,333,133"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="206,157,326,184"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="205,208,327,235"/>
+<area shape="rect" id="node6" href="$d2/d16/read_8c.html#a8a253d80717a61145441bca1a9221aba" title="read_oid_get" alt="" coords="218,259,314,285"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="225,309,307,336"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga4a12e29e4df47b58d9cc305a6af28089" title="st_entity_open" alt="" coords="213,461,319,488"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="383,372,481,399"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="389,425,475,452"/>
+<area shape="rect" id="node11" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="393,483,471,509"/>
+<area shape="rect" id="node12" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="391,559,473,585"/>
+<area shape="rect" id="node13" href="$df/df7/group___client.html#gabd85311e065fc22bd27af78fadf9b588" title="st_obj_op" alt="" coords="227,5,305,32"/>
+<area shape="rect" id="node14" href="$d2/d16/read_8c.html#ae39a0ff55f27b53d2995481fca04f85a" title="read_block_has_val" alt="" coords="197,613,335,640"/>
+<area shape="rect" id="node15" href="$df/df7/group___client.html#gae7037d6e4cc03fe7aacddb58c31d24ab" title="st_entity_fini" alt="" coords="218,664,314,691"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="207,715,325,741"/>
+<area shape="rect" id="node17" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="202,765,330,792"/>
+<area shape="rect" id="node18" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="209,816,323,843"/>
+</map>

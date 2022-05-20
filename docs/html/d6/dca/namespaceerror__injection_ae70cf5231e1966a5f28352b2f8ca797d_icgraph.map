@@ -1,0 +1,8 @@
+<map id="EditMetadata" name="EditMetadata">
+<area shape="rect" id="node2" href="$d6/dca/namespaceerror__injection.html#a0c5861ec850e0927ed049e4a91a4afe9" title="InduceCorruption" alt="" coords="177,5,298,32"/>
+<area shape="rect" id="node3" href="$d6/dca/namespaceerror__injection.html#aaff3395db70a3d13191cb5087a67dae3" title="InduceRandomCorruption" alt="" coords="152,56,323,83"/>
+<area shape="rect" id="node4" href="$d6/dca/namespaceerror__injection.html#a7a099b7f6e341e680d99b3d8d79b8738" title="InduceErrInRecords" alt="" coords="168,107,307,133"/>
+<area shape="rect" id="node5" href="$d6/dca/namespaceerror__injection.html#a935b7a940bbc10e2f29f68a691ddcdc5" title="InduceHugeError" alt="" coords="177,157,297,184"/>
+<area shape="rect" id="node6" href="$d6/dca/namespaceerror__injection.html#ab96a3493e11afbcc89cd78c5180727cd" title="Induce512kbError" alt="" coords="175,208,299,235"/>
+<area shape="rect" id="node7" href="$d6/dca/namespaceerror__injection.html#a76fbee9a75866e7ecb6e8e28d1a048f4" title="CorruptEmap" alt="" coords="188,259,287,285"/>
+</map>

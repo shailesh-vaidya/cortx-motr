@@ -1,0 +1,21 @@
+<map id="m0_fdmi_module__get" name="m0_fdmi_module__get">
+<area shape="rect" id="node2" href="$dd/dc6/group__fdmi__fol__src.html#ga8843c1f7990f208203c027bc115a5ac6" title="ffs_tx_inc_refc" alt="" coords="247,5,353,32"/>
+<area shape="rect" id="node3" href="$dd/dc6/group__fdmi__fol__src.html#ga5feae29379611f506fe33aa5c231b0c4" title="ffs_tx_dec_refc" alt="" coords="245,56,355,83"/>
+<area shape="rect" id="node4" href="$dd/dc6/group__fdmi__fol__src.html#ga03570d2bc28b2ca6397e223f111c69b5" title="m0_fol_fdmi_src_init" alt="" coords="229,107,371,133"/>
+<area shape="rect" id="node5" href="$dd/dc6/group__fdmi__fol__src.html#ga5f620d4bf9068bbb7a1fcedd2a349393" title="m0_fol_fdmi_src_deinit" alt="" coords="222,157,378,184"/>
+<area shape="rect" id="node6" href="$dd/dc6/group__fdmi__fol__src.html#ga6fb58d3d34cad131bc06891aee77d3f5" title="m0_fol_fdmi_post_record" alt="" coords="216,208,384,235"/>
+<area shape="rect" id="node7" href="$da/d74/pd__ut_8c.html#a99de0a1ebf34ef1cc752116abe82c141" title="ut_pdock_conn_pool" alt="" coords="229,259,371,285"/>
+<area shape="rect" id="node8" href="$d0/d50/group__fdmi__pd__int.html#ga9dd9fded7acb797585973a44b13173bd" title="m0_fdmi__pdock_conn\l_pool_rpc_machine" alt="" coords="222,310,378,351"/>
+<area shape="rect" id="node9" href="$d9/d6b/plugin__dock_8c.html#ae9a0591605d7de205c276f1428d1daec" title="pdock_record_release" alt="" coords="455,376,605,403"/>
+<area shape="rect" id="node10" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="667,419,820,461"/>
+<area shape="rect" id="node11" href="$d9/d6b/plugin__dock_8c.html#aff8985f8e35a7bed6179fbe3674a6179" title="test_print_fdmi_rec_list" alt="" coords="451,477,609,504"/>
+<area shape="rect" id="node12" href="$d0/d50/group__fdmi__pd__int.html#ga1459d59ca9abcb64d5e7db3a838d5caf" title="m0_fdmi__pdock_filter\l_reg_find" alt="" coords="223,529,377,570"/>
+<area shape="rect" id="node13" href="$d9/d6b/plugin__dock_8c.html#a278492a6cd51e901bf0012a1619faad2" title="deregister_plugin" alt="" coords="470,565,590,592"/>
+<area shape="rect" id="node14" href="$d0/d50/group__fdmi__pd__int.html#ga2d7575e46239203aafcce369fc9c989c" title="m0_fdmi__pdock_record\l_reg_find" alt="" coords="218,646,382,687"/>
+<area shape="rect" id="node15" href="$d9/d6b/plugin__dock_8c.html#a332ed8d04940d73b4f11ba368194b4db" title="pdock_record_reg_cleanup" alt="" coords="441,683,619,709"/>
+<area shape="rect" id="node16" href="$d9/d6b/plugin__dock_8c.html#ad3af82f6446da5310a8c3c58dc0a2351" title="register_filter" alt="" coords="251,763,349,789"/>
+<area shape="rect" id="node17" href="$d0/d50/group__fdmi__pd__int.html#ga5538e16e6811f08d5cb61c14476a8932" title="m0_fdmi__plugin_dock_init" alt="" coords="211,813,389,840"/>
+<area shape="rect" id="node18" href="$d0/d50/group__fdmi__pd__int.html#ga1e0caf14ad7e104d0a7db824735ab368" title="m0_fdmi__plugin_dock\l_start" alt="" coords="223,865,377,906"/>
+<area shape="rect" id="node19" href="$d0/d50/group__fdmi__pd__int.html#ga3af628a67d4944b8cdebc75e6bd8e763" title="m0_fdmi__plugin_dock_stop" alt="" coords="207,931,393,957"/>
+<area shape="rect" id="node20" href="$d0/d50/group__fdmi__pd__int.html#gaad6330a2da8bbd97b2abd4be906de933" title="m0_fdmi__plugin_dock_fini" alt="" coords="211,981,389,1008"/>
+</map>

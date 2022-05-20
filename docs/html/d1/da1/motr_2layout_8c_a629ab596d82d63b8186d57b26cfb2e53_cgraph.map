@@ -1,0 +1,8 @@
+<map id="layout_op_cb_launch" name="layout_op_cb_launch">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="197,5,364,32"/>
+<area shape="rect" id="node3" href="$d1/da1/motr_2layout_8c.html#a2689543aed4128ddcf8dbb438e482add" title="layout_op_invariant" alt="" coords="213,56,348,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="229,107,333,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae24d379010bd521ce9a52b767ce351f5" title="m0_sm_fail" alt="" coords="412,132,501,159"/>
+<area shape="rect" id="node6" href="$d6/db6/motr_2client_8c.html#a28ecb243a3ccc4a8314a9534e1ca835d" title="m0_op_failed" alt="" coords="231,208,330,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="236,259,325,285"/>
+</map>

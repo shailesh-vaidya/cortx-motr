@@ -1,0 +1,12 @@
+<map id="repair_cm_stop" name="repair_cm_stop">
+<area shape="rect" id="node2" href="$d7/daf/group___s_n_s_c_m.html#ga6af35b45096f873e3f1d85687dbde017" title="cm2sns" alt="" coords="403,10,471,36"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="213,206,295,232"/>
+<area shape="rect" id="node4" href="$d7/daf/group___s_n_s_c_m.html#ga2d120e4f6ea96b33685d788445845138" title="m0_sns_cm_pool_ha_nvec\l_alloc" alt="" coords="164,257,344,298"/>
+<area shape="rect" id="node5" href="$dd/d7b/group__conf__dlspec__objops.html#ga96ba4960f7f6a23d070ad8ad5ae42774" title="m0_conf_obj_find_lock" alt="" coords="177,323,331,350"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga9df816030840c97e9d5c5b4b1668643f" title="m0_sns_cm_disk_has\l_dirty_pver" alt="" coords="178,374,330,416"/>
+<area shape="rect" id="node7" href="$d0/da4/group___c_m.html#gac4a216c7c4f65e26d2eaaa255b7ef68c" title="m0_cm_is_dirty" alt="" coords="197,440,311,467"/>
+<area shape="rect" id="node8" href="$d0/dc7/group__ha-note.html#ga43b0a48a5a23e28322a4bd9157c18004" title="m0_ha_local_state_set" alt="" coords="176,491,332,518"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="402,67,471,94"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#gac96e049d0e9bcb3dd997b00d9ff23541" title="m0_sns_cm_stop" alt="" coords="191,54,317,80"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="392,130,481,156"/>
+</map>

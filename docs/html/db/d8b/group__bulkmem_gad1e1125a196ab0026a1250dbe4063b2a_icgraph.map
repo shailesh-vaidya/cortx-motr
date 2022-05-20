@@ -1,0 +1,5 @@
+<map id="mem_copy_buffer" name="mem_copy_buffer">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#ga40c963907d4a07942052cff19c6cb7c3" title="mem_wf_active_bulk" alt="" coords="179,5,324,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gaad376667dea0f3c969e95125189ea2c3" title="mem_wf_msg_send" alt="" coords="182,56,321,83"/>
+<area shape="rect" id="node4" href="$d3/d50/bulk__mem__ut_8c.html#a335d44fe261b6c648bc2452c11b2e997" title="test_buf_copy" alt="" coords="199,107,303,133"/>
+</map>

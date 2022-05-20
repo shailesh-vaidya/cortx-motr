@@ -1,0 +1,9 @@
+<map id="packet_received" name="packet_received">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="206,5,329,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="191,56,343,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gad6dc1652528ac2f81e1149ece53a657d" title="m0_rpc_packet_remove_item" alt="" coords="171,157,364,184"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="412,132,535,159"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="429,208,518,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaedf0cb0b861e8f225b159816ee5838d0" title="item_received" alt="" coords="216,259,319,285"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="184,309,351,336"/>
+</map>

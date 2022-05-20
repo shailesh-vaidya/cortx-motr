@@ -1,0 +1,7 @@
+<map id="m0_rm_owner_creditor_reset" name="m0_rm_owner_creditor_reset">
+<area shape="rect" id="node2" href="$d3/deb/rm__internal_8h.html#ab96366ce7f29ec961dfe9f7d9e377625" title="owner_state" alt="" coords="236,5,329,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="215,56,350,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga65fc1f9048af043f8900f7d34aec36e0" title="owner_state_set" alt="" coords="223,107,342,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="208,157,357,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="238,208,327,235"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_rpc_net_buffer_pool_setup" name="m0_rpc_net_buffer_pool_setup">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga7223b8bc97ed89492efa45bd9415691a" title="m0_rpc_max_seg_size" alt="" coords="215,5,371,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga7345f0e155fcc6e1709d9aae8c709afa" title="m0_rpc_max_segs_nr" alt="" coords="217,56,368,83"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga1b0333974657828e5a5db987af42d72a" title="m0_net_buffer_pool_init" alt="" coords="213,107,372,133"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="420,235,587,261"/>
+<area shape="rect" id="node6" href="$d8/d01/group__net__buffer__pool.html#gaf903917ab63aa4d49b3944a4b491992c" title="m0_net_buffer_pool\l_provision" alt="" coords="225,209,360,250"/>
+<area shape="rect" id="node7" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="436,307,571,349"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="259,325,326,352"/>
+<area shape="rect" id="node9" href="$d8/d01/group__net__buffer__pool.html#ga6a3e7055ae94f1e50574dc7c8816c284" title="m0_net_buffer_pool_fini" alt="" coords="213,275,372,301"/>
+</map>

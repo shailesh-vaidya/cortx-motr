@@ -1,0 +1,21 @@
+<map id="m0_ha_ut_link_usecase" name="m0_ha_ut_link_usecase">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="661,588,701,615"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gafd7342a48d9d44929bb48eabc93ce0e0" title="m0_ha_ut_rpc_ctx_init" alt="" coords="228,56,381,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gaebc1164714c1359ede6ea59f87ca3afb" title="m0_ha_link_service_init" alt="" coords="224,107,385,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga29b08221424a3cd74c345c4d15be8c84" title="ha_ut_link_init" alt="" coords="252,157,357,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga7974d80ca8b816b8f649e94cad12f106" title="ha_ut_link_set_some_msg" alt="" coords="216,208,393,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gad3411bca35da59040292acfc25f87a39" title="m0_ha_link_recv" alt="" coords="245,563,365,589"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga05148dcac138908d98707c97d8fae6be" title="m0_ha_msg_tag" alt="" coords="468,512,587,539"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#ga111e6f8991b92611d621f6336a6a0514" title="m0_ha_link_send" alt="" coords="466,613,589,640"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#gaa4fab2e07572f67c41955d525c52f894" title="m0_ha_link_wait_arrival" alt="" coords="224,411,385,437"/>
+<area shape="rect" id="node11" href="$db/dec/group__ha.html#gaf720c1bf37c897c28f967e37259a8a62" title="m0_ha_msg_eq" alt="" coords="247,461,362,488"/>
+<area shape="rect" id="node12" href="$db/dec/group__ha.html#ga62e1d705bbc5e6af1ff2c8cbed78fa8f" title="m0_ha_link_delivered\l_consume" alt="" coords="454,665,601,706"/>
+<area shape="rect" id="node13" href="$db/dec/group__ha.html#gae4202c2418271f3df9e7f28eb726f87e" title="m0_ha_link_delivered" alt="" coords="231,360,378,387"/>
+<area shape="rect" id="node14" href="$db/dec/group__ha.html#gad5fc2d1cf75a02e4965ed7b823987ff8" title="m0_ha_link_wait_delivery" alt="" coords="442,259,613,285"/>
+<area shape="rect" id="node15" href="$db/dec/group__ha.html#ga2e62a55160115868bb074bbee37b12fb" title="m0_ha_link_not_delivered\l_consume" alt="" coords="441,743,613,785"/>
+<area shape="rect" id="node16" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="270,715,339,741"/>
+<area shape="rect" id="node17" href="$db/dec/group__ha.html#ga88f0234b4c836fb8369c8b6b2f288352" title="m0_ha_link_flush" alt="" coords="243,5,366,32"/>
+<area shape="rect" id="node18" href="$db/dec/group__ha.html#ga66482cf366299085e152c22c685a8ecd" title="ha_ut_link_fini" alt="" coords="252,816,357,843"/>
+<area shape="rect" id="node19" href="$db/dec/group__ha.html#ga3154bc4efccec00b37243ebdc70525dd" title="m0_ha_link_service_fini" alt="" coords="224,867,385,893"/>
+<area shape="rect" id="node20" href="$db/dec/group__ha.html#gaede531878205b1e7c812f8ae1f1c9ae2" title="m0_ha_ut_rpc_ctx_fini" alt="" coords="228,917,381,944"/>
+</map>

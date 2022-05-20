@@ -1,0 +1,15 @@
+<map id="m0_pool_versions_setup" name="m0_pool_versions_setup">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#ac1a4911ce247b30b9a3b0bfdfc5abf55" title="m0_confc2reqh" alt="" coords="237,5,347,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="673,157,749,184"/>
+<area shape="rect" id="node4" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="625,261,796,288"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="844,261,911,288"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga8b8775e372ce608995fcd1a9fada5448" title="is_actual_pver" alt="" coords="239,629,345,656"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="639,367,782,393"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="625,417,796,444"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="669,469,752,496"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#gae7e1360c641a21e17a75b0efadcc8f02" title="m0_pool_version_device\l_map_init" alt="" coords="412,310,577,351"/>
+<area shape="rect" id="node11" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="647,521,775,548"/>
+<area shape="rect" id="node12" href="$dd/d7f/group__pool.html#ga0e3e0f4951cd2aacbe976207d1038140" title="m0_pool_version_init\l_by_conf" alt="" coords="220,193,364,234"/>
+<area shape="rect" id="node13" href="$dd/dbc/group__layout__conf.html#gacc8c9bdad5cd5ceda31ea2445c248ad3" title="m0_layout_init_by_pver" alt="" coords="415,579,574,605"/>
+<area shape="rect" id="node14" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="228,680,356,707"/>
+</map>

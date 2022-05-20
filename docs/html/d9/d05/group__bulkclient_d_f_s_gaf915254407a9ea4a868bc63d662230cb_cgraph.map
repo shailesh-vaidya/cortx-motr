@@ -1,0 +1,10 @@
+<map id="m0_io_fop_init" name="m0_io_fop_init">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="181,5,270,32"/>
+<area shape="rect" id="node3" href="$d5/d51/stats__ut__svc_8c.html#a220651b12e71f5c33826e0c42a339912" title="fop_release" alt="" coords="339,31,428,57"/>
+<area shape="rect" id="node4" href="$da/dda/io__fops_8c.html#adc7f80039b9c0d26ea9c5d5a84f6a6e7" title="m0_io_fop_release" alt="" coords="160,107,291,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="160,157,291,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga11af7fb31854c04e69d1bbc77efca995" title="m0_rpc_bulk_init" alt="" coords="165,208,285,235"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga9b04c1123d51ad9e47382b26ce38ea29" title="io_rw_get" alt="" coords="186,259,265,285"/>
+<area shape="rect" id="node8" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#gaa525d91e924f70a2ea03eae2a3fc2bc1" title="io_fop_invariant" alt="" coords="169,309,282,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="192,360,259,387"/>
+</map>

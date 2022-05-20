@@ -1,0 +1,10 @@
+<map id="ha/dispatcher.c" name="ha/dispatcher.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$da/d73/dispatcher_8h.html" title="ha/dispatcher.h" alt="" coords="403,229,513,256"/>
+<area shape="rect" id="node4" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="159,80,255,107"/>
+<area shape="rect" id="node5" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="280,80,359,107"/>
+<area shape="rect" id="node6" href="$d8/da6/note_8h.html" title="ha/note.h" alt="" coords="383,155,459,181"/>
+<area shape="rect" id="node7" href="$d8/d9c/failvec_8h.html" title="ha/failvec.h" alt="" coords="459,80,548,107"/>
+<area shape="rect" id="node8" href="$de/de8/keepalive_8h.html" title="motr/keepalive.h" alt="" coords="535,155,653,181"/>
+<area shape="rect" id="node9" href="$d9/dda/instance_8h.html" title="module/instance.h" alt="" coords="623,80,751,107"/>
+</map>

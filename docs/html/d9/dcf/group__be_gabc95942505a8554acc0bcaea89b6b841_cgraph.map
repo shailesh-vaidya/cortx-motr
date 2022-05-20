@@ -1,0 +1,6 @@
+<map id="m0_be_tx_group_reset" name="m0_be_tx_group_reset">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac40f392395df17a46af3b95706d582af" title="m0_be_reg_area_reset" alt="" coords="213,5,368,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga0b84b00f8c4a645d24aaa9bfa4bcf3e7" title="m0_be_reg_area_merger\l_reset" alt="" coords="208,57,373,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac965685a385641504e781e3285aee3fd" title="m0_be_group_format\l_reset" alt="" coords="219,122,363,163"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga5fdd973544c0f1d202160567b45a3195" title="m0_be_tx_group_fom\l_reset" alt="" coords="217,187,364,229"/>
+</map>

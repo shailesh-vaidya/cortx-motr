@@ -1,0 +1,18 @@
+<map id="m0_reqh_service_setup" name="m0_reqh_service_setup">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#gae861c145a66ee2ef4868e4e1875ac634" title="m0_rpc_service_start" alt="" coords="239,5,386,32"/>
+<area shape="rect" id="node3" href="$d1/d2c/motr_2ut_2io_8c.html#a51c463cd649354b90baac44a98cf7ece" title="ut_enable_resource\l_manager" alt="" coords="245,57,380,98"/>
+<area shape="rect" id="node4" href="$d0/d90/doc_2fdmi__demo_2demo-fdmi_2m0-instance_2src_2main_8c.html#ab8183e40fdbdc866217396a5cca3d25e" title="inst_service_start" alt="" coords="250,123,375,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gae75a2a993ed1c1041cfc6f7b0ffec658" title="m0_be_tx_service_init" alt="" coords="237,173,389,200"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga372cd0071d1117455940811ccdbe33cb" title="dix_service_start" alt="" coords="252,224,373,251"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga2fd0bb8b0486ca77cb0677be42014499" title="m0_ha_entrypoint_service_init" alt="" coords="213,275,412,301"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga917e1268509fbd8b7c785c86fe710e41" title="halon_interface_level\l_enter" alt="" coords="241,326,385,367"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#gaebc1164714c1359ede6ea59f87ca3afb" title="m0_ha_link_service_init" alt="" coords="232,392,393,419"/>
+<area shape="rect" id="node10" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a49c6b48c6b173f56f8c70bd06a75a332" title="m0t1fs_rm_service_start" alt="" coords="229,443,396,469"/>
+<area shape="rect" id="node11" href="$de/de2/client__init_8c.html#a3098ad7999b251f7ac96fb2eaf6dacef" title="service_start" alt="" coords="264,493,361,520"/>
+<area shape="rect" id="node12" href="$df/dca/group__m0d.html#ga398363efd910f0402d8cb89e4871974f" title="cs_service_init" alt="" coords="258,544,367,571"/>
+<area shape="rect" id="node13" href="$df/dca/group__m0d.html#gad589ce0d5a21dede8ad436780cf1b5c6" title="reqh_services_start" alt="" coords="460,569,596,596"/>
+<area shape="rect" id="node14" href="$de/d32/ut_2rm__service_8c.html#aebdab9d5a295367002d205932ec18266" title="rm_client" alt="" coords="275,645,350,672"/>
+<area shape="rect" id="node15" href="$d0/d7e/rwlock__helper_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="287,696,338,723"/>
+<area shape="rect" id="node16" href="$d9/d02/rmut_8h.html#a2798d93a7052da3da692f9f013c1fb63" title="rm_ctx_init" alt="" coords="269,747,356,773"/>
+<area shape="rect" id="node17" href="$df/d55/spiel__ut__common_8c.html#a1ba6cb7860d14def6ddcdf4e82554b87" title="m0_spiel__ut_rms_start" alt="" coords="232,797,393,824"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nlx_kcore_core_tm_map" name="nlx_kcore_core_tm_map">
+<area shape="rect" id="node2" href="$d8/d9e/group___l_net_dev_internal.html#ga084bef0cb441c5a1d2eb61f194672be4" title="nlx_dev_ioctl_buf_event_wait" alt="" coords="217,5,411,32"/>
+<area shape="rect" id="node3" href="$d8/d9e/group___l_net_dev_internal.html#gacca7f081b1af30e2331a0617979afc21" title="nlx_dev_ioctl_tm_start" alt="" coords="237,56,391,83"/>
+<area shape="rect" id="node4" href="$d8/d9e/group___l_net_dev_internal.html#gaf05550e19ded0a4dc758312635444092" title="nlx_dev_tm_cleanup" alt="" coords="243,107,385,133"/>
+</map>

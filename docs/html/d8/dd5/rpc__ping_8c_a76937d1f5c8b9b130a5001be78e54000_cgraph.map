@@ -1,0 +1,20 @@
+<map id="run_client" name="run_client">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="191,5,239,32"/>
+<area shape="rect" id="node3" href="$d8/dd5/rpc__ping_8c.html#a2a1dae1897e64f388c92379ff7abc0c7" title="build_endpoint_addr" alt="" coords="146,56,283,83"/>
+<area shape="rect" id="node4" href="$d7/d3e/ping__fop_8c.html#a0c639b2f740f289f082f1830bb2b2456" title="m0_ping_fop_init" alt="" coords="155,107,275,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="145,157,284,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="132,208,297,235"/>
+<area shape="rect" id="node7" href="$db/d84/iterator__test_8c.html#a8f7f9aeb4ee1d37fb743d9d2b935d21f" title="fop_fini" alt="" coords="183,259,247,285"/>
+<area shape="rect" id="node8" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="147,309,283,336"/>
+<area shape="rect" id="node9" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="163,360,266,387"/>
+<area shape="rect" id="node10" href="$d8/dd5/rpc__ping_8c.html#a4d78aaab7171b3500fa73633eee77056" title="rpcping_thread" alt="" coords="161,411,268,437"/>
+<area shape="rect" id="node11" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="159,461,270,488"/>
+<area shape="rect" id="node12" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="161,512,268,539"/>
+<area shape="rect" id="node13" href="$d9/d7d/group__time.html#ga1011dd8f416435c5a5d0f0f7f98d754d" title="m0_time_sub" alt="" coords="165,563,265,589"/>
+<area shape="rect" id="node14" href="$dc/d6b/rpclib_8c.html#af109f5130291693cd9aebdaca19f2ff4" title="m0_rpc_client_stop\l_stats" alt="" coords="147,614,282,655"/>
+<area shape="rect" id="node15" href="$d8/dd5/rpc__ping_8c.html#ae2c80a02a31f0da16c0f6f2893b6d643" title="__print_stats" alt="" coords="166,680,263,707"/>
+<area shape="rect" id="node16" href="$d9/d7d/group__time.html#gacfac2ac7f95e189a0202dca2335cc423" title="m0_time_seconds" alt="" coords="151,731,279,757"/>
+<area shape="rect" id="node17" href="$d9/d7d/group__time.html#gae4c97bbded0d43d1a4536529d56bd2bb" title="m0_time_nanoseconds" alt="" coords="137,781,293,808"/>
+<area shape="rect" id="node18" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="145,832,284,859"/>
+<area shape="rect" id="node19" href="$d7/d3e/ping__fop_8c.html#ac1f5696b6c743fe34dea50a51d4920a7" title="m0_ping_fop_fini" alt="" coords="155,883,275,909"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="test_obj_fill" name="test_obj_fill">
+<area shape="rect" id="node2" href="$d0/dc4/group__conf__dfspec__preload.html#gab546b95a7656688b52ab24f92ec75661" title="m0_confx_free" alt="" coords="348,38,456,65"/>
+<area shape="rect" id="node3" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="173,38,269,65"/>
+<area shape="rect" id="node4" href="$d0/dc4/group__conf__dfspec__preload.html#ga34d41b04f28f54ce9ef01deb6c2e06ea" title="m0_confstr_parse" alt="" coords="157,89,284,116"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="148,140,293,166"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="159,190,283,217"/>
+<area shape="rect" id="node7" href="$dd/df9/group__conf__dfspec__obj.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="159,241,283,268"/>
+<area shape="rect" id="node8" href="$dd/d7b/group__conf__dlspec__objops.html#ga97c0f5a3b12f323eacf61fc762fa8480" title="m0_conf_obj_fill" alt="" coords="163,292,279,318"/>
+<area shape="rect" id="node9" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="141,342,300,369"/>
+</map>

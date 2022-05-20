@@ -1,0 +1,12 @@
+<map id="motr/layout.c" name="motr/layout.c">
+<area shape="rect" id="node2" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$d8/dcf/fid_8h.html" title="fid/fid.h" alt="" coords="407,304,474,331"/>
+<area shape="rect" id="node4" href="$d1/db2/locality_8h.html" title="lib/locality.h" alt="" coords="183,80,274,107"/>
+<area shape="rect" id="node5" href="$d4/dea/motr_2client_8h.html" title="motr/client.h" alt="" coords="324,229,419,256"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html" title="motr/client_internal.h" alt="" coords="285,155,428,181"/>
+<area shape="rect" id="node7" href="$d7/de3/motr_2layout_8h.html" title="motr/layout.h" alt="" coords="399,80,498,107"/>
+<area shape="rect" id="node8" href="$db/d78/dix_2layout_8h.html" title="dix/layout.h" alt="" coords="504,155,593,181"/>
+<area shape="rect" id="node9" href="$d7/dd5/cob_8h.html" title="cob/cob.h" alt="" coords="577,229,656,256"/>
+<area shape="rect" id="node10" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="669,80,748,107"/>
+<area shape="rect" id="node11" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="772,80,859,107"/>
+</map>

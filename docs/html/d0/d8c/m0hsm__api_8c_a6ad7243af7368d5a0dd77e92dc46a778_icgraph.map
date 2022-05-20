@@ -1,0 +1,9 @@
+<map id="layout_get" name="layout_get">
+<area shape="rect" id="node2" href="$d2/d5a/m0hsm__api_8h.html#aa818392c69913aef41bbe951feab50b8" title="m0hsm_dump" alt="" coords="167,5,271,32"/>
+<area shape="rect" id="node3" href="$d2/d5a/m0hsm__api_8h.html#aa834e195ccfc48206f5722841317122e" title="m0hsm_set_write_tier" alt="" coords="144,56,295,83"/>
+<area shape="rect" id="node4" href="$d0/d8c/m0hsm__api_8c.html#a76cb68f719c34bd0eb558b0595df2f78" title="m0hsm_release_maxgen" alt="" coords="136,107,303,133"/>
+<area shape="rect" id="node5" href="$d2/d5a/m0hsm__api_8h.html#a033d4bba127b5d41fcdd8d3c9c9531ee" title="m0hsm_multi_release" alt="" coords="145,157,294,184"/>
+<area shape="rect" id="node6" href="$d2/d5a/m0hsm__api_8h.html#ab3073a809e75a59a2ada00779b7c9fa6" title="m0hsm_copy" alt="" coords="169,208,269,235"/>
+<area shape="rect" id="node7" href="$d2/d5a/m0hsm__api_8h.html#a9bcd779de87779b733655274508d1b77" title="m0hsm_stage" alt="" coords="167,259,271,285"/>
+<area shape="rect" id="node8" href="$d2/d5a/m0hsm__api_8h.html#aced707aaaecc1923900eb2484670d09e" title="m0hsm_archive" alt="" coords="162,309,277,336"/>
+</map>

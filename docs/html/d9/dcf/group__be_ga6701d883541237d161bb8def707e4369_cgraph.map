@@ -1,0 +1,16 @@
+<map id="be_domain_level_leave" name="be_domain_level_leave">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="460,25,567,52"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga53a74319613b4e13ebc805ff0e287dd0" title="m0_be_0type_unregister" alt="" coords="213,405,377,432"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#gabbd339f3e7924e9ee2be1667b7ef0991" title="m0_stob_domain_fini" alt="" coords="223,152,368,179"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="479,152,548,179"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga4448112de1d61641478271cac17893b4" title="m0_be_log_close" alt="" coords="234,456,357,483"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga3b085be2cbe80a6a446b9d31e8400abc" title="m0_be_pd_fini" alt="" coords="242,203,349,229"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gace475bc3b9a3ca0eef635e39164f9fdd" title="be_domain_seg_close" alt="" coords="220,507,371,533"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga19602f6607de42c90169125456324006" title="m0_be_domain_seg0_get" alt="" coords="428,583,599,609"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga1d6d8576292827d77ce062c2a51b8f0c" title="_0types_visit" alt="" coords="246,608,345,635"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga02caf0a663ac3cb2cc2c8f9f4e984b1e" title="m0_be_log_discard_flush" alt="" coords="211,659,380,685"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gaa1bfa18ab09c8e1c09d5bb652cd56377" title="m0_be_log_discard_fini" alt="" coords="216,51,375,77"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga0a21aae3308264b735c66d5ab8d3f098" title="m0_be_engine_fini" alt="" coords="230,253,361,280"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="469,304,558,331"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#ga7296c3f9198ee8de9fcb8d652f247321" title="m0_be_engine_stop" alt="" coords="226,355,365,381"/>
+</map>

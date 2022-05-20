@@ -1,0 +1,6 @@
+<map id="ep_del" name="ep_del">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gae9390c6a48f66a887e7e0929bd089c25" title="ep_invariant" alt="" coords="125,5,217,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga4d04d2d80f14221e812b0d455d4639c9" title="mover_invariant" alt="" coords="113,56,228,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga02f3f80057e9c21bfbdf4993dc6ba169" title="mover_is_writer" alt="" coords="113,107,228,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga98d09139fd60f6dd4f1200e42646b498" title="ep_balance" alt="" coords="127,157,215,184"/>
+</map>

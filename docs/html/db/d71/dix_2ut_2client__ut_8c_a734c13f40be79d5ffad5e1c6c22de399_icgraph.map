@@ -1,0 +1,9 @@
+<map id="dix_common_idx_flagged_op" name="dix_common_idx_flagged_op">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a669e6fa505ac253fdf9cf94c6ea00bcd" title="dix_common_idx_op" alt="" coords="257,37,399,64"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#afc2fbf32fd1bc9a5f4511f1bcdeafd74" title="dix_create_dgmode" alt="" coords="460,12,595,39"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a5b62c112034e4ee767809d7e698f83e9" title="dix_delete_crow" alt="" coords="469,63,585,89"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#a6d0016e74030257d7e65bfab11a502b6" title="dix_index_create_and_fill" alt="" coords="244,139,412,165"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a6a9f276de9c980a3226ab0d520215593" title="dix_create_crow" alt="" coords="269,189,387,216"/>
+<area shape="rect" id="node7" href="$db/d71/dix_2ut_2client__ut_8c.html#a006827d9ed7bc88a619ae6d295b91e35" title="dix_put_crow" alt="" coords="279,240,377,267"/>
+<area shape="rect" id="node8" href="$db/d71/dix_2ut_2client__ut_8c.html#adb1876f1e2d996e07ab02d1eb85af644" title="dix_next_crow" alt="" coords="275,291,381,317"/>
+</map>

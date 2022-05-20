@@ -1,0 +1,8 @@
+<map id="m0t1fs_fsync_core" name="m0t1fs_fsync_core">
+<area shape="rect" id="node2" href="$d7/d08/group__tlist.html#ga9c212eaa932cc6814b36529981a18de4" title="m0_tlist_init" alt="" coords="216,5,308,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="205,56,319,83"/>
+<area shape="rect" id="node4" href="$d2/d8f/fsync_8c.html#aed78c5355fe89f76e01dbb0ce18a47e3" title="m0t1fs_fsync_request\l_create" alt="" coords="187,107,337,149"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="385,144,475,171"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="198,224,326,251"/>
+<area shape="rect" id="node7" href="$d2/d8f/fsync_8c.html#ab9d0c601233a60e1a032d6d41fe75e50" title="m0t1fs_fsync_reply\l_process" alt="" coords="194,275,330,317"/>
+</map>

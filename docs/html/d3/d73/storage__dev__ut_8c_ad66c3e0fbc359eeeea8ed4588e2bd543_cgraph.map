@@ -1,0 +1,24 @@
+<map id="storage_dev_linux" name="storage_dev_linux">
+<area shape="rect" id="node2" href="$d3/d73/storage__dev__ut_8c.html#acda9fbd7e2074b4d509ffd76a96b3c58" title="rpc_start" alt="" coords="243,5,316,32"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#ga91968722d289dbcebea6a9323c179d26" title="m0_storage_devs_init" alt="" coords="205,56,354,83"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#gaac336122037930c1d78fa9e1029952b4" title="m0_storage_dev_new" alt="" coords="205,107,354,133"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="434,321,590,348"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga9819806c816cafc50214dc978adf58e9" title="m0_storage_dev_attach" alt="" coords="199,696,360,723"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#gae93d0a93b96e46a2db4b99e2da5e9051" title="m0_storage_devs_find\l_by_cid" alt="" coords="435,663,589,705"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="427,271,597,297"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#ga527799183fae30dcc85256be528004f6" title="m0_stob_domain_location_get" alt="" coords="180,747,379,773"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="215,797,343,824"/>
+<area shape="rect" id="node11" href="$d0/dfe/group__sdev.html#gadfdb45281e0dad0f73312ba2f85baa92" title="m0_storage_dev_stob\l_create" alt="" coords="204,310,355,351"/>
+<area shape="rect" id="node12" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="445,435,579,461"/>
+<area shape="rect" id="node13" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="447,376,577,403"/>
+<area shape="rect" id="node14" href="$d0/dfe/group__sdev.html#ga50870cdfed558fa1856b5505b6e26073" title="m0_storage_dev_stob_find" alt="" coords="190,376,369,403"/>
+<area shape="rect" id="node15" href="$d0/dfe/group__sdev.html#gaebb38206ae2bc8441ac89f0a1a94027a" title="m0_storage_dev_stob_put" alt="" coords="192,259,367,285"/>
+<area shape="rect" id="node16" href="$d0/dfe/group__sdev.html#ga16292f777727b670abb7fc587ee967d0" title="m0_storage_dev_detach" alt="" coords="430,873,594,900"/>
+<area shape="rect" id="node17" href="$d9/d6a/group__stob.html#ga89cc6324e7aea71f4f6a2a9638ba4471" title="m0_stob_delete_mark" alt="" coords="204,595,355,621"/>
+<area shape="rect" id="node18" href="$d0/dfe/group__sdev.html#gaaf4bfb7d5661b1fa1d809c7eabf0413b" title="m0_storage_dev_stob\l_destroy" alt="" coords="204,427,355,469"/>
+<area shape="rect" id="node19" href="$d0/dfe/group__sdev.html#ga25feee12c9e977776112c6f50b60fb94" title="m0_storage_devs_detach_all" alt="" coords="184,899,375,925"/>
+<area shape="rect" id="node20" href="$d9/d6a/group__stob.html#gaaa46bc11405406b126a597623a5bf1f4" title="m0_stob_domain_destroy\l_location" alt="" coords="194,1001,365,1042"/>
+<area shape="rect" id="node21" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="477,979,547,1005"/>
+<area shape="rect" id="node22" href="$d0/dfe/group__sdev.html#ga32d53dc7c596e27d38bf03382600cc73" title="m0_storage_devs_fini" alt="" coords="205,1067,354,1093"/>
+<area shape="rect" id="node23" href="$dc/d6b/rpclib_8c.html#af2c5cd2040f7421288bec7d747477c0e" title="m0_rpc_server_stop" alt="" coords="209,1117,349,1144"/>
+</map>

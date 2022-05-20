@@ -1,0 +1,19 @@
+<map id="pdclust_map" name="pdclust_map">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="191,5,290,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#gad10d9920a80ee2d69d7fe4eb324255b9" title="m0_pool_init" alt="" coords="193,56,288,83"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#ga29118c55f8f7448b35e7fffbfd43d39c" title="m0_layout_domain_init" alt="" coords="163,107,318,133"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#gaf8456f5b0dfcc590be1fb06f14c84528" title="m0_layout_standard\l_types_register" alt="" coords="171,158,310,199"/>
+<area shape="rect" id="node6" href="$db/d71/dix_2ut_2client__ut_8c.html#a095f62ea85e0ce95fa940b1a9e271df7" title="layout_create" alt="" coords="191,224,291,251"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gac33c0d8759b047a783b84ba73131bab3" title="m0_dix_ldesc_init" alt="" coords="177,275,304,301"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="151,325,330,352"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga239b39193cc1453c22a7166637bade3f" title="m0_dix_layout_init" alt="" coords="175,376,306,403"/>
+<area shape="rect" id="node10" href="$db/d71/dix_2ut_2client__ut_8c.html#a6ea659d28c54e67ded5419aef6e03a5b" title="layout_check" alt="" coords="191,427,290,453"/>
+<area shape="rect" id="node11" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="189,477,292,504"/>
+<area shape="rect" id="node12" href="$dd/d33/group__dix.html#ga8633f42f55d5f72959bf7c5d990ea698" title="m0_dix_layout_fini" alt="" coords="175,528,306,555"/>
+<area shape="rect" id="node13" href="$dd/d33/group__dix.html#ga5cd05a630c07a4fb569941cb45b8cd33" title="m0_dix_ldesc_fini" alt="" coords="177,579,304,605"/>
+<area shape="rect" id="node14" href="$da/da8/group__layout.html#ga835d4b003abab4074c0682826115894a" title="m0_layout_domain_cleanup" alt="" coords="149,629,332,656"/>
+<area shape="rect" id="node15" href="$da/da8/group__layout.html#gaf632ada4e99f27410b406855d9f3b848" title="m0_layout_standard\l_types_unregister" alt="" coords="171,681,310,722"/>
+<area shape="rect" id="node16" href="$da/da8/group__layout.html#ga6e8dfc86eec7538d7069680f040c82b8" title="m0_layout_domain_fini" alt="" coords="163,747,318,773"/>
+<area shape="rect" id="node17" href="$dd/d7f/group__pool.html#ga94bc2b9d1ad8d5a89d0be837ee40c1c8" title="m0_pool_fini" alt="" coords="193,797,288,824"/>
+<area shape="rect" id="node18" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="206,848,275,875"/>
+</map>

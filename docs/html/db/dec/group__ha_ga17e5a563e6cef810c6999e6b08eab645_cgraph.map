@@ -1,0 +1,7 @@
+<map id="m0_ha_entrypoint_client_start" name="m0_ha_entrypoint_client_start">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="230,5,365,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="234,56,361,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="223,107,372,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga70c1cf2656d414cd53e58675045c66e9" title="m0_ha_entrypoint_client\l_request" alt="" coords="216,158,379,199"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="427,195,516,221"/>
+</map>

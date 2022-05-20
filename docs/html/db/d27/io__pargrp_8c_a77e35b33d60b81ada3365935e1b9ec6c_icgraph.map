@@ -1,0 +1,8 @@
+<map id="data_buf_invariant" name="data_buf_invariant">
+<area shape="rect" id="node2" href="$db/d27/io__pargrp_8c.html#a0f05b7df22b02742ec3d729976221d1e" title="data_buf_invariant_nr" alt="" coords="195,5,342,32"/>
+<area shape="rect" id="node3" href="$db/d27/io__pargrp_8c.html#adf2657e9dc60c6d0ba523dfc333ccdd9" title="data_buf_dealloc_fini" alt="" coords="197,56,341,83"/>
+<area shape="rect" id="node4" href="$db/d27/io__pargrp_8c.html#a67787c693fb163ff61d5aee05ae8cd77" title="data_buf_alloc_init" alt="" coords="203,107,334,133"/>
+<area shape="rect" id="node5" href="$db/d27/io__pargrp_8c.html#a980285fdb634a2f2e12c80f1dba6466f" title="data_buf_replicate_init" alt="" coords="193,157,345,184"/>
+<area shape="rect" id="node6" href="$db/d27/io__pargrp_8c.html#aa60481f6f8975340020b35e44205f16e" title="pargrp_iomap_databuf\l_alloc" alt="" coords="193,209,344,250"/>
+<area shape="rect" id="node7" href="$da/d01/ut_2io__pargrp_8c.html#a19d876eb4a60c4f0419839709e9e340f" title="ut_test_data_buf_invariant" alt="" coords="181,275,356,301"/>
+</map>

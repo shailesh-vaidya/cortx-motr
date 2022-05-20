@@ -1,0 +1,8 @@
+<map id="test_fail" name="test_fail">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="149,5,288,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga7d87bfc66f51fa5e0a24155424e515f9" title="nlx_core_kmem_loc_is\l_empty" alt="" coords="141,57,296,98"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gad28e86382484f1799b767f8c4f77b61f" title="nlx_core_kmem_loc_invariant" alt="" coords="121,123,316,149"/>
+<area shape="rect" id="node5" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga093395bbb65f3f9005d70ae9c22bca18" title="nlx_dom_invariant" alt="" coords="155,173,282,200"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#gadcf9e5c3e6a5615f874f8df656cc0298" title="nlx_core_ep_addr_decode" alt="" coords="132,224,305,251"/>
+<area shape="rect" id="node7" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="149,275,288,301"/>
+</map>

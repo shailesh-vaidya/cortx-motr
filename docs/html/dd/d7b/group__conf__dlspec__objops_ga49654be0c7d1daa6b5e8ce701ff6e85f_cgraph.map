@@ -1,0 +1,9 @@
+<map id="m0_conf_obj_match" name="m0_conf_obj_match">
+<area shape="rect" id="node2" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="192,5,344,32"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#ga171ebfc32b5177bdc727d4d8db699f46" title="confx_obj_is_valid" alt="" coords="203,56,333,83"/>
+<area shape="rect" id="node4" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="204,107,332,133"/>
+<area shape="rect" id="node5" href="$dd/d7b/group__conf__dlspec__objops.html#gab3bf9d1c5e6615a056c4ac00867b7335" title="m0_conf_objx_type" alt="" coords="201,157,335,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="392,183,516,209"/>
+<area shape="rect" id="node7" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="227,259,309,285"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga82b53521dbe90ae70f4c597339c525d1" title="m0_conf_obj_is_stub" alt="" coords="195,309,341,336"/>
+</map>

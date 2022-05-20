@@ -1,0 +1,12 @@
+<map id="m0_be_io_launch" name="m0_be_io_launch">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga1f5532ee4292e8f64e1018335c3cea29" title="m0_be_io_size" alt="" coords="192,5,301,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga1774674ebaa12ca8398e5a14f79d74ef" title="m0_be_io__invariant" alt="" coords="176,56,317,83"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="185,107,309,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gab7ef6d6fa4d10bd2bfd30d40260dc765" title="m0_be_io_is_empty" alt="" coords="365,183,504,209"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga9724714fc73c2cd7845fe183a03c5188" title="be_io_empty_ast" alt="" coords="186,208,307,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga3ab7651d10dc0866d8493bec9fad3ba5" title="be_io_finished" alt="" coords="382,233,487,260"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="185,309,308,336"/>
+<area shape="rect" id="node9" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="187,360,307,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="202,411,291,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#gac2afa0775c7ee1dc7961cf722294f4f2" title="be_io_part_launch" alt="" coords="183,461,310,488"/>
+</map>

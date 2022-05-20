@@ -1,0 +1,11 @@
+<map id="ut_test_sync_reply_wait" name="ut_test_sync_reply_wait">
+<area shape="rect" id="node2" href="$d8/d6f/ut_2sync_8c.html#a62c349d587d79a2d1f374e58b6721bf2" title="fake_setup" alt="" coords="257,5,344,32"/>
+<area shape="rect" id="node3" href="$d8/d6f/ut_2sync_8c.html#a9b3ea95268c8e18a1482f00600cb4749" title="ut_wait_for_reply" alt="" coords="240,56,361,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="433,107,531,133"/>
+<area shape="rect" id="node5" href="$d8/d6f/ut_2sync_8c.html#a6be5373d0e6b5986714e15ad7f1eb632" title="ut_fop_fini" alt="" coords="259,157,342,184"/>
+<area shape="rect" id="node6" href="$d8/d6f/ut_2sync_8c.html#a884a65387a9225ff3f05986aa7cb6c43" title="test_sync_reply_wait_init" alt="" coords="216,208,385,235"/>
+<area shape="rect" id="node7" href="$d8/d6f/ut_2sync_8c.html#a320c00298f50186f48e042a3ababf3da" title="ut_reset_stub_counters" alt="" coords="221,259,380,285"/>
+<area shape="rect" id="node8" href="$d8/d6f/ut_2sync_8c.html#a7b0b226740be867a6e0f778ba646dbe0" title="call_sync_reply_wait" alt="" coords="229,309,372,336"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="243,360,358,387"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="237,411,365,437"/>
+</map>

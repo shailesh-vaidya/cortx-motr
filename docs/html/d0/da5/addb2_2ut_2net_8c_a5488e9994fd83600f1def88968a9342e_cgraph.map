@@ -1,0 +1,7 @@
+<map id="net_init_fini" name="net_init_fini">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gac9d1e97806d06cc09bc5b77425c3e6d2" title="m0_addb2_net_init" alt="" coords="145,5,276,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga695234326934ad769129894796b786e0" title="m0_addb2_net_tick" alt="" coords="143,56,278,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga12e8feb2c877117bcf3e2c4348df99a7" title="m0_addb2_net_stop" alt="" coords="141,107,280,133"/>
+<area shape="rect" id="node5" href="$d0/da5/addb2_2ut_2net_8c.html#a882fdacc09390aefea374cfee42a0e0d" title="stop_callback" alt="" coords="159,157,262,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gab49c8eb9cc3b5a50f225b1a10ecf76b5" title="m0_addb2_net_fini" alt="" coords="145,208,276,235"/>
+</map>

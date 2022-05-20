@@ -1,0 +1,8 @@
+<map id="m0_fdmi_source_deregister" name="m0_fdmi_source_deregister">
+<area shape="rect" id="node2" href="$d3/d97/group__fdmi__main.html#ga477e326fce76b49bb5a5cc8dcb65717a" title="m0_fdmi_src_dock_get" alt="" coords="237,5,395,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="259,56,373,83"/>
+<area shape="rect" id="node4" href="$d0/de2/group__fdmi__sd.html#ga740016e49aabb132498ebd80a7cb272b" title="m0_fdmi__record_is\l_valid" alt="" coords="444,110,583,151"/>
+<area shape="rect" id="node5" href="$d6/dc3/group__fdmi__sd__int.html#ga3bfb5e340060470545a42f19c6ce52db" title="m0_fdmi__record_deinit" alt="" coords="236,157,396,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="469,187,558,213"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="252,259,380,285"/>
+</map>

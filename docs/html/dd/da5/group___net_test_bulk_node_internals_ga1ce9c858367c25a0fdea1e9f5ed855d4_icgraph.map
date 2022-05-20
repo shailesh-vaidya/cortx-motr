@@ -1,0 +1,6 @@
+<map id="net_buf_bulk_get" name="net_buf_bulk_get">
+<area shape="rect" id="node2" href="$dd/da5/group___net_test_bulk_node_internals.html#ga05f8f6a93deb9d851cdfc55b4b3d5088" title="buf_desc_set0" alt="" coords="195,5,301,32"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#gafdbde71484f8350e0a5255e4d0e03fa5" title="buf_desc_swap" alt="" coords="191,56,305,83"/>
+<area shape="rect" id="node4" href="$dd/da5/group___net_test_bulk_node_internals.html#gaf55b3202722b5f8f956858a13c8e6747" title="buf_desc_server_free" alt="" coords="175,107,321,133"/>
+<area shape="rect" id="node5" href="$dd/da5/group___net_test_bulk_node_internals.html#ga25e8bf07f492782f916dd6581823f10e" title="buf_desc_client_free" alt="" coords="177,157,319,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cas_records_op_prepare" name="cas_records_op_prepare">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gadb2b02215a10f750e78460373fbd1a54" title="creq_op_alloc" alt="" coords="235,39,337,65"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="403,13,479,40"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="407,64,474,91"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga707f4a3ef4c929ef9c31de773e263f2a" title="m0_fid_type_getfid" alt="" coords="220,140,352,167"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga391e7d9d1b1c465750daa3d36997bebf" title="m0_dix_ldesc_copy" alt="" coords="217,191,355,217"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#ga52c51d0e4d53a3cd3fd7f3739a97cf34" title="m0_rpc_at_init" alt="" coords="233,241,339,268"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#ga2a7d31cea75e0f6580581c9a5d8f1f88" title="creq_kv_buf_add" alt="" coords="225,292,347,319"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga3811156c9642154af76ce9c882985862" title="creq_recv_fini" alt="" coords="235,343,337,369"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#ga37e5e6a38e9218a1debb0a45bee464b3" title="fid_is_meta" alt="" coords="241,393,331,420"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#gac320340c0255af5b1305b49891a9f193" title="creq_op_free" alt="" coords="237,444,335,471"/>
+</map>

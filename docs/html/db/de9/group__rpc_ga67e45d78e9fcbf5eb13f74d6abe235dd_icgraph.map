@@ -1,0 +1,7 @@
+<map id="m0_rpc_packet_is_empty" name="m0_rpc_packet_is_empty">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga53f4baf74971fd93f3dc758ad7b59d89" title="frm_balance" alt="" coords="467,8,560,35"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga3b2ff9a41da039ab6d3fa30a221cfb81" title="frm_packet_ready" alt="" coords="241,33,368,60"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaec96dc31cab9eace69e8bc10deb92649" title="m0_rpc_packet_remove\l_all_items" alt="" coords="224,85,385,126"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga3d9ecdd0f4d435e3ebd729d013c09c1b" title="m0_rpc_packet_encode" alt="" coords="433,180,593,207"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gad99bdadebde0c238d7605fc04164eb3f" title="m0_rpc_packet_encode\l_using_cursor" alt="" coords="225,202,385,243"/>
+</map>

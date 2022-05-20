@@ -1,0 +1,29 @@
+<map id="io_rw_get" name="io_rw_get">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aeb6d70980d9ff67d1e3f52cd0703c4ff" title="iofop_async_submit" alt="" coords="167,5,305,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abd1f7ec8e9e0b141ab0f16399cf8f2dc" title="io_req_fop_release" alt="" coords="171,56,301,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa4335ac7529536ab734631137a5de987" title="target_ioreq_iofops\l_prepare" alt="" coords="170,107,302,149"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga4c3c9a4a75ef435640e271c57da9b26e" title="m0_io_fom_cob_rw_invariant" alt="" coords="141,528,331,555"/>
+<area shape="rect" id="node6" href="$d9/dc2/group__io__foms.html#ga39fb74de83d07a9776dc3a1fdf5b572c" title="stob_object_find" alt="" coords="409,427,526,453"/>
+<area shape="rect" id="node7" href="$d9/dc2/group__io__foms.html#ga51a64182f15106472b17f171f1eb53aa" title="indexvec_wire2mem" alt="" coords="595,376,736,403"/>
+<area shape="rect" id="node8" href="$d9/dc2/group__io__foms.html#gab5ec26e2bf6de8d4c556fbe9487221e9" title="m0_io_fom_cob_rw_tick" alt="" coords="784,325,947,352"/>
+<area shape="rect" id="node9" href="$db/d53/bulkio__ut_8c.html#a3edf7bbdd80a234d3e94166897a255a4" title="check_write_fom_tick" alt="" coords="995,249,1144,276"/>
+<area shape="rect" id="node10" href="$db/d53/bulkio__ut_8c.html#ad64f68d8d9cae9a924a039c1a717afde" title="check_read_fom_tick" alt="" coords="996,452,1143,479"/>
+<area shape="rect" id="node11" href="$d9/dc2/group__io__foms.html#gac73c0391368c955cb7bd800ab027a4e1" title="io_prepare" alt="" coords="426,477,509,504"/>
+<area shape="rect" id="node12" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="404,579,531,605"/>
+<area shape="rect" id="node13" href="$d9/dc2/group__io__foms.html#gaf0dc9bdce916f0dde673f71d4c04217d" title="io_launch" alt="" coords="429,731,506,757"/>
+<area shape="rect" id="node14" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="388,629,547,656"/>
+<area shape="rect" id="node15" href="$d9/dc2/group__io__foms.html#ga6966211dcdaabcf9b4b3b072b5a1ed9d" title="io_fom_cob2file" alt="" coords="179,731,293,757"/>
+<area shape="rect" id="node16" href="$d9/dc2/group__io__foms.html#gace5fdc0d08e71f7bc652b82545e4f5c3" title="fom_cob_locate" alt="" coords="608,325,723,352"/>
+<area shape="rect" id="node17" href="$d9/dc2/group__io__foms.html#ga9a64af006d04431583d77289fb671b2c" title="m0_io_fom_cob_rw_create" alt="" coords="147,832,325,859"/>
+<area shape="rect" id="node18" href="$d9/dc2/group__io__foms.html#ga37595850eb37a790e76bb0e904014c52" title="stob_io_create" alt="" coords="612,224,719,251"/>
+<area shape="rect" id="node19" href="$d9/dc2/group__io__foms.html#ga5747020bcb265203ecdf79b6fa890ffb" title="m0_io_fom_cob_rw_locality_get" alt="" coords="132,883,340,909"/>
+<area shape="rect" id="node20" href="$d9/dc2/group__io__foms.html#ga875d8c97528949207b9bbcf55bbb3eb9" title="io_fom_addb2_descr" alt="" coords="165,933,307,960"/>
+<area shape="rect" id="node21" href="$d8/dc1/bulkio__common_8c.html#a2e68bfef2868da731725600746d4a51d" title="io_fop_populate" alt="" coords="179,984,293,1011"/>
+<area shape="rect" id="node22" href="$db/d53/bulkio__ut_8c.html#ab7aeba376f78c23c25c70b7dcc04013c" title="bulkio_stob_create\l_fom_tick" alt="" coords="171,1035,301,1077"/>
+<area shape="rect" id="node23" href="$db/d53/bulkio__ut_8c.html#a54544bd9fcf188398505bf2b4dae4651" title="bulkio_stob_create" alt="" coords="171,1101,301,1128"/>
+<area shape="rect" id="node24" href="$db/d53/bulkio__ut_8c.html#a6cb1bea9d2dacf4cc83162b1c9642932" title="fop_create_populate" alt="" coords="167,1152,305,1179"/>
+<area shape="rect" id="node25" href="$dc/d83/io__req__fop_8c.html#ab71e27c7d8d75e2858f8f53deed8fe14" title="io_bottom_half" alt="" coords="183,1253,289,1280"/>
+<area shape="rect" id="node26" href="$dc/d83/io__req__fop_8c.html#ab12de70e11d5f3605513126b7ad1c5a0" title="ioreq_fop_init" alt="" coords="418,1253,517,1280"/>
+<area shape="rect" id="node27" href="$dc/d83/io__req__fop_8c.html#a9913fc4611ef26f3061246c1f24f0e21" title="ioreq_fop_async_submit" alt="" coords="155,1355,317,1381"/>
+<area shape="rect" id="node28" href="$dc/d83/io__req__fop_8c.html#ab83b7a22bed4b902c75597a980472a98" title="ioreq_fop_release" alt="" coords="174,1304,298,1331"/>
+</map>

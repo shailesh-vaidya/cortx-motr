@@ -1,0 +1,12 @@
+<map id="m0_reqh_service_ctxs_shutdown_prepare" name="m0_reqh_service_ctxs_shutdown_prepare">
+<area shape="rect" id="node2" href="$d8/d46/reqh__service__internal_8h.html#af2ac32008dc1a0b4eed285eb6a45cbd7" title="reqh_service_ctx_sm\l_is_locked" alt="" coords="227,5,374,47"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#ga86f2473648e29219d502a4bac8f698f5" title="m0_reqh_service_ctx\l_unsubscribe" alt="" coords="227,71,374,112"/>
+<area shape="rect" id="node4" href="$d8/d46/reqh__service__internal_8h.html#aa830acb4b40c557ac0f5ab7bbe7c0c12" title="reqh_service_ctx_sm_lock" alt="" coords="443,187,620,214"/>
+<area shape="rect" id="node5" href="$d8/d46/reqh__service__internal_8h.html#a32872286d90bbff66cb01e8fd141d2ca" title="reqh_service_ctx_flag_set" alt="" coords="213,187,388,214"/>
+<area shape="rect" id="node6" href="$d8/d46/reqh__service__internal_8h.html#aafb9880254f76e9b3077756e8622ae4a" title="reqh_service_ctx_sm\l_unlock" alt="" coords="458,319,605,360"/>
+<area shape="rect" id="node7" href="$de/d82/group__rpc__link.html#ga5b6b65d74a79d4952f5a7769437707fd" title="m0_rpc_link_end_point" alt="" coords="223,289,378,315"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="263,339,339,366"/>
+<area shape="rect" id="node9" href="$d8/d46/reqh__service__internal_8h.html#a67bcb501cb1bf2f73fc0fcab4dbb1b4d" title="reqh_service_ctx_flag\l_clear" alt="" coords="226,391,375,432"/>
+<area shape="rect" id="node10" href="$da/ddc/group__reqhservice.html#ga8717d43baa6f807eab12a85c7e305dd0" title="reqh_service_ctx_state_wait" alt="" coords="207,238,395,265"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="256,507,345,534"/>
+</map>

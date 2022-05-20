@@ -1,0 +1,9 @@
+<map id="delete_index" name="delete_index">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="165,5,253,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gaa4e7d45d5a7862844716c486cea81e8e" title="m0_entity_delete" alt="" coords="148,56,269,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="155,107,262,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="163,157,255,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="166,208,251,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="163,259,254,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="157,309,260,336"/>
+</map>

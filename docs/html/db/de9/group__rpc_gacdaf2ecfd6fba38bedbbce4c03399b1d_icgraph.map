@@ -1,0 +1,13 @@
+<map id="m0_rpc_item_is_oneway" name="m0_rpc_item_is_oneway">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga35156e22353e1e7e3f14f2a6455ce053" title="drop_all_items" alt="" coords="243,5,350,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf342b774eb4c0e5151d2d544bcf3f927" title="frm_fill_packet" alt="" coords="421,85,528,112"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="227,107,367,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga19456426c3b750c13c91fad820ba336b" title="item_done" alt="" coords="255,173,338,200"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gad80705ba880c07bd00c23c52c4270513" title="m0_rpc_item_invariant" alt="" coords="220,224,373,251"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="257,275,336,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaedf0cb0b861e8f225b159816ee5838d0" title="item_received" alt="" coords="423,325,526,352"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gae4e8c1ec17c4acee2bec0f1f163759b2" title="rpc_item_needs_xid" alt="" coords="227,376,366,403"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaeca6f24b585e93f06b7d1dcd058daf5c" title="m0_rpc_item_received" alt="" coords="220,427,373,453"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga3e18dbd9818d8b7e331f30c1d4bf6346" title="get_item" alt="" coords="261,477,333,504"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gaefa6b9126d520945e83bf610e0c42054" title="m0_rpc_oneway_item\l_post_locked" alt="" coords="222,529,371,570"/>
+</map>

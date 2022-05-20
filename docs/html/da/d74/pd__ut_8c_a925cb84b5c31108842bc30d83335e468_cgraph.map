@@ -1,0 +1,7 @@
+<map id="fdmi_pd_rec_inject_fini" name="fdmi_pd_rec_inject_fini">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="248,5,347,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="435,56,504,83"/>
+<area shape="rect" id="node4" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="221,107,374,149"/>
+<area shape="rect" id="node5" href="$d0/d50/group__fdmi__pd__int.html#gaad6330a2da8bbd97b2abd4be906de933" title="m0_fdmi__plugin_dock_fini" alt="" coords="208,173,387,200"/>
+<area shape="rect" id="node6" href="$d0/d50/group__fdmi__pd__int.html#ga5538e16e6811f08d5cb61c14476a8932" title="m0_fdmi__plugin_dock_init" alt="" coords="208,224,387,251"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ha_ut_conf_fini" name="ha_ut_conf_fini">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="167,5,284,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga58ee0db498285197a79e3df09a11528b" title="m0_ha_client_del" alt="" coords="164,56,287,83"/>
+<area shape="rect" id="node4" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="170,107,281,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="174,157,277,184"/>
+</map>

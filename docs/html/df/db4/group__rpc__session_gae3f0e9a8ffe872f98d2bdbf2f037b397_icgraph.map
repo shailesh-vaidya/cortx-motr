@@ -1,0 +1,8 @@
+<map id="m0_rpc_session_init" name="m0_rpc_session_init">
+<area shape="rect" id="node2" href="$d5/d34/sd__common_8h.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="215,5,334,32"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="217,56,333,83"/>
+<area shape="rect" id="node4" href="$de/d82/group__rpc__link.html#gaa80324f356e8c12232cbe87e2effe817" title="m0_rpc_link_reset" alt="" coords="211,107,339,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga27ef5040cce8192ba6c7dfc49d4c3760" title="m0_rpc_session_create" alt="" coords="195,157,355,184"/>
+<area shape="rect" id="node6" href="$da/d7a/ut_2session_8c.html#a5d37d68f416c0632cab5991e0931443d" title="session_ut_init" alt="" coords="220,208,329,235"/>
+<area shape="rect" id="node7" href="$da/d7a/ut_2session_8c.html#afd076968208fc942ae3969c0e892f412" title="session_init" alt="" coords="229,259,320,285"/>
+</map>

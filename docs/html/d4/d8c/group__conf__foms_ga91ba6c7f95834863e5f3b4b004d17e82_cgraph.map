@@ -1,0 +1,11 @@
+<map id="conf_net_buffer_allocate" name="conf_net_buffer_allocate">
+<area shape="rect" id="node2" href="$d7/d67/load__fop_8c.html#a4738ab9e8167e7d3ef4f051ebc0d66df" title="m0_is_conf_load_fop" alt="" coords="435,38,580,65"/>
+<area shape="rect" id="node3" href="$d4/d8c/group__conf__foms.html#gaf0a2164b146ba5bc8694542604556abe" title="conf_load_fom_invariant" alt="" coords="220,38,383,65"/>
+<area shape="rect" id="node4" href="$d7/d67/load__fop_8c.html#ad271509c2c6ee0490af9f4169065f2ce" title="m0_conf_fop_to_load_fop" alt="" coords="216,89,387,116"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#ga3ab271ddef8d2ab1ee331f95138294b5" title="min64u" alt="" coords="269,140,333,166"/>
+<area shape="rect" id="node6" href="$d7/d67/load__fop_8c.html#a6526646718a4e1c6994057c1344f0505" title="m0_conf_segment_size" alt="" coords="221,190,381,217"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="217,241,385,268"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="239,292,364,318"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga3b8cb77ed93374f275425a4f0929d443" title="m0_fom_phase_moveif" alt="" coords="223,342,380,369"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="268,393,335,420"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="stob_perf_linux_init_create" name="stob_perf_linux_init_create">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#ga79bf72d5c9cd6a7492d677c004a02a95" title="stob_perf_linux_fid_set" alt="" coords="188,5,344,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga86554798b734b43b7fde32398ff992fb" title="m0_stob_find_by_key" alt="" coords="191,107,341,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="421,95,497,121"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,171,492,197"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="392,259,525,285"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga56160fb005c7a5e49471b61ff48271d4" title="m0_stob_locate" alt="" coords="209,259,323,285"/>
+<area shape="rect" id="node8" href="$d4/d44/group__cas.html#gad8b4f23dd455dd49c06ff67933b2b18d" title="create" alt="" coords="237,360,295,387"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#gaf0b065ab6e4efa650e330134d4c3930f" title="m0_stob_create" alt="" coords="209,208,323,235"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="217,411,315,437"/>
+</map>

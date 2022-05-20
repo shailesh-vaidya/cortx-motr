@@ -1,0 +1,24 @@
+<map id="Internals" name="Internals">
+<area shape="rect" id="node1" href="$dd/da5/group___net_test_bulk_node_internals.html" title="Bulk Node" alt="" coords="357,5,439,32"/>
+<area shape="rect" id="node2" href="$db/dd4/group___net_test_console_internals.html" title="Test Console" alt="" coords="349,56,447,83"/>
+<area shape="rect" id="node3" href="$dc/d26/group___net_test_serialize_internals.html" title="Serialization" alt="" coords="351,107,445,133"/>
+<area shape="rect" id="node4" href="$da/d84/group___net_test_ping_node_internals.html" title="Ping Node" alt="" coords="357,157,439,184"/>
+<area shape="rect" id="node5" href="$d9/d3d/group___net_test_stats_msg_n_r_internals.html" title="Messages Number" alt="" coords="332,208,464,235"/>
+<area shape="rect" id="node6" href="$da/d64/group___net_test_ringbuf_internals.html" title="Ringbuf" alt="" coords="365,259,431,285"/>
+<area shape="rect" id="node7" href="$d2/d9a/group___net_test_node_internals.html" title="Test Node Internals" alt="" coords="330,309,466,336"/>
+<area shape="rect" id="node8" href="$d9/da2/group___net_test_str_internals.html" title="Serialization of ASCIIZ\l string" alt="" coords="320,361,476,402"/>
+<area shape="rect" id="node10" href="$d0/d76/group___net_test_stats_m_p_s_internals.html" title="Messages Per Second\l Statistics" alt="" coords="321,426,475,467"/>
+<area shape="rect" id="node12" href="$da/d19/group___net_test_init_fini_internals.html" title="Initialization/finalization\l of net&#45;test" alt="" coords="319,491,477,533"/>
+<area shape="rect" id="node13" href="$d4/d3b/group___net_test_stats_internals.html" title="Statistics Collector" alt="" coords="331,557,465,584"/>
+<area shape="rect" id="node14" href="$d3/d29/group___net_test_stub_node_internals.html" title="Node Stub" alt="" coords="356,608,440,635"/>
+<area shape="rect" id="node15" href="$dc/d55/group___net_test_u_console_internals.html" title="Test Console user&#45;space\l program" alt="" coords="315,659,481,701"/>
+<area shape="rect" id="node16" href="$df/d38/group___net_test_network_internals.html" title="Network" alt="" coords="363,725,433,752"/>
+<area shape="rect" id="node17" href="$d7/dbf/group___net_test_service_internals.html" title="Test Service" alt="" coords="351,776,445,803"/>
+<area shape="rect" id="node18" href="$d7/dee/group___net_test_timestamp_internals.html" title="Timestamp" alt="" coords="355,827,441,853"/>
+<area shape="rect" id="node19" href="$d8/dd3/group___net_test_u_node_internals.html" title="Test Node user&#45;space\l program" alt="" coords="323,878,473,919"/>
+<area shape="rect" id="node20" href="$dd/d18/group___net_test_s_list_internals.html" title="String List" alt="" coords="357,944,439,971"/>
+<area shape="rect" id="node21" href="$d5/dc5/group___net_test_u_common_internals.html" title="Test Node user&#45;space\l program" alt="" coords="323,995,473,1037"/>
+<area shape="rect" id="node22" href="$d0/de6/group___net_test_commands_internals.html" title="Commands" alt="" coords="353,1061,443,1088"/>
+<area shape="rect" id="node23" href="$d4/da0/group___net_test_node_helper_internals.html" title="Node helper" alt="" coords="352,1112,444,1139"/>
+<area shape="rect" id="node11" href="$de/d45/group___net_test_d_f_s.html" title="Detailed functional specification for Motr Network Benchmark. " alt="" coords="5,557,147,584"/>
+</map>

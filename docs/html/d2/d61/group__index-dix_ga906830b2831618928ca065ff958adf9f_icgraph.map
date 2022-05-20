@@ -1,0 +1,15 @@
+<map id="idx_is_distributed" name="idx_is_distributed">
+<area shape="rect" id="node2" href="$d2/d61/group__index-dix.html#ga05ca403564b069feeada56f9987fc94e" title="dix_mreq_create" alt="" coords="186,40,305,67"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#gabceeae5f4b25adfe054ea47773991dcc" title="dix_index_lookup" alt="" coords="363,120,485,147"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#ga188bc55216a5422c761c8094dcfc7f92" title="dix_index_list" alt="" coords="373,40,475,67"/>
+<area shape="rect" id="node5" href="$d2/d61/group__index-dix.html#gad8f5ea29525bd74216073c2c301668a3" title="dix_req_create" alt="" coords="192,360,299,387"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#gad465aeee53ed5c50fd12270feeb8c636" title="dix_index_create" alt="" coords="364,208,484,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#ga46b00ea10bde65691446c1f2e62f30b7" title="dix_index_delete" alt="" coords="365,259,483,286"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#ga1611b41518b39984da0e4e3bc68ff42d" title="dix_put" alt="" coords="392,310,456,336"/>
+<area shape="rect" id="node9" href="$d2/d61/group__index-dix.html#gac1348c2664d702b1cf6c43fd49d3d28b" title="dix_get" alt="" coords="392,367,456,394"/>
+<area shape="rect" id="node10" href="$d2/d61/group__index-dix.html#gad313163f724c399c81999c7843bad3ec" title="dix_del" alt="" coords="393,430,455,456"/>
+<area shape="rect" id="node11" href="$d2/d61/group__index-dix.html#ga0e88613bea97a4ec81a178c0af43f3a5" title="dix_next" alt="" coords="389,506,459,532"/>
+<area shape="rect" id="node12" href="$d2/d61/group__index-dix.html#ga80c5d008a2c9c3f857b4940cabe76a78" title="dix_req_destroy" alt="" coords="188,563,303,590"/>
+<area shape="rect" id="node13" href="$d2/d61/group__index-dix.html#gac3db738bfe68733a35ad024135268f19" title="dix_iname_args_are\l_valid" alt="" coords="176,142,315,184"/>
+<area shape="rect" id="node14" href="$d2/d61/group__index-dix.html#gaf9931853889fc2da1fde50eccd8091ee" title="idx_op_cancel_ast" alt="" coords="180,614,311,640"/>
+</map>

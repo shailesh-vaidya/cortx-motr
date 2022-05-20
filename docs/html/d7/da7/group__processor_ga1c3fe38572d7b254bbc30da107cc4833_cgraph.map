@@ -1,0 +1,16 @@
+<map id="processor_getcpu_check" name="processor_getcpu_check">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#gab53991d09969970bb10218a072d1cd6b" title="m0_processor_nr_max" alt="" coords="220,5,375,32"/>
+<area shape="rect" id="node3" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="242,56,353,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="440,81,516,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="264,157,331,184"/>
+<area shape="rect" id="node6" href="$d7/da7/group__processor.html#ga6d7b1eeb7e64a79985792f29f3b92778" title="m0_processors_online" alt="" coords="221,208,373,235"/>
+<area shape="rect" id="node7" href="$df/df3/group__bitmap.html#gaa195fd9b75a24c308a99d791404d80b8" title="m0_bitmap_set_nr" alt="" coords="233,259,362,285"/>
+<area shape="rect" id="node8" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="423,284,533,311"/>
+<area shape="rect" id="node9" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="242,360,353,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="443,385,513,412"/>
+<area shape="rect" id="node11" href="$df/df3/group__bitmap.html#gaff8a25aa0c262e35cc2b260b51d2ace0" title="m0_bitmap_set" alt="" coords="242,461,353,488"/>
+<area shape="rect" id="node12" href="$d7/da7/group__processor.html#gad84c6f815dff3fdb8e3db835b76c2d61" title="getcpu_thr_init" alt="" coords="244,512,351,539"/>
+<area shape="rect" id="node13" href="$d7/da7/group__processor.html#ga1d3e106da583547aa3c99e5e459062d0" title="getcpu_thr_func" alt="" coords="240,563,355,589"/>
+<area shape="rect" id="node14" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="242,613,353,640"/>
+<area shape="rect" id="node15" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="244,664,351,691"/>
+</map>

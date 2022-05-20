@@ -1,0 +1,17 @@
+<map id="nw_xfer_tioreq_map" name="nw_xfer_tioreq_map">
+<area shape="rect" id="node2" href="$de/df0/io__nw__xfer_8c.html#ae5266b3b8a6ac758c86bc265ff418589" title="nw_xfer_request_invariant" alt="" coords="419,11,593,38"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="233,251,329,278"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a488e33754485f299230b9f4c6168688c" title="layout_instance" alt="" coords="449,276,563,303"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a092ad16955304064bd8dd5655e5fd3cd" title="pdlayout_instance" alt="" coords="218,352,345,379"/>
+<area shape="rect" id="node6" href="$d9/d33/group__failure__domains.html#ga3d49961d155e7c76f8285ebc7a388d2a" title="m0_fd_fwd_map" alt="" coords="222,403,341,430"/>
+<area shape="rect" id="node7" href="$de/df0/io__nw__xfer_8c.html#a9fab9cebdf8ecfa19dcb1e3f87dc0959" title="target_fid" alt="" coords="243,454,319,480"/>
+<area shape="rect" id="node8" href="$d9/d5b/motr_2io_8c.html#a7c993604ae4bc15e50df74316a9d5e65" title="ioo_to_poolmach" alt="" coords="446,479,566,506"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="207,556,355,597"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="473,74,539,100"/>
+<area shape="rect" id="node11" href="$de/df0/io__nw__xfer_8c.html#a5b9aced18fd6cc3dacdc6cf004c14d9a" title="should_spare_be_mapped" alt="" coords="195,150,368,176"/>
+<area shape="rect" id="node12" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="451,150,561,176"/>
+<area shape="rect" id="node13" href="$d7/d0c/parity__repair_8c.html#a696d145f546f789bf2aa2cab33594e73" title="m0_sns_repair_spare_map" alt="" coords="192,622,371,648"/>
+<area shape="rect" id="node14" href="$de/df0/io__nw__xfer_8c.html#aa6dfefa6688da18e6d1fa43cf7dafde3" title="target_session" alt="" coords="228,672,335,699"/>
+<area shape="rect" id="node15" href="$de/df0/io__nw__xfer_8c.html#a65d27f4a75ac9060e9b361e5a92be248" title="nw_xfer_tioreq_get" alt="" coords="215,99,347,126"/>
+<area shape="rect" id="node16" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a339cf939549936bf815698fc212b50fd" title="layout_unit_size" alt="" coords="223,723,339,750"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_addb2_trace_done" name="m0_addb2_trace_done">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga12e8feb2c877117bcf3e2c4348df99a7" title="m0_addb2_net_stop" alt="" coords="207,5,345,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gad001b972c7f0ac5a36e6b7e7bbc7414e" title="net_sent" alt="" coords="240,56,312,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga621e34fbc2519a2fb8b8788246253657" title="frame_done" alt="" coords="231,107,321,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gae35f8886522855df1c0a5b85302227fd" title="m0_addb2_sys_fini" alt="" coords="393,183,528,209"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gaa2d4c1b6f1123dc54fb3b71cba37ca72" title="sys_balance" alt="" coords="229,208,323,235"/>
+<area shape="rect" id="node7" href="$dc/de2/base_8c.html#a27837690a950446a6e36ffbaa30615a8" title="stop_idle" alt="" coords="239,259,313,285"/>
+</map>

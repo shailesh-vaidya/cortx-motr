@@ -1,0 +1,10 @@
+<map id="m0t1fs_inode_fini" name="m0t1fs_inode_fini">
+<area shape="rect" id="node2" href="$df/dca/lib_2misc_8c.html#af814f494803636e6c66124506fc61f56" title="m0_bool_to_str" alt="" coords="207,5,318,32"/>
+<area shape="rect" id="node3" href="$d8/d2b/inode_8c.html#a85eb63519beb3934ec0e89900886407c" title="m0t1fs_inode_is_root" alt="" coords="189,56,336,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad96ff6a29eb0748d971add6eb975bda8" title="m0t1fs_inode_bob_check" alt="" coords="177,107,348,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="403,171,517,197"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="396,233,524,260"/>
+<area shape="rect" id="node7" href="$d8/d2b/inode_8c.html#aa07ac1a89793b35d578f967d9d76bd9f" title="m0t1fs_inode_ispti_fini" alt="" coords="185,208,340,235"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="415,284,505,311"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="209,360,316,387"/>
+</map>

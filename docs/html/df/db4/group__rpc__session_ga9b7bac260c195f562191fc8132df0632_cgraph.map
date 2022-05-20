@@ -1,0 +1,14 @@
+<map id="m0_rpc_session_establish_reply_received" name="m0_rpc_session_establish_reply_received">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="251,5,391,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="259,56,382,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="229,107,412,133"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga7553ca738a3e999ac1b1db097a1217db" title="m0_rpc_session_invariant" alt="" coords="460,275,633,301"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="681,275,784,301"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga0a406aab7ed238310c5a2b0fa15b5f53" title="m0_rpc_session_state\l_to_str" alt="" coords="244,259,397,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="255,325,386,352"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="272,376,369,403"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="257,427,385,453"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="283,477,359,504"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#ga368d147999efeca08da437e215468af4" title="session_failed" alt="" coords="268,528,373,555"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="276,579,365,605"/>
+</map>

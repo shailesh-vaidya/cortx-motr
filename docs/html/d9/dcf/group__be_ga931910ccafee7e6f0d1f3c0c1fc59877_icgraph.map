@@ -1,0 +1,5 @@
+<map id="be_tx_state_move" name="be_tx_state_move">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gab50377f4da04644084ab9ca47187db9e" title="m0_be_tx_open" alt="" coords="203,5,317,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga2f7f51ff6aeaeed6e454a2acfddf1e63" title="m0_be_tx_close" alt="" coords="201,56,319,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gab5e660a829509dcfa4a4b464e72c1a51" title="be_tx_state_move_ast" alt="" coords="183,107,337,133"/>
+</map>

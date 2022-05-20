@@ -1,0 +1,7 @@
+<map id="conn_terminate_reply_sent_cb" name="conn_terminate_reply_sent_cb">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="250,5,333,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="200,56,383,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga8a09df4a01fca374985512f0a3f5b985" title="conn_cleanup_ast" alt="" coords="228,107,355,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="230,157,353,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="247,208,336,235"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="spiel__pool_cmd_status_get" name="spiel__pool_cmd_status_get">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="263,5,414,47"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="485,42,552,69"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="273,122,404,149"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="290,173,387,199"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="269,223,409,250"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga5cf3d51846f4e80aef134c024d09c3c0" title="m0_fop_put0_lock" alt="" coords="275,274,403,301"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="271,325,407,351"/>
+<area shape="rect" id="node9" href="$de/d82/group__rpc__link.html#gae4a16324b964b9497b7e33de8b48c0bb" title="m0_rpc_link_disconnect_sync" alt="" coords="240,375,437,402"/>
+<area shape="rect" id="node10" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="281,426,397,453"/>
+</map>

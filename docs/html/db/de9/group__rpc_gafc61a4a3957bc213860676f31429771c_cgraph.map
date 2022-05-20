@@ -1,0 +1,13 @@
+<map id="m0_rpc_machine_fini" name="m0_rpc_machine_fini">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="427,51,579,77"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="228,211,343,237"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga3867abe7368863fd2e709c3b4bcbd49d" title="machine_nb_idle" alt="" coords="226,109,345,136"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="420,109,587,136"/>
+<area shape="rect" id="node6" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="230,261,341,288"/>
+<area shape="rect" id="node7" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="232,312,339,339"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga3fcf417b9b0b8f86b7e6fca27a8ed911" title="m0_rpc_machine_cleanup\l_incoming_connections" alt="" coords="199,43,372,85"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga7bac31f42a103a8135eecf056ae17892" title="m0_chan_fini" alt="" coords="236,363,335,389"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gadd9069f7e1cacc4960d64146a3a0c350" title="rpc_tm_cleanup" alt="" coords="228,464,343,491"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="459,464,548,491"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gaa27de9a4b72820c653d9ac1eeb164d0b" title="__rpc_machine_fini" alt="" coords="218,515,353,541"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cas_req_fini" name="cas_req_fini">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gad3f6ef0988b027e0836339fe8f8fe0dd" title="m0_cas_req_is_locked" alt="" coords="145,5,300,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf2d979af233312b28864ccc46435c975" title="m0_rpc_item_put_lock" alt="" coords="146,56,299,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="162,107,283,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga3811156c9642154af76ce9c882985862" title="creq_recv_fini" alt="" coords="171,157,274,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#gac320340c0255af5b1305b49891a9f193" title="creq_op_free" alt="" coords="174,208,271,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="348,259,417,285"/>
+<area shape="rect" id="node8" href="$d2/d64/group__cas-client.html#gab3f5ad1029dad1787956db792f4603a4" title="cas_req_reply_fini" alt="" coords="159,309,286,336"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="178,360,267,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="178,411,267,437"/>
+</map>

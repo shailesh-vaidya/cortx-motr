@@ -1,0 +1,10 @@
+<map id="ss_fom_tick__svc_alloc" name="ss_fom_tick__svc_alloc">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="445,92,521,118"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga1eeecff1ad43b9b294e36e1a54605fca" title="m0_buf_strdup" alt="" coords="253,41,361,68"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga10b0fe66b2921001cec1da2f5e0530ff" title="m0_reqh_service_type_find" alt="" coords="216,92,397,118"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="272,142,341,169"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#gaf2fbb0b70ddfa715b155035529252536" title="m0_reqh_service_allocate" alt="" coords="220,345,393,372"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="450,294,517,321"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#ga88306fc48664fbe1496b46757cadc922" title="m0_reqh_service_init" alt="" coords="234,294,379,321"/>
+<area shape="rect" id="node9" href="$d8/d64/group__buf.html#ga4de53f6e7192c424aac50c5d229a3f5d" title="m0_buf_copy" alt="" coords="257,193,357,220"/>
+</map>

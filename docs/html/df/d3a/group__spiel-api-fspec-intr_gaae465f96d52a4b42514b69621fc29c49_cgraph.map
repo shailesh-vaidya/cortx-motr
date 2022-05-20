@@ -1,0 +1,11 @@
+<map id="spiel_process__counters_async" name="spiel_process__counters_async">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa248c73befb85443a2b7e828c9a1aa4c" title="spiel_proc_conf_obj_find" alt="" coords="220,5,385,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="468,56,535,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="265,107,341,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="244,157,361,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="433,313,569,340"/>
+<area shape="rect" id="node7" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="245,208,361,235"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="253,309,352,336"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga0522168eb80543051e9294ae62f7248f" title="spiel_proc_counter\l_item_rlink_cb" alt="" coords="237,361,368,402"/>
+<area shape="rect" id="node10" href="$de/d82/group__rpc__link.html#gab845f10e6c97bbdc4a2b7d2acc19b96c" title="m0_rpc_link_connect\l_async" alt="" coords="230,426,375,467"/>
+</map>

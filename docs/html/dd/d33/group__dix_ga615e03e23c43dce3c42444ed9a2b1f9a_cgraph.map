@@ -1,0 +1,11 @@
+<map id="dix_get_req_resend" name="dix_get_req_resend">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga3e2a0132aef454c43d897623daa1c747" title="dix_item_get_has_failed" alt="" coords="188,5,351,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gafc147efe17271b2e8682180afac14824" title="dix_item_parity_unit\l_is_last" alt="" coords="200,57,339,98"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="414,136,490,163"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="188,325,351,352"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gac27e87e3442f2940785282082a5cd27a" title="dix__rop" alt="" coords="234,224,305,251"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga5283a0db7bb0548852620d20c0a765b1" title="dix_req_failure" alt="" coords="399,212,505,239"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="407,263,497,289"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga7fe32c9d18bd103974c5f9869a093f10" title="m0_bufvec_free2" alt="" coords="208,376,331,403"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="235,427,304,453"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="stob_ut_stob_thread" name="stob_ut_stob_thread">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga73edd9e177abafdf4b508ffb2b467218" title="m0_stob_id_make" alt="" coords="233,5,361,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gaa6b83e28f137dbf105b2879f854e28fa" title="m0_stob_find" alt="" coords="247,56,347,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="239,107,354,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gaf70b93d1beacd1e8edbaf11f78e083e6" title="m0_stob_state_get" alt="" coords="448,183,581,209"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga56160fb005c7a5e49471b61ff48271d4" title="m0_stob_locate" alt="" coords="239,208,354,235"/>
+<area shape="rect" id="node7" href="$da/dda/group__utstob.html#ga8fc0f60606d088767c1b55e55a091451" title="m0_ut_stob_create" alt="" coords="230,259,363,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="233,309,361,336"/>
+<area shape="rect" id="node9" href="$d9/d6a/group__stob.html#ga90d0bf5f7f45ddcf38bf3f3636d43c90" title="m0_stob_get" alt="" coords="248,360,345,387"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="248,411,345,437"/>
+<area shape="rect" id="node11" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="231,461,363,488"/>
+<area shape="rect" id="node12" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="222,512,371,539"/>
+<area shape="rect" id="node13" href="$da/dda/group__utstob.html#ga0668f88b3f07db64099e2a6160a1dde1" title="m0_ut_stob_destroy" alt="" coords="227,563,367,589"/>
+<area shape="rect" id="node14" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ae633b52383e89ae711d37bf8798ae048" title="m0_be_ut_backend_sm\l_group_lookup" alt="" coords="217,614,377,655"/>
+<area shape="rect" id="node15" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#a460ce27df06e92aa9f9da83aecad5f8c" title="m0_be_ut_backend_thread_exit" alt="" coords="193,680,400,707"/>
+</map>

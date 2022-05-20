@@ -1,0 +1,6 @@
+<map id="m0_entity_init" name="m0_entity_init">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="187,5,275,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="156,56,307,83"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#a7250c9fd0a01905f018fd5e1ffa1f0bf" title="ut_test_m0_entity_init" alt="" coords="156,107,307,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga63413252c8c5bc27dd17cd865a4dac77" title="m0_idx_init" alt="" coords="187,157,275,184"/>
+</map>

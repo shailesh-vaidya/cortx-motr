@@ -1,0 +1,12 @@
+<map id="test_spiel_process_cmds" name="test_spiel_process_cmds">
+<area shape="rect" id="node2" href="$d9/dad/spiel__ci__ut_8c.html#aaa15f99cda35851207c50a12d53e359f" title="spiel_ci_ut_init" alt="" coords="260,5,368,32"/>
+<area shape="rect" id="node3" href="$df/d3a/group__spiel-api-fspec-intr.html#ga0e4bf9f708f384899d4f4d710acabea6" title="m0_spiel_process_reconfig" alt="" coords="224,56,404,83"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="247,107,381,133"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga5a7d1d840bc3bbe6961da52b3f4c0529" title="m0_spiel_process_health" alt="" coords="229,157,399,184"/>
+<area shape="rect" id="node6" href="$d2/d0b/version_8c.html#aad711ae4f11e7fa2e2089b3e6b16d961" title="m0_build_info_get" alt="" coords="251,208,377,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2b257cc14c17bdcdc33938702ebd6f7d" title="m0_spiel_process_lib_load" alt="" coords="225,259,403,285"/>
+<area shape="rect" id="node8" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="263,309,365,336"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga81a6217a2bb6d41a3eb8072657ef82cc" title="m0_spiel_process_stop" alt="" coords="235,360,393,387"/>
+<area shape="rect" id="node10" href="$df/d3a/group__spiel-api-fspec-intr.html#ga8f97e0ad7876fdb64d1d359319848896" title="m0_spiel_process_quiesce" alt="" coords="225,411,403,437"/>
+<area shape="rect" id="node11" href="$d9/dad/spiel__ci__ut_8c.html#a1fbadce7d3c77bdbdb4e62946a2398e8" title="spiel_ci_ut_fini" alt="" coords="260,461,368,488"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="processor_l2_cacheid_get" name="processor_l2_cacheid_get">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga17cbd393d0d1a9f0fcbccfb90628bc52" title="number_read" alt="" coords="424,99,521,126"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#gab3ad6aac7f7937bd452e06d6dcc7cabe" title="processor_is_cache\l_shared" alt="" coords="232,33,371,75"/>
+<area shape="rect" id="node4" href="$d7/da7/group__processor.html#ga3cde9514116835f12155d8ba4e4e1de0" title="processor_physid_get" alt="" coords="227,99,376,126"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga20eea305ee5411d0c0c6e7b7596a1403" title="processor_coreid_get" alt="" coords="228,150,375,177"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="commands_cb_msg_recv" name="commands_cb_msg_recv">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga1a68f092175dc9778105226cdf95ac13" title="cmd_ctx_extract" alt="" coords="252,5,371,32"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#gab2e4069ba31e3d8df5d838568085b8ff" title="m0_net_test_commands\l_invariant" alt="" coords="229,57,394,98"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga58c821e842bc0c712172d362106a0912" title="m0_net_end_point_get" alt="" coords="235,123,388,149"/>
+<area shape="rect" id="node5" href="$da/d64/group___net_test_ringbuf_internals.html#ga8b4f78da0bb88700b30dc74d3de3d062" title="m0_net_test_ringbuf_push" alt="" coords="224,173,399,200"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="245,224,377,251"/>
+</map>

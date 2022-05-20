@@ -1,0 +1,6 @@
+<map id="cs_motr_fini" name="cs_motr_fini">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="337,5,407,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga04192fb1e19953adad3e4f9ee4e102c5" title="m0_ep_and_xprt_fini" alt="" coords="147,31,289,57"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#ga873b7e35f4f3520f9d57a0d5ad3672ea" title="m0_rwlock_fini" alt="" coords="163,81,273,108"/>
+<area shape="rect" id="node5" href="$d1/d15/group__finject.html#gaff77437be0ea057053c96ecca4f8ce34" title="m0_fi_fini" alt="" coords="179,132,257,159"/>
+</map>

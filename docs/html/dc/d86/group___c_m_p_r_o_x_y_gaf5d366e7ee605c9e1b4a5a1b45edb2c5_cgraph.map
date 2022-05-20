@@ -1,0 +1,11 @@
+<map id="m0_cm_proxy_remote_update" name="m0_cm_proxy_remote_update">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga1261233072049db06bcb65e22249b903" title="m0_cm_is_locked" alt="" coords="231,5,357,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="261,56,327,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="256,107,332,133"/>
+<area shape="rect" id="node5" href="$dc/d86/group___c_m_p_r_o_x_y.html#ga51001e897bab2a1b16de117be191ceb2" title="proxy_sw_onwire_release" alt="" coords="208,157,380,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="458,183,527,209"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="432,284,553,311"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="245,309,343,336"/>
+<area shape="rect" id="node9" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaef07bafddd2278577e6249d3ca482291" title="cm_proxy_sw_onwire_post" alt="" coords="204,360,384,387"/>
+<area shape="rect" id="node10" href="$d0/db0/group___c_m_s_w.html#ga00af3356348d9d90b35717a8da172d9e" title="m0_cm_sw_copy" alt="" coords="232,411,356,437"/>
+</map>

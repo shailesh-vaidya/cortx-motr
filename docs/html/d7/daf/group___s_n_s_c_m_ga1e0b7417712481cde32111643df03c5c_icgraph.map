@@ -1,0 +1,11 @@
+<map id="local_ep" name="local_ep">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga351e0d7aa5301ddd52371dc89960bf4b" title="is_local_svc" alt="" coords="165,5,260,32"/>
+<area shape="rect" id="node3" href="$de/d2e/group___x_x_x.html#gadc4541593f113a37bb0d4da2facd22b5" title="m0_cm_repreb_sw_onwire\l_fop_setup" alt="" coords="124,158,301,199"/>
+<area shape="rect" id="node4" href="$db/d2e/group___s_n_s_c_m_s_w.html#ga3bffabd0bf6becaeab1ed0d3bb93bfa4" title="m0_sns_cm_rebalance\l_sw_onwire_fop_setup" alt="" coords="357,51,513,93"/>
+<area shape="rect" id="node5" href="$db/d2e/group___s_n_s_c_m_s_w.html#gab961a1cb58dd4b2565738e3e6e9e0fa0" title="m0_sns_cm_repair_sw\l_onwire_fop_setup" alt="" coords="357,119,513,161"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gadb91e366c1acd4eb500197f0f74335fe" title="m0_dix_rebalance_sw\l_onwire_fop_setup" alt="" coords="360,190,511,231"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga4cbdc3e560fabac393875117914a95f6" title="m0_dix_repair_sw_onwire\l_fop_setup" alt="" coords="349,266,521,307"/>
+<area shape="rect" id="node8" href="$d7/d99/conf_8c.html#a7c95f2c1d77526b572531d3c190fbb06" title="is_local_service" alt="" coords="155,325,270,352"/>
+<area shape="rect" id="node9" href="$d7/daf/group___s_n_s_c_m.html#gaf889573a63d8a59a530fa3398ca73de3" title="m0_sns_cm_tgt_ep" alt="" coords="145,376,281,403"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#ga75dd9cb423344b46e6125b5487d68196" title="m0_sns_cm_is_local_cob" alt="" coords="349,401,521,428"/>
+</map>

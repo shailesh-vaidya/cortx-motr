@@ -1,0 +1,7 @@
+<map id="m0_be_log_create" name="m0_be_log_create">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gabe9364d8ca67ce45c15ee4b169e4a852" title="be_domain_level_enter" alt="" coords="183,5,338,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#acdf424eb4d30c3a757dbd055011fe8ef" title="be_ut_log_init" alt="" coords="209,56,312,83"/>
+<area shape="rect" id="node4" href="$d2/d39/ut_2recovery_8c.html#a660f791d6407bc7fcd12a58182ae21f2" title="be_ut_recovery_log_init" alt="" coords="181,107,340,133"/>
+<area shape="rect" id="node5" href="$d9/d30/ut_2tx__group__format_8c.html#af4c9a7247b8ce30e9db836909efa9dcb" title="be_ut_tgf_log_init" alt="" coords="199,157,323,184"/>
+<area shape="rect" id="node6" href="$d2/dd6/be_2ut_2helper_8h.html#aedfc95041e565d035301869cf112c3d7" title="m0_be_ut_backend_log\l_resize" alt="" coords="181,209,340,250"/>
+</map>

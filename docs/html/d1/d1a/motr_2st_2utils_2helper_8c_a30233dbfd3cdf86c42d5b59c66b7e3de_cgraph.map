@@ -1,0 +1,10 @@
+<map id="m0_truncate" name="m0_truncate">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="186,5,274,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="161,56,299,83"/>
+<area shape="rect" id="node4" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#abb68272e41808be593338f6dcbf921cf" title="open_entity" alt="" coords="185,107,275,133"/>
+<area shape="rect" id="node5" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a4330c63cb2c5a17f32221e36473bc6be" title="entity_sm_state" alt="" coords="173,157,287,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="163,208,297,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="166,259,294,285"/>
+<area shape="rect" id="node8" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a7a8f5b769da71a7894f962828a100a67" title="punch_data_from_object" alt="" coords="148,309,312,336"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="179,360,281,387"/>
+</map>

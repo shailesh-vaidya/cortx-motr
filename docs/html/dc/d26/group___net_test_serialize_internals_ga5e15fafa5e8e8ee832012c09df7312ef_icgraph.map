@@ -1,0 +1,12 @@
+<map id="m0_net_test_serialize" name="m0_net_test_serialize">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga6a075b97bcaef33ac590589aa48a86e1" title="cmd_status_data_serialize" alt="" coords="436,177,613,203"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#gab2242dd1ab3578add7ab66fff9bde8bc" title="cmd_serialize" alt="" coords="661,177,764,203"/>
+<area shape="rect" id="node4" href="$df/d38/group___net_test_network_internals.html#gae7c045c09f48191f91e1c1cbbabb0070" title="network_bd_serialize" alt="" coords="223,75,367,102"/>
+<area shape="rect" id="node5" href="$df/d38/group___net_test_network_internals.html#gaa79cf38eb7d6e629401974798685e2c0" title="network_bds_serialize" alt="" coords="220,126,371,153"/>
+<area shape="rect" id="node6" href="$d2/d5f/ut_2serialize_8c.html#a9f7d2d4217754b733d8d04686e80c34e" title="simple_struct_serialize" alt="" coords="218,177,373,203"/>
+<area shape="rect" id="node7" href="$dd/d18/group___net_test_s_list_internals.html#ga5cd622f2f9e69dd3d1493b534a21c270" title="slist_encode" alt="" coords="248,227,343,254"/>
+<area shape="rect" id="node8" href="$dd/d18/group___net_test_s_list_internals.html#ga18e28509787752a00607afe0f91ce1a2" title="slist_decode" alt="" coords="248,278,343,305"/>
+<area shape="rect" id="node9" href="$d2/de9/group___net_test_stats_d_f_s.html#gab89f2449728f83c984c004050c5a2b1b" title="m0_net_test_stats_serialize" alt="" coords="203,329,388,355"/>
+<area shape="rect" id="node10" href="$dc/d3f/group___net_test_timestamp_d_f_s.html#ga4b349c70449d903c295c9d7585af1544" title="m0_net_test_timestamp\l_serialize" alt="" coords="214,380,377,421"/>
+<area shape="rect" id="node11" href="$d0/d1d/group___net_test_str_d_f_s.html#gabc3f2e4405739755b450911c6996596a" title="m0_net_test_str_serialize" alt="" coords="439,261,610,287"/>
+</map>

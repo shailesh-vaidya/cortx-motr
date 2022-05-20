@@ -1,0 +1,12 @@
+<map id="confd_cache_preload" name="confd_cache_preload">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="199,5,344,32"/>
+<area shape="rect" id="node3" href="$d0/dc4/group__conf__dfspec__preload.html#ga34d41b04f28f54ce9ef01deb6c2e06ea" title="m0_confstr_parse" alt="" coords="208,107,335,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="418,69,494,96"/>
+<area shape="rect" id="node5" href="$d0/dc4/group__conf__dfspec__preload.html#gab546b95a7656688b52ab24f92ec75661" title="m0_confx_free" alt="" coords="402,132,510,159"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="423,233,489,260"/>
+<area shape="rect" id="node7" href="$dd/d7b/group__conf__dlspec__objops.html#gafa3f48f19a9737fda426349201ee41f4" title="m0_conf_obj_find" alt="" coords="209,259,333,285"/>
+<area shape="rect" id="node8" href="$dd/df9/group__conf__dfspec__obj.html#ga7a9de54bfbfed026c6862370d3cc9999" title="m0_conf_objx_fid" alt="" coords="209,411,333,437"/>
+<area shape="rect" id="node9" href="$dd/d7b/group__conf__dlspec__objops.html#ga97c0f5a3b12f323eacf61fc762fa8480" title="m0_conf_obj_fill" alt="" coords="213,309,329,336"/>
+<area shape="rect" id="node10" href="$dd/df9/group__conf__dfspec__obj.html#ga4e2b6ab0c76cd262ddd07e29342db2af" title="m0_conf_obj_type" alt="" coords="392,335,520,361"/>
+<area shape="rect" id="node11" href="$d7/d08/group__tlist.html#ga8d93d1a38f372f8c3515b3d1fa4659a0" title="m0_tlink_is_in" alt="" coords="219,461,324,488"/>
+</map>

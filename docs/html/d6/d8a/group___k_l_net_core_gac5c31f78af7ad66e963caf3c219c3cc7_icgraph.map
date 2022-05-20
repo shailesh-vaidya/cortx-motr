@@ -1,0 +1,7 @@
+<map id="nlx_kcore_kiov_restore_length" name="nlx_kcore_kiov_restore_length">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#gaac694ab2e22ac3e6e9d8086f479480b8" title="nlx_kcore_buf_msg_send" alt="" coords="219,5,390,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#gae9423a296b28599e7dfbd4abd9329386" title="nlx_kcore_buf_active_recv" alt="" coords="216,56,393,83"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#ga5478b008b5ae39f99ae37bb72317c9e0" title="nlx_kcore_buf_active_send" alt="" coords="215,107,395,133"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#gaf739cf07052c72e212199bc49a54d80d" title="nlx_kcore_buf_passive_send" alt="" coords="209,157,400,184"/>
+<area shape="rect" id="node6" href="$df/df1/klnet__ut_8c.html#a956ddaa40cddba502f949ba5e2d5fb2a" title="ktest_msg_body" alt="" coords="245,208,364,235"/>
+</map>

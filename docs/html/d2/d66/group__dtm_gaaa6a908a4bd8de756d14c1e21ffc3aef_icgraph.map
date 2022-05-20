@@ -1,0 +1,6 @@
+<map id="m0_dtm0_tx_desc_state_eq" name="m0_dtm0_tx_desc_state_eq">
+<area shape="rect" id="node2" href="$de/d0c/group___d_t_m0_internals.html#ga68e3456ffc1de25e96b9e80d4c4f0ef5" title="m0_be_dtm0_log_prune" alt="" coords="240,5,400,32"/>
+<area shape="rect" id="node3" href="$de/d0c/group___d_t_m0_internals.html#ga1c63b760ce5abb3ee399e7e2262bd509" title="m0_be_dtm0_log_clear" alt="" coords="242,56,398,83"/>
+<area shape="rect" id="node4" href="$de/d0c/group___d_t_m0_internals.html#ga882842ba941e09db7efa4b3d6d886d09" title="m0_be_dtm0_plog_can\l_prune" alt="" coords="242,107,398,149"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#gad48d491c4ce4864315614b4ef3c64bdd" title="dtx_log_insert" alt="" coords="269,173,371,200"/>
+</map>

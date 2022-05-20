@@ -1,0 +1,5 @@
+<map id="find_pool_item" name="find_pool_item">
+<area shape="rect" id="node2" href="$d2/d6b/conn__pool_8h.html#a2c65f855455f98bf80ad0631e2292a59" title="m0_rpc_conn_pool_get_sync" alt="" coords="427,25,617,52"/>
+<area shape="rect" id="node3" href="$d2/d6b/conn__pool_8h.html#a9bdc2b2699cc95ffd1ceaa8117ed69ea" title="m0_rpc_conn_pool_put" alt="" coords="191,25,347,52"/>
+<area shape="rect" id="node4" href="$d2/d6b/conn__pool_8h.html#a7b3814e9e360516cc053bacff644a610" title="m0_rpc_conn_pool_session_chan" alt="" coords="160,76,379,103"/>
+</map>

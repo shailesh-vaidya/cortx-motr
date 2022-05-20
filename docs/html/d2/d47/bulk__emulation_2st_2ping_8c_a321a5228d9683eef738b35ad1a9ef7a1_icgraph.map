@@ -1,0 +1,6 @@
+<map id="server_event_ident" name="server_event_ident">
+<area shape="rect" id="node2" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a533e3fef947978911247dfd4889cf280" title="s_m_recv_cb" alt="" coords="187,5,287,32"/>
+<area shape="rect" id="node3" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a62aa19a833c5e8553c26329118f54faa" title="s_m_send_cb" alt="" coords="185,56,288,83"/>
+<area shape="rect" id="node4" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aa6484c08fd1d1ce6c7c8f327dd95a217" title="s_a_recv_cb" alt="" coords="189,107,285,133"/>
+<area shape="rect" id="node5" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a4e70705b86a5c23e01f08ce77bb0cf7a" title="s_a_send_cb" alt="" coords="187,157,286,184"/>
+</map>

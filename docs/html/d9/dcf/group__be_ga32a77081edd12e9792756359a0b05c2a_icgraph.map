@@ -1,0 +1,9 @@
+<map id="m0_be_btree_destroy" name="m0_be_btree_destroy">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a13c25211b78b0899e94c03d250b79a07" title="balloc_trees_create" alt="" coords="216,5,351,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#a269ec41ac7a516f743c54f137dd744ce" title="destroy_tree" alt="" coords="236,56,331,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga8da2983c75b83083eacf4b5203ba39f5" title="m0_be_emap_destroy" alt="" coords="208,107,359,133"/>
+<area shape="rect" id="node5" href="$d8/d50/ctg__store_8c.html#a51f13815ab1fb4918c69c7567d4262ad" title="ctg_destroy" alt="" coords="238,157,329,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a8f0cd0e0b9c6f4b1379ef86dd1d75ef3" title="ctg_op_exec_normal" alt="" coords="212,208,355,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga834203d92a2f4b53253ebcf3deb339b1" title="m0_cob_domain_destroy" alt="" coords="200,259,367,285"/>
+<area shape="rect" id="node8" href="$da/d4e/db_8h.html#a767a0f7a32e9d347620d1b0ce4f04a81" title="m0_confdb_destroy" alt="" coords="215,309,351,336"/>
+</map>

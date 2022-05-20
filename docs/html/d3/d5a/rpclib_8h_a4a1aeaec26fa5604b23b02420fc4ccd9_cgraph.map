@@ -1,0 +1,8 @@
+<map id="m0_rpc_client_connect" name="m0_rpc_client_connect">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga156c33ba284b2a346414c38891148114" title="m0_net_end_point_create" alt="" coords="209,5,380,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="428,107,495,133"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga6f56bfedf841c0e73e6d61547864a503" title="m0_rpc_conn_create" alt="" coords="223,107,366,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#gaefce6a1c8eeaca5e47c72e728cf89f0c" title="m0_net_end_point_put" alt="" coords="218,157,371,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga27ef5040cce8192ba6c7dfc49d4c3760" title="m0_rpc_session_create" alt="" coords="215,208,375,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#ga721546d8291b24436bbc73ba8700a4b0" title="m0_rpc_conn_destroy" alt="" coords="219,259,370,285"/>
+</map>

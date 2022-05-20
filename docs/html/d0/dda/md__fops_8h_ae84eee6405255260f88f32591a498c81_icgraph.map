@@ -1,0 +1,7 @@
+<map id="m0_md_cob_mem2wire" name="m0_md_cob_mem2wire">
+<area shape="rect" id="node2" href="$d9/d51/cob__foms_8c.html#a436b45604f1eba4458e8a0618f0bc238" title="cob_getattr_fom_tick" alt="" coords="228,5,372,32"/>
+<area shape="rect" id="node3" href="$d5/d5d/ut_2cob__foms_8c.html#ac5b31f95e958bd95a125bc2583ff75c4" title="cobfops_populate_internal" alt="" coords="213,56,387,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#a87ce6fe98ce7d0d60e0ae807f06db084" title="fop_alloc" alt="" coords="263,107,337,133"/>
+<area shape="rect" id="node5" href="$d4/d4c/md__foms_8c.html#a8b6b15a935641738a41603bf168ff7b1" title="m0_md_tick_lookup" alt="" coords="231,157,369,184"/>
+<area shape="rect" id="node6" href="$d4/d4c/md__foms_8c.html#add4b27e342075cf7d689a0b53898448c" title="m0_md_tick_getattr" alt="" coords="231,208,369,235"/>
+</map>

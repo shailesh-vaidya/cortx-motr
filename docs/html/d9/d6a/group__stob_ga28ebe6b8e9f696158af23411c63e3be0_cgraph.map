@@ -1,0 +1,5 @@
+<map id="m0_stob_type_register" name="m0_stob_type_register">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#gad5c67b3e6e3a9f6e5c3611ed46614c3b" title="stob_types_get" alt="" coords="224,5,335,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="226,56,333,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#gad92b3b01d6430bd107c28efeeeed825f" title="m0_fid_type_register" alt="" coords="208,107,351,133"/>
+</map>

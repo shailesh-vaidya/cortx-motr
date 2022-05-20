@@ -1,0 +1,12 @@
+<map id="owner_grp" name="owner_grp">
+<area shape="rect" id="node2" href="$d2/dab/file_2ut_2file_8c.html#acb45866479a1a04ecf281d1a6158a742" title="test_verify" alt="" coords="379,43,461,70"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga6b63c1ac2023db214ce667ea5e24d89e" title="owner_smgrp_is_locked" alt="" coords="136,195,299,222"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="150,43,285,70"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga66f0aa542468273007b2324acc60bd86" title="m0_rm_owner_init" alt="" coords="356,94,484,120"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga5fda99545f7f45bad626b58e8f094020" title="m0_rm_owner_trylock" alt="" coords="142,296,293,323"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#gaadd41e3e327172608c63f963776db593" title="rev_session_clink_cb" alt="" coords="347,271,493,298"/>
+<area shape="rect" id="node8" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="143,94,292,120"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#gae85a9aa985d78a0fd6bb2e2d5cdb4ae4" title="m0_rm_incoming_init" alt="" coords="145,347,290,374"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#gaed16bd45cbbea51bdd350f62bf219e91" title="m0_rm_outgoing_send" alt="" coords="141,398,294,424"/>
+<area shape="rect" id="node11" href="$d7/db2/rm__fops_8c.html#a1a2da50fcbd96aaf8af99284ea0cfc1b" title="rm_reply_process" alt="" coords="155,448,280,475"/>
+</map>

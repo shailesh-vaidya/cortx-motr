@@ -1,0 +1,6 @@
+<map id="be_ut_recovery_log_init" name="be_ut_recovery_log_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="241,5,347,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gaea5530a0eecda769151b3db2751d83e3" title="m0_stob_domain_create" alt="" coords="212,56,376,83"/>
+<area shape="rect" id="node4" href="$d2/d39/ut_2recovery_8c.html#a86ba6518bce8d01601a929ba0a94ca12" title="be_ut_recovery_log\l_cfg_set" alt="" coords="227,107,361,149"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3cf1b86d8418a191c42172e4241c380f" title="m0_be_log_create" alt="" coords="230,173,358,200"/>
+</map>

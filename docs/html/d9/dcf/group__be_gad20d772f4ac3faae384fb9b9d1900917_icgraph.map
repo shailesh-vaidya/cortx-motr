@@ -1,0 +1,5 @@
+<map id="btree_mem_alloc_credit" name="btree_mem_alloc_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf3517d8e8d483a47ed8c8a615d35f77e" title="btree_node_alloc_credit" alt="" coords="213,5,372,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga6975e8c33eb52f3cd2cd0b9589f51121" title="kv_insert_credit" alt="" coords="235,56,350,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac443c248566338fb4035b5c848715934" title="m0_be_btree_update\l_credit" alt="" coords="221,107,364,149"/>
+</map>

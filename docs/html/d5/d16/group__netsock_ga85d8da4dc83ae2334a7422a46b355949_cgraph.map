@@ -1,0 +1,11 @@
+<map id="sock_done" name="sock_done">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga78251ee15fee7c0c5da7f01379891e47" title="ep_ma" alt="" coords="464,234,525,261"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="139,31,241,58"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gadbe2464eb0dd92b5b19e5f2cfe21b715" title="sock_invariant" alt="" coords="299,133,406,159"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gaae7a60c600aecff6e08ebb32cf387475" title="sock_close" alt="" coords="146,133,234,159"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#ga2482df25ee4d73a2fcdfe64fdadd7079" title="sock_writer" alt="" coords="308,183,397,210"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga023f04699c602a061ce4d4353e71c78a" title="mover_fini" alt="" coords="149,234,231,261"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga44ae6c237c23107f3a9c5b9202582416" title="m0_sm_state_set" alt="" coords="289,259,416,286"/>
+<area shape="rect" id="node9" href="$d5/d16/group__netsock.html#gadc31941bba50c68b4c51483468b7acd4" title="sock_ctl" alt="" coords="317,335,388,362"/>
+<area shape="rect" id="node10" href="$d5/d16/group__netsock.html#ga98d09139fd60f6dd4f1200e42646b498" title="ep_balance" alt="" coords="146,386,234,413"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_rpc_conn_pool_get_sync" name="m0_rpc_conn_pool_get_sync">
+<area shape="rect" id="node2" href="$db/d3c/conn__pool_8c.html#a156c79b3485d31c0f0c83c5e207f953e" title="m0_rpc_conn_pool_get\l_async" alt="" coords="275,5,431,47"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="531,42,597,69"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="304,122,403,149"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="287,173,420,199"/>
+<area shape="rect" id="node6" href="$db/d3c/conn__pool_8c.html#a7b3814e9e360516cc053bacff644a610" title="m0_rpc_conn_pool_session_chan" alt="" coords="244,223,463,250"/>
+<area shape="rect" id="node7" href="$db/d3c/conn__pool_8c.html#aad939fcb200453a8330bf5e756fa2f20" title="find_pool_item" alt="" coords="511,274,617,301"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="300,325,407,351"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="304,375,403,402"/>
+<area shape="rect" id="node10" href="$db/d3c/conn__pool_8c.html#a9bdc2b2699cc95ffd1ceaa8117ed69ea" title="m0_rpc_conn_pool_put" alt="" coords="275,426,431,453"/>
+</map>

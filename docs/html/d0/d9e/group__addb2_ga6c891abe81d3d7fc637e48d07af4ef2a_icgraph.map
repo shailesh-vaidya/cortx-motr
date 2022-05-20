@@ -1,0 +1,11 @@
+<map id="sm_trans" name="sm_trans">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gacbb87429dcdaaa19bdfbeb22846a3608" title="fom_state_counter" alt="" coords="132,5,263,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga684e8ae469c8d92110955ea7d6ecaaf7" title="fop_counter" alt="" coords="152,56,243,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#ga2795bed0ce5b190838096b56e4fbe0e0" title="tx_state_counter" alt="" coords="138,107,257,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gacd5841d44c708385d503423a05714ed1" title="dtx0_state_counter" alt="" coords="131,157,264,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga023ad7b170c165b50e0eee33ad0e0a25" title="beop_state_counter" alt="" coords="129,208,265,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga6121b3d89b37d005fe44d4b0cc99c74d" title="state_counter" alt="" coords="147,259,248,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#gacaf4cfe709732739e29d2dcad920d6f8" title="dix_state_counter" alt="" coords="135,309,260,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga2fb9462d589d1e76aa29709408c73e4e" title="cas_state_counter" alt="" coords="133,360,262,387"/>
+<area shape="rect" id="node10" href="$d0/d9e/group__addb2.html#gade64a4486896c295b1b0139d5cab5002" title="ioo_state_counter" alt="" coords="135,411,260,437"/>
+</map>

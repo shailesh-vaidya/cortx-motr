@@ -1,0 +1,13 @@
+<map id="m0_clink_cleanup" name="m0_clink_cleanup">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga493e5fe82534d1ea0a490abb911410d6" title="pools_common_conf_expired_cb" alt="" coords="459,228,671,254"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="216,56,375,82"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gac24ca84ed0d219c602f5d5c816ccbf0f" title="rconfc_conductor_disconnected_ast" alt="" coords="180,106,411,133"/>
+<area shape="rect" id="node5" href="$d3/da7/rconfc__link__fom_8c.html#a9871da352bf72d0f77297b2cfcc7ba80" title="rconfc_link_fom_clink\l_cleanup_fini" alt="" coords="221,158,369,199"/>
+<area shape="rect" id="node6" href="$d3/da7/rconfc__link__fom_8c.html#ada26646bbaaf79b64f55b214d2cb6f0a" title="rconfc_herd_link_fom\l_wait_on" alt="" coords="222,223,369,264"/>
+<area shape="rect" id="node7" href="$d0/dfe/group__sdev.html#ga32d53dc7c596e27d38bf03382600cc73" title="m0_storage_devs_fini" alt="" coords="221,289,370,316"/>
+<area shape="rect" id="node8" href="$d0/dfe/group__sdev.html#gadb4d356b09dae4a0df7ee8fab56ca0ef" title="m0_storage_dev_clink_del" alt="" coords="207,340,383,366"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#ga0e009bd4b5055a7e5af873b8d253ab5d" title="m0_poolmach_fini" alt="" coords="232,390,359,417"/>
+<area shape="rect" id="node10" href="$da/ddc/group__reqhservice.html#ga86f2473648e29219d502a4bac8f698f5" title="m0_reqh_service_ctx\l_unsubscribe" alt="" coords="222,442,369,483"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="229,508,362,534"/>
+<area shape="rect" id="node12" href="$df/db4/group__rpc__session.html#gaac498e568abefc231e8dee9c578d82af" title="__conn_fini" alt="" coords="251,558,339,585"/>
+</map>

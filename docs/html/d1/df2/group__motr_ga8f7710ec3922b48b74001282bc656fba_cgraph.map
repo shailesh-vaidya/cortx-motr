@@ -1,0 +1,9 @@
+<map id="m0_motr_ha_init" name="m0_motr_ha_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="198,5,274,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#ga9a161ecea3377e82eb328ca2f75983d6" title="m0_module_setup" alt="" coords="172,56,300,83"/>
+<area shape="rect" id="node4" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="203,107,269,133"/>
+<area shape="rect" id="node5" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="179,157,293,184"/>
+<area shape="rect" id="node6" href="$d7/da6/group__module.html#gaf67b9c80ea6d4020e59668be75fe8cac" title="m0_module_fini" alt="" coords="179,208,293,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="201,259,271,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="203,309,269,336"/>
+</map>

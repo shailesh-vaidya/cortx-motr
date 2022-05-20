@@ -1,0 +1,9 @@
+var classaddb2db_1_1sxid__to__rpc =
+[
+    [ "id", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#acf2488b95c97e0378c9bf49de3b50f28", null ],
+    [ "opcode", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#a299fc707c775371e0b2b0495ccb6158e", null ],
+    [ "pid", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#ac47ca0713353d3fc9435a4f208f6b9a3", null ],
+    [ "session_id", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#a4f928e4b85a9b2509ac117b433fe93d1", null ],
+    [ "time", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#a70c092a6aebace0b1ea406e14da78a40", null ],
+    [ "xid", "d4/d95/classaddb2db_1_1sxid__to__rpc.html#a2946fb14716f3108a94cc2804b78c7cf", null ]
+];

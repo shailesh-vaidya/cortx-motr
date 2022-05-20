@@ -1,0 +1,5 @@
+<map id="ringbuf_push_pop" name="ringbuf_push_pop">
+<area shape="rect" id="node2" href="$da/d64/group___net_test_ringbuf_internals.html#ga8b4f78da0bb88700b30dc74d3de3d062" title="m0_net_test_ringbuf_push" alt="" coords="177,5,352,32"/>
+<area shape="rect" id="node3" href="$da/d64/group___net_test_ringbuf_internals.html#ga0007258049234ad1644bc87f35d4124c" title="m0_net_test_ringbuf_nr" alt="" coords="185,56,344,83"/>
+<area shape="rect" id="node4" href="$da/d64/group___net_test_ringbuf_internals.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="181,107,349,133"/>
+</map>

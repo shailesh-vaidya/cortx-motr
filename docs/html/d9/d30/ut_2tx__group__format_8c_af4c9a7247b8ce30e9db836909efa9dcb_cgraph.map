@@ -1,0 +1,6 @@
+<map id="be_ut_tgf_log_init" name="be_ut_tgf_log_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="206,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#gaea5530a0eecda769151b3db2751d83e3" title="m0_stob_domain_create" alt="" coords="177,56,341,83"/>
+<area shape="rect" id="node4" href="$d9/d30/ut_2tx__group__format_8c.html#ae34c056ea30768c76eef5385915565f1" title="be_ut_tgf_log_cfg_set" alt="" coords="184,107,335,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3cf1b86d8418a191c42172e4241c380f" title="m0_be_log_create" alt="" coords="195,157,323,184"/>
+</map>

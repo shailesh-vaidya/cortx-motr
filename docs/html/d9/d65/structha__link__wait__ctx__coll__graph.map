@@ -1,0 +1,5 @@
+<map id="ha_link_wait_ctx" name="ha_link_wait_ctx">
+<area shape="rect" id="node4" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="281,202,355,279"/>
+<area shape="rect" id="node6" href="$da/d7e/structm0__ha__link.html" title="{m0_ha_link\n|+ hln_fom_enable_wakeup\l+ hln_replied\l+ hln_released\l+ hln_reconnect_cfg_is_set\l+ hln_quiesced\l+ hln_service_quiescing\l|}" alt="" coords="401,399,584,549"/>
+<area shape="rect" id="node3" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="263,5,373,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="test_get_put_multiple" name="test_get_put_multiple">
+<area shape="rect" id="node2" href="$d7/dfe/buffer__pool__ut_8c.html#ac94f759827073e859d915c4077a01439" title="buffers_get_put" alt="" coords="212,45,323,72"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="383,5,549,32"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="399,67,533,109"/>
+<area shape="rect" id="node5" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="212,147,323,173"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="233,197,302,224"/>
+<area shape="rect" id="node7" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="200,249,335,290"/>
+</map>

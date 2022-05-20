@@ -1,0 +1,6 @@
+<map id="test_prune" name="test_prune">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="136,5,303,32"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#ga3bf9b14c32877d0d93dd44c2143b60a3" title="m0_net_buffer_pool\l_prune" alt="" coords="152,57,287,98"/>
+<area shape="rect" id="node4" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="351,86,485,127"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="152,174,287,215"/>
+</map>

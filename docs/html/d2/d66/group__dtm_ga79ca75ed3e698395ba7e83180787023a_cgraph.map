@@ -1,0 +1,8 @@
+<map id="m0_dtm_reply_pack" name="m0_dtm_reply_pack">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#gae4900bed6f178ab226bcf837f6e36775" title="oper_lock" alt="" coords="235,5,314,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#ga2cc573b4889d369e6aa21ced8a56d355" title="m0_dtm_oper_invariant" alt="" coords="405,81,563,108"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gaa5fa4b1690ce5fb471d48c80a7eac4ce" title="m0_dtm_oper_get" alt="" coords="211,107,338,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#gabb248d073e3b94b4f495beda7f5d3d63" title="m0_dtm_descr_matches\l_update" alt="" coords="192,158,357,199"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga32f292daeadb7db81f1a8b7dc25a6034" title="m0_dtm_update_pack" alt="" coords="199,224,350,251"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gaa59e1f5cef3b6a2ae9578c805afd848d" title="oper_unlock" alt="" coords="229,275,321,301"/>
+</map>

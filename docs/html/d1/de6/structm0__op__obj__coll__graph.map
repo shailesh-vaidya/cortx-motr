@@ -1,0 +1,9 @@
+<map id="m0_op_obj" name="m0_op_obj">
+<area shape="rect" id="node2" href="$d7/d35/structm0__layout__instance.html" title="{m0_layout_instance\n||}" alt="" coords="48,363,186,440"/>
+<area shape="rect" id="node4" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="202,160,264,237"/>
+<area shape="rect" id="node5" href="$da/ddf/structm0__ast__rc.html" title="{m0_ast_rc\n||}" alt="" coords="281,261,364,339"/>
+<area shape="rect" id="node6" href="$dd/d42/structm0__op__common.html" title="{m0_op_common\n||}" alt="" coords="371,261,490,339"/>
+<area shape="rect" id="node8" href="$de/d06/structm0__buf.html" title="{m0_buf\n||}" alt="" coords="492,160,558,237"/>
+<area shape="rect" id="node7" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="616,363,720,440"/>
+<area shape="rect" id="node9" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="744,363,810,440"/>
+</map>

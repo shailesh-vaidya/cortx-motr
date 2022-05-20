@@ -1,0 +1,10 @@
+<map id="m0_conf_obj_find_lock" name="m0_conf_obj_find_lock">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga3c40e5b7a1f3dea1278b166e0ffdabe5" title="dix_pool_setup" alt="" coords="231,5,341,32"/>
+<area shape="rect" id="node3" href="$d0/da4/group___c_m.html#gaeed372e7681a654aa23152e35f1ce1b6" title="cm_replicas_connect" alt="" coords="213,56,359,83"/>
+<area shape="rect" id="node4" href="$d9/dc8/sns_2cm_2rebalance_2cm_8c.html#a66eb630891fdd4841f0486c3d18f6415" title="rebalance_cm_stop" alt="" coords="219,107,353,133"/>
+<area shape="rect" id="node5" href="$d3/d15/sns_2cm_2repair_2cm_8c.html#ae7115da58a853321178014e71919eb4a" title="repair_cm_stop" alt="" coords="231,157,341,184"/>
+<area shape="rect" id="node6" href="$d0/dca/group__confc__dfspec.html#ga73047fa885ff373f1b4ffd9a943ca100" title="m0_confc_open_by_fid" alt="" coords="208,208,364,235"/>
+<area shape="rect" id="node7" href="$db/dc2/conf_2helpers_8c.html#a18a3841e04e943dddbfbc1e440c47762" title="confc_obj_get" alt="" coords="235,259,337,285"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#ga3135666601237aee1bec7e928bee6f33" title="rconfc_conf_full_load" alt="" coords="213,309,359,336"/>
+<area shape="rect" id="node9" href="$d7/d48/ut_2note_8c.html#a1fc979506196709f09e767b1184a1ec3" title="check_pver_subtree" alt="" coords="217,360,355,387"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="m0_pageshift_get" name="m0_pageshift_get">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#a57b990e1e5a3275a82ac9f8ba7967990" title="cas_place" alt="" coords="219,5,301,32"/>
+<area shape="rect" id="node3" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#aafe0cbdb0c5210ee9bd16f09122b3a7d" title="alloc_vecs" alt="" coords="218,56,302,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga2e53fa990c38a7be6965e64247ece65b" title="vals_create" alt="" coords="215,107,305,133"/>
+<area shape="rect" id="node5" href="$d4/d8c/group__conf__foms.html#ga91ba6c7f95834863e5f3b4b004d17e82" title="conf_net_buffer_allocate" alt="" coords="179,157,341,184"/>
+<area shape="rect" id="node6" href="$d4/d8c/group__conf__foms.html#ga44e9d2117554bdde5826bb6e19cd8bfc" title="conf_buffer_free" alt="" coords="203,208,317,235"/>
+<area shape="rect" id="node7" href="$d0/dc4/group__conf__dfspec__preload.html#ga8bdd0219ba175080ca79f29eab77e943" title="m0_confx_to_string" alt="" coords="192,259,328,285"/>
+<area shape="rect" id="node8" href="$d0/dc4/group__conf__dfspec__preload.html#ga33c10d634a077c37a206826101214ab5" title="m0_confx_string_free" alt="" coords="187,309,333,336"/>
+<area shape="rect" id="node9" href="$de/d70/group___d_i_x_c_m.html#ga699556222d6354c65850d17429197b25" title="dix_cm_iter_buf_copy" alt="" coords="185,360,335,387"/>
+<area shape="rect" id="node10" href="$de/d09/crate__index_8c.html#a02da4c586ba394b85af98ecbb416ff33" title="fill_kv_put" alt="" coords="219,411,301,437"/>
+<area shape="rect" id="node11" href="$d7/df1/group__rpc-at.html#ga3800920f3fc4584d8bdb4804ddf26d7a" title="rpc_at_bulk_nb_alloc" alt="" coords="188,461,332,488"/>
+<area shape="rect" id="node12" href="$d7/df1/group__rpc-at.html#ga87203ab55b104ef73716ebba1b56abfc" title="rpc_at_bulk_nb_free" alt="" coords="191,512,329,539"/>
+<area shape="rect" id="node13" href="$d7/df1/group__rpc-at.html#ga68b1828989b1d4d8d8b019e9070ea492" title="m0_rpc_at_add" alt="" coords="205,563,315,589"/>
+<area shape="rect" id="node14" href="$d9/d84/at__ut_8h.html#adbe266ade727c7ebd4d27f4f0be38382" title="atut__bufdata_alloc" alt="" coords="193,613,327,640"/>
+</map>

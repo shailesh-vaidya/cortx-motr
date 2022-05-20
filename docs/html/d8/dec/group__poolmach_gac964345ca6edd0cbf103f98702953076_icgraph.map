@@ -1,0 +1,16 @@
+<map id="m0_poolmach_state_transit" name="m0_poolmach_state_transit">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga84dce39643fb0eff92a7868157b8dbde" title="node_poolmach_state\l_update_cb" alt="" coords="253,5,403,47"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga17d9c6d6ea512362896e0c02f2e9ae79" title="disks_poolmach_state\l_update_cb" alt="" coords="252,71,404,112"/>
+<area shape="rect" id="node4" href="$db/d9c/group__servermachine.html#gaa186fd317208f2c4968216ed0c00da0a" title="m0_pool_device_state\l_update" alt="" coords="252,136,404,177"/>
+<area shape="rect" id="node5" href="$db/d71/dix_2ut_2client__ut_8c.html#ac9922834375ca6be5585e52a360d384d" title="dix_pm_disk_state_set" alt="" coords="250,202,406,229"/>
+<area shape="rect" id="node6" href="$d7/d48/ut_2note_8c.html#ac18f98b144e8649ec83ec20d164c5257" title="pm_event_construct\l_and_apply" alt="" coords="258,253,398,295"/>
+<area shape="rect" id="node7" href="$d5/d10/pool__foms_8c.html#a3ae6521930336f9c2af634cd6f638f5f" title="poolmach_set_op" alt="" coords="266,319,390,346"/>
+<area shape="rect" id="node8" href="$d8/dec/group__poolmach.html#ga6007a2544fe5708cfd2399f473e35ab5" title="poolmach_state_update" alt="" coords="248,370,408,397"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#ga071e928905a90d459e712b7b3dbf6bdc" title="m0_poolmach_failvec\l_apply" alt="" coords="473,523,621,564"/>
+<area shape="rect" id="node10" href="$d4/d6a/test__pm_8c.html#a82b1abe17cefaf21037143096f8f1fed" title="pm_test_transit" alt="" coords="687,435,799,462"/>
+<area shape="rect" id="node11" href="$d4/d6a/test__pm_8c.html#a168112f21dcf0891381e445baab94193" title="pm_test_spare_slot" alt="" coords="675,515,811,542"/>
+<area shape="rect" id="node12" href="$d4/d6a/test__pm_8c.html#a7edcb49344e9cc70883e2779943d1c72" title="pm_test_multi_fail" alt="" coords="679,621,807,647"/>
+<area shape="rect" id="node13" href="$d8/dec/group__poolmach.html#ga2c31ada6b72740b6631c231923cd47d1" title="poolmach_spare_inherit" alt="" coords="468,614,627,641"/>
+<area shape="rect" id="node14" href="$d8/dec/group__poolmach.html#ga1d9c2019bfaca65505d626557d6bc3e2" title="m0_poolmach_event_queue\l_apply" alt="" coords="236,573,420,615"/>
+<area shape="rect" id="node15" href="$dc/da6/cp__common_8h.html#a95d37d5688aa8a17b661e451788c415a" title="pool_mach_transit" alt="" coords="264,741,392,767"/>
+</map>

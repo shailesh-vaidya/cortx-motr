@@ -1,0 +1,11 @@
+<map id="m0_rpc_item_failed" name="m0_rpc_item_failed">
+<area shape="rect" id="node2" href="$d1/d38/sd__common_8c.html#a4d0800b9a269fcd480d164fa72e1a461" title="test_item_done" alt="" coords="204,5,315,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga35156e22353e1e7e3f14f2a6455ce053" title="drop_all_items" alt="" coords="206,56,313,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga19456426c3b750c13c91fad820ba336b" title="item_done" alt="" coords="218,107,301,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga20214e86cb38dae19676f9e7715b0b7b" title="item_fail" alt="" coords="224,157,295,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="188,209,331,250"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gad548de702d8f344e3c80b1c7627ee723" title="item_timedout" alt="" coords="207,275,311,301"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaa5647552e63e016f70f9c597fce592b3" title="item_resend" alt="" coords="407,339,500,365"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="193,376,325,403"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="379,401,528,428"/>
+</map>

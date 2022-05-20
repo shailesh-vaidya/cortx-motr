@@ -1,0 +1,14 @@
+<map id="loc_glob" name="loc_glob">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="348,25,468,52"/>
+<area shape="rect" id="node3" href="$d8/dec/group__locality.html#gabc71d9f29c0cc950480c2bc876e1ae07" title="m0_locality_get" alt="" coords="147,50,260,77"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="143,101,263,128"/>
+<area shape="rect" id="node5" href="$d8/dec/group__locality.html#gaafe64d7000c742c20d577e68bcac8ff5" title="m0_locality_dom_set" alt="" coords="131,152,276,178"/>
+<area shape="rect" id="node6" href="$d8/dec/group__locality.html#gaa1b02b559346d20ab1a3428eff579e90" title="m0_locality_dom_unset" alt="" coords="124,202,283,229"/>
+<area shape="rect" id="node7" href="$d8/dec/group__locality.html#gafd6fb31961c4a50dfc121e4d590fb6d6" title="locs_ast_handler" alt="" coords="143,253,263,280"/>
+<area shape="rect" id="node8" href="$d8/dec/group__locality.html#gac1480087884ff54f826c1574e4c5034e" title="m0_localities_fini" alt="" coords="142,304,265,330"/>
+<area shape="rect" id="node9" href="$d8/dec/group__locality.html#gad4866a4d79a607869992f9c64d005cde" title="m0_locality_chore_init" alt="" coords="333,366,483,393"/>
+<area shape="rect" id="node10" href="$d8/dec/group__locality.html#ga31a5fefc71cee43ab0c791bdf5b05c27" title="loc_nr" alt="" coords="175,557,232,584"/>
+<area shape="rect" id="node11" href="$d8/dec/group__locality.html#ga104cb5b096025df2a7189495f5ee4dae" title="m0_locality_data_alloc" alt="" coords="331,424,485,450"/>
+<area shape="rect" id="node12" href="$d8/dec/group__locality.html#ga0c782151fae4054275a9fc80546eb4d7" title="m0_locality_data_free" alt="" coords="333,500,483,526"/>
+<area shape="rect" id="node13" href="$d8/dec/group__locality.html#ga77e23fc62e1125b9881363f6aeb509d8" title="m0_fom_dom" alt="" coords="153,405,254,432"/>
+</map>

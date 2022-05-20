@@ -1,0 +1,11 @@
+<map id="ut_test_obj_namei_cb_fini" name="ut_test_obj_namei_cb_fini">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="250,5,370,32"/>
+<area shape="rect" id="node3" href="$d7/d70/motr_2ut_2obj_8c.html#a0a9c951bed7afb5c7e2bdf3d3f3c3f65" title="ut_layout_domain_fill" alt="" coords="238,56,382,83"/>
+<area shape="rect" id="node4" href="$d7/d70/motr_2ut_2obj_8c.html#a58d879c0df277a971e56871e7984b564" title="ut_layout_init" alt="" coords="261,107,359,133"/>
+<area shape="rect" id="node5" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="235,157,385,184"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#aa11a48b5279b4ceba435da2612d9f5ed" title="obj_namei_cb_fini" alt="" coords="247,208,373,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="259,259,361,285"/>
+<area shape="rect" id="node8" href="$d7/d70/motr_2ut_2obj_8c.html#a9fb534c589aa9ab388ff36604bf65b07" title="ut_layout_fini" alt="" coords="261,309,359,336"/>
+<area shape="rect" id="node9" href="$d7/d70/motr_2ut_2obj_8c.html#aeedf470cb42bcac10a9d8b5486b58a1f" title="ut_layout_domain_empty" alt="" coords="227,360,393,387"/>
+<area shape="rect" id="node10" href="$de/d61/motr_2ut_2client_8c.html#ae18a8f8bc4efe77a1a579a7f0de3e9ad" title="ut_m0_client_fini" alt="" coords="250,411,370,437"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="frame_init" name="frame_init">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="137,5,260,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga4dc93e12589eb2eb0b6a6509ad34bd5d" title="frame_clear" alt="" coords="153,56,244,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga80f5f783068972cdc94324cd1b70a439" title="m0_stob_io_init" alt="" coords="142,107,255,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="149,157,248,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#ga11208add2b4abbcd40af2e51344dbcd8" title="frame_endio" alt="" coords="152,208,245,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="132,259,265,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="161,309,237,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="165,360,232,387"/>
+</map>

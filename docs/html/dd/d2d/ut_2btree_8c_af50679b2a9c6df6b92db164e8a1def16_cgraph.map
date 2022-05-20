@@ -1,0 +1,13 @@
+<map id="check" name="check">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga344389b1b1b97c2dbdc81ef0018bfccd" title="m0_be_btree_init" alt="" coords="125,5,247,32"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="309,220,399,247"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga40dc5b3b5d7e75ef4efe9e58902b6d7e" title="m0_be_btree_lookup" alt="" coords="115,107,257,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="115,158,257,199"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga8e966925caa5069093a7add3a3dfaf9a" title="m0_be_btree_release" alt="" coords="113,224,259,251"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gabc0d1bae85eec522decf3efea7bcbf5e" title="m0_be_btree_minkey" alt="" coords="113,275,259,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga1c66dbebe16a2edfa07bad6bba59c7b8" title="m0_be_btree_maxkey" alt="" coords="111,325,261,352"/>
+<area shape="rect" id="node9" href="$dd/d2d/ut_2btree_8c.html#a54539b1ebcb8573bfe7bdf0622a76d8a" title="cursor_test" alt="" coords="143,376,229,403"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="319,401,389,428"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga8258f5f6e81c5e307ab0be99c97aab22" title="btree_dbg_print" alt="" coords="131,477,241,504"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga0a1cbdeb2c427b81f14ee94bfa955aed" title="m0_be_btree_fini" alt="" coords="125,528,247,555"/>
+</map>

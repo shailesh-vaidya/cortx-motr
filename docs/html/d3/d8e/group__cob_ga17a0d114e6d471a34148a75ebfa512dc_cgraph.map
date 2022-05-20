@@ -1,0 +1,11 @@
+<map id="m0_cob_update" name="m0_cob_update">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga3157bba584038dfd586ad169b0ec859f" title="m0_cob_is_valid" alt="" coords="194,5,313,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#ga6bef7554cbe7a90180de3afc7486b272" title="m0_cob_fid" alt="" coords="387,31,476,57"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="209,107,298,133"/>
+<area shape="rect" id="node5" href="$d3/d8e/group__cob.html#ga3ec8fced9ea67330f9b1b829d9693d13" title="m0_cob_nskey_size" alt="" coords="183,157,324,184"/>
+<area shape="rect" id="node6" href="$dd/dc1/group__format.html#ga5f05742845abbd56398831e0569c805a" title="m0_format_footer_update" alt="" coords="168,208,339,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga8dadb90e8b7dd0b5f87190556245a04c" title="cob_table_update" alt="" coords="191,259,315,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="219,309,288,336"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#gab523ab934db5f242457d07833c678a37" title="m0_cob_fabrec_size" alt="" coords="182,360,325,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="220,411,287,437"/>
+</map>

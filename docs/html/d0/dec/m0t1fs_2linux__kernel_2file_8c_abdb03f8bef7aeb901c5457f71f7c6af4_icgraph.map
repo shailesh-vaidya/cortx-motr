@@ -1,0 +1,11 @@
+<map id="io_request_invariant" name="io_request_invariant">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86e2e81d9277a4b9bce4b8971fd35b0f" title="ioreq_parity_verify" alt="" coords="205,5,333,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5fbc5f0db1e1bb8a731c0c6cc5c6b6f7" title="ioreq_parity_recalc" alt="" coords="203,56,334,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa1ed13352415a21260381c75aee89c60" title="ioreq_user_data_copy" alt="" coords="194,107,343,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#ae93b07766f53fbf1dfafcc9d8f9d8bdf" title="ioreq_dgmode_recover" alt="" coords="192,157,345,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1c200beae19aefb04a0fe3b2afdf5223" title="ioreq_dgmode_write" alt="" coords="199,208,338,235"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a65f5aef1e9e83cfa2994f25fc5b5deb1" title="ioreq_dgmode_read" alt="" coords="201,259,336,285"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a93849df78d31b58bc028810d5f4af3bb" title="ioreq_iosm_handle" alt="" coords="203,309,334,336"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#abfe42dac8c4bfb773f727e2fb629d1e6" title="io_request_init" alt="" coords="215,360,322,387"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a473e1883fcb6719a2314b67f384de53c" title="io_request_fini" alt="" coords="215,411,322,437"/>
+</map>

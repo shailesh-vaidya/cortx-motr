@@ -1,0 +1,17 @@
+<map id="nlx_dev_ioctl" name="nlx_dev_ioctl">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="393,38,576,65"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="447,292,523,318"/>
+<area shape="rect" id="node4" href="$d8/d9e/group___l_net_dev_internal.html#ga480a38459177bb04627ce25930245566" title="nlx_dev_ioctl_dom_init" alt="" coords="171,89,326,116"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="451,418,518,445"/>
+<area shape="rect" id="node6" href="$d8/d9e/group___l_net_dev_internal.html#gacca7f081b1af30e2331a0617979afc21" title="nlx_dev_ioctl_tm_start" alt="" coords="172,444,325,470"/>
+<area shape="rect" id="node7" href="$d8/d9e/group___l_net_dev_internal.html#ga9ec6703f99a0c4e78f53e08cffb9f667" title="nlx_dev_ioctl_tm_stop" alt="" coords="173,140,325,166"/>
+<area shape="rect" id="node8" href="$d8/d9e/group___l_net_dev_internal.html#gacd65375ccf4de7d7a7f5f4427aa835e5" title="nlx_dev_ioctl_buf_register" alt="" coords="162,494,335,521"/>
+<area shape="rect" id="node9" href="$d8/d9e/group___l_net_dev_internal.html#ga5f0e36315933b6141a761664aeecd3f2" title="nlx_dev_ioctl_buf_deregister" alt="" coords="155,190,342,217"/>
+<area shape="rect" id="node10" href="$d8/d9e/group___l_net_dev_internal.html#ga175f6caf97ceaf447e08991c8d75a77a" title="nlx_dev_ioctl_buf_queue_op" alt="" coords="155,545,342,572"/>
+<area shape="rect" id="node11" href="$d8/d9e/group___l_net_dev_internal.html#gaf99ebb853d1c76827d899a0da94b5be6" title="nlx_dev_ioctl_buf_del" alt="" coords="175,241,322,268"/>
+<area shape="rect" id="node12" href="$d8/d9e/group___l_net_dev_internal.html#ga084bef0cb441c5a1d2eb61f194672be4" title="nlx_dev_ioctl_buf_event_wait" alt="" coords="152,292,345,318"/>
+<area shape="rect" id="node13" href="$d8/d9e/group___l_net_dev_internal.html#gaca44147b1297b273d9453735493b2cbf" title="nlx_dev_ioctl_bev_bless" alt="" coords="167,342,331,369"/>
+<area shape="rect" id="node14" href="$d8/d9e/group___l_net_dev_internal.html#ga6d7cae2c550d0b0931b613556e97ee18" title="nlx_dev_ioctl_nidstr\l_decode" alt="" coords="180,647,317,688"/>
+<area shape="rect" id="node15" href="$d8/d9e/group___l_net_dev_internal.html#ga1972e47a32dad177812e6871b70ddd7b" title="nlx_dev_ioctl_nidstr\l_encode" alt="" coords="180,712,317,754"/>
+<area shape="rect" id="node16" href="$d8/d9e/group___l_net_dev_internal.html#gae258fed3f042a408c41e81eebdff3ad0" title="nlx_dev_ioctl_nidstrs_get" alt="" coords="164,393,333,420"/>
+</map>

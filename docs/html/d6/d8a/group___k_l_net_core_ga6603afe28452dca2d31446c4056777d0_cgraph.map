@@ -1,0 +1,8 @@
+<map id="nlx_kcore_buffer_kla_to_kiov" name="nlx_kcore_buffer_kla_to_kiov">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#ga4325e75464380d034b8f89bbaafdb6e7" title="nlx_kcore_buffer_invariant" alt="" coords="195,5,368,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#gab0978ad9aeec35244558f84747d3e135" title="bufvec_seg_page_count" alt="" coords="416,107,579,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="243,107,319,133"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#ga38d3143636a3de0ca58baf83bb9c1ae2" title="bufvec_seg_kla_to_kiov" alt="" coords="200,157,363,184"/>
+<area shape="rect" id="node6" href="$d5/d90/klnet__vec_8c.html#ga4271915e783c52f777d2af8b8e2aace6" title="nlx_kcore_kiov_invariant" alt="" coords="199,208,364,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="248,259,315,285"/>
+</map>

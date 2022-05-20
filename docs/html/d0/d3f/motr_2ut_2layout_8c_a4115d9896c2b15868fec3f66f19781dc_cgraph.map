@@ -1,0 +1,8 @@
+<map id="do_composite_io_divide" name="do_composite_io_divide">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="215,5,377,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="259,56,333,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="229,107,363,133"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#a3cefced84d751c39c470d94067df6b49" title="composite_io_divide" alt="" coords="226,157,366,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="239,208,353,235"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="232,259,360,285"/>
+</map>

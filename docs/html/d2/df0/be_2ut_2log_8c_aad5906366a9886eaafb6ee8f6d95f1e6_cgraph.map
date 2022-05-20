@@ -1,0 +1,16 @@
+<map id="m0_be_ut_log_api" name="m0_be_ut_log_api">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="215,5,322,32"/>
+<area shape="rect" id="node3" href="$d2/df0/be_2ut_2log_8c.html#acdf424eb4d30c3a757dbd055011fe8ef" title="be_ut_log_init" alt="" coords="217,56,320,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga021adc464a874f14e545275df6b6ef0d" title="m0_be_log_record_iter_init" alt="" coords="180,107,357,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga9ac8337f43c985f004578057c7048a7d" title="m0_be_log_record_initial" alt="" coords="186,157,351,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga31b7900df5cb58581cae3cc8bdb914a3" title="m0_be_log_record_iter_fini" alt="" coords="180,208,357,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac407a948b328d84a82e6eeeb2377bb1f" title="m0_be_log_bshift" alt="" coords="207,259,331,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="211,309,326,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga6cc4e979f5ef881d892765c172939024" title="m0_be_log_reserve" alt="" coords="201,360,336,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaaa4cc6e54d228fec4c5868227e76224c" title="m0_be_log_unreserve" alt="" coords="194,411,343,437"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="205,461,333,488"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga4448112de1d61641478271cac17893b4" title="m0_be_log_close" alt="" coords="207,512,330,539"/>
+<area shape="rect" id="node13" href="$d2/df0/be_2ut_2log_8c.html#a5b3d3e4b74e69211316a2bd1258c1c4c" title="be_ut_log_open" alt="" coords="212,563,325,589"/>
+<area shape="rect" id="node14" href="$d2/df0/be_2ut_2log_8c.html#a827793c3c6adc3eda08d429d0797974a" title="be_ut_log_fini" alt="" coords="217,613,320,640"/>
+<area shape="rect" id="node15" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="215,664,322,691"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="sys_idle" name="sys_idle">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga4416f8af9d08ab35ae78a932fbd08442" title="m0_addb2_mach_cookie" alt="" coords="124,5,291,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga0c199ff798c309d792fdd9ebcb71834b" title="sys_lock" alt="" coords="170,56,245,83"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gacf40b8b280f890bb37a1a1e88a582dd2" title="sys_qlock" alt="" coords="167,107,248,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#gad58efd11d53baa43e894ec005511c446" title="sys_post" alt="" coords="170,157,245,184"/>
+<area shape="rect" id="node6" href="$d0/d9e/group__addb2.html#gae3d464c9404e6bc3d83b2fb039c8c541" title="sys_qunlock" alt="" coords="160,208,255,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga0d2a8ba942a4609421df7b79532c156f" title="sys_unlock" alt="" coords="163,259,251,285"/>
+</map>

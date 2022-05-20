@@ -1,0 +1,8 @@
+<map id="check_ready_packet_has_item" name="check_ready_packet_has_item">
+<area shape="rect" id="node2" href="$d6/d63/ut_2formation2_8c.html#af538c7fa8e65443323c8d3313e3f04d0" title="packet_stack_pop" alt="" coords="239,5,367,32"/>
+<area shape="rect" id="node3" href="$d6/d63/ut_2formation2_8c.html#a4a91be1b13d020e4253bcd428978967a" title="packet_stack_is_empty" alt="" coords="223,56,383,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga091c80893114b6add7459b16a1cbcd25" title="m0_rpc_packet_is_carrying_item" alt="" coords="196,107,409,133"/>
+<area shape="rect" id="node5" href="$d6/d63/ut_2formation2_8c.html#a62c252bcf45d74a26dafec85a4e684c8" title="check_frm" alt="" coords="261,157,344,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gac26d2f0ba5fe46a6470603c3a855a458" title="m0_rpc_frm_packet_done" alt="" coords="217,208,389,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga0768a0448d1d1d8137044b3b89617d30" title="m0_rpc_packet_discard" alt="" coords="223,259,383,285"/>
+</map>

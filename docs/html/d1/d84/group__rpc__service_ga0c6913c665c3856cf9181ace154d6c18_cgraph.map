@@ -1,0 +1,11 @@
+<map id="m0_rpc_service_reverse_sessions_cleanup" name="m0_rpc_service_reverse_sessions_cleanup">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="232,5,367,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="239,56,359,83"/>
+<area shape="rect" id="node4" href="$d1/d84/group__rpc__service.html#gabf4f9bf71b49261348bef3206b31e8a0" title="m0_rpc_service_reverse\l_session_put" alt="" coords="217,158,381,199"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="429,139,528,165"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="434,193,523,220"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="246,275,353,301"/>
+<area shape="rect" id="node8" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="241,325,357,352"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="265,376,334,403"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="225,427,374,453"/>
+</map>

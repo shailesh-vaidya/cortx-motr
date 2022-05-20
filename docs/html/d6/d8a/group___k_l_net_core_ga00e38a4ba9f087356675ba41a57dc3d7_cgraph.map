@@ -1,0 +1,5 @@
+<map id="nlx_kcore_kcore_dom_init" name="nlx_kcore_kcore_dom_init">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="237,5,399,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="265,56,371,83"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="227,107,409,133"/>
+</map>

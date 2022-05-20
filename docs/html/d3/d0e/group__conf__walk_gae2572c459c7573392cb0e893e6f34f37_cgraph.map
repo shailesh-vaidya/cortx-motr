@@ -1,0 +1,6 @@
+<map id="m0_conf_walk" name="m0_conf_walk">
+<area shape="rect" id="node2" href="$d2/dd9/group__conf__dlspec__cache.html#ga482be6999fb575e77e657b77558f34c5" title="m0_conf_cache_is_locked" alt="" coords="160,5,336,32"/>
+<area shape="rect" id="node3" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="384,107,536,133"/>
+<area shape="rect" id="node4" href="$d3/d0e/group__conf__walk.html#ga882c55bccddc03a43ec0de9a53cded88" title="conf_walker_down" alt="" coords="183,107,313,133"/>
+<area shape="rect" id="node5" href="$d3/d0e/group__conf__walk.html#ga0320c96579952a142a3e3086f04c9def" title="conf_walker_up" alt="" coords="191,157,305,184"/>
+</map>

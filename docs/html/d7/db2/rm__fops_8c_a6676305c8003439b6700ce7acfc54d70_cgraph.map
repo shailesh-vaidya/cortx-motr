@@ -1,0 +1,9 @@
+<map id="rm_revoke_ast" name="rm_revoke_ast">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="161,5,307,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="169,56,299,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="185,107,283,133"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="164,157,304,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gad268867c850a904d442ed747da4a01a0" title="m0_rm_loan_settle" alt="" coords="168,208,300,235"/>
+<area shape="rect" id="node7" href="$d7/db2/rm__fops_8c.html#a24b77878582a46d8400cb4637dca8822" title="outreq_fini" alt="" coords="193,259,275,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="189,309,279,336"/>
+</map>

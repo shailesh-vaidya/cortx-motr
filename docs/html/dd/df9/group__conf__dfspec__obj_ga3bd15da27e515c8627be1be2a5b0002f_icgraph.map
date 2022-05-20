@@ -1,0 +1,11 @@
+<map id="m0_conf_fid_is_valid" name="m0_conf_fid_is_valid">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a1dc751be2bdce9ac5d77810da2b9bd48" title="m0__obj_namei_send" alt="" coords="199,5,347,32"/>
+<area shape="rect" id="node3" href="$d7/de3/motr_2layout_8h.html#a7ce5140fb165fa331cc44764e23aa577" title="m0__obj_layout_send" alt="" coords="199,56,347,83"/>
+<area shape="rect" id="node4" href="$d7/d3a/conf_2ut_2cache_8c.html#a7338f92d24507335d53eba6c19426cae" title="test_obj_xtors" alt="" coords="221,107,325,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga4a0aea81b8374bdd06bdf0f8f7d529a1" title="cache_grow" alt="" coords="227,157,319,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#gaae3152a6848b4933b5882ac1750a5361" title="request_check" alt="" coords="219,208,326,235"/>
+<area shape="rect" id="node7" href="$dc/d86/motr_2obj_8c.html#a13c84074dd7e7177305b1c6cc6631745" title="m0__obj_pool_version\l_is_valid" alt="" coords="197,259,348,301"/>
+<area shape="rect" id="node8" href="$dd/d7b/group__conf__dlspec__objops.html#ga6ba3a42d850fd1fee7b9bdc30275c65e" title="_generic_obj_invariant" alt="" coords="197,325,348,352"/>
+<area shape="rect" id="node9" href="$dc/dd7/root_8c.html#a7c3a2c487567c2e020b32bcb8b4a97cb" title="root_decode" alt="" coords="226,376,319,403"/>
+<area shape="rect" id="node10" href="$d0/dc7/group__ha-note.html#gaae2334c89bd59757d2dca2f946cc47af" title="note_invariant" alt="" coords="221,427,324,453"/>
+</map>

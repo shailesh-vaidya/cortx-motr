@@ -1,0 +1,18 @@
+<map id="rconfc_herd_update" name="rconfc_herd_update">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#ga7bbd786db5895a4f2f75714a3328aed8" title="rconfc_confd_count" alt="" coords="433,32,569,58"/>
+<area shape="rect" id="node3" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="471,246,530,273"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#gaed91b622f34f5345cbf764f165045417" title="rconfc_confd_addr_are\l_all_unique" alt="" coords="202,54,357,95"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga2183cb426c38d48ee8f3a4da50f0ad99" title="m0_fid_arr_all_unique" alt="" coords="205,170,353,197"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#gaf239d7a340c8ed6b4604470cadbe32b4" title="rconfc_herd_find" alt="" coords="220,272,339,298"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="632,584,701,610"/>
+<area shape="rect" id="node8" href="$db/d90/group__rconfc__dlspec.html#gae89d8a897597f274982642669ff5012f" title="rconfc_herd_link_init" alt="" coords="209,120,350,146"/>
+<area shape="rect" id="node9" href="$db/d90/group__rconfc__dlspec.html#ga931e7b9413958e2139bce6788155d6c0" title="_confc_phony_cache\l_append" alt="" coords="207,678,352,719"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="467,626,534,653"/>
+<area shape="rect" id="node11" href="$db/d90/group__rconfc__dlspec.html#gabec23a8e3263df5a54c982e7f60b1781" title="rconfc_herd_link_subscribe" alt="" coords="189,474,369,501"/>
+<area shape="rect" id="node12" href="$db/d90/group__rconfc__dlspec.html#ga488cea0d81823c2b61d3e9e0e00bff0c" title="ver_accm_init" alt="" coords="228,525,331,552"/>
+<area shape="rect" id="node13" href="$db/d90/group__rconfc__dlspec.html#gab3bc8c8ee502514d40b3ff991d314ad8" title="rconfc_herd_link_fini" alt="" coords="209,576,350,602"/>
+<area shape="rect" id="node14" href="$db/d90/group__rconfc__dlspec.html#ga8b9dfd8f44afa538f032aa14a5a59c4b" title="rconfc_herd_link_destroy" alt="" coords="417,373,584,400"/>
+<area shape="rect" id="node15" href="$db/d90/group__rconfc__dlspec.html#gaa2b7fe52ed81e1c9fc0f1843df4763d8" title="_confc_cache_clean_lock" alt="" coords="193,626,365,653"/>
+<area shape="rect" id="node16" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="241,744,317,770"/>
+<area shape="rect" id="node17" href="$db/d90/group__rconfc__dlspec.html#gae3367ab8631b38f99a0fe0d5ca204c55" title="rconfc_herd_prune" alt="" coords="215,322,344,349"/>
+</map>

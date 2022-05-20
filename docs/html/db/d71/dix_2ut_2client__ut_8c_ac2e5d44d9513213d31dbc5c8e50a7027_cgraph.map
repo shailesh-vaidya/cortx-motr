@@ -1,0 +1,7 @@
+<map id="imask_apply" name="imask_apply">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga1697408b5c50fcc1daca3527100aacea" title="m0_dix_imask_init" alt="" coords="155,5,285,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga8a297e9b6edf5b16aebc596abfcf3e77" title="m0_dix_imask_apply" alt="" coords="148,56,292,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a2bed24fb68ce6442b7feaacd4f0e7e3c" title="get_bit" alt="" coords="189,107,251,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gafaa7f885372be4a2b1af7473850a523b" title="m0_dix_imask_fini" alt="" coords="155,157,285,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="185,208,255,235"/>
+</map>

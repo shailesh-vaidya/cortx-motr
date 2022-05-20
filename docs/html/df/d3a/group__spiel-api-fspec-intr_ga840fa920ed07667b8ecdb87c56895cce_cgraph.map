@@ -1,0 +1,12 @@
+<map id="spiel_process__health_async" name="spiel_process__health_async">
+<area shape="rect" id="node2" href="$df/d3a/group__spiel-api-fspec-intr.html#gaa248c73befb85443a2b7e828c9a1aa4c" title="spiel_proc_conf_obj_find" alt="" coords="204,5,369,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="228,56,345,83"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="219,107,355,133"/>
+<area shape="rect" id="node5" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="229,157,345,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="237,208,336,235"/>
+<area shape="rect" id="node7" href="$df/d3a/group__spiel-api-fspec-intr.html#ga4ee27d08d512b55c1aa8ff47e04c7075" title="spiel_proc_item_rlink_cb" alt="" coords="204,376,369,403"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="468,317,557,344"/>
+<area shape="rect" id="node9" href="$df/d3a/group__spiel-api-fspec-intr.html#ga581457c0b19d193e167992ba98dd4f16" title="spiel_proc_item_postprocess" alt="" coords="417,401,608,428"/>
+<area shape="rect" id="node10" href="$de/d82/group__rpc__link.html#gab845f10e6c97bbdc4a2b7d2acc19b96c" title="m0_rpc_link_connect\l_async" alt="" coords="214,310,359,351"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="249,477,325,504"/>
+</map>

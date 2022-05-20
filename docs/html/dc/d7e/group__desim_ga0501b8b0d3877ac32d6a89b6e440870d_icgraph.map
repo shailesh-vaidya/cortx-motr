@@ -1,0 +1,8 @@
+<map id="sim_chan_fini" name="sim_chan_fini">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gac989dcecb0503d47da5047a0c7ef3caf" title="net_srv_fini" alt="" coords="157,5,247,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga5d566f6e72a97de8e5c67ea2de72efe5" title="m0t1fs_fini" alt="" coords="296,31,383,57"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga047925f41f54048f9eef8c2477bc6312" title="net_fini" alt="" coords="170,107,234,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga72c7f23228c4f64a1caabda1d1452080" title="net_rpc_fini" alt="" coords="157,157,247,184"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#ga223352d3b6fa9bcc53c9fe60e12c977c" title="client_fini" alt="" coords="163,208,241,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#ga9151223d56e8b6592cf6fa047230385b" title="elevator_fini" alt="" coords="156,259,248,285"/>
+</map>

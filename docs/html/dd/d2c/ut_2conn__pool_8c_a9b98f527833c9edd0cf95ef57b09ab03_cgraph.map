@@ -1,0 +1,9 @@
+<map id="rpc_conn_pool" name="rpc_conn_pool">
+<area shape="rect" id="node2" href="$d7/d48/ut_2note_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="186,5,325,47"/>
+<area shape="rect" id="node3" href="$db/d3c/conn__pool_8c.html#a6898d46f125bcad5fd32f7b2da48e0a0" title="m0_rpc_conn_pool_init" alt="" coords="178,71,333,98"/>
+<area shape="rect" id="node4" href="$db/d3c/conn__pool_8c.html#a2c65f855455f98bf80ad0631e2292a59" title="m0_rpc_conn_pool_get_sync" alt="" coords="160,122,351,149"/>
+<area shape="rect" id="node5" href="$db/d3c/conn__pool_8c.html#a9bdc2b2699cc95ffd1ceaa8117ed69ea" title="m0_rpc_conn_pool_put" alt="" coords="412,158,568,185"/>
+<area shape="rect" id="node6" href="$db/d3c/conn__pool_8c.html#ad0fb84623a7a53985b6ba71e9e40827e" title="m0_rpc_conn_pool_session\l_established" alt="" coords="399,231,581,272"/>
+<area shape="rect" id="node7" href="$db/d3c/conn__pool_8c.html#acd1a4544a38826db8bbfde7a561ddd7d" title="m0_rpc_conn_pool_fini" alt="" coords="178,274,333,301"/>
+<area shape="rect" id="node8" href="$d7/d48/ut_2note_8c.html#a3c1ae51ca06c3774d7ea73cfa161b819" title="stop_rpc_client_and\l_server" alt="" coords="186,325,325,367"/>
+</map>

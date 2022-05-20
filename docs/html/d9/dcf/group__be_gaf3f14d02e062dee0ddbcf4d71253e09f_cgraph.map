@@ -1,0 +1,9 @@
+<map id="m0_be_log_io_allocate" name="m0_be_log_io_allocate">
+<area shape="rect" id="node2" href="$db/dc9/group__arith.html#ga4b70d9b4cc8a2228f5cb90ecf967ada5" title="m0_is_aligned" alt="" coords="221,5,326,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="212,56,335,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0098bb4fc76c4f6fbd6d6de4a8b023ba" title="m0_be_io_init" alt="" coords="222,107,325,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga70ca9a80048304c5ae00dec47e2233a3" title="m0_be_io_allocate" alt="" coords="208,157,339,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="387,183,453,209"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6fd8be4f657d99ade4bcc9ffed8626e6" title="m0_be_io_fini" alt="" coords="222,259,325,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga9febd750033a5cad391e1e7d90ee0e73" title="m0_free_aligned" alt="" coords="215,309,332,336"/>
+</map>

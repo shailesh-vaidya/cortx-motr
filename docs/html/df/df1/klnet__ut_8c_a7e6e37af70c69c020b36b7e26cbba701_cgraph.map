@@ -1,0 +1,7 @@
+<map id="ktest_lnet_init" name="ktest_lnet_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="170,5,277,32"/>
+<area shape="rect" id="node3" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="174,56,273,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="156,107,291,133"/>
+<area shape="rect" id="node5" href="$df/df1/klnet__ut_8c.html#a156c3ceb57e8e343c28caae1db8934e6" title="read_lnet_ut" alt="" coords="177,157,270,184"/>
+<area shape="rect" id="node6" href="$df/df1/klnet__ut_8c.html#aff75e65504a32c97be5cb8709ee32896" title="write_lnet_ut" alt="" coords="175,208,271,235"/>
+</map>

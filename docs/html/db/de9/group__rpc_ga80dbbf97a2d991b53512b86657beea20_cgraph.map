@@ -1,0 +1,12 @@
+<map id="m0_rpc_bulk_buf_add" name="m0_rpc_bulk_buf_add">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga3d66eac325133202ca0143be0717d080" title="m0_net_domain_get_max\l_buffer_segments" alt="" coords="203,5,373,47"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga20ff655e0461ebfbe435f70092bead52" title="m0_net_domain_get_max\l_buffer_size" alt="" coords="203,71,373,112"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="459,150,535,177"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga5fca6bd4963f03b9e2659b985ed5086c" title="rpc_bulk_buf_init" alt="" coords="228,187,348,214"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="464,226,531,253"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="253,289,323,315"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="231,339,345,366"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga00a94f44de1fa233440477b01effb202" title="rpc_bulk_invariant" alt="" coords="225,390,351,417"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga5b47704a7856a1046d494d70d65b680d" title="rpc_bulk_buf_invariant" alt="" coords="421,415,573,442"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="224,491,352,518"/>
+</map>

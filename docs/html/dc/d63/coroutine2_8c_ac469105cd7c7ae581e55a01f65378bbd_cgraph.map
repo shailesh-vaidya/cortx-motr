@@ -1,0 +1,8 @@
+<map id="coroutine_fom_tick" name="coroutine_fom_tick">
+<area shape="rect" id="node2" href="$df/d37/group___coroutine.html#ga21713a65f8f6900299df1c3849e152dc" title="m0_co_op_reset" alt="" coords="192,5,311,32"/>
+<area shape="rect" id="node3" href="$dc/d63/coroutine2_8c.html#a16dd2519b3d203ea2fe1dd92483995d2" title="OP" alt="" coords="231,56,272,83"/>
+<area shape="rect" id="node4" href="$dc/d63/coroutine2_8c.html#a8b3b36dd8fdbab182648bf7c167669f2" title="CO" alt="" coords="365,132,408,159"/>
+<area shape="rect" id="node5" href="$dc/d63/coroutine2_8c.html#ab688961f226072218c93c1b3105ce6fb" title="crud" alt="" coords="228,157,275,184"/>
+<area shape="rect" id="node6" href="$df/d37/group___coroutine.html#ga5e7ad9590cbdd1bfa1a5b97efc932ebb" title="m0_co_op_tick_ret" alt="" coords="185,208,317,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="185,259,317,285"/>
+</map>

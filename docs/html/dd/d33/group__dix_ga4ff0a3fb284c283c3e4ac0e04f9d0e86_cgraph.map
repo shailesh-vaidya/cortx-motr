@@ -1,0 +1,8 @@
+<map id="dix_item_rc_update" name="dix_item_rc_update">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gabcc1aaefb2743275fa5652c365a5ed52" title="m0_cas_req_generic_rc" alt="" coords="188,5,348,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#ga49fa6ace0e3499abda61f792ff650d92" title="m0_cas_get_rep" alt="" coords="209,56,327,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga68d3c7ca7e2bc46d73a470830a5e7ca0" title="m0_cas_rep_mlock" alt="" coords="201,107,335,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#ga3bc1b4fbcea5dee630ccde81c3ff3e4d" title="m0_cas_put_rep" alt="" coords="209,157,327,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga3cc84f01d317cb92dad332ce7964ec4a" title="m0_cas_del_rep" alt="" coords="209,208,327,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gab0f8e68af915368fbd269256b9a61b33" title="dix_req_state" alt="" coords="218,259,318,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ast_thread_fini" name="ast_thread_fini">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="167,5,281,32"/>
+<area shape="rect" id="node3" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="169,56,279,83"/>
+<area shape="rect" id="node4" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="171,107,277,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae6389bc235cd60a5757a150a4c7803ea" title="m0_sm_group_fini" alt="" coords="160,157,288,184"/>
+</map>

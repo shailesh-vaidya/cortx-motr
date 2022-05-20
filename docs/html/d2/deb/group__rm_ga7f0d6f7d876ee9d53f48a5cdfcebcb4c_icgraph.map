@@ -1,0 +1,6 @@
+<map id="credit_intersects" name="credit_intersects">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga8adf525ee32ba8004882a472954bcace" title="cached_credits_hold" alt="" coords="175,5,316,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#gaf4a42b2356827729b907fbab7b000174" title="incoming_check_held" alt="" coords="172,56,319,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga7273c95e912cde4724ebf9b50c9b998f" title="incoming_check_with" alt="" coords="367,81,513,108"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga62a2c4f8fedd86bdc490e7e01870fbf7" title="outgoing_check" alt="" coords="189,157,302,184"/>
+</map>

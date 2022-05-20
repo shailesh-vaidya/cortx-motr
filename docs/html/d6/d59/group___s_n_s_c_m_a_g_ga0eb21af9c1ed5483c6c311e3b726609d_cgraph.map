@@ -1,0 +1,12 @@
+<map id="incr_recover_init" name="incr_recover_init">
+<area shape="rect" id="node2" href="$df/d01/group__pdclust.html#gafa1201b5cf349cc9476b6080b09a5022" title="m0_pdclust_is_replicated" alt="" coords="171,5,341,32"/>
+<area shape="rect" id="node3" href="$d6/d25/group__parity__math.html#gaf5f627263bcd07d4b21f68ebd558a5e9" title="m0_parity_math_init" alt="" coords="187,107,325,133"/>
+<area shape="rect" id="node4" href="$d6/d25/group__parity__math.html#gaa2681656b6e49929eb6d5ecb96b61fdd" title="m0_parity_math_fini" alt="" coords="389,81,528,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="425,347,492,373"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga158463dd23b6e7e82e3a3b45282763d6" title="m0_sns_cm_ag_nr_data\l_units" alt="" coords="174,209,338,250"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#gadc295d0e688d3d9e0c80ab4b1f1f9e4c" title="m0_sns_cm_ag_nr_parity\l_units" alt="" coords="171,274,341,315"/>
+<area shape="rect" id="node8" href="$d8/d6c/group__incremental__recovery.html#ga7467f90a1b55428b9fbe6baa84769be2" title="m0_sns_ir_init" alt="" coords="203,456,309,483"/>
+<area shape="rect" id="node9" href="$d8/d6c/group__incremental__recovery.html#ga3c50d599748ef39088498a485155a968" title="m0_sns_ir_fini" alt="" coords="405,481,512,508"/>
+<area shape="rect" id="node10" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga667457c9e479bb858b890d70668f7a27" title="incr_recover_failure\l_register" alt="" coords="189,339,323,381"/>
+<area shape="rect" id="node11" href="$d8/d6c/group__incremental__recovery.html#gac2aa8fad6d9b110d486f2f5748626c49" title="m0_sns_ir_mat_compute" alt="" coords="172,405,340,432"/>
+</map>

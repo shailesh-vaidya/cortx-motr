@@ -1,0 +1,8 @@
+<map id="crud" name="crud">
+<area shape="rect" id="node2" href="$dc/d63/coroutine2_8c.html#a8b3b36dd8fdbab182648bf7c167669f2" title="CO" alt="" coords="301,117,344,144"/>
+<area shape="rect" id="node3" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf1ae488b8e87316ced7848717c2756a6" title="m0_long_lock_link_init" alt="" coords="100,41,253,68"/>
+<area shape="rect" id="node4" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gafb962350d0560706a0944a515360c54f" title="m0_long_write_lock" alt="" coords="108,92,245,118"/>
+<area shape="rect" id="node5" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gaf275d1f45f62ea03cf941299c2ba29b6" title="m0_long_write_unlock" alt="" coords="101,142,252,169"/>
+<area shape="rect" id="node6" href="$dd/d2e/group__m0__long__lock___a_p_i.html#ga37d9619e937b061054fe5bf73ca1b3ae" title="m0_long_lock_link_fini" alt="" coords="100,193,253,220"/>
+<area shape="rect" id="node7" href="$dc/d63/coroutine2_8c.html#a07f797506b3657ea8237927a28dfaa16" title="insert" alt="" coords="149,244,204,270"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="composite_layout_io_build" name="composite_layout_io_build">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#a3ccb2acbbfdeed84d137b60bf1daaa4a" title="m0_op_get" alt="" coords="229,35,315,62"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="448,86,524,112"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="453,144,519,171"/>
+<area shape="rect" id="node5" href="$df/da5/composite__layout_8c.html#a0913585306bdfb34eeffd652b3b77b1a" title="composite_io_op_init" alt="" coords="200,86,344,112"/>
+<area shape="rect" id="node6" href="$df/da5/composite__layout_8c.html#a3cefced84d751c39c470d94067df6b49" title="composite_io_divide" alt="" coords="202,254,342,280"/>
+<area shape="rect" id="node7" href="$df/da5/composite__layout_8c.html#afa1b6c244006a04980f6c77060bc98ec" title="composite_sub_io_destroy" alt="" coords="397,279,575,306"/>
+<area shape="rect" id="node8" href="$df/da5/composite__layout_8c.html#abd86003ec151f49fde3e1d309b98cf71" title="composite_sub_io_ops\l_build" alt="" coords="195,137,349,178"/>
+</map>

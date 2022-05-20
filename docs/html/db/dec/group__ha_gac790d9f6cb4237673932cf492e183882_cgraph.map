@@ -1,0 +1,4 @@
+<map id="ha_link_wait_delivery_check" name="ha_link_wait_delivery_check">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga601ed92b092886c2b91a10bcb254133f" title="m0_ha_link_msg_is_delivered" alt="" coords="200,5,396,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="232,56,364,83"/>
+</map>

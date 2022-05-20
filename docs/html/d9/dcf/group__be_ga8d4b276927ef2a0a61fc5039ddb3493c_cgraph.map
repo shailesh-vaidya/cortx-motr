@@ -1,0 +1,8 @@
+<map id="ctg_getslot_insertcred" name="ctg_getslot_insertcred">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga5fa9c986adc279c15d50d32f831599c7" title="cache_lookup" alt="" coords="226,5,329,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga38be7141f754a9e7c2b9f2044e120add" title="cache_insert" alt="" coords="229,56,325,83"/>
+<area shape="rect" id="node4" href="$d9/d21/group__cas-ctg-store.html#ga67c7fbe56cb7b01c8106b49dd2bd896c" title="m0_ctg_create_credit" alt="" coords="204,107,351,133"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga4f52f7362298e1bde83f4efe1807807f" title="m0_fid_tchange" alt="" coords="220,157,335,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gac33c0d8759b047a783b84ba73131bab3" title="m0_dix_ldesc_init" alt="" coords="214,208,341,235"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#ga5b4c422b5b693ac5b093adda55eea35c" title="m0_ctg_ctidx_insert\l_credits" alt="" coords="208,259,347,301"/>
+</map>

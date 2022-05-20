@@ -1,0 +1,8 @@
+<map id="m0_net_test_ringbuf_invariant" name="m0_net_test_ringbuf_invariant">
+<area shape="rect" id="node2" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#ga9c8d8b7998c68fa8da134b1b93cbf00c" title="m0_net_test_ringbuf_init" alt="" coords="199,5,363,32"/>
+<area shape="rect" id="node3" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#ga64a1e0250068d119fcbdbeff164a0334" title="m0_net_test_ringbuf_fini" alt="" coords="199,56,363,83"/>
+<area shape="rect" id="node4" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#ga8b4f78da0bb88700b30dc74d3de3d062" title="m0_net_test_ringbuf_push" alt="" coords="193,107,368,133"/>
+<area shape="rect" id="node5" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#ga54f8e29ea4d0b92f67e2e59c68dda5f3" title="m0_net_test_ringbuf_pop" alt="" coords="197,157,365,184"/>
+<area shape="rect" id="node6" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#gae6b2dac7e6bff8566eb62505d4442e8e" title="m0_net_test_ringbuf\l_is_empty" alt="" coords="211,209,351,250"/>
+<area shape="rect" id="node7" href="$dd/d2f/group___net_test_ringbuf_d_f_s.html#ga0007258049234ad1644bc87f35d4124c" title="m0_net_test_ringbuf_nr" alt="" coords="201,275,360,301"/>
+</map>

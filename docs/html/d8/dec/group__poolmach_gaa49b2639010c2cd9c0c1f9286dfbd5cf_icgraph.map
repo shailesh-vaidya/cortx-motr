@@ -1,0 +1,6 @@
+<map id="pooldev_clink" name="pooldev_clink">
+<area shape="rect" id="node2" href="$d8/dec/group__poolmach.html#ga6007a2544fe5708cfd2399f473e35ab5" title="poolmach_state_update" alt="" coords="165,5,325,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#ga5eaec76d338a2625fcb076e9bf6d0c83" title="poolmach_conf_expired_cb" alt="" coords="155,56,335,83"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#ga7e52c483f80a9850273edb7646df9627" title="poolmach_conf_ready_cb" alt="" coords="159,107,330,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#ga0e009bd4b5055a7e5af873b8d253ab5d" title="m0_poolmach_fini" alt="" coords="181,157,308,184"/>
+</map>

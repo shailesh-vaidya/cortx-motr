@@ -1,0 +1,7 @@
+<map id="m0_ha_note_handler_signal" name="m0_ha_note_handler_signal">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="224,5,339,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="217,56,345,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="240,107,323,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="196,157,367,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="247,208,316,235"/>
+</map>

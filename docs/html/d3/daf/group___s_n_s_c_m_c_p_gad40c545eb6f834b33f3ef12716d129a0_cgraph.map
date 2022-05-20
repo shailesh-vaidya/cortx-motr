@@ -1,0 +1,18 @@
+<map id="m0_sns_cm_repair_cp_xform" name="m0_sns_cm_repair_cp_xform">
+<area shape="rect" id="node2" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga8fdb71ec6eca3ae2cdd6d8c260162bb5" title="cp2snscp" alt="" coords="438,11,517,37"/>
+<area shape="rect" id="node3" href="$d6/d59/group___s_n_s_c_m_a_g.html#gaeec7fd2f3c1d1d3d1ea00d1a0f32f0b1" title="ag2snsag" alt="" coords="438,87,517,113"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga4c5be5c86d5ad6ba834682ee46a33516" title="sag2repairag" alt="" coords="429,137,525,164"/>
+<area shape="rect" id="node5" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="232,391,356,417"/>
+<area shape="rect" id="node6" href="$df/d01/group__pdclust.html#gafa1201b5cf349cc9476b6080b09a5022" title="m0_pdclust_is_replicated" alt="" coords="209,441,379,468"/>
+<area shape="rect" id="node7" href="$d6/db9/group___c_m_a_g.html#ga45b7d2fe6e7d236a25704e91334008b7" title="m0_cm_ag_lock" alt="" coords="235,492,353,519"/>
+<area shape="rect" id="node8" href="$d0/d80/group___c_p.html#gaf4ee46d36db0c578f836ee9b15421d28" title="m0_cm_cp_bufvec_merge" alt="" coords="207,289,381,316"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="444,264,511,291"/>
+<area shape="rect" id="node10" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga8a46bbad4ee1bd6e7a00bdc765ffbf5e" title="cp_rs_recover" alt="" coords="242,87,346,113"/>
+<area shape="rect" id="node11" href="$d0/d80/group___c_p.html#gab09b5d2c843116379e43cebc7a8f4e67" title="m0_cm_cp_data_copy" alt="" coords="217,543,371,569"/>
+<area shape="rect" id="node12" href="$d3/daf/group___s_n_s_c_m_c_p.html#gad5126f9ce16e088fcd006e88a2619a9d" title="cp_xor_recover" alt="" coords="239,593,349,620"/>
+<area shape="rect" id="node13" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga537b07cd6741ef01b0485fce094617f9" title="res_cp_bitmap_merge" alt="" coords="219,644,369,671"/>
+<area shape="rect" id="node14" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac14d3898815640ae842bcc7875849060" title="repair_ag_fc_acc_post" alt="" coords="217,340,371,367"/>
+<area shape="rect" id="node15" href="$d1/d59/group__fom.html#ga9799e9df372bea12d056b647e83cf950" title="m0_fom_phase_move" alt="" coords="219,695,369,721"/>
+<area shape="rect" id="node16" href="$d6/db9/group___c_m_a_g.html#gaf5f24ed438b43cf746715e33715b38e7" title="m0_cm_ag_unlock" alt="" coords="229,745,359,772"/>
+<area shape="rect" id="node17" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga2d33ce2ed5e6af6249bbb6acb0fabe1c" title="repair_cp_bufvec_split" alt="" coords="218,137,370,164"/>
+</map>

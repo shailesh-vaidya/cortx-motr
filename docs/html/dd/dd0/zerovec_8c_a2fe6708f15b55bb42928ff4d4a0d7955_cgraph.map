@@ -1,0 +1,5 @@
+<map id="test_zerovec" name="test_zerovec">
+<area shape="rect" id="node2" href="$dd/dd0/zerovec_8c.html#a61ca4ea675ee66f4eefbe09d4009a7d7" title="zerovec_init_bvec" alt="" coords="151,5,277,32"/>
+<area shape="rect" id="node3" href="$dd/dd0/zerovec_8c.html#a50775a7a0d1f2274735b3d225df3544c" title="zerovec_init_bufs" alt="" coords="152,56,276,83"/>
+<area shape="rect" id="node4" href="$dd/dd0/zerovec_8c.html#a7482642e77c43f7c16600e9a476b1ee2" title="zerovec_init_cbuf" alt="" coords="152,107,276,133"/>
+</map>

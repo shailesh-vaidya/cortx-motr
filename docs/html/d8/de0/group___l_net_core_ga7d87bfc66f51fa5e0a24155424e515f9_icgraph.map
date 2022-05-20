@@ -1,0 +1,13 @@
+<map id="nlx_core_kmem_loc_is_empty" name="nlx_core_kmem_loc_is_empty">
+<area shape="rect" id="node2" href="$dd/d08/group__bevcqueue.html#gae71169a69c6ad9ee871ae20a1186873c" title="bev_cqueue_invariant" alt="" coords="225,5,373,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="208,296,391,323"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gad2ab176e2a26de2710bc2f9226a70030" title="nlx_kcore_core_dom_init" alt="" coords="451,107,617,133"/>
+<area shape="rect" id="node5" href="$df/df1/klnet__ut_8c.html#ad60000318f21aac4dd8c0301f5214194" title="ut_kcore_core_dom_init" alt="" coords="677,107,837,133"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#gae1fb86408b29aad8bcb47da62791f168" title="nlx_kcore_kcore_dom_fini" alt="" coords="447,208,621,235"/>
+<area shape="rect" id="node7" href="$d8/d9e/group___l_net_dev_internal.html#ga120c166ef9fa98855c20aa3b67ff519b" title="nlx_dev_close" alt="" coords="705,284,810,311"/>
+<area shape="rect" id="node8" href="$d8/d9e/group___l_net_dev_internal.html#ga480a38459177bb04627ce25930245566" title="nlx_dev_ioctl_dom_init" alt="" coords="680,360,835,387"/>
+<area shape="rect" id="node9" href="$d6/d8a/group___k_l_net_core.html#ga7bd7731a15e72411dea41c2aa699d146" title="nlx_kcore_core_domain_map" alt="" coords="439,360,629,387"/>
+<area shape="rect" id="node10" href="$df/df1/klnet__ut_8c.html#a081074f1d89f84e66ef248631a83b9f2" title="ut_dev_open" alt="" coords="486,411,582,437"/>
+<area shape="rect" id="node11" href="$d8/d9e/group___l_net_dev_internal.html#gaca44147b1297b273d9453735493b2cbf" title="nlx_dev_ioctl_bev_bless" alt="" coords="217,563,381,589"/>
+<area shape="rect" id="node12" href="$d2/d68/lnet__ut_8c.html#a4037fe5187d56ad43cd06fb3e0f8b8a5" title="test_fail" alt="" coords="265,613,333,640"/>
+</map>

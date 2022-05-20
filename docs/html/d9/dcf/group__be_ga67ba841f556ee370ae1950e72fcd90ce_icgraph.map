@@ -1,0 +1,16 @@
+<map id="m0_be_tx_state" name="m0_be_tx_state">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga3d8a00a5247113161c7b3dfcee40c72d" title="be_tx_ast_cb" alt="" coords="759,56,859,83"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gacfcc8125c47ad5d88b83d1a36711f767" title="m0_be_tx_get" alt="" coords="381,335,485,361"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf007623f94e5377cb96f7cd91d22199a" title="m0_be_ut_tx_states" alt="" coords="563,335,703,361"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga9e056c8be3495545fa76d9b7612646a3" title="m0_be_tx_put" alt="" coords="187,233,291,260"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga931910ccafee7e6f0d1f3c0c1fc59877" title="be_tx_state_move" alt="" coords="369,157,498,184"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gab5e660a829509dcfa4a4b464e72c1a51" title="be_tx_state_move_ast" alt="" coords="556,81,711,108"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga5188480ca425b53ad37b7845ecc339b7" title="m0_be_tx_timedwait" alt="" coords="168,385,311,412"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga0565d09babf42c55161d2f1c8ee4af8d" title="m0_be_tx_open_sync" alt="" coords="359,436,508,463"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga2fd4ceedcedf897e19a726a804c32d22" title="m0_be_tx__invariant" alt="" coords="168,183,311,209"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga692515e3d6e118368d33fdae4b0ee73e" title="m0_be_tx_fol_add" alt="" coords="175,487,303,513"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga174f219c25061b07e098c97ad43610bf" title="m0_be_tx_force" alt="" coords="182,537,297,564"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#gac45578944c0a9a225faf6f873fa08ef0" title="m0_be_tx_lsn_set" alt="" coords="175,588,303,615"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga6c0d94bfdd9b8444f5730b9ccdd581b5" title="be_ut_tx_fast_cb" alt="" coords="178,639,301,665"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#ga291f1c4d0bc08bc3f7341d171caa666d" title="be_ut_tx_gc_cb" alt="" coords="182,689,297,716"/>
+</map>

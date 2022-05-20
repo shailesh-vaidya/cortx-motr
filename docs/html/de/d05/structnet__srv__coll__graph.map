@@ -1,0 +1,6 @@
+<map id="net_srv" name="net_srv">
+<area shape="rect" id="node2" href="$da/d0c/structsim__chan.html" title="{sim_chan\n||}" alt="" coords="64,145,143,223"/>
+<area shape="rect" id="node8" href="$d0/dc4/structelevator.html" title="{elevator\n||}" alt="" coords="204,305,272,383"/>
+<area shape="rect" id="node3" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="76,5,131,83"/>
+<area shape="rect" id="node6" href="$dd/d21/structsim__thread.html" title="{sim_thread\n||}" alt="" coords="666,305,752,383"/>
+</map>

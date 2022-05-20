@@ -1,0 +1,7 @@
+<map id="post_revoke_cleanup" name="post_revoke_cleanup">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga026c3877ceb7d761c824e9fa9a9bccef" title="m0_rm_owner_lock" alt="" coords="206,5,341,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga509a03743317682a1dbf38a3dd2566bd" title="m0_rm_credit_fini" alt="" coords="396,107,521,133"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="239,107,308,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#gad99ce5e28725a8b60da00344bd99de5c" title="m0_rm_loan_fini" alt="" coords="215,157,332,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gabefbdf88a6f288fbe1a703e74f64c4ef" title="m0_rm_owner_unlock" alt="" coords="199,208,348,235"/>
+</map>

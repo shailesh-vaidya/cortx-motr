@@ -1,0 +1,12 @@
+<map id="cob_create_api_test" name="cob_create_api_test">
+<area shape="rect" id="node2" href="$d5/d5d/ut_2cob__foms_8c.html#a266139de69aafb1508e04fc8ba784eb6" title="dummy_locality_setup" alt="" coords="192,5,344,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="201,56,335,83"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#a65444d3845e63eff8d6ac7d7c7cd95e3" title="cc_fom_create_test" alt="" coords="199,107,337,133"/>
+<area shape="rect" id="node5" href="$d5/d5d/ut_2cob__foms_8c.html#ab4de73c057853f56020c55654fc1e4c4" title="cc_fom_fini_test" alt="" coords="209,157,327,184"/>
+<area shape="rect" id="node6" href="$d5/d5d/ut_2cob__foms_8c.html#ab607ed9afdb37c50a6040745a01cda90" title="cc_fom_get_test" alt="" coords="209,208,327,235"/>
+<area shape="rect" id="node7" href="$d5/d5d/ut_2cob__foms_8c.html#a33c35e693fbb969ef04395f7a507a347" title="cc_fom_populate_test" alt="" coords="193,259,343,285"/>
+<area shape="rect" id="node8" href="$d5/d5d/ut_2cob__foms_8c.html#a8fd53f4a4b8597f47618a8a73f265f60" title="cc_stob_create_test" alt="" coords="198,309,338,336"/>
+<area shape="rect" id="node9" href="$d5/d5d/ut_2cob__foms_8c.html#a377c93ae2fb193312f3dab3659c6f810" title="cc_cob_create_test" alt="" coords="200,360,336,387"/>
+<area shape="rect" id="node10" href="$d5/d5d/ut_2cob__foms_8c.html#a45a5c1c98fcbf18ce5df14a08d61f794" title="cc_fom_state_test" alt="" coords="203,411,333,437"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="193,461,343,488"/>
+</map>

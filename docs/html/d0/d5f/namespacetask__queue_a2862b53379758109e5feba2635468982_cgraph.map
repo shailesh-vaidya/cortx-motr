@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d0/d5f/namespacetask__queue.html#a76b426e7e9c813ba5a6b738294607d67" title="args_parse" alt="" coords="111,5,197,32"/>
+<area shape="rect" id="node3" href="$d0/d5f/namespacetask__queue.html#aeda8999e17247e5b14d2e9473b2515d5" title="task_add" alt="" coords="117,56,191,83"/>
+<area shape="rect" id="node4" href="$d0/d5f/namespacetask__queue.html#a393c2624bef95a040d31e59cb8ed91fc" title="task_del" alt="" coords="119,107,189,133"/>
+<area shape="rect" id="node5" href="$d0/d5f/namespacetask__queue.html#a2076bc97240ead69f1ed182bb4964be9" title="task_set_prio" alt="" coords="104,157,204,184"/>
+<area shape="rect" id="node6" href="$d0/d5f/namespacetask__queue.html#ab1e5c6b838eab79f0632051455b05f9f" title="list_queue" alt="" coords="113,208,195,235"/>
+<area shape="rect" id="node7" href="$d0/d5f/namespacetask__queue.html#a47d4412272383253c725ad46182f71e5" title="list_results" alt="" coords="111,259,197,285"/>
+</map>

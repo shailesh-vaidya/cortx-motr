@@ -1,0 +1,6 @@
+<map id="m0_confc_ctx_fini" name="m0_confc_ctx_fini">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga583e610b022d9e45eb740829d70cd1a6" title="confc_group_lock" alt="" coords="206,5,330,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#gae63990a2b05b1ea540711250c34cf96b" title="m0_confc_ctx_fini_locked" alt="" coords="181,56,355,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="403,81,492,108"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#gac206d247efce7aeccf5a4055be01708f" title="confc_group_unlock" alt="" coords="199,157,337,184"/>
+</map>

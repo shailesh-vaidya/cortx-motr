@@ -1,0 +1,9 @@
+<map id="test_ha_state_accept" name="test_ha_state_accept">
+<area shape="rect" id="node2" href="$d7/d48/ut_2note_8c.html#a16ee70aedaecd5309ec85bb08c5c69c6" title="local_confc_init" alt="" coords="215,5,327,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="391,31,460,57"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gab65c7e0cbe52183aceb6ff798474757f" title="m0_ha_client_add" alt="" coords="208,107,335,133"/>
+<area shape="rect" id="node5" href="$d0/dc7/group__ha-note.html#gaa1fae0405820e1c801950248dfb351d5" title="m0_ha_state_accept" alt="" coords="200,157,343,184"/>
+<area shape="rect" id="node6" href="$d7/d48/ut_2note_8c.html#a938075bb2fc22228c511fa07df620039" title="compare_ha_state" alt="" coords="207,208,336,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga58ee0db498285197a79e3df09a11528b" title="m0_ha_client_del" alt="" coords="210,259,333,285"/>
+<area shape="rect" id="node8" href="$d5/d25/group__confc__dlspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="220,309,323,336"/>
+</map>

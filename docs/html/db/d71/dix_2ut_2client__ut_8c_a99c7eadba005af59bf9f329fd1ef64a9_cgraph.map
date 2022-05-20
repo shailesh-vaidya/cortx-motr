@@ -1,0 +1,11 @@
+<map id="layout_encdec" name="layout_encdec">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gac33c0d8759b047a783b84ba73131bab3" title="m0_dix_ldesc_init" alt="" coords="183,5,309,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga7f4325873f4f91994e03efdd8a14c52c" title="m0_dix__ldesc_vals_enc" alt="" coords="162,56,330,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="391,107,506,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gac0a4a5ce6694a54343931bd0b619ca6c" title="m0_dix__ldesc_vals_dec" alt="" coords="162,259,330,285"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga391e7d9d1b1c465750daa3d36997bebf" title="m0_dix_ldesc_copy" alt="" coords="380,233,517,260"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga5cd05a630c07a4fb569941cb45b8cd33" title="m0_dix_ldesc_fini" alt="" coords="385,360,512,387"/>
+<area shape="rect" id="node8" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="205,309,287,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga67b1d856d365597554cc367f20dd74e3" title="m0_dix__layout_vals_enc" alt="" coords="160,157,332,184"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#ga49d48303b9cbad32bfa67faa1e95bc6d" title="m0_dix__layout_vals_dec" alt="" coords="160,411,332,437"/>
+</map>

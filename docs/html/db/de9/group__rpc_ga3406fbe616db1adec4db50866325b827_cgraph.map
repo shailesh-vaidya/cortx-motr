@@ -1,0 +1,5 @@
+<map id="item_kind" name="item_kind">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="133,5,297,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga079619b3736cef08e4d324f485587679" title="m0_rpc_item_is_reply" alt="" coords="141,56,290,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="132,107,299,133"/>
+</map>

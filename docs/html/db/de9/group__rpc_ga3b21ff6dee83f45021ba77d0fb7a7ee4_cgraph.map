@@ -1,0 +1,7 @@
+<map id="m0_rpc_init" name="m0_rpc_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="381,10,448,37"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaeeb1875bf846323206a4af8cf47dd588" title="m0_rpc_item_module_init" alt="" coords="153,35,323,62"/>
+<area shape="rect" id="node4" href="$d1/d84/group__rpc__service.html#gab89639397c1edd5b80868764ed530de8" title="m0_rpc_service_register" alt="" coords="156,86,320,113"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gacd3e1007022d64d0713bda2ccbfe36a6" title="m0_rpc_session_module_init" alt="" coords="143,137,333,163"/>
+<area shape="rect" id="node6" href="$de/d82/group__rpc__link.html#gae1d5445c6d1dee8bd7abe65511ebb9b1" title="m0_rpc_link_module_init" alt="" coords="155,187,321,214"/>
+</map>

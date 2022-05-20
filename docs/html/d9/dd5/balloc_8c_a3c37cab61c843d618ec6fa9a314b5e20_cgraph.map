@@ -1,0 +1,15 @@
+<map id="balloc_groups_write" name="balloc_groups_write">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="419,5,495,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="404,68,511,95"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a0ebc45c43a3866f98f37e64ddbb492e7" title="balloc_group_write_do" alt="" coords="198,397,349,424"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#a604db6c6962d1f88d435275cbf180cdd" title="balloc_group_write_done" alt="" coords="191,448,356,475"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga500ae281e5037148959dd7671a69149d" title="m0_be_tx_bulk_init" alt="" coords="206,144,341,171"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="404,144,511,171"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="423,195,492,221"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="424,296,491,323"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga1800e0272a931c07dd6896d7f2872834" title="m0_be_tx_bulk_run" alt="" coords="206,499,341,525"/>
+<area shape="rect" id="node11" href="$d9/dd5/balloc_8c.html#aba38f1b2e6c1f0e41a1aabb9a01fb4f6" title="balloc_group_work_put" alt="" coords="196,549,351,576"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gace3e3b64f431d325291c4ba565693181" title="m0_be_tx_bulk_status" alt="" coords="197,600,350,627"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga49d257f09b027abf5b8aefc93b2cfa4a" title="m0_be_tx_bulk_fini" alt="" coords="206,195,341,221"/>
+<area shape="rect" id="node14" href="$d9/dd5/balloc_8c.html#ad80f0252150f20a788e8301013379348" title="balloc_group_info_load" alt="" coords="196,296,351,323"/>
+</map>

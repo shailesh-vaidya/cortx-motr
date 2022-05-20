@@ -1,0 +1,7 @@
+<map id="m0_be_ut_seg_allocator_init" name="m0_be_ut_seg_allocator_init">
+<area shape="rect" id="node2" href="$dd/d4c/be_2ut_2main_8c.html#a38194155e947a19db6570382154781cd" title="m0_be_ut_alloc_create\l_destroy" alt="" coords="240,5,396,47"/>
+<area shape="rect" id="node3" href="$da/d2b/ut_2alloc_8c.html#ace2ffe6574c415d836aeecd84d3a2f28" title="be_ut_alloc_mt" alt="" coords="263,71,373,98"/>
+<area shape="rect" id="node4" href="$dd/d4c/be_2ut_2main_8c.html#ab7fbe7d48cca7789f481a3109510e2cb" title="m0_be_ut_alloc_info" alt="" coords="247,122,389,149"/>
+<area shape="rect" id="node5" href="$dd/d4c/be_2ut_2main_8c.html#a6b2e7ac872cc3dcbc823aa8539b7706b" title="m0_be_ut_alloc_oom" alt="" coords="245,173,391,199"/>
+<area shape="rect" id="node6" href="$dd/d4c/be_2ut_2main_8c.html#a52049679f3f0f4293c2d69bb6752b16e" title="m0_be_ut_alloc_spare" alt="" coords="242,223,394,250"/>
+</map>

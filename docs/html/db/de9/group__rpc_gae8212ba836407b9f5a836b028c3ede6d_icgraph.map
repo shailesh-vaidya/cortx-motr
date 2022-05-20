@@ -1,0 +1,5 @@
+<map id="available_space_in_packet" name="available_space_in_packet">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf342b774eb4c0e5151d2d544bcf3f927" title="frm_fill_packet" alt="" coords="620,27,727,54"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga34f436a05b7ff78c20e074fc3907ac61" title="item_will_exceed_packet_size" alt="" coords="185,29,384,55"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga18cdd5e083c6e51622c81d22a6a20120" title="frm_fill_packet_from\l_item_sources" alt="" coords="432,79,572,120"/>
+</map>

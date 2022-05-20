@@ -1,0 +1,9 @@
+<map id="disconnect_from_confd" name="disconnect_from_confd">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga53e65b83cd27bd472849d174a1049497" title="m0_confc_is_online" alt="" coords="241,5,378,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#ga19254f362815fa432e6292ab221d54a7" title="m0_confc2sess" alt="" coords="252,56,367,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#gaa8955fd10b52e5e8b522368b7787d291" title="m0_confc2conn" alt="" coords="252,107,367,133"/>
+<area shape="rect" id="node5" href="$de/d82/group__rpc__link.html#gae4a16324b964b9497b7e33de8b48c0bb" title="m0_rpc_link_disconnect_sync" alt="" coords="211,157,408,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#gae5c59869d80d71ce656a3d94765f5e72" title="confc_deadline" alt="" coords="255,208,364,235"/>
+<area shape="rect" id="node7" href="$de/d82/group__rpc__link.html#ga1861d22ec9ede7aaefa32dd21cb70648" title="m0_rpc_link_fini" alt="" coords="251,259,367,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="265,309,354,336"/>
+</map>

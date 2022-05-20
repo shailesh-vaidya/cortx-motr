@@ -1,0 +1,4 @@
+<map id="m0_rpc_rcv_conn_terminate" name="m0_rpc_rcv_conn_terminate">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3fcf417b9b0b8f86b7e6fca27a8ed911" title="m0_rpc_machine_cleanup\l_incoming_connections" alt="" coords="263,5,436,47"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga222a2bc2db6d856f6c07e42185625241" title="m0_rpc_fom_conn_terminate_tick" alt="" coords="240,71,459,98"/>
+</map>

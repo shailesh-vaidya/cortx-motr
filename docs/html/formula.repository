@@ -1,0 +1,10 @@
+\form#0:\[ ([0, e_0), v_0), ([e_0, e_1), v_1), \ldots, ([e_n, M0\_BINDEX\_MAX + 1), v_n) \]
+\form#1:\[ ([0, M0\_BINDEX\_MAX + 1), val) \]
+\form#2:$Parity(Do, Dn)$
+\form#3:$Parity(delta, Po)$
+\form#4:\[ \overline{x} = \frac {1}{N} \sum\limits_{i=1}^N {x_i} \]
+\form#5:\[ s = \sqrt {\frac {1}{N - 1} \sum\limits_{i=1}^N {(x_i - \overline{x})^2} } = \sqrt {\frac {1}{N - 1} (\sum\limits_{i=1}^N {x_i^2} + \sum\limits_{i=1}^N {\overline{x}^2} - 2 \sum\limits_{i=1}^N {x_i \overline{x}} )} = \sqrt {\frac {1}{N - 1} (\sum\limits_{i=1}^N {x_i^2} + N {\overline{x}^2} - 2 \overline{x} \sum\limits_{i=1}^N {x_i})} \]
+\form#6:$ N \overline{x} = \sum\limits_{i=1}^N {x_i} $
+\form#7:\[ s = \sqrt {\frac {1}{N - 1} (\sum\limits_{i=1}^N {x_i^2} + N {\overline{x}^2} - 2 \overline{x} \cdot N \overline{x} )} = \sqrt {\frac {1}{N - 1} (\sum\limits_{i=1}^N {x_i^2} - N {\overline{x}^2})} \]
+\form#8:$ \in [0, 2^{64} - 1] $
+\form#9:$ \in [0, 2^{128} - 1] $

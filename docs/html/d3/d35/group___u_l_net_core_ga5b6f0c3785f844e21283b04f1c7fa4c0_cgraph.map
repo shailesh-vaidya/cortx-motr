@@ -1,0 +1,11 @@
+<map id="nlx_core_dom_init" name="nlx_core_dom_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="233,5,309,32"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga00e38a4ba9f087356675ba41a57dc3d7" title="nlx_kcore_kcore_dom_init" alt="" coords="185,56,358,83"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="411,81,573,108"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#gad2ab176e2a26de2710bc2f9226a70030" title="nlx_kcore_core_dom_init" alt="" coords="188,157,355,184"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#gae1fb86408b29aad8bcb47da62791f168" title="nlx_kcore_kcore_dom_fini" alt="" coords="185,208,358,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="237,259,306,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="459,335,525,361"/>
+<area shape="rect" id="node9" href="$d3/d35/group___u_l_net_core.html#ga03477b58c5db5c1fe1204969e32685cf" title="nlx_ucore_ioctl" alt="" coords="217,360,326,387"/>
+<area shape="rect" id="node10" href="$d3/d35/group___u_l_net_core.html#gae03491e536a0dfc4dd5231889d5e5d09" title="nlx_ucore_domain_invariant" alt="" coords="180,411,363,437"/>
+</map>

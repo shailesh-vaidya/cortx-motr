@@ -1,0 +1,12 @@
+<map id="item_received" name="item_received">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="423,45,502,71"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="585,95,752,122"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga4dfe1f8a0c1d572c2dbf0d7331a4bd1d" title="item_received_fi" alt="" coords="189,45,307,71"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga3f1e79bccb01cc8f2b3d2c10fb8f32f9" title="m0_rpc_item_is_conn\l_establish" alt="" coords="388,279,537,320"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga29ba62309bf4ea69db2b87efde1cedbc" title="m0_rpc_fop_conn_establish\l_ctx_init" alt="" coords="156,147,340,188"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="418,179,507,206"/>
+<area shape="rect" id="node8" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="197,314,299,341"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga7702ca5b4bf721c63fe0f3a982250493" title="m0_rpc_item_sm_init" alt="" coords="175,365,321,391"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaeca6f24b585e93f06b7d1dcd058daf5c" title="m0_rpc_item_received" alt="" coords="171,415,325,442"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="175,467,321,508"/>
+</map>

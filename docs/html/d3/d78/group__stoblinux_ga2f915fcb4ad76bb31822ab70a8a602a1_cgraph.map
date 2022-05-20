@@ -1,0 +1,9 @@
+<map id="m0_stob_ioq_init" name="m0_stob_ioq_init">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="183,5,309,32"/>
+<area shape="rect" id="node3" href="$d1/d84/group__queue.html#ga3d99a3e728ef353570e4708cff997a31" title="m0_queue_init" alt="" coords="193,56,299,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="193,107,299,133"/>
+<area shape="rect" id="node5" href="$d3/d78/group__stoblinux.html#ga5cc098d86fab54b468a4091c2c00f8e0" title="stob_ioq_thread_init" alt="" coords="177,157,315,184"/>
+<area shape="rect" id="node6" href="$d3/d78/group__stoblinux.html#gacc15ab3ed154ac9292efa9a9f19c9547" title="stob_ioq_thread" alt="" coords="189,208,303,235"/>
+<area shape="rect" id="node7" href="$d3/d78/group__stoblinux.html#ga3c1b9a3ade339ce41f0d8d4d31c3a989" title="m0_stob_ioq_directio\l_setup" alt="" coords="173,259,319,301"/>
+<area shape="rect" id="node8" href="$d3/d78/group__stoblinux.html#ga7acc320e5f2ddf9df7902337e8af8d07" title="m0_stob_ioq_fini" alt="" coords="186,325,306,352"/>
+</map>

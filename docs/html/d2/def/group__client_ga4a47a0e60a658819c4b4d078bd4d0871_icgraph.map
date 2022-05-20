@@ -1,0 +1,35 @@
+<map id="m0_obj_init" name="m0_obj_init">
+<area shape="rect" id="node2" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a9e1b9033d40a645005e496033e5feac1" title="touch" alt="" coords="199,5,253,32"/>
+<area shape="rect" id="node3" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a4ea25809a68b928b7debae6ff3fd0441" title="m0_write" alt="" coords="189,56,263,83"/>
+<area shape="rect" id="node4" href="$d4/df5/motr_2st_2utils_2helper_8h.html#abaebd22dd8b90029da2d9635246d4083" title="m0_read" alt="" coords="190,107,262,133"/>
+<area shape="rect" id="node5" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a30233dbfd3cdf86c42d5b59c66b7e3de" title="m0_truncate" alt="" coords="179,157,273,184"/>
+<area shape="rect" id="node6" href="$d4/df5/motr_2st_2utils_2helper_8h.html#ad92559daf2ad051bf2318faf46759933" title="m0_unlink" alt="" coords="185,208,267,235"/>
+<area shape="rect" id="node7" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a68b72bd540d6a72ee900fb6a5fd2f625" title="m0_write_cc" alt="" coords="178,259,274,285"/>
+<area shape="rect" id="node8" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a3ec3ec64dedd4ccf36fe736dc4bb3c38" title="m0_read_cc" alt="" coords="179,309,273,336"/>
+<area shape="rect" id="node9" href="$de/d61/motr_2ut_2client_8c.html#af169ac1d96813607b8852cf7ec984289" title="ut_test_m0_obj_init" alt="" coords="159,360,293,387"/>
+<area shape="rect" id="node10" href="$de/d61/motr_2ut_2client_8c.html#ab1435db633fb73981ea7e6c5d01f35b4" title="ut_test_m0_entity_fini" alt="" coords="151,411,301,437"/>
+<area shape="rect" id="node11" href="$de/d61/motr_2ut_2client_8c.html#aea32fd4a42d9eb3e91ac4c9fecf98a1e" title="ut_test_m0_obj_fini" alt="" coords="159,461,293,488"/>
+<area shape="rect" id="node12" href="$d7/d70/motr_2ut_2obj_8c.html#a6c1b5ff8d50a49de009fa1eba3933bae" title="ut_test_obj_op_prepare" alt="" coords="147,512,305,539"/>
+<area shape="rect" id="node13" href="$d7/d70/motr_2ut_2obj_8c.html#a8284b7fc4286f24d90733e6ec615a5cf" title="ut_test_obj_lid_assign" alt="" coords="151,563,301,589"/>
+<area shape="rect" id="node14" href="$d7/d70/motr_2ut_2obj_8c.html#adb1981438ba4be75d6325007bff75b58" title="ut_test_m0_entity_create" alt="" coords="141,613,311,640"/>
+<area shape="rect" id="node15" href="$d7/d70/motr_2ut_2obj_8c.html#a30cf24d90054ee745aac0d14c70bf2e4" title="ut_test_m0_entity_delete" alt="" coords="142,664,310,691"/>
+<area shape="rect" id="node16" href="$d9/d71/m0hsm_8c.html#ac097ababb62ef3b85e85252e77f0be7a" title="m0hsm_write_file" alt="" coords="164,715,288,741"/>
+<area shape="rect" id="node17" href="$d0/d8c/m0hsm__api_8c.html#a1c7c98623ca96fa33823d8f022783d5c" title="create_obj" alt="" coords="185,765,267,792"/>
+<area shape="rect" id="node18" href="$d0/d8c/m0hsm__api_8c.html#a1d8eaa646582ce0bb5072199f4c1b123" title="delete_obj" alt="" coords="185,816,267,843"/>
+<area shape="rect" id="node19" href="$d0/d8c/m0hsm__api_8c.html#a1d6ad3d5ab10d869cd07845494c6d6d8" title="create_obj_with_layout" alt="" coords="149,867,303,893"/>
+<area shape="rect" id="node20" href="$d0/d8c/m0hsm__api_8c.html#aaaa9a34f19a48af3dc04835a154a9990" title="delete_obj_set_parent\l_layout" alt="" coords="151,918,301,959"/>
+<area shape="rect" id="node21" href="$d0/d8c/m0hsm__api_8c.html#a6ad7243af7368d5a0dd77e92dc46a778" title="layout_get" alt="" coords="185,984,267,1011"/>
+<area shape="rect" id="node22" href="$d0/d8c/m0hsm__api_8c.html#addbbc92cefde486b553a936adb1ccf21" title="layout_set" alt="" coords="185,1035,267,1061"/>
+<area shape="rect" id="node23" href="$d0/d8c/m0hsm__api_8c.html#ad4594f70abb8ccdb635591adcad4eb87" title="m0hsm_test_write" alt="" coords="161,1085,291,1112"/>
+<area shape="rect" id="node24" href="$d0/d8c/m0hsm__api_8c.html#a5d65747252971537e871f2fe52ed7a6f" title="m0hsm_test_read" alt="" coords="163,1136,289,1163"/>
+<area shape="rect" id="node25" href="$d0/d8c/m0hsm__api_8c.html#a69bbd1affd032d1fe2feab9a2a1e24ee" title="copy_extent_data" alt="" coords="163,1187,289,1213"/>
+<area shape="rect" id="node26" href="$d4/d0d/iscdemo_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="201,1237,251,1264"/>
+<area shape="rect" id="node27" href="$df/da5/composite__layout_8c.html#a1e72ffd0c052c31c598929c05ffbfabd" title="composite_sub_io_op\l_build" alt="" coords="152,1289,300,1330"/>
+<area shape="rect" id="node28" href="$de/d4b/example1_8c.html#a09566b91972c079710b9732b48cbfc0d" title="object_create" alt="" coords="176,1355,276,1381"/>
+<area shape="rect" id="node29" href="$de/d4b/example1_8c.html#aaac6c2ab90f000f06290d5cd0ebade9a" title="object_write" alt="" coords="180,1405,272,1432"/>
+<area shape="rect" id="node30" href="$de/d4b/example1_8c.html#afde444abd6072b0bc06ff240389d9b6e" title="object_read" alt="" coords="181,1456,271,1483"/>
+<area shape="rect" id="node31" href="$de/d4b/example1_8c.html#af1e54cf5659e0fad868a2064ebea75ba" title="object_delete" alt="" coords="177,1507,275,1533"/>
+<area shape="rect" id="node32" href="$dd/d85/crate__io_8c.html#a9f8568d59b40fc2556ff87178605dd62" title="cr_namei_open" alt="" coords="171,1557,281,1584"/>
+<area shape="rect" id="node33" href="$dd/d85/crate__io_8c.html#aa85949c501268a0ec47352a1b4f3418f" title="cr_task_prep_one" alt="" coords="163,1608,289,1635"/>
+<area shape="rect" id="node34" href="$df/df7/group___client.html#ga74b67f396c2cf78b12a9b4c2bc7739e5" title="st_obj_init" alt="" coords="185,1659,267,1685"/>
+</map>

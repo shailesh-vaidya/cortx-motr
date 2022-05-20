@@ -1,0 +1,11 @@
+<map id="pargrp_iomap_paritybufs_alloc" name="pargrp_iomap_paritybufs_alloc">
+<area shape="rect" id="node2" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a7261507e9052e45c7c69f3c63732a485" title="pargrp_iomap_invariant" alt="" coords="217,5,373,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5f6ffa351f9981b769f3d34b0f280fd9" title="iomap_to_inode" alt="" coords="239,56,352,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a029196acc6abe6bd84c5af37fce96a74" title="m0t1fs_file_to_inode" alt="" coords="421,81,564,108"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="247,157,343,184"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aefc5966b362e3ffba1593e10d4f5cb7a" title="rows_nr" alt="" coords="261,208,329,235"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aec9576e37980f9a1fab95971a6fc2d55" title="layout_k" alt="" coords="260,259,331,285"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a4f3dc4b286cb1fef9f1a58f25949d1b5" title="data_buf_alloc_init" alt="" coords="230,309,361,336"/>
+<area shape="rect" id="node9" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa3c9d000e95c41896417fffbd5a3a26d" title="data_size" alt="" coords="256,360,335,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="262,411,329,437"/>
+</map>

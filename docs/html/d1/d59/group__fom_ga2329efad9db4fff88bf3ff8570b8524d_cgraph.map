@@ -1,0 +1,10 @@
+<map id="m0_fom_block_leave" name="m0_fom_block_leave">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga9b280fa18fe055a4b7e1f5374558d57c" title="m0_atomic64_add_return" alt="" coords="199,5,367,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="225,56,340,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga68b3d5991110c50c0275ea9988c479ec" title="group_lock" alt="" coords="240,107,325,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#gac60652bd63e26a68eee0e09a62db2a2b" title="thr_addb2_enter" alt="" coords="225,157,340,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#gaa788b4e404155468e767476afcad0be2" title="fom_addb2_push" alt="" coords="222,208,343,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#ga519e4b0e932be51befc7498865a2d1f2" title="m0_locality_invariant" alt="" coords="211,259,355,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga28a52dc053b5fb6fa53362a51396a937" title="fom_is_blocked" alt="" coords="226,309,339,336"/>
+<area shape="rect" id="node9" href="$d3/de8/group__atomic.html#ga4ae2177e248e4c3f676d0e802dafd8e0" title="m0_atomic64_dec" alt="" coords="219,360,347,387"/>
+</map>

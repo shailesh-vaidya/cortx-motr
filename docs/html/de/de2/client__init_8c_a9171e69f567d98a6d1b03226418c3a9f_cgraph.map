@@ -1,0 +1,12 @@
+<map id="m0__io_ref_get" name="m0__io_ref_get">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#aa2963818f47f56b7cf60d46c29f9f73c" title="m0_confc" alt="" coords="189,5,268,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="171,56,286,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="179,107,278,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="177,157,280,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="165,208,293,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="175,259,282,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="164,309,293,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="179,360,278,387"/>
+<area shape="rect" id="node10" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="185,411,272,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="195,461,262,488"/>
+</map>

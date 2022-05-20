@@ -1,0 +1,5 @@
+<map id="m0_sm_ast_wait_post" name="m0_sm_ast_wait_post">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#ga7375f066df1cb2cd2f685da2d08dab76" title="m0_atomic64_inc" alt="" coords="209,5,333,32"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="209,56,332,83"/>
+<area shape="rect" id="node4" href="$d3/de8/group__atomic.html#ga4ae2177e248e4c3f676d0e802dafd8e0" title="m0_atomic64_dec" alt="" coords="207,107,335,133"/>
+</map>

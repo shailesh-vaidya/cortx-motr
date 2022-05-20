@@ -1,0 +1,11 @@
+<map id="m0_rpc_item_cancel_init" name="m0_rpc_item_cancel_init">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="463,5,546,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="227,209,379,236"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga7dedbfbca409a78c9cce12ecde7dc888" title="m0_rpc_item_cancel\l_nolock" alt="" coords="232,93,375,134"/>
+<area shape="rect" id="node5" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="457,85,552,112"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="435,148,575,175"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaeaf73ecb9b490b5fa9f7ccc3072c6380" title="m0_rpc_item_fini" alt="" coords="243,311,364,337"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="460,311,549,337"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga3f640a55b5899e559d00a5e976310313" title="m0_rpc_item_init" alt="" coords="243,361,364,388"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="220,412,387,439"/>
+</map>

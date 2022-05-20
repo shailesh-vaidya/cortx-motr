@@ -1,0 +1,11 @@
+<map id="layout_dix_put_ast" name="layout_dix_put_ast">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="185,5,318,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga4586a071492c846d3d86a69ad59d5247" title="m0_dix_layout_put" alt="" coords="186,56,317,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="373,81,449,108"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="187,157,316,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="367,233,456,260"/>
+<area shape="rect" id="node7" href="$df/da5/composite__layout_8c.html#a24134555be260e0d59ae52ddc5835f65" title="layout_op_failed" alt="" coords="193,259,309,285"/>
+<area shape="rect" id="node8" href="$df/da5/composite__layout_8c.html#ae8a2d30d283bbc4d8e11da3c00d05c14" title="layout_dix_req_fini" alt="" coords="186,309,317,336"/>
+<area shape="rect" id="node9" href="$df/da5/composite__layout_8c.html#a0f7e5bff706e5f0b25fc7fc83642c904" title="layout_dix_req_free" alt="" coords="184,360,319,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="377,385,446,412"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="balloc_db_update_credit" name="balloc_db_update_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga6c2b0ebe7aee33b0c7b6680bf54d4dc7" title="m0_be_btree_delete\l_credit" alt="" coords="222,5,361,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga9590cae78c1e53bf91761c7981cd204c" title="m0_be_btree_insert\l_credit" alt="" coords="223,71,359,112"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac443c248566338fb4035b5c848715934" title="m0_be_btree_update\l_credit" alt="" coords="415,188,557,229"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga95c25fe99034dc832d82a065793e974e" title="m0_be_tx_credit_mac" alt="" coords="605,166,756,193"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#a33ab670460369f8f9a1eca0294b8a8ac" title="balloc_sb_sync_credit" alt="" coords="216,238,367,265"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#a3f7d1b1558c6d95426a7a4228c28c89e" title="balloc_gi_sync_credit" alt="" coords="218,289,365,315"/>
+</map>

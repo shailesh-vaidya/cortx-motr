@@ -1,0 +1,10 @@
+<map id="m0_be_0type_del" name="m0_be_0type_del">
+<area shape="rect" id="node2" href="$dc/dbd/seg0_8c.html#ac39016ea451dea526eee1dba45e593bb" title="dom_is_locked" alt="" coords="205,5,315,32"/>
+<area shape="rect" id="node3" href="$dc/dbd/seg0_8c.html#a00a0a02eb7d85e3c9a6c2adb41cfd834" title="be_0type_invariant" alt="" coords="195,56,325,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga744d5f969f8ac1d4d7032c75ba87ac4f" title="m0_be_tx__is_exclusive" alt="" coords="177,107,343,133"/>
+<area shape="rect" id="node5" href="$dc/dbd/seg0_8c.html#a3590bf6d535a11c8fc3baad322f2932d" title="be_0type_seg0_get" alt="" coords="193,157,327,184"/>
+<area shape="rect" id="node6" href="$dc/dbd/seg0_8c.html#a6361795a8965f79a0ea5857fc04bf8fc" title="keyname_format" alt="" coords="201,208,319,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga8f2ad8560093983526b4a2d9f0438178" title="m0_be_seg_dict_lookup" alt="" coords="179,259,341,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="391,309,457,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga0c618e7d3abf238cd651e083479511f0" title="m0_be_seg_dict_delete" alt="" coords="181,360,339,387"/>
+</map>

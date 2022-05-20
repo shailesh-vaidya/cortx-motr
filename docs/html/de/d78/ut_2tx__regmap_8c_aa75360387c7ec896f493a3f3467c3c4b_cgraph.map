@@ -1,0 +1,8 @@
+<map id="be_ut_reg_area_do" name="be_ut_reg_area_do">
+<area shape="rect" id="node2" href="$de/d78/ut_2tx__regmap_8c.html#a636444b7311d352b234c62ff91a04053" title="be_ut_reg_area_offs2addr" alt="" coords="191,5,362,32"/>
+<area shape="rect" id="node3" href="$de/d78/ut_2tx__regmap_8c.html#a624611e075148afbff7ae15654b5c4ef" title="be_ut_reg_area_rand" alt="" coords="205,56,348,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0dc33358bc8df1809ce4ec0c4d501db4" title="m0_be_reg_area_capture" alt="" coords="193,107,361,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga3f9da08473f4ac0ce90ae2752eb868d8" title="m0_be_reg_area_uncapture" alt="" coords="185,157,368,184"/>
+<area shape="rect" id="node6" href="$de/d78/ut_2tx__regmap_8c.html#a441a0fa89de3c8a92c6e0408fe85c744" title="be_ut_reg_area_get" alt="" coords="209,208,345,235"/>
+<area shape="rect" id="node7" href="$de/d78/ut_2tx__regmap_8c.html#ad58e744e8142789a8ef5c75a0b14fa5e" title="be_ut_reg_area_check" alt="" coords="200,259,353,285"/>
+</map>

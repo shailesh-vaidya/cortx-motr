@@ -1,0 +1,13 @@
+<map id="m0_obj_op" name="m0_obj_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="194,5,270,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="155,56,309,83"/>
+<area shape="rect" id="node4" href="$d1/da1/motr_2layout_8c.html#abee9ca924d29ee6560922ba7977f46fc" title="m0_client__layout_get" alt="" coords="156,107,308,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="373,132,440,159"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="157,208,307,235"/>
+<area shape="rect" id="node7" href="$d9/d5b/motr_2io_8c.html#a75ed8b2263fcbf8eec464109fb7b73e3" title="obj_io_args_check" alt="" coords="167,259,297,285"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="386,309,427,336"/>
+<area shape="rect" id="node9" href="$d9/d5b/motr_2io_8c.html#a1bedb398e4c51640c71b97260b09d4da" title="segments_sort" alt="" coords="178,360,286,387"/>
+<area shape="rect" id="node10" href="$d9/d5b/motr_2io_8c.html#abde4b4f33328d7d58d32d9ce7d3aa881" title="indexvec_segments_overlap" alt="" coords="139,411,325,437"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="189,461,275,488"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="187,512,277,539"/>
+</map>

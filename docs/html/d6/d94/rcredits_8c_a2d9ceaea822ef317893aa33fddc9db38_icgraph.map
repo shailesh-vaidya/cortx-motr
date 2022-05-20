@@ -1,0 +1,11 @@
+<map id="borrow_and_hold" name="borrow_and_hold">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#a5c7ae3797b098914085205a1b32d8f69" title="test_revoke_conflicting_wait" alt="" coords="175,5,362,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#ac98f1d1d1bd5806e7baefba8034f0cea" title="test_revoke_conflicting_try" alt="" coords="179,56,358,83"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#a278bde677d9daff233ac9ddc2f2947ce" title="test_revoke_no_conflict_wait" alt="" coords="173,107,364,133"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a08d2cd6cdb9e268cab383b18ca7d6005" title="test_revoke_no_conflict_try" alt="" coords="177,157,360,184"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#a12509f6fb150d6ada23db8d9a992a30f" title="test_borrow_held_no\l_conflict" alt="" coords="197,209,340,250"/>
+<area shape="rect" id="node7" href="$d6/d94/rcredits_8c.html#acb7ea8bdea992fb84b412e6d42c3adc8" title="test_borrow_held_conflicting" alt="" coords="175,275,362,301"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#ab72a0910765911085a70c74e1b11cdce" title="test_starvation" alt="" coords="215,325,323,352"/>
+<area shape="rect" id="node9" href="$d6/d94/rcredits_8c.html#a9145ff78de4c82b19141de7307931668" title="test_barrier" alt="" coords="225,376,312,403"/>
+<area shape="rect" id="node10" href="$d6/d94/rcredits_8c.html#a475b9dc9304cfaa7134500c991c4c694" title="test_creditor_death2" alt="" coords="199,427,339,453"/>
+</map>

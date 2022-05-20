@@ -1,0 +1,9 @@
+<map id="balloc_find_extent_buddy" name="balloc_find_extent_buddy">
+<area shape="rect" id="node2" href="$d0/da4/group___c_m.html#ga6cb82f8d34f54e75f0f7089da2b00433" title="start" alt="" coords="229,5,277,32"/>
+<area shape="rect" id="node3" href="$d8/d42/group__crate.html#ga07d21d91aa8686f81164888d63891ac4" title="min" alt="" coords="231,56,274,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="180,107,325,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ad7fecc4ce3e8c6f1964c08a76eb84a2c" title="bgi_mutex" alt="" coords="211,157,294,184"/>
+<area shape="rect" id="node6" href="$d8/d54/group__ext.html#ga87c12bb358acc91d308edb37522c3521" title="m0_ext_init" alt="" coords="208,208,297,235"/>
+<area shape="rect" id="node7" href="$d9/dd5/balloc_8c.html#ab1c25928253b22f7d5f68dea541e1089" title="is_spare" alt="" coords="217,259,288,285"/>
+<area shape="rect" id="node8" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="199,309,306,336"/>
+</map>

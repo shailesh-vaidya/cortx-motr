@@ -1,0 +1,12 @@
+<map id="rdwr_send_fop" name="rdwr_send_fop">
+<area shape="rect" id="node2" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab1eef955bd95c3cc2e3a72cedc7702f8" title="m0_long_lock_init" alt="" coords="163,5,290,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="177,56,276,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="177,107,276,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="160,157,293,184"/>
+<area shape="rect" id="node6" href="$d8/d57/rdwr__test__bench_8c.html#a3b5a2eb10d0ab1cba20ff9f2691ab096" title="test_req_handle" alt="" coords="169,208,284,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="173,259,280,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="162,309,291,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="161,360,292,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="177,411,276,437"/>
+<area shape="rect" id="node11" href="$dd/d2e/group__m0__long__lock___a_p_i.html#gab97f2172a9ef8e23ed79762dce8235db" title="m0_long_lock_fini" alt="" coords="163,461,290,488"/>
+</map>

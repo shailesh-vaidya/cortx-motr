@@ -1,0 +1,9 @@
+<map id="m0_conf_device_cid_to_fid" name="m0_conf_device_cid_to_fid">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#ae14ed73f930ddb0167a8de92804ebae8" title="m0_confc_root_open" alt="" coords="209,5,351,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="242,56,318,83"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="221,107,339,133"/>
+<area shape="rect" id="node5" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="195,157,365,184"/>
+<area shape="rect" id="node6" href="$db/dc2/conf_2helpers_8c.html#aca7fc8d11f1ec4bd4bbcd2e20ce863fc" title="conf_obj_is_sdev" alt="" coords="219,208,341,235"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="209,259,351,285"/>
+<area shape="rect" id="node8" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="216,309,344,336"/>
+</map>

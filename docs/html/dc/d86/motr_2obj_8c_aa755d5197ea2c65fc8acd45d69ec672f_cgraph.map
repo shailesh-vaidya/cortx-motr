@@ -1,0 +1,21 @@
+<map id="obj_namei_op_init" name="obj_namei_op_init">
+<area shape="rect" id="node2" href="$d7/d3b/group__hash.html#gab2d8833cca5e3aaacd1aae6b32437e83" title="obj_key" alt="" coords="236,5,303,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="231,56,307,83"/>
+<area shape="rect" id="node4" href="$dc/d86/motr_2obj_8c.html#a2ff5afeae92e62d6220350962e261994" title="m0_op_common_invariant" alt="" coords="596,208,771,235"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="819,335,885,361"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#afc6037f4f0215f16d4bfe2a321c37c3b" title="m0_op_obj_invariant" alt="" coords="407,208,548,235"/>
+<area shape="rect" id="node7" href="$dc/d86/motr_2obj_8c.html#acd18d2616848a687b2e651aae611b770" title="m0__oo_instance" alt="" coords="415,259,539,285"/>
+<area shape="rect" id="node8" href="$dc/d86/motr_2obj_8c.html#a8907b1e3e20c315507d444b3437c7440" title="obj_namei_cb_launch" alt="" coords="196,309,343,336"/>
+<area shape="rect" id="node9" href="$dc/d86/motr_2obj_8c.html#ae42a5c0c4c097ba44a50fa97b676b0ef" title="obj_namei_cb_cancel" alt="" coords="196,360,343,387"/>
+<area shape="rect" id="node10" href="$dc/d86/motr_2obj_8c.html#aa11a48b5279b4ceba435da2612d9f5ed" title="obj_namei_cb_fini" alt="" coords="206,208,333,235"/>
+<area shape="rect" id="node11" href="$dc/d86/motr_2obj_8c.html#aa38117a363d01ad61a2bd48e25987e27" title="obj_namei_cb_free" alt="" coords="204,461,335,488"/>
+<area shape="rect" id="node12" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="205,512,333,539"/>
+<area shape="rect" id="node13" href="$dd/d7f/group__pool.html#gaca49fe2d8b222f099b7e80d59c7809a2" title="m0_pool_version2layout_id" alt="" coords="180,563,359,589"/>
+<area shape="rect" id="node14" href="$dc/d86/motr_2obj_8c.html#a0aca95cdb413eec7b71967cd52cf458f" title="m0__obj_layout_id_get" alt="" coords="192,613,347,640"/>
+<area shape="rect" id="node15" href="$dc/d86/motr_2obj_8c.html#a4743068e33d77f4bd567db584560fc8a" title="m0__obj_layout_instance\l_build" alt="" coords="599,559,768,601"/>
+<area shape="rect" id="node16" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="218,715,321,741"/>
+<area shape="rect" id="node17" href="$dd/d5f/group__fid.html#ga9f695a7bd0b64f3897a471dff7a96549" title="m0_fid_is_valid" alt="" coords="213,765,325,792"/>
+<area shape="rect" id="node18" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="232,816,307,843"/>
+<area shape="rect" id="node19" href="$d7/dcd/motr_2client__internal_8h.html#a700b1db9efe3794bede39824b7f15859" title="obj_fid_make_name" alt="" coords="200,867,339,893"/>
+<area shape="rect" id="node20" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="225,917,314,944"/>
+</map>

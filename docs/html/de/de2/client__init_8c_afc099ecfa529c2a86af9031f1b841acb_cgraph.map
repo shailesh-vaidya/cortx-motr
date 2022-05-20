@@ -1,0 +1,15 @@
+<map id="initlift_resource_manager" name="initlift_resource_manager">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#ae9e97bcbeee824545903acfe20539738" title="m0c_invariant" alt="" coords="268,56,371,83"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="471,132,538,159"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="278,107,361,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="252,157,387,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="467,487,543,513"/>
+<area shape="rect" id="node7" href="$de/de2/client__init_8c.html#a1956aa499f71c13762b0e44d47f9d63c" title="initlift_fail" alt="" coords="281,259,358,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="245,309,394,336"/>
+<area shape="rect" id="node9" href="$db/dc2/conf_2helpers_8c.html#ac79577bf87f4c434863b53bdad6777d7" title="m0_conf_process2service_get" alt="" coords="220,360,419,387"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="252,411,387,437"/>
+<area shape="rect" id="node11" href="$d1/d07/group__uuid.html#gaaea0aa99a9d90a65566793f2537d32ad" title="m0_uuid_generate" alt="" coords="255,461,383,488"/>
+<area shape="rect" id="node12" href="$dd/d5f/group__fid.html#ga6a98348925ef12a3729d9c9b7097f1d0" title="m0_fid_tassume" alt="" coords="260,512,379,539"/>
+<area shape="rect" id="node13" href="$de/de2/client__init_8c.html#a3098ad7999b251f7ac96fb2eaf6dacef" title="service_start" alt="" coords="271,563,368,589"/>
+<area shape="rect" id="node14" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="248,5,391,32"/>
+</map>

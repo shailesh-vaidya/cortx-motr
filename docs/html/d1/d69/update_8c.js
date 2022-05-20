@@ -1,0 +1,28 @@
+var update_8c =
+[
+    [ "M0_TRACE_SUBSYSTEM", "d2/d66/group__dtm.html#gae762ad8776496e788bf62e0fa1615b61", null ],
+    [ "dtm_update_replied", "d2/d66/group__dtm.html#gab2a7ff61a98b4b36bc5c042773c62cf7", null ],
+    [ "m0_dtm_comm_set", "d2/d66/group__dtm.html#ga3fdc5c01d17b363a2cef993d28567179", null ],
+    [ "m0_dtm_descr_matches_update", "d2/d66/group__dtm.html#gabb248d073e3b94b4f495beda7f5d3d63", null ],
+    [ "m0_dtm_update_build", "d2/d66/group__dtm.html#ga51b850681477e2290f76ed389660dfcd", null ],
+    [ "m0_dtm_update_init", "d2/d66/group__dtm.html#ga49c547cd96a1df659006ae90d5c3596d", null ],
+    [ "m0_dtm_update_invariant", "d2/d66/group__dtm.html#ga01b17a0f3ebc673f494da03549d23e31", null ],
+    [ "m0_dtm_update_is_user", "d2/d66/group__dtm.html#ga498ff96d8fc68e4103ce3693ade0f953", null ],
+    [ "m0_dtm_update_link", "d2/d66/group__dtm.html#gaa55cc276def1a071844e9f6f86ecefc1", null ],
+    [ "m0_dtm_update_list_fini", "d2/d66/group__dtm.html#gabcbc1f0f85575350fa0085f43f9f446b", null ],
+    [ "m0_dtm_update_list_init", "d2/d66/group__dtm.html#ga0d615c1f65e78d3ce5db7b570aeed029", null ],
+    [ "m0_dtm_update_matches_descr", "d2/d66/group__dtm.html#ga60d2644343876de839f97cec6d4dc647", null ],
+    [ "m0_dtm_update_pack", "d2/d66/group__dtm.html#ga32f292daeadb7db81f1a8b7dc25a6034", null ],
+    [ "m0_dtm_update_reint", "d2/d66/group__dtm.html#ga4ee3d1dd79d55130647f1b8356a8c582", null ],
+    [ "m0_dtm_update_unpack", "d2/d66/group__dtm.html#gad4134c67f2d252cafd40c3db47cb262d", null ],
+    [ "M0_TL_DEFINE", "d2/d66/group__dtm.html#ga6d990acb500a7dee2db28836a1330f23", null ],
+    [ "M0_TL_DEFINE", "d2/d66/group__dtm.html#gaa0a861f9f325cc0e9fceebbc7ae983bb", null ],
+    [ "M0_TL_DESCR_DEFINE", "d2/d66/group__dtm.html#ga848a67fc44760f24087552f3f3ecc573", null ],
+    [ "M0_TL_DESCR_DEFINE", "d2/d66/group__dtm.html#ga581292bdcf306bbe8da38fd3a39baed4", null ],
+    [ "up_update", "d2/d66/group__dtm.html#ga33621c2c17f9d4d01072a05adc3d756f", null ],
+    [ "update_is_earlier", "d2/d66/group__dtm.html#ga42ab44938c31e4ef30a3a6c7d06d2253", null ],
+    [ "update_print", "d2/d66/group__dtm.html#gac9dd72b58735f32e811522c8b439ee69", null ],
+    [ "update_print_internal", "d2/d66/group__dtm.html#gac45edf05a97334c78c570ef249b7c81b", null ],
+    [ "update_reint", "d2/d66/group__dtm.html#ga7c446b2497ca71f833f9f1c8ab65a701", null ],
+    [ "dtm_update_item_ops", "d2/d66/group__dtm.html#gaf09c3e4beb1e35f21bbce386678fbb5c", null ]
+];

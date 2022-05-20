@@ -1,0 +1,8 @@
+<map id="fom_tx_wait" name="fom_tx_wait">
+<area shape="rect" id="node2" href="$d1/d59/group__fom.html#ga617b5fc6b3381d499b40db2f06f7fd55" title="fom_is_update" alt="" coords="154,5,261,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#ga540ed0a1ddcaf608b37da2332b2ab5cc" title="m0_fom_tx" alt="" coords="164,56,251,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="174,107,241,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga3da36b83a0def226d7aba23fd436e7fc" title="m0_fom_wait_on" alt="" coords="147,157,268,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="163,208,252,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga2321213cf8a9198330e35265657d45ce" title="m0_dtx_opened" alt="" coords="150,259,265,285"/>
+</map>

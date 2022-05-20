@@ -1,0 +1,13 @@
+<map id="m0_cc_cob_setup" name="m0_cc_cob_setup">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#ga47e20f53fd0d79ce9a28d3135f74b32f" title="m0_cob_alloc" alt="" coords="215,5,318,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="409,385,476,412"/>
+<area shape="rect" id="node4" href="$d9/d51/cob__foms_8c.html#ad1c2d6172b01dc3cfe312a7e79ff745c" title="cob_is_md" alt="" coords="400,81,485,108"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a4ca25c1d74eb9bc484eb8ae6def035a3" title="cc_md_cob_nskey_make" alt="" coords="181,157,352,184"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#a2ad519fe56945f348e65c730b4d7d2ab" title="m0_cc_cob_nskey_make" alt="" coords="181,208,352,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gac6b128067e89a508e68055b818de1a3d" title="m0_cob_put" alt="" coords="220,259,313,285"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#a242fb1c0942a7d1dd67f5168ca78c548" title="cob_fom_stob2fid_map" alt="" coords="188,56,345,83"/>
+<area shape="rect" id="node9" href="$d3/d8e/group__cob.html#ga7c8f48452a610db82777a0c4711db441" title="m0_cob_nsrec_init" alt="" coords="201,360,332,387"/>
+<area shape="rect" id="node10" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="246,411,287,437"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#ga7840e004a1c1b8431a212119e27b7bb5" title="m0_cob_create" alt="" coords="211,461,322,488"/>
+<area shape="rect" id="node12" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="232,512,301,539"/>
+</map>

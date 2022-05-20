@@ -1,0 +1,12 @@
+<map id="cobfoms_fsync_create_delete" name="cobfoms_fsync_create_delete">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="443,39,566,65"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="455,89,554,116"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="628,39,697,65"/>
+<area shape="rect" id="node5" href="$d5/d5d/ut_2cob__foms_8c.html#ac5b31f95e958bd95a125bc2583ff75c4" title="cobfops_populate_internal" alt="" coords="208,444,381,471"/>
+<area shape="rect" id="node6" href="$dc/d6b/rpclib_8c.html#ac864ba2a2b5a0b6602df61098059d566" title="m0_rpc_post_sync" alt="" coords="439,141,571,168"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gadf7a38a5657a5e584c8dcb66750ef657" title="m0_rpc_item_wait_for\l_reply" alt="" coords="429,195,580,237"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="456,265,553,292"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="435,324,575,351"/>
+<area shape="rect" id="node10" href="$d5/d5d/ut_2cob__foms_8c.html#a4e9cb48570ebecca63b7f96362200ebc" title="cobfoms_fsync_send_fop" alt="" coords="209,191,380,217"/>
+<area shape="rect" id="node11" href="$d6/d39/group__fop.html#gad32cf0c9750068ecedbd92a2d4a18cc1" title="m0_fop_put_lock" alt="" coords="444,392,565,419"/>
+</map>

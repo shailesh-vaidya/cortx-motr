@@ -1,0 +1,8 @@
+<map id="m0_be_dtm0_log_credit" name="m0_be_dtm0_log_credit">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#a29689e28da45f2e4450dd0c4bc129f5e" title="cas_dtm0_logrec_credit_add" alt="" coords="213,5,401,32"/>
+<area shape="rect" id="node3" href="$de/d0c/group___d_t_m0_internals.html#ga882842ba941e09db7efa4b3d6d886d09" title="m0_be_dtm0_plog_can\l_prune" alt="" coords="229,57,385,98"/>
+<area shape="rect" id="node4" href="$da/dbb/dtm0__log__ut_8c.html#a50b539e091fbae1e87b468a7503afc76" title="persistent_log_operate" alt="" coords="449,93,603,120"/>
+<area shape="rect" id="node5" href="$da/dbb/dtm0__log__ut_8c.html#a49f310e8416f8f807639ae20b55caf81" title="persistent_log_create" alt="" coords="234,173,381,200"/>
+<area shape="rect" id="node6" href="$de/db0/dtm0_2helper_8h.html#adcfc39ab0940acb3befd727374f0c2cf" title="m0_dtm0_log_create" alt="" coords="236,224,379,251"/>
+<area shape="rect" id="node7" href="$d4/d89/dtm0_2fop_8c.html#a0e10c98ddbbee6a7a7ffb7a84cbcbeff" title="dtm0_pmsg_fom_tick" alt="" coords="234,275,381,301"/>
+</map>

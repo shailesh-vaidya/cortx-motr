@@ -1,0 +1,6 @@
+<map id="m0_stob_lookup_by_key" name="m0_stob_lookup_by_key">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga1f16adbc440a57e7a1b6c263b0c553ed" title="m0_stob_domain__cache" alt="" coords="220,5,391,32"/>
+<area shape="rect" id="node3" href="$de/d4f/group__stobcache.html#gaff7780337fe9a61ccfe2a725d277bd3c" title="m0_stob_cache_lock" alt="" coords="233,56,378,83"/>
+<area shape="rect" id="node4" href="$de/d4f/group__stobcache.html#gabd83d52eae42b7a9976ac4542696434e" title="m0_stob_cache_lookup" alt="" coords="226,107,385,133"/>
+<area shape="rect" id="node5" href="$de/d4f/group__stobcache.html#gaa2af4e4baaf0d82067f2206257ca5b91" title="m0_stob_cache_unlock" alt="" coords="226,157,385,184"/>
+</map>

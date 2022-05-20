@@ -1,0 +1,26 @@
+var structm0__stob__io =
+[
+    [ "si_battr", "d9/d6a/group__stob.html#ga591d546b2807fe624b681c411394840f", null ],
+    [ "si_cksum", "d9/d6a/group__stob.html#gacf978a58f3fa481cd5688b985fa3cfd8", null ],
+    [ "si_cksum_nob_read", "d9/d6a/group__stob.html#ga1cdeaab04014db64a1409ac25302e9e0", null ],
+    [ "si_cksum_sz", "d9/d6a/group__stob.html#gadf6644cc53888427637645a6ee7d5418", null ],
+    [ "si_count", "d9/d6a/group__stob.html#ga3b37fc6245a140df7803a9f8f0646e43", null ],
+    [ "si_flags", "d9/d6a/group__stob.html#gaea209c0b3528659572e8533773eccb94", null ],
+    [ "si_fol_frag", "d9/d6a/group__stob.html#gae7ea8a5fb5c93786bf86f335f6e10a2b", null ],
+    [ "si_id", "d9/d6a/group__stob.html#ga1fd2d0d563b2cff9d4ca9520dd6bbf57", null ],
+    [ "si_mutex", "d9/d6a/group__stob.html#ga841111f6fd638431668092b4f0e98d6f", null ],
+    [ "si_obj", "d9/d6a/group__stob.html#ga4938e3c3a9918dadf7de074f709f8917", null ],
+    [ "si_op", "d9/d6a/group__stob.html#ga39416ccec69a60f08fe80adea25b7a37", null ],
+    [ "si_opcode", "d9/d6a/group__stob.html#gaa5861eac63e991aaf09fba46c9bc04cc", null ],
+    [ "si_rc", "d9/d6a/group__stob.html#ga01ee51ffb4f2f0b3f7a21bdf79515aa1", null ],
+    [ "si_scope", "d9/d6a/group__stob.html#gabd56b8539d56ec179a49af6a6ba0bf12", null ],
+    [ "si_start", "d9/d6a/group__stob.html#ga205ae43a358c20595c963c18115384fe", null ],
+    [ "si_state", "d9/d6a/group__stob.html#gac2d4b05ba7b00b95be75e0455bf1daa8", null ],
+    [ "si_stob", "d9/d6a/group__stob.html#ga3275b35ec3c04fc02aea269d7eaa3a8f", null ],
+    [ "si_stob_magic", "d9/d6a/group__stob.html#gaf6970e1ba075bf15d55e12d8a7d2b089", null ],
+    [ "si_stob_private", "d9/d6a/group__stob.html#ga7cda9028c7076f357e5e5df0d321a0bb", null ],
+    [ "si_tx", "d9/d6a/group__stob.html#ga3d423f451e9d03f1179fbc7bf1df2c6d", null ],
+    [ "si_unit_sz", "d9/d6a/group__stob.html#gaece8e08645c75f4dc5ea6e73dad4cc4e", null ],
+    [ "si_user", "d9/d6a/group__stob.html#ga80a7f9b3b4aab7705d340159dde6b216", null ],
+    [ "si_wait", "d9/d6a/group__stob.html#ga2e869e0223a96e903e38a010591b5ffd", null ]
+];

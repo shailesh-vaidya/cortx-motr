@@ -1,0 +1,15 @@
+<map id="m0_reqh_service_ctx_init" name="m0_reqh_service_ctx_init">
+<area shape="rect" id="node2" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="447,31,617,57"/>
+<area shape="rect" id="node3" href="$de/d82/group__rpc__link.html#gad98cc3a3f52f93174373b23752c77fab" title="m0_rpc_link_init" alt="" coords="253,259,369,285"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="479,157,585,184"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="499,284,565,311"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="273,360,349,387"/>
+<area shape="rect" id="node7" href="$d8/d46/reqh__service__internal_8h.html#a32872286d90bbff66cb01e8fd141d2ca" title="reqh_service_ctx_flag_set" alt="" coords="224,411,399,437"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="483,208,581,235"/>
+<area shape="rect" id="node9" href="$da/ddc/group__reqhservice.html#ga380602ffcd3752835531b37b2b0c6d8b" title="service_event_handler" alt="" coords="235,461,387,488"/>
+<area shape="rect" id="node10" href="$da/ddc/group__reqhservice.html#ga6bd0a984915c906ca0847a5a10c57ae7" title="process_event_handler" alt="" coords="233,5,389,32"/>
+<area shape="rect" id="node11" href="$da/ddc/group__reqhservice.html#gae357b215b0b438f0ca32ba1234e39b79" title="reqh_service_ctx_rlink_cb" alt="" coords="225,512,398,539"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#ga55da3ef5ff05304cd47d492fe423c496" title="m0_sm_group_init" alt="" coords="247,157,375,184"/>
+<area shape="rect" id="node13" href="$d1/dc1/group__sm.html#gada087b0429614bfb575369ff95deb31b" title="m0_sm_init" alt="" coords="267,563,356,589"/>
+<area shape="rect" id="node14" href="$da/ddc/group__reqhservice.html#ga1848e8f77b3d99c9a334e205b9db66d4" title="reqh_service_context\l_invariant" alt="" coords="238,614,385,655"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rpc_recv_pool_buffer_put" name="rpc_recv_pool_buffer_put">
+<area shape="rect" id="node2" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="220,5,387,32"/>
+<area shape="rect" id="node3" href="$d8/d01/group__net__buffer__pool.html#gacaa1314b4436697faf45f84463ba14f5" title="m0_net_buffer_pool_put" alt="" coords="223,56,383,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="435,81,524,108"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="236,158,371,199"/>
+</map>

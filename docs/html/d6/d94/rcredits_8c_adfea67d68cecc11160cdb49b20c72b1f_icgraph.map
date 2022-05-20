@@ -1,0 +1,10 @@
+<map id="wait_for_credit" name="wait_for_credit">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#ae39dfc63a7f8537b1db98dc2665688af" title="credit_get_and_hold" alt="" coords="186,52,325,79"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#ab72a0910765911085a70c74e1b11cdce" title="test_starvation" alt="" coords="424,15,532,41"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#a872f038c77df5fe845de10278702f40b" title="test_barrier_overcome" alt="" coords="403,77,553,104"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a88120a01d5607c07814748a2fd47ef21" title="test_barrier_same_time" alt="" coords="399,128,557,155"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#a5c7ae3797b098914085205a1b32d8f69" title="test_revoke_conflicting_wait" alt="" coords="162,204,349,231"/>
+<area shape="rect" id="node7" href="$d6/d94/rcredits_8c.html#a278bde677d9daff233ac9ddc2f2947ce" title="test_revoke_no_conflict_wait" alt="" coords="160,255,351,281"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#acb7ea8bdea992fb84b412e6d42c3adc8" title="test_borrow_held_conflicting" alt="" coords="162,305,349,332"/>
+<area shape="rect" id="node9" href="$d6/d94/rcredits_8c.html#a9145ff78de4c82b19141de7307931668" title="test_barrier" alt="" coords="212,356,299,383"/>
+</map>

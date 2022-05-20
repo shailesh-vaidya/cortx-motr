@@ -1,0 +1,7 @@
+<map id="m0_sns_repair_data_map" name="m0_sns_repair_data_map">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#gadfc0c10059e1a34c8ffac47d25f5138e" title="repair_ag_failure_ctxs\l_setup" alt="" coords="449,33,599,74"/>
+<area shape="rect" id="node3" href="$d1/deb/sns_2cm_2rebalance_2helpers_8c.html#aa8607f34c03bba78736c5a0eb29620b0" title="is_spare_relevant" alt="" coords="251,30,375,56"/>
+<area shape="rect" id="node4" href="$da/d9b/sns_2cm_2repair_2helpers_8c.html#a4ef7eff6585b59d69f49250439f435fc" title="repair_ag_is_relevant" alt="" coords="451,120,597,147"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#ga5a9a0287f77c2c8e4807e5c86e8141fe" title="iter_cp_setup" alt="" coords="263,131,363,158"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga34c71804cbe589fbf23ea466258fb292" title="m0_sns_cm_unit_is_spare" alt="" coords="224,80,401,107"/>
+</map>

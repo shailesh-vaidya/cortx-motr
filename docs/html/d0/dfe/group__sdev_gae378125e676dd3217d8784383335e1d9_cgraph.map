@@ -1,0 +1,5 @@
+<map id="m0_storage_dev_clink_add" name="m0_storage_dev_clink_add">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="282,5,381,32"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#ga1270b8b3601ee9f3fdf742a966ed001c" title="storage_dev_state_update_cb" alt="" coords="233,56,429,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="265,107,398,133"/>
+</map>

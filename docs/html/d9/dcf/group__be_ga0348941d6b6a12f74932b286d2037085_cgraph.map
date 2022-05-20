@@ -1,0 +1,9 @@
+<map id="btree_create" name="btree_create">
+<area shape="rect" id="node2" href="$dd/dc1/group__format.html#ga4d30f4095392dc864b6ff37123d73fed" title="m0_format_header_pack" alt="" coords="337,34,503,60"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="551,110,601,136"/>
+<area shape="rect" id="node4" href="$da/dd3/group__cookie.html#ga70e6219c7f5302e50b667d2d614f0e1f" title="m0_cookie_new" alt="" coords="161,236,277,263"/>
+<area shape="rect" id="node5" href="$da/dd3/group__cookie.html#ga289890e8cb6e9317bf3b0ed7dc44076b" title="m0_cookie_init" alt="" coords="164,287,273,314"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga1086f9b7f65a3bf206d658f2d40a447b" title="btree_root_set" alt="" coords="367,186,473,212"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac0b33846e0f0af6266169c6d95d18ba1" title="be_btree_node_alloc" alt="" coords="148,84,289,111"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga7ca96d870d8c1e81ee55967d32aa50b6" title="mem_update" alt="" coords="371,135,469,162"/>
+</map>

@@ -1,0 +1,26 @@
+var structm0__net__buffer =
+[
+    [ "nb_add_time", "d9/d7e/structm0__net__buffer.html#aa67c7ddc134d67d868ce0c7910498645", null ],
+    [ "nb_app_private", "d9/d7e/structm0__net__buffer.html#ac9261eacb2d386234ecd6feec289c5b6", null ],
+    [ "nb_buffer", "d9/d7e/structm0__net__buffer.html#a19d709b59dd6fd480b660cbe8217b0b2", null ],
+    [ "nb_callbacks", "d9/d7e/structm0__net__buffer.html#a0795ef84ab83782bc69d8b73185165c4", null ],
+    [ "nb_desc", "d9/d7e/structm0__net__buffer.html#a237f51e9559c38a64897ddfc5620ee73", null ],
+    [ "nb_dom", "d9/d7e/structm0__net__buffer.html#a055abe21e3131945d481afedec86d11f", null ],
+    [ "nb_dom_linkage", "d9/d7e/structm0__net__buffer.html#adbfed54818e076d4e4978035923f0978", null ],
+    [ "nb_ep", "d9/d7e/structm0__net__buffer.html#a43fdc44f1f8f5d5e0be28c07e054160a", null ],
+    [ "nb_extern_linkage", "d9/d7e/structm0__net__buffer.html#a20772621d0678f722a18bf750e4dc0b2", null ],
+    [ "nb_flags", "d9/d7e/structm0__net__buffer.html#a812faa986d50d32e318c06cc330cf195", null ],
+    [ "nb_length", "d9/d7e/structm0__net__buffer.html#a719f71a97b21a0b81358f883d3c5c2cf", null ],
+    [ "nb_lru", "d9/d7e/structm0__net__buffer.html#afafa0087e3768130be73419f6de2f55b", null ],
+    [ "nb_magic", "d9/d7e/structm0__net__buffer.html#a8aaaa01e3bb60dc8fee6ced27837d11e", null ],
+    [ "nb_max_receive_msgs", "d9/d7e/structm0__net__buffer.html#ac27f90ab817e14a76fcc4bf62d3d9998", null ],
+    [ "nb_min_receive_size", "d9/d7e/structm0__net__buffer.html#afe5d922cf167f088388084c3d5622593", null ],
+    [ "nb_msgs_received", "d9/d7e/structm0__net__buffer.html#a7d4b37cd1740491edc014936a550d8a1", null ],
+    [ "nb_offset", "d9/d7e/structm0__net__buffer.html#a82a78a85f6bfa614dfad3da5ad714dd0", null ],
+    [ "nb_pool", "d9/d7e/structm0__net__buffer.html#accd7a8e24513930e5c6f574f1ae478a3", null ],
+    [ "nb_qtype", "d9/d7e/structm0__net__buffer.html#afacc91b5275a95609cdf10a1568f9a19", null ],
+    [ "nb_timeout", "d9/d7e/structm0__net__buffer.html#a497bfb73d57da600b22403a389003815", null ],
+    [ "nb_tm", "d9/d7e/structm0__net__buffer.html#a81bdb16b1858bd23bc6ad680aec0d816", null ],
+    [ "nb_tm_linkage", "d9/d7e/structm0__net__buffer.html#aff35b97d5ce961b375fbd724e23b75dd", null ],
+    [ "nb_xprt_private", "d9/d7e/structm0__net__buffer.html#a01eabeb5b66a8de67b2a7514563e1893", null ]
+];

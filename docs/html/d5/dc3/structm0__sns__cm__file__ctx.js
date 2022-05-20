@@ -1,0 +1,27 @@
+var structm0__sns__cm__file__ctx =
+[
+    [ "sf_ag_nr", "d5/dc3/structm0__sns__cm__file__ctx.html#a969e40df001d24f9460ef42bc3025b03", null ],
+    [ "sf_attr", "d5/dc3/structm0__sns__cm__file__ctx.html#ad7c82774c4e9546c15b8601c0b9fc720", null ],
+    [ "sf_attr_ast", "d5/dc3/structm0__sns__cm__file__ctx.html#a5c5e145526f322867be6a2c52f1c33e1", null ],
+    [ "sf_creditor", "d5/dc3/structm0__sns__cm__file__ctx.html#a467d32933a1922035f27c15e1b90c21d", null ],
+    [ "sf_fid", "d5/dc3/structm0__sns__cm__file__ctx.html#a178fcf6841e2db5c392dcfa229d7bce0", null ],
+    [ "sf_file", "d5/dc3/structm0__sns__cm__file__ctx.html#a064fdb6c52226c89290ab5cc354b010e", null ],
+    [ "sf_fini_ast", "d5/dc3/structm0__sns__cm__file__ctx.html#a477f3478d5f20c2a2f47c0f2e0e651a3", null ],
+    [ "sf_fini_clink", "d5/dc3/structm0__sns__cm__file__ctx.html#a5d36796ffa07196f1e719961d25c76ac", null ],
+    [ "sf_group", "d5/dc3/structm0__sns__cm__file__ctx.html#a1b6dd1cc0d5acca2c891c9f99cdf46d1", null ],
+    [ "sf_layout", "d5/dc3/structm0__sns__cm__file__ctx.html#a2b8c6533f2cc733e84cbd8746a524298", null ],
+    [ "sf_lock", "d5/dc3/structm0__sns__cm__file__ctx.html#abbdff5d4e9d029d11dff80c8d80bbb3e", null ],
+    [ "sf_magic", "d5/dc3/structm0__sns__cm__file__ctx.html#a222fdc3e66b5d31bed767f4c0a2fecf1", null ],
+    [ "sf_max_group", "d5/dc3/structm0__sns__cm__file__ctx.html#adcc3d1084efc59889acbe431873f79d6", null ],
+    [ "sf_nr_ios_visited", "d5/dc3/structm0__sns__cm__file__ctx.html#abd50bf934855b1d575e69f93702613d7", null ],
+    [ "sf_owner", "d5/dc3/structm0__sns__cm__file__ctx.html#a7680e431bea58fb457ac4f6aea9c0772", null ],
+    [ "sf_pd", "d5/dc3/structm0__sns__cm__file__ctx.html#ae1ebc8fa2c25702fae7a66f9fa475354", null ],
+    [ "sf_pi", "d5/dc3/structm0__sns__cm__file__ctx.html#adf1ee7eedbe976a7a417538f6c49eb3e", null ],
+    [ "sf_pm", "d5/dc3/structm0__sns__cm__file__ctx.html#aabd2c51d5fcddb0174c4176fae34af8b", null ],
+    [ "sf_rc", "d5/dc3/structm0__sns__cm__file__ctx.html#af609938c246a53181e34963fe5445b1b", null ],
+    [ "sf_ref", "d5/dc3/structm0__sns__cm__file__ctx.html#a6dd9ab9e7631a033c844775bcc71b66d", null ],
+    [ "sf_rin", "d5/dc3/structm0__sns__cm__file__ctx.html#a47aae7086a09003aa98dc82d057a81e8", null ],
+    [ "sf_sc_link", "d5/dc3/structm0__sns__cm__file__ctx.html#a72affba0b83dea06704c4313e701dd78", null ],
+    [ "sf_scm", "d5/dc3/structm0__sns__cm__file__ctx.html#a7db3e4ef9b692f3c31e0da9500a9d41b", null ],
+    [ "sf_sm", "d5/dc3/structm0__sns__cm__file__ctx.html#a583d0971829457808f5a938cc679eda8", null ]
+];

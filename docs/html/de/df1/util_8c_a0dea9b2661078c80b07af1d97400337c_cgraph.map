@@ -1,0 +1,6 @@
+<map id="fop_fini_lock" name="fop_fini_lock">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga07d2838afc35637b4b1116e97186ec95" title="m0_fop_rpc_machine" alt="" coords="158,5,305,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="155,56,307,83"/>
+<area shape="rect" id="node4" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="187,107,276,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="148,157,315,184"/>
+</map>

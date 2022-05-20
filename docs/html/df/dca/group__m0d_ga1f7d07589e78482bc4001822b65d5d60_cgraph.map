@@ -1,0 +1,9 @@
+<map id="cs_buffer_pool_setup" name="cs_buffer_pool_setup">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#gae38571240bb1a9a32e9946294a75be85" title="cs_dom_tm_min_recv\l_queue_total" alt="" coords="203,5,354,47"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga4468fd473d59811c05a564de38b2a8ba" title="cs_domain_tms_nr" alt="" coords="213,71,345,98"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gacf2682f75faa756e5834ce6b7e17d164" title="m0_rpc_net_buffer_pool\l_setup" alt="" coords="199,123,359,164"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="408,159,475,186"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga5e9c39839774a7d3dbe3172bb38b6917" title="m0_rpc_bufs_nr" alt="" coords="221,239,336,266"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="407,315,476,342"/>
+<area shape="rect" id="node8" href="$df/dca/group__m0d.html#ga3a5e22331699c1e4638efae69e64b467" title="cs_buffer_pool_fini" alt="" coords="213,341,344,367"/>
+</map>

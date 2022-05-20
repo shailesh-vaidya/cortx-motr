@@ -1,0 +1,12 @@
+<map id="m0_be_btree_delete_credit" name="m0_be_btree_delete_credit">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#aa7eae0394ea1b54605f4cae8c556ff12" title="balloc_db_update_credit" alt="" coords="199,5,362,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#affd1adcbd1c8ecfd7506d2764fd98b41" title="btree_delete" alt="" coords="234,56,327,83"/>
+<area shape="rect" id="node4" href="$dd/d2d/ut_2btree_8c.html#a6814c6d0e32343474b49dc6b6f26fb4b" title="btree_save" alt="" coords="237,107,324,133"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#ga11e3e8f688440fa96bc8a874fb2bf2d7" title="m0_be_emap_credit" alt="" coords="211,157,350,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#abfb1ede339e926b356ba5b1780333d68" title="ctg_meta_delete_credit" alt="" coords="202,208,359,235"/>
+<area shape="rect" id="node7" href="$d9/d21/group__cas-ctg-store.html#gaddcc6b97bb302b6f35c80ef650854ba8" title="m0_ctg_mark_deleted\l_credit" alt="" coords="205,259,356,301"/>
+<area shape="rect" id="node8" href="$d9/d21/group__cas-ctg-store.html#ga859b198f85cc3d00657104d24552f663" title="m0_ctg_dead_clean_credit" alt="" coords="192,325,369,352"/>
+<area shape="rect" id="node9" href="$d9/d21/group__cas-ctg-store.html#ga257160aca6ae8c36ab3b7328c659c615" title="m0_ctg_delete_credit" alt="" coords="207,376,354,403"/>
+<area shape="rect" id="node10" href="$d8/d50/ctg__store_8c.html#a7bd884dc37d6ddeba071dce990cd033d" title="ctg_ctidx_op_credits" alt="" coords="209,427,352,453"/>
+<area shape="rect" id="node11" href="$d3/d8e/group__cob.html#ga6b434b15650d7ab95d117b98275ca9a8" title="cob_table_tx_credit" alt="" coords="213,477,348,504"/>
+</map>

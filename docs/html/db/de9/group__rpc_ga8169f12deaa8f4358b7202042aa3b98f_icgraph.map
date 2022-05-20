@@ -1,0 +1,7 @@
+<map id="m0_rpc_item_cancel" name="m0_rpc_item_cancel">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a60c8e18e328ecbc059cea5a6e6c97aee" title="m0__obj_namei_cancel" alt="" coords="196,5,355,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga1a7d59689ae30b25295f2a179d77178f" title="m0_dix_req_cancel" alt="" coords="208,56,343,83"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#ga5f7613847fcf5c5217d0889fec745dbc" title="cas_index_cancel" alt="" coords="212,107,339,133"/>
+<area shape="rect" id="node5" href="$de/df0/io__nw__xfer_8c.html#a70fa22eab87036f3e2c718a563fb1a85" title="target_ioreq_cancel" alt="" coords="208,157,343,184"/>
+<area shape="rect" id="node6" href="$d9/dbf/ut_2item_8c.html#ae0cd57a1e4b6fa88fadc37ee31757182" title="check_cancel" alt="" coords="224,208,327,235"/>
+</map>

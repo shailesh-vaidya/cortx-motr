@@ -1,0 +1,6 @@
+<map id="db_consume_data" name="db_consume_data">
+<area shape="rect" id="node2" href="$d1/db6/namespaceaddb2db.html#aa891310b0e8b9dd6dbb311d46e94862a" title="db_drop_tables" alt="" coords="189,5,299,32"/>
+<area shape="rect" id="node3" href="$d1/db6/namespaceaddb2db.html#ac65cb0f1625881d805b68f4a46f6bc6c" title="db_create_tables" alt="" coords="183,56,305,83"/>
+<area shape="rect" id="node4" href="$d1/db6/namespaceaddb2db.html#adcda8a26edf5dcbc94617f790b765b6e" title="fd_id_get" alt="" coords="207,107,281,133"/>
+<area shape="rect" id="node5" href="$d1/db6/namespaceaddb2db.html#a9f2d3e146c5c4036bb55a524bf7a6838" title="fd_consume_data" alt="" coords="181,157,307,184"/>
+</map>

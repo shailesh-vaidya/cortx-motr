@@ -1,0 +1,10 @@
+<map id="m0_confc2reqh" name="m0_confc2reqh">
+<area shape="rect" id="node2" href="$dd/d7f/group__pool.html#ga493e5fe82534d1ea0a490abb911410d6" title="pools_common_conf_expired_cb" alt="" coords="164,5,376,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga75223173244445a370892be6c2c7be94" title="m0__pools_common_init" alt="" coords="424,31,591,57"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#ga5afb6058f0dc1ac7d589a76170a71c9d" title="pools_common__pools\l_update_or_cleanup" alt="" coords="193,107,347,149"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga75445d35f1c070b48535ab7cabae56b6" title="pools_common__update\l_by_conf" alt="" coords="426,191,589,233"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gaf280f6571cfcf01d8820698869f63a66" title="m0_pool_versions_setup" alt="" coords="187,224,353,251"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga8874bca3acf5ba92312795a369c9a6f5" title="m0_pool_version_append" alt="" coords="185,275,355,301"/>
+<area shape="rect" id="node8" href="$df/d22/conf_2helpers_8h.html#accafde7d35e02cf7910daf4fb96dfd42" title="m0_conf_obj2reqh" alt="" coords="206,325,334,352"/>
+<area shape="rect" id="node9" href="$d8/dec/group__poolmach.html#gab67ed2eb3e57d16471616c78547170c8" title="m0_poolmach_init_by_conf" alt="" coords="180,376,360,403"/>
+</map>

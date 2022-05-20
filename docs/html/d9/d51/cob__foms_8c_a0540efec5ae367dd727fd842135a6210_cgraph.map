@@ -1,0 +1,13 @@
+<map id="cob_fom_populate" name="cob_fom_populate">
+<area shape="rect" id="node2" href="$d9/d05/group__bulkclient_d_f_s.html#gafbfe09d0bc74c1a2dbb2dba4ec16e339" title="m0_cobfop_common_get" alt="" coords="183,53,351,80"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#ga1a417843776b0a95fb0bee9548661bee" title="m0_is_cob_create_fop" alt="" coords="400,16,553,43"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#gaa5321cef10ea9d681fcf19578f13117d" title="m0_is_cob_delete_fop" alt="" coords="401,79,553,105"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="218,155,315,181"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#ga76f055d0cb431aaf5c6df367c29f93c1" title="m0_fid_convert_cob2stob" alt="" coords="181,205,352,232"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#ga3b677235d9a47db1cd5d39cec0e45c9e" title="m0_fop_name" alt="" coords="215,256,319,283"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#ad1c2d6172b01dc3cfe312a7e79ff745c" title="cob_is_md" alt="" coords="224,307,309,333"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="200,357,333,384"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="439,383,515,409"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="203,459,331,485"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="233,509,300,536"/>
+</map>

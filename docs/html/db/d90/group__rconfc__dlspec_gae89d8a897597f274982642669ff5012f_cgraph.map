@@ -1,0 +1,8 @@
+<map id="rconfc_herd_link_init" name="rconfc_herd_link_init">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="238,5,297,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="388,81,487,108"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga613bd36b238273c84550c83970abd750" title="rconfc_herd_link__on\l_death_cb" alt="" coords="195,158,340,199"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="393,195,482,221"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga6b9eb7acc491a6c99652596ebf10d5b1" title="m0_confc_init_wait" alt="" coords="200,107,335,133"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="218,275,317,301"/>
+</map>

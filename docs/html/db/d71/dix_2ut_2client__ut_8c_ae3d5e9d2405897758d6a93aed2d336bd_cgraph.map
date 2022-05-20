@@ -1,0 +1,5 @@
+<map id="case_data_free" name="case_data_free">
+<area shape="rect" id="node2" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="187,5,256,32"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="174,56,269,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="164,107,279,133"/>
+</map>

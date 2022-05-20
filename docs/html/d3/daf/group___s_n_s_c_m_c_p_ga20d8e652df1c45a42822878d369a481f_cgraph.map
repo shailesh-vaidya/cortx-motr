@@ -1,0 +1,8 @@
+<map id="bufvec_xor" name="bufvec_xor">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="153,5,306,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="367,132,535,159"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gad481d7c4ffe49912e0cca7c0262baa0b" title="m0_bufvec_cursor_step" alt="" coords="149,107,310,133"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="185,157,274,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="149,208,310,235"/>
+<area shape="rect" id="node7" href="$d6/d25/group__parity__math.html#gad4ea19023cbed10d7c01c5f37b64b0c2" title="m0_parity_math_buffer_xor" alt="" coords="140,259,319,285"/>
+</map>

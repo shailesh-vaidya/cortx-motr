@@ -1,0 +1,11 @@
+<map id="m0_stob_find_by_key" name="m0_stob_find_by_key">
+<area shape="rect" id="node2" href="$d9/d6a/group__stob.html#ga1f16adbc440a57e7a1b6c263b0c553ed" title="m0_stob_domain__cache" alt="" coords="203,5,373,32"/>
+<area shape="rect" id="node3" href="$de/d4f/group__stobcache.html#gaff7780337fe9a61ccfe2a725d277bd3c" title="m0_stob_cache_lock" alt="" coords="215,56,361,83"/>
+<area shape="rect" id="node4" href="$de/d4f/group__stobcache.html#gabd83d52eae42b7a9976ac4542696434e" title="m0_stob_cache_lookup" alt="" coords="421,191,580,217"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga520ae02c9fd99aba04e72737758d4ebd" title="m0_stob_domain__stob\l_alloc" alt="" coords="208,158,368,199"/>
+<area shape="rect" id="node6" href="$d9/d6a/group__stob.html#ga26c216830c89a2f0dd8b1ef256aa845d" title="m0_stob__id_set" alt="" coords="227,224,349,251"/>
+<area shape="rect" id="node7" href="$de/d4f/group__stobcache.html#ga41542c92e800648069246d18c6a4d260" title="m0_stob_cache_add" alt="" coords="217,275,359,301"/>
+<area shape="rect" id="node8" href="$de/d4f/group__stobcache.html#gaa2af4e4baaf0d82067f2206257ca5b91" title="m0_stob_cache_unlock" alt="" coords="209,325,367,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="250,376,326,403"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="255,427,321,453"/>
+</map>

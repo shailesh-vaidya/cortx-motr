@@ -1,0 +1,10 @@
+<map id="m0_be_btree_insert" name="m0_be_btree_insert">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a4ce349daa351709a71936a4b775147a6" title="btree_insert_sync" alt="" coords="208,5,333,32"/>
+<area shape="rect" id="node3" href="$dd/d2d/ut_2btree_8c.html#a315bd2f9527bd50b71b101bf18581f68" title="btree_insert" alt="" coords="225,56,316,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga5ef26d989b890818ee151b56d2ef3112" title="m0_be_emap_merge" alt="" coords="199,107,342,133"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#gabbf7208fd0311e6a0ab452776bb7a7bc" title="m0_be_emap_obj_insert" alt="" coords="189,157,352,184"/>
+<area shape="rect" id="node6" href="$d2/de0/group__extmap.html#ga37d0c323cd87c560ae3ff3a5925473bf" title="be_emap_split" alt="" coords="217,208,324,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0c6f7ec40ff6cc1c0fda2144887bf11b" title="ctg_act" alt="" coords="238,259,303,285"/>
+<area shape="rect" id="node8" href="$d3/d8e/group__cob.html#ga6091d62e4e5b4453a12f39b103912211" title="cob_table_insert" alt="" coords="212,309,329,336"/>
+<area shape="rect" id="node9" href="$da/d4e/db_8h.html#a199b13fba8e6060810f67d443d902b6b" title="m0_confdb_create" alt="" coords="206,360,335,387"/>
+</map>

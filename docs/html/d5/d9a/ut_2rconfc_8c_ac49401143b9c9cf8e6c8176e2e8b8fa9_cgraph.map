@@ -1,0 +1,8 @@
+<map id="test_init_fini" name="test_init_fini">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="336,87,395,113"/>
+<area shape="rect" id="node3" href="$d5/d9a/ut_2rconfc_8c.html#aa11e32f62df4e0d13a656677184e36fd" title="rconfc_ut_motr_start" alt="" coords="145,36,288,63"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga7371c86b0f8ffc8fd70016b1d6f39da2" title="m0_rconfc_init" alt="" coords="163,87,270,113"/>
+<area shape="rect" id="node5" href="$d5/d9a/ut_2rconfc_8c.html#afa43adf79e111c758864cf66136522be" title="test_null_exp_cb" alt="" coords="157,137,277,164"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga801db00e66f8d2e4369748df5e98402a" title="m0_rconfc_fini" alt="" coords="163,188,270,215"/>
+<area shape="rect" id="node7" href="$d5/d9a/ut_2rconfc_8c.html#a041737d745da2f7bec4fd0d6a5231a5e" title="rconfc_ut_motr_stop" alt="" coords="146,239,287,265"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rm_req_fop_validate" name="rm_req_fop_validate">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="215,5,312,32"/>
+<area shape="rect" id="node3" href="$d0/d11/ut_2rm__fops_8c.html#aa212fd0ce5a8f94b6be6e2d545be3b92" title="borrow_fop_validate" alt="" coords="194,56,333,83"/>
+<area shape="rect" id="node4" href="$d0/d11/ut_2rm__fops_8c.html#a7d12abac0dc938736ed84b483d7e7e24" title="revoke_fop_validate" alt="" coords="194,107,333,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="229,157,298,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#ga2426936ba202f26bd7449317600d3fc1" title="m0_rm_outgoing_fini" alt="" coords="192,208,335,235"/>
+<area shape="rect" id="node7" href="$d7/db2/rm__fops_8c.html#ae2203900fad0190e5c960c55117b8a2a" title="rm_fop_release" alt="" coords="208,259,319,285"/>
+</map>

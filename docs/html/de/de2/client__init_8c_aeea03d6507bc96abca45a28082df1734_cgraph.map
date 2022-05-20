@@ -1,0 +1,10 @@
+<map id="io_ref_cb" name="io_ref_cb">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="381,66,496,93"/>
+<area shape="rect" id="node3" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="180,310,275,337"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaa2e617ffeb497f45b395925cfd646c70" title="m0_pool_versions_stale_mark" alt="" coords="128,91,327,118"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="375,179,503,206"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga36fcbdcca2295d36cf6b1b06f6def4bf" title="m0_pools_common_conf\l_ready_async_cb" alt="" coords="144,143,311,184"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gacdc5a355d60a99f3887d9923cf6e49e5" title="m0_chan_lock" alt="" coords="174,41,281,67"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="158,361,297,387"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#gaacf832cfa9441e21d3bfb39ceb076c9f" title="m0_chan_unlock" alt="" coords="167,259,287,286"/>
+</map>

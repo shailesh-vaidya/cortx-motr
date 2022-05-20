@@ -1,0 +1,6 @@
+<map id="max_recsize_update" name="max_recsize_update">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#gae04efc159be8db0ef835d287cd99da92" title="m0_layout_type_register" alt="" coords="203,5,367,32"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#gad201204e6659bd0b2cf580cbaf050447" title="m0_layout_type_unregister" alt="" coords="196,56,375,83"/>
+<area shape="rect" id="node4" href="$da/da8/group__layout.html#gaa7da4b439d649ec6f910b2f42ffe578e" title="m0_layout_enum_type\l_register" alt="" coords="209,107,362,149"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#gabfda140852ad95fd354bad51dddf230c" title="m0_layout_enum_type\l_unregister" alt="" coords="209,173,362,214"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="client_passive_recv" name="client_passive_recv">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="219,5,333,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="411,81,536,108"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga39f5e8840e39eefd5196ab1fda88a7bf" title="m0_rpc_bulk_default_cb" alt="" coords="195,309,357,336"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="416,259,531,285"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="409,321,537,348"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="429,397,518,424"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="418,157,529,184"/>
+<area shape="rect" id="node9" href="$d3/de8/group__atomic.html#ga4ae2177e248e4c3f676d0e802dafd8e0" title="m0_atomic64_dec" alt="" coords="212,461,340,488"/>
+<area shape="rect" id="node10" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a7dd42b04498be9d78c2f77628bc0993f" title="should_req_sm_complete" alt="" coords="191,107,361,133"/>
+<area shape="rect" id="node11" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a79395c43c4206656de48e448039c5e8e" title="ioreq_sm_state_set" alt="" coords="208,208,344,235"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m0_op_wait" name="m0_op_wait">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#aedc431cc7bb190748be8d3c42e971f89" title="m0_op_invariant" alt="" coords="161,5,279,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="343,31,409,57"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="153,107,287,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="156,157,284,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="145,208,295,235"/>
+</map>

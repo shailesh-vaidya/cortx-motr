@@ -1,0 +1,14 @@
+<map id="net/test/node_ping.c" name="net/test/node_ping.c">
+<area shape="rect" id="node2" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="5,80,101,107"/>
+<area shape="rect" id="node3" href="$df/d2a/lib_2misc_8h.html" title="lib/misc.h" alt="" coords="126,80,205,107"/>
+<area shape="rect" id="node4" href="$de/df7/time_8h.html" title="lib/time.h" alt="" coords="229,80,304,107"/>
+<area shape="rect" id="node5" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="329,80,407,107"/>
+<area shape="rect" id="node6" href="$db/dd5/thread_8h.html" title="lib/thread.h" alt="" coords="455,80,542,107"/>
+<area shape="rect" id="node7" href="$d2/d30/tlist_8h.html" title="lib/tlist.h" alt="" coords="566,80,637,107"/>
+<area shape="rect" id="node8" href="$dd/d08/magic_8h.html" title="motr/magic.h" alt="" coords="661,80,760,107"/>
+<area shape="rect" id="node9" href="$d9/d94/network_8h.html" title="net/test/network.h" alt="" coords="779,155,906,181"/>
+<area shape="rect" id="node10" href="$d1/d77/node_8h.html" title="net/test/node.h" alt="" coords="835,80,944,107"/>
+<area shape="rect" id="node11" href="$de/db3/node__helper_8h.html" title="net/test/node_helper.h" alt="" coords="969,80,1119,107"/>
+<area shape="rect" id="node12" href="$d2/d82/node__ping_8h.html" title="net/test/node_ping.h" alt="" coords="1143,80,1283,107"/>
+<area shape="rect" id="node13" href="$db/d16/debug_8h.html" title="net/test/debug.h" alt="" coords="1307,80,1423,107"/>
+</map>

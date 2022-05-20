@@ -1,0 +1,13 @@
+<map id="m0_read" name="m0_read">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="328,353,369,379"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="159,49,247,75"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="134,99,271,126"/>
+<area shape="rect" id="node5" href="$dd/d5f/group__fid.html#ga4132878f220c37cc5c87c6b86a69f03c" title="m0_fid_is_set" alt="" coords="151,150,254,177"/>
+<area shape="rect" id="node6" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#abb68272e41808be593338f6dcbf921cf" title="open_entity" alt="" coords="158,201,247,227"/>
+<area shape="rect" id="node7" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a4330c63cb2c5a17f32221e36473bc6be" title="entity_sm_state" alt="" coords="145,251,260,278"/>
+<area shape="rect" id="node8" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#aafe0cbdb0c5210ee9bd16f09122b3a7d" title="alloc_vecs" alt="" coords="161,302,245,329"/>
+<area shape="rect" id="node9" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#aa3b63600dfa11bac5a09ff393daea5d9" title="cleanup_vecs" alt="" coords="151,353,254,379"/>
+<area shape="rect" id="node10" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#ae2a203f32d2ec6598350fe25a6ec9dd1" title="prepare_ext_vecs" alt="" coords="140,403,265,430"/>
+<area shape="rect" id="node11" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#ac031e19cb4a7955cfd9a9945529510af" title="read_data_from_object" alt="" coords="125,454,280,481"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="151,505,254,531"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="stats_svc_invariant" name="stats_svc_invariant">
+<area shape="rect" id="node2" href="$d3/dff/stats__srv_8c.html#afe2785ad3ad7f5b19fe8db845a950fa4" title="stats_svc_rsto_service\l_allocate" alt="" coords="195,5,353,47"/>
+<area shape="rect" id="node3" href="$d3/dff/stats__srv_8c.html#a3e7265151c154e6e2cd35e0dc5009818" title="stats_update" alt="" coords="225,71,323,98"/>
+<area shape="rect" id="node4" href="$d3/dff/stats__srv_8c.html#a6ce8d6d2c1ce559b88d873c907865ec2" title="read_stats" alt="" coords="233,122,315,149"/>
+<area shape="rect" id="node5" href="$d5/d51/stats__ut__svc_8c.html#a4a7d99585306603c39059a1a50413fe6" title="stats_ut_svc_update_fom" alt="" coords="188,173,360,199"/>
+<area shape="rect" id="node6" href="$d5/d51/stats__ut__svc_8c.html#a837ef4ecc74c6a8cf2a83d4c8fa477af" title="stats_ut_svc_query_fom" alt="" coords="191,223,357,250"/>
+<area shape="rect" id="node7" href="$d5/d51/stats__ut__svc_8c.html#a00de16040a13afa6e09c9ac792a7ede4" title="stats_svc_query_api" alt="" coords="203,274,345,301"/>
+</map>

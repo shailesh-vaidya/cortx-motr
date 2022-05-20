@@ -1,0 +1,11 @@
+<map id="obj_io_ast_fini" name="obj_io_ast_fini">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="159,5,325,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#a037ed12fcc1576356d3dff7457cff1f4" title="m0_op_io_invariant" alt="" coords="175,56,309,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="197,107,287,133"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a57bbb5d523ea9e60a1591f070d5f3566" title="target_ioreq_fini" alt="" coords="185,157,299,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="373,208,463,235"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5fb0c71a99168895f7c206cebfd03e29" title="nw_xfer_request_fini" alt="" coords="171,259,313,285"/>
+<area shape="rect" id="node8" href="$da/da8/group__layout.html#ga60f56d7906d909a75382dc892c4a7080" title="m0_layout_instance_fini" alt="" coords="161,309,323,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,360,277,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="169,411,315,437"/>
+</map>

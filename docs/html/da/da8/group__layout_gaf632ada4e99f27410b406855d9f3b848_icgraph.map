@@ -1,0 +1,12 @@
+<map id="m0_layout_standard_types_unregister" name="m0_layout_standard_types_unregister">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#adaecb17814dd21abf6226295f1cb433a" title="pdclust_map" alt="" coords="219,5,315,32"/>
+<area shape="rect" id="node3" href="$db/d71/dix_2ut_2client__ut_8c.html#a46c8026faf4db810ea3351329b506865" title="dix_client_fini" alt="" coords="217,56,318,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#gae4371853d31c41ea3f651ba1404c787b" title="m0t1fs_layout_fini" alt="" coords="203,107,331,133"/>
+<area shape="rect" id="node5" href="$d6/de4/layout_2ut_2layout_8c.html#ac4a41146b68cfc8af4bb95a18eedb642" title="test_fini" alt="" coords="233,157,301,184"/>
+<area shape="rect" id="node6" href="$d6/de4/layout_2ut_2layout_8c.html#a7019d8b16e85d2a016ef58a5b9b3de90" title="test_reg_unreg" alt="" coords="213,208,321,235"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#a90347de8dc7e15b5da28cc5be2e8ee7e" title="test_reg_unreg_failure" alt="" coords="192,259,343,285"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#a9a5a7f055adf91c9ac3c03d99697201a" title="test_max_recsize" alt="" coords="205,309,330,336"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga71adcff560464e453fc52ca9d007c4f5" title="dix_fini" alt="" coords="236,360,299,387"/>
+<area shape="rect" id="node10" href="$d5/d8c/group__reqh.html#ga6f29dedc971245f576c4a42d646cbf59" title="m0_reqh_be_fini" alt="" coords="209,411,326,437"/>
+<area shape="rect" id="node11" href="$da/da8/group__layout.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="242,461,293,488"/>
+</map>

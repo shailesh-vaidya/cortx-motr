@@ -1,0 +1,7 @@
+<map id="m0_be_log__invariant" name="m0_be_log__invariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gafd1154f9890b2e36dbd8fb184681d324" title="m0_be_log_record_skip\l_discard" alt="" coords="211,5,369,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8c4e6ad324fe401b2c0ca9984191c16e" title="m0_be_log_record_discard" alt="" coords="201,71,379,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="217,123,363,164"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga6cc4e979f5ef881d892765c172939024" title="m0_be_log_reserve" alt="" coords="223,189,357,215"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaaa4cc6e54d228fec4c5868227e76224c" title="m0_be_log_unreserve" alt="" coords="215,239,365,266"/>
+</map>

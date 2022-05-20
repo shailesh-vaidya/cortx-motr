@@ -1,0 +1,10 @@
+<map id="m0_balloc" name="m0_balloc">
+<area shape="rect" id="node2" href="$d9/db8/structm0__balloc__group__info.html" title="{m0_balloc_group_info\n||}" alt="" coords="5,568,153,645"/>
+<area shape="rect" id="node5" href="$d8/d98/structm0__format__footer.html" title="{m0_format_footer\n||}" alt="" coords="376,292,500,369"/>
+<area shape="rect" id="node6" href="$d2/d56/structm0__be__btree.html" title="{m0_be_btree\n||}" alt="" coords="669,568,767,645"/>
+<area shape="rect" id="node7" href="$d4/d9b/structm0__be__seg.html" title="{m0_be_seg\n||}" alt="" coords="524,292,613,369"/>
+<area shape="rect" id="node8" href="$d6/de9/structm0__format__header.html" title="{m0_format_header\n||}" alt="" coords="786,292,917,369"/>
+<area shape="rect" id="node9" href="$d5/d0f/structm0__balloc__super__block.html" title="{m0_balloc_super_block\n|+ bsb_magic\l+ bsb_totalsize\l+ bsb_groupcount\l+ bsb_write_time\l+ bsb_mnt_time\l+ bsb_stripe_size\l|}" alt="" coords="871,393,1029,544"/>
+<area shape="rect" id="node4" href="$d0/d1a/structm0__be__mutex.html" title="{m0_be_mutex\n||}" alt="" coords="158,292,262,369"/>
+<area shape="rect" id="node10" href="$df/d08/structm0__ad__balloc.html" title="{m0_ad_balloc\n||}" alt="" coords="1019,568,1121,645"/>
+</map>

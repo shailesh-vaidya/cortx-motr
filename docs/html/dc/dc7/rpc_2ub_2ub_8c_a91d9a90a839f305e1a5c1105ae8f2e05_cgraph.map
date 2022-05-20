@@ -1,0 +1,5 @@
+<map id="_client_stop" name="_client_stop">
+<area shape="rect" id="node2" href="$dc/d6b/rpclib_8c.html#a55b750e8110ad598b26110264b462b25" title="m0_rpc_client_stop" alt="" coords="147,5,282,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="180,56,249,83"/>
+<area shape="rect" id="node4" href="$d9/dd2/group__net.html#ga6921fa6b676260e720b22574ec2fb0c4" title="m0_net_domain_fini" alt="" coords="145,107,284,133"/>
+</map>

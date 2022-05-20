@@ -1,0 +1,11 @@
+<map id="m0_rpc_bulk_default_cb" name="m0_rpc_bulk_default_cb">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga5b47704a7856a1046d494d70d65b680d" title="rpc_bulk_buf_invariant" alt="" coords="416,71,568,98"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="235,33,349,59"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga00a94f44de1fa233440477b01effb202" title="rpc_bulk_invariant" alt="" coords="229,83,355,110"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga700f878d52d38fc159259516239d95de" title="rpc_bulk_buf_fini" alt="" coords="232,134,352,161"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="447,147,537,174"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="428,311,556,338"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gafe5fb5c1becc6b5f30159f64681c5f12" title="m0_chan_has_waiters" alt="" coords="216,286,368,313"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga57339950d21ecc706c5f2e623647f122" title="m0_chan_signal" alt="" coords="234,337,350,363"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="228,387,356,414"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="m0_spiel__ut_init" name="m0_spiel__ut_init">
+<area shape="rect" id="node2" href="$df/d55/spiel__ut__common_8c.html#aaba9705602ddc3dc88f96dccf6b28f52" title="m0_spiel__ut_reqh_init" alt="" coords="185,5,340,32"/>
+<area shape="rect" id="node3" href="$df/d55/spiel__ut__common_8c.html#a34cf12886e90ecd6d244f7069a3b90de" title="m0_spiel__ut_rpc_server\l_start" alt="" coords="179,57,346,98"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga989f3bc8d69d47ff2b9b334bf8f54081" title="m0_spiel_init" alt="" coords="213,123,312,149"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#gac4a6aafcdfbc7353cbe353dce000f65f" title="m0_spiel_cmd_profile_set" alt="" coords="176,173,349,200"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#ga93e4575c66649f04441005a321e8ad1d" title="m0_spiel_rconfc_start" alt="" coords="187,224,338,251"/>
+</map>

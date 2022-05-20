@@ -1,0 +1,13 @@
+<map id="m0_spiel_service_add" name="m0_spiel_service_add">
+<area shape="rect" id="node2" href="$d5/d40/group__conf__schema.html#gae4c1036e2a7bde1049ba745aa7552d16" title="m0_conf_service_type\l_is_valid" alt="" coords="204,5,357,47"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="243,71,319,98"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="223,122,338,149"/>
+<area shape="rect" id="node5" href="$d0/d43/lib_2string_8c.html#a4f74810a719be4d4239aa1a4d7dc2c68" title="m0_strings_dup" alt="" coords="223,173,338,199"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#ga764958195fe36ef40b419277ff400d79" title="spiel_service_dirs\l_create" alt="" coords="217,224,344,265"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="448,290,515,317"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#gab35cf34e2c360d0df74e62e5ca793317" title="spiel_process_dirs\l_create" alt="" coords="215,341,346,383"/>
+<area shape="rect" id="node9" href="$df/d59/group__conf__dir.html#gaf82c7b4cceb5dcdc4965dfa355b82cfa" title="m0_conf_dir_add" alt="" coords="220,407,341,434"/>
+<area shape="rect" id="node10" href="$dd/d7b/group__conf__dlspec__objops.html#gaac48dccfea9c5e27147ef747f2a36add" title="m0_conf_obj_invariant" alt="" coords="405,433,557,459"/>
+<area shape="rect" id="node11" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="217,509,345,535"/>
+<area shape="rect" id="node12" href="$d2/dd9/group__conf__dlspec__cache.html#gabac23b5ec19fc0493b8ff1e3c1a5ca48" title="m0_conf_cache_del" alt="" coords="211,559,350,586"/>
+</map>

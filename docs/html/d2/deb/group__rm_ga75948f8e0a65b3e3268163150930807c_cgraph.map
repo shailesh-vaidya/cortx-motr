@@ -1,0 +1,9 @@
+<map id="remote_create" name="remote_create">
+<area shape="rect" id="node2" href="$d3/deb/rm__internal_8h.html#aefbd063b4fb2e66c3df0f9e383552da4" title="incoming_to_resource" alt="" coords="179,5,328,32"/>
+<area shape="rect" id="node3" href="$d2/deb/group__rm.html#ga94e9428a47babfc5c6d9a13995051b86" title="m0_rm_remote_init" alt="" coords="187,56,320,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga467f7e9240e96d01aecf976e96799ec7" title="m0_rm_reverse_session_get" alt="" coords="159,107,348,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="396,132,463,159"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="219,208,288,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="215,259,291,285"/>
+<area shape="rect" id="node8" href="$dd/d39/ut_2rm__foms_8c.html#a4009da7e5794512e7380b4dfb33db8e1" title="m0_remotes_tlist_add" alt="" coords="178,309,329,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="list_allocate" name="list_allocate">
+<area shape="rect" id="node2" href="$da/da8/group__layout.html#ga97e1269652f182993a4945448635e1ea" title="m0_layout__domain_invariant" alt="" coords="347,112,541,139"/>
+<area shape="rect" id="node3" href="$da/da8/group__layout.html#ga9e15dc29aa4b0356b209342bcddcdc2e" title="m0_layout__log" alt="" coords="165,36,278,63"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="183,87,259,113"/>
+<area shape="rect" id="node5" href="$da/da8/group__layout.html#gaa94b470fb4f4cbd5609d6117e84a74ad" title="m0_layout__enum_init" alt="" coords="145,137,297,164"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="399,163,489,189"/>
+<area shape="rect" id="node7" href="$d5/daa/group__list__enum.html#ga74df4ea68672ea6095416390abab4b58" title="list_allocated_invariant" alt="" coords="144,239,299,265"/>
+</map>

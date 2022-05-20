@@ -1,0 +1,6 @@
+<map id="mover_fini" name="mover_fini">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga9cdacdb6229f7becd262087bcefc9715" title="buf_add" alt="" coords="145,5,213,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga85d8da4dc83ae2334a7422a46b355949" title="sock_done" alt="" coords="136,56,221,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga31831f32963572f54a3bc7d9fbe848cc" title="buf_fini" alt="" coords="147,107,211,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga7b643699db61d5c148110d150136c16a" title="mover_op" alt="" coords="139,157,218,184"/>
+</map>

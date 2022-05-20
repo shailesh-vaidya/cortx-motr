@@ -1,0 +1,13 @@
+<map id="m0_fop_to_rpcbulk" name="m0_fop_to_rpcbulk">
+<area shape="rect" id="node2" href="$da/dda/io__fops_8c.html#a116ba102c07038051c72a289d6f96237" title="io_netbufs_prepare" alt="" coords="375,107,507,133"/>
+<area shape="rect" id="node3" href="$da/dda/io__fops_8c.html#a309c9cee737f1a0c685eb18504b27f9a" title="io_fop_desc_ivec_prepare" alt="" coords="561,107,735,133"/>
+<area shape="rect" id="node4" href="$da/dda/io__fops_8c.html#aaf85379e89decd3277dee9b6aae5ebad" title="io_fop_coalesce" alt="" coords="783,107,899,133"/>
+<area shape="rect" id="node5" href="$da/dda/io__fops_8c.html#afe26560b66ff275ae173e68b462e4a1a" title="io_fop_di_prepare" alt="" coords="191,208,315,235"/>
+<area shape="rect" id="node6" href="$d9/d05/group__bulkclient_d_f_s.html#ga0650a51af21c1c091f3e0d2b8b29cd47" title="m0_io_fop_prepare" alt="" coords="375,208,507,235"/>
+<area shape="rect" id="node7" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="595,259,701,285"/>
+<area shape="rect" id="node8" href="$da/dda/io__fops_8c.html#ace9d011b8d4516b8fa0f195fdf1d07df" title="io_fop_bulkbuf_move" alt="" coords="368,5,513,32"/>
+<area shape="rect" id="node9" href="$da/dda/io__fops_8c.html#a9cb2ff9172c6ab069adf8420fd85cfda" title="io_fop_desc_alloc" alt="" coords="189,157,316,184"/>
+<area shape="rect" id="node10" href="$da/dda/io__fops_8c.html#a452bdbf325353507b4d381225ab153a1" title="io_fop_replied" alt="" coords="201,411,304,437"/>
+<area shape="rect" id="node11" href="$da/dda/io__fops_8c.html#a69a053d5bb7f5c25d68a27686209f9e3" title="io_item_replied" alt="" coords="198,461,307,488"/>
+<area shape="rect" id="node12" href="$d1/d6d/bulkio__common_8h.html#ac44a822f8e8685c5b93277a4bb37e774" title="io_fops_rpc_submit" alt="" coords="185,512,320,539"/>
+</map>

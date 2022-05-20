@@ -1,0 +1,16 @@
+<map id="m0_be_ut_log_discard_usecase" name="m0_be_ut_log_discard_usecase">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga211a904b71b212b9e356a4903c9a4177" title="be_ut_log_discard_usecase_sync" alt="" coords="205,5,424,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaacc7620a1540aff6335c1ec0d5556745" title="be_ut_log_discard_usecase\l_discard" alt="" coords="223,57,406,98"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="255,123,375,149"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="472,199,607,225"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gae3fa333e0d3e73907d4bcddbd5724e73" title="m0_be_log_discard_init" alt="" coords="235,224,394,251"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="505,275,574,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaa778468ada03542ab543effd79b202e9" title="m0_be_log_discard_item_get" alt="" coords="219,325,410,352"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga4d2d2d1e89c0e70b9292b5f8515b540c" title="m0_be_log_discard_item\l_user_data_set" alt="" coords="231,377,398,418"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gac76e68950c38b5a556063dbd8fd88eb4" title="m0_be_log_discard_item\l_starting" alt="" coords="231,442,398,483"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga9bce14bd189522edbc1700b91fda0041" title="m0_be_log_discard_item\l_finished" alt="" coords="231,507,398,549"/>
+<area shape="rect" id="node12" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="240,573,389,600"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga02caf0a663ac3cb2cc2c8f9f4e984b1e" title="m0_be_log_discard_flush" alt="" coords="230,624,399,651"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#gaa1bfa18ab09c8e1c09d5bb652cd56377" title="m0_be_log_discard_fini" alt="" coords="235,675,394,701"/>
+<area shape="rect" id="node15" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="472,700,607,727"/>
+</map>

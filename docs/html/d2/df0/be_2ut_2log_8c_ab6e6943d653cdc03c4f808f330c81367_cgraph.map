@@ -1,0 +1,10 @@
+<map id="be_ut_log_record_wait_fini_one" name="be_ut_log_record_wait_fini_one">
+<area shape="rect" id="node2" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gacd8f06f36ca8c11cb684e1c9a2b494b4" title="m0_be_op_wait" alt="" coords="246,5,359,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="245,56,360,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga8c4e6ad324fe401b2c0ca9984191c16e" title="m0_be_log_record_discard" alt="" coords="214,107,391,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gafd1154f9890b2e36dbd8fb184681d324" title="m0_be_log_record_skip\l_discard" alt="" coords="223,158,382,199"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="239,224,367,251"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaa66c8097b4a6421e6110f99c3ac29f5a" title="m0_be_log_record_deallocate" alt="" coords="205,275,400,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gaba27d3308f471b6787feca8b28dc6c50" title="m0_be_log_record_fini" alt="" coords="227,325,379,352"/>
+<area shape="rect" id="node9" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="448,351,555,377"/>
+</map>

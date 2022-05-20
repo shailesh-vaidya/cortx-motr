@@ -1,0 +1,5 @@
+<map id="be_log_discard_wait" name="be_log_discard_wait">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga15710fa667c7e4d0966f0957f74cadd7" title="be_log_discard_lock" alt="" coords="201,5,341,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8a96f2768638bf78060937c4672908d7" title="be_log_discard_unlock" alt="" coords="193,56,348,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="196,107,345,133"/>
+</map>

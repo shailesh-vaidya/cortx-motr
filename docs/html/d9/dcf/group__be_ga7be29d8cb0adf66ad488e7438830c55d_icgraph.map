@@ -1,0 +1,7 @@
+<map id="m0_be_allocator__invariant" name="m0_be_allocator__invariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0f7cac25d444e2394ddb843b064ef21e" title="m0_be_allocator_create" alt="" coords="237,5,397,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gabc06f56265a2ca9cca74829a3a3a30ff" title="m0_be_allocator_destroy" alt="" coords="233,56,400,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga15086a8ba1600460b8dce6936dfdeb42" title="m0_be_alloc_aligned" alt="" coords="245,107,388,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaeec518865032dc746078c652cd89edce" title="m0_be_free_aligned" alt="" coords="247,157,386,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga00d656f735c32c24e449cfdb2502e44e" title="m0_be_alloc_stats" alt="" coords="251,208,382,235"/>
+</map>

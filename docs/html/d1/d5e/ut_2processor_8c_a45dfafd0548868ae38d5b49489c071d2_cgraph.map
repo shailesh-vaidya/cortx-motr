@@ -1,0 +1,10 @@
+<map id="verify_id_get" name="verify_id_get">
+<area shape="rect" id="node2" href="$d7/da7/group__processor.html#ga8c33f37769f2ad3fb0140594feb5be84" title="m0_processors_init" alt="" coords="159,5,294,32"/>
+<area shape="rect" id="node3" href="$d7/da7/group__processor.html#gab53991d09969970bb10218a072d1cd6b" title="m0_processor_nr_max" alt="" coords="149,56,304,83"/>
+<area shape="rect" id="node4" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="171,107,282,133"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga6d7b1eeb7e64a79985792f29f3b92778" title="m0_processors_online" alt="" coords="151,157,303,184"/>
+<area shape="rect" id="node6" href="$d7/da7/group__processor.html#ga1477f462e3e671a18cfcdcdd002cb206" title="m0_processor_id_get" alt="" coords="153,208,300,235"/>
+<area shape="rect" id="node7" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="171,259,282,285"/>
+<area shape="rect" id="node8" href="$df/df3/group__bitmap.html#ga0bd81180cdf7ef9abfb814a99fd9377a" title="m0_bitmap_fini" alt="" coords="171,309,282,336"/>
+<area shape="rect" id="node9" href="$d7/da7/group__processor.html#ga3a235bc41dd368af53d7a2148a3d6ef0" title="m0_processors_fini" alt="" coords="159,360,294,387"/>
+</map>

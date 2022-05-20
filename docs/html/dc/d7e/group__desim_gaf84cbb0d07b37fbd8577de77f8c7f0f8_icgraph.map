@@ -1,0 +1,6 @@
+<map id="cnt_init" name="cnt_init">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#ga175ff8fdfb47687d7d06c106e76f5ef5" title="net_init" alt="" coords="275,5,339,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#gad4462027baecb5a5139cf4304807062e" title="client_init" alt="" coords="268,81,345,108"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga852d67c59b6c1382a1bbcff9b4ba2b68" title="chs_dev_init" alt="" coords="121,81,216,108"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#gaf850014ff6f6e7babe2ae177863453bb" title="sim_chan_init" alt="" coords="117,31,220,57"/>
+</map>

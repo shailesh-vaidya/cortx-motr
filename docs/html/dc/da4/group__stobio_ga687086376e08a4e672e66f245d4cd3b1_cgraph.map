@@ -1,0 +1,8 @@
+<map id="fom_stob_write_credit" name="fom_stob_write_credit">
+<area shape="rect" id="node2" href="$d6/d39/group__fop.html#ga514d8cd13fb698f7498be1147831f5b0" title="m0_fop_data" alt="" coords="227,5,324,32"/>
+<area shape="rect" id="node3" href="$dc/da4/group__stobio.html#gaefb6aa3e07ac412b49605bbc09d7c4f4" title="stob_object_find" alt="" coords="217,56,334,83"/>
+<area shape="rect" id="node4" href="$d9/d6a/group__stob.html#ga41c9d7821c6eb59f2d7052b1fce5b490" title="m0_stob_block_shift" alt="" coords="204,107,347,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gae8c2cf0bb2957fcaa3d3ca3c8788423b" title="m0_stob_io_credit" alt="" coords="211,157,339,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#ga5ce49298eda9038c8fce417d6d77a06b" title="m0_fom_tx_credit" alt="" coords="212,208,339,235"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga1c5d7cd0acf8e971f9f6591a2b31a611" title="m0_stob_put" alt="" coords="227,259,324,285"/>
+</map>

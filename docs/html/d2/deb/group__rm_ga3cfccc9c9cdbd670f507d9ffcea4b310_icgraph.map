@@ -1,0 +1,18 @@
+<map id="locality" name="locality">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="159,5,244,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="161,56,241,83"/>
+<area shape="rect" id="node4" href="$d4/d89/dtm0_2fop_8c.html#ade1312fba4294b812615328f5db07e0e" title="dtm0_fom_locality" alt="" coords="137,107,265,133"/>
+<area shape="rect" id="node5" href="$dc/d86/motr_2obj_8c.html#a8a18c477e055fa4c868045cc941836f9" title="obj_op_obj_init" alt="" coords="147,157,255,184"/>
+<area shape="rect" id="node6" href="$d1/da1/motr_2layout_8c.html#a71f908108625da728895714ed22edcee" title="layout_op_init" alt="" coords="150,208,253,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga61c37ce88843d53f9b3272eeb6afca7f" title="test_fom_home_locality" alt="" coords="121,259,281,285"/>
+<area shape="rect" id="node8" href="$d0/def/group__fis-dlspec.html#gabdf8c1c59e086a04b671c1171ccb12bb" title="fi_command_fom_locality" alt="" coords="116,309,287,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga3e31b2a2da3ccca334d057fab42bf5dc" title="m0_fom_simple_post" alt="" coords="128,360,275,387"/>
+<area shape="rect" id="node10" href="$d2/d76/fop_2ub_2ub_8c.html#ae48252a646a160d2fd12be83cb2d3237" title="ub_fom_home_locality" alt="" coords="125,411,277,437"/>
+<area shape="rect" id="node11" href="$d9/d2c/ms__fom__ut_8c.html#a76ccb583b55a71779623cd5a75100534" title="ms_fom_home_locality" alt="" coords="123,461,279,488"/>
+<area shape="rect" id="node12" href="$d5/d17/rdwr__fom_8c.html#a648868a0c7a56a5e55b2cdae3678abb4" title="fom_rdwr_home_locality" alt="" coords="120,512,283,539"/>
+<area shape="rect" id="node13" href="$d2/d73/stats__fom_8c.html#a18829ef36043e1aac8faf1ac4d5894fe" title="fom_stats_home_locality" alt="" coords="118,563,285,589"/>
+<area shape="rect" id="node14" href="$d8/dec/group__locality.html#ga484ddd4137ab43fbffcdf863f76ab8b3" title="m0_locality_chores_run" alt="" coords="122,613,281,640"/>
+<area shape="rect" id="node15" href="$df/da5/composite__layout_8c.html#a0913585306bdfb34eeffd652b3b77b1a" title="composite_io_op_init" alt="" coords="129,664,273,691"/>
+<area shape="rect" id="node16" href="$d2/db6/idx_8c.html#a92cd58b45966ca973d0e8cc2c4182258" title="idx_op_init" alt="" coords="159,715,243,741"/>
+<area shape="rect" id="node17" href="$db/dc2/sync_8c.html#a32b8667595114b50666fc2d42716185f" title="sync_op_init" alt="" coords="154,765,249,792"/>
+</map>

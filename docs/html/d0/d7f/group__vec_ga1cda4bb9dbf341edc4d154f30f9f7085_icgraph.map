@@ -1,0 +1,8 @@
+<map id="m0_0vec_fini" name="m0_0vec_fini">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga8b07a01fe5cbbab44a841947cf59c83c" title="m0_0vec_init" alt="" coords="166,5,265,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga5fca6bd4963f03b9e2659b985ed5086c" title="rpc_bulk_buf_init" alt="" coords="327,31,447,57"/>
+<area shape="rect" id="node4" href="$dd/dd0/zerovec_8c.html#a61ca4ea675ee66f4eefbe09d4009a7d7" title="zerovec_init_bvec" alt="" coords="152,107,279,133"/>
+<area shape="rect" id="node5" href="$dd/dd0/zerovec_8c.html#a50775a7a0d1f2274735b3d225df3544c" title="zerovec_init_bufs" alt="" coords="153,157,277,184"/>
+<area shape="rect" id="node6" href="$dd/dd0/zerovec_8c.html#a7482642e77c43f7c16600e9a476b1ee2" title="zerovec_init_cbuf" alt="" coords="153,208,277,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga700f878d52d38fc159259516239d95de" title="rpc_bulk_buf_fini" alt="" coords="155,259,275,285"/>
+</map>

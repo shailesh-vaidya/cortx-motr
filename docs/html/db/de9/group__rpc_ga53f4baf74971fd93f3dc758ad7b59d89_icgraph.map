@@ -1,0 +1,6 @@
+<map id="frm_balance" name="frm_balance">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3bf1052769410cf305bf2505167c4a21" title="m0_rpc_frm_enq_item" alt="" coords="161,5,311,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaddb607de4d8ee5eb585438aa90026d8a" title="m0_rpc_frm_item_deadline\l_passed" alt="" coords="147,57,325,98"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga9ec41705c5def9568760991f896f8777" title="m0_rpc_frm_run_formation" alt="" coords="147,123,325,149"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gac26d2f0ba5fe46a6470603c3a855a458" title="m0_rpc_frm_packet_done" alt="" coords="150,173,322,200"/>
+</map>

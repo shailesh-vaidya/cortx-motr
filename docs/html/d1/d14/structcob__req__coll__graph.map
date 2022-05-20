@@ -1,0 +1,12 @@
+<map id="cob_req" name="cob_req">
+<area shape="rect" id="node2" href="$d2/dae/structm0__client.html" title="{m0_client\n||}" alt="" coords="1186,417,1265,495"/>
+<area shape="rect" id="node4" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="522,187,583,265"/>
+<area shape="rect" id="node9" href="$d9/d14/structm0__op.html" title="{m0_op\n||}" alt="" coords="803,417,864,495"/>
+<area shape="rect" id="node11" href="$da/ddf/structm0__ast__rc.html" title="{m0_ast_rc\n||}" alt="" coords="104,316,187,393"/>
+<area shape="rect" id="node13" href="$df/d47/structm0__cob__attr.html" title="{m0_cob_attr\n||}" alt="" coords="325,417,420,495"/>
+<area shape="rect" id="node14" href="$de/d06/structm0__buf.html" title="{m0_buf\n||}" alt="" coords="432,187,497,265"/>
+<area shape="rect" id="node6" href="$dd/d3f/structm0__ref.html" title="{m0_ref\n||}" alt="" coords="1526,187,1589,265"/>
+<area shape="rect" id="node15" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="1628,417,1693,495"/>
+<area shape="rect" id="node7" href="$d5/d32/structm0__sm__group.html" title="{m0_sm_group\n||}" alt="" coords="607,187,711,265"/>
+<area shape="rect" id="node8" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="1717,417,1828,495"/>
+</map>

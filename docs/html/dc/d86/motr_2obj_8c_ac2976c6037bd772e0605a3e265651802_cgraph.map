@@ -1,0 +1,12 @@
+<map id="entity_namei_op" name="entity_namei_op">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#ac494f31f6665bc92110786d65484f015" title="entity_invariant_full" alt="" coords="345,143,480,170"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="535,42,670,69"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="528,93,677,119"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="569,245,636,271"/>
+<area shape="rect" id="node6" href="$dc/d86/motr_2obj_8c.html#ace1563711ff4a90fa8bf6c51fe85fab1" title="obj_op_prepare" alt="" coords="179,245,289,271"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="375,346,451,373"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="370,42,455,69"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="367,295,458,322"/>
+<area shape="rect" id="node10" href="$dc/d86/motr_2obj_8c.html#aa755d5197ea2c65fc8acd45d69ec672f" title="obj_namei_op_init" alt="" coords="171,397,297,423"/>
+<area shape="rect" id="node11" href="$d2/db6/idx_8c.html#ab79d3d504bde1887f7a0f84c00d1b25d" title="m0_idx_op_namei" alt="" coords="171,194,297,221"/>
+</map>

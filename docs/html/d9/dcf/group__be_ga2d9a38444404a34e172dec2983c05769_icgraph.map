@@ -1,0 +1,6 @@
+<map id="btree_save" name="btree_save">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga96079923296d23a3e8ec1eb23f900314" title="be_btree_insert" alt="" coords="175,5,285,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga3b9a01a073a8ea5bfd8116cda2fed8bb" title="m0_be_btree_save" alt="" coords="164,56,296,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaa30c3351fe1a5b93867c4f3b07ee5bb8" title="m0_be_btree_update" alt="" coords="159,107,301,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaac8a21c08655ecc11ef228af1e8baa05" title="m0_be_btree_save_inplace" alt="" coords="140,157,320,184"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="snscpx_to_snscp" name="snscpx_to_snscp">
+<area shape="rect" id="node2" href="$d0/d47/group__fidconvert.html#ga3dcf5e1b2a588318d70ce94f75ea3c02" title="m0_fid_convert_stob2cob" alt="" coords="181,5,352,32"/>
+<area shape="rect" id="node3" href="$d6/db9/group___c_m_a_g.html#ga4e4e586bbeaf9175a23bb25d121731bc" title="m0_cm_ag_id_copy" alt="" coords="197,56,336,83"/>
+<area shape="rect" id="node4" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac6187a25fa14442ba52f0e4ec5252b3e" title="cpfom2cm" alt="" coords="225,107,308,133"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga516a97e7200e55a7d4f5626512ee2606" title="m0_cm_lock" alt="" coords="219,157,315,184"/>
+<area shape="rect" id="node6" href="$d6/db9/group___c_m_a_g.html#gafd7ae6d5bcb76926b56f97f7e9520418" title="m0_cm_aggr_group_locate" alt="" coords="177,208,356,235"/>
+<area shape="rect" id="node7" href="$d0/da4/group___c_m.html#ga9f762faf522dcaa837c7340aad1fec4b" title="m0_cm_unlock" alt="" coords="211,259,322,285"/>
+<area shape="rect" id="node8" href="$d6/db9/group___c_m_a_g.html#ga45b7d2fe6e7d236a25704e91334008b7" title="m0_cm_ag_lock" alt="" coords="208,309,325,336"/>
+<area shape="rect" id="node9" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga43197021fceb4b8cc0659f89588770c3" title="ag_cp_recvd_from_proxy" alt="" coords="183,360,351,387"/>
+<area shape="rect" id="node10" href="$d6/db9/group___c_m_a_g.html#gaf5f24ed438b43cf746715e33715b38e7" title="m0_cm_ag_unlock" alt="" coords="201,411,332,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="404,487,480,513"/>
+<area shape="rect" id="node12" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="211,512,322,539"/>
+<area shape="rect" id="node13" href="$df/df3/group__bitmap.html#ga342ec39b30a5636d85c307fd615bc78b" title="m0_bitmap_load" alt="" coords="208,563,325,589"/>
+<area shape="rect" id="node14" href="$d3/daf/group___s_n_s_c_m_c_p.html#ga673552a95646904712d0bb4c2921dba3" title="seg_nr_get" alt="" coords="223,613,310,640"/>
+</map>

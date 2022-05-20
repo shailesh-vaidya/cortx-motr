@@ -1,0 +1,12 @@
+<map id="m0_ut_stob_destroy" name="m0_ut_stob_destroy">
+<area shape="rect" id="node2" href="$da/dda/group__utstob.html#gade57d9348bcf9d16746edb904fefce39" title="ut_stob_use_dtx" alt="" coords="215,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/d6a/group__stob.html#ga3c4de15f13b1585296240961a1a6c65c" title="m0_stob_dom_get" alt="" coords="209,56,339,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="207,107,341,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#ga08b6c90dbd966e456a9a8c6784e90785" title="m0_stob_punch_credit" alt="" coords="197,157,351,184"/>
+<area shape="rect" id="node6" href="$da/dda/group__utstob.html#ga63263199f473416bbd01d2a88c376190" title="m0_ut_dtx_open" alt="" coords="215,208,333,235"/>
+<area shape="rect" id="node7" href="$d9/d6a/group__stob.html#ga0526b879cd8bbd94a45d7a0d0d728275" title="m0_stob_punch" alt="" coords="217,259,331,285"/>
+<area shape="rect" id="node8" href="$d9/d6a/group__stob.html#ga894a1f782c075bf05459ec42a9e28d2a" title="m0_stob_destroy_credit" alt="" coords="193,309,355,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="201,360,347,387"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga4bb31cbb2cf86bb5a2861b4617751a93" title="m0_stob_destroy" alt="" coords="213,411,335,437"/>
+<area shape="rect" id="node11" href="$da/dda/group__utstob.html#gad419ce0addc7c1a55c6036961d548ea9" title="m0_ut_dtx_close" alt="" coords="213,461,335,488"/>
+</map>

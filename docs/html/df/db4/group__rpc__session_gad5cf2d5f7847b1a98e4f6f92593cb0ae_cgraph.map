@@ -1,0 +1,9 @@
+<map id="session_zero_detach" name="session_zero_detach">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae7c1b6a1d76df7b6f63d04b518517495" title="m0_rpc_machine_is_locked" alt="" coords="199,5,381,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#gadbe2e802c2499a2a3aa2133620d7dc96" title="m0_rpc_conn_session0" alt="" coords="211,56,369,83"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#gac7defa123e02f9a610a8d4afc9cc5d70" title="session_state" alt="" coords="442,121,545,148"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga9f6ed914de42ccc45ed744b502f6f50f" title="session_state_set" alt="" coords="429,201,557,228"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#ga0695867ab64bcef425ea4bb8b7c28542" title="m0_rpc_session_fini\l_locked" alt="" coords="219,209,361,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="449,256,538,283"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="255,325,325,352"/>
+</map>

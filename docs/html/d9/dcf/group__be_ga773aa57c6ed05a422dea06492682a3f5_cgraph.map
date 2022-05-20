@@ -1,0 +1,8 @@
+<map id="m0_be_log_store_io_translate" name="m0_be_log_store_io_translate">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga1f5532ee4292e8f64e1018335c3cea29" title="m0_be_io_size" alt="" coords="219,5,328,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gacac7c1b5c04796bfb4b3a75d22f5d790" title="be_log_store_phys_addr" alt="" coords="192,56,355,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0b64f383fdb01c40aa74a72f2fa55f58" title="m0_be_io_stob_assign" alt="" coords="196,107,351,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga1c8d3605a9d5cec9a335d9d481eb3e23" title="m0_be_io_stob_move" alt="" coords="199,157,348,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga8439078fae8b9998eacbc8c3d3f1f531" title="m0_be_io_vec_pack" alt="" coords="203,208,344,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaf1fb6dbef0540eba13793d703fd3c984" title="m0_be_io_sort" alt="" coords="220,259,327,285"/>
+</map>

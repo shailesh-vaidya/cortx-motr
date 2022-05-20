@@ -1,0 +1,26 @@
+var structm0__md__lustre__logrec =
+[
+    [ "cr_atime", "df/d85/structm0__md__lustre__logrec.html#a2f1429c942df83632870f9d9eef1a6ae", null ],
+    [ "cr_blksize", "df/d85/structm0__md__lustre__logrec.html#aa3d88c7b78999f508ec8f966b37d7d28", null ],
+    [ "cr_blocks", "df/d85/structm0__md__lustre__logrec.html#a1ff1d23f496324678a10c0ef70597b49", null ],
+    [ "cr_clnid", "df/d85/structm0__md__lustre__logrec.html#a817c3561c893b741008a24149a0714b1", null ],
+    [ "cr_ctime", "df/d85/structm0__md__lustre__logrec.html#a071863be5fc998e902cfdb079848438d", null ],
+    [ "cr_flags", "df/d85/structm0__md__lustre__logrec.html#a768d163737d4bbcf30e821d782059758", null ],
+    [ "cr_gid", "df/d85/structm0__md__lustre__logrec.html#a7765e5e0d841c8cd6848a7e3fc46588c", null ],
+    [ "cr_index", "df/d85/structm0__md__lustre__logrec.html#ab8d9d6e6f84dc8c10b337c54103e98a2", null ],
+    [ "cr_mode", "df/d85/structm0__md__lustre__logrec.html#ade6fb92ddd4f16e23026eab3c0b32c9f", null ],
+    [ "cr_mtime", "df/d85/structm0__md__lustre__logrec.html#ac78a0bbe6b764b235941bd68fbc7b5d7", null ],
+    [ "cr_name", "df/d85/structm0__md__lustre__logrec.html#a84d7fa0623209c06cc238c6a1ba8d269", null ],
+    [ "cr_namelen", "df/d85/structm0__md__lustre__logrec.html#ab7aea19c74df5556c3641bf4ddf0ae1e", null ],
+    [ "cr_nlink", "df/d85/structm0__md__lustre__logrec.html#a875e8a14b4837178e17c6bac0bb7b414", null ],
+    [ "cr_pfid", "df/d85/structm0__md__lustre__logrec.html#a38d577223cf3cd92d03692558310ea3a", null ],
+    [ "cr_rdev", "df/d85/structm0__md__lustre__logrec.html#aa353255d1cec2e8c4242247ff4bf33b6", null ],
+    [ "cr_sid", "df/d85/structm0__md__lustre__logrec.html#ad9c4ecc47fb550eaf437890ec7dbc3f8", null ],
+    [ "cr_size", "df/d85/structm0__md__lustre__logrec.html#a2daf486d47fc57bea588e1f10d332fa1", null ],
+    [ "cr_tfid", "df/d85/structm0__md__lustre__logrec.html#afddef89d52eaf64c3f5108c02bb8f2fa", null ],
+    [ "cr_time", "df/d85/structm0__md__lustre__logrec.html#ac59af7d1b3f7346cdc2049eed85b72f9", null ],
+    [ "cr_type", "df/d85/structm0__md__lustre__logrec.html#ac54b08108bbe0d206914fe84867a1944", null ],
+    [ "cr_uid", "df/d85/structm0__md__lustre__logrec.html#a8bc974e98b321c9a29ac6162e1eaa8e3", null ],
+    [ "cr_valid", "df/d85/structm0__md__lustre__logrec.html#aa43d82f59fa77acfc1477417a076ad88", null ],
+    [ "cr_version", "df/d85/structm0__md__lustre__logrec.html#ab6bbc00aa2eef7034fce1ae221364819", null ]
+];

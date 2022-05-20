@@ -1,0 +1,10 @@
+<map id="m0_net_tm_init" name="m0_net_tm_init">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="180,5,295,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="173,56,301,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="204,107,271,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="184,157,291,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="188,208,287,235"/>
+<area shape="rect" id="node7" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="175,259,300,285"/>
+<area shape="rect" id="node8" href="$dd/d12/group__list.html#ga64bd572b16e4877aa56a229a3a95be4e" title="m0_list_add_tail" alt="" coords="179,309,295,336"/>
+<area shape="rect" id="node9" href="$d9/dd2/group__net.html#gaf79b9836508f12d832f528ffcf6358ad" title="m0_net__tm_cleanup" alt="" coords="164,360,311,387"/>
+</map>

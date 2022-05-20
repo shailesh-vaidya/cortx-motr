@@ -1,0 +1,12 @@
+<map id="sync_op_init" name="sync_op_init">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#ga3cfccc9c9cdbd670f507d9ffcea4b310" title="locality" alt="" coords="185,5,248,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="174,107,259,133"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="333,81,409,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="338,132,405,159"/>
+<area shape="rect" id="node6" href="$db/dc2/sync_8c.html#a98e251d54e0864e0070e577108956436" title="sync_op_cb_launch" alt="" coords="148,208,285,235"/>
+<area shape="rect" id="node7" href="$db/dc2/sync_8c.html#a08db935238be1ee84f8b80959213bac5" title="sync_op_cb_fini" alt="" coords="159,259,275,285"/>
+<area shape="rect" id="node8" href="$db/dc2/sync_8c.html#a983f9cf413da55cc1c587c8c5872a49c" title="sync_op_cb_free" alt="" coords="156,309,277,336"/>
+<area shape="rect" id="node9" href="$db/dc2/sync_8c.html#a54e3128685a8665442736efb3f170c8e" title="sync_request_init" alt="" coords="155,360,279,387"/>
+<area shape="rect" id="node10" href="$db/dc2/sync_8c.html#a519d5ac01dfc5d8b3dc655ba3a381805" title="sync_request_ast" alt="" coords="154,411,279,437"/>
+<area shape="rect" id="node11" href="$d6/db6/motr_2client_8c.html#a6e917deea38911358f4be3afe8680eb7" title="m0__locality_pick" alt="" coords="153,461,280,488"/>
+</map>

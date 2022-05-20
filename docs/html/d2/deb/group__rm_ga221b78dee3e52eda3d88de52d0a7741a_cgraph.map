@@ -1,0 +1,7 @@
+<map id="rm_remote_free" name="rm_remote_free">
+<area shape="rect" id="node2" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="201,5,296,32"/>
+<area shape="rect" id="node3" href="$dd/d39/ut_2rm__foms_8c.html#a7284e19ca3147c0a329379fac52410d7" title="m0_remotes_tlist_del" alt="" coords="175,56,322,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="182,107,315,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="214,157,283,184"/>
+<area shape="rect" id="node6" href="$d1/d84/group__rpc__service.html#gabf4f9bf71b49261348bef3206b31e8a0" title="m0_rpc_service_reverse\l_session_put" alt="" coords="167,209,331,250"/>
+</map>

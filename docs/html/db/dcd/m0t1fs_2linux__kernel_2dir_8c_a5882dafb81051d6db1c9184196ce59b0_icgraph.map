@@ -1,0 +1,15 @@
+<map id="M0_LOG" name="M0_LOG">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a46c5c55f0f9494ad38149a47437be34e" title="cob_rpc_item_cb" alt="" coords="167,5,289,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1bda94b0ef993da12eff947841134bf" title="m0t1fs_fid_alloc" alt="" coords="169,56,287,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#aa23f1662949850c2c21933821ec97762" title="m0t1fs_inode_set_layout_id" alt="" coords="377,120,561,147"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5ad5358824d0faa1e9d704fcda69f035" title="if" alt="" coords="209,309,247,336"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a408e2134444605f29f0b4a7d347fc099" title="m0t1fs_fid_check" alt="" coords="165,360,291,387"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a6d4ca59dbe960f47136fe82d625e8a4c" title="m0t1fs_link" alt="" coords="183,411,273,437"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9448a3e41e464c52f1b8463212ab19e5" title="m0t1fs_unlink" alt="" coords="418,183,521,209"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ae369218093534ebb15ef574072826cb3" title="m0t1fs_setattr" alt="" coords="416,233,523,260"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ab1d7213f08368be4f941759510d1667f" title="m0t1fs_component_objects_op" alt="" coords="127,208,329,235"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a439ab2e1f721fb44a64b33d2b8de7feb" title="m0t1fs_mds_cob_op" alt="" coords="157,461,299,488"/>
+<area shape="rect" id="node12" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4830d33c5efb23e5d18d0da8660d9b5c" title="cfop_release" alt="" coords="180,512,276,539"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4655ca8fecad9c23d821eca74876cefb" title="m0t1fs_ios_cob_op" alt="" coords="402,537,537,564"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a65f948ee0b36c5623d5f075d4b4d18c1" title="m0t1fs_cob_getattr" alt="" coords="161,613,295,640"/>
+</map>

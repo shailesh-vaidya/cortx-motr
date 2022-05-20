@@ -1,0 +1,6 @@
+<map id="ha_entrypoint_service_container" name="ha_entrypoint_service_container">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga95e00a48bcfbdf54300b514a4c717bde" title="ha_entrypoint_service_init" alt="" coords="207,5,381,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga76dbd322d763578146b6c636e47b7d55" title="ha_entrypoint_service_fini" alt="" coords="207,56,381,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gacdc5180ccbd0447dec06b792211f6359" title="m0_ha_entrypoint_server\l_start" alt="" coords="210,107,378,149"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga158402db4d70d36b2b77de407e1f03c1" title="ha_entrypoint_get_fom_tick" alt="" coords="203,173,385,200"/>
+</map>

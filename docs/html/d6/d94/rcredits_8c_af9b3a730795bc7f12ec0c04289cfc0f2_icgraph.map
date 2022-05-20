@@ -1,0 +1,12 @@
+<map id="borrow_and_cache" name="borrow_and_cache">
+<area shape="rect" id="node2" href="$d6/d94/rcredits_8c.html#aa5f6a768787efb82f560e7e11de972d6" title="test_two_borrows_single_req" alt="" coords="184,5,375,32"/>
+<area shape="rect" id="node3" href="$d6/d94/rcredits_8c.html#a3665561f428b99496a92a67514ec75a2" title="test_borrow_revoke\l_single_req" alt="" coords="211,57,347,98"/>
+<area shape="rect" id="node4" href="$d6/d94/rcredits_8c.html#a9979189a9e5551707e00f9cac9406330" title="test_revoke_with_hop" alt="" coords="205,123,354,149"/>
+<area shape="rect" id="node5" href="$d6/d94/rcredits_8c.html#a056ffc8c1ef1b7cf789e7921953e191c" title="test_simple_borrow" alt="" coords="212,173,347,200"/>
+<area shape="rect" id="node6" href="$d6/d94/rcredits_8c.html#adc111ba767a1eef2e7843ea0378c92bc" title="test_borrow_non_conflicting" alt="" coords="187,224,371,251"/>
+<area shape="rect" id="node7" href="$d6/d94/rcredits_8c.html#a12509f6fb150d6ada23db8d9a992a30f" title="test_borrow_held_no\l_conflict" alt="" coords="208,275,351,317"/>
+<area shape="rect" id="node8" href="$d6/d94/rcredits_8c.html#aeb9e6f84b912fea9d9bffd9ed45f08f1" title="test_debtor_death" alt="" coords="216,341,343,368"/>
+<area shape="rect" id="node9" href="$d6/d94/rcredits_8c.html#a85d79aada9bef3c6b514f88bcd1185cf" title="test_creditor_death" alt="" coords="213,392,346,419"/>
+<area shape="rect" id="node10" href="$d6/d94/rcredits_8c.html#ae2441bb24459fb5da3638ba15fc0d014" title="test_creditor_recovered" alt="" coords="200,443,359,469"/>
+<area shape="rect" id="node11" href="$d6/d94/rcredits_8c.html#a148a19108fbffb1cebadc2adce9169b4" title="test_creditor_reset" alt="" coords="214,493,345,520"/>
+</map>

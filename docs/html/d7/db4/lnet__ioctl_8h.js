@@ -1,0 +1,25 @@
+var lnet__ioctl_8h =
+[
+    [ "__MOTR_LNET_IOCTL_H__", "d7/db4/lnet__ioctl_8h.html#a26d0691f8d194665727ee0d33edaae9c", null ],
+    [ "M0_LNET_BEV_BLESS", "df/d9e/group___l_net_dev.html#gae897fa2a1613b644496aa88de0244cf5", null ],
+    [ "M0_LNET_BUF_ACTIVE_RECV", "df/d9e/group___l_net_dev.html#ga5cfe5d931241ea690c72640ddb877658", null ],
+    [ "M0_LNET_BUF_ACTIVE_SEND", "df/d9e/group___l_net_dev.html#ga89ebe6d201bca9c323a5184a21770bcb", null ],
+    [ "M0_LNET_BUF_DEL", "df/d9e/group___l_net_dev.html#ga949b2c3987936d5cf8238ad7128b305f", null ],
+    [ "M0_LNET_BUF_DEREGISTER", "df/d9e/group___l_net_dev.html#ga38d0ea03383ce6d9bbd2319ece7bf2b7", null ],
+    [ "M0_LNET_BUF_EVENT_WAIT", "df/d9e/group___l_net_dev.html#ga5fec6938ee8c7fd8592b697c634e79f9", null ],
+    [ "M0_LNET_BUF_MSG_RECV", "df/d9e/group___l_net_dev.html#gad3a52e7ed4c59376d54738acb99af005", null ],
+    [ "M0_LNET_BUF_MSG_SEND", "df/d9e/group___l_net_dev.html#ga6160a0de3eb8d7dbe8c715cfd3ec5db4", null ],
+    [ "M0_LNET_BUF_PASSIVE_RECV", "df/d9e/group___l_net_dev.html#ga6cb38d6d097b539d7f83e01f9509ecbf", null ],
+    [ "M0_LNET_BUF_PASSIVE_SEND", "df/d9e/group___l_net_dev.html#ga5d4119ae5a0600bf43b8b87a648f8239", null ],
+    [ "M0_LNET_BUF_REGISTER", "df/d9e/group___l_net_dev.html#gab70c3b3e49bd6f3871a12f1e49b2922b", null ],
+    [ "M0_LNET_DEV", "df/d9e/group___l_net_dev.html#gac4dc80e1cb0b60166f517d945bc489e6", null ],
+    [ "M0_LNET_DOM_INIT", "df/d9e/group___l_net_dev.html#ga604193f0a227cfe0ef279f652a513684", null ],
+    [ "M0_LNET_IOC_MAGIC", "df/d9e/group___l_net_dev.html#gaea03c69ca967729189f79e153099d13f", null ],
+    [ "M0_LNET_IOC_MAX_NR", "df/d9e/group___l_net_dev.html#ga25a49594c80435eb9a358571468e7f73", null ],
+    [ "M0_LNET_IOC_MIN_NR", "df/d9e/group___l_net_dev.html#ga88e9db80d9f33a76c3644aea6f7c86d6", null ],
+    [ "M0_LNET_NIDSTR_DECODE", "df/d9e/group___l_net_dev.html#ga515e54b40a50371b20bc45917888f8fe", null ],
+    [ "M0_LNET_NIDSTR_ENCODE", "df/d9e/group___l_net_dev.html#ga3cec91339bba374817850a2613a0875e", null ],
+    [ "M0_LNET_NIDSTRS_GET", "df/d9e/group___l_net_dev.html#gad30e698f8261f6659a86b6038f8c6aa0", null ],
+    [ "M0_LNET_TM_START", "df/d9e/group___l_net_dev.html#gadb3f78ab30d5ac26541931bf4e5e9516", null ],
+    [ "M0_LNET_TM_STOP", "df/d9e/group___l_net_dev.html#ga1cdddba87b15e8f14adaf4c5083e231c", null ]
+];

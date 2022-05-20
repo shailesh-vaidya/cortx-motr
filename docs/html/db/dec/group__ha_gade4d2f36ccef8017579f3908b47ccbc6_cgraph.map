@@ -1,0 +1,9 @@
+<map id="m0_halon_interface_send" name="m0_halon_interface_send">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga4759d4213e03d649e9b02499bd3c3f97" title="hi" alt="" coords="288,5,327,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="275,56,340,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gadf6ec5d30fd099e9801ca3a30c76177d" title="m0_ha_rpc_endpoint" alt="" coords="236,107,379,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga3dd636d15d8f375bf0f0fb3c0505231f" title="tag" alt="" coords="439,208,479,235"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga30ec6e28befa28f5792c80d9e0b6cbf4" title="m0_ha_msg_debug_print" alt="" coords="224,208,391,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga7d7c03f53ffaff124d27fa935e107fe8" title="m0_ha_send" alt="" coords="259,259,355,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="263,309,352,336"/>
+</map>

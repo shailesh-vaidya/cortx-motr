@@ -1,0 +1,6 @@
+<map id="m0_net_test_ringbuf_init" name="m0_net_test_ringbuf_init">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga7b2672e77e7a8bd0429f9496d2bba2ff" title="commands_initfini" alt="" coords="233,5,360,32"/>
+<area shape="rect" id="node3" href="$dd/da5/group___net_test_bulk_node_internals.html#gaa885eade0ae848586be3b35024f67b8f" title="node_bulk_test_init_fini" alt="" coords="217,56,376,83"/>
+<area shape="rect" id="node4" href="$da/d84/group___net_test_ping_node_internals.html#gab345114335f3cb2b84c8b29f7a0d692f" title="node_ping_test_init_fini" alt="" coords="217,107,376,133"/>
+<area shape="rect" id="node5" href="$d1/dfd/ut_2ringbuf_8c.html#a30a6f2f1043f2f6b4fe92a2f59d5c1f8" title="m0_net_test_ringbuf_ut" alt="" coords="217,157,376,184"/>
+</map>

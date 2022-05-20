@@ -1,0 +1,9 @@
+<map id="test_item_cache_add_nth" name="test_item_cache_add_nth">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gae6c0f1b5d2cbcf0e5b09bc36c81fb4ac" title="m0_rpc_item_cache_init" alt="" coords="232,5,395,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga9c80b09af1111979b64045a58b1e3de0" title="m0_rpc_item_cache_add" alt="" coords="230,56,397,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga293330819a78d1b7f3539fa03675d7d7" title="m0_rpc_item_cache_lookup" alt="" coords="451,107,635,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga7f03dcc3581d57c17005ac9eee36c64d" title="m0_rpc_item_cache_purge" alt="" coords="224,157,403,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gae1128aa2cdf934b2bd37fae8461792e1" title="m0_rpc_item_cache_del" alt="" coords="232,208,395,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gab55238619b1fc1d90547834d89c763e7" title="m0_rpc_item_cache_clear" alt="" coords="455,284,630,311"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga97336b6aa65d735dced2d05f9287bb3e" title="m0_rpc_item_cache_fini" alt="" coords="232,309,395,336"/>
+</map>

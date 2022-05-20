@@ -1,0 +1,5 @@
+<map id="print_stats" name="print_stats">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga1976268512249e975eed1d63b6c74602" title="m0_rwlock_read_lock" alt="" coords="143,5,291,32"/>
+<area shape="rect" id="node3" href="$d8/dd5/rpc__ping_8c.html#ae2c80a02a31f0da16c0f6f2893b6d643" title="__print_stats" alt="" coords="169,56,266,83"/>
+<area shape="rect" id="node4" href="$db/ded/group__rwlock.html#gac9f9a8e4d6d5652dd6425f10c33566c5" title="m0_rwlock_read_unlock" alt="" coords="136,107,299,133"/>
+</map>

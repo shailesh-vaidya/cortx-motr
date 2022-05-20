@@ -1,0 +1,10 @@
+<map id="stob_perf_init" name="stob_perf_init">
+<area shape="rect" id="node2" href="$d1/dff/group__stobperf.html#ga2bfdd8276aefc47575dee46f34969491" title="stob_perf_domain_container" alt="" coords="153,5,339,32"/>
+<area shape="rect" id="node3" href="$d1/dff/group__stobperf.html#ga2d840941cb095f463c3c2494950906ca" title="stob_perf_container" alt="" coords="178,56,314,83"/>
+<area shape="rect" id="node4" href="$d7/d2c/group__timer.html#gab5524a732935ba5616dac64cdab9e1bb" title="m0_timer_init" alt="" coords="196,107,296,133"/>
+<area shape="rect" id="node5" href="$d1/dff/group__stobperf.html#gab2f87d2f79d48722c6ba8b5976bc4217" title="stob_perf_timer_cb" alt="" coords="179,157,313,184"/>
+<area shape="rect" id="node6" href="$d1/dff/group__stobperf.html#gab83eaa83608ea296252156da95f8afdc" title="stob_perf_linux_init\l_create" alt="" coords="179,209,313,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="387,245,453,272"/>
+<area shape="rect" id="node8" href="$d7/d2c/group__timer.html#ga150850a7bfe9630401a60566383f5013" title="m0_timer_fini" alt="" coords="196,325,296,352"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="193,376,299,403"/>
+</map>

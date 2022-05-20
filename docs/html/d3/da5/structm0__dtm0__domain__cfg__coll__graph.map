@@ -1,0 +1,7 @@
+<map id="m0_dtm0_domain_cfg" name="m0_dtm0_domain_cfg">
+<area shape="rect" id="node2" href="$d2/db0/structm0__dtm0__remach__cfg.html" title="{m0_dtm0_remach_cfg\n||}" alt="" coords="5,5,156,83"/>
+<area shape="rect" id="node3" href="$d3/d7f/structm0__dtm0__pmach__cfg.html" title="{m0_dtm0_pmach_cfg\n||}" alt="" coords="181,5,327,83"/>
+<area shape="rect" id="node4" href="$d5/d80/structm0__dtm0__net__cfg.html" title="{m0_dtm0_net_cfg\n||}" alt="" coords="352,5,479,83"/>
+<area shape="rect" id="node5" href="$d7/df2/structm0__dtm0__log__cfg.html" title="{m0_dtm0_log_cfg\n||}" alt="" coords="503,5,629,83"/>
+<area shape="rect" id="node6" href="$d2/de5/structm0__dtm0__pruner__cfg.html" title="{m0_dtm0_pruner_cfg\n||}" alt="" coords="653,5,797,83"/>
+</map>

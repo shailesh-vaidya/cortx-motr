@@ -1,0 +1,12 @@
+<map id="m0_client_init" name="m0_client_init">
+<area shape="rect" id="node2" href="$d4/df5/motr_2st_2utils_2helper_8h.html#a9e93a0961e91acf4a8d0e5c14f60de46" title="client_init" alt="" coords="201,5,279,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a0bdb8ed6038d8508e5d8d5ad60a8481b" title="do_init" alt="" coords="210,56,270,83"/>
+<area shape="rect" id="node4" href="$d0/d06/fdmi__sample__plugin_8c.html#a0bed65174e789a6eaaf0c1ff15efb453" title="fsp_init" alt="" coords="208,107,272,133"/>
+<area shape="rect" id="node5" href="$d8/d3c/util_8h.html#ae077df7bae82b07a4b16df30ab2b966d" title="isc_init" alt="" coords="209,157,271,184"/>
+<area shape="rect" id="node6" href="$db/d5a/ut_2plan_8c.html#adfc2d15bcad4a9143dae529a1cda1909" title="lap_ut_client_start" alt="" coords="176,208,304,235"/>
+<area shape="rect" id="node7" href="$de/d4b/example1_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="215,259,265,285"/>
+<area shape="rect" id="node8" href="$d6/d4a/ut_2idx__dix_8c.html#abc1ebbd956829bde75b1edcbe81df9ff" title="idx_dix_ut_m0_client_init" alt="" coords="156,309,324,336"/>
+<area shape="rect" id="node9" href="$d1/dc0/group__crate__utils.html#ga9499dbc568a589e30f1dabb8a4d27e64" title="init" alt="" coords="221,360,259,387"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#ga006dda8e5033885673090a86106aed80" title="instance_init" alt="" coords="193,411,287,437"/>
+<area shape="rect" id="node11" href="$d8/d5d/st__kmain_8c.html#aed68d76674461d9cadba400c9c5ec592" title="st_init_instance" alt="" coords="183,461,297,488"/>
+</map>

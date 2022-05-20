@@ -1,0 +1,5 @@
+<map id="btree_node_free_credit" name="btree_node_free_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac82b49bc31b383c6022c0c1ce93bb3b7" title="btree_mem_free_credit" alt="" coords="216,5,371,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8eb882c1d51e74d6bf52272329cfac15" title="m0_be_tx_credit_add" alt="" coords="220,56,367,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga0e1154801a6afdeb1cfd06409f708b7f" title="btree_node_update_credit" alt="" coords="208,107,379,133"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="obj_layout_get" name="obj_layout_get">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="160,5,315,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#gacb5663f4ab85c03862a9256b5cfa3638" title="m0_client_layout_op" alt="" coords="167,56,308,83"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="184,107,291,133"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="191,157,283,184"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="169,208,305,235"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="195,259,280,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="192,309,283,336"/>
+</map>

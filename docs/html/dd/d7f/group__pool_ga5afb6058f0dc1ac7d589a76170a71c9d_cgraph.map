@@ -1,0 +1,11 @@
+<map id="pools_common__pools_update_or_cleanup" name="pools_common__pools_update_or_cleanup">
+<area shape="rect" id="node2" href="$db/dc2/conf_2helpers_8c.html#ac1a4911ce247b30b9a3b0bfdfc5abf55" title="m0_confc2reqh" alt="" coords="239,5,350,32"/>
+<area shape="rect" id="node3" href="$d2/dd9/group__conf__dlspec__cache.html#gae57413e1aae8000948a2888d90d8b582" title="m0_conf_cache_contains" alt="" coords="209,56,380,83"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gad48b7a5200f673a5c24e6060dcd1ee72" title="pools_common__md_pool\l_cleanup" alt="" coords="208,107,381,149"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga6f68cbe6e716cfab9e2e8968e38db50c" title="pool__layouts_evict" alt="" coords="226,173,363,200"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#gacaacdbab38a92663414f4550a232edac" title="pool_version__layouts\l_evict" alt="" coords="429,207,580,249"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga8b8fdc73ff81d68a69ccad52899abe77" title="m0_pool_versions_fini" alt="" coords="219,325,370,352"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#ga4968a0b34e2f9c44b5152cf16a6c5d39" title="m0_pool_version_fini" alt="" coords="433,284,577,311"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="470,356,539,383"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#ga94bc2b9d1ad8d5a89d0be837ee40c1c8" title="m0_pool_fini" alt="" coords="247,427,342,453"/>
+</map>

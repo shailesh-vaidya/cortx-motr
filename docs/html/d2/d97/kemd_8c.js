@@ -1,0 +1,25 @@
+var kemd_8c =
+[
+    [ "NUM", "d8/d01/group__kem__dev.html#ga6aa601fb8d9a1c35006401cbe5b5d3cf", null ],
+    [ "EXPORT_SYMBOL", "d8/d01/group__kem__dev.html#ga5dbd9ea0f5d1cb460ebe9f8758fb5aa1", null ],
+    [ "kemd_cleanup_module", "d8/d01/group__kem__dev.html#gae354967518fcfb76362be27f0c4edd3f", null ],
+    [ "kemd_dev_create", "d8/d01/group__kem__dev.html#gab4821a6b739349b5e7acb4836c27afd1", null ],
+    [ "kemd_dev_destroy", "d8/d01/group__kem__dev.html#gae090d3528d07d663fd5f96cb0e3565c8", null ],
+    [ "kemd_devs_create", "d8/d01/group__kem__dev.html#ga546cf71ffe62ce7d82a9821529e136e4", null ],
+    [ "kemd_devs_destroy", "d8/d01/group__kem__dev.html#ga3d5798ce0588f19c5e263b886fbf80a4", null ],
+    [ "kemd_init_module", "d8/d01/group__kem__dev.html#ga1a80f534b81af7d5e9a48a3cf4d191cc", null ],
+    [ "kemd_open", "d8/d01/group__kem__dev.html#gae96bdbdc5389a88aecedfd383c38ae40", null ],
+    [ "kemd_rbs_free", "d8/d01/group__kem__dev.html#ga1032d5872dfbbf3343650978f17efb57", null ],
+    [ "kemd_rbs_init", "d8/d01/group__kem__dev.html#ga4e2c4329e63c562174185f51e5697498", null ],
+    [ "kemd_read", "d8/d01/group__kem__dev.html#gadea1ad881e77b896465586e55b8a81d0", null ],
+    [ "kemd_release", "d8/d01/group__kem__dev.html#ga3fc0a3d4b60255f45036206e9b3765fe", null ],
+    [ "kemd_write", "d8/d01/group__kem__dev.html#ga3b03b09a65854c2cabbbae8ac81175a3", null ],
+    [ "module_exit", "d8/d01/group__kem__dev.html#ga77196d0bf35338179a1c3f73b6006cdc", null ],
+    [ "module_init", "d8/d01/group__kem__dev.html#gaf8f65e9ea80fb9a90b1cce9f74f7e589", null ],
+    [ "kemd_devices", "d8/d01/group__kem__dev.html#ga71d077b68f6e18af982777b73b583cd0", null ],
+    [ "kemd_fops", "d8/d01/group__kem__dev.html#gaa9b1c1d026a51fdf2599249e979afc36", null ],
+    [ "kemd_major", "d8/d01/group__kem__dev.html#ga4809bf228954039ada9f52b94238e3a6", null ],
+    [ "kemd_minor", "d8/d01/group__kem__dev.html#gadb5b1c1dfadf350c63bf487b9c9da82b", null ],
+    [ "kemd_nr_cpus", "d8/d01/group__kem__dev.html#ga5f6007faafe36c68ec58cad0cc5ad602", null ],
+    [ "kemd_rbs", "d8/d01/group__kem__dev.html#ga8daf816fb4f5679ea1fced1655b6429d", null ]
+];

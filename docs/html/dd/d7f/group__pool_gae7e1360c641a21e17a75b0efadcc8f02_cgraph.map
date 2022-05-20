@@ -1,0 +1,10 @@
+<map id="m0_pool_version_device_map_init" name="m0_pool_version_device_map_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="266,5,342,32"/>
+<area shape="rect" id="node3" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="219,56,389,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="437,81,504,108"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga669af0c9069aa99439e0c086607ac7d4" title="obj_is_ios_cas_diskv" alt="" coords="231,157,377,184"/>
+<area shape="rect" id="node6" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="233,208,375,235"/>
+<area shape="rect" id="node7" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="219,259,389,285"/>
+<area shape="rect" id="node8" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="263,309,345,336"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="240,360,368,387"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="test_state_update_fom_fini" name="test_state_update_fom_fini">
+<area shape="rect" id="node2" href="$d3/dff/stats__srv_8c.html#a6ab22204d9be4c5f928a33bb39b0aeb2" title="stats_update_fom_fini" alt="" coords="232,5,383,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="250,56,365,83"/>
+<area shape="rect" id="node4" href="$da/dea/group__cond.html#gaa0436fc2f03a241527b37f9fcf3a88b4" title="m0_cond_signal" alt="" coords="249,107,365,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="243,157,371,184"/>
+</map>

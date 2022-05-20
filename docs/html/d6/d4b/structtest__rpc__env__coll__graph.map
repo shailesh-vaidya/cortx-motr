@@ -1,0 +1,9 @@
+<map id="test_rpc_env" name="test_rpc_env">
+<area shape="rect" id="node2" href="$d4/d52/structm0__net__buffer__pool.html" title="{m0_net_buffer_pool\n||}" alt="" coords="127,580,262,657"/>
+<area shape="rect" id="node3" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="5,440,120,517"/>
+<area shape="rect" id="node4" href="$d2/de3/structm0__rpc__conn.html" title="{m0_rpc_conn\n||}" alt="" coords="606,440,706,517"/>
+<area shape="rect" id="node9" href="$dd/d65/structm0__rpc__session.html" title="{m0_rpc_session\n||}" alt="" coords="684,580,801,657"/>
+<area shape="rect" id="node5" href="$d0/dfb/structm0__rpc__chan.html" title="{m0_rpc_chan\n||}" alt="" coords="497,285,597,363"/>
+<area shape="rect" id="node6" href="$d2/d80/structm0__net__end__point.html" title="{m0_net_end_point\n||}" alt="" coords="367,145,495,223"/>
+<area shape="rect" id="node8" href="$d9/d36/structm0__rpc__machine.html" title="{m0_rpc_machine\n||}" alt="" coords="639,145,761,223"/>
+</map>

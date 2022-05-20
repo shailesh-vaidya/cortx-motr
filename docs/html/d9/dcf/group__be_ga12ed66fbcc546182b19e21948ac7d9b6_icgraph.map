@@ -1,0 +1,5 @@
+<map id="be_btree_set_node_params" name="be_btree_set_node_params">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gac0b33846e0f0af6266169c6d95d18ba1" title="be_btree_node_alloc" alt="" coords="236,56,377,83"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad4cb810a429472a61af990cb48c9a878" title="be_btree_split_child" alt="" coords="425,5,563,32"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gab051fee783fe845df4e6edb039d85fb3" title="be_btree_insert_newkey" alt="" coords="611,56,773,83"/>
+</map>

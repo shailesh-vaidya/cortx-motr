@@ -1,0 +1,17 @@
+<map id="iter_cp_setup" name="iter_cp_setup">
+<area shape="rect" id="node2" href="$d7/daf/group___s_n_s_c_m.html#ga65738f46f780a3bb2c1d1fb06475d006" title="it2sns" alt="" coords="210,5,267,32"/>
+<area shape="rect" id="node3" href="$d0/d5d/ut_2sm_8c.html#a43ff87b8eb1b8223a2cf8c8f966d7e89" title="group" alt="" coords="211,56,266,83"/>
+<area shape="rect" id="node4" href="$df/d01/group__pdclust.html#gad5e5623c41f2187ece3dacee694c9e14" title="m0_layout_to_pdl" alt="" coords="395,132,519,159"/>
+<area shape="rect" id="node5" href="$d7/daf/group___s_n_s_c_m.html#gad408c31a327765e6d11ea707093c15e9" title="unit_has_data" alt="" coords="187,157,290,184"/>
+<area shape="rect" id="node6" href="$df/d01/group__pdclust.html#ga76f4c6797a93ef427c92a063ec302727" title="m0_pdclust_unit_classify" alt="" coords="372,208,541,235"/>
+<area shape="rect" id="node7" href="$df/d01/group__pdclust.html#ga363fd0cb752eda44be8a297e1c404f02" title="m0_pdclust_unit_size" alt="" coords="383,385,531,412"/>
+<area shape="rect" id="node8" href="$d6/db9/group___c_m_a_g.html#ga5352f93151a44c6de039541f79404775" title="m0_cm_ag_cp_add" alt="" coords="171,461,306,488"/>
+<area shape="rect" id="node9" href="$d6/d59/group___s_n_s_c_m_a_g.html#gaeec7fd2f3c1d1d3d1ea00d1a0f32f0b1" title="ag2snsag" alt="" coords="199,512,278,539"/>
+<area shape="rect" id="node10" href="$d7/daf/group___s_n_s_c_m.html#gad60a39d8c2af4f6f731f3ff274d7e46a" title="m0_sns_cm_data_seg_nr" alt="" coords="153,411,324,437"/>
+<area shape="rect" id="node11" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15" title="m0_sns_cm_fctx_lock" alt="" coords="162,563,315,589"/>
+<area shape="rect" id="node12" href="$d7/d0c/parity__repair_8c.html#a38cc03448ae4f6b0cb740199657085ca" title="m0_sns_repair_data_map" alt="" coords="153,259,324,285"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="423,284,490,311"/>
+<area shape="rect" id="node14" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546" title="m0_sns_cm_fctx_unlock" alt="" coords="155,613,322,640"/>
+<area shape="rect" id="node15" href="$d3/daf/group___s_n_s_c_m_c_p.html#gac8c3abb07cb5f885c158385c9d8c4033" title="m0_sns_cm_cp_setup" alt="" coords="162,664,315,691"/>
+<area shape="rect" id="node16" href="$d7/daf/group___s_n_s_c_m.html#ga3ddef2cb4dccd2d416d2d5cd16cb9e9e" title="iter_phase_set" alt="" coords="185,715,292,741"/>
+</map>

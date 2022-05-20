@@ -1,0 +1,12 @@
+<map id="idx_op_cb_launch" name="idx_op_cb_launch">
+<area shape="rect" id="node2" href="$d6/dd8/namespacehist.html#a4ef58df181a70e281faf67b1c07da891" title="hist.query" alt="" coords="215,5,294,32"/>
+<area shape="rect" id="node3" href="$d2/db6/idx_8c.html#a3f81feb6bb3a262182915d3a747b1ede" title="oi_instance" alt="" coords="211,56,299,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="203,107,307,133"/>
+<area shape="rect" id="node5" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="187,157,322,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga516522dd037257c2293069a3566b0a93" title="m0_dtx0_prepare" alt="" coords="193,208,316,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="180,259,329,285"/>
+<area shape="rect" id="node8" href="$d2/db6/idx_8c.html#a22b50a65125653f2e9c3e6185f04eb2c" title="idx_op_ast_fail" alt="" coords="200,309,309,336"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="377,335,467,361"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="193,411,316,437"/>
+<area shape="rect" id="node11" href="$d2/db6/idx_8c.html#a523e3f47451c324d9f8f496b179539ff" title="idx_op_ast_complete" alt="" coords="182,461,327,488"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="be_log_module_init" name="be_log_module_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gabcb1939f30fa52a3d2e2a0e80167ee8e" title="m0_be_log_module_setup" alt="" coords="187,5,360,32"/>
+<area shape="rect" id="node3" href="$d7/da6/group__module.html#ga2205ab1edc81ac270c83a0df1de26452" title="m0_module_init" alt="" coords="217,56,330,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga36f4762173443e4e692f80575d77e049" title="be_log_module_fini" alt="" coords="207,107,340,133"/>
+</map>

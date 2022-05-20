@@ -1,0 +1,12 @@
+<map id="be_tx_state_move" name="be_tx_state_move">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gafe8771a3a3d42ca6237ce512c972e5a0" title="m0_be_tx_state_name" alt="" coords="423,297,577,324"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga67ba841f556ee370ae1950e72fcd90ce" title="m0_be_tx_state" alt="" coords="443,44,557,70"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga2fd4ceedcedf897e19a726a804c32d22" title="m0_be_tx__invariant" alt="" coords="207,44,350,70"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga82f74a53f6324090a418bbd5b4e9b0b9" title="be_tx_is_locked" alt="" coords="442,120,558,146"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga7bdf2ed000b2d49cd70a1fe4d755a0a2" title="be_tx_memory_allocate" alt="" coords="199,196,359,222"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="227,246,331,273"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga8b5b87566e88e8f788b6ea0c6d84f252" title="m0_be_engine__tx_state_set" alt="" coords="183,297,375,324"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga9e056c8be3495545fa76d9b7612646a3" title="m0_be_tx_put" alt="" coords="227,145,331,172"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gae098d7f530a5009287b1d9ccf7f67389" title="be_tx_gc" alt="" coords="241,398,316,425"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="234,449,323,476"/>
+</map>

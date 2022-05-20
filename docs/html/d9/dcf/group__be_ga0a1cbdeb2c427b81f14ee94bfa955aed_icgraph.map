@@ -1,0 +1,9 @@
+<map id="m0_be_btree_fini" name="m0_be_btree_fini">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a531cb87797a1d778dbdd9b61fe4dc2f8" title="balloc_fini_internal" alt="" coords="181,5,310,32"/>
+<area shape="rect" id="node3" href="$de/d8f/group__balloc.html#gaecc96acddec75add7f0c9e2fa55d4253" title="m0_balloc_create" alt="" coords="183,56,307,83"/>
+<area shape="rect" id="node4" href="$dd/d2d/ut_2btree_8c.html#af50679b2a9c6df6b92db164e8a1def16" title="check" alt="" coords="217,107,274,133"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#ga8f0d3613057f39213886e3c6f93ab437" title="m0_be_emap_fini" alt="" coords="183,157,307,184"/>
+<area shape="rect" id="node6" href="$d8/d50/ctg__store_8c.html#a278840c887ecd20a58e8840e1cb28c32" title="ctg_fini" alt="" coords="213,208,277,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#ga098c31e98b3033e45f57781a23d78885" title="m0_cob_domain_fini" alt="" coords="175,259,316,285"/>
+<area shape="rect" id="node8" href="$d2/db5/db_8c.html#abcb915319c737993c7bca266d88b0a8d" title="confdb_table_fini" alt="" coords="185,309,305,336"/>
+</map>

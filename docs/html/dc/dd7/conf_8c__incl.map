@@ -1,0 +1,21 @@
+<map id="motr/conf.c" name="motr/conf.c">
+<area shape="rect" id="node2" href="$d1/d1b/trace_8h.html" title="lib/trace.h" alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node3" href="$d8/dc2/errno_8h.html" title="lib/errno.h" alt="" coords="108,80,187,107"/>
+<area shape="rect" id="node4" href="$dc/d18/memory_8h.html" title="lib/memory.h" alt="" coords="286,80,382,107"/>
+<area shape="rect" id="node5" href="$dd/dc9/finject_8h.html" title="lib/finject.h" alt="" coords="248,155,335,181"/>
+<area shape="rect" id="node6" href="$da/d66/string_8h.html" title="string.h" alt="" coords="407,80,472,107"/>
+<area shape="rect" id="node7" href="$d7/df7/setup_8h.html" title="motr/setup.h" alt="" coords="736,155,831,181"/>
+<area shape="rect" id="node8" href="$d7/d27/reqh__service_8h.html" title="reqh/reqh_service.h" alt="" coords="715,229,851,256"/>
+<area shape="rect" id="node9" href="$d7/de3/schema_8h.html" title="conf/schema.h" alt="" coords="861,304,969,331"/>
+<area shape="rect" id="node10" href="$d0/d37/setup__internal_8h.html" title="motr/setup_internal.h" alt="" coords="571,80,715,107"/>
+<area shape="rect" id="node11" href="$d3/d5a/rpclib_8h.html" title="rpc/rpclib.h" alt="" coords="740,80,827,107"/>
+<area shape="rect" id="node12" href="$d5/d99/obj_8h.html" title="conf/obj.h" alt="" coords="1095,155,1173,181"/>
+<area shape="rect" id="node13" href="$d3/dd7/obj__ops_8h.html" title="conf/obj_ops.h" alt="" coords="1081,80,1187,107"/>
+<area shape="rect" id="node14" href="$d7/d14/confc_8h.html" title="conf/confc.h" alt="" coords="1639,155,1733,181"/>
+<area shape="rect" id="node15" href="$df/d9c/dir_8h.html" title="conf/dir.h" alt="" coords="1395,80,1470,107"/>
+<area shape="rect" id="node16" href="$d6/d88/diter_8h.html" title="conf/diter.h" alt="" coords="1545,80,1632,107"/>
+<area shape="rect" id="node17" href="$df/d22/conf_2helpers_8h.html" title="conf/helpers.h" alt="" coords="953,80,1057,107"/>
+<area shape="rect" id="node18" href="$d8/d3d/linux_8h.html" title="stob/linux.h" alt="" coords="1656,80,1745,107"/>
+<area shape="rect" id="node19" href="$d3/d88/storage__dev_8h.html" title="ioservice/storage_dev.h" alt="" coords="1212,80,1371,107"/>
+<area shape="rect" id="node20" href="$d4/d7c/ioservice_2fid__convert_8h.html" title="ioservice/fid_convert.h" alt="" coords="1821,80,1975,107"/>
+</map>

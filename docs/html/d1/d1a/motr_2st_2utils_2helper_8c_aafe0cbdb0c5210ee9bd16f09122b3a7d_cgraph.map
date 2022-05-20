@@ -1,0 +1,9 @@
+<map id="alloc_vecs" name="alloc_vecs">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga6e71aa45c7f34855cbdd4b162594b0f0" title="m0_indexvec_alloc" alt="" coords="155,5,288,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="137,56,305,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="159,107,284,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gaa82d77b8095819fc3f0895810af98fca" title="m0_indexvec_free" alt="" coords="157,157,285,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#ga64e8c9b22ee60158a5c3bac0ba2b3680" title="m0_bufvec_alloc" alt="" coords="161,208,281,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="201,259,242,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga449b046068898f49fd62686ac96b3cbd" title="m0_bufvec_free" alt="" coords="164,309,279,336"/>
+</map>

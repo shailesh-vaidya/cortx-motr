@@ -1,0 +1,11 @@
+<map id="m0_ut_rpc_mach_init_and_add" name="m0_ut_rpc_mach_init_and_add">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ad4ca50eaf4b1cc06d740a78fe91a7ae7" title="sender_init" alt="" coords="223,5,308,32"/>
+<area shape="rect" id="node3" href="$dd/d81/reqh_2ut_2service_8c.html#abe0dbbc9ec683c5907be8389a53c607d" title="test_service" alt="" coords="219,56,312,83"/>
+<area shape="rect" id="node4" href="$d1/dfc/cm_2ut_2cm_8c.html#ae79d6f38688767751a692c8da7c3fb21" title="cm_ut_init" alt="" coords="224,107,307,133"/>
+<area shape="rect" id="node5" href="$de/d9e/cm_2ut_2cp_8c.html#a961b156cc1492eded0d4c1a9ba32b065" title="cm_cp_init" alt="" coords="223,157,308,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#gadb833649ffb8e87564de1db6c8162956" title="rpc_fop_fom_init" alt="" coords="206,208,325,235"/>
+<area shape="rect" id="node7" href="$d8/dd3/long__lock__ut_8c.html#a2207e6b9c73c5b25847c4efca0020426" title="test_long_lock_init" alt="" coords="200,259,331,285"/>
+<area shape="rect" id="node8" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a6f251e1b31fbe3b592fb61eb183de4e3" title="test_stats_init" alt="" coords="213,309,317,336"/>
+<area shape="rect" id="node9" href="$de/d32/ut_2rm__service_8c.html#aebdab9d5a295367002d205932ec18266" title="rm_client" alt="" coords="228,360,303,387"/>
+<area shape="rect" id="node10" href="$d9/d02/rmut_8h.html#a2798d93a7052da3da692f9f013c1fb63" title="rm_ctx_init" alt="" coords="222,411,309,437"/>
+</map>

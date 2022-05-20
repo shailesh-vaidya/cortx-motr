@@ -1,0 +1,10 @@
+<map id="spiel_proc_counter_item" name="spiel_proc_counter_item">
+<area shape="rect" id="node2" href="$d8/d51/structm0__rpc__link.html" title="{m0_rpc_link\n||}" alt="" coords="86,160,178,237"/>
+<area shape="rect" id="node7" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="798,160,872,237"/>
+<area shape="rect" id="node8" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="591,160,652,237"/>
+<area shape="rect" id="node9" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="208,160,262,237"/>
+<area shape="rect" id="node5" href="$d8/d9e/structm0__semaphore.html" title="{m0_semaphore\n||}" alt="" coords="689,5,800,83"/>
+<area shape="rect" id="node10" href="$de/d78/structm0__sm__ast.html" title="{m0_sm_ast\n||}" alt="" coords="982,160,1072,237"/>
+<area shape="rect" id="node11" href="$da/d4f/structm0__proc__data.html" title="{m0_proc_data\n||}" alt="" coords="1179,160,1283,237"/>
+<area shape="rect" id="node12" href="$d5/d01/structm0__fop.html" title="{m0_fop\n||}" alt="" coords="1308,160,1373,237"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="m0_cobfop_common_get" name="m0_cobfop_common_get">
+<area shape="rect" id="node2" href="$d7/d9a/motr_2cob_8c.html#a3d123799e165fe6ca59e0b23ba4be9dc" title="cob_ios_fop_populate" alt="" coords="251,5,399,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a51dd42230901bc4ef3266694c837d816" title="m0t1fs_ios_cob_fop\l_populate" alt="" coords="255,57,394,98"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#adaf38a1dd7a04a7069ef195f5e4f44e6" title="target_cob_create_fop\l_prepare" alt="" coords="249,122,400,163"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a0540efec5ae367dd727fd842135a6210" title="cob_fom_populate" alt="" coords="261,188,389,215"/>
+<area shape="rect" id="node6" href="$d9/d51/cob__foms_8c.html#a248f4ce335db52ea21813c5dfc8af56c" title="cob_setattr_fom_tick" alt="" coords="253,239,397,265"/>
+<area shape="rect" id="node7" href="$d9/d51/cob__foms_8c.html#ae0edbb96ed2377b29ebfb31bfca4c85b" title="cob_pool_version_mismatch" alt="" coords="231,289,418,316"/>
+<area shape="rect" id="node8" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="476,315,604,341"/>
+<area shape="rect" id="node9" href="$d5/d5d/ut_2cob__foms_8c.html#ac5b31f95e958bd95a125bc2583ff75c4" title="cobfops_populate_internal" alt="" coords="238,391,411,417"/>
+<area shape="rect" id="node10" href="$d5/d5d/ut_2cob__foms_8c.html#aa7607d7818a9237771147595b7d379dc" title="cobfops_send_wait" alt="" coords="257,441,392,468"/>
+<area shape="rect" id="node11" href="$d5/d5d/ut_2cob__foms_8c.html#a87ce6fe98ce7d0d60e0ae807f06db084" title="fop_alloc" alt="" coords="287,492,362,519"/>
+<area shape="rect" id="node12" href="$d5/d5d/ut_2cob__foms_8c.html#ae14739ea7f11c01b448d7fe56c8c1f27" title="md_cob_fop_create_delete_test" alt="" coords="221,543,428,569"/>
+<area shape="rect" id="node13" href="$d3/d94/group___d_l_d__bulk__server__fspec__ios__operations.html#ga487296eae34fe4af3c337c726dfce657" title="ios_cob_fop_populate" alt="" coords="251,593,399,620"/>
+<area shape="rect" id="node14" href="$dc/d83/io__req__fop_8c.html#a3cb767009f727f1b851bbd281c037c91" title="ioreq_cc_fop_init" alt="" coords="265,644,385,671"/>
+</map>

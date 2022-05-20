@@ -1,0 +1,6 @@
+<map id="m0_rpc_session_create" name="m0_rpc_session_create">
+<area shape="rect" id="node2" href="$d9/dbf/ut_2item_8c.html#ac67cb1d0c924d6d5385167d86d4ce220" title="test_cancel_session" alt="" coords="221,5,363,32"/>
+<area shape="rect" id="node3" href="$d3/d5a/rpclib_8h.html#a4a1aeaec26fa5604b23b02420fc4ccd9" title="m0_rpc_client_connect" alt="" coords="214,56,370,83"/>
+<area shape="rect" id="node4" href="$d3/d31/rcv__session_8c.html#ae5ec2ba8fa9071905679250fd7280491" title="test_session_establish" alt="" coords="215,107,369,133"/>
+<area shape="rect" id="node5" href="$d3/d31/rcv__session_8c.html#ac0b282ebd12f06e6b425ebac4a7dce98" title="test_session_terminate" alt="" coords="213,157,371,184"/>
+</map>

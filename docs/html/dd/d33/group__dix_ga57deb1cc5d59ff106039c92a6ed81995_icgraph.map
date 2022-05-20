@@ -1,0 +1,11 @@
+<map id="m0_dix_liter_K" name="m0_dix_liter_K">
+<area shape="rect" id="node2" href="$de/d70/group___d_i_x_c_m.html#gac275cb8f3ce1ab71c35a40f95dc2121e" title="dix_cm_repair_spare\l_has_data" alt="" coords="185,5,328,47"/>
+<area shape="rect" id="node3" href="$de/d70/group___d_i_x_c_m.html#ga3a5c119691f1c3c87958f282c4bcdaff" title="dix_cm_repair_tgts_get" alt="" coords="400,57,557,83"/>
+<area shape="rect" id="node4" href="$de/d70/group___d_i_x_c_m.html#gadec79bb0aa71bad35aa4f2eafb7fc929" title="dix_cm_rebalance_tgts_get" alt="" coords="166,122,347,149"/>
+<area shape="rect" id="node5" href="$de/d70/group___d_i_x_c_m.html#ga815890b09380d42b551d63f912826dbd" title="dix_cm_iter_rebalance\l_tgts_get" alt="" coords="403,129,555,171"/>
+<area shape="rect" id="node6" href="$de/d70/group___d_i_x_c_m.html#ga93d22b852220ccd37b10d59ef99709c4" title="parity_group_print" alt="" coords="194,223,319,250"/>
+<area shape="rect" id="node7" href="$de/d70/group___d_i_x_c_m.html#ga1c9eb85fc33b2607ff538ac2d1e28b88" title="spare_usage_print" alt="" coords="193,274,321,301"/>
+<area shape="rect" id="node8" href="$de/d70/group___d_i_x_c_m.html#ga3eb27dfc09e7ab399254537473eeffe6" title="dix_cm_is_repair_coordinator" alt="" coords="161,325,352,351"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#gad5ccc5238d7c65bd7a8481a16513a5e4" title="m0_dix_liter_spare\l_offset" alt="" coords="191,376,322,417"/>
+<area shape="rect" id="node10" href="$dd/d33/group__dix.html#gaf1e22cff40db3e441f20ae642cb0ec3b" title="dix_rop_tgt_iter_max" alt="" coords="185,442,328,469"/>
+</map>

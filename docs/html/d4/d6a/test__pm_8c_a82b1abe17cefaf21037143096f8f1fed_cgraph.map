@@ -1,0 +1,9 @@
+<map id="pm_test_transit" name="pm_test_transit">
+<area shape="rect" id="node2" href="$d4/d6a/test__pm_8c.html#a2cec96675c7879a125dbff4cdc91e6a6" title="pool_pver_init" alt="" coords="201,5,303,32"/>
+<area shape="rect" id="node3" href="$d8/dec/group__poolmach.html#ga071e928905a90d459e712b7b3dbf6bdc" title="m0_poolmach_failvec\l_apply" alt="" coords="178,57,326,98"/>
+<area shape="rect" id="node4" href="$d8/dec/group__poolmach.html#gac964345ca6edd0cbf103f98702953076" title="m0_poolmach_state_transit" alt="" coords="387,93,569,120"/>
+<area shape="rect" id="node5" href="$d8/dec/group__poolmach.html#gace22bd4edbfe615836314d6332376c96" title="m0_poolmach_device\l_state" alt="" coords="178,174,326,215"/>
+<area shape="rect" id="node6" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="165,240,339,267"/>
+<area shape="rect" id="node7" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="201,291,303,317"/>
+<area shape="rect" id="node8" href="$d4/d6a/test__pm_8c.html#af9075b0b66a33603d71ad5321914677b" title="pool_pver_fini" alt="" coords="201,341,303,368"/>
+</map>

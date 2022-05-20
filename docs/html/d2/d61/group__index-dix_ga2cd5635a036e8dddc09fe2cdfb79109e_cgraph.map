@@ -1,0 +1,9 @@
+<map id="dixreq_clink_cb" name="dixreq_clink_cb">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="194,5,293,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga2b7ec3f851b47336517b4c9d520ba001" title="m0_dix_generic_rc" alt="" coords="369,81,500,108"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga3fddb59eff8a48689bc8a38e08f7a465" title="m0_dix_req_nr" alt="" coords="381,157,488,184"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga9b227e71efcff4b1336d18a7dac463e3" title="m0_dix_item_rc" alt="" coords="186,107,301,133"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#gae27f535c1784fd07600e1e3672578a95" title="dix_get_reply_copy" alt="" coords="176,208,311,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#ga77e58eb7d209548b7c57b4d5a7d9ee58" title="dix_next_reply_copy" alt="" coords="173,259,314,285"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#gac657ed1292f1600bd1ff3b11f150a614" title="dixreq_completed_post" alt="" coords="165,309,321,336"/>
+</map>

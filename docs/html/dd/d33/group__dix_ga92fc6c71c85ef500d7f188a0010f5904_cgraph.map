@@ -1,0 +1,9 @@
+<map id="dix_rop_del_phase2_rop" name="dix_rop_del_phase2_rop">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga2a806b4822d8f41ed5e6047cf511b928" title="dix_del_phase2_is_needed" alt="" coords="216,5,395,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga7ca9ce88d21503cdc0480ce12dc09467" title="m0_bufvec_empty_alloc" alt="" coords="224,56,387,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="443,132,519,159"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gafeb3226da972d2aaf12b91da24a21670" title="dix_rop_ctx_init" alt="" coords="249,157,362,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="447,183,514,209"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#ga7fe32c9d18bd103974c5f9869a093f10" title="m0_bufvec_free2" alt="" coords="244,259,367,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="271,309,340,336"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_cob_ns_rec_of" name="m0_cob_ns_rec_of">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga0e2658de8e10d7720d81da238e4c36e4" title="m0_be_btree_cursor_init" alt="" coords="185,5,349,32"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gab9e15a8f250f64d298949d042aa351c2" title="m0_cob_nskey_make" alt="" coords="193,56,342,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="397,187,464,213"/>
+<area shape="rect" id="node5" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="223,157,312,184"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#ga3ec8fced9ea67330f9b1b829d9693d13" title="m0_cob_nskey_size" alt="" coords="197,208,338,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gab45a3db2573f356401322f0f514a7d05" title="m0_be_btree_cursor\l_get_sync" alt="" coords="197,259,337,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="197,325,337,366"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="233,391,302,417"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga2490e6a98b50eae3ce762ab9c4b4e06e" title="m0_be_btree_cursor_fini" alt="" coords="185,441,349,468"/>
+</map>

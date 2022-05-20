@@ -1,0 +1,6 @@
+<map id="stob_object_find" name="stob_object_find">
+<area shape="rect" id="node2" href="$dc/da4/group__stobio.html#gab014dfa5df196d854cef89996edb96c1" title="stob_create_fom_tick" alt="" coords="173,5,319,32"/>
+<area shape="rect" id="node3" href="$dc/da4/group__stobio.html#ga2e257fd91a8f2f91d6279522e6cf74db" title="stob_read_fom_tick" alt="" coords="178,56,314,83"/>
+<area shape="rect" id="node4" href="$dc/da4/group__stobio.html#ga687086376e08a4e672e66f245d4cd3b1" title="fom_stob_write_credit" alt="" coords="171,107,321,133"/>
+<area shape="rect" id="node5" href="$dc/da4/group__stobio.html#ga3e35f5c39aef5abc9d9e5af08436f313" title="stob_write_fom_tick" alt="" coords="369,132,508,159"/>
+</map>

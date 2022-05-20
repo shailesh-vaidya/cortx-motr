@@ -1,0 +1,10 @@
+<map id="m0_fop_domain_get" name="m0_fop_domain_get">
+<area shape="rect" id="node2" href="$d4/d8c/group__conf__foms.html#ga1978e19c477ba1405bb005c201982f81" title="conf_zero_copy_initiate" alt="" coords="400,17,559,44"/>
+<area shape="rect" id="node3" href="$d6/d8d/load__fop_8h.html#a6526646718a4e1c6994057c1344f0505" title="m0_conf_segment_size" alt="" coords="192,42,352,69"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="209,93,335,120"/>
+<area shape="rect" id="node5" href="$dd/d3e/io__fops_8h.html#ab6fe8059ac82afa936141116d7a3b40b" title="m0_io_fop_segs_nr" alt="" coords="205,144,339,170"/>
+<area shape="rect" id="node6" href="$da/dda/io__fops_8c.html#a116ba102c07038051c72a289d6f96237" title="io_netbufs_prepare" alt="" coords="206,194,338,221"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#a97345edb53aa0eaf47480f909ad3c95b" title="ut_get_buffer_pool" alt="" coords="208,296,336,322"/>
+<area shape="rect" id="node8" href="$db/d53/bulkio__ut_8c.html#a3edf7bbdd80a234d3e94166897a255a4" title="check_write_fom_tick" alt="" coords="405,257,554,284"/>
+<area shape="rect" id="node9" href="$db/d53/bulkio__ut_8c.html#ad64f68d8d9cae9a924a039c1a717afde" title="check_read_fom_tick" alt="" coords="406,321,553,348"/>
+</map>

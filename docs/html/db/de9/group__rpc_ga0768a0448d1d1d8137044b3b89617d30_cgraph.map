@@ -1,0 +1,5 @@
+<map id="m0_rpc_packet_discard" name="m0_rpc_packet_discard">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaec96dc31cab9eace69e8bc10deb92649" title="m0_rpc_packet_remove\l_all_items" alt="" coords="213,5,375,47"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga1cd5d75d6ed19b39e3bd38b4bae218e4" title="m0_rpc_packet_fini" alt="" coords="227,71,361,98"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="259,122,329,149"/>
+</map>

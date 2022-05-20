@@ -1,0 +1,10 @@
+<map id="m0_ut_dtm0_helper_init" name="m0_ut_dtm0_helper_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaad3b4251c5eac10bebb98c22f5186afc" title="m0_net_all_xprt_get" alt="" coords="227,5,366,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gaf5a91fe4037d1c75e0609169ae78640c" title="m0_net_xprt_nr" alt="" coords="241,56,353,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="226,107,367,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="227,157,366,184"/>
+<area shape="rect" id="node6" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="214,208,379,235"/>
+<area shape="rect" id="node7" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="229,259,365,285"/>
+<area shape="rect" id="node8" href="$d1/da8/dtm0_2service_8c.html#a48b4dcf666c1273178a3c4b5de5d8fcd" title="m0_dtm_client_service\l_start" alt="" coords="219,310,375,351"/>
+<area shape="rect" id="node9" href="$da/ddc/group__reqhservice.html#ga1b0a42bf46068bb77193e45b8df07652" title="m0_reqh_service_lookup" alt="" coords="213,376,380,403"/>
+</map>

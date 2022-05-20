@@ -1,0 +1,15 @@
+<map id="m0_rpc_item_failed" name="m0_rpc_item_failed">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga97fb5e47d64f690b06dc09b96ff67e6f" title="item_state_name" alt="" coords="431,42,554,69"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaf976c3b2587bd1975efbfe2c048c202b" title="m0_rpc_machine_ep" alt="" coords="204,122,347,149"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga0f16ce4d1bbc5beb48c1ebf0bde4504e" title="m0_rpc_item_remote\l_ep_addr" alt="" coords="203,173,347,215"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="411,319,575,346"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gabf31cc6211e15c9673015254802dea69" title="m0_rpc_item_pending\l_cache_del" alt="" coords="201,459,350,500"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="431,439,554,466"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="448,494,537,521"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga079619b3736cef08e4d324f485587679" title="m0_rpc_item_is_reply" alt="" coords="201,575,350,602"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="192,626,359,653"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="202,5,349,47"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#ga5ea356eaa3ea935dd90d288c618bccb4" title="m0_rpc_item_timer_stop" alt="" coords="193,290,358,317"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#ga2196ae0b9b009e0b055cb685bb82b14f" title="m0_rpc_item_sent_invoke" alt="" coords="188,677,363,703"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#ga67ca0d03e0157936742f0ad11d645f44" title="m0_rpc_session_item\l_failed" alt="" coords="201,341,350,383"/>
+</map>

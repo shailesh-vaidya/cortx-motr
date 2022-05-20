@@ -1,0 +1,14 @@
+<map id="fdmi_pd_fake_release_rep" name="fdmi_pd_fake_release_rep">
+<area shape="rect" id="node2" href="$d1/d38/sd__common_8c.html#a703f0f6af3d987819eba57be5e286ecc" title="fdmi_serv_start_ut" alt="" coords="239,107,370,133"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="457,132,546,159"/>
+<area shape="rect" id="node4" href="$d1/d38/sd__common_8c.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="245,157,364,184"/>
+<area shape="rect" id="node5" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="255,477,354,504"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="467,444,536,471"/>
+<area shape="rect" id="node7" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="431,292,571,319"/>
+<area shape="rect" id="node8" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="228,259,381,301"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga0f16ce4d1bbc5beb48c1ebf0bde4504e" title="m0_rpc_item_remote\l_ep_addr" alt="" coords="429,357,573,398"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="237,528,372,555"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="230,579,379,605"/>
+<area shape="rect" id="node12" href="$d1/d38/sd__common_8c.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="239,208,371,235"/>
+<area shape="rect" id="node13" href="$d1/d38/sd__common_8c.html#ae7a904c8aae47f789ce50ec6fb8ef3c9" title="fdmi_serv_stop_ut" alt="" coords="240,5,369,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="sock_ctl" name="sock_ctl">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga85d8da4dc83ae2334a7422a46b355949" title="sock_done" alt="" coords="264,22,349,48"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga906821f5f2486bc82055c4e23550f9b9" title="sock_init_fd" alt="" coords="124,22,216,48"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga98d09139fd60f6dd4f1200e42646b498" title="ep_balance" alt="" coords="126,72,214,99"/>
+</map>

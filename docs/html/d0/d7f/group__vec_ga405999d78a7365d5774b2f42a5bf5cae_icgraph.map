@@ -1,0 +1,8 @@
+<map id="m0_vec_cursor_init" name="m0_vec_cursor_init">
+<area shape="rect" id="node2" href="$d6/d47/ut_2vec_8c.html#a7a628320de27dfc07684a038db8ebb7a" title="test_vec" alt="" coords="229,5,301,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="188,56,341,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#gaf84e4bef24d1285a0acb734eb508a977" title="m0_ivec_cursor_init" alt="" coords="195,107,334,133"/>
+<area shape="rect" id="node5" href="$d6/d2c/group__stobad.html#gae0efdf3bb59e95bf969cfe996840eab7" title="stob_ad_write_prepare" alt="" coords="389,132,543,159"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga0388ad8e61c3b8e974728533632ec3ae" title="stob_ad_cursors_init" alt="" coords="193,208,336,235"/>
+<area shape="rect" id="node7" href="$d3/d78/group__stoblinux.html#gadd721a55159fb4959a77f5d76b8df043" title="stob_linux_io_launch" alt="" coords="193,259,336,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="session_establish_reply" name="session_establish_reply">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="227,5,379,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga9b7bac260c195f562191fc8132df0632" title="m0_rpc_session_establish\l_reply_received" alt="" coords="215,57,391,98"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="219,123,386,149"/>
+</map>

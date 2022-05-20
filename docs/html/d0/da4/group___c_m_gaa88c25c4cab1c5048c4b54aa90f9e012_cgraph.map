@@ -1,0 +1,11 @@
+<map id="m0_cm_type_register" name="m0_cm_type_register">
+<area shape="rect" id="node2" href="$da/ddc/group__reqhservice.html#ga10b0fe66b2921001cec1da2f5e0530ff" title="m0_reqh_service_type_find" alt="" coords="200,5,381,32"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#gabb668cfa383c0168dd893af4fa2e0507" title="m0_reqh_service_type\l_register" alt="" coords="214,57,367,98"/>
+<area shape="rect" id="node4" href="$d0/db0/group___c_m_s_w.html#ga78ea53869c9e9eef43bd64be2c5ad25f" title="m0_cm_sw_update_init" alt="" coords="211,123,370,149"/>
+<area shape="rect" id="node5" href="$d4/d02/group___c_m_a_g_s_t_o_r_e_f_o_m.html#ga841972eff729c988481914cba5e73a6d" title="m0_cm_ag_store_init" alt="" coords="217,173,364,200"/>
+<area shape="rect" id="node6" href="$d0/da4/group___c_m.html#ga13c3cfd849f3939d8388d8be1842be02" title="m0_cm_cp_pump_init" alt="" coords="216,224,365,251"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="233,275,348,301"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="227,325,355,352"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="246,376,335,403"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="257,427,324,453"/>
+</map>

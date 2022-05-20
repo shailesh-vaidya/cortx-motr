@@ -1,0 +1,12 @@
+<map id="m0_dtm_oper_close" name="m0_dtm_oper_close">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga1d9bb211b3321ed1b6782fee50644560" title="oper_update_unique" alt="" coords="207,5,345,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#gab1781ec0ded969b6dff337e6ffbbf571" title="m0_dtm_remote_add" alt="" coords="204,56,348,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#gae4900bed6f178ab226bcf837f6e36775" title="oper_lock" alt="" coords="237,107,315,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga2cc573b4889d369e6aa21ced8a56d355" title="m0_dtm_oper_invariant" alt="" coords="197,157,355,184"/>
+<area shape="rect" id="node6" href="$db/dc9/group__arith.html#ga498aa747e7e7fe699df64ee42956528c" title="max32u" alt="" coords="242,208,310,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga6bc5b992bf78a04739d81173e3cb7cd5" title="m0_dtm_controlh_update\l_is_close" alt="" coords="192,259,360,301"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#gaa55519740801240fe39dc7e76e3cadb5" title="history_close" alt="" coords="227,325,325,352"/>
+<area shape="rect" id="node9" href="$db/dc9/group__arith.html#gadbb2dee8deb3c443e48a38711aa3c38a" title="max64u" alt="" coords="242,376,310,403"/>
+<area shape="rect" id="node10" href="$d2/d66/group__dtm.html#gaa4c1542d93e185e1d3ac0e1c5f1ed7d1" title="m0_dtm_op_close" alt="" coords="212,427,340,453"/>
+<area shape="rect" id="node11" href="$d2/d66/group__dtm.html#gaa59e1f5cef3b6a2ae9578c805afd848d" title="oper_unlock" alt="" coords="230,477,322,504"/>
+</map>

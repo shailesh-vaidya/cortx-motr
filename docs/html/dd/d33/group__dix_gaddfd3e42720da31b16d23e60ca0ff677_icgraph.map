@@ -1,0 +1,8 @@
+<map id="dix_cli_smgrp" name="dix_cli_smgrp">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gadc747bac71f4ce12be3fc73eed9b7637" title="m0_dix_cli_lock" alt="" coords="172,5,287,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#ga959d696bbd2d6c64fb9af94a2ae8ada9" title="m0_dix_cli_unlock" alt="" coords="165,56,294,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga353bb6c06058e4483a51a1e84016f63b" title="m0_dix_cli_is_locked" alt="" coords="156,107,303,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gadbfead1f18bd92998dffdc9087edfceb" title="m0_dix_cli_fini_lock" alt="" coords="351,132,489,159"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gaa37f8db5e04f393dd51d03098441e2ba" title="dix_cli_ast_post" alt="" coords="171,208,287,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#gae86100ced0bac837e10baef44297fa31" title="dix_cli_start_ast_cb" alt="" coords="160,259,299,285"/>
+</map>

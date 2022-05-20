@@ -1,0 +1,8 @@
+<map id="m0_be_ut_seg_allocate_addr" name="m0_be_ut_seg_allocate_addr">
+<area shape="rect" id="node2" href="$dd/d4c/be_2ut_2main_8c.html#aa2b8c298fb1dadf2979b892515e5b782" title="m0_be_ut_mkfs_multiseg" alt="" coords="258,5,429,32"/>
+<area shape="rect" id="node3" href="$db/d73/ut_2seg_8c.html#a0bcc6eb209596a14a691aefd43e7d47e" title="m0_be_ut_seg_large" alt="" coords="272,56,415,83"/>
+<area shape="rect" id="node4" href="$db/d73/ut_2seg_8c.html#aefb3b0adb7198b6aaf037da06eb655aa" title="m0_be_ut_seg_large\l_multiple" alt="" coords="272,107,415,149"/>
+<area shape="rect" id="node5" href="$dd/d1d/be_2ut_2helper_8c.html#a3fc6a07a41ff597a38e9ebf05fb70373" title="m0_be_ut_backend_cfg\l_default" alt="" coords="263,173,423,214"/>
+<area shape="rect" id="node6" href="$d2/dd6/be_2ut_2helper_8h.html#a3520d7664a315a70a8c5bf172d96dd75" title="m0_be_ut_backend_seg_add2" alt="" coords="244,239,443,265"/>
+<area shape="rect" id="node7" href="$dd/d1d/be_2ut_2helper_8c.html#a80a5b6e36aa3b29deea743705b379b62" title="m0_be_ut_seg_init" alt="" coords="278,289,409,316"/>
+</map>

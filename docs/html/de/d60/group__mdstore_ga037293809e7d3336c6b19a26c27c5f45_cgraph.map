@@ -1,0 +1,8 @@
+<map id="m0_mdstore_init" name="m0_mdstore_init">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="375,58,442,85"/>
+<area shape="rect" id="node3" href="$d3/d8e/group__cob.html#gac4b37a502cabfea87ac769e0e78f0495" title="m0_cob_domain_init" alt="" coords="173,33,315,59"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#ga6dd3a327ade037ce8e3d696625e24582" title="m0_buf_init" alt="" coords="364,159,453,186"/>
+<area shape="rect" id="node5" href="$de/d60/group__mdstore.html#gaaeedea9869d8466dc7e85ca83953e20a" title="m0_mdstore_lookup" alt="" coords="175,83,313,110"/>
+<area shape="rect" id="node6" href="$d3/d8e/group__cob.html#gacac2f3efeeebd9f778f66b9c177f9b68" title="m0_cob_alloc_omgid" alt="" coords="172,134,316,161"/>
+<area shape="rect" id="node7" href="$de/d60/group__mdstore.html#ga8231feb0620852081c1ee75f9e6a29ad" title="m0_mdstore_fini" alt="" coords="185,235,303,262"/>
+</map>

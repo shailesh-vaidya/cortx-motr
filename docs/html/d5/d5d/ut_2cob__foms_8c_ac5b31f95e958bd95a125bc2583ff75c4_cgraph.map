@@ -1,0 +1,8 @@
+<map id="cobfops_populate_internal" name="cobfops_populate_internal">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga764ac4be626bb077ada47b44953b98d7" title="attr" alt="" coords="443,32,484,58"/>
+<area shape="rect" id="node3" href="$d8/dc1/bulkio__common_8c.html#a785e56fe7c2889ed7297d860d337957a" title="cob_attr_default_fill" alt="" coords="243,32,378,58"/>
+<area shape="rect" id="node4" href="$d9/d05/group__bulkclient_d_f_s.html#gafbfe09d0bc74c1a2dbb2dba4ec16e339" title="m0_cobfop_common_get" alt="" coords="227,82,395,109"/>
+<area shape="rect" id="node5" href="$d0/d47/group__fidconvert.html#gaa26e6eda8b9234bad106b30290dedc54" title="m0_fid_gob_make" alt="" coords="247,133,375,160"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="227,184,394,210"/>
+<area shape="rect" id="node7" href="$d4/d4c/md__foms_8c.html#ae84eee6405255260f88f32591a498c81" title="m0_md_cob_mem2wire" alt="" coords="231,234,391,261"/>
+</map>

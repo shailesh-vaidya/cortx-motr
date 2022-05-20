@@ -1,0 +1,23 @@
+<map id="m0_thread_self" name="m0_thread_self">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7c3ea7169d9be7730929c50aa7efbca4" title="m0_addb2_mach_init" alt="" coords="387,49,532,75"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#gafb6568c6a2a4e6accba9e327925e94c2" title="mach_set" alt="" coords="605,99,683,126"/>
+<area shape="rect" id="node4" href="$d0/d9e/group__addb2.html#gad1b6fc93713e2e36989cfb6c4d35a7de" title="mach" alt="" coords="224,49,279,75"/>
+<area shape="rect" id="node5" href="$d4/d56/addb2_2ut_2common_8c.html#aff33b13eaeaea02035a6e9a6a62611cd" title="getmach" alt="" coords="423,150,495,177"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="402,251,517,278"/>
+<area shape="rect" id="node7" href="$d8/d7d/lnet__tm_8c.html#gae28f349113706579939dc63c9338df55" title="nlx_tm_ev_worker" alt="" coords="580,226,708,253"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga7ee00c46fd81d55f45b1aae736ae792b" title="m0_mutex_trylock" alt="" coords="187,302,316,329"/>
+<area shape="rect" id="node9" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="179,353,324,379"/>
+<area shape="rect" id="node10" href="$d0/d04/group__mutex.html#ga3499d6f495de6815f79e3e1b1477bc8b" title="m0_mutex_is_not_locked" alt="" coords="166,403,337,430"/>
+<area shape="rect" id="node11" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="191,454,311,481"/>
+<area shape="rect" id="node12" href="$d9/d44/ut_2thread_8c.html#a8222078f93b31acf9010712490b32428" title="t3" alt="" coords="232,505,271,531"/>
+<area shape="rect" id="node13" href="$d9/d44/ut_2thread_8c.html#a5925a3e4410b02f395661b4ebcccb237" title="test_thread" alt="" coords="416,530,503,557"/>
+<area shape="rect" id="node14" href="$d9/d44/ut_2thread_8c.html#a550304da4f19f92d7ce36c4afe05cbe6" title="adopted" alt="" coords="217,606,285,633"/>
+<area shape="rect" id="node15" href="$d2/d68/lnet__ut_8c.html#acc1fefbbe693171abcc6122454d7d64c" title="test_sync_msg_send_cb2" alt="" coords="164,657,339,683"/>
+<area shape="rect" id="node16" href="$d2/d68/lnet__ut_8c.html#aed32f5c899145480c390856f5d708397" title="test_sync_body" alt="" coords="402,707,517,734"/>
+<area shape="rect" id="node17" href="$d2/d68/lnet__ut_8c.html#ae0ca445522bf8a75e0e3629d28828aa2" title="test_sync_msg_recv_cb1" alt="" coords="166,758,337,785"/>
+<area shape="rect" id="node18" href="$d5/d16/group__netsock.html#ga901a7c7ecafb57cbf6885b57b9272e34" title="buf_done" alt="" coords="214,809,289,835"/>
+<area shape="rect" id="node19" href="$d1/dc1/group__sm.html#gac512d16df82745478221fd73d5665519" title="m0_sm_group_lock_rec" alt="" coords="171,859,331,886"/>
+<area shape="rect" id="node20" href="$d1/dc1/group__sm.html#ga7102afe9847f9673938fa6c3a54b7931" title="m0_sm_group_unlock_rec" alt="" coords="164,910,339,937"/>
+<area shape="rect" id="node21" href="$d3/d78/group__stoblinux.html#ga5cc098d86fab54b468a4091c2c00f8e0" title="stob_ioq_thread_init" alt="" coords="182,961,321,987"/>
+<area shape="rect" id="node22" href="$d3/d78/group__stoblinux.html#gacc15ab3ed154ac9292efa9a9f19c9547" title="stob_ioq_thread" alt="" coords="194,1011,309,1038"/>
+</map>

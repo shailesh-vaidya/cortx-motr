@@ -1,0 +1,9 @@
+<map id="ut_test_ioreq_fop_release" name="ut_test_ioreq_fop_release">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a07897fc86962ea2527d642756e23b200" title="ut_dummy_target_ioreq\l_create" alt="" coords="224,5,383,47"/>
+<area shape="rect" id="node3" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="228,71,379,98"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="250,122,357,149"/>
+<area shape="rect" id="node5" href="$dc/d83/io__req__fop_8c.html#ab12de70e11d5f3605513126b7ad1c5a0" title="ioreq_fop_init" alt="" coords="254,173,353,199"/>
+<area shape="rect" id="node6" href="$dc/d83/io__req__fop_8c.html#ab83b7a22bed4b902c75597a980472a98" title="ioreq_fop_release" alt="" coords="431,198,555,225"/>
+<area shape="rect" id="node7" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="229,274,378,301"/>
+<area shape="rect" id="node8" href="$d0/ddc/motr_2ut_2client_8h.html#acebfa9a61ae2957ace18ca283e0eeb5d" title="ut_dummy_target_ioreq\l_delete" alt="" coords="224,325,383,367"/>
+</map>

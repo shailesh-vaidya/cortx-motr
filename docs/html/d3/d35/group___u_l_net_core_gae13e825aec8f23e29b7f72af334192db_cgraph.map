@@ -1,0 +1,8 @@
+<map id="nlx_core_buf_event_wait" name="nlx_core_buf_event_wait">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="451,12,600,38"/>
+<area shape="rect" id="node3" href="$d6/d8a/group___k_l_net_core.html#ga712e8e4b669e191a59cad0d8827ac5fa" title="nlx_kcore_buf_event_wait" alt="" coords="225,37,398,64"/>
+<area shape="rect" id="node4" href="$d3/d35/group___u_l_net_core.html#gae03491e536a0dfc4dd5231889d5e5d09" title="nlx_ucore_domain_invariant" alt="" coords="220,88,403,114"/>
+<area shape="rect" id="node5" href="$d3/d35/group___u_l_net_core.html#ga30fd6ddb1763e2f0d70bda49050b6ebe" title="nlx_ucore_tm_invariant" alt="" coords="233,138,389,165"/>
+<area shape="rect" id="node6" href="$d9/d7d/group__time.html#ga0167bdd38673a0a704bea7685e3773d2" title="m0_time_to_realtime" alt="" coords="240,189,383,216"/>
+<area shape="rect" id="node7" href="$d3/d35/group___u_l_net_core.html#ga03477b58c5db5c1fe1204969e32685cf" title="nlx_ucore_ioctl" alt="" coords="257,240,366,266"/>
+</map>

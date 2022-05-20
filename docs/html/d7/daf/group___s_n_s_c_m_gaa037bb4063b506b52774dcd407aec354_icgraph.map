@@ -1,0 +1,8 @@
+<map id="m0_sns_cm_cp_buf_nr" name="m0_sns_cm_cp_buf_nr">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga0d927c7cf9e68a3fe1e4ff0350675014" title="rebalance_ag_fini" alt="" coords="230,5,353,32"/>
+<area shape="rect" id="node3" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga4231ca02051531f3d3cbd8f3bc6b0c2c" title="m0_sns_cm_repair_ag\l_inbufs" alt="" coords="420,183,573,225"/>
+<area shape="rect" id="node4" href="$d6/d59/group___s_n_s_c_m_a_g.html#gab18672bf46bffde47c5b30f1f34fde49" title="ag_in_remaining_bufs" alt="" coords="217,56,365,83"/>
+<area shape="rect" id="node5" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga1618bf876b83a38e222d6f0209afb816" title="acc_check_fini" alt="" coords="442,81,551,108"/>
+<area shape="rect" id="node6" href="$d7/daf/group___s_n_s_c_m.html#ga618ec79ee3ba6783b0b2298925f4fb95" title="m0_sns_cm_buf_attach" alt="" coords="211,208,372,235"/>
+<area shape="rect" id="node7" href="$d7/daf/group___s_n_s_c_m.html#ga5dce1493c0d605eebed5435cc7a91e51" title="m0_sns_cm_incoming\l_reserve_bufs" alt="" coords="215,259,367,301"/>
+</map>

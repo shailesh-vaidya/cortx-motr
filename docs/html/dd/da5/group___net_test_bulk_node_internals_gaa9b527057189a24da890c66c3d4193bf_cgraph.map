@@ -1,0 +1,7 @@
+<map id="node_bulk_cmd_stop" name="node_bulk_cmd_stop">
+<area shape="rect" id="node2" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="209,5,335,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="199,56,345,83"/>
+<area shape="rect" id="node4" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="217,107,327,133"/>
+<area shape="rect" id="node5" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="219,157,325,184"/>
+<area shape="rect" id="node6" href="$d7/dbf/group___net_test_service_internals.html#gad863c85807d2c27ca4f8d7b1908ab096" title="m0_net_test_service\l_state_change" alt="" coords="201,209,343,250"/>
+</map>

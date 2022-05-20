@@ -1,0 +1,12 @@
+<map id="pdclust_layout_build" name="pdclust_layout_build">
+<area shape="rect" id="node2" href="$dd/d6d/group__xcode.html#gaa87d0f5d58a435ae036044bab9ea4661" title="enum_id" alt="" coords="233,5,304,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga93e17e15f5e23270b07c6bf65f41e499" title="m0_fid_set" alt="" coords="225,56,312,83"/>
+<area shape="rect" id="node4" href="$d5/daa/group__list__enum.html#ga9fdad053699f310e25c9e8910a15ac60" title="m0_list_enum_build" alt="" coords="200,107,337,133"/>
+<area shape="rect" id="node5" href="$dd/dcc/group__linear__enum.html#ga3c077dd87ced19a1c93a6326b4d210a2" title="m0_linear_enum_build" alt="" coords="193,157,344,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="234,208,303,235"/>
+<area shape="rect" id="node7" href="$d6/de4/layout_2ut_2layout_8c.html#a886753a8e28c44087ec31374b6259a48" title="pdclust_l_build" alt="" coords="215,259,323,285"/>
+<area shape="rect" id="node8" href="$d6/de4/layout_2ut_2layout_8c.html#ab97a4182e9b1e120592a7cd11354ae74" title="list_lookup" alt="" coords="392,284,476,311"/>
+<area shape="rect" id="node9" href="$da/da8/group__layout.html#gaf22f317447e9012315acaab8843d9c1d" title="m0_layout_enum_fini" alt="" coords="196,360,341,387"/>
+<area shape="rect" id="node10" href="$df/d01/group__pdclust.html#gaf6469d781786f85efe0a4152b677aa9b" title="m0_pdl_to_layout" alt="" coords="207,411,331,437"/>
+<area shape="rect" id="node11" href="$da/da8/group__layout.html#ga00f5a95124d79a9b5c80861ec6720932" title="m0_layout_to_enum" alt="" coords="199,461,338,488"/>
+</map>

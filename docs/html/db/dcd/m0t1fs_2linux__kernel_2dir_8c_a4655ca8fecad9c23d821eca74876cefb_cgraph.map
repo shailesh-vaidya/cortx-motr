@@ -1,0 +1,28 @@
+<map id="m0t1fs_ios_cob_op" name="m0t1fs_ios_cob_op">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad87ae68db1f47a3826d3a3e1e376bd4e" title="M0_ENTRY" alt="" coords="447,785,539,812"/>
+<area shape="rect" id="node3" href="$d8/d2b/inode_8c.html#afdb65bd50aec26605e0a85b38c4e8614" title="m0t1fs_inode_fid" alt="" coords="214,44,335,70"/>
+<area shape="rect" id="node4" href="$dd/d7f/group__pool.html#gaa08cc2cc3cf4ef2493632722371a7729" title="m0_pool_version_find" alt="" coords="201,94,349,121"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga2ffe904963370b57917c48d7fc4aaacf" title="m0_reqh_mdpool_service\l_index_to_session" alt="" coords="189,146,360,187"/>
+<area shape="rect" id="node6" href="$d0/d47/group__fidconvert.html#gafe2bd80a83efde34977778bd189b0b8f" title="m0_fid_convert_gob2cob" alt="" coords="409,102,576,129"/>
+<area shape="rect" id="node7" href="$d8/dec/group__poolmach.html#gac631108b8fe2d71bee07ea815deda26c" title="m0_poolmach_gob2cob" alt="" coords="195,212,354,238"/>
+<area shape="rect" id="node8" href="$d0/d47/group__fidconvert.html#ga13ea970c7197fc86d2617e3de9ba500b" title="m0_fid_cob_device_id" alt="" coords="199,313,350,340"/>
+<area shape="rect" id="node9" href="$d2/d1d/super_8c.html#a0cded4339e0196ae13a77ed5fb2e0960" title="m0t1fs_container_id\l_to_session" alt="" coords="205,364,344,406"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="237,430,313,457"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5882dafb81051d6db1c9184196ce59b0" title="M0_LOG" alt="" coords="456,532,529,558"/>
+<area shape="rect" id="node12" href="$d6/d39/group__fop.html#ga3b6bdaa5eab42c940169cdb96cb2f7fc" title="m0_fop_init" alt="" coords="448,346,537,373"/>
+<area shape="rect" id="node13" href="$d6/d39/group__fop.html#ga3b677235d9a47db1cd5d39cec0e45c9e" title="m0_fop_name" alt="" coords="624,481,728,508"/>
+<area shape="rect" id="node14" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a4830d33c5efb23e5d18d0da8660d9b5c" title="cfop_release" alt="" coords="227,633,323,660"/>
+<area shape="rect" id="node15" href="$d6/d39/group__fop.html#gaef54b6768d7bb551b0e8223f365f0943" title="m0_fop_opcode" alt="" coords="435,582,550,609"/>
+<area shape="rect" id="node16" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="448,684,537,710"/>
+<area shape="rect" id="node17" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="458,633,527,660"/>
+<area shape="rect" id="node18" href="$d6/d39/group__fop.html#gab530babf8dcb440aaecdd9ebb67a4c7a" title="m0_fop_data_alloc" alt="" coords="209,836,340,862"/>
+<area shape="rect" id="node19" href="$d6/d39/group__fop.html#gab9513898baaf29424a22ef08d0a8d70d" title="m0_fop_session_machine" alt="" coords="188,886,361,913"/>
+<area shape="rect" id="node20" href="$d9/dc2/group__io__foms.html#ga1a417843776b0a95fb0bee9548661bee" title="m0_is_cob_create_fop" alt="" coords="198,937,351,964"/>
+<area shape="rect" id="node21" href="$d9/dc2/group__io__foms.html#gaa5321cef10ea9d681fcf19578f13117d" title="m0_is_cob_delete_fop" alt="" coords="199,988,351,1014"/>
+<area shape="rect" id="node22" href="$d9/d05/group__bulkclient_d_f_s.html#ga2d4cbfc5e48acb451603521181c8777c" title="m0_is_cob_truncate_fop" alt="" coords="411,1093,575,1120"/>
+<area shape="rect" id="node23" href="$d9/d05/group__bulkclient_d_f_s.html#gaf1de1d1e87acf454944c4b5615560680" title="m0_is_cob_setattr_fop" alt="" coords="197,1089,352,1116"/>
+<area shape="rect" id="node24" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a51dd42230901bc4ef3266694c837d816" title="m0t1fs_ios_cob_fop\l_populate" alt="" coords="205,1140,344,1182"/>
+<area shape="rect" id="node25" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="459,1206,526,1233"/>
+<area shape="rect" id="node26" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="226,1257,323,1284"/>
+<area shape="rect" id="node27" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ac5340447ae4f80028855a3315d9774e8" title="m0_fop_put0_lock" alt="" coords="211,1308,339,1334"/>
+</map>

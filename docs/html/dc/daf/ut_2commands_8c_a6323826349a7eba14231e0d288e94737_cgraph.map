@@ -1,0 +1,9 @@
+<map id="commands_console_loop" name="commands_console_loop">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#gafc360d66f3d8a7ae5f26c87badcd099f" title="m0_net_test_commands\l_send_wait_all" alt="" coords="240,5,405,47"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#ga267303fbdaad9163f717966c1f6ee6b1" title="m0_net_test_commands_send" alt="" coords="223,71,423,98"/>
+<area shape="rect" id="node4" href="$dc/daf/ut_2commands_8c.html#aaabfddbe0056c09898e9dfcedc98e57e" title="timeout_get_abs" alt="" coords="263,122,382,149"/>
+<area shape="rect" id="node5" href="$d9/d7d/group__time.html#ga793cbf6341b841b090d83d0dea2993fa" title="m0_time_now" alt="" coords="471,147,573,174"/>
+<area shape="rect" id="node6" href="$d0/de6/group___net_test_commands_internals.html#gadbec1cc50906a917313bfba98ebd6c23" title="m0_net_test_commands_recv" alt="" coords="224,223,421,250"/>
+<area shape="rect" id="node7" href="$d0/de6/group___net_test_commands_internals.html#gae26273ad4e435fbc05bf6848a9aea6e2" title="m0_net_test_commands\l_recv_enqueue" alt="" coords="240,275,405,316"/>
+<area shape="rect" id="node8" href="$d0/de6/group___net_test_commands_internals.html#ga46882f16857c495634dbc637d7765a6a" title="m0_net_test_commands\l_received_free" alt="" coords="240,340,405,381"/>
+</map>

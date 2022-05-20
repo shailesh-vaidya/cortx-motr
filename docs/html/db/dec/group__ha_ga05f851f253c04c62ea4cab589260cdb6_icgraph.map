@@ -1,0 +1,4 @@
+<map id="ha_link_msg_recv_or_delivery_broadcast" name="ha_link_msg_recv_or_delivery_broadcast">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga69876e8d3f54889d71387ea594e6d6e3" title="ha_link_incoming_fom_tick" alt="" coords="199,5,377,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga2a0c1413d0e24a7423b06a4f26f1e021" title="ha_link_outgoing_fom_tick" alt="" coords="200,56,376,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_clink_add" name="m0_clink_add">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga1a87282e5191ec5bf578185b573f118d" title="m0_chan_is_locked" alt="" coords="159,5,296,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga33b9076472a483cf4bea77359a6cb999" title="m0_clink_is_armed" alt="" coords="160,56,295,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga7857cab453122e30a7ef1d97ae832036" title="clink_is_head" alt="" coords="347,157,448,184"/>
+<area shape="rect" id="node5" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="160,157,295,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga0d26a21bd64aeb3afe3fac9afc57ed01" title="m0_chan_invariant" alt="" coords="162,208,293,235"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga9a93d3ee9ee972e05a47e86e2689dda7" title="m0_addb2_hist_mod" alt="" coords="156,259,299,285"/>
+</map>

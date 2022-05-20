@@ -1,0 +1,15 @@
+<map id="m0_isc_lib_register" name="m0_isc_lib_register">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="239,5,315,32"/>
+<area shape="rect" id="node3" href="$d8/dec/isc_8c.html#ac99225914d1f0cd117a6786a2ed29837" title="isc_spiel_prepare" alt="" coords="216,56,339,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="415,309,484,336"/>
+<area shape="rect" id="node5" href="$d5/d8c/group__reqh.html#ga73d0b372b694790f306ec694b538542f" title="m0_reqh2confc" alt="" coords="222,157,333,184"/>
+<area shape="rect" id="node6" href="$db/dc2/conf_2helpers_8c.html#ae14ed73f930ddb0167a8de92804ebae8" title="m0_confc_root_open" alt="" coords="206,208,349,235"/>
+<area shape="rect" id="node7" href="$d9/d1b/group__confditer.html#gadde966510ed660facf49a677a82e8054" title="m0_conf_diter_next_sync" alt="" coords="192,259,363,285"/>
+<area shape="rect" id="node8" href="$d8/dec/isc_8c.html#a8eaafad2530078ddac9c22ad64bda030" title="conf_obj_is_svc" alt="" coords="219,309,335,336"/>
+<area shape="rect" id="node9" href="$d9/d1b/group__confditer.html#gaddfda2e8e7dd208eb152b28baff6e72c" title="m0_conf_diter_result" alt="" coords="206,360,349,387"/>
+<area shape="rect" id="node10" href="$dd/df9/group__conf__dfspec__obj.html#ga4795b58ee640792c0e43b2301f5a2501" title="m0_conf_obj_grandparent" alt="" coords="192,411,363,437"/>
+<area shape="rect" id="node11" href="$df/d3a/group__spiel-api-fspec-intr.html#ga2b257cc14c17bdcdc33938702ebd6f7d" title="m0_spiel_process_lib_load" alt="" coords="188,461,367,488"/>
+<area shape="rect" id="node12" href="$d9/d1b/group__confditer.html#gade5e67e5e2e060c8d49f597eef74282d" title="m0_conf_diter_fini" alt="" coords="213,512,341,539"/>
+<area shape="rect" id="node13" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="219,563,336,589"/>
+<area shape="rect" id="node14" href="$d8/dec/isc_8c.html#a24739d2137a290484536b7ecddbb2c29" title="isc_spiel_destroy" alt="" coords="216,613,339,640"/>
+</map>

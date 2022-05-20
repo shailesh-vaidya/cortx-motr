@@ -1,0 +1,12 @@
+<map id="m0_motr" name="m0_motr">
+<area shape="rect" id="node17" href="$db/df9/structm0__reqh__context.html" title="{m0_reqh_context\n|+ rc_be_log_size\l+ rc_be_tx_group_tx_nr_max\l+ rc_be_tx_reg_nr_max\l|}" alt="" coords="558,1005,749,1112"/>
+<area shape="rect" id="node2" href="$d8/d7f/structcs__args.html" title="{cs_args\n||}" alt="" coords="1922,160,1990,237"/>
+<area shape="rect" id="node6" href="$d6/d38/structcs__endpoint__and__xprt.html" title="{cs_endpoint_and_xprt\n||}" alt="" coords="1065,463,1215,541"/>
+<area shape="rect" id="node8" href="$d5/da0/structm0__net__xprt.html" title="{m0_net_xprt\n||}" alt="" coords="1215,261,1310,339"/>
+<area shape="rect" id="node12" href="$d1/d3c/structm0__module.html" title="{m0_module\n||}" alt="" coords="1654,160,1743,237"/>
+<area shape="rect" id="node16" href="$d5/d7c/structm0__conf__root.html" title="{m0_conf_root\n||}" alt="" coords="745,463,847,541"/>
+<area shape="rect" id="node14" href="$d4/d8a/structm0__tl.html" title="{m0_tl\n||}" alt="" coords="291,160,346,237"/>
+<area shape="rect" id="node15" href="$d5/d33/structm0__pools__common.html" title="{m0_pools_common\n||}" alt="" coords="586,463,721,541"/>
+<area shape="rect" id="node10" href="$da/de7/structm0__rwlock.html" title="{m0_rwlock\n||}" alt="" coords="1483,463,1568,541"/>
+<area shape="rect" id="node18" href="$df/d62/structm0__motr__ha.html" title="{m0_motr_ha\n||}" alt="" coords="1799,463,1894,541"/>
+</map>

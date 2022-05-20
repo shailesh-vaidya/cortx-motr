@@ -1,0 +1,5 @@
+<map id="cc_block_init" name="cc_block_init">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="159,5,294,32"/>
+<area shape="rect" id="node3" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="152,56,301,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="189,107,264,133"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_op_launch_one" name="m0_op_launch_one">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#aedc431cc7bb190748be8d3c42e971f89" title="m0_op_invariant" alt="" coords="207,5,325,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a2cf73dde6a07cc4aff0eb0ec36733cdb" title="m0_op_entity_invariant" alt="" coords="188,56,344,83"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#abe25a286772ff411fb60202c22fd6cd7" title="m0__op_instance" alt="" coords="204,107,328,133"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#a9171e69f567d98a6d1b03226418c3a9f" title="m0__io_ref_get" alt="" coords="211,157,321,184"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="199,208,333,235"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="214,259,318,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="191,309,341,336"/>
+<area shape="rect" id="node9" href="$d6/db6/motr_2client_8c.html#a91b1099c3a1bc1d0abc891e1fd474882" title="addb2_add_op_attrs" alt="" coords="197,360,335,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="221,411,311,437"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="m0_rpc_client_ctx" name="m0_rpc_client_ctx">
+<area shape="rect" id="node2" href="$d4/d52/structm0__net__buffer__pool.html" title="{m0_net_buffer_pool\n||}" alt="" coords="139,697,274,775"/>
+<area shape="rect" id="node5" href="$db/d78/structm0__net__domain.html" title="{m0_net_domain\n||}" alt="" coords="227,557,341,635"/>
+<area shape="rect" id="node6" href="$d2/de3/structm0__rpc__conn.html" title="{m0_rpc_conn\n||}" alt="" coords="739,697,839,775"/>
+<area shape="rect" id="node7" href="$d9/d8a/structm0__fid.html" title="{m0_fid\n||}" alt="" coords="1091,160,1152,237"/>
+<area shape="rect" id="node8" href="$d9/d36/structm0__rpc__machine.html" title="{m0_rpc_machine\n||}" alt="" coords="829,557,950,635"/>
+<area shape="rect" id="node9" href="$d9/da2/structm0__reqh.html" title="{m0_reqh\n||}" alt="" coords="983,388,1055,465"/>
+<area shape="rect" id="node10" href="$dd/d65/structm0__rpc__session.html" title="{m0_rpc_session\n||}" alt="" coords="617,837,735,915"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rm_on_remote_death_cb" name="rm_on_remote_death_cb">
+<area shape="rect" id="node2" href="$d1/d84/group__queue.html#ga169b71f80ec17478183e19b367cb62e3" title="m0_queue_link_init" alt="" coords="219,5,352,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="228,56,343,83"/>
+<area shape="rect" id="node4" href="$d1/d84/group__queue.html#ga928633b3921125084fd8408b28b38bcd" title="m0_queue_put" alt="" coords="232,107,339,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga9b6b0f486d1c6909065d779631bc4424" title="remote_to_queue" alt="" coords="224,157,347,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="221,208,349,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#gaca28ac1aac3890f57c0fcd2aa15473ee" title="m0_clink_signal" alt="" coords="228,259,343,285"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="stob_linux_io_launch" name="stob_linux_io_launch">
+<area shape="rect" id="node2" href="$d3/d78/group__stoblinux.html#ga82430596bc3fc991516a7a0a882ef891" title="m0_stob_linux_container" alt="" coords="196,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#gad1cd1bdbd3f12cc2ceb53c3c4d718e9c" title="m0_vec_is_empty" alt="" coords="215,56,343,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a5e595e1eb32d34914893f0fdbbcbe7ec" title="M0_ADDB2_ADD" alt="" coords="215,107,343,133"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga405999d78a7365d5774b2f42a5bf5cae" title="m0_vec_cursor_init" alt="" coords="212,157,347,184"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#gad3642ee5a501876929a501a7ad68af86" title="m0_vec_cursor_step" alt="" coords="411,233,553,260"/>
+<area shape="rect" id="node7" href="$d0/d7f/group__vec.html#gaa121fe3251c17d9e5d64fdf465707af3" title="m0_vec_cursor_move" alt="" coords="204,208,355,235"/>
+<area shape="rect" id="node8" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="217,309,342,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="447,385,517,412"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="241,461,317,488"/>
+<area shape="rect" id="node11" href="$d3/d78/group__stoblinux.html#ga65d1117b66337c2f4c935e6dae7999c1" title="ioq_queue_lock" alt="" coords="426,524,538,551"/>
+<area shape="rect" id="node12" href="$d1/d84/group__queue.html#ga169b71f80ec17478183e19b367cb62e3" title="m0_queue_link_init" alt="" coords="213,715,346,741"/>
+<area shape="rect" id="node13" href="$db/dc9/group__arith.html#ga0042dfb071ce7dab50835d2d68b68d3a" title="min32u" alt="" coords="247,765,311,792"/>
+<area shape="rect" id="node14" href="$d3/d78/group__stoblinux.html#ga90e9ca8a3928d3c8861ef9e74adf39d8" title="m0_stob_ioq_bshift" alt="" coords="212,816,347,843"/>
+<area shape="rect" id="node15" href="$d9/d6a/group__stob.html#ga4cf38b6b175b51264bc34ebc4ddda7fc" title="m0_stob_addr_open" alt="" coords="210,867,349,893"/>
+<area shape="rect" id="node16" href="$d9/d6a/group__stob.html#gab57a25cceacab190b43894c14a7cec24" title="m0_stob_fid_get" alt="" coords="220,917,339,944"/>
+<area shape="rect" id="node17" href="$d3/d78/group__stoblinux.html#gab12ecb5dda03e3641f765964fe46635e" title="ioq_queue_put" alt="" coords="429,581,535,608"/>
+<area shape="rect" id="node18" href="$d3/d78/group__stoblinux.html#ga9e1e4329af7e801e68b104da4606abc8" title="ioq_queue_unlock" alt="" coords="419,657,545,684"/>
+<area shape="rect" id="node19" href="$d3/d78/group__stoblinux.html#ga05bac46ba2e41eb36b9cef7b251b364e" title="stob_linux_io_release" alt="" coords="206,360,353,387"/>
+<area shape="rect" id="node20" href="$d3/d78/group__stoblinux.html#ga58b72d62a26b5c87cf71fe39229d74c9" title="ioq_queue_submit" alt="" coords="216,613,343,640"/>
+</map>

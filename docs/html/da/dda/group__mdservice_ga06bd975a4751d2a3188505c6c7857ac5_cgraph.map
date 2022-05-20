@@ -1,0 +1,8 @@
+<map id="m0_mds_register" name="m0_mds_register">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="221,5,287,32"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#gabb668cfa383c0168dd893af4fa2e0507" title="m0_reqh_service_type\l_register" alt="" coords="177,57,331,98"/>
+<area shape="rect" id="node4" href="$df/d1d/fsync__fops_8c.html#a929279cf08662994d10a638b2ee62f75" title="m0_mdservice_fsync\l_fop_init" alt="" coords="181,122,327,163"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="380,159,447,185"/>
+<area shape="rect" id="node6" href="$d5/d42/md__fops_8c.html#a4ff4b50ffadd72de7573c4a568476cb2" title="m0_mdservice_fop_init" alt="" coords="176,239,332,265"/>
+<area shape="rect" id="node7" href="$df/d1d/fsync__fops_8c.html#a4c642fdd34e2c2a51ef228434ed1dbb4" title="m0_mdservice_fsync\l_fop_fini" alt="" coords="181,290,327,331"/>
+</map>

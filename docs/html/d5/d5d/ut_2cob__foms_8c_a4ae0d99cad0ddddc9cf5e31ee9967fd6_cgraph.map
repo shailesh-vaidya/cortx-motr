@@ -1,0 +1,7 @@
+<map id="cobfoms_utinit" name="cobfoms_utinit">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gae86e67467640166293aea9be71c9f156" title="m0_net_xprt_default_get" alt="" coords="160,5,325,32"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#ga8532c363f3a981875ba491b12df45616" title="m0_net_domain_init" alt="" coords="173,56,312,83"/>
+<area shape="rect" id="node4" href="$dc/d6b/rpclib_8c.html#a02d6a8c6c4439e6f6c89a35a4ec9ebbb" title="m0_rpc_server_start" alt="" coords="172,107,313,133"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga4e628e6112d041b817bd15d8771f68bc" title="m0_fom_type_init" alt="" coords="180,157,305,184"/>
+<area shape="rect" id="node6" href="$dc/d6b/rpclib_8c.html#a68aec3e4b9224917c8228a746e45323b" title="m0_rpc_client_start" alt="" coords="175,208,311,235"/>
+</map>

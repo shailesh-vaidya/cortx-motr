@@ -1,0 +1,15 @@
+<map id="m0_dtm0_ut_drlink_simple" name="m0_dtm0_ut_drlink_simple">
+<area shape="rect" id="node2" href="$da/d54/group__dtm0.html#gab8c91649da39638f0bb5ce5d346dd8ae" title="m0_ut_dtm0_helper_init" alt="" coords="231,5,391,32"/>
+<area shape="rect" id="node3" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="257,56,364,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga09afbff8ab20ddc0cc9334a2388611fc" title="m0_be_queue_init" alt="" coords="247,107,374,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="439,157,508,184"/>
+<area shape="rect" id="node6" href="$db/d1b/drlink_8c.html#a0a9f2908ccda3a3c1d9426433efe05ba" title="m0_dtm0_req_post" alt="" coords="244,208,377,235"/>
+<area shape="rect" id="node7" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga856665dad2330174f05bf956c1e0e1dd" title="m0_be_queue_lock" alt="" coords="243,259,378,285"/>
+<area shape="rect" id="node8" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaac6b4483789025d5f38f5b6df986a938" title="m0_be_queue_unlock" alt="" coords="237,309,385,336"/>
+<area shape="rect" id="node9" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gacd8f06f36ca8c11cb684e1c9a2b494b4" title="m0_be_op_wait" alt="" coords="254,360,367,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="251,411,370,437"/>
+<area shape="rect" id="node11" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="269,461,352,488"/>
+<area shape="rect" id="node12" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="257,512,364,539"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#gabbca48a9fef1c94d78bb1b6552eaa667" title="m0_be_queue_fini" alt="" coords="247,563,374,589"/>
+<area shape="rect" id="node14" href="$da/d54/group__dtm0.html#ga957794824b62f854b83c0e105b59a15f" title="m0_ut_dtm0_helper_fini" alt="" coords="231,613,391,640"/>
+</map>

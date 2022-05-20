@@ -1,0 +1,11 @@
+<map id="m0_be_queue_lock" name="m0_be_queue_lock">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga17a4ee816a67af7691cf03e3158cef44" title="be_tx_bulk_queues_drain" alt="" coords="192,5,361,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gad2b0b927dba89d39fba8bb04bdfd3e35" title="be_tx_bulk_queue_get_cb" alt="" coords="190,56,363,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga406405cd8bf5188f18b66862e2fccffc" title="be_tx_bulk_init_cb" alt="" coords="211,107,342,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga664ca6b81055daa61ee9ec34f479295a" title="m0_be_tx_bulk_put" alt="" coords="209,157,344,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga1c927a21b3ea62e173f6498a94f3aeec" title="m0_be_tx_bulk_end" alt="" coords="207,208,346,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga6e25ca4087f002ef922c1d9bb3a0bb28" title="be_ut_tx_bulk_parallel\l_thread" alt="" coords="201,259,352,301"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga6c1e69516ec63777b4942ed562c1bab6" title="m0_be_ut_tx_bulk_parallel_1_15" alt="" coords="413,296,624,323"/>
+<area shape="rect" id="node9" href="$d4/d89/dtm0_2fop_8c.html#a628a95bcb0ec181e0fe9aa25c63be648" title="dtm0_tmsg_fom_tick" alt="" coords="205,376,349,403"/>
+<area shape="rect" id="node10" href="$da/d54/group__dtm0.html#gae1da688304622eafad50d63c16f2fd30" title="m0_dtm0_ut_drlink_simple" alt="" coords="188,427,365,453"/>
+</map>

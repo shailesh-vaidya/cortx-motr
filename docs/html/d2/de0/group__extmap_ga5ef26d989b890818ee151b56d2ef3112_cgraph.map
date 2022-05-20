@@ -1,0 +1,15 @@
+<map id="m0_be_emap_merge" name="m0_be_emap_merge">
+<area shape="rect" id="node2" href="$d2/de0/group__extmap.html#ga3fa6551aa23d73f52b3f383beee629c1" title="m0_be_emap_ext_is_last" alt="" coords="196,5,367,32"/>
+<area shape="rect" id="node3" href="$d8/d54/group__ext.html#ga18670d89c34ca640b06a1d77c2042fb1" title="m0_ext_length" alt="" coords="228,56,335,83"/>
+<area shape="rect" id="node4" href="$d2/de0/group__extmap.html#ga4aa11395b1cd543b40aee8f3f84684d8" title="be_emap_invariant" alt="" coords="216,107,347,133"/>
+<area shape="rect" id="node5" href="$d2/de0/group__extmap.html#gac3b58cfb798c60b358e7c5d8298eee6b" title="emap_rwlock" alt="" coords="415,132,513,159"/>
+<area shape="rect" id="node6" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gaa2747641ae1c8992849519c34923ada9" title="m0_be_op_active" alt="" coords="219,208,343,235"/>
+<area shape="rect" id="node7" href="$db/ded/group__rwlock.html#gac2c1bb739a30902df95b6cee2d2cda93" title="m0_rwlock_write_lock" alt="" coords="206,259,357,285"/>
+<area shape="rect" id="node8" href="$d2/de0/group__extmap.html#ga5eba2a4f2e7d9a90034cc75e2ebe0d9a" title="emap_it_pack" alt="" coords="230,309,333,336"/>
+<area shape="rect" id="node9" href="$d2/de0/group__extmap.html#gac954be4b0a8eadf68cbb8e9f085dff1d" title="delete_wrapper" alt="" coords="226,360,337,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gabc8c6d76d9a2c74983450a1e2ffb3064" title="m0_be_btree_insert" alt="" coords="213,411,349,437"/>
+<area shape="rect" id="node11" href="$d2/de0/group__extmap.html#ga33a90b1e4a1dbe2782e97ab2ab5e0696" title="emap_it_get" alt="" coords="235,461,328,488"/>
+<area shape="rect" id="node12" href="$d2/de0/group__extmap.html#ga9322a2d7d3bf9c2dcb3b41ff559ab8e8" title="update_next_segment" alt="" coords="206,512,357,539"/>
+<area shape="rect" id="node13" href="$db/ded/group__rwlock.html#ga473faffafd1c3933a6b167efec33c8ec" title="m0_rwlock_write_unlock" alt="" coords="199,563,364,589"/>
+<area shape="rect" id="node14" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga05416d4321b5a6f5c974441517d546fd" title="m0_be_op_done" alt="" coords="223,613,340,640"/>
+</map>

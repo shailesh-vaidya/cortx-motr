@@ -1,0 +1,7 @@
+<map id="rpc_at_bulk_nb_alloc" name="rpc_at_bulk_nb_alloc">
+<area shape="rect" id="node2" href="$d7/df1/group__rpc-at.html#ga77c56ae70f4a990ae2c2109da03831f7" title="rpc_at_bulk" alt="" coords="237,5,326,32"/>
+<area shape="rect" id="node3" href="$d7/df1/group__rpc-at.html#ga199731a99b2b726a02eeb62bac79af95" title="rpc_at_bulk_segs_nr" alt="" coords="210,56,353,83"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga5503e16e20bb465fbd9fa574f591e613" title="m0_bufvec_alloc_aligned" alt="" coords="197,107,365,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="219,157,344,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="248,208,315,235"/>
+</map>

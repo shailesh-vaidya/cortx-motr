@@ -1,0 +1,26 @@
+<map id="m0_reqh_service_type_unregister" name="m0_reqh_service_type_unregister">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga0394950c0302da0428fa1205ebca93c2" title="m0_addb2_service_module_fini" alt="" coords="207,5,411,32"/>
+<area shape="rect" id="node3" href="$df/d03/group__cas__dfspec.html#ga5171d7df69839269b7e855cc5b3273f6" title="m0_cas_svc_fini" alt="" coords="249,56,369,83"/>
+<area shape="rect" id="node4" href="$dc/d7a/dtm0_2service_8h.html#ad0068d86d6ad7dc20e1e175521bc4e0c" title="m0_dtm0_stype_fini" alt="" coords="239,107,378,133"/>
+<area shape="rect" id="node5" href="$d3/d97/group__fdmi__main.html#ga802b33f9fe932d29e14bad0b4d8544c9" title="m0_fdms_unregister" alt="" coords="239,157,379,184"/>
+<area shape="rect" id="node6" href="$d1/d84/group__rpc__service.html#gaf4a58b5f8ed9ec62ddb4a400ad5651a6" title="m0_rpc_service_unregister" alt="" coords="219,208,398,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gac5800c60af64bfd12f5a7c67e12b62f9" title="m0_be_txs_unregister" alt="" coords="233,259,384,285"/>
+<area shape="rect" id="node8" href="$d0/da4/group___c_m.html#ga1736855085f9b748a4cf936168035690" title="m0_cm_type_deregister" alt="" coords="228,309,389,336"/>
+<area shape="rect" id="node9" href="$df/d1e/group__confd__dfspec.html#ga8fbf6d092080d9623f2511368f34554d" title="m0_confd_unregister" alt="" coords="237,360,380,387"/>
+<area shape="rect" id="node10" href="$d2/d66/group__dtm.html#gaf23a7b046c09f3524848e5e17b821c33" title="rpc_fop_fom_fini" alt="" coords="249,411,368,437"/>
+<area shape="rect" id="node11" href="$d9/de5/group__fis-dfspec.html#ga9148484750bc5c11945a56f88d0539e6" title="m0_fis_unregister" alt="" coords="246,461,371,488"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga5009f3045b112f0c6db5857b039db383" title="m0_fom_simples_fini" alt="" coords="236,512,381,539"/>
+<area shape="rect" id="node13" href="$d2/d76/fop_2ub_2ub_8c.html#a18d1ba506594ac7bdd8b528411a1acce" title="_fini" alt="" coords="285,563,332,589"/>
+<area shape="rect" id="node14" href="$d8/dd3/long__lock__ut_8c.html#a140224633c58496da45e284e9fb2dbfe" title="test_long_lock_fini" alt="" coords="243,613,374,640"/>
+<area shape="rect" id="node15" href="$d3/df2/fop_2ut_2stats_2stats__ut_8c.html#a8d237a8af1e93485a46b9a985ef2f5ee" title="test_stats_fini" alt="" coords="257,664,361,691"/>
+<area shape="rect" id="node16" href="$db/dec/group__ha.html#gabf9ca1857aee826f5b07f8fc088eb357" title="m0_ha_entrypoint_mod_fini" alt="" coords="218,715,399,741"/>
+<area shape="rect" id="node17" href="$db/dec/group__ha.html#ga664d149777b32c0069ccab268f756401" title="m0_ha_link_service\l_mod_fini" alt="" coords="240,766,377,807"/>
+<area shape="rect" id="node18" href="$db/d93/group___d_l_d__bulk__server__fspec__ioservice__operations.html#ga841896b8ecbb8166ef7ce1e47ee15426" title="m0_ios_unregister" alt="" coords="245,832,373,859"/>
+<area shape="rect" id="node19" href="$de/d32/isc__service_8h.html#a62288fe35827a3fdf67fa2cb73312a49" title="m0_iscs_unregister" alt="" coords="241,883,376,909"/>
+<area shape="rect" id="node20" href="$da/dda/group__mdservice.html#ga32696be9afd46f1797e27be1ddc5b57e" title="m0_mds_unregister" alt="" coords="241,933,377,960"/>
+<area shape="rect" id="node21" href="$de/def/group__rm__service.html#gacb23a637d1444f0e40681db52ea0e0c7" title="m0_rms_unregister" alt="" coords="242,984,375,1011"/>
+<area shape="rect" id="node22" href="$d9/d76/group__ss__svc.html#gaf0dbb4a7dcfa15c8d954e67f1344bca1" title="m0_ss_svc_init" alt="" coords="252,1035,365,1061"/>
+<area shape="rect" id="node23" href="$d9/d76/group__ss__svc.html#gadcc793bcb0ba5486fa2a7f4777d68422" title="m0_ss_svc_fini" alt="" coords="252,1085,365,1112"/>
+<area shape="rect" id="node24" href="$dc/de4/group__stats__svc.html#ga9c8aa866a5914c0223f77d5ffbade027" title="m0_stats_svc_fini" alt="" coords="245,1136,373,1163"/>
+<area shape="rect" id="node25" href="$d4/d51/cs__service_8h.html#a1a15dc53dc91656462a8e23ef5289414" title="m0_cs_default_stypes_fini" alt="" coords="220,1187,397,1213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="btree_node_free_credit" name="btree_node_free_credit">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa209b926142b25ca8f95b4cb950d6007" title="delete_credit" alt="" coords="245,5,341,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga385c366d0f032b242058c668d10e7cf7" title="m0_be_btree_destroy\l_credit" alt="" coords="220,57,367,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf028f435a7c37848e266d5e43c435a7d" title="m0_be_btree_clear_credit" alt="" coords="208,123,379,149"/>
+</map>

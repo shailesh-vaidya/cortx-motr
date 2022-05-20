@@ -1,0 +1,6 @@
+<map id="lustre_copy_name" name="lustre_copy_name">
+<area shape="rect" id="node2" href="$de/d16/lustre_8c.html#a615984cee3bee16d0f957a2061e63897" title="lustre_create_fop" alt="" coords="185,5,307,32"/>
+<area shape="rect" id="node3" href="$de/d16/lustre_8c.html#a2cc54ffed47ec7e39d74e6da5e5c39ec" title="lustre_link_fop" alt="" coords="193,56,299,83"/>
+<area shape="rect" id="node4" href="$de/d16/lustre_8c.html#a8237d7d066a234da9bfdf94aa38dfad7" title="lustre_unlink_fop" alt="" coords="186,107,306,133"/>
+<area shape="rect" id="node5" href="$de/d16/lustre_8c.html#afb2af5b430c79d34593b1355fa5e9528" title="lustre_rename_fop" alt="" coords="181,157,311,184"/>
+</map>

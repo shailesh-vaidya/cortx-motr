@@ -1,0 +1,6 @@
+<map id="atut__bufdata_alloc" name="atut__bufdata_alloc">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga81e378ffda0b14c47f14b6f2336a6183" title="m0_net_domain_get_max\l_buffer_segment_size" alt="" coords="188,5,359,47"/>
+<area shape="rect" id="node3" href="$d8/d64/group__buf.html#ga5eecf2781f894768488bbed1d17c33f9" title="m0_buf_alloc" alt="" coords="224,71,323,98"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="212,122,335,149"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#gaed980248efceea6b324e816c19636fe9" title="m0_pageshift_get" alt="" coords="211,173,336,199"/>
+</map>

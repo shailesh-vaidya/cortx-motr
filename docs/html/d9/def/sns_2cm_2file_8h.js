@@ -1,0 +1,37 @@
+var sns_2cm_2file_8h =
+[
+    [ "__MOTR_SNS_CM_FILE_H__", "d9/def/sns_2cm_2file_8h.html#aed391eee4cb65607ac6e4f3cddc704b7", null ],
+    [ "m0_sns_cm_fctx_state", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaa132f232baee3e252177a94adb430f24", [
+      [ "M0_SCFS_INIT", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24abc197c3da359cc65551b677ea48701d0", null ],
+      [ "M0_SCFS_LOCK_WAIT", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24a09c18a577e69b61f8e1c64c7f67ab572", null ],
+      [ "M0_SCFS_LOCKED", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24ad928ebab829109b879c1316c8ded0259", null ],
+      [ "M0_SCFS_ATTR_FETCH", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24adb5ee04698dbf272ea48a803c4e7666c", null ],
+      [ "M0_SCFS_ATTR_FETCHED", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24a242025aacf8311d67bfa76f5ea5f08f7", null ],
+      [ "M0_SCFS_LAYOUT_FETCH", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24ae6456b310727b1ec5ddb217bf20f9d81", null ],
+      [ "M0_SCFS_LAYOUT_FETCHED", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24afd5a63a356ce0c2641113925d9ab73c4", null ],
+      [ "M0_SCFS_FINI", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24a70232b1f5c6b165780cc572f661a937d", null ],
+      [ "M0_SCFS_NR", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ggaa132f232baee3e252177a94adb430f24ab08fd82b814f5ad6d93c36effa626690", null ]
+    ] ],
+    [ "M0_HT_DECLARE", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaee410d4790415d04e00958d360ebadd8", null ],
+    [ "M0_HT_DESCR_DECLARE", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga8bbb231d7ac10c651145c871a19b3afb", null ],
+    [ "m0_sns_cm_fctx_cleanup", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab4dc363d0a78c7b254ae387743ea0e9b", null ],
+    [ "m0_sns_cm_fctx_fini", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga708072a80a483ca6899fc239f819f2ba", null ],
+    [ "m0_sns_cm_fctx_get", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga10beb84e95775a91798ce8aeb9374209", null ],
+    [ "m0_sns_cm_fctx_init", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga69fc05d71127f15be58de58ee6edafca", null ],
+    [ "m0_sns_cm_fctx_locate", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3e87b2072235352f79cd615d0b968a55", null ],
+    [ "m0_sns_cm_fctx_lock", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga619801ca274cccae0e1b1e5e5c80cc15", null ],
+    [ "m0_sns_cm_fctx_put", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga37f47f5c55fabdd69ed85f69c84eadde", null ],
+    [ "m0_sns_cm_fctx_state_get", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga1394c9bec34b9008e4f8d47febf873c9", null ],
+    [ "m0_sns_cm_fctx_unlock", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gab28c3c018865773f127786cbed2fe546", null ],
+    [ "m0_sns_cm_file_attr_and_layout", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga7a3609633b963d21923a7287e9d9af8f", null ],
+    [ "m0_sns_cm_file_attr_and_layout_wait", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaa071f4154497ebb5cfb94aef90280160", null ],
+    [ "m0_sns_cm_file_bwd_map", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga48db503783d14048a5a5aef21e3cfb31", null ],
+    [ "m0_sns_cm_file_data_units", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga87018806bc2ee6030c744a55c3e45da5", null ],
+    [ "m0_sns_cm_file_fwd_map", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga825630e73647053c800600f8a691263f", null ],
+    [ "m0_sns_cm_file_lock", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gac8efc2e3606e20adb931bdf4e4c9ea29", null ],
+    [ "m0_sns_cm_file_lock_wait", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga0057296c5a78cb5d7b4004656e8cd7d7", null ],
+    [ "m0_sns_cm_file_unit_is_EOF", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gae5eec9a5c3e7257ccdfa6d99eb2086ff", null ],
+    [ "m0_sns_cm_file_unlock", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaa7f1bed289bc2f54875706cd733ccb76", null ],
+    [ "m0_sns_cm_flock_resource_set", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga03582601c62845d1690760d28669ce38", null ],
+    [ "m0_sns_cm_pool_version_get", "d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga087d66e2752657762ee0b2f0b64931c5", null ]
+];

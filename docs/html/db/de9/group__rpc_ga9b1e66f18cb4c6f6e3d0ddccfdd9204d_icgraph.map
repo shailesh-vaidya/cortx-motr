@@ -1,0 +1,16 @@
+<map id="m0_rpc_item_size" name="m0_rpc_item_size">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaa883a11c373148087db47df15f0515b1" title="itemq_nr_bytes_acc" alt="" coords="211,5,350,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gabad6ed88c6e9502665130a07b5d94c80" title="frm_insert" alt="" coords="241,56,321,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga34f436a05b7ff78c20e074fc3907ac61" title="item_will_exceed_packet_size" alt="" coords="181,107,380,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gafc2d206690b3e288dc1ce7ff6c2b5cbe" title="frm_remove" alt="" coords="235,157,326,184"/>
+<area shape="rect" id="node6" href="$d6/d63/ut_2formation2_8c.html#a81878cb1960526d11e5b7b2a2385394c" title="perform_test2" alt="" coords="229,208,332,235"/>
+<area shape="rect" id="node7" href="$d6/d63/ut_2formation2_8c.html#a65c8ef32c9156fab2694274b1a62b898" title="frm_do_test5" alt="" coords="231,259,330,285"/>
+<area shape="rect" id="node8" href="$d6/d63/ut_2formation2_8c.html#a7aef45923200db229d8f4f0b0fa2e606" title="frm_test7" alt="" coords="242,309,319,336"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga3e18dbd9818d8b7e331f30c1d4bf6346" title="get_item" alt="" coords="245,360,317,387"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="197,461,364,488"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#ga536eb429cebfab138e4a062d0f178bed" title="m0_rpc_packet_add_item" alt="" coords="439,424,610,451"/>
+<area shape="rect" id="node12" href="$db/de9/group__rpc.html#gad6dc1652528ac2f81e1149ece53a657d" title="m0_rpc_packet_remove_item" alt="" coords="428,487,621,513"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#gab6406484e4b73d1c6a270d88083b7fc9" title="m0_rpc_post" alt="" coords="476,588,573,615"/>
+<area shape="rect" id="node14" href="$df/db4/group__rpc__session.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="206,613,355,640"/>
+<area shape="rect" id="node15" href="$db/de9/group__rpc.html#gacbfe74a884f1912395ef2a9bde8ad927" title="m0_rpc_reply_post" alt="" coords="215,664,347,691"/>
+</map>

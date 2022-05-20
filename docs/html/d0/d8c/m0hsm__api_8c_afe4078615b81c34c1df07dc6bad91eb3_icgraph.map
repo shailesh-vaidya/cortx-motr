@@ -1,0 +1,5 @@
+<map id="write_blocks" name="write_blocks">
+<area shape="rect" id="node2" href="$d0/d8c/m0hsm__api_8c.html#ad4594f70abb8ccdb635591adcad4eb87" title="m0hsm_test_write" alt="" coords="148,5,277,32"/>
+<area shape="rect" id="node3" href="$d2/d5a/m0hsm__api_8h.html#a11ee6c82d9db6b1ecfc94b2168ab66c4" title="m0hsm_pwrite" alt="" coords="159,56,266,83"/>
+<area shape="rect" id="node4" href="$d0/d8c/m0hsm__api_8c.html#a69bbd1affd032d1fe2feab9a2a1e24ee" title="copy_extent_data" alt="" coords="150,107,275,133"/>
+</map>

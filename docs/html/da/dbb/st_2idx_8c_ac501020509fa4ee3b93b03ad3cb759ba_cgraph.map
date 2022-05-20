@@ -1,0 +1,7 @@
+<map id="idx_query_put_not_existent_index" name="idx_query_put_not_existent_index">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga3e692e03c40d93a7147c033302ca29b4" title="oid_get" alt="" coords="280,5,344,32"/>
+<area shape="rect" id="node3" href="$da/dbb/st_2idx_8c.html#a89928b1fb7a02568d3b1d8e25de1491d" title="idx_bufvec_alloc" alt="" coords="253,56,371,83"/>
+<area shape="rect" id="node4" href="$da/dbb/st_2idx_8c.html#a5dc68869934cdd0a64c491b303ece7b1" title="idx_fill_kv_pairs" alt="" coords="255,107,369,133"/>
+<area shape="rect" id="node5" href="$da/dbb/st_2idx_8c.html#a5feba7936f44b7dd6fec0fcb418f4ea4" title="idx_do_insert_kv_pairs" alt="" coords="235,157,389,184"/>
+<area shape="rect" id="node6" href="$da/dbb/st_2idx_8c.html#ae34ab2553374eef9a059b5ce81d847c7" title="idx_bufvec_free" alt="" coords="255,208,369,235"/>
+</map>

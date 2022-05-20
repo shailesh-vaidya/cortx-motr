@@ -1,0 +1,7 @@
+<map id="nlx_core_tm_is_locked" name="nlx_core_tm_is_locked">
+<area shape="rect" id="node2" href="$d8/de0/group___l_net_core.html#ga4f35331180a28c451426d8565dc1d905" title="nlx_core_bevq_provision" alt="" coords="215,5,381,32"/>
+<area shape="rect" id="node3" href="$d8/de0/group___l_net_core.html#ga49d9c45a6a45d18ea72eab307a19af65" title="nlx_core_bevq_release" alt="" coords="221,56,375,83"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#gaea683e854b7a488bec4543247128289d" title="nlx_core_buf_event_get" alt="" coords="218,107,378,133"/>
+<area shape="rect" id="node5" href="$d8/de0/group___l_net_core.html#gaf8b803bcbff74c0d50e0efaebfd5d5ea" title="nlx_core_buf_desc_encode" alt="" coords="208,157,388,184"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#ga4af40934b690775bf5c1844e078e374c" title="nlx_core_buf_desc_decode" alt="" coords="208,208,388,235"/>
+</map>

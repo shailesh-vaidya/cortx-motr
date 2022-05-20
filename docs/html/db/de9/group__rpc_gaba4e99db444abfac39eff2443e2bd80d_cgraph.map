@@ -1,0 +1,9 @@
+<map id="m0_rpc_packet_decode" name="m0_rpc_packet_decode">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaf657e45b5b043899b2f57099e1624bc3" title="m0_rpc_packet_invariant" alt="" coords="423,19,590,45"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="241,157,347,184"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="217,208,371,235"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#ga0519cf756af050c693a2b1ddc67394ef" title="m0_bufvec_cursor_move" alt="" coords="423,284,591,311"/>
+<area shape="rect" id="node6" href="$d0/d7f/group__vec.html#gae76766a88069edeffeb892b1efe79d09" title="m0_bufvec_cursor_addr" alt="" coords="213,309,375,336"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gae5fb19175cf9aa8559ef2e812386e719" title="m0_rpc_packet_decode\l_using_cursor" alt="" coords="214,41,374,82"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="473,88,540,115"/>
+</map>

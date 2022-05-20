@@ -1,0 +1,9 @@
+<map id="multi_values_insert" name="multi_values_insert">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#ga1021d79d5c4d6402322996c6252aad79" title="cur_fail" alt="" coords="215,5,279,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#gac287ae0db3ed46153c2cb94bb29dfdf8" title="multi_insert" alt="" coords="203,56,292,83"/>
+<area shape="rect" id="node4" href="$d4/d44/group__cas.html#ga34e9d711becf24afef93a5764c67783c" title="multi_lookup" alt="" coords="200,107,295,133"/>
+<area shape="rect" id="node5" href="$d4/d44/group__cas.html#ga1c1d724c643a30b2158d40ab147e5e41" title="multi_delete" alt="" coords="201,157,293,184"/>
+<area shape="rect" id="node6" href="$d4/d44/group__cas.html#ga2d3fcd311cd2737ec3a68e0c8dac6c62" title="multi_insert_fail" alt="" coords="191,208,304,235"/>
+<area shape="rect" id="node7" href="$d4/d44/group__cas.html#gac19d5ff6050d8641db9e8226417c95d3" title="multi_lookup_fail" alt="" coords="188,259,307,285"/>
+<area shape="rect" id="node8" href="$d4/d44/group__cas.html#ga09353b2d32318277c55f5964876b62ec" title="multi_delete_fail" alt="" coords="189,309,305,336"/>
+</map>

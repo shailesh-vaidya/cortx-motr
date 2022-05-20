@@ -1,0 +1,5 @@
+<map id="volatile_log_init" name="volatile_log_init">
+<area shape="rect" id="node2" href="$de/d0c/group___d_t_m0_internals.html#ga16dbe31766f190d99c396fe49f3dfdb4" title="m0_be_dtm0_log_alloc" alt="" coords="164,5,319,32"/>
+<area shape="rect" id="node3" href="$de/d0c/group___d_t_m0_internals.html#ga6cf18fa38c0b73023cfec5077c0e192c" title="m0_be_dtm0_log_init" alt="" coords="169,56,314,83"/>
+<area shape="rect" id="node4" href="$de/d0c/group___d_t_m0_internals.html#ga96de5e607ccac4d7d0e05370a34e9c61" title="m0_be_dtm0_log_free" alt="" coords="166,107,317,133"/>
+</map>

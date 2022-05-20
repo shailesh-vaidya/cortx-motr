@@ -1,0 +1,5 @@
+<map id="mem_wi_add" name="mem_wi_add">
+<area shape="rect" id="node2" href="$db/d8b/group__bulkmem.html#ga40c963907d4a07942052cff19c6cb7c3" title="mem_wf_active_bulk" alt="" coords="152,5,297,32"/>
+<area shape="rect" id="node3" href="$db/d8b/group__bulkmem.html#gaad376667dea0f3c969e95125189ea2c3" title="mem_wf_msg_send" alt="" coords="155,56,294,83"/>
+<area shape="rect" id="node4" href="$db/d8b/group__bulkmem.html#ga2574205a220ed4b20504b49f52272402" title="mem_post_error" alt="" coords="167,107,283,133"/>
+</map>

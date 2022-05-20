@@ -1,0 +1,5 @@
+<map id="ha_global_lock" name="ha_global_lock">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gab65c7e0cbe52183aceb6ff798474757f" title="m0_ha_client_add" alt="" coords="173,5,299,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga58ee0db498285197a79e3df09a11528b" title="m0_ha_client_del" alt="" coords="175,56,297,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga9fb044f8a3edaa19d1304f9ac96e79c3" title="m0_ha_clients_iterate" alt="" coords="161,107,311,133"/>
+</map>

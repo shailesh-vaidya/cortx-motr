@@ -1,0 +1,8 @@
+<map id="sim_chan_broadcast" name="sim_chan_broadcast">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gac989dcecb0503d47da5047a0c7ef3caf" title="net_srv_fini" alt="" coords="211,5,300,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#gada0ee5eaed82f58be5de984eee72dba2" title="net_leave" alt="" coords="216,56,295,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga352b46bf293ad2d99ca583d273437803" title="client_pageout" alt="" coords="202,107,309,133"/>
+<area shape="rect" id="node5" href="$dc/d7e/group__desim.html#ga7392588ec28c54fca846bbdbe8042c7c" title="client_write_loop" alt="" coords="196,157,315,184"/>
+<area shape="rect" id="node6" href="$dc/d7e/group__desim.html#ga223352d3b6fa9bcc53c9fe60e12c977c" title="client_fini" alt="" coords="217,208,294,235"/>
+<area shape="rect" id="node7" href="$dc/d7e/group__desim.html#gad92de385572ca158fd11c9d16273a3cb" title="el_end_io" alt="" coords="217,259,294,285"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_init" name="m0_init">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Test server for m0console. " alt="" coords="171,5,222,32"/>
+<area shape="rect" id="node3" href="$d9/de6/group__console.html#gaf4c0a94987fb6e56ab1a8a3a2a37aef1" title="console_init" alt="" coords="151,56,242,83"/>
+<area shape="rect" id="node4" href="$d0/d0a/fdmi__echo_8c.html#ae67aac42ef31467a0ed32ac0b7617303" title="run_server" alt="" coords="155,107,238,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#ga2fa9a2abaa1133ca86537e60e89ea337" title="m0_halon_interface_init" alt="" coords="117,157,276,184"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga9f6880d29eac5da71e31407a592b880a" title="m0_client_init" alt="" coords="145,208,248,235"/>
+<area shape="rect" id="node7" href="$dd/daf/m0tr__main_8c.html#ad910a753af37d7a3543a3405e20abdf8" title="motr_init" alt="" coords="161,259,233,285"/>
+</map>

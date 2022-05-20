@@ -1,0 +1,14 @@
+<map id="client" name="client">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="145,5,251,32"/>
+<area shape="rect" id="node3" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="149,56,247,83"/>
+<area shape="rect" id="node4" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a560f98bd2c0f4908e5e6c5e8e2ccb14a" title="ping_client_init" alt="" coords="144,107,252,133"/>
+<area shape="rect" id="node5" href="$d7/ded/group__memory.html#ga80e6a4e9d078f93b5917555b7b3d3fec" title="m0_alloc" alt="" coords="161,157,235,184"/>
+<area shape="rect" id="node6" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aea89b3c41508e1109bc9f8fad237d05f" title="ping_client_msg_send_recv" alt="" coords="107,208,289,235"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="337,284,407,311"/>
+<area shape="rect" id="node8" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aa99e0b86628f3daab43249468a6d21ea" title="ping_client_passive_recv" alt="" coords="114,309,282,336"/>
+<area shape="rect" id="node9" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a651a2f8201cec6308ed758043f75f71d" title="ping_client_passive_send" alt="" coords="113,360,283,387"/>
+<area shape="rect" id="node10" href="$da/dc4/net_2bulk__emulation_2st_2main_8c.html#a9cf10484d68de21be03f9557c2260e55" title="print_qstats" alt="" coords="153,411,243,437"/>
+<area shape="rect" id="node11" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a73a6a038da1b6b4d97a73cc7a54a631c" title="ping_client_fini" alt="" coords="144,461,252,488"/>
+<area shape="rect" id="node12" href="$da/dea/group__cond.html#gadcc0e34335137a427f72523310ea97a9" title="m0_cond_fini" alt="" coords="149,512,247,539"/>
+<area shape="rect" id="node13" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="145,563,251,589"/>
+</map>

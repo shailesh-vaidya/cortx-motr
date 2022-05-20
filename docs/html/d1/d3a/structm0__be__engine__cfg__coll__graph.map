@@ -1,0 +1,9 @@
+<map id="m0_be_engine_cfg" name="m0_be_engine_cfg">
+<area shape="rect" id="node2" href="$de/d60/structm0__be__log__discard.html" title="{m0_be_log_discard\n||}" alt="" coords="510,204,645,281"/>
+<area shape="rect" id="node7" href="$de/da6/structm0__be__tx__group__cfg.html" title="{m0_be_tx_group_cfg\n||}" alt="" coords="789,524,931,601"/>
+<area shape="rect" id="node10" href="$d5/d1b/structm0__be__domain.html" title="{m0_be_domain\n||}" alt="" coords="537,364,647,441"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="228,5,311,83"/>
+<area shape="rect" id="node8" href="$d9/da2/structm0__reqh.html" title="{m0_reqh\n||}" alt="" coords="969,204,1041,281"/>
+<area shape="rect" id="node6" href="$d0/df0/structm0__be__tx__credit.html" title="{m0_be_tx_credit\n||}" alt="" coords="309,364,427,441"/>
+<area shape="rect" id="node9" href="$df/d49/structm0__be__pd.html" title="{m0_be_pd\n||}" alt="" coords="1065,204,1148,281"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="st_module_init" name="st_module_init">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#ga76f3b3c69a5b438dd0442695257fd861" title="st_init" alt="" coords="196,5,253,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#gae6a6b5ae03c3a31e72be47f45f68ab99" title="st_add_suites" alt="" coords="173,56,276,83"/>
+<area shape="rect" id="node4" href="$df/df7/group___client.html#gaa5dbbd6d4f282b65b06b37ab10d56943" title="st_set_tests" alt="" coords="177,107,272,133"/>
+<area shape="rect" id="node5" href="$d8/d5d/st__kmain_8c.html#aed68d76674461d9cadba400c9c5ec592" title="st_init_instance" alt="" coords="168,157,281,184"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga006cbba91fe349982c8deb3a564938ef" title="st_set_nr_workers" alt="" coords="160,208,289,235"/>
+<area shape="rect" id="node7" href="$d3/de4/st__assert_8c.html#a50b9af4e1aab6a56b161583bab144ce6" title="st_cleaner_init" alt="" coords="171,259,278,285"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga842be27a960b1b3e92011528aa7ce9dc" title="st_start_workers" alt="" coords="165,309,284,336"/>
+</map>

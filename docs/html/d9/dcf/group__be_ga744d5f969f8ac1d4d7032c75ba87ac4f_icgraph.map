@@ -1,0 +1,9 @@
+<map id="m0_be_tx__is_exclusive" name="m0_be_tx__is_exclusive">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaf45237d80f2094ca1523ffac861b79c3" title="m0_be_domain_seg_create" alt="" coords="457,244,638,271"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8f95a715f767a22b6c62ff7592cf1e2e" title="m0_be_domain_seg_destroy" alt="" coords="453,16,641,43"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf670692fcb3107c61262998a22368cdd" title="be_engine_tx_opening_peek" alt="" coords="219,92,405,119"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaff3ab31b72c9099b202287e3463a80bd" title="be_engine_tx_trygroup" alt="" coords="235,143,389,170"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga920bdfa5ca3c26722d6fd98b13d77335" title="be_engine_got_tx_done" alt="" coords="233,194,391,220"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gaf32ff0de6dd20794b10981e8841842db" title="m0_be_0type_add" alt="" coords="248,295,376,322"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga3ff73d3e6559c53eef6a0d8d39153a75" title="m0_be_0type_del" alt="" coords="250,42,374,68"/>
+</map>

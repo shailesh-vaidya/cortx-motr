@@ -1,0 +1,8 @@
+<map id="test_confc_local" name="test_confc_local">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#gabf209a6bf58ef464c9b0798e897a59c2" title="m0_confc_init" alt="" coords="322,5,425,32"/>
+<area shape="rect" id="node3" href="$df/d26/fs_8h.html#a88f328e1268e9503b953cc491e873394" title="m0_file_read" alt="" coords="171,195,267,221"/>
+<area shape="rect" id="node4" href="$d5/d25/group__confc__dlspec.html#ga899a22f1dafd4ffbb22f6d72e1590ddc" title="m0_confc_close" alt="" coords="315,68,432,95"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga246f8e1e88c76a3045fa0762fd5712ed" title="m0_confc_fini" alt="" coords="322,119,425,145"/>
+<area shape="rect" id="node6" href="$d2/d72/ut_2confc_8c.html#a00ca672f809086b611b24d5461249dea" title="confc_test" alt="" coords="177,43,260,69"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="184,245,253,272"/>
+</map>

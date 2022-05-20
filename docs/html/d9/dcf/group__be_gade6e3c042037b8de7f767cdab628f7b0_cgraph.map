@@ -1,0 +1,8 @@
+<map id="be_log_discard_sync_done_cb" name="be_log_discard_sync_done_cb">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="205,5,324,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga15710fa667c7e4d0966f0957f74cadd7" title="be_log_discard_lock" alt="" coords="387,81,527,108"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga8a96f2768638bf78060937c4672908d7" title="be_log_discard_unlock" alt="" coords="380,132,535,159"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gafb931b824a1018224ee8c3f78cad3210" title="be_log_discard_ast" alt="" coords="197,107,332,133"/>
+<area shape="rect" id="node6" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="203,208,326,235"/>
+<area shape="rect" id="node7" href="$d8/dec/group__locality.html#ga78a80793033e390645e6b1c9260fe4b8" title="m0_locality_here" alt="" coords="205,259,325,285"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="m0_bufvec_free2" name="m0_bufvec_free2">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#ga9a6542b094305cccadbdb79fc4601b51" title="has_values" alt="" coords="217,5,305,32"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#gac6f23719117de0b1f97e0f8c2e8dd164" title="next_records_verified" alt="" coords="188,56,335,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#gae7be073322895a533d83c8caa4b63131" title="dix_cas_rop_fini" alt="" coords="203,107,319,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#ga615e03e23c43dce3c42444ed9a2b1f9a" title="dix_get_req_resend" alt="" coords="194,157,329,184"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#ga92fc6c71c85ef500d7f188a0010f5904" title="dix_rop_del_phase2_rop" alt="" coords="180,208,343,235"/>
+<area shape="rect" id="node7" href="$d0/d8c/m0hsm__api_8c.html#a25ee675e40f41ffc7bb3c10bd1033f15" title="prepare_io_ctx" alt="" coords="208,259,315,285"/>
+<area shape="rect" id="node8" href="$d0/d8c/m0hsm__api_8c.html#accfb8e6f11c4728a772b21cc12291c2d" title="free_io_ctx" alt="" coords="218,309,305,336"/>
+<area shape="rect" id="node9" href="$d9/dc2/group__io__foms.html#gacaee235ed532b56deb9a132f9ad26913" title="stio_desc_fini" alt="" coords="210,360,313,387"/>
+<area shape="rect" id="node10" href="$d6/d85/group__iscservice.html#ga3ec0b1ec779b038b8873c31802a24fd8" title="m0_isc_io_fini" alt="" coords="209,411,314,437"/>
+<area shape="rect" id="node11" href="$d0/d7f/group__vec.html#ga79d3da8159eb298c2fcb385a91e3d706" title="bufvec_alloc" alt="" coords="214,461,309,488"/>
+<area shape="rect" id="node12" href="$df/da5/composite__layout_8c.html#afe64a2e48831ab39b4468ea7e402f9a3" title="composite_io_op_cb_free" alt="" coords="176,512,347,539"/>
+<area shape="rect" id="node13" href="$d7/dde/io__req_8c.html#abeb3c1b55c106cd5c78c261c2ae62dae" title="verify_checksum" alt="" coords="201,563,322,589"/>
+<area shape="rect" id="node14" href="$d8/d7e/ut_2io__req_8c.html#a9366d14f65dcb4e23f05fbd835125a1d" title="ut_test_ioreq_application\l_data_copy" alt="" coords="178,614,345,655"/>
+</map>

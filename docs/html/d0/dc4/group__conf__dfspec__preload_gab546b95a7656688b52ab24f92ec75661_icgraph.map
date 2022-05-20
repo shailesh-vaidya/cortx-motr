@@ -1,0 +1,10 @@
+<map id="m0_confx_free" name="m0_confx_free">
+<area shape="rect" id="node2" href="$d2/d47/group__conf__dfspec__cache.html#ga272f2b97047790dbb629823143845ae3" title="m0_conf_cache_to_string" alt="" coords="161,5,332,32"/>
+<area shape="rect" id="node3" href="$d2/d47/group__conf__dfspec__cache.html#ga01b42734d0537fe376be952b74c74789" title="m0_conf_cache_from\l_string" alt="" coords="380,50,527,91"/>
+<area shape="rect" id="node4" href="$d7/d3a/conf_2ut_2cache_8c.html#ad62297aac0c1f1fe7d29629e49c4b4e4" title="test_obj_fill" alt="" coords="409,117,497,144"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#gab3e1c50b683e3bedc3bf8d5f02be38fd" title="confc_cache_preload" alt="" coords="381,171,526,197"/>
+<area shape="rect" id="node6" href="$d2/d01/group__confd__dlspec.html#ga8f13e5d4218316abbceca3fb5771974b" title="confd_cache_preload" alt="" coords="381,227,526,253"/>
+<area shape="rect" id="node7" href="$d2/d01/group__confd__dlspec.html#ga01e453cefa31eaaa27b68f861ba32cc5" title="confx_populate" alt="" coords="191,360,302,387"/>
+<area shape="rect" id="node8" href="$d1/d1c/ut_2db_8c.html#a9d84eaed372a28399d1eaf61f49b9e1c" title="test_confdb" alt="" coords="408,288,499,315"/>
+<area shape="rect" id="node9" href="$d0/dc4/group__conf__dfspec__preload.html#ga34d41b04f28f54ce9ef01deb6c2e06ea" title="m0_confstr_parse" alt="" coords="183,157,310,184"/>
+</map>

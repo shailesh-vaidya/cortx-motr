@@ -1,0 +1,6 @@
+<map id="halon_interface_process_failure_check" name="halon_interface_process_failure_check">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga17805baffcdcdc4f60deadcd7f3df5f9" title="m0_ha_msg_type_get" alt="" coords="217,5,367,32"/>
+<area shape="rect" id="node3" href="$dd/d5f/group__fid.html#ga781f8ea476bd0c53167526d232694084" title="m0_fid_tget" alt="" coords="247,56,337,83"/>
+<area shape="rect" id="node4" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="416,132,499,159"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gabc2c9f94458c5ebdeccdc7d3a1d82bd2" title="m0_ha_process_failed" alt="" coords="216,157,368,184"/>
+</map>

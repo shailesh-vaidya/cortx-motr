@@ -1,0 +1,8 @@
+<map id="m0_rpc_conn_pool_put" name="m0_rpc_conn_pool_put">
+<area shape="rect" id="node2" href="$d9/d6b/plugin__dock_8c.html#a332ed8d04940d73b4f11ba368194b4db" title="pdock_record_reg_cleanup" alt="" coords="216,5,393,32"/>
+<area shape="rect" id="node3" href="$d9/d6b/plugin__dock_8c.html#ae9a0591605d7de205c276f1428d1daec" title="pdock_record_release" alt="" coords="448,183,597,209"/>
+<area shape="rect" id="node4" href="$d0/d55/source__dock__fom_8c.html#ae06df81e7fa3f9de96f3c54a17bf3ab9" title="pending_fop_clink_cb" alt="" coords="231,107,378,133"/>
+<area shape="rect" id="node5" href="$d0/d55/source__dock__fom_8c.html#a64ec205ef5dd9b3113c9c80be4368cfe" title="fdmi_rec_notif_replied" alt="" coords="230,157,379,184"/>
+<area shape="rect" id="node6" href="$d2/d6b/conn__pool_8h.html#a2c65f855455f98bf80ad0631e2292a59" title="m0_rpc_conn_pool_get_sync" alt="" coords="209,208,400,235"/>
+<area shape="rect" id="node7" href="$dd/d2c/ut_2conn__pool_8c.html#a9b98f527833c9edd0cf95ef57b09ab03" title="rpc_conn_pool" alt="" coords="469,245,576,272"/>
+</map>

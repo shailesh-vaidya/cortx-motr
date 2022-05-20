@@ -1,0 +1,9 @@
+<map id="io_item_replied" name="io_item_replied">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="167,5,298,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga8544e1edf0cb8a03920ecf624c72c971" title="m0_rpc_item_to_fop" alt="" coords="163,56,303,83"/>
+<area shape="rect" id="node4" href="$d5/dd7/group__bulkclient_d_f_s_internal.html#ga3d2a7fc546d6917a7242fe2fa83f9fa3" title="m0_fop_to_rpcbulk" alt="" coords="167,107,299,133"/>
+<area shape="rect" id="node5" href="$d9/dc2/group__io__foms.html#ga9cedbe4cab296c0f3dde7f271cc5d367" title="io_rw_rep_get" alt="" coords="181,157,284,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="175,208,290,235"/>
+<area shape="rect" id="node7" href="$d7/d08/group__tlist.html#gafb8a2b1155e0f1393794a5f59ae5bab9" title="m0_tlist_is_empty" alt="" coords="169,259,297,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="169,309,297,336"/>
+</map>

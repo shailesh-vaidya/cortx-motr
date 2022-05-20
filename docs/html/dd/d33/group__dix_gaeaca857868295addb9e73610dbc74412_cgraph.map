@@ -1,0 +1,10 @@
+<map id="dix_layout_from_read_rep" name="dix_layout_from_read_rep">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#ga2b7ec3f851b47336517b4c9d520ba001" title="m0_dix_generic_rc" alt="" coords="434,68,565,95"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="616,68,683,95"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga1d324f8711cc74f8483280749c714537" title="m0_dix_get_rep" alt="" coords="246,43,361,70"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="265,144,341,171"/>
+<area shape="rect" id="node6" href="$dd/d33/group__dix.html#gabeefe1e0d559f6667c918fd733664d0c" title="m0_dix__meta_val_dec" alt="" coords="224,246,383,272"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga391e7d9d1b1c465750daa3d36997bebf" title="m0_dix_ldesc_copy" alt="" coords="431,195,568,222"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#ga5cd05a630c07a4fb569941cb45b8cd33" title="m0_dix_ldesc_fini" alt="" coords="436,296,563,323"/>
+<area shape="rect" id="node9" href="$dd/d5f/group__fid.html#ga3beb19e1376abb495a344d48ec5c7398" title="m0_fid_eq" alt="" coords="262,347,345,374"/>
+</map>

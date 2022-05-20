@@ -1,0 +1,17 @@
+<map id="nlx_kcore_domain_invariant" name="nlx_kcore_domain_invariant">
+<area shape="rect" id="node2" href="$d6/d8a/group___k_l_net_core.html#gad2ab176e2a26de2710bc2f9226a70030" title="nlx_kcore_core_dom_init" alt="" coords="248,5,415,32"/>
+<area shape="rect" id="node3" href="$df/df1/klnet__ut_8c.html#ad60000318f21aac4dd8c0301f5214194" title="ut_kcore_core_dom_init" alt="" coords="475,31,635,57"/>
+<area shape="rect" id="node4" href="$d8/de0/group___l_net_core.html#ga9a7243ef73c4d6b8c9ecf249adf54a69" title="nlx_core_dom_fini" alt="" coords="491,183,618,209"/>
+<area shape="rect" id="node5" href="$d6/d8a/group___k_l_net_core.html#gad698e59d30658540bb58f488c8c4d6a7" title="nlx_kcore_buf_register" alt="" coords="255,528,408,555"/>
+<area shape="rect" id="node6" href="$d8/de0/group___l_net_core.html#gaceb7d73c016add28bb9a1fcfd74ae248" title="nlx_core_tm_start" alt="" coords="268,579,395,605"/>
+<area shape="rect" id="node7" href="$d6/d8a/group___k_l_net_core.html#ga00e38a4ba9f087356675ba41a57dc3d7" title="nlx_kcore_kcore_dom_init" alt="" coords="245,629,418,656"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#gae1fb86408b29aad8bcb47da62791f168" title="nlx_kcore_kcore_dom_fini" alt="" coords="245,208,418,235"/>
+<area shape="rect" id="node9" href="$d8/d9e/group___l_net_dev_internal.html#ga120c166ef9fa98855c20aa3b67ff519b" title="nlx_dev_close" alt="" coords="502,259,607,285"/>
+<area shape="rect" id="node10" href="$df/df1/klnet__ut_8c.html#a60dc379d0e6df0827a2494ecd7d752d9" title="ut_dev_close" alt="" coords="683,183,781,209"/>
+<area shape="rect" id="node11" href="$d8/d9e/group___l_net_dev_internal.html#ga480a38459177bb04627ce25930245566" title="nlx_dev_ioctl_dom_init" alt="" coords="477,401,632,428"/>
+<area shape="rect" id="node12" href="$d8/d9e/group___l_net_dev_internal.html#ga00738e2cd72d209874016020f1c629b0" title="nlx_dev_ioctl" alt="" coords="683,452,781,479"/>
+<area shape="rect" id="node13" href="$d6/d8a/group___k_l_net_core.html#ga7bd7731a15e72411dea41c2aa699d146" title="nlx_kcore_core_domain_map" alt="" coords="236,376,427,403"/>
+<area shape="rect" id="node14" href="$d6/d8a/group___k_l_net_core.html#gad9311dbbf12eeef1cf130941faf081a0" title="nlx_kcore_core_domain\l_unmap" alt="" coords="252,310,411,351"/>
+<area shape="rect" id="node15" href="$df/df1/klnet__ut_8c.html#af394cd480709585ec31e5e0b69a4b710" title="ktest_buf_reg" alt="" coords="281,680,382,707"/>
+<area shape="rect" id="node16" href="$df/df1/klnet__ut_8c.html#a081074f1d89f84e66ef248631a83b9f2" title="ut_dev_open" alt="" coords="283,731,379,757"/>
+</map>

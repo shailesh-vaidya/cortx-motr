@@ -1,0 +1,11 @@
+<map id="pools_init" name="pools_init">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="148,5,297,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#ga52a8e340df59b3f3597ea09dd0ca2b18" title="m0_pools_common_init" alt="" coords="143,56,302,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="393,136,460,163"/>
+<area shape="rect" id="node5" href="$dd/d7f/group__pool.html#ga20c5f3886a28297a28f0f1aacde27835" title="m0_pools_setup" alt="" coords="164,224,281,251"/>
+<area shape="rect" id="node6" href="$dd/d7f/group__pool.html#ga63d668794db53c1a196ca1f46c1124be" title="m0_pools_destroy" alt="" coords="363,249,491,276"/>
+<area shape="rect" id="node7" href="$dd/d7f/group__pool.html#ga3ef0357d640d3b5254452fe485d8c7ac" title="m0_pools_service_ctx\l_create" alt="" coords="147,158,299,199"/>
+<area shape="rect" id="node8" href="$dd/d7f/group__pool.html#ga5c9309b8255e05b5a761220741ece6ae" title="m0_pools_common_service\l_ctx_connect_sync" alt="" coords="131,326,315,367"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="155,392,290,419"/>
+<area shape="rect" id="node10" href="$dd/d7f/group__pool.html#ga5a008e2f2e5c6cde089df2f1969b242f" title="m0_pools_common_fini" alt="" coords="143,443,302,469"/>
+</map>

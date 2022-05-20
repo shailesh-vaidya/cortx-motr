@@ -1,0 +1,11 @@
+<map id="m0_ha_ut_msg_queue" name="m0_ha_ut_msg_queue">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#gac6551a2ecd40aa04f4dfc5ce4ab340f2" title="m0_ha_msg_queue_init" alt="" coords="223,5,381,32"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#ga1cfd8df980d1ef116d1c7e060a5eef9f" title="m0_ha_msg_queue_fini" alt="" coords="223,56,381,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga60a6d365fbe1b30d134f53dbb1fdf676" title="m0_ha_msg_queue_dequeue" alt="" coords="207,107,397,133"/>
+<area shape="rect" id="node5" href="$db/dec/group__ha.html#gaa82fd5ba965011750e719c9cdfa2dca8" title="m0_ha_msg_queue_alloc" alt="" coords="217,157,387,184"/>
+<area shape="rect" id="node6" href="$db/dc9/group__arith.html#ga70bb9d882edfc6cabf72ea2e90d01ccb" title="m0_rnd64" alt="" coords="263,208,341,235"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#ga649de9f0aef6593beeea6bd692494fe6" title="m0_ha_msg_queue_enqueue" alt="" coords="207,259,397,285"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga05148dcac138908d98707c97d8fae6be" title="m0_ha_msg_tag" alt="" coords="243,309,361,336"/>
+<area shape="rect" id="node9" href="$db/dec/group__ha.html#ga2d9241a6733826892af41ee6f6d68a78" title="m0_ha_msg_queue_free" alt="" coords="220,360,384,387"/>
+<area shape="rect" id="node10" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="445,385,515,412"/>
+</map>

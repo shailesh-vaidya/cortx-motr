@@ -1,0 +1,11 @@
+<map id="rconfc_conductor_connect" name="rconfc_conductor_connect">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#a5ad0da5653dba50eeb4737237784935f" title="rconfc" alt="" coords="281,5,339,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="243,56,377,83"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga8dc42649f080f54b5f73d414a4ea16f2" title="_confc_ver_read" alt="" coords="251,107,369,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga6b9eb7acc491a6c99652596ebf10d5b1" title="m0_confc_init_wait" alt="" coords="243,157,377,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="445,233,511,260"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gab65c7e0cbe52183aceb6ff798474757f" title="m0_ha_client_add" alt="" coords="247,309,373,336"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="440,309,516,336"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#ga7397c535e62e2938d43720d036a67842" title="m0_confc_gate_ops_set" alt="" coords="228,411,392,437"/>
+<area shape="rect" id="node10" href="$d5/d25/group__confc__dlspec.html#gaca2a7aaa70089b679e339d17a4f6f285" title="m0_confc_reconnect" alt="" coords="239,259,381,285"/>
+</map>

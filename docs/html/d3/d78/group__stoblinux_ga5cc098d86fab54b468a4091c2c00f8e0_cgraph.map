@@ -1,0 +1,12 @@
+<map id="stob_ioq_thread_init" name="stob_ioq_thread_init">
+<area shape="rect" id="node2" href="$da/dd8/group__thread.html#ga85ed595f0d7052f5db6639321564161b" title="m0_thread_self" alt="" coords="219,5,330,32"/>
+<area shape="rect" id="node3" href="$d7/d2c/group__timer.html#ga949bf5f6c351038dc96e29d5fda8b14b" title="m0_timer_locality_init" alt="" coords="201,56,349,83"/>
+<area shape="rect" id="node4" href="$d7/d2c/group__timer.html#ga52d52577f3e3b197d0d3883461b68acd" title="m0_timer_thread_attach" alt="" coords="193,107,356,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="405,132,472,159"/>
+<area shape="rect" id="node6" href="$d7/d2c/group__timer.html#ga4e4fa195616545c2f11c2004a009785d" title="m0_timer_locality_fini" alt="" coords="201,208,349,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="237,259,313,285"/>
+<area shape="rect" id="node8" href="$d7/d2c/group__timer.html#gab5524a732935ba5616dac64cdab9e1bb" title="m0_timer_init" alt="" coords="225,309,325,336"/>
+<area shape="rect" id="node9" href="$d3/d78/group__stoblinux.html#ga444107c4a2f57c106270c458d6bce092" title="stob_ioq_timer_cb" alt="" coords="211,360,339,387"/>
+<area shape="rect" id="node10" href="$d7/d2c/group__timer.html#ga5f5d6c04e00f05c7d9d0448f4138dc2d" title="m0_timer_thread_detach" alt="" coords="192,411,357,437"/>
+<area shape="rect" id="node11" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="207,461,342,488"/>
+</map>

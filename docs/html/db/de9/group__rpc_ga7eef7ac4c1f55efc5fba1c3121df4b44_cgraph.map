@@ -1,0 +1,8 @@
+<map id="net_buf_received" name="net_buf_received">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3c0769c04410d335134d07a0aad33b90" title="tm_to_rpc_machine" alt="" coords="187,5,323,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gaa31da58e7b9b967e25676b5d701bc737" title="m0_rpc_packet_init" alt="" coords="187,56,322,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="383,157,472,184"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gaba4e99db444abfac39eff2443e2bd80d" title="m0_rpc_packet_decode" alt="" coords="175,157,335,184"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#gaa6821da8260802932f1d51adf350f324" title="packet_received" alt="" coords="196,208,313,235"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga1cd5d75d6ed19b39e3bd38b4bae218e4" title="m0_rpc_packet_fini" alt="" coords="187,259,322,285"/>
+</map>

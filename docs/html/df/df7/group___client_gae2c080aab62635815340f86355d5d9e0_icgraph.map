@@ -1,0 +1,8 @@
+<map id="st_get_worker_idx" name="st_get_worker_idx">
+<area shape="rect" id="node2" href="$df/df7/group___client.html#gaeb09c091c56e8c488e65e13b707c6116" title="st_run" alt="" coords="217,5,276,32"/>
+<area shape="rect" id="node3" href="$df/df7/group___client.html#gaac350b806998059b56ef7b6a4dc132ba" title="st_assertimpl" alt="" coords="197,56,297,83"/>
+<area shape="rect" id="node4" href="$d3/de4/st__assert_8c.html#ac04afd0eab7d6e21e9adc309280ba8df" title="get_bin" alt="" coords="215,107,279,133"/>
+<area shape="rect" id="node5" href="$de/dc4/st__assert_8h.html#a2d8b0b83e0d87b7be1dc17e3111dd14b" title="st_is_cleaner_up" alt="" coords="187,157,307,184"/>
+<area shape="rect" id="node6" href="$de/dc4/st__assert_8h.html#a77e909dafdcc50d36645dda5770297a6" title="st_cleaner_enable" alt="" coords="183,208,310,235"/>
+<area shape="rect" id="node7" href="$de/dc4/st__assert_8h.html#ada8eb4caf7aad862fa54b3eade3cb488" title="st_cleaner_disable" alt="" coords="181,259,312,285"/>
+</map>

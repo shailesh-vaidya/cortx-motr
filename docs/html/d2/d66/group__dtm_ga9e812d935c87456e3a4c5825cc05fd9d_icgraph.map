@@ -1,0 +1,12 @@
+<map id="m0_dtm_history_invariant" name="m0_dtm_history_invariant">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga80a645af0745aa25bef55f319679a67c" title="m0_dtm_dtx_close" alt="" coords="247,5,379,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#ga3cc34aaa6ade1607bb35b35ad68419f9" title="m0_dtm_history_init" alt="" coords="244,56,383,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#ga59952b48bd6a8c24a30c330555d92330" title="m0_dtm_history_fini" alt="" coords="244,107,383,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#gadb7b104ad3343c192e9635b32ae450b6" title="m0_dtm_history_persistent" alt="" coords="224,157,403,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga499dc4938979e0f69a3095b6fbd5f4e6" title="m0_dtm_history_reset" alt="" coords="238,208,389,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga773c055059e02ac35bded5e1435d05df" title="m0_dtm_history_undo" alt="" coords="238,259,389,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#gaa55519740801240fe39dc7e76e3cadb5" title="history_close" alt="" coords="264,309,363,336"/>
+<area shape="rect" id="node9" href="$d2/d66/group__dtm.html#gae61f5c5aeb318d63bf2ee940ab87c128" title="control_update_add" alt="" coords="246,360,381,387"/>
+<area shape="rect" id="node10" href="$d2/d66/group__dtm.html#gab5d2bde731b1739e5bd7ee74ddb53659" title="history_balance" alt="" coords="451,436,564,463"/>
+<area shape="rect" id="node11" href="$d2/d66/group__dtm.html#gaecabcd7b97cbb93e3edd914ddf130e4f" title="undo_done" alt="" coords="271,461,356,488"/>
+</map>

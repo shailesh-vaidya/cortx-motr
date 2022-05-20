@@ -1,0 +1,9 @@
+<map id="test_stats_init" name="test_stats_init">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga851deafe4c8d220bab667cf4c222bc84" title="m0_sm_conf_init" alt="" coords="183,5,305,32"/>
+<area shape="rect" id="node3" href="$da/ddc/group__reqhservice.html#gabb668cfa383c0168dd893af4fa2e0507" title="m0_reqh_service_type\l_register" alt="" coords="167,57,321,98"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#ga4e628e6112d041b817bd15d8771f68bc" title="m0_fom_type_init" alt="" coords="181,123,307,149"/>
+<area shape="rect" id="node5" href="$dc/d92/ut__rpc__machine_8c.html#a37fcbcb0d583cf848ae4b0596e9b45fd" title="m0_ut_rpc_mach_init\l_and_add" alt="" coords="171,174,317,215"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#gaf2fbb0b70ddfa715b155035529252536" title="m0_reqh_service_allocate" alt="" coords="157,240,331,267"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#ga88306fc48664fbe1496b46757cadc922" title="m0_reqh_service_init" alt="" coords="171,291,317,317"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#gaaa3ff5976658592e379be7c3b9fbd4b0" title="m0_reqh_service_start" alt="" coords="167,341,321,368"/>
+</map>

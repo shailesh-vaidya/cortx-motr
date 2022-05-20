@@ -1,0 +1,8 @@
+<map id="spiel_svc_generic_handler" name="spiel_svc_generic_handler">
+<area shape="rect" id="node2" href="$d9/d50/group__spiel-api-fspec.html#gae1181156d341a60840cbcfd312c7fae4" title="m0_spiel_service_init" alt="" coords="242,5,389,32"/>
+<area shape="rect" id="node3" href="$d9/d50/group__spiel-api-fspec.html#gaaefec707da1b4b288b41977a8f52f81e" title="m0_spiel_service_start" alt="" coords="237,56,393,83"/>
+<area shape="rect" id="node4" href="$d9/d50/group__spiel-api-fspec.html#ga527c2717f57b0f501902e9edb0c64544" title="m0_spiel_service_stop" alt="" coords="238,107,393,133"/>
+<area shape="rect" id="node5" href="$d9/d50/group__spiel-api-fspec.html#ga762e0fe6b8247528d19736e50984b1cf" title="m0_spiel_service_health" alt="" coords="233,157,398,184"/>
+<area shape="rect" id="node6" href="$d9/d50/group__spiel-api-fspec.html#ga4ae507043ee7d02a194e6f5131656c05" title="m0_spiel_service_quiesce" alt="" coords="228,208,403,235"/>
+<area shape="rect" id="node7" href="$d9/d50/group__spiel-api-fspec.html#ga8e960a5f1cc793607de278e5edf425c8" title="m0_spiel_service_status" alt="" coords="232,259,399,285"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="fdmi_pd_fake_release_nomem" name="fdmi_pd_fake_release_nomem">
+<area shape="rect" id="node2" href="$d4/d70/group__fdmi__pd.html#gae1df658f2c42afb1d5c406e9aa34a15b" title="m0_fdmi_plugin_dock\l_api_get" alt="" coords="215,5,363,47"/>
+<area shape="rect" id="node3" href="$da/d74/pd__ut_8c.html#a99de0a1ebf34ef1cc752116abe82c141" title="ut_pdock_conn_pool" alt="" coords="219,71,360,98"/>
+<area shape="rect" id="node4" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="238,122,341,149"/>
+<area shape="rect" id="node5" href="$d1/d38/sd__common_8c.html#a703f0f6af3d987819eba57be5e286ecc" title="fdmi_serv_start_ut" alt="" coords="224,173,355,199"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="240,274,339,301"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="459,249,529,275"/>
+<area shape="rect" id="node8" href="$d4/de4/refs_8c.html#a7954d6835d9a918376dadcfbdffe0b19" title="m0_ref_read" alt="" coords="447,325,541,351"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gab0b84eee85bf10d0c8abd7ee91f76a51" title="m0_fop_to_rpc_item" alt="" coords="424,438,564,465"/>
+<area shape="rect" id="node10" href="$d1/d38/sd__common_8c.html#aa1645b1c9674c96b7968f0ce494969d6" title="prepare_rpc_env" alt="" coords="230,442,349,469"/>
+<area shape="rect" id="node11" href="$d0/d50/group__fdmi__pd__int.html#ga1801acf49d2779ec4823202a624137ab" title="m0_fdmi__pdock_fdmi\l_record_register" alt="" coords="213,376,366,417"/>
+<area shape="rect" id="node12" href="$d1/d15/group__finject.html#ga092a190daeecba2f3f999e8291612a90" title="m0_fi_enable_off_n_on_m" alt="" coords="203,543,376,570"/>
+<area shape="rect" id="node13" href="$d0/d50/group__fdmi__pd__int.html#ga2d7575e46239203aafcce369fc9c989c" title="m0_fdmi__pdock_record\l_reg_find" alt="" coords="207,595,371,636"/>
+<area shape="rect" id="node14" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="246,661,333,687"/>
+<area shape="rect" id="node15" href="$d1/d38/sd__common_8c.html#a4a5f860438ebf884e71f8b33f536b224" title="unprepare_rpc_env" alt="" coords="223,711,355,738"/>
+<area shape="rect" id="node16" href="$d1/d38/sd__common_8c.html#ae7a904c8aae47f789ce50ec6fb8ef3c9" title="fdmi_serv_stop_ut" alt="" coords="225,762,354,789"/>
+</map>

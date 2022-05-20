@@ -1,0 +1,12 @@
+<map id="ktest_dev" name="ktest_dev">
+<area shape="rect" id="node2" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="133,5,269,32"/>
+<area shape="rect" id="node3" href="$df/df1/klnet__ut_8c.html#a60dc379d0e6df0827a2494ecd7d752d9" title="ut_dev_close" alt="" coords="152,107,251,133"/>
+<area shape="rect" id="node4" href="$d8/d9e/group___l_net_dev_internal.html#ga120c166ef9fa98855c20aa3b67ff519b" title="nlx_dev_close" alt="" coords="330,81,435,108"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="325,157,440,184"/>
+<area shape="rect" id="node6" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="319,208,447,235"/>
+<area shape="rect" id="node7" href="$df/df1/klnet__ut_8c.html#a081074f1d89f84e66ef248631a83b9f2" title="ut_dev_open" alt="" coords="153,208,249,235"/>
+<area shape="rect" id="node8" href="$d8/d9e/group___l_net_dev_internal.html#gac97dbd0a0eab9e4fe0bb58122e457c8d" title="nlx_dev_open" alt="" coords="331,284,434,311"/>
+<area shape="rect" id="node9" href="$da/dea/group__cond.html#ga3e4e4ec5b200b90e7fb6f8eeb4e10fc7" title="m0_cond_timedwait" alt="" coords="132,360,271,387"/>
+<area shape="rect" id="node10" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="135,411,267,437"/>
+<area shape="rect" id="node11" href="$da/dea/group__cond.html#ga528fb5a1fe32776af5bba9ecacf26b6b" title="m0_cond_wait" alt="" coords="148,461,255,488"/>
+</map>

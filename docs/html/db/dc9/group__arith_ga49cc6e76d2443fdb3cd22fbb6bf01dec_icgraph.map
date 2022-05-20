@@ -1,0 +1,22 @@
+<map id="m0_is_po2" name="m0_is_po2">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a60d0f5f47b044a032a1e0192003ee7d6" title="balloc_sb_write" alt="" coords="172,5,284,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a373e3eda233bab1e419d0a8262adafbd" title="balloc_regular_allocator" alt="" coords="149,56,307,83"/>
+<area shape="rect" id="node4" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5129b4b8493abda2531195fc6c37b68f" title="round_down" alt="" coords="385,132,477,159"/>
+<area shape="rect" id="node5" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a5938f031741fee2d931009b22b92c39b" title="round_up" alt="" coords="394,385,469,412"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga2eb8fd1a98e730961802a852412dd842" title="ha_link_backoff_check" alt="" coords="151,208,305,235"/>
+<area shape="rect" id="node7" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="191,259,265,285"/>
+<area shape="rect" id="node8" href="$db/dc9/group__arith.html#ga4b70d9b4cc8a2228f5cb90ecf967ada5" title="m0_is_aligned" alt="" coords="175,309,281,336"/>
+<area shape="rect" id="node9" href="$d8/d98/group__trace.html#ga91bd3f82c67d9d18b75f0ed69666c414" title="m0_arch_trace_init" alt="" coords="365,563,497,589"/>
+<area shape="rect" id="node10" href="$d8/d98/group__trace.html#ga5e1a840233fcf8411c033ac54ff15cb3" title="m0_trace_init" alt="" coords="545,537,645,564"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#gaba5ec475cae7ec35c8082362f50967aa" title="m0_alloc_aligned" alt="" coords="167,461,289,488"/>
+<area shape="rect" id="node12" href="$df/d2a/lib_2misc_8h.html#a5548d3759514fc1a68f23f9acd8893df" title="m0_round_up" alt="" coords="178,360,278,387"/>
+<area shape="rect" id="node13" href="$df/d2a/lib_2misc_8h.html#a240b970d7ff22225c8de6100a42690e1" title="m0_round_down" alt="" coords="169,157,287,184"/>
+<area shape="rect" id="node14" href="$d8/d98/group__trace.html#gaa1218a3cf8f61ccb64303529687dde26" title="m0_trace_logbuf_size_set" alt="" coords="141,613,315,640"/>
+<area shape="rect" id="node15" href="$d8/d98/group__trace.html#gab69dc4376e986affb23385a666467fc6" title="m0_trace_set_buffer_size" alt="" coords="143,664,313,691"/>
+<area shape="rect" id="node16" href="$d8/d98/group__trace.html#ga8078d43680ef60bece73a72107708e2a" title="align" alt="" coords="203,715,253,741"/>
+<area shape="rect" id="node17" href="$df/dca/group__m0d.html#gaa105f7ccb73b3a51e8e9e0c58a3ad130" title="cs_be_init" alt="" coords="187,765,269,792"/>
+<area shape="rect" id="node18" href="$d0/d9a/lut__main_8c.html#a409613e5657ea65e27376d3c18fdac09" title="test_dom_init" alt="" coords="178,816,278,843"/>
+<area shape="rect" id="node19" href="$d2/deb/group__rm.html#ga988b9e13fba26fb482f828ca420be56d" title="incoming_invariant" alt="" coords="163,867,293,893"/>
+<area shape="rect" id="node20" href="$db/de9/group__rpc.html#ga7382e15bd8dfcc1e785227ff9b61aea7" title="m0_rpc_item_type_register" alt="" coords="139,917,317,944"/>
+<area shape="rect" id="node21" href="$dd/d6d/group__xcode.html#gab81ff4af403f4b18c7b5586705190cf8" title="alignment_mask" alt="" coords="169,968,287,995"/>
+</map>

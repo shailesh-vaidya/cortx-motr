@@ -1,0 +1,17 @@
+<map id="initlift_ast_thread" name="initlift_ast_thread">
+<area shape="rect" id="node2" href="$de/de2/client__init_8c.html#ae9e97bcbeee824545903acfe20539738" title="m0c_invariant" alt="" coords="207,46,309,72"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="431,46,497,72"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="175,147,341,174"/>
+<area shape="rect" id="node5" href="$de/de2/client__init_8c.html#a3a5101dc3a3133989e5ad833b1b21868" title="ast_thread" alt="" coords="217,299,299,326"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="411,210,517,236"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#gae842503973adac6c86a3c1cca683f3a1" title="m0_sm_group_lock" alt="" coords="397,263,531,290"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gadc8d83305d9fc9578b35299ccd89ff81" title="m0_sm_group_unlock" alt="" coords="389,320,539,347"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="391,396,537,423"/>
+<area shape="rect" id="node10" href="$de/de2/client__init_8c.html#a1956aa499f71c13762b0e44d47f9d63c" title="initlift_fail" alt="" coords="219,451,297,478"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="209,502,307,528"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="191,552,325,579"/>
+<area shape="rect" id="node13" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="203,603,313,630"/>
+<area shape="rect" id="node14" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="193,654,323,680"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="209,704,307,731"/>
+<area shape="rect" id="node16" href="$de/de2/client__init_8c.html#afb0defa5cab886a4b4a3db507b7dd165" title="initlift_get_next_floor" alt="" coords="187,96,329,123"/>
+</map>

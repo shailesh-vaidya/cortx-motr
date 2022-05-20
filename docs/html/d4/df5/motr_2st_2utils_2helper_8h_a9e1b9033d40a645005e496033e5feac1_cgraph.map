@@ -1,0 +1,9 @@
+<map id="touch" name="touch">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga4a47a0e60a658819c4b4d078bd4d0871" title="m0_obj_init" alt="" coords="133,5,221,32"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga504f0d3723881be5144459d3eeccfa19" title="m0_client_layout_id" alt="" coords="108,56,245,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="127,107,226,133"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="123,157,230,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="127,208,226,235"/>
+<area shape="rect" id="node7" href="$d1/d1a/motr_2st_2utils_2helper_8c.html#a836f476eb5656a12ad83acdee4a294fc" title="create_object" alt="" coords="127,259,227,285"/>
+<area shape="rect" id="node8" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="125,309,228,336"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="dix_idxop_meta_update" name="dix_idxop_meta_update">
+<area shape="rect" id="node2" href="$d4/d44/group__cas.html#gad8b4f23dd455dd49c06ff67933b2b18d" title="create" alt="" coords="262,5,321,32"/>
+<area shape="rect" id="node3" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="257,56,326,83"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="434,157,510,184"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gabbdd31766236b75b0c3d25a0ad8dc692" title="m0_dix_meta_req_init" alt="" coords="217,309,366,336"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="423,335,521,361"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga31dc0e13ea4c7f8cccb294c863581b8c" title="dix_req_smgrp" alt="" coords="419,443,525,469"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gaa06adcb4ccf648c23d4b7105cf067d55" title="dix_to_mdix_map" alt="" coords="229,579,353,605"/>
+<area shape="rect" id="node9" href="$dd/d33/group__dix.html#ga2e7c4383d864144638065c33d0c87bc2" title="dix_idxop_meta_update\l_clink_cb" alt="" coords="212,462,371,503"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="423,497,521,524"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="225,629,358,656"/>
+<area shape="rect" id="node12" href="$dd/d33/group__dix.html#ga4586a071492c846d3d86a69ad59d5247" title="m0_dix_layout_put" alt="" coords="226,208,357,235"/>
+<area shape="rect" id="node13" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="439,208,505,235"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#ga737d356e0537717696578abcacddeeb6" title="m0_dix_layout_del" alt="" coords="226,157,357,184"/>
+<area shape="rect" id="node15" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="227,680,356,707"/>
+<area shape="rect" id="node16" href="$dd/d33/group__dix.html#ga616ae4fc923313ae62ed1e77c1f38a17" title="m0_dix_meta_req_fini" alt="" coords="217,731,366,757"/>
+</map>

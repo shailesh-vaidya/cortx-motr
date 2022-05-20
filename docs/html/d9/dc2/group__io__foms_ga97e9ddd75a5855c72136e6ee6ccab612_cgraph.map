@@ -1,0 +1,12 @@
+<map id="nbuf_release_done" name="nbuf_release_done">
+<area shape="rect" id="node2" href="$d9/dc2/group__io__foms.html#ga85f346ce2ab7d5a818d1888d94aabca4" title="m0_is_read_fop" alt="" coords="222,5,337,32"/>
+<area shape="rect" id="node3" href="$d9/dc2/group__io__foms.html#gae7b8f3192aa3ddf712c513454359da3c" title="m0_is_write_fop" alt="" coords="221,56,338,83"/>
+<area shape="rect" id="node4" href="$d9/dc2/group__io__foms.html#ga4c3c9a4a75ef435640e271c57da9b26e" title="m0_io_fom_cob_rw_invariant" alt="" coords="184,107,375,133"/>
+<area shape="rect" id="node5" href="$d7/d08/group__tlist.html#ga316809d4003fee99e70b096bf7708360" title="m0_tlist_invariant" alt="" coords="423,132,547,159"/>
+<area shape="rect" id="node6" href="$d6/d39/group__fop.html#gaeb9e2fff02684ec627bd70792a320be0" title="m0_fop_tm_get" alt="" coords="223,208,335,235"/>
+<area shape="rect" id="node7" href="$d9/dd2/group__net.html#ga43df1796517e1a3bb4dd2765d8dae2dc" title="m0_net_tm_colour_get" alt="" coords="202,259,357,285"/>
+<area shape="rect" id="node8" href="$d8/d01/group__net__buffer__pool.html#ga3108150c6181b9767449f3b2eb0c0f7c" title="m0_net_buffer_pool_lock" alt="" coords="196,309,363,336"/>
+<area shape="rect" id="node9" href="$d8/d01/group__net__buffer__pool.html#gacaa1314b4436697faf45f84463ba14f5" title="m0_net_buffer_pool_put" alt="" coords="199,360,359,387"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="440,385,529,412"/>
+<area shape="rect" id="node11" href="$d8/d01/group__net__buffer__pool.html#ga98cfb317097d1024cca11a4c5af51b9c" title="m0_net_buffer_pool\l_unlock" alt="" coords="212,462,347,503"/>
+</map>

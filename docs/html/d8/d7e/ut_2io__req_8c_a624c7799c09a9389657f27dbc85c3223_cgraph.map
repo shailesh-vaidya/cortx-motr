@@ -1,0 +1,8 @@
+<map id="ut_test_ioreq_dgmode_recover" name="ut_test_ioreq_dgmode_recover">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="223,5,374,32"/>
+<area shape="rect" id="node3" href="$de/d61/motr_2ut_2client_8c.html#ae927da32314f58ed5a686676912324fb" title="ut_realm_entity_setup" alt="" coords="223,56,374,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/motr_2ut_2client_8h.html#a2a660ee1fb04d9208c78df367c8501f1" title="ut_dummy_poolmach_create" alt="" coords="204,107,393,133"/>
+<area shape="rect" id="node5" href="$d7/dde/io__req_8c.html#ab04ea5a12322d475e3860245d6257ed0" title="ioreq_dgmode_recover" alt="" coords="222,157,375,184"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="224,208,373,235"/>
+<area shape="rect" id="node7" href="$d0/ddc/motr_2ut_2client_8h.html#aab896411de4887a541a48fcef2d3087c" title="ut_dummy_poolmach_delete" alt="" coords="205,259,393,285"/>
+</map>

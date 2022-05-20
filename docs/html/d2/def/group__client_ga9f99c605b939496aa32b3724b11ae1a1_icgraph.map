@@ -1,0 +1,5 @@
+<map id="m0_sync_op_add" name="m0_sync_op_add">
+<area shape="rect" id="node2" href="$df/d61/isync_8c.html#ad083d124023d5cecd7ec64fdf475ada1" title="isync_on_op" alt="" coords="199,5,293,32"/>
+<area shape="rect" id="node3" href="$df/d61/isync_8c.html#ae2ff47627b0c75d09764b0633ebae529" title="isync_on_kv_delete" alt="" coords="177,56,315,83"/>
+<area shape="rect" id="node4" href="$d1/de5/osync_8c.html#a864aa04b353fe00a5107ac505393e6f4" title="osync_on_op" alt="" coords="197,107,295,133"/>
+</map>

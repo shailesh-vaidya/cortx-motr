@@ -1,0 +1,12 @@
+<map id="m0_stob_ut_stob_ad" name="m0_stob_ut_stob_ad">
+<area shape="rect" id="node2" href="$d6/dac/stob_2ut_2stob_8c.html#afcb478f836ac84834477eef7f1f6b4d8" title="m0_stob_ut_ad_init" alt="" coords="219,5,354,32"/>
+<area shape="rect" id="node3" href="$da/dda/group__utstob.html#ga2e1e33d4a2d3c49097eaa085a6d60dc4" title="m0_ut_stob_linux_get" alt="" coords="212,56,361,83"/>
+<area shape="rect" id="node4" href="$d6/d2c/group__stobad.html#ga9282ddb159cd5ff24d583dd0c18f2e4a" title="m0_stob_ad_cfg_make" alt="" coords="208,107,365,133"/>
+<area shape="rect" id="node5" href="$d9/d6a/group__stob.html#gadc36815f8604ea10b046c2e1424bc5ca" title="m0_stob_id_get" alt="" coords="425,247,540,273"/>
+<area shape="rect" id="node6" href="$d6/d2c/group__stobad.html#ga8e6f97810457cd1168a853cae9f19896" title="m0_stob_ad_init_cfg_make" alt="" coords="196,208,377,235"/>
+<area shape="rect" id="node7" href="$d6/dac/stob_2ut_2stob_8c.html#a110fc2ba29f158f641e6ebeab48ffcb3" title="stob_ut_stob_single" alt="" coords="217,259,356,285"/>
+<area shape="rect" id="node8" href="$d6/dac/stob_2ut_2stob_8c.html#a21bc784993cb8b9eb63f5f118397d5b2" title="stob_ut_stob_multi" alt="" coords="221,309,353,336"/>
+<area shape="rect" id="node9" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="448,323,517,349"/>
+<area shape="rect" id="node10" href="$da/dda/group__utstob.html#gaa920f02e4467bc8c48ebd9c710e6cc92" title="m0_ut_stob_put" alt="" coords="229,411,344,437"/>
+<area shape="rect" id="node11" href="$d9/d6a/group__stob.html#ga4d10adb313f230cebeefde167296afb5" title="m0_stob_ut_ad_fini" alt="" coords="219,461,354,488"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="cc_fom_state_test" name="cc_fom_state_test">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="386,70,506,97"/>
+<area shape="rect" id="node3" href="$d5/d5d/ut_2cob__foms_8c.html#a258682e60679fec053605d354538e93a" title="cd_stob_delete_test" alt="" coords="184,273,323,300"/>
+<area shape="rect" id="node4" href="$d5/d5d/ut_2cob__foms_8c.html#ae24439e1e2b124bda3832544ff9e5556" title="cc_fom_alloc" alt="" coords="397,121,495,148"/>
+<area shape="rect" id="node5" href="$d9/d51/cob__foms_8c.html#a98bda837cc71cf2bb006d7bf018d86ab" title="cob_fom_get" alt="" coords="569,425,667,452"/>
+<area shape="rect" id="node6" href="$d5/d5d/ut_2cob__foms_8c.html#a4323ab3c78813cfb2510a58412083f4f" title="fom_dtx_init" alt="" coords="399,425,493,452"/>
+<area shape="rect" id="node7" href="$d5/d5d/ut_2cob__foms_8c.html#a0af5d51ed87d3c253b1f680c45ac4ca0" title="fom_stob_tx_credit" alt="" coords="379,476,513,502"/>
+<area shape="rect" id="node8" href="$d5/d5d/ut_2cob__foms_8c.html#a8867bc15b554f03db04a1180288edf4a" title="fom_dtx_done" alt="" coords="394,172,498,198"/>
+<area shape="rect" id="node9" href="$d5/d5d/ut_2cob__foms_8c.html#a40288d85939ff4b77753491335512e3e" title="cd_fom_alloc" alt="" coords="397,222,495,249"/>
+<area shape="rect" id="node10" href="$d9/d6a/group__stob.html#ga89cc6324e7aea71f4f6a2a9638ba4471" title="m0_stob_delete_mark" alt="" coords="371,526,521,553"/>
+<area shape="rect" id="node11" href="$d5/d5d/ut_2cob__foms_8c.html#ab085b38b9a6823df14a23fc2300562da" title="cd_fom_dealloc" alt="" coords="389,324,503,350"/>
+<area shape="rect" id="node12" href="$d5/d5d/ut_2cob__foms_8c.html#a0604cc249a2e5c1e53d366b5a5639c47" title="cc_fom_dealloc" alt="" coords="389,374,503,401"/>
+<area shape="rect" id="node13" href="$d9/d51/cob__foms_8c.html#afef203006463196deaab273dadc1e521" title="cob_ops_fom_tick" alt="" coords="189,577,317,604"/>
+<area shape="rect" id="node14" href="$d1/d59/group__fom.html#ga0d4cf60def3ba4390460d35d68902cb7" title="m0_fom_rc" alt="" coords="403,628,489,654"/>
+<area shape="rect" id="node15" href="$d5/d5d/ut_2cob__foms_8c.html#a0c4fa7b253e548dcc52c127728b6cba7" title="cob_verify" alt="" coords="212,678,295,705"/>
+</map>

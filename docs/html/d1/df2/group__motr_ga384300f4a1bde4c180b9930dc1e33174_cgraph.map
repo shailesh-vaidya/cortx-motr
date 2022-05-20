@@ -1,0 +1,9 @@
+<map id="motr_ha_level_enter" name="motr_ha_level_enter">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="397,95,463,121"/>
+<area shape="rect" id="node3" href="$db/dec/group__ha.html#gaedb93e14d2ea7f758b6e16c0eccbf41d" title="m0_ha_init" alt="" coords="225,32,311,59"/>
+<area shape="rect" id="node4" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="397,32,463,59"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="392,171,468,197"/>
+<area shape="rect" id="node6" href="$d5/d7c/group__ha-dispatcher.html#ga2c3d3b16cb3cae6af37277075bd59d78" title="m0_ha_dispatcher_init" alt="" coords="192,133,344,160"/>
+<area shape="rect" id="node7" href="$db/dec/group__ha.html#gadeb26739822db1217e8f920ef5d9af7d" title="m0_ha_start" alt="" coords="221,184,315,211"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#ga5f5aa5717aaeea3cefb3152ec0002d3e" title="m0_ha_connect" alt="" coords="211,285,325,312"/>
+</map>

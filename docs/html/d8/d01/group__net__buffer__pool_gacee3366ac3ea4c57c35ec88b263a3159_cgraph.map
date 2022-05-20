@@ -1,0 +1,6 @@
+<map id="buffer_remove" name="buffer_remove">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga7d32f0da403ee9a79c5c49a6efa90da3" title="m0_net_buffer_deregister" alt="" coords="157,5,325,32"/>
+<area shape="rect" id="node3" href="$d0/d7f/group__vec.html#ga95f9e28738990276e914082ede456ea5" title="m0_bufvec_free_aligned\l_packed" alt="" coords="160,57,323,98"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="207,123,276,149"/>
+<area shape="rect" id="node5" href="$d8/d01/group__net__buffer__pool.html#gaa49f3dade06b0e05f6ea7df746aab950" title="m0_net_buffer_pool\l_invariant" alt="" coords="174,174,309,215"/>
+</map>

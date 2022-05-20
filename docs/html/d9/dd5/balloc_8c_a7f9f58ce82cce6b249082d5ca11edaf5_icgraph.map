@@ -1,0 +1,7 @@
+<map id="is_normal" name="is_normal">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a2c562eb3163c3e8a7b310f736db7d3dc" title="is_any" alt="" coords="177,56,237,83"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a62f9e3613c1b6523641c3d77f1980e17" title="balloc_is_good_group" alt="" coords="329,5,476,32"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#a373e3eda233bab1e419d0a8262adafbd" title="balloc_regular_allocator" alt="" coords="524,107,683,133"/>
+<area shape="rect" id="node5" href="$d9/dd5/balloc_8c.html#ae8503568b94294df832d497ed77ff300" title="allocate_blocks" alt="" coords="347,107,459,133"/>
+<area shape="rect" id="node6" href="$d9/dd5/balloc_8c.html#ae69edc18179ec56bcd41be9e08d0c278" title="balloc_try_best_found" alt="" coords="132,208,281,235"/>
+</map>

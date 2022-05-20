@@ -1,0 +1,7 @@
+<map id="m0_rpc_at_fini" name="m0_rpc_at_fini">
+<area shape="rect" id="node2" href="$d8/d64/group__buf.html#ga2086c6e285594f42f5c669f805263905" title="m0_buf_free" alt="" coords="343,42,438,69"/>
+<area shape="rect" id="node3" href="$d9/dd2/group__net.html#gab16eda634f902b4235b0107145230c5e" title="m0_net_desc_free" alt="" coords="160,29,289,55"/>
+<area shape="rect" id="node4" href="$d8/d64/group__buf.html#gab5e0f6d1f372dc267c5f9795e4eae6bf" title="m0_buf_is_set" alt="" coords="337,118,444,145"/>
+<area shape="rect" id="node5" href="$d7/df1/group__rpc-at.html#ga77c56ae70f4a990ae2c2109da03831f7" title="rpc_at_bulk" alt="" coords="180,130,269,157"/>
+<area shape="rect" id="node6" href="$d7/df1/group__rpc-at.html#ga5ea47c2ff1028032fcd1bc618637c375" title="rpc_at_bulk_fini" alt="" coords="168,79,281,106"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="test_spiel_fs_stats" name="test_spiel_fs_stats">
+<area shape="rect" id="node2" href="$d1/d15/group__finject.html#ga1da270e9922b1aab138e3cbb15f15f38" title="m0_fi_enable_once" alt="" coords="194,5,329,32"/>
+<area shape="rect" id="node3" href="$d1/d15/group__finject.html#gafbabede1987f5dcb980506244251aaa7" title="m0_fi_enable" alt="" coords="212,56,311,83"/>
+<area shape="rect" id="node4" href="$d9/dad/spiel__ci__ut_8c.html#aaa15f99cda35851207c50a12d53e359f" title="spiel_ci_ut_init" alt="" coords="207,107,315,133"/>
+<area shape="rect" id="node5" href="$d1/d15/group__finject.html#ga47f37402b151ba13d96e5db798ac277b" title="m0_fi_disable" alt="" coords="210,157,313,184"/>
+<area shape="rect" id="node6" href="$df/d3a/group__spiel-api-fspec-intr.html#gacff7b14e8e3de3e480016720a858166b" title="m0_spiel_filesystem\l_stats_fetch" alt="" coords="191,209,332,250"/>
+<area shape="rect" id="node7" href="$d9/dad/spiel__ci__ut_8c.html#a847e37906a7c67cf56a938f2ad846d53" title="spiel_fs_stats_check" alt="" coords="189,275,334,301"/>
+<area shape="rect" id="node8" href="$db/dec/group__ha.html#gab65c7e0cbe52183aceb6ff798474757f" title="m0_ha_client_add" alt="" coords="198,325,325,352"/>
+<area shape="rect" id="node9" href="$d0/dc7/group__ha-note.html#gaa1fae0405820e1c801950248dfb351d5" title="m0_ha_state_accept" alt="" coords="190,376,333,403"/>
+<area shape="rect" id="node10" href="$db/dec/group__ha.html#ga58ee0db498285197a79e3df09a11528b" title="m0_ha_client_del" alt="" coords="200,427,323,453"/>
+<area shape="rect" id="node11" href="$d9/dad/spiel__ci__ut_8c.html#a2b841dcb4916e033b45387f65113dd20" title="test_spiel_fs_ios_total" alt="" coords="185,477,337,504"/>
+<area shape="rect" id="node12" href="$d9/dad/spiel__ci__ut_8c.html#a1fbadce7d3c77bdbdb4e62946a2398e8" title="spiel_ci_ut_fini" alt="" coords="207,528,315,555"/>
+</map>

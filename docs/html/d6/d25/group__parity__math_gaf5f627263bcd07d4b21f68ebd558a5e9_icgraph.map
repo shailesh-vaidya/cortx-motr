@@ -1,0 +1,14 @@
+<map id="m0_parity_math_init" name="m0_parity_math_init">
+<area shape="rect" id="node2" href="$d6/d59/group___s_n_s_c_m_a_g.html#ga0eb21af9c1ed5483c6c311e3b726609d" title="incr_recover_init" alt="" coords="215,5,332,32"/>
+<area shape="rect" id="node3" href="$df/d01/group__pdclust.html#ga7cd33d77d61a43d139326c1ebe91537c" title="pdclust_instance_build" alt="" coords="196,56,351,83"/>
+<area shape="rect" id="node4" href="$d9/d5b/repair_2ut_2xform_8c.html#a519a774209f84ba545823e3f10e01230" title="rs_init" alt="" coords="245,107,302,133"/>
+<area shape="rect" id="node5" href="$d9/d5b/repair_2ut_2xform_8c.html#aeb4bc412309042c66d4fa7855e8099b2" title="test_multi_cp_multi\l_failures" alt="" coords="403,125,537,166"/>
+<area shape="rect" id="node6" href="$d5/d77/parity__math__mt__ub_8c.html#ae937b99e8a16fb10f24758e4c8600838" title="tb_thread" alt="" coords="235,208,311,235"/>
+<area shape="rect" id="node7" href="$d1/d0e/parity__math__ut_8c.html#a4a5811a23c9a21eaa0035017c492babf" title="test_recovery" alt="" coords="223,259,324,285"/>
+<area shape="rect" id="node8" href="$d1/d0e/parity__math__ut_8c.html#a8389cd37a6a2f1df6d7818b303e47ad5" title="test_rs_fv_rand_recover" alt="" coords="192,309,355,336"/>
+<area shape="rect" id="node9" href="$d1/d0e/parity__math__ut_8c.html#a91a0ac121b2ff416d5adfa8dd7f59228" title="test_parity_math_diff" alt="" coords="202,360,345,387"/>
+<area shape="rect" id="node10" href="$d1/d0e/parity__math__ut_8c.html#aedd97c144ed59c5539ce7607c684fba3" title="test_incr_recov_init" alt="" coords="206,411,341,437"/>
+<area shape="rect" id="node11" href="$d1/d0e/parity__math__ut_8c.html#a64a56c9951b72749c4fe1a330eecead4" title="test_incr_recov" alt="" coords="218,461,329,488"/>
+<area shape="rect" id="node12" href="$d1/d0e/parity__math__ut_8c.html#aeccb5b087e658f45e4c9c525a6fb797e" title="test_invalid_input" alt="" coords="212,512,335,539"/>
+<area shape="rect" id="node13" href="$d1/d0e/parity__math__ut_8c.html#ab311eba92c1b9af5781b93e7867dfe6b" title="parity_math_tb" alt="" coords="219,563,327,589"/>
+</map>

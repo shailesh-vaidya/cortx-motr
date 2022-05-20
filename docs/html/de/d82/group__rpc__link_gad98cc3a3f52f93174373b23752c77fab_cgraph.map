@@ -1,0 +1,10 @@
+<map id="m0_rpc_link_init" name="m0_rpc_link_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#ga156c33ba284b2a346414c38891148114" title="m0_net_end_point_create" alt="" coords="169,5,340,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="388,81,455,108"/>
+<area shape="rect" id="node4" href="$df/db4/group__rpc__session.html#ga83163fc09d5543c85cd1c1a2a1d9670f" title="m0_rpc_conn_init" alt="" coords="193,107,317,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#gaefce6a1c8eeaca5e47c72e728cf89f0c" title="m0_net_end_point_put" alt="" coords="178,157,331,184"/>
+<area shape="rect" id="node6" href="$df/db4/group__rpc__session.html#gae3f0e9a8ffe872f98d2bdbf2f037b397" title="m0_rpc_session_init" alt="" coords="184,208,325,235"/>
+<area shape="rect" id="node7" href="$df/db4/group__rpc__session.html#gafac3857111012e74e39d7c5d30a817d3" title="m0_rpc_conn_fini" alt="" coords="193,259,317,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="201,309,308,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="205,360,304,387"/>
+</map>

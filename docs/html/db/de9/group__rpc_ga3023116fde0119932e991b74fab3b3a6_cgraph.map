@@ -1,0 +1,7 @@
+<map id="bufvec_geometry" name="bufvec_geometry">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga54e957c6ef8d4aee0062051d83744ff2" title="m0_rpc_max_msg_size" alt="" coords="176,5,336,32"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga7223b8bc97ed89492efa45bd9415691a" title="m0_rpc_max_seg_size" alt="" coords="178,56,334,83"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga7345f0e155fcc6e1709d9aae8c709afa" title="m0_rpc_max_segs_nr" alt="" coords="181,107,331,133"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="219,157,293,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="211,208,301,235"/>
+</map>

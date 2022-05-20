@@ -1,0 +1,8 @@
+<map id="m0_ha_client_del" name="m0_ha_client_del">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="205,5,270,32"/>
+<area shape="rect" id="node3" href="$da/dc4/net_2bulk__emulation_2st_2main_8c.html#ab0fed345e504e27fe6a6d3bf4d71d8e6" title="client" alt="" coords="211,56,264,83"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#gaee81a232dc788a9a1de91c404a6309ca" title="ha_global_lock" alt="" coords="183,107,291,133"/>
+<area shape="rect" id="node5" href="$d4/de4/refs_8c.html#a96dc9c89402bf6a5782c951d9de8285b" title="m0_ref_put" alt="" coords="194,157,281,184"/>
+<area shape="rect" id="node6" href="$db/dec/group__ha.html#ga0761b9be3a8056389fcf3865fd4e2129" title="ha_global_unlock" alt="" coords="176,208,299,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="204,259,271,285"/>
+</map>

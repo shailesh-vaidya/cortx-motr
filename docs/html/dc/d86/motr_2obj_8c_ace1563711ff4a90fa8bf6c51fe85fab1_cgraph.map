@@ -1,0 +1,12 @@
+<map id="obj_op_prepare" name="obj_op_prepare">
+<area shape="rect" id="node2" href="$d6/db6/motr_2client_8c.html#ac494f31f6665bc92110786d65484f015" title="entity_invariant_full" alt="" coords="320,49,455,76"/>
+<area shape="rect" id="node3" href="$d1/dc1/group__sm.html#ga3082ade585a8728475e2e5b00f2370a1" title="m0_sm_group_is_locked" alt="" coords="503,24,669,50"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="553,150,619,177"/>
+<area shape="rect" id="node5" href="$d6/db6/motr_2client_8c.html#a77cfe55a648d401682e655d5c3609343" title="m0_op_alloc" alt="" coords="171,252,265,278"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="349,302,425,329"/>
+<area shape="rect" id="node7" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="334,201,441,228"/>
+<area shape="rect" id="node8" href="$d6/db6/motr_2client_8c.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="175,150,261,177"/>
+<area shape="rect" id="node9" href="$dc/d86/motr_2obj_8c.html#a8a18c477e055fa4c868045cc941836f9" title="obj_op_obj_init" alt="" coords="164,353,272,380"/>
+<area shape="rect" id="node10" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="175,404,261,430"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="173,454,263,481"/>
+</map>

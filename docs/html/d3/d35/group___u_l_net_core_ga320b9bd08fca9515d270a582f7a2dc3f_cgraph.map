@@ -1,0 +1,20 @@
+<map id="nlx_core_tm_start" name="nlx_core_tm_start">
+<area shape="rect" id="node2" href="$d0/d04/group__mutex.html#ga0c96633d90ccf7e2ed6ffee75d983975" title="m0_mutex_is_locked" alt="" coords="199,5,344,32"/>
+<area shape="rect" id="node3" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gaa6e85aee1e5a5cb6b06ec6f011bca497" title="nlx_tm_invariant" alt="" coords="213,56,330,83"/>
+<area shape="rect" id="node4" href="$d6/d8a/group___k_l_net_core.html#gae856324eb9fc162a2b11e941c68d09e6" title="nlx_kcore_domain_invariant" alt="" coords="180,107,363,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="464,183,540,209"/>
+<area shape="rect" id="node6" href="$d6/d8a/group___k_l_net_core.html#gacb2945bb68945909f2c8a6fa11d3c5e7" title="nlx_core_kmem_loc_set" alt="" coords="190,259,353,285"/>
+<area shape="rect" id="node7" href="$d6/d8a/group___k_l_net_core.html#gac719bed942935b271e6f0104630a2ab6" title="nlx_kcore_tm_start" alt="" coords="205,208,338,235"/>
+<area shape="rect" id="node8" href="$d6/d8a/group___k_l_net_core.html#ga90a62bfb8f2c6418f7f83e0512b25c19" title="nlx_core_new_blessed_bev" alt="" coords="180,309,363,336"/>
+<area shape="rect" id="node9" href="$dd/d08/group__bevcqueue.html#ga1e5ff189be5e9394e1f1ddad3cf64f6f" title="bev_cqueue_init" alt="" coords="213,360,329,387"/>
+<area shape="rect" id="node10" href="$dd/d08/group__bevcqueue.html#ga5d24e1b0bc217d8d53b11f0afcdcce03" title="bev_cqueue_is_empty" alt="" coords="195,411,347,437"/>
+<area shape="rect" id="node11" href="$d8/de0/group___l_net_core.html#ga54d169baf28fd21c1c6df79f6f46a897" title="nlx_core_bev_free_cb" alt="" coords="197,461,346,488"/>
+<area shape="rect" id="node12" href="$d6/d8a/group___k_l_net_core.html#ga559d882d00fc17f06edcaa4b5c74e734" title="nlx_kcore_tm_stop" alt="" coords="205,563,337,589"/>
+<area shape="rect" id="node13" href="$d8/de0/group___l_net_core.html#ga9f14479b63638cf244b29eab39a53c8e" title="nlx_core_tm_invariant" alt="" coords="427,563,577,589"/>
+<area shape="rect" id="node14" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="237,816,306,843"/>
+<area shape="rect" id="node15" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="641,740,708,767"/>
+<area shape="rect" id="node16" href="$d3/d35/group___u_l_net_core.html#gae03491e536a0dfc4dd5231889d5e5d09" title="nlx_ucore_domain_invariant" alt="" coords="411,639,593,665"/>
+<area shape="rect" id="node17" href="$d3/d35/group___u_l_net_core.html#ga30fd6ddb1763e2f0d70bda49050b6ebe" title="nlx_ucore_tm_invariant" alt="" coords="193,867,349,893"/>
+<area shape="rect" id="node18" href="$d3/d35/group___u_l_net_core.html#ga03477b58c5db5c1fe1204969e32685cf" title="nlx_ucore_ioctl" alt="" coords="447,715,557,741"/>
+<area shape="rect" id="node19" href="$d3/d35/group___u_l_net_core.html#gab7706e88a5d48966134b53ec717a6f58" title="nlx_ucore_tm_stop" alt="" coords="205,664,337,691"/>
+</map>

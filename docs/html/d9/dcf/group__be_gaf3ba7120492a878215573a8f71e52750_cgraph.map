@@ -1,0 +1,5 @@
+<map id="m0_be_group_format_recovery_prepare" name="m0_be_group_format_recovery_prepare">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaca01ab659a5d99b3b30d3b21ab5edfa3" title="m0_be_log_recovery\l_record_get" alt="" coords="213,5,355,47"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga67f9fe86f4e73eaad6ffe64637e58729" title="m0_be_log_record_assign" alt="" coords="197,71,371,98"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gaf8de285be31f1bcf77935759c18ac9d1" title="m0_be_log_record_io\l_prepare" alt="" coords="211,123,357,164"/>
+</map>

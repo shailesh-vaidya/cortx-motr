@@ -1,0 +1,6 @@
+<map id="be_tx_bulk_unlock" name="be_tx_bulk_unlock">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga156b902cd0bb716b9e2d27eaf1d07900" title="be_tx_bulk_finish_cb" alt="" coords="189,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gafa0c54fff513825134fd505be0135720" title="be_tx_bulk_open_cb" alt="" coords="190,56,331,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga664ca6b81055daa61ee9ec34f479295a" title="m0_be_tx_bulk_put" alt="" coords="193,107,328,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gace3e3b64f431d325291c4ba565693181" title="m0_be_tx_bulk_status" alt="" coords="184,157,337,184"/>
+</map>

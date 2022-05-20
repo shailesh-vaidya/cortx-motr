@@ -1,0 +1,9 @@
+<map id="dix_put" name="dix_put">
+<area shape="rect" id="node2" href="$d2/d61/group__index-dix.html#ga5c0e6113aa426e358ee3bc829ec7fb59" title="dix_set_idx_flags" alt="" coords="117,5,240,32"/>
+<area shape="rect" id="node3" href="$d2/d61/group__index-dix.html#gad8f5ea29525bd74216073c2c301668a3" title="dix_req_create" alt="" coords="125,107,232,133"/>
+<area shape="rect" id="node4" href="$d2/d61/group__index-dix.html#ga906830b2831618928ca065ff958adf9f" title="idx_is_distributed" alt="" coords="288,81,411,108"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="311,183,387,209"/>
+<area shape="rect" id="node6" href="$d2/d61/group__index-dix.html#gab91218740d5c52600576342799d5c72b" title="dix_req_exec" alt="" coords="129,208,228,235"/>
+<area shape="rect" id="node7" href="$d2/d61/group__index-dix.html#gaec7112d0cbf93e63f5ed70bb79f6128b" title="dix_put_ast" alt="" coords="134,259,223,285"/>
+<area shape="rect" id="node8" href="$d2/d61/group__index-dix.html#ga7544f01bcd9354f745e019fafd240ab7" title="cas_put_ast" alt="" coords="132,309,225,336"/>
+</map>

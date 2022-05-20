@@ -1,0 +1,17 @@
+<map id="buf_add" name="buf_add">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#gafea137fe2248694702f66bd158c45022" title="buf_ma" alt="" coords="147,5,212,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#gaea9acfa0baa7ea23380d77247e9894d6" title="ma_is_locked" alt="" coords="285,385,388,412"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#ga69b566f47f16edf4094db7e7794ddac7" title="ma_invariant" alt="" coords="131,107,227,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#ga7d9e1d49b40b58dcb0d60a64aa70c4aa" title="ep_net" alt="" coords="306,171,367,197"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#gaca062f63e8a27154bb6e046504692bc9" title="buf_invariant" alt="" coords="289,95,385,121"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga429999edeace62099ef3af8bd784d97d" title="mover_init" alt="" coords="138,259,221,285"/>
+<area shape="rect" id="node8" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="126,309,233,336"/>
+<area shape="rect" id="node9" href="$d5/d16/group__netsock.html#ga45a84b5062bc213795304baca5b13f74" title="ep_add" alt="" coords="147,664,211,691"/>
+<area shape="rect" id="node10" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="303,563,370,589"/>
+<area shape="rect" id="node11" href="$da/dd3/group__cookie.html#ga70e6219c7f5302e50b667d2d614f0e1f" title="m0_cookie_new" alt="" coords="121,461,237,488"/>
+<area shape="rect" id="node12" href="$d5/d16/group__netsock.html#gac04519716eaedbe76c2c3cc947eff2f6" title="bdesc_create" alt="" coords="129,512,229,539"/>
+<area shape="rect" id="node13" href="$d5/d16/group__netsock.html#gaab89d3e82371dfcccd5807a8762c2baa" title="ma_src" alt="" coords="147,208,212,235"/>
+<area shape="rect" id="node14" href="$d5/d16/group__netsock.html#ga765e88256787793065e7620d01449d4d" title="bdesc_decode" alt="" coords="126,613,233,640"/>
+<area shape="rect" id="node15" href="$d5/d16/group__netsock.html#ga87fd9494dc7688b4f4cddb2bc5bfbaaa" title="ep_create" alt="" coords="140,360,219,387"/>
+<area shape="rect" id="node16" href="$d5/d16/group__netsock.html#ga023f04699c602a061ce4d4353e71c78a" title="mover_fini" alt="" coords="138,715,221,741"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="m0_net_test_stats_invariant" name="m0_net_test_stats_invariant">
+<area shape="rect" id="node2" href="$d2/de9/group___net_test_stats_d_f_s.html#gab18ed4368c5805b1c1a1fe1b171b001c" title="m0_net_test_stats_reset" alt="" coords="240,5,407,32"/>
+<area shape="rect" id="node3" href="$d2/de9/group___net_test_stats_d_f_s.html#gae8531c383c48dce44a93b15da5f5b03c" title="m0_net_test_stats_add" alt="" coords="244,56,403,83"/>
+<area shape="rect" id="node4" href="$d2/de9/group___net_test_stats_d_f_s.html#gaa43bebc6747cdb766e1ad33e9ff5e5d2" title="m0_net_test_stats_add\l_stats" alt="" coords="244,107,403,149"/>
+<area shape="rect" id="node5" href="$d2/de9/group___net_test_stats_d_f_s.html#ga226b827efa950688047507023f5bedb3" title="m0_net_test_stats_min" alt="" coords="244,173,403,200"/>
+<area shape="rect" id="node6" href="$d2/de9/group___net_test_stats_d_f_s.html#ga8449c05467dcc8146863905ea8ddbbc2" title="m0_net_test_stats_max" alt="" coords="242,224,405,251"/>
+<area shape="rect" id="node7" href="$d2/de9/group___net_test_stats_d_f_s.html#ga99753c880a35843566a9581cc17ac87d" title="m0_net_test_stats_sum" alt="" coords="242,275,405,301"/>
+<area shape="rect" id="node8" href="$d2/de9/group___net_test_stats_d_f_s.html#gacd8161d3a9d30686ff6c3c2c6a501213" title="m0_net_test_stats_avg" alt="" coords="244,325,403,352"/>
+<area shape="rect" id="node9" href="$d2/de9/group___net_test_stats_d_f_s.html#ga77b02ec85e9bb9f70a23e7e92a9193b4" title="m0_net_test_stats_stddev" alt="" coords="455,351,631,377"/>
+</map>

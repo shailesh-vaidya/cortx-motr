@@ -1,0 +1,8 @@
+<map id="bulkio_server_fsync_multiple_read_write" name="bulkio_server_fsync_multiple_read_write">
+<area shape="rect" id="node2" href="$d8/dc1/bulkio__common_8c.html#ab372152632187903edea48c54a2ebd5c" title="io_fops_create" alt="" coords="209,5,315,32"/>
+<area shape="rect" id="node3" href="$d8/dc1/bulkio__common_8c.html#ac44a822f8e8685c5b93277a4bb37e774" title="io_fops_rpc_submit" alt="" coords="195,56,329,83"/>
+<area shape="rect" id="node4" href="$d8/dc1/bulkio__common_8c.html#a642841ac9f28126c1474e546b07b3fea" title="io_fops_destroy" alt="" coords="205,107,319,133"/>
+<area shape="rect" id="node5" href="$d8/dc1/bulkio__common_8c.html#a8b17851a49cd516634ca86b084e9c826" title="io_fsync_send_fop" alt="" coords="197,157,327,184"/>
+<area shape="rect" id="node6" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="203,208,321,235"/>
+<area shape="rect" id="node7" href="$d5/d8c/group__reqh.html#ga6c8c49d2292e236f7f005d6dccd189c0" title="m0_reqh_idle_wait" alt="" coords="197,259,327,285"/>
+</map>

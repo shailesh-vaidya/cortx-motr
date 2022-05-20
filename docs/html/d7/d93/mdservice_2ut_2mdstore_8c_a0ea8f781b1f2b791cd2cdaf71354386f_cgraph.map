@@ -1,0 +1,12 @@
+<map id="m0_md_lustre_fop_alloc" name="m0_md_lustre_fop_alloc">
+<area shape="rect" id="node2" href="$de/d16/lustre_8c.html#a615984cee3bee16d0f957a2061e63897" title="lustre_create_fop" alt="" coords="219,5,342,32"/>
+<area shape="rect" id="node3" href="$de/d16/lustre_8c.html#a2cc54ffed47ec7e39d74e6da5e5c39ec" title="lustre_link_fop" alt="" coords="227,56,334,83"/>
+<area shape="rect" id="node4" href="$de/d16/lustre_8c.html#a8237d7d066a234da9bfdf94aa38dfad7" title="lustre_unlink_fop" alt="" coords="221,107,341,133"/>
+<area shape="rect" id="node5" href="$de/d16/lustre_8c.html#afb2af5b430c79d34593b1355fa5e9528" title="lustre_rename_fop" alt="" coords="216,157,345,184"/>
+<area shape="rect" id="node6" href="$de/d16/lustre_8c.html#ac79f020c1e129ad0e84e5f1ba10b3b38" title="lustre_open_fop" alt="" coords="223,208,338,235"/>
+<area shape="rect" id="node7" href="$de/d16/lustre_8c.html#a4cb46f3c7d7320070ede0cea7a4036ba" title="lustre_close_fop" alt="" coords="222,259,339,285"/>
+<area shape="rect" id="node8" href="$de/d16/lustre_8c.html#a24787e0e1f6cd2a4cf71312d26c626da" title="lustre_setattr_fop" alt="" coords="219,309,342,336"/>
+<area shape="rect" id="node9" href="$d6/d39/group__fop.html#gad00c1c283f03916980d84af5fc6e9a5d" title="m0_fop_alloc" alt="" coords="231,411,330,437"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="393,385,483,412"/>
+<area shape="rect" id="node11" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="403,448,473,475"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="m0_sm_addb2_counter_init" name="m0_sm_addb2_counter_init">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#ae07b72fdd71b6c046ed3cdc76e86befe" title="obj_io_init" alt="" coords="268,5,348,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga4b03f657a2392834f16002dfccc28736" title="be_op_sm_init" alt="" coords="255,56,361,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga175328f0c01a64b996894fff5a350565" title="m0_be_tx_init" alt="" coords="257,107,359,133"/>
+<area shape="rect" id="node5" href="$d2/d64/group__cas-client.html#gaa2bd53271528f705f6c6393dddb63ee8" title="m0_cas_req_init" alt="" coords="249,157,367,184"/>
+<area shape="rect" id="node6" href="$d7/dcd/motr_2client__internal_8h.html#a4d437cde44a26b51d4f530a9e6e0954a" title="m0_op_init" alt="" coords="265,208,351,235"/>
+<area shape="rect" id="node7" href="$dd/d33/group__dix.html#ga946c4fd2588c391893d210ab0827bef8" title="dix_req_init" alt="" coords="264,259,352,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#gac327f37525560c6da6f939d4a758758d" title="dtx_init" alt="" coords="276,309,340,336"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga94465e93b19066910484101bedaca4c8" title="addb2_introduce" alt="" coords="249,360,367,387"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#ga7702ca5b4bf721c63fe0f3a982250493" title="m0_rpc_item_sm_init" alt="" coords="235,411,381,437"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="m0_confc_ctx_fini_locked" name="m0_confc_ctx_fini_locked">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga584f691edb49d1db92dc863a18ae5bb4" title="ctx_invariant" alt="" coords="256,5,352,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#gac56de2939c373a3941abd620b417b699" title="confc_group_is_locked" alt="" coords="227,56,381,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="255,107,353,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#ga7131632d1b1b034ee18108f26678a3a0" title="confc_lock" alt="" coords="261,157,347,184"/>
+<area shape="rect" id="node6" href="$dd/d7b/group__conf__dlspec__objops.html#gacc98aded84d2e0d8f34880ad2db4c727" title="m0_conf_obj_put" alt="" coords="243,208,365,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="429,233,519,260"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga54306d69a4c20456d4e814e52f32f99c" title="m0_chan_signal_lock" alt="" coords="231,309,377,336"/>
+<area shape="rect" id="node9" href="$d5/d25/group__confc__dlspec.html#gace27ac8ff8cd441cad9cea2ae2813a2e" title="confc_unlock" alt="" coords="255,360,353,387"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga22cf05c6937b3cea98367c6c8fc85600" title="m0_sm_fini" alt="" coords="259,411,349,437"/>
+<area shape="rect" id="node11" href="$db/de9/group__rpc.html#gaf2d979af233312b28864ccc46435c975" title="m0_rpc_item_put_lock" alt="" coords="227,461,381,488"/>
+</map>

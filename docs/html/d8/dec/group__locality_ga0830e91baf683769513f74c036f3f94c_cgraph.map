@@ -1,0 +1,5 @@
+<map id="m0_locality_chore_fini" name="m0_locality_chore_fini">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#gafe8da9200c9a673858c04adaaddbaca8" title="chore_del_all" alt="" coords="220,5,319,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="204,56,335,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="216,107,323,133"/>
+</map>

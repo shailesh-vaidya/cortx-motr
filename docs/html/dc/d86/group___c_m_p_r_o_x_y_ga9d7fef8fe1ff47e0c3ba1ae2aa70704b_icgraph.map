@@ -1,0 +1,6 @@
+<map id="m0_cm_proxy_del" name="m0_cm_proxy_del">
+<area shape="rect" id="node2" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#ab7922e7bb413748349a2ef008c18aebd" title="receiver_fini" alt="" coords="207,5,299,32"/>
+<area shape="rect" id="node3" href="$da/d87/sns_2cm_2repair_2ut_2net_8c.html#a8e63fd237ca099309c27de13793f664d" title="sender_fini" alt="" coords="210,56,295,83"/>
+<area shape="rect" id="node4" href="$d0/da4/group___c_m.html#gaad99e54f148c0ed8a9aea071e819375c" title="cm_replicas_destroy" alt="" coords="181,107,324,133"/>
+<area shape="rect" id="node5" href="$d0/da4/group___c_m.html#ga5097e16730b736aa1518d14f036acec7" title="m0_cm_proxies_fini" alt="" coords="183,157,322,184"/>
+</map>

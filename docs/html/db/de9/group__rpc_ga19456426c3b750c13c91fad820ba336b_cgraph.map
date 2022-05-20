@@ -1,0 +1,9 @@
+<map id="item_done" name="item_done">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="351,15,515,42"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#gacdaf2ecfd6fba38bedbbce4c03399b1d" title="m0_rpc_item_is_oneway" alt="" coords="136,269,303,295"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#gaa30c26be52bcb511339a632deae6c092" title="m0_rpc_item_put" alt="" coords="371,66,494,93"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga0f16ce4d1bbc5beb48c1ebf0bde4504e" title="m0_rpc_item_remote\l_ep_addr" alt="" coords="361,189,505,231"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga8d8e2e2914b7398e807e0a00426e4a81" title="m0_rpc_item_failed" alt="" coords="152,117,287,143"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="388,117,477,143"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga5a8fdf6d8b77168c423a8c63e22f01d1" title="item_sent" alt="" coords="180,66,259,93"/>
+</map>

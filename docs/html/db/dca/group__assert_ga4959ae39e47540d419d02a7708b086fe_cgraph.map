@@ -1,0 +1,5 @@
+<map id="m0_panic" name="m0_panic">
+<area shape="rect" id="node2" href="$d2/d0b/version_8c.html#aad711ae4f11e7fa2e2089b3e6b16d961" title="m0_build_info_get" alt="" coords="337,24,464,51"/>
+<area shape="rect" id="node3" href="$d8/d98/group__trace.html#ga8560075c3da97abb7c0273809ea823e9" title="m0_trace_file_path_get" alt="" coords="132,24,289,51"/>
+<area shape="rect" id="node4" href="$db/dca/group__assert.html#ga1cf3e4b902d0f2f2e5ef88d226a466ef" title="m0_arch_panic" alt="" coords="155,75,266,102"/>
+</map>

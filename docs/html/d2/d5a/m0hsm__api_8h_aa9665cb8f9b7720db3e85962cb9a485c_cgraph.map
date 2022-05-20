@@ -1,0 +1,15 @@
+<map id="m0hsm_create" name="m0hsm_create">
+<area shape="rect" id="node2" href="$d0/d8c/m0hsm__api_8c.html#a277750fa428e66921c8eca57e20e7bde" title="is_hsm_reserved" alt="" coords="186,5,307,32"/>
+<area shape="rect" id="node3" href="$d0/d8c/m0hsm__api_8c.html#a1c7c98623ca96fa33823d8f022783d5c" title="create_obj" alt="" coords="205,107,288,133"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga85af3d02bf2fc2737f7bd0410ba1a2e4" title="m0_entity_fini" alt="" coords="380,132,483,159"/>
+<area shape="rect" id="node5" href="$d0/d8c/m0hsm__api_8c.html#a2d56e3aa9e2aafb19591000cbfd2153e" title="hsm_subobj_id" alt="" coords="192,360,301,387"/>
+<area shape="rect" id="node6" href="$d0/d8c/m0hsm__api_8c.html#acddcbc903744abe3273c7a2a3328b185" title="hsm_prio" alt="" coords="394,335,469,361"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#ga23e3f6f118290b03af9b0cb09b94113c" title="m0_client_layout_alloc" alt="" coords="169,259,324,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="393,487,469,513"/>
+<area shape="rect" id="node9" href="$d2/def/group__client.html#ga4831dd6b23563c820344c4e9b8a95abe" title="m0_composite_layer_add" alt="" coords="161,563,332,589"/>
+<area shape="rect" id="node10" href="$d0/d8c/m0hsm__api_8c.html#a037794454e86d895304666afb4fa6df3" title="layer_extent_add" alt="" coords="186,208,307,235"/>
+<area shape="rect" id="node11" href="$d2/def/group__client.html#ga671a9ee2857c9f1f649f71368b945ad8" title="m0_composite_layer_del" alt="" coords="163,461,330,488"/>
+<area shape="rect" id="node12" href="$d2/def/group__client.html#gae96fd3eff9ac91a4beca24aa0676d80c" title="m0_client_layout_free" alt="" coords="172,512,321,539"/>
+<area shape="rect" id="node13" href="$d0/d8c/m0hsm__api_8c.html#a1d6ad3d5ab10d869cd07845494c6d6d8" title="create_obj_with_layout" alt="" coords="169,56,324,83"/>
+<area shape="rect" id="node14" href="$d0/d8c/m0hsm__api_8c.html#ac4ab2b522020d161ca38b76740314406" title="obj_layout_set" alt="" coords="193,613,300,640"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="m0_free_aligned" name="m0_free_aligned">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga974bb94139b559b0cd412fbdbeded50c" title="it_free" alt="" coords="226,5,285,32"/>
+<area shape="rect" id="node3" href="$d0/d9e/group__addb2.html#ga32ca638b57517b6ce843ea6c5b17c214" title="frame_fini" alt="" coords="216,56,295,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gae9ca295a90fdc9f2c76238a5ef04dc35" title="be_log_record_iter_read" alt="" coords="175,107,335,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#gaf3f14d02e062dee0ddbcf4d71253e09f" title="m0_be_log_io_allocate" alt="" coords="178,208,333,235"/>
+<area shape="rect" id="node6" href="$d4/d6f/ut_2log__store_8c.html#a867de49521e4e636371b13a9a790f931" title="be_ut_log_store_io\l_translate" alt="" coords="391,201,522,242"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga793f43d253b95e455c7cd1dbe3696ad1" title="m0_be_log_io_deallocate" alt="" coords="171,259,339,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga9c1f9949eb0b9a77a5592b842eb2502c" title="be_log_store_buf_free\l_aligned" alt="" coords="180,310,331,351"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gad220410549d2ce61c819531856efd1cc" title="be_log_store_zero" alt="" coords="191,376,319,403"/>
+<area shape="rect" id="node10" href="$d7/de5/group__confd__stob.html#ga51c448525548acaca6aaac90408b5de3" title="m0_confd_stob_read" alt="" coords="184,528,327,555"/>
+<area shape="rect" id="node11" href="$d4/d8c/group__conf__foms.html#gab3e4fda5a8a84ac3a9721dcacfacf8b0" title="conf_flip_apply" alt="" coords="402,452,511,479"/>
+<area shape="rect" id="node12" href="$d9/dd4/load_8c.html#afffd338a67c7f7cc6c6247d4de1bea35" title="conf_save_load" alt="" coords="400,516,513,543"/>
+<area shape="rect" id="node13" href="$d9/dd4/load_8c.html#ab7af0d3abb2c2ce7d0e7a44cb9597dc0" title="conf_save_load_fail" alt="" coords="388,567,525,593"/>
+<area shape="rect" id="node14" href="$d0/dc4/group__conf__dfspec__preload.html#ga8bdd0219ba175080ca79f29eab77e943" title="m0_confx_to_string" alt="" coords="187,629,323,656"/>
+<area shape="rect" id="node15" href="$d0/dc4/group__conf__dfspec__preload.html#ga33c10d634a077c37a206826101214ab5" title="m0_confx_string_free" alt="" coords="182,680,329,707"/>
+<area shape="rect" id="node16" href="$da/d03/m0t1fs_2linux__kernel_2ut_2file_8c.html#a5a0bd22e448f85edf59192ea3e3cd2c0" title="target_ioreq_test" alt="" coords="196,731,315,757"/>
+<area shape="rect" id="node17" href="$dd/d27/bulkio__client_8c.html#a662783561b8b4b3aa029828b56cdf83d" title="bulkclient_test" alt="" coords="202,781,309,808"/>
+<area shape="rect" id="node18" href="$df/d37/group___coroutine.html#ga7ae238784a7079de56b7d1a1d67b02a4" title="locals_alloc_fini" alt="" coords="198,832,313,859"/>
+<area shape="rect" id="node19" href="$d7/ded/group__memory.html#gaa00a0bdf4833131e4b02b5f132cf94a6" title="m0_arch_free_wired" alt="" coords="186,883,325,909"/>
+<area shape="rect" id="node20" href="$d9/dad/ut_2memory_8c.html#a941f470366a6f96c79e7dfe2a83033f7" title="test_memory" alt="" coords="206,933,305,960"/>
+<area shape="rect" id="node21" href="$d0/d7f/group__vec.html#ga077f6502a611634c74d805407f9087e2" title="bufvec_free_aligned" alt="" coords="186,984,325,1011"/>
+<area shape="rect" id="node22" href="$db/d27/io__pargrp_8c.html#adf2657e9dc60c6d0ba523dfc333ccdd9" title="data_buf_dealloc_fini" alt="" coords="183,1035,327,1061"/>
+<area shape="rect" id="node23" href="$db/d27/io__pargrp_8c.html#a67787c693fb163ff61d5aee05ae8cd77" title="data_buf_alloc_init" alt="" coords="190,1085,321,1112"/>
+<area shape="rect" id="node24" href="$db/d27/io__pargrp_8c.html#a14ec11ba28525c4a55f45607117bd16f" title="pargrp_iomap_parity\l_recalc" alt="" coords="186,1137,325,1178"/>
+<area shape="rect" id="node25" href="$db/d27/io__pargrp_8c.html#a7a7adbb2f224c2a18d329291e44679a3" title="pargrp_iomap_dgmode\l_recover" alt="" coords="179,1202,332,1243"/>
+<area shape="rect" id="node26" href="$db/d27/io__pargrp_8c.html#ad6e99c93cf477d1b68d6a6cec2f5e909" title="pargrp_iomap_parity\l_verify" alt="" coords="186,1267,325,1309"/>
+<area shape="rect" id="node27" href="$da/d01/ut_2io__pargrp_8c.html#a6e84cde6029f11a0671ab9900ee492b7" title="ut_test_pargrp_iomap\l_auxbuf_alloc" alt="" coords="182,1333,329,1374"/>
+<area shape="rect" id="node28" href="$da/d01/ut_2io__pargrp_8c.html#a341d6472563c13c9438c409566a99dda" title="ut_test_pargrp_iomap\l_readold_auxbuf_alloc" alt="" coords="180,1398,331,1439"/>
+<area shape="rect" id="node29" href="$d2/d16/read_8c.html#ab8ba99964d74c10bb62c6f1e2e309382" title="read_multiple_blocks\l_into_aligned_buffers" alt="" coords="183,1463,327,1505"/>
+<area shape="rect" id="node30" href="$d7/dfd/io__dummy_8c.html#acc97176ce5632e27554d7cb42bc9875d" title="ut_dummy_data_buf_free" alt="" coords="171,1529,340,1556"/>
+<area shape="rect" id="node31" href="$d0/d9a/lut__main_8c.html#a93811cce0081bec2dcaee5da32c35735" title="lut_mem_free" alt="" coords="205,1580,306,1607"/>
+<area shape="rect" id="node32" href="$d1/d0e/parity__math__ut_8c.html#ab98d80686a49384d3b592d619784e1e4" title="_buf_free" alt="" coords="217,1631,293,1657"/>
+</map>

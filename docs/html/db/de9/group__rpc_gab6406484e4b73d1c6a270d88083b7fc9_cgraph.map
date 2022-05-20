@@ -1,0 +1,11 @@
+<map id="m0_rpc_post" name="m0_rpc_post">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga3406fbe616db1adec4db50866325b827" title="item_kind" alt="" coords="390,5,469,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga6183517ca5a757f1d0f92dbdf2de2d93" title="m0_rpc_conn_is_snd" alt="" coords="161,252,307,279"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga78e95e7251d17c40af5c7c12da9c3a14" title="item2conn" alt="" coords="193,303,275,329"/>
+<area shape="rect" id="node5" href="$df/db4/group__rpc__session.html#ga55a29ce1e9c091bd47fdc6c95e1e1b10" title="session_machine" alt="" coords="368,63,491,89"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga9b1e66f18cb4c6f6e3d0ddccfdd9204d" title="m0_rpc_item_size" alt="" coords="365,125,493,152"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="158,353,310,380"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaff1b235d6f391e6f7affd1753281ee51" title="m0_rpc__post_locked" alt="" coords="159,100,309,127"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="396,176,463,203"/>
+<area shape="rect" id="node10" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="151,404,317,431"/>
+</map>

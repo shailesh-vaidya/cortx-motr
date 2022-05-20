@@ -1,0 +1,13 @@
+<map id="idx_add_or_del_kv_pairs" name="idx_add_or_del_kv_pairs">
+<area shape="rect" id="node2" href="$df/d61/isync_8c.html#a89928b1fb7a02568d3b1d8e25de1491d" title="idx_bufvec_alloc" alt="" coords="219,5,337,32"/>
+<area shape="rect" id="node3" href="$df/d61/isync_8c.html#a5dc68869934cdd0a64c491b303ece7b1" title="idx_fill_kv_pairs" alt="" coords="221,56,335,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="385,107,455,133"/>
+<area shape="rect" id="node5" href="$df/df7/group___client.html#ga7ef57e10c55fca07aa6eb6b6522899c4" title="st_idx_init" alt="" coords="237,157,319,184"/>
+<area shape="rect" id="node6" href="$df/df7/group___client.html#ga277756d9b307488fd0c5021fa62ad62c" title="st_idx_op" alt="" coords="239,208,317,235"/>
+<area shape="rect" id="node7" href="$df/df7/group___client.html#ga8d2535aaa45d11c0de9b21fa500550e2" title="st_op_launch" alt="" coords="229,259,327,285"/>
+<area shape="rect" id="node8" href="$df/df7/group___client.html#ga95edbfb22a983313921d8382d501734f" title="st_op_wait" alt="" coords="235,309,321,336"/>
+<area shape="rect" id="node9" href="$df/df7/group___client.html#ga9c93f5a271184a20af07fbb5a0a3ca25" title="st_op_fini" alt="" coords="239,360,317,387"/>
+<area shape="rect" id="node10" href="$df/df7/group___client.html#ga476163fa844f165d3165166a16777e43" title="st_op_free" alt="" coords="237,411,319,437"/>
+<area shape="rect" id="node11" href="$df/d61/isync_8c.html#ae34ab2553374eef9a059b5ce81d847c7" title="idx_bufvec_free" alt="" coords="221,461,335,488"/>
+<area shape="rect" id="node12" href="$df/df7/group___client.html#gab1b1983128ea2efbf59bf7ebf0793607" title="st_idx_fini" alt="" coords="237,512,319,539"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="m0_reqh_fop_handle" name="m0_reqh_fop_handle">
+<area shape="rect" id="node2" href="$db/ded/group__rwlock.html#ga1976268512249e975eed1d63b6c74602" title="m0_rwlock_read_lock" alt="" coords="433,24,581,50"/>
+<area shape="rect" id="node3" href="$d5/d8c/group__reqh.html#ga37b34fd20a2d61fbe4e903ac84eb7884" title="m0_reqh_fop_allow" alt="" coords="219,252,354,278"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="469,150,545,177"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="432,201,581,228"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="473,277,540,304"/>
+<area shape="rect" id="node7" href="$db/ded/group__rwlock.html#gac9f9a8e4d6d5652dd6425f10c33566c5" title="m0_rwlock_read_unlock" alt="" coords="425,100,588,126"/>
+<area shape="rect" id="node8" href="$d6/d39/group__fop.html#ga3b677235d9a47db1cd5d39cec0e45c9e" title="m0_fop_name" alt="" coords="235,353,339,380"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="205,404,369,430"/>
+<area shape="rect" id="node10" href="$da/ddc/group__reqhservice.html#ga10b0fe66b2921001cec1da2f5e0530ff" title="m0_reqh_service_type_find" alt="" coords="196,49,377,76"/>
+<area shape="rect" id="node11" href="$d5/d8c/group__reqh.html#gafa1caa500b99109b94df4cac254a76ab" title="fop_disallowed" alt="" coords="233,454,341,481"/>
+<area shape="rect" id="node12" href="$d1/d59/group__fom.html#ga9823d77a0923595387d85b3b123135b1" title="m0_fom_queue" alt="" coords="231,505,342,532"/>
+</map>

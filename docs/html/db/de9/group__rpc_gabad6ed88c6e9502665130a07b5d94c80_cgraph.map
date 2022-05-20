@@ -1,0 +1,14 @@
+<map id="frm_insert" name="frm_insert">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga15b2af7f37d9787a2b18cfa2f87b9d69" title="frm_which_qtype" alt="" coords="356,6,477,33"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="525,57,615,84"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="159,108,282,134"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#ga8caefd588d724d26ba80a1d177ab1f0a" title="__itemq_insert" alt="" coords="363,158,470,185"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga9b1e66f18cb4c6f6e3d0ddccfdd9204d" title="m0_rpc_item_size" alt="" coords="157,209,285,236"/>
+<area shape="rect" id="node7" href="$db/de9/group__rpc.html#gaa546877415e98110e20ddaaa9980b54b" title="item_is_in_waiting\l_queue" alt="" coords="156,260,285,302"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="147,326,294,367"/>
+<area shape="rect" id="node9" href="$d1/dc1/group__sm.html#ga32c079dd7594f942ad3b38498208f449" title="m0_sm_timeout_is_armed" alt="" coords="133,392,308,418"/>
+<area shape="rect" id="node10" href="$d1/dc1/group__sm.html#ga4c0f0fd5db44e0c019ac36d1b6b0ab9c" title="m0_sm_timeout_fini" alt="" coords="151,442,290,469"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga819f0c809cd7ccb2ce48c1130615dcb0" title="m0_sm_timeout_init" alt="" coords="151,493,290,520"/>
+<area shape="rect" id="node12" href="$d1/dc1/group__sm.html#gaa11ef634d4fba8feb745d3f0a8f29e4e" title="m0_sm_timeout_arm" alt="" coords="149,544,293,570"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#ga63d2dd957821881a3d72d5f8449b1e3f" title="item_move_to_urgent\l_queue" alt="" coords="147,595,294,636"/>
+</map>

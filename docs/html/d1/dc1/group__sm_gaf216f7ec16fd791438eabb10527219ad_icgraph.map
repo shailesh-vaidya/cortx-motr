@@ -1,0 +1,35 @@
+<map id="m0_sm_id_get" name="m0_sm_id_get">
+<area shape="rect" id="node2" href="$d0/d60/cas_2service_8c.html#ae517c70bbb194f0f6040df6c42b5675e" title="addb2_add_kv_attrs" alt="" coords="189,5,327,32"/>
+<area shape="rect" id="node3" href="$d0/d60/cas_2service_8c.html#a5f0dec0408898b2113293d6d3cc52321" title="cas_fom_tick" alt="" coords="404,31,504,57"/>
+<area shape="rect" id="node4" href="$d0/d60/cas_2service_8c.html#af8f07de938099ebb307ef4369810426c" title="cas_addb2_fom_to_crow_fom" alt="" coords="160,107,356,133"/>
+<area shape="rect" id="node5" href="$d9/d5b/motr_2io_8c.html#a152a5500ae8f00615aed8c555c99f3f1" title="addb2_add_ioo_attrs" alt="" coords="187,157,329,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga00544a113b12652af9eb7730511113b8" title="addb2_add_tx_attrs" alt="" coords="190,208,326,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gabb8305b465c85955f32fec44a8d64f2e" title="be_tx_group_tx_to_gr_map" alt="" coords="169,259,347,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga0d031a86e879f82c6b433eff9fcd1464" title="m0_be_tx_group_tx_closed" alt="" coords="167,309,349,336"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#gab2fcffb65ce9f19b2db6205a3b4ec6b2" title="cas_to_rpc_map" alt="" coords="199,360,317,387"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#ga010824398700a111e293cd3533b38d9e" title="addb2_add_cas_req_attrs" alt="" coords="173,411,343,437"/>
+<area shape="rect" id="node11" href="$d6/db6/motr_2client_8c.html#a91b1099c3a1bc1d0abc891e1fd474882" title="addb2_add_op_attrs" alt="" coords="189,461,327,488"/>
+<area shape="rect" id="node12" href="$d7/d9a/motr_2cob_8c.html#a41998fcca7bddfbdd051984de29dd253" title="to_cob_req_map" alt="" coords="199,512,317,539"/>
+<area shape="rect" id="node13" href="$d7/d9a/motr_2cob_8c.html#a161d15b7a5867e41e05b25f81919ca1c" title="cob_req_to_rpc_map" alt="" coords="187,563,329,589"/>
+<area shape="rect" id="node14" href="$dd/d33/group__dix.html#gac61a7eefea2e8448569fd0e6b1b1a898" title="dix_to_cas_map" alt="" coords="199,613,317,640"/>
+<area shape="rect" id="node15" href="$dd/d33/group__dix.html#gaa06adcb4ccf648c23d4b7105cf067d55" title="dix_to_mdix_map" alt="" coords="196,664,320,691"/>
+<area shape="rect" id="node16" href="$dd/d33/group__dix.html#ga0ca6738ddd7abb6554f2fa433c690f59" title="addb2_add_dix_req_attrs" alt="" coords="175,715,341,741"/>
+<area shape="rect" id="node17" href="$db/d1b/drlink_8c.html#ad8ff05f8ffefd2db0dbece9c8a4863ae" title="drlink_fom_init" alt="" coords="205,765,311,792"/>
+<area shape="rect" id="node18" href="$db/d1b/drlink_8c.html#a8c60b511936f46a48464762f4db1416d" title="drlink_addb_drf2item\l_relate" alt="" coords="187,817,329,858"/>
+<area shape="rect" id="node19" href="$db/d1b/drlink_8c.html#a38e575c458c37ac23c43e7c058bdf1e1" title="drlink_addb_drf2parent\l_relate" alt="" coords="181,882,335,923"/>
+<area shape="rect" id="node20" href="$d1/d59/group__fom.html#ga94465e93b19066910484101bedaca4c8" title="addb2_introduce" alt="" coords="199,948,317,975"/>
+<area shape="rect" id="node21" href="$d1/d59/group__fom.html#ga921ecfc081f2a0ef86b735a7be443617" title="fom_tx_init" alt="" coords="215,999,301,1025"/>
+<area shape="rect" id="node22" href="$d9/d51/cob__foms_8c.html#a2e780da97398d532a8414ae56cd34c63" title="addb2_add_cob_fom_attrs" alt="" coords="171,1049,345,1076"/>
+<area shape="rect" id="node23" href="$d9/dc2/group__io__foms.html#ga797fc408ac44db3293b252a5cbfa06c8" title="zero_copy_initiate" alt="" coords="195,1100,321,1127"/>
+<area shape="rect" id="node24" href="$d9/dc2/group__io__foms.html#gaa5ab8fd37c2a3b8952066b5ad6a322ac" title="m0_io_fom_cob_rw_fini" alt="" coords="179,1151,337,1177"/>
+<area shape="rect" id="node25" href="$d2/db6/idx_8c.html#a92cd58b45966ca973d0e8cc2c4182258" title="idx_op_init" alt="" coords="216,1201,300,1228"/>
+<area shape="rect" id="node26" href="$d2/d61/group__index-dix.html#ga01ec71dfc06bf6deb460d694637e9bd4" title="to_dix_map" alt="" coords="213,1252,303,1279"/>
+<area shape="rect" id="node27" href="$de/df0/io__nw__xfer_8c.html#ade2962ed9467caca50f02ed47d202d1a" title="to_op_io_map" alt="" coords="207,1303,309,1329"/>
+<area shape="rect" id="node28" href="$de/df0/io__nw__xfer_8c.html#adad04dbc42ce6024a86802af20b989e7" title="m0_op_io_to_rpc_map" alt="" coords="181,1353,335,1380"/>
+<area shape="rect" id="node29" href="$dc/d83/io__req__fop_8c.html#a9913fc4611ef26f3061246c1f24f0e21" title="ioreq_fop_async_submit" alt="" coords="177,1404,339,1431"/>
+<area shape="rect" id="node30" href="$db/de9/group__rpc.html#gaeca6f24b585e93f06b7d1dcd058daf5c" title="m0_rpc_item_received" alt="" coords="181,1455,335,1481"/>
+<area shape="rect" id="node31" href="$db/de9/group__rpc.html#ga0171d2b0842c94d319a51d36e5bdf467" title="addb2_add_rpc_attrs" alt="" coords="187,1505,329,1532"/>
+<area shape="rect" id="node32" href="$db/de9/group__rpc.html#gad99bdadebde0c238d7605fc04164eb3f" title="m0_rpc_packet_encode\l_using_cursor" alt="" coords="178,1557,338,1598"/>
+<area shape="rect" id="node33" href="$d1/dc1/group__sm.html#ga7cce0440de6929ae6eed3aa26e1fc69e" title="state_set" alt="" coords="220,1623,296,1649"/>
+<area shape="rect" id="node34" href="$d1/dc1/group__sm.html#ga82f5325379dcf593e8d9eae955281e42" title="sm_addb2_counter_init_add" alt="" coords="166,1673,350,1700"/>
+</map>

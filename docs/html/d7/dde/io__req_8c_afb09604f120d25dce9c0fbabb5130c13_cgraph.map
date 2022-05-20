@@ -1,0 +1,19 @@
+<map id="ioreq_application_data_copy" name="ioreq_application_data_copy">
+<area shape="rect" id="node2" href="$d7/dcd/motr_2client__internal_8h.html#a1fa97a3d8f65a6bcf17f78ec486d4042" title="m0_op_io_invariant" alt="" coords="271,5,405,32"/>
+<area shape="rect" id="node3" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a86bf3101bff58223bac08e99247cff60" title="ioreq_sm_state" alt="" coords="507,53,617,80"/>
+<area shape="rect" id="node4" href="$d0/d7f/group__vec.html#ga25676feab636093b10797af188337efc" title="m0_bufvec_cursor_init" alt="" coords="485,111,639,137"/>
+<area shape="rect" id="node5" href="$d0/d7f/group__vec.html#gaf84e4bef24d1285a0acb734eb508a977" title="m0_ivec_cursor_init" alt="" coords="493,173,631,200"/>
+<area shape="rect" id="node6" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1e9b8f12e6e2a5c6641e02fb34ae3b1f" title="pdlayout_get" alt="" coords="514,360,610,387"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a7261507e9052e45c7c69f3c63732a485" title="pargrp_iomap_invariant" alt="" coords="484,416,640,443"/>
+<area shape="rect" id="node8" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#aa3c9d000e95c41896417fffbd5a3a26d" title="data_size" alt="" coords="523,473,601,500"/>
+<area shape="rect" id="node9" href="$d0/d7f/group__vec.html#gad91d27a0c5db7a267d18d70ae8817a8f" title="m0_ivec_cursor_move" alt="" coords="485,249,639,276"/>
+<area shape="rect" id="node10" href="$d0/d7f/group__vec.html#ga3b8c55c5a3bc679ba4667229893178ee" title="m0_ivec_cursor_index" alt="" coords="486,309,638,336"/>
+<area shape="rect" id="node11" href="$db/dc9/group__arith.html#ga3ab271ddef8d2ab1ee331f95138294b5" title="min64u" alt="" coords="306,613,370,640"/>
+<area shape="rect" id="node12" href="$df/dca/lib_2misc_8c.html#a5548d3759514fc1a68f23f9acd8893df" title="m0_round_up" alt="" coords="288,664,388,691"/>
+<area shape="rect" id="node13" href="$d4/dc1/motr_2io_8h.html#abe2ca1d9e097b73d437f5694608bb820" title="m0__page_size" alt="" coords="281,715,395,741"/>
+<area shape="rect" id="node14" href="$d0/d7f/group__vec.html#ga328f47dead930796d93217b23d002e04" title="m0_ivec_cursor_step" alt="" coords="265,765,411,792"/>
+<area shape="rect" id="node15" href="$d7/dde/io__req_8c.html#a8fa6a829b56b53102726a7aa879a2765" title="application_data_copy" alt="" coords="263,461,413,488"/>
+<area shape="rect" id="node16" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="529,549,595,576"/>
+<area shape="rect" id="node17" href="$d7/dcd/motr_2client__internal_8h.html#a85aa71fd1dd8bd2eed8eff5ba6944ac8" title="m0__obj_is_cksum_validation\l_allowed" alt="" coords="240,817,436,858"/>
+<area shape="rect" id="node18" href="$d7/dde/io__req_8c.html#abeb3c1b55c106cd5c78c261c2ae62dae" title="verify_checksum" alt="" coords="277,208,399,235"/>
+</map>

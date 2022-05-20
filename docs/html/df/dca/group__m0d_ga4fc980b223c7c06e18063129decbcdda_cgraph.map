@@ -1,0 +1,8 @@
+<map id="cs_ha_stop" name="cs_ha_stop">
+<area shape="rect" id="node2" href="$df/dca/group__m0d.html#ga03f08e3758f6fb1f45e03fe237b90777" title="cs_ha_process_event" alt="" coords="150,5,299,32"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga09340f4e20a0444d68f4b19aa7d823bf" title="bad_address" alt="" coords="177,56,273,83"/>
+<area shape="rect" id="node4" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="198,107,251,133"/>
+<area shape="rect" id="node5" href="$d1/df2/group__motr.html#ga6699f08ccb2c00b9132c61ded11079f5" title="m0_motr_ha_disconnect" alt="" coords="143,157,307,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="355,208,444,235"/>
+<area shape="rect" id="node7" href="$d1/df2/group__motr.html#gac0356dbaba1078bd19523fd4c9ab4f2d" title="m0_motr_ha_stop" alt="" coords="161,259,288,285"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="m0_ha_entrypoint_reply" name="m0_ha_entrypoint_reply">
+<area shape="rect" id="node2" href="$db/dec/group__ha.html#ga8f1bb8d56268b8e88f2f5bb0b6339cb7" title="ha_ut_usecase_entrypoint\l_request" alt="" coords="213,5,388,47"/>
+<area shape="rect" id="node3" href="$d1/df2/group__motr.html#ga3a0fc5653ff963a84cc5789aeb6a23cd" title="motr_ha_entrypoint\l_request_cb" alt="" coords="234,71,367,112"/>
+<area shape="rect" id="node4" href="$db/dec/group__ha.html#ga8344ba31229fcba7fdee6192e5ca97a2" title="m0_halon_interface\l_entrypoint_reply" alt="" coords="233,136,368,177"/>
+<area shape="rect" id="node5" href="$de/d4a/group__m0ham.html#gac35668fc1bdc59e0018f102637732796" title="ham_entrypoint_request" alt="" coords="220,202,381,229"/>
+</map>

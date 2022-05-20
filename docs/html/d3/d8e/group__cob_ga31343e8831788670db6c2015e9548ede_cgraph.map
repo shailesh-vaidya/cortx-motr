@@ -1,0 +1,11 @@
+<map id="m0_cob_domain_create_prepared" name="m0_cob_domain_create_prepared">
+<area shape="rect" id="node2" href="$d3/d8e/group__cob.html#gaa399b72f8d371e17e94c80d947ed979e" title="cob_domain_id2str" alt="" coords="233,5,364,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="261,56,337,83"/>
+<area shape="rect" id="node4" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="264,107,333,133"/>
+<area shape="rect" id="node5" href="$dd/dc1/group__format.html#ga4d30f4095392dc864b6ff37123d73fed" title="m0_format_header_pack" alt="" coords="216,157,381,184"/>
+<area shape="rect" id="node6" href="$dd/dc1/group__format.html#ga5f05742845abbd56398831e0569c805a" title="m0_format_footer_update" alt="" coords="213,208,384,235"/>
+<area shape="rect" id="node7" href="$d3/d8e/group__cob.html#gac4b37a502cabfea87ac769e0e78f0495" title="m0_cob_domain_init" alt="" coords="228,259,369,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="432,309,499,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#ga5cc3ac7d98ce51495ac58eb0a8637e0c" title="m0_be_btree_create" alt="" coords="229,360,369,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gaf32ff0de6dd20794b10981e8841842db" title="m0_be_0type_add" alt="" coords="235,411,363,437"/>
+</map>

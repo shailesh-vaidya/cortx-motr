@@ -1,0 +1,8 @@
+<map id="m0_fop_type_find" name="m0_fop_type_find">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga684e8ae469c8d92110955ea7d6ecaaf7" title="fop_counter" alt="" coords="205,5,295,32"/>
+<area shape="rect" id="node3" href="$d6/d39/group__fop.html#ga5a89c979155be4c73599bafec5a5f41a" title="fop_xc_type" alt="" coords="203,56,297,83"/>
+<area shape="rect" id="node4" href="$d9/de6/group__console.html#ga9628e3c1b81c983a1a02e11dda37514d" title="Iterate over FOP and print names of its members. " alt="" coords="197,107,303,133"/>
+<area shape="rect" id="node5" href="$d9/de6/group__console.html#gaee7daecf8a24a874cd6b0500ef7e94c4" title="Build the RPC item using FOP (Embedded into item) and send it. " alt="" coords="183,157,317,184"/>
+<area shape="rect" id="node6" href="$d9/de6/group__console.html#gaf3ab40334dd3d719f40c417d68f0882c" title="mesg_send_client" alt="" coords="187,208,313,235"/>
+<area shape="rect" id="node7" href="$db/d53/bulkio__ut_8c.html#a17f5ab05b35fa0bfd8420c86eb3ab7f2" title="bulkio_server_write\l_fol_rec_undo_verify" alt="" coords="179,259,321,301"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="be_ut_io_sched_thread" name="be_ut_io_sched_thread">
+<area shape="rect" id="node2" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="253,5,387,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#gab25f09c5bb8ae99ab2605ca20db2130f" title="m0_atomic64_set" alt="" coords="745,132,871,159"/>
+<area shape="rect" id="node4" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#gab0a83553adc2cb21fb1d0d693c22acfb" title="m0_be_op_init" alt="" coords="524,461,631,488"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga571211cb8a392521c959deb80fe884dd" title="m0_be_op_callback_set" alt="" coords="496,563,659,589"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaaccb9311afb6fe2bd44a47b5582ef8cc" title="be_ut_io_sched_io_start_cb" alt="" coords="228,208,412,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gab432c5a61b4994ce4896432bea956d1a" title="be_ut_io_sched_io_completion_cb" alt="" coords="209,309,431,336"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#gafca20165bdece7bde12842d182a4b3ff" title="be_ut_io_sched_io_ready_add" alt="" coords="479,309,676,336"/>
+<area shape="rect" id="node9" href="$d3/de8/group__atomic.html#ga9b280fa18fe055a4b7e1f5374558d57c" title="m0_atomic64_add_return" alt="" coords="724,360,892,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#ga0098bb4fc76c4f6fbd6d6de4a8b023ba" title="m0_be_io_init" alt="" coords="269,411,371,437"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga70ca9a80048304c5ae00dec47e2233a3" title="m0_be_io_allocate" alt="" coords="255,107,385,133"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#ga776bb84c6ea82f3cf7fcb449a1eec74a" title="m0_be_io_reset" alt="" coords="520,107,635,133"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#ga34013255a955f8633ed77d353a99d25b" title="m0_be_io_user_data_set" alt="" coords="237,563,403,589"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga222c2afcff8d3954ae3f3e38ecdbeca2" title="be_ut_io_sched_io_ready_get" alt="" coords="480,791,675,817"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#gad93324a41f1d935250f91e2f6229bb20" title="m0_be_op_reset" alt="" coords="261,664,379,691"/>
+<area shape="rect" id="node16" href="$db/dc9/group__arith.html#ga70bb9d882edfc6cabf72ea2e90d01ccb" title="m0_rnd64" alt="" coords="281,715,359,741"/>
+<area shape="rect" id="node17" href="$d9/dcf/group__be.html#gad8f425de85ba0883af5e44986eeac274" title="m0_be_io_add" alt="" coords="267,765,373,792"/>
+<area shape="rect" id="node18" href="$d9/dcf/group__be.html#ga661dfea095941a1c8ae7006f31f545a6" title="m0_be_io_configure" alt="" coords="251,816,389,843"/>
+<area shape="rect" id="node19" href="$d9/dcf/group__be.html#ga3b103760155bd245566f53fd859a494a" title="m0_be_io_sched_lock" alt="" coords="245,867,395,893"/>
+<area shape="rect" id="node20" href="$d9/dcf/group__be.html#ga925e51ff7f072401bd2c780e569fe260" title="m0_be_io_sched_add" alt="" coords="246,512,394,539"/>
+<area shape="rect" id="node21" href="$d9/dcf/group__be.html#ga839b8d2b5f2673de4d680d4e317dd761" title="m0_be_io_sched_unlock" alt="" coords="237,968,403,995"/>
+<area shape="rect" id="node22" href="$d9/dcf/group__be.html#ga90d90ac438e0fde0842616d5b55361bb" title="m0_be_io_deallocate" alt="" coords="248,1019,392,1045"/>
+<area shape="rect" id="node23" href="$d9/dcf/group__be.html#ga6fd8be4f657d99ade4bcc9ffed8626e6" title="m0_be_io_fini" alt="" coords="269,1069,371,1096"/>
+<area shape="rect" id="node24" href="$d5/d54/be_2linux__kernel_2stubs_8c.html#ga42d8fb0ec9aecdc48e90db2f292beec5" title="m0_be_op_fini" alt="" coords="267,1120,373,1147"/>
+<area shape="rect" id="node25" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="253,1171,387,1197"/>
+<area shape="rect" id="node26" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="285,1221,355,1248"/>
+</map>

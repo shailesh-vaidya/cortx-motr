@@ -1,0 +1,10 @@
+<map id="oper_lock" name="oper_lock">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#gae61f5c5aeb318d63bf2ee940ab87c128" title="control_update_add" alt="" coords="144,5,279,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#gab358a69bfd95cd158b9355821e22a6ef" title="m0_dtm_oper_close" alt="" coords="142,56,281,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#ga6e59b76982e8d83f75b8c8ae0855a870" title="m0_dtm_oper_prepared" alt="" coords="132,107,291,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga6da192797c05f8a3ff01790997090b1b" title="m0_dtm_oper_done" alt="" coords="143,157,279,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#ga552a4d2a9ad03b1f92571d67a7392fe0" title="m0_dtm_oper_pack" alt="" coords="143,208,279,235"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#ga9e165cf5ac8a676c8c9b456070a961ba" title="m0_dtm_oper_build" alt="" coords="144,259,279,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#ga79ca75ed3e698395ba7e83180787023a" title="m0_dtm_reply_pack" alt="" coords="142,309,281,336"/>
+<area shape="rect" id="node9" href="$d2/d66/group__dtm.html#ga4234a488a8a05a2adf8964452e40cb15" title="m0_dtm_reply_unpack" alt="" coords="135,360,288,387"/>
+</map>

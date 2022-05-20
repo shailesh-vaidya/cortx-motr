@@ -1,0 +1,7 @@
+<map id="m0_confc_gate_ops_set" name="m0_confc_gate_ops_set">
+<area shape="rect" id="node2" href="$db/d90/group__rconfc__dlspec.html#gaff295138433e8d5852661fc6eb50fc4d" title="rconfc_conf_load_fini" alt="" coords="232,5,377,32"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga690a2b3e5c2103d12fdbd677753b12c5" title="rconfc_conductor_connect" alt="" coords="217,56,392,83"/>
+<area shape="rect" id="node4" href="$db/d90/group__rconfc__dlspec.html#ga6d2d56a2c120a4b78287f259e1e1940f" title="rconfc_gate_drain" alt="" coords="242,107,367,133"/>
+<area shape="rect" id="node5" href="$db/d90/group__rconfc__dlspec.html#gaf35f7554747a505621815a8ba48302a3" title="rlock_conflict_handle" alt="" coords="233,157,377,184"/>
+<area shape="rect" id="node6" href="$db/d90/group__rconfc__dlspec.html#ga9d1c8fb2df194543e51785b1d4ec9b69" title="rconfc_version_elected" alt="" coords="227,208,383,235"/>
+</map>

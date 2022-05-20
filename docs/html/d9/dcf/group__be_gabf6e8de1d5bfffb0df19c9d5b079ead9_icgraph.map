@@ -1,0 +1,16 @@
+<map id="op_tree" name="op_tree">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga2d9a38444404a34e172dec2983c05769" title="btree_save" alt="" coords="161,5,248,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga5cc3ac7d98ce51495ac58eb0a8637e0c" title="m0_be_btree_create" alt="" coords="135,56,275,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga32a77081edd12e9792756359a0b05c2a" title="m0_be_btree_destroy" alt="" coords="131,107,278,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga29637426af6305c978a4554399e6094d" title="m0_be_btree_truncate" alt="" coords="129,157,280,184"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#gaa7004085a25ef20895934e3e228ae4c9" title="m0_be_btree_delete" alt="" coords="135,208,274,235"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#gab5779c119e9cbd91872e8112c7978549" title="be_btree_lookup" alt="" coords="146,259,263,285"/>
+<area shape="rect" id="node8" href="$d9/dcf/group__be.html#ga1c66dbebe16a2edfa07bad6bba59c7b8" title="m0_be_btree_maxkey" alt="" coords="129,309,280,336"/>
+<area shape="rect" id="node9" href="$d9/dcf/group__be.html#gabc0d1bae85eec522decf3efea7bcbf5e" title="m0_be_btree_minkey" alt="" coords="131,360,278,387"/>
+<area shape="rect" id="node10" href="$d9/dcf/group__be.html#gad3449940899d437096d8565fa7c9eb2c" title="m0_be_btree_update\l_inplace" alt="" coords="133,411,276,453"/>
+<area shape="rect" id="node11" href="$d9/dcf/group__be.html#ga79d44e1d0566c9b2cb4efe8dd96723f8" title="m0_be_btree_lookup\l_inplace" alt="" coords="133,477,276,518"/>
+<area shape="rect" id="node12" href="$d9/dcf/group__be.html#gade3071230ab456a374ada1ee24fe06a5" title="m0_be_btree_cursor_get" alt="" coords="122,543,287,569"/>
+<area shape="rect" id="node13" href="$d9/dcf/group__be.html#gae18bc2334232939b71b25efae95f462f" title="m0_be_btree_cursor_next" alt="" coords="119,593,291,620"/>
+<area shape="rect" id="node14" href="$d9/dcf/group__be.html#ga3994723a955cf63245bd19b7ebc9fe34" title="m0_be_btree_cursor_prev" alt="" coords="119,644,291,671"/>
+<area shape="rect" id="node15" href="$d9/dcf/group__be.html#gad280ff6a6e1e69b67f6dd1624336abcc" title="m0_be_btree_cursor\l_kv_get" alt="" coords="135,695,275,737"/>
+</map>

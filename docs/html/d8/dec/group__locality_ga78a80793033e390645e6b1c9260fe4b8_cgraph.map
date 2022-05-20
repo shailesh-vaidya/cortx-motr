@@ -1,0 +1,6 @@
+<map id="m0_locality_here" name="m0_locality_here">
+<area shape="rect" id="node2" href="$d8/dec/group__locality.html#ga06d4564f5ae52cb260906e0d610cb374" title="loc_glob" alt="" coords="368,27,439,53"/>
+<area shape="rect" id="node3" href="$da/dd8/group__thread.html#ga85ed595f0d7052f5db6639321564161b" title="m0_thread_self" alt="" coords="191,27,302,53"/>
+<area shape="rect" id="node4" href="$d8/dec/group__locality.html#gabc71d9f29c0cc950480c2bc876e1ae07" title="m0_locality_get" alt="" coords="190,77,303,104"/>
+<area shape="rect" id="node5" href="$d7/da7/group__processor.html#ga1477f462e3e671a18cfcdcdd002cb206" title="m0_processor_id_get" alt="" coords="173,128,320,155"/>
+</map>

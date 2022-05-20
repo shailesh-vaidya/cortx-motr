@@ -1,0 +1,15 @@
+<map id="m0_pool_version2layout_id" name="m0_pool_version2layout_id">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a13bd7889127737da9a8a7f45eab1c5e3" title="obj_op_init" alt="" coords="281,5,365,32"/>
+<area shape="rect" id="node3" href="$dd/d7f/group__pool.html#gacaacdbab38a92663414f4550a232edac" title="pool_version__layouts\l_evict" alt="" coords="248,57,399,98"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#adaecb17814dd21abf6226295f1cb433a" title="pdclust_map" alt="" coords="275,123,371,149"/>
+<area shape="rect" id="node5" href="$dc/d86/motr_2obj_8c.html#aa755d5197ea2c65fc8acd45d69ec672f" title="obj_namei_op_init" alt="" coords="260,173,387,200"/>
+<area shape="rect" id="node6" href="$d7/d70/motr_2ut_2obj_8c.html#a58d879c0df277a971e56871e7984b564" title="ut_layout_init" alt="" coords="274,224,373,251"/>
+<area shape="rect" id="node7" href="$d7/d70/motr_2ut_2obj_8c.html#acf1590847452f09d85a3cf6d5781d44e" title="ut_test_m0__obj_layout\l_instance_build" alt="" coords="463,242,623,283"/>
+<area shape="rect" id="node8" href="$dd/d33/group__dix.html#gab1f5f5a71263d2490ed0c1268f79d007" title="m0_dix_layout_iter_init" alt="" coords="246,325,401,352"/>
+<area shape="rect" id="node9" href="$da/da8/group__layout.html#ga959cbdc2938497f942ac1bf0d64eaa52" title="m0_layout_find_by_buffsize" alt="" coords="232,376,415,403"/>
+<area shape="rect" id="node10" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#gaad1b9ee3820f28c00bc4207dfa2bd7bf" title="_layout_fetch" alt="" coords="273,427,373,453"/>
+<area shape="rect" id="node11" href="$dd/dbc/group__layout__conf.html#gacc8c9bdad5cd5ceda31ea2445c248ad3" title="m0_layout_init_by_pver" alt="" coords="244,477,403,504"/>
+<area shape="rect" id="node12" href="$d8/d2b/inode_8c.html#a41d42c012be01fe6794df49aa9b5b0d5" title="m0t1fs_inode_layout_init" alt="" coords="240,528,407,555"/>
+<area shape="rect" id="node13" href="$d7/dfd/io__dummy_8c.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="248,579,399,605"/>
+<area shape="rect" id="node14" href="$d5/d8c/group__reqh.html#ga13f34a598f9c8bdd12819335a4c75e1a" title="m0_reqh_mdpool_layout\l_build" alt="" coords="242,630,405,671"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="spiel_process_health_replied_ast" name="spiel_process_health_replied_ast">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga38d8d2b9acafe74c60ba654ea8d369b5" title="m0_rpc_item_error" alt="" coords="218,5,349,32"/>
+<area shape="rect" id="node3" href="$d9/d85/ut_2locality_8c.html#a30c120daf55f0d912e6ba05796a67c20" title="leave" alt="" coords="257,56,310,83"/>
+<area shape="rect" id="node4" href="$df/d3a/group__spiel-api-fspec-intr.html#ga634b31278df5abe53ef5eb0da1cc3c91" title="spiel_process_reply_data" alt="" coords="199,107,368,133"/>
+<area shape="rect" id="node5" href="$df/d3a/group__spiel-api-fspec-intr.html#ga0204bee43dac0e483f49d3429466f473" title="_fs_stats_ctx_lock" alt="" coords="217,157,349,184"/>
+<area shape="rect" id="node6" href="$db/dc9/group__arith.html#ga0c4eb202857c5350e38e9eddd1dc3d94" title="m0_addu64_will_overflow" alt="" coords="198,208,369,235"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="245,259,321,285"/>
+<area shape="rect" id="node8" href="$df/d3a/group__spiel-api-fspec-intr.html#ga107f5172e7fe92546c31991ead6b2e81" title="_fs_stats_ctx_unlock" alt="" coords="210,309,357,336"/>
+<area shape="rect" id="node9" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="207,360,359,387"/>
+<area shape="rect" id="node10" href="$d6/d39/group__fop.html#gacd879a192974d7f0d92ee1601658d436" title="m0_fop_put" alt="" coords="238,411,329,437"/>
+<area shape="rect" id="node11" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="417,487,507,513"/>
+<area shape="rect" id="node12" href="$d6/d39/group__fop.html#gad77aadc2abd8494ff814a5b7dcf8eedc" title="m0_fop_fini" alt="" coords="239,512,328,539"/>
+<area shape="rect" id="node13" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="200,563,367,589"/>
+<area shape="rect" id="node14" href="$df/d3a/group__spiel-api-fspec-intr.html#gabde719e568fdf0f614a1b061dff25ee6" title="spiel_process_disconnect\l_async" alt="" coords="197,614,369,655"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="dix_cctg_records_del" name="dix_cctg_records_del">
+<area shape="rect" id="node2" href="$db/d71/dix_2ut_2client__ut_8c.html#a1111ed4c40767e0074b30de198ef31f3" title="dix_cctg_id_fill" alt="" coords="225,5,333,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gaa2bd53271528f705f6c6393dddb63ee8" title="m0_cas_req_init" alt="" coords="220,56,337,83"/>
+<area shape="rect" id="node4" href="$db/d71/dix_2ut_2client__ut_8c.html#a3136f639bda7eedded2d4c8fde71a74e" title="cctg_rpc_sess" alt="" coords="225,107,332,133"/>
+<area shape="rect" id="node5" href="$d8/dec/group__locality.html#gaec147d38e54ca6b5ec047682f6cbf145" title="m0_locality0_get" alt="" coords="219,157,339,184"/>
+<area shape="rect" id="node6" href="$d2/d64/group__cas-client.html#ga58bd33d160ccef5352be98a8b1102b4d" title="m0_cas_req_lock" alt="" coords="414,487,538,513"/>
+<area shape="rect" id="node7" href="$d2/d64/group__cas-client.html#ga3a4c335ba35bbba1e5ea94e0ef412834" title="m0_cas_del" alt="" coords="233,259,325,285"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="215,309,343,336"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga69929d78436c4d693d79704bded76079" title="m0_cas_req_nr" alt="" coords="223,360,334,387"/>
+<area shape="rect" id="node10" href="$d2/d64/group__cas-client.html#gabcc1aaefb2743275fa5652c365a5ed52" title="m0_cas_req_generic_rc" alt="" coords="199,411,359,437"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#ga3cc84f01d317cb92dad332ce7964ec4a" title="m0_cas_del_rep" alt="" coords="220,461,337,488"/>
+<area shape="rect" id="node12" href="$d2/d64/group__cas-client.html#gac608ff3f2d925a1acfea06bb79b5f82a" title="m0_cas_req_unlock" alt="" coords="407,549,545,576"/>
+<area shape="rect" id="node13" href="$d2/d64/group__cas-client.html#ga043848969591d160d55ce0bb96a1900d" title="m0_cas_req_fini_lock" alt="" coords="205,512,353,539"/>
+</map>

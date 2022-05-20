@@ -1,0 +1,7 @@
+<map id="m0_dtm0_ut_domain_init_fini" name="m0_dtm0_ut_domain_init_fini">
+<area shape="rect" id="node2" href="$da/d54/group__dtm0.html#ga6d0589b9da66db2eedcb6a02e084c2a3" title="m0_dtm0_domain_cfg\l_default_dup" alt="" coords="258,5,409,47"/>
+<area shape="rect" id="node3" href="$da/d54/group__dtm0.html#ga025748497a924559f74f3390b29361cd" title="m0_dtm0_domain_init" alt="" coords="259,71,408,98"/>
+<area shape="rect" id="node4" href="$da/d54/group__dtm0.html#gaec7ff66e734de1e5f0402332fa549e7e" title="m0_dtm0_domain_fini" alt="" coords="259,122,408,149"/>
+<area shape="rect" id="node5" href="$da/d54/group__dtm0.html#gaeca666dc903fcb51d73c82a83b6d5040" title="m0_dtm0_domain_cfg_free" alt="" coords="244,173,423,199"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="299,223,368,250"/>
+</map>

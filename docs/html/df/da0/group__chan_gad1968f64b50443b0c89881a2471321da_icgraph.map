@@ -1,0 +1,23 @@
+<map id="m0_chan_broadcast" name="m0_chan_broadcast">
+<area shape="rect" id="node2" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a415a8b8f0f8e315d1cd82095dd8c42ce" title="barrier" alt="" coords="255,5,314,32"/>
+<area shape="rect" id="node3" href="$d0/deb/iscservice_2ut_2service__ut_8c.html#a6e4002f4bc5860e7414e55c5a99ab818" title="test_comp_state" alt="" coords="435,31,554,57"/>
+<area shape="rect" id="node4" href="$dc/d86/group___c_m_p_r_o_x_y.html#gaa66c494f87e2901e2aefd74282a06651" title="m0_cm_proxy_update" alt="" coords="209,107,360,133"/>
+<area shape="rect" id="node5" href="$d5/d25/group__confc__dlspec.html#gad4b343fb8c155c7c8662bbd0d004d1e8" title="path_walk_complete" alt="" coords="214,157,355,184"/>
+<area shape="rect" id="node6" href="$d5/d25/group__confc__dlspec.html#ga9a5d8b8b68c9ea4dd0aa2e50e89f91f6" title="object_enrich" alt="" coords="235,208,334,235"/>
+<area shape="rect" id="node7" href="$d9/d40/group__conf__dfspec__objops.html#gacc98aded84d2e0d8f34880ad2db4c727" title="m0_conf_obj_put" alt="" coords="224,259,345,285"/>
+<area shape="rect" id="node8" href="$d3/da7/rconfc__link__fom_8c.html#ae9b2fa2971ffcf5e93388646e4562761" title="rconfc_link_fom_fini" alt="" coords="425,360,564,387"/>
+<area shape="rect" id="node9" href="$d1/d59/group__fom.html#ga1f596e6fd3cc0d47826e606b5f5787e5" title="loc_fini" alt="" coords="253,360,316,387"/>
+<area shape="rect" id="node10" href="$d1/d59/group__fom.html#ga16052f86d32e6cae9dba4627e77bd4e0" title="m0_fom_fini" alt="" coords="238,411,331,437"/>
+<area shape="rect" id="node11" href="$d0/dc7/group__ha-note.html#ga4a0f698a72f4b0d982a05c65f744f628" title="ha_state_accept" alt="" coords="225,461,344,488"/>
+<area shape="rect" id="node12" href="$df/da0/group__chan.html#ga256e130fea14abb8d2e46abb0741425f" title="m0_chan_broadcast_lock" alt="" coords="199,512,370,539"/>
+<area shape="rect" id="node13" href="$d0/d11/lib_2ut_2main_8c.html#ac6b1edf018983f866c843e2c4dae155f" title="test_chan" alt="" coords="455,537,534,564"/>
+<area shape="rect" id="node14" href="$da/dea/group__cond.html#ga0884f269d0089550cc7686e174393043" title="m0_cond_broadcast" alt="" coords="215,613,354,640"/>
+<area shape="rect" id="node15" href="$d2/d1d/super_8c.html#a56e782247b7dcb83c36e47666e6c50cd" title="conf_ready_async_cb\l_locked" alt="" coords="210,665,359,706"/>
+<area shape="rect" id="node16" href="$de/de2/client__init_8c.html#aeea03d6507bc96abca45a28082df1734" title="io_ref_cb" alt="" coords="247,731,322,757"/>
+<area shape="rect" id="node17" href="$dd/d6e/group___l_net_x_o_d_f_s.html#ga075ea92e6d12c26fa7036f912cb6a826" title="nlx_xo_bev_deliver_all" alt="" coords="208,781,361,808"/>
+<area shape="rect" id="node18" href="$d5/d16/group__netsock.html#ga87f26fc0b5e6e27c0130d1c1bd877ff8" title="ma_buf_done" alt="" coords="235,832,335,859"/>
+<area shape="rect" id="node19" href="$d9/dd2/group__net.html#ga7fd2336c447a5a0e02629c38a6d99556" title="m0_net__tm_post_callback" alt="" coords="194,883,375,909"/>
+<area shape="rect" id="node20" href="$d9/dd2/group__net.html#gac077a492d8ac995912594898504f03fa" title="m0_net_tm_pool_length_set" alt="" coords="192,933,377,960"/>
+<area shape="rect" id="node21" href="$db/de9/group__rpc.html#ga977c88f79c6767aea4b6c35c2b34250e" title="buf_send_cb" alt="" coords="237,984,333,1011"/>
+<area shape="rect" id="node22" href="$d1/dc1/group__sm.html#ga7cce0440de6929ae6eed3aa26e1fc69e" title="state_set" alt="" coords="247,1035,323,1061"/>
+</map>

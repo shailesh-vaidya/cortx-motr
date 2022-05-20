@@ -1,0 +1,10 @@
+<map id="m0_addb2_mach_fini" name="m0_addb2_mach_fini">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#gad1b6fc93713e2e36989cfb6c4d35a7de" title="mach" alt="" coords="247,5,302,32"/>
+<area shape="rect" id="node3" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="217,56,332,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="211,107,339,133"/>
+<area shape="rect" id="node5" href="$d0/d9e/group__addb2.html#ga47f6f806990f91e54fd1d6ad798bb31c" title="buffer_fini" alt="" coords="235,157,314,184"/>
+<area shape="rect" id="node6" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="399,183,468,209"/>
+<area shape="rect" id="node7" href="$d0/d9e/group__addb2.html#ga0b32dc07bab96cd89d0b6c009dfa9fdd" title="m0_addb2_source_fini" alt="" coords="199,259,351,285"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="221,309,328,336"/>
+<area shape="rect" id="node9" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="207,360,342,387"/>
+</map>

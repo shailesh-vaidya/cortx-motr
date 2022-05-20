@@ -1,0 +1,10 @@
+<map id="stats_ut_svc_start_stop" name="stats_ut_svc_start_stop">
+<area shape="rect" id="node2" href="$d7/d48/ut_2note_8c.html#aeae3d4d7b2408da16922f9cf8bbbc399" title="start_rpc_client_and\l_server" alt="" coords="238,5,377,47"/>
+<area shape="rect" id="node3" href="$df/dca/group__m0d.html#ga94e6e1e058f3afd3daf4cf4725c2b6b3" title="m0_cs_reqh_get" alt="" coords="248,71,367,98"/>
+<area shape="rect" id="node4" href="$da/ddc/group__reqhservice.html#ga75bbad3f179a8e661497af41a6f52c82" title="m0_reqh_service_find" alt="" coords="233,122,382,149"/>
+<area shape="rect" id="node5" href="$da/ddc/group__reqhservice.html#gada3dfd68bbc59c6a900523737bfd9c22" title="m0_reqh_service_state_get" alt="" coords="216,173,399,199"/>
+<area shape="rect" id="node6" href="$da/ddc/group__reqhservice.html#ga197730427db002ab2e0521ff465787d0" title="m0_reqh_service_prepare\l_to_stop" alt="" coords="222,224,393,265"/>
+<area shape="rect" id="node7" href="$da/ddc/group__reqhservice.html#gafc872fa6e0ba5d14b088c02a3b97c512" title="m0_reqh_service_stop" alt="" coords="231,290,384,317"/>
+<area shape="rect" id="node8" href="$da/ddc/group__reqhservice.html#ga3e1fdea7d05ff98a6c55a2ef3c584d99" title="m0_reqh_service_fini" alt="" coords="235,341,380,367"/>
+<area shape="rect" id="node9" href="$d7/d48/ut_2note_8c.html#a3c1ae51ca06c3774d7ea73cfa161b819" title="stop_rpc_client_and\l_server" alt="" coords="238,392,377,433"/>
+</map>

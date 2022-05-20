@@ -1,0 +1,9 @@
+<map id="rev_session_clink_cb" name="rev_session_clink_cb">
+<area shape="rect" id="node2" href="$d1/d84/group__rpc__service.html#gaab4d59794495843ae1df30720828b5bb" title="m0_rpc_session_status" alt="" coords="200,5,360,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="408,145,497,172"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#gae26efdb3a765f750c5992041d6ee2336" title="m0_mutex_lock" alt="" coords="223,107,337,133"/>
+<area shape="rect" id="node5" href="$d2/deb/group__rm.html#ga5fda99545f7f45bad626b58e8f094020" title="m0_rm_owner_trylock" alt="" coords="205,208,355,235"/>
+<area shape="rect" id="node6" href="$d3/deb/rm__internal_8h.html#a2795b241579729ff14ff27ac1beb9cf8" title="owner_grp" alt="" coords="411,221,494,248"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga40254dbd2422d31ff37f6435fe19237f" title="pending_outgoing_send" alt="" coords="201,157,359,184"/>
+<area shape="rect" id="node8" href="$d0/d04/group__mutex.html#ga18963570792098f5ab3cf3e8ede8046a" title="m0_mutex_unlock" alt="" coords="216,309,344,336"/>
+</map>

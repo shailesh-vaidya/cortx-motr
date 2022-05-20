@@ -1,0 +1,7 @@
+<map id="cs_storage_devs_fini" name="cs_storage_devs_fini">
+<area shape="rect" id="node2" href="$d7/da6/group__module.html#gae0f0d7d3c1138e790f7e0c3bdaddcf11" title="m0_get" alt="" coords="261,5,327,32"/>
+<area shape="rect" id="node3" href="$d0/dfe/group__sdev.html#ga0f1fc9d4bec212e1c5dc697f3f1f43cf" title="m0_storage_devs_lock" alt="" coords="216,56,372,83"/>
+<area shape="rect" id="node4" href="$d0/dfe/group__sdev.html#ga25feee12c9e977776112c6f50b60fb94" title="m0_storage_devs_detach_all" alt="" coords="199,107,389,133"/>
+<area shape="rect" id="node5" href="$d0/dfe/group__sdev.html#ga4fd8a8b58fff58915e393ebabb60f0dd" title="m0_storage_devs_unlock" alt="" coords="209,157,379,184"/>
+<area shape="rect" id="node6" href="$d0/dfe/group__sdev.html#ga32d53dc7c596e27d38bf03382600cc73" title="m0_storage_devs_fini" alt="" coords="219,208,369,235"/>
+</map>

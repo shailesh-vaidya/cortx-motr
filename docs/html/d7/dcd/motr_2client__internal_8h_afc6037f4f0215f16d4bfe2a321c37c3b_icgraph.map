@@ -1,0 +1,6 @@
+<map id="m0_op_obj_invariant" name="m0_op_obj_invariant">
+<area shape="rect" id="node2" href="$dc/d86/motr_2obj_8c.html#aa11a48b5279b4ceba435da2612d9f5ed" title="obj_namei_cb_fini" alt="" coords="225,5,352,32"/>
+<area shape="rect" id="node3" href="$dc/d86/motr_2obj_8c.html#aa755d5197ea2c65fc8acd45d69ec672f" title="obj_namei_op_init" alt="" coords="431,31,557,57"/>
+<area shape="rect" id="node4" href="$dc/d86/motr_2obj_8c.html#a8a18c477e055fa4c868045cc941836f9" title="obj_op_obj_init" alt="" coords="235,107,343,133"/>
+<area shape="rect" id="node5" href="$d7/d70/motr_2ut_2obj_8c.html#a5aa5ea0d013aa4aa8c47ebaa9687dbc7" title="ut_test_m0_op_obj_invariant" alt="" coords="195,157,383,184"/>
+</map>

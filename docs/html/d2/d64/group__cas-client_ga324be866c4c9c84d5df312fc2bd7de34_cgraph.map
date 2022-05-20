@@ -1,0 +1,17 @@
+<map id="m0_cas__get" name="m0_cas__get">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gad3f6ef0988b027e0836339fe8f8fe0dd" title="m0_cas_req_is_locked" alt="" coords="344,440,499,467"/>
+<area shape="rect" id="node3" href="$d4/d44/group__cas.html#ga0019004016e6a627a1141403c86ac406" title="m0_cas_id_invariant" alt="" coords="154,44,295,71"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#ga1f938e902996a29f22861d1fa27ea307" title="cas_req_prep" alt="" coords="175,95,275,121"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="383,44,459,71"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="388,171,455,197"/>
+<area shape="rect" id="node7" href="$d7/df1/group__rpc-at.html#ga52c51d0e4d53a3cd3fd7f3739a97cf34" title="m0_rpc_at_init" alt="" coords="171,247,278,273"/>
+<area shape="rect" id="node8" href="$d7/df1/group__rpc-at.html#gac829a8aa34a93eb3c47b46c9f23ed591" title="m0_rpc_at_recv" alt="" coords="167,196,282,223"/>
+<area shape="rect" id="node9" href="$d2/d64/group__cas-client.html#ga4a2507fcce6206800122336ed83fa939" title="creq_rpc_conn" alt="" coords="171,364,278,391"/>
+<area shape="rect" id="node10" href="$d7/df1/group__rpc-at.html#ga785bd6138fd08ce2374c24dd71825546" title="m0_rpc_at_fini" alt="" coords="368,643,475,669"/>
+<area shape="rect" id="node11" href="$d2/d64/group__cas-client.html#ga3811156c9642154af76ce9c882985862" title="creq_recv_fini" alt="" coords="173,617,276,644"/>
+<area shape="rect" id="node12" href="$d2/d64/group__cas-client.html#ga37e5e6a38e9218a1debb0a45bee464b3" title="fid_is_meta" alt="" coords="180,516,269,543"/>
+<area shape="rect" id="node13" href="$d2/d64/group__cas-client.html#gac320340c0255af5b1305b49891a9f193" title="creq_op_free" alt="" coords="176,567,273,593"/>
+<area shape="rect" id="node14" href="$d2/d64/group__cas-client.html#ga945b6a428a957e20780b246e41c18f92" title="creq_fop_create_and\l_prepare" alt="" coords="153,298,296,339"/>
+<area shape="rect" id="node15" href="$d2/d64/group__cas-client.html#gaf50f296b802fe3367ad763bf1e40d6dc" title="cas_fop_send" alt="" coords="173,465,276,492"/>
+<area shape="rect" id="node16" href="$d2/d64/group__cas-client.html#gaf8bb9c5f4c1cfc0ae2e79a4b61933da8" title="cas_req_state_set" alt="" coords="160,719,289,745"/>
+</map>

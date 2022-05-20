@@ -1,0 +1,11 @@
+<map id="m0_rm_remote_init" name="m0_rm_remote_init">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga8305aab80d2ff73f3130d28287b0045e" title="m0_chan_init" alt="" coords="220,5,319,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="400,81,499,108"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#gaadd41e3e327172608c63f963776db593" title="rev_session_clink_cb" alt="" coords="196,157,343,184"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="405,208,494,235"/>
+<area shape="rect" id="node6" href="$de/df4/group__rm-ha.html#gaffadab5583dab195849fe1340f3b821d" title="m0_rm_ha_tracker_init" alt="" coords="192,107,347,133"/>
+<area shape="rect" id="node7" href="$d2/deb/group__rm.html#ga3895b0df9036d486f0555e5ef2ca166c" title="rm_on_remote_death_cb" alt="" coords="187,259,352,285"/>
+<area shape="rect" id="node8" href="$d4/de4/refs_8c.html#a5d62779a5f7a71f16a43727e524117e0" title="m0_ref_init" alt="" coords="226,309,313,336"/>
+<area shape="rect" id="node9" href="$d2/deb/group__rm.html#ga221b78dee3e52eda3d88de52d0a7741a" title="rm_remote_free" alt="" coords="213,360,326,387"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga8a8f9f477584640004bf8df1b322f0c2" title="resource_get" alt="" coords="221,411,318,437"/>
+</map>

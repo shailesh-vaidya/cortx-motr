@@ -1,0 +1,28 @@
+<map id="m0_net_desc_free" name="m0_net_desc_free">
+<area shape="rect" id="node2" href="$da/dda/io__fops_8c.html#a6661a9267c9c9e9490302baf6333ad34" title="io_fop_desc_dealloc" alt="" coords="210,5,350,32"/>
+<area shape="rect" id="node3" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a1f50ddee19a2899750dd693dc5941588" title="msg_free" alt="" coords="242,107,318,133"/>
+<area shape="rect" id="node4" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a082339793ee9eb64b2163886558982e8" title="c_p_recv_cb" alt="" coords="433,69,529,96"/>
+<area shape="rect" id="node5" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aa6484c08fd1d1ce6c7c8f327dd95a217" title="s_a_recv_cb" alt="" coords="433,132,529,159"/>
+<area shape="rect" id="node6" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a9316e7270e7dc69b64a7e14e7e97e6ff" title="c_m_send_cb" alt="" coords="229,208,331,235"/>
+<area shape="rect" id="node7" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#aad192e3413c80246fff3b45c5012d190" title="c_p_send_cb" alt="" coords="231,259,329,285"/>
+<area shape="rect" id="node8" href="$d2/d47/bulk__emulation_2st_2ping_8c.html#a4e70705b86a5c23e01f08ce77bb0cf7a" title="s_a_send_cb" alt="" coords="231,309,329,336"/>
+<area shape="rect" id="node9" href="$d0/d20/bulk__emulation_2st_2ping_8h.html#aa99e0b86628f3daab43249468a6d21ea" title="ping_client_passive_recv" alt="" coords="196,360,364,387"/>
+<area shape="rect" id="node10" href="$d0/d20/bulk__emulation_2st_2ping_8h.html#a651a2f8201cec6308ed758043f75f71d" title="ping_client_passive_send" alt="" coords="195,411,365,437"/>
+<area shape="rect" id="node11" href="$de/dec/lnet_2st_2ping_8c.html#a90803e285640bfb3403188535840d4f4" title="nlx_ping_client_passive_recv" alt="" coords="184,461,376,488"/>
+<area shape="rect" id="node12" href="$de/dec/lnet_2st_2ping_8c.html#adfc27bd9ed8e147867dc1f91eef5a4f6" title="nlx_ping_client_passive_send" alt="" coords="183,512,377,539"/>
+<area shape="rect" id="node13" href="$d3/d50/bulk__mem__ut_8c.html#aaf3c762585b20b0104d3ae57a6f88afb" title="test_failure" alt="" coords="237,563,323,589"/>
+<area shape="rect" id="node14" href="$dd/d6e/group___l_net_x_o_d_f_s.html#gac88a3ce0522654d1cecef0c7023f4b9e" title="nlx_xo_buf_add" alt="" coords="223,613,337,640"/>
+<area shape="rect" id="node15" href="$df/df1/klnet__ut_8c.html#a8d7b18285c438159d553511d8a960c19" title="ktest_bulk_body" alt="" coords="221,664,339,691"/>
+<area shape="rect" id="node16" href="$d2/d68/lnet__ut_8c.html#af7920253bd5f36cd36f0fbd5afb4395b" title="test_buf_desc_body" alt="" coords="211,715,349,741"/>
+<area shape="rect" id="node17" href="$d2/d68/lnet__ut_8c.html#a6e84e8ac42832d81377865378c4dd282" title="test_bulk_passive_send" alt="" coords="199,765,361,792"/>
+<area shape="rect" id="node18" href="$d2/d68/lnet__ut_8c.html#a838e8335ca1a5b6c10edcfb795298bff" title="test_bulk_body" alt="" coords="425,816,536,843"/>
+<area shape="rect" id="node19" href="$d2/d68/lnet__ut_8c.html#a41d302e88c1ead323ffc473deef1fdd9" title="test_bulk_passive_recv" alt="" coords="201,867,359,893"/>
+<area shape="rect" id="node20" href="$d2/d68/lnet__ut_8c.html#a61ef321fcc86a2330d997cbec5025e1e" title="test_timeout_body" alt="" coords="215,917,345,944"/>
+<area shape="rect" id="node21" href="$df/d38/group___net_test_network_internals.html#ga3926a7739955042d4be369b79a29d4db" title="net_test_buf_fini" alt="" coords="221,968,339,995"/>
+<area shape="rect" id="node22" href="$dd/da5/group___net_test_bulk_node_internals.html#gaf55b3202722b5f8f956858a13c8e6747" title="buf_desc_server_free" alt="" coords="207,1019,353,1045"/>
+<area shape="rect" id="node23" href="$dd/da5/group___net_test_bulk_node_internals.html#ga25e8bf07f492782f916dd6581823f10e" title="buf_desc_client_free" alt="" coords="209,1069,351,1096"/>
+<area shape="rect" id="node24" href="$db/d9d/bulk__if_8c.html#ac22b2ff42498f0121a2b8b06d89b933f" title="ut_buffer_event_callback" alt="" coords="197,1120,363,1147"/>
+<area shape="rect" id="node25" href="$db/d9d/bulk__if_8c.html#a6cb8e2f073144afabb5384c6d971d358" title="test_net_bulk_if" alt="" coords="223,1171,337,1197"/>
+<area shape="rect" id="node26" href="$d7/df1/group__rpc-at.html#ga785bd6138fd08ce2374c24dd71825546" title="m0_rpc_at_fini" alt="" coords="227,1221,333,1248"/>
+<area shape="rect" id="node27" href="$db/de9/group__rpc.html#ga700f878d52d38fc159259516239d95de" title="rpc_bulk_buf_fini" alt="" coords="220,1272,340,1299"/>
+</map>

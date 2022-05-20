@@ -1,0 +1,5 @@
+<map id="creq_item_prepare" name="creq_item_prepare">
+<area shape="rect" id="node2" href="$d2/d64/group__cas-client.html#gaf50f296b802fe3367ad763bf1e40d6dc" title="cas_fop_send" alt="" coords="192,5,295,32"/>
+<area shape="rect" id="node3" href="$d2/d64/group__cas-client.html#gae1123d4cf076e638ba5f4fc48fc4c5f0" title="greq_asmbl_post" alt="" coords="183,56,304,83"/>
+<area shape="rect" id="node4" href="$d2/d64/group__cas-client.html#gac45625cc4bb3c49e6faa702a9ae180de" title="nreq_asmbl_post" alt="" coords="183,107,304,133"/>
+</map>

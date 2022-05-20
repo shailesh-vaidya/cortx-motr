@@ -1,0 +1,10 @@
+<map id="up_update" name="up_update">
+<area shape="rect" id="node2" href="$d2/d66/group__dtm.html#ga80a645af0745aa25bef55f319679a67c" title="m0_dtm_dtx_close" alt="" coords="159,5,291,32"/>
+<area shape="rect" id="node3" href="$d2/d66/group__dtm.html#gadb7b104ad3343c192e9635b32ae450b6" title="m0_dtm_history_persistent" alt="" coords="136,56,315,83"/>
+<area shape="rect" id="node4" href="$d2/d66/group__dtm.html#ga499dc4938979e0f69a3095b6fbd5f4e6" title="m0_dtm_history_reset" alt="" coords="150,107,301,133"/>
+<area shape="rect" id="node5" href="$d2/d66/group__dtm.html#ga773c055059e02ac35bded5e1435d05df" title="m0_dtm_history_undo" alt="" coords="150,157,301,184"/>
+<area shape="rect" id="node6" href="$d2/d66/group__dtm.html#gab5d2bde731b1739e5bd7ee74ddb53659" title="history_balance" alt="" coords="363,284,476,311"/>
+<area shape="rect" id="node7" href="$d2/d66/group__dtm.html#gaee5cbd67d5c3acf406977913d74e573f" title="sibling_undo" alt="" coords="178,259,273,285"/>
+<area shape="rect" id="node8" href="$d2/d66/group__dtm.html#gae8093722222bd07cf452d9b918eca1c8" title="sibling_persistent" alt="" coords="164,309,287,336"/>
+<area shape="rect" id="node9" href="$d2/d66/group__dtm.html#gab01f7af2cdba277b2f84f692b6fe9b64" title="sibling_reset" alt="" coords="178,360,273,387"/>
+</map>

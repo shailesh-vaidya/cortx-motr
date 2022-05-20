@@ -1,0 +1,11 @@
+<map id="buf_accept" name="buf_accept">
+<area shape="rect" id="node2" href="$d0/d7f/group__vec.html#ga9c79d9e7b339acaf8b46ac0a813f064d" title="m0_vec_count" alt="" coords="146,5,253,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga4d04d2d80f14221e812b0d455d4639c9" title="mover_invariant" alt="" coords="142,56,257,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gad1278e0c872e51530c6943d527e786a3" title="mover_is_reader" alt="" coords="140,107,259,133"/>
+<area shape="rect" id="node5" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="307,208,383,235"/>
+<area shape="rect" id="node6" href="$df/df3/group__bitmap.html#ga0f9db6f3dbbce95cfc769ea48843d3f2" title="m0_bitmap_init" alt="" coords="144,208,255,235"/>
+<area shape="rect" id="node7" href="$d5/d16/group__netsock.html#ga87fd9494dc7688b4f4cddb2bc5bfbaaa" title="ep_create" alt="" coords="160,259,239,285"/>
+<area shape="rect" id="node8" href="$d5/d16/group__netsock.html#ga6f158d48c8168947b0fef56f8bc52747" title="ep_eq" alt="" coords="316,284,373,311"/>
+<area shape="rect" id="node9" href="$d5/d16/group__netsock.html#gafea137fe2248694702f66bd158c45022" title="buf_ma" alt="" coords="167,360,232,387"/>
+<area shape="rect" id="node10" href="$df/df3/group__bitmap.html#ga0e2870d0310664efdf37a687856a5605" title="m0_bitmap_get" alt="" coords="144,411,255,437"/>
+</map>

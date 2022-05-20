@@ -1,0 +1,7 @@
+<map id="ut_test_nw_xfer_request_init" name="ut_test_nw_xfer_request_init">
+<area shape="rect" id="node2" href="$d0/ddc/motr_2ut_2client_8h.html#a0b2c2917b5648edbbd7c9fec580d89d1" title="ut_dummy_ioo_create" alt="" coords="243,5,393,32"/>
+<area shape="rect" id="node3" href="$de/df0/io__nw__xfer_8c.html#ade863ecddea08aa653838f2945d9da41" title="nw_xfer_request_init" alt="" coords="247,56,389,83"/>
+<area shape="rect" id="node4" href="$d3/de8/group__atomic.html#ga611f47b9f61896df7924843f8d7e95de" title="m0_atomic64_get" alt="" coords="255,107,381,133"/>
+<area shape="rect" id="node5" href="$d0/d04/group__mutex.html#ga3343af66e17b74ebf3f77fa6a31201c4" title="m0_mutex_fini" alt="" coords="265,157,371,184"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a1b3b48dd6920a2dd5e1f56fc2b08c319" title="ut_dummy_ioo_delete" alt="" coords="243,208,393,235"/>
+</map>

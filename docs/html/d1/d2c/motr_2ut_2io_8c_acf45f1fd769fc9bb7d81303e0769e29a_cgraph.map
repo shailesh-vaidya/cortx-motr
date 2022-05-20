@@ -1,0 +1,8 @@
+<map id="m0_io_ut_init" name="m0_io_ut_init">
+<area shape="rect" id="node2" href="$de/d61/motr_2ut_2client_8c.html#ac45af087addada0a59317f7c2a7236d6" title="ut_shuffle_test_order" alt="" coords="168,5,311,32"/>
+<area shape="rect" id="node3" href="$d9/d5b/motr_2io_8c.html#aff20c277cb0e215374532300a99ec2d8" title="m0_client_init_io_op" alt="" coords="169,56,309,83"/>
+<area shape="rect" id="node4" href="$de/d61/motr_2ut_2client_8c.html#a263116bde6afe16f78395162c1d89a19" title="ut_m0_client_init" alt="" coords="179,107,299,133"/>
+<area shape="rect" id="node5" href="$d0/ddc/motr_2ut_2client_8h.html#a0a9c951bed7afb5c7e2bdf3d3f3c3f65" title="ut_layout_domain_fill" alt="" coords="167,157,311,184"/>
+<area shape="rect" id="node6" href="$d0/ddc/motr_2ut_2client_8h.html#a2259d6f635d933c483c5ed1d50749440" title="ut_dummy_pdclust_layout\l_create" alt="" coords="152,209,327,250"/>
+<area shape="rect" id="node7" href="$d1/d2c/motr_2ut_2io_8c.html#a51c463cd649354b90baac44a98cf7ece" title="ut_enable_resource\l_manager" alt="" coords="172,274,307,315"/>
+</map>

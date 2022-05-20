@@ -1,0 +1,9 @@
+<map id="ha_state_accept" name="ha_state_accept">
+<area shape="rect" id="node2" href="$d0/dc7/group__ha-note.html#gaae2334c89bd59757d2dca2f946cc47af" title="note_invariant" alt="" coords="200,5,303,32"/>
+<area shape="rect" id="node3" href="$d5/d25/group__confc__dlspec.html#gaba17e47832aa4f32f86a3ba5d77463fe" title="m0_confc_is_inited" alt="" coords="184,56,319,83"/>
+<area shape="rect" id="node4" href="$d2/dd9/group__conf__dlspec__cache.html#ga50c3482563d6b12e95e9e8deaa3543cf" title="m0_conf_cache_lock" alt="" coords="179,107,324,133"/>
+<area shape="rect" id="node5" href="$d2/dd9/group__conf__dlspec__cache.html#ga442877f0951c764ccd73ccc1452c16f2" title="m0_conf_cache_lookup" alt="" coords="172,157,331,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#gad1968f64b50443b0c89881a2471321da" title="m0_chan_broadcast" alt="" coords="182,208,321,235"/>
+<area shape="rect" id="node7" href="$d2/dd9/group__conf__dlspec__cache.html#ga705be44669199a30f1ff7fabd449ff0e" title="m0_conf_cache_unlock" alt="" coords="172,259,331,285"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="207,309,296,336"/>
+</map>

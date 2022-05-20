@@ -1,0 +1,11 @@
+<map id="m0_rpc_item_send_reply" name="m0_rpc_item_send_reply">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#gaec6fe709fcdba2fc7f2b6b929de1fb36" title="m0_rpc_item_is_request" alt="" coords="435,19,599,45"/>
+<area shape="rect" id="node3" href="$db/de9/group__rpc.html#ga260cb5dd16d88d6262e4736276535a6d" title="m0_rpc_item_get" alt="" coords="455,95,578,121"/>
+<area shape="rect" id="node4" href="$db/de9/group__rpc.html#ga3086bbce4741e72754441b5368d73838" title="m0_rpc_item_change\l_state" alt="" coords="230,298,377,339"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae4e8c1ec17c4acee2bec0f1f163759b2" title="rpc_item_needs_xid" alt="" coords="234,364,373,391"/>
+<area shape="rect" id="node6" href="$db/de9/group__rpc.html#ga9c80b09af1111979b64045a58b1e3de0" title="m0_rpc_item_cache_add" alt="" coords="220,44,387,71"/>
+<area shape="rect" id="node7" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="449,157,585,184"/>
+<area shape="rect" id="node8" href="$db/de9/group__rpc.html#gaa432d18da64603a81999f4766cd1c985" title="m0_rpc_item_send" alt="" coords="237,145,369,172"/>
+<area shape="rect" id="node9" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="472,233,561,260"/>
+<area shape="rect" id="node10" href="$df/db4/group__rpc__session.html#ga27d439383e5bc9c8bb550257286e679b" title="m0_rpc_session_release" alt="" coords="220,415,387,441"/>
+</map>

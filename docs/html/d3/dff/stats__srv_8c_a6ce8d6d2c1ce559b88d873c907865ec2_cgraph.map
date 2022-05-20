@@ -1,0 +1,9 @@
+<map id="read_stats" name="read_stats">
+<area shape="rect" id="node2" href="$d0/d66/group__stats__fop.html#ga0da088845e4332e31b9cce23fb169a8d" title="m0_stats_query_fop_get" alt="" coords="136,5,301,32"/>
+<area shape="rect" id="node3" href="$d3/dff/stats__srv_8c.html#a00549532edc9a262baa8893a4f1f4880" title="stats_svc_invariant" alt="" coords="151,56,286,83"/>
+<area shape="rect" id="node4" href="$d0/d66/group__stats__fop.html#ga4fa088e848478bdbc994e887e5bdcd4d" title="m0_stats_query_rep\l_fop_get" alt="" coords="149,107,289,149"/>
+<area shape="rect" id="node5" href="$dc/de4/group__stats__svc.html#ga0cb76c88f9dec1a5fd3ccae89d807af3" title="m0_stats_get" alt="" coords="168,173,269,200"/>
+<area shape="rect" id="node6" href="$d3/dff/stats__srv_8c.html#afbdd5b6fd6edfac79e12adcfe2e51d89" title="stats_sum_copy" alt="" coords="159,224,278,251"/>
+<area shape="rect" id="node7" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="184,275,253,301"/>
+<area shape="rect" id="node8" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="185,325,252,352"/>
+</map>

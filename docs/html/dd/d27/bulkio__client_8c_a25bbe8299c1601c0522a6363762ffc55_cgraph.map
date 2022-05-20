@@ -1,0 +1,9 @@
+<map id="bulkio_msg_tm_init" name="bulkio_msg_tm_init">
+<area shape="rect" id="node2" href="$d9/dd2/group__net.html#gaa5fda7855ba2cf7b2511ced76acb046d" title="m0_net_tm_init" alt="" coords="199,5,310,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="205,56,304,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="188,107,321,133"/>
+<area shape="rect" id="node5" href="$d9/dd2/group__net.html#ga13d554760e4fc59ffb3428fe81b63555" title="m0_net_tm_start" alt="" coords="195,157,315,184"/>
+<area shape="rect" id="node6" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="201,208,308,235"/>
+<area shape="rect" id="node7" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="190,259,319,285"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="205,309,304,336"/>
+</map>

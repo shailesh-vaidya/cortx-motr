@@ -1,0 +1,7 @@
+<map id="rwlock_utinit" name="rwlock_utinit">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#gabba8714965f4e31ba57d1087f358bb18" title="rm_ctx_init" alt="" coords="182,5,269,32"/>
+<area shape="rect" id="node3" href="$de/de1/rmut_8c.html#a1a2313708372c1a9b3dbe624fd88981c" title="rm_ctxs_conf_init" alt="" coords="163,56,288,83"/>
+<area shape="rect" id="node4" href="$de/d51/ut_2rm__rwlock_8c.html#a8d0b47c82381f9782afcb9c2c50facf4" title="rwlock_build_hierarchy" alt="" coords="148,107,303,133"/>
+<area shape="rect" id="node5" href="$de/de1/rmut_8c.html#a7d6ca528fc6faef109c0adfa62af173d" title="rm_ctx_server_start" alt="" coords="156,157,295,184"/>
+<area shape="rect" id="node6" href="$de/de1/rmut_8c.html#a6c3e488967991397b0217ad77f8751c8" title="creditor_cookie_setup" alt="" coords="151,208,300,235"/>
+</map>

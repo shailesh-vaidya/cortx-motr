@@ -1,0 +1,5 @@
+<map id="chan_signal_nr" name="chan_signal_nr">
+<area shape="rect" id="node2" href="$df/da0/group__chan.html#ga1a87282e5191ec5bf578185b573f118d" title="m0_chan_is_locked" alt="" coords="163,5,300,32"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga0d26a21bd64aeb3afe3fac9afc57ed01" title="m0_chan_invariant" alt="" coords="166,56,297,83"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga7d3ecb3c822646407eae2172543bc402" title="clink_signal" alt="" coords="186,107,277,133"/>
+</map>

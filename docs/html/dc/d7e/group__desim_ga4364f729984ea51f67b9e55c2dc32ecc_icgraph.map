@@ -1,0 +1,5 @@
+<map id="sim_timer_init" name="sim_timer_init">
+<area shape="rect" id="node2" href="$dc/d7e/group__desim.html#gaf38ca0eecc8700d3dc2e1fc3638ed5e5" title="sim_timer_add" alt="" coords="166,5,273,32"/>
+<area shape="rect" id="node3" href="$dc/d7e/group__desim.html#ga84f4e330bbf45b66ae256c1ab5e8d20d" title="sim_timer_rearm" alt="" coords="160,56,279,83"/>
+<area shape="rect" id="node4" href="$dc/d7e/group__desim.html#ga70f88a70d2ca746fd31aa7a5051bf415" title="sim_wakeup_post" alt="" coords="156,107,283,133"/>
+</map>

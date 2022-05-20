@@ -1,0 +1,6 @@
+<map id="be_ut_tx_bulk_parallel_work_put" name="be_ut_tx_bulk_parallel_work_put">
+<area shape="rect" id="node2" href="$d0/d9e/group__addb2.html#ga7dd778e9ea7db52ededdd419e33d1d01" title="ptr" alt="" coords="269,5,307,32"/>
+<area shape="rect" id="node3" href="$d3/de8/group__atomic.html#ga9b280fa18fe055a4b7e1f5374558d57c" title="m0_atomic64_add_return" alt="" coords="204,56,372,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#ga664ca6b81055daa61ee9ec34f479295a" title="m0_be_tx_bulk_put" alt="" coords="221,107,355,133"/>
+<area shape="rect" id="node5" href="$d9/dcf/group__be.html#ga1c927a21b3ea62e173f6498a94f3aeec" title="m0_be_tx_bulk_end" alt="" coords="219,157,357,184"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="m0_confdb_destroy" name="m0_confdb_destroy">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gaa270deadd64ff6e603d48c33d6e87838" title="btree" alt="" coords="408,20,459,46"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga8f2ad8560093983526b4a2d9f0438178" title="m0_be_seg_dict_lookup" alt="" coords="189,82,352,109"/>
+<area shape="rect" id="node4" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="400,96,467,122"/>
+<area shape="rect" id="node5" href="$d2/db5/db_8c.html#a83dc065e5d8c8f993c1c60473c9ef6d4" title="__confdb_free" alt="" coords="219,32,323,58"/>
+<area shape="rect" id="node6" href="$d9/dcf/group__be.html#ga32a77081edd12e9792756359a0b05c2a" title="m0_be_btree_destroy" alt="" coords="197,184,344,210"/>
+<area shape="rect" id="node7" href="$d9/dcf/group__be.html#ga0c618e7d3abf238cd651e083479511f0" title="m0_be_seg_dict_delete" alt="" coords="191,234,350,261"/>
+</map>

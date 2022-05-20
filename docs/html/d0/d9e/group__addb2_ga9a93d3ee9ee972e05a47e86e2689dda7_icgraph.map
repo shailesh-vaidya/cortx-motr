@@ -1,0 +1,13 @@
+<map id="m0_addb2_hist_mod" name="m0_addb2_hist_mod">
+<area shape="rect" id="node2" href="$df/d44/ut_2histogram_8c.html#ac24ee79d5fb4dadf37cc19a002dd1904" title="test_one" alt="" coords="233,5,305,32"/>
+<area shape="rect" id="node3" href="$d1/d59/group__fom.html#gafc7982eddcb3389d4aaa714e043cb34c" title="fom_ready" alt="" coords="227,56,310,83"/>
+<area shape="rect" id="node4" href="$d1/d59/group__fom.html#gaf925ebe69d324b2711efa634d14f3b88" title="m0_fom_ready" alt="" coords="389,81,497,108"/>
+<area shape="rect" id="node5" href="$d1/d59/group__fom.html#ga5663c0b465dcb8f498d38a8f555e9e6c" title="fom_wait" alt="" coords="231,157,306,184"/>
+<area shape="rect" id="node6" href="$d1/d59/group__fom.html#gae62c2b8df4d70fb2261d9b39482e7fab" title="fom_dequeue" alt="" coords="219,208,319,235"/>
+<area shape="rect" id="node7" href="$d1/d59/group__fom.html#gab9c9335821b84addf2bb7e73537dbd65" title="m0_fom_locality_inc" alt="" coords="198,259,339,285"/>
+<area shape="rect" id="node8" href="$d1/d59/group__fom.html#ga6d7e507f0bfce9b589bc5d70a651540c" title="m0_fom_locality_dec" alt="" coords="196,309,341,336"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="217,360,320,387"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="219,411,318,437"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga7cce0440de6929ae6eed3aa26e1fc69e" title="state_set" alt="" coords="231,461,307,488"/>
+<area shape="rect" id="node12" href="$d3/d78/group__stoblinux.html#gacc15ab3ed154ac9292efa9a9f19c9547" title="stob_ioq_thread" alt="" coords="211,512,326,539"/>
+</map>

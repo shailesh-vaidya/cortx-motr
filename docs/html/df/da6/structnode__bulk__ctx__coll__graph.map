@@ -1,0 +1,14 @@
+<map id="node_bulk_ctx" name="node_bulk_ctx">
+<area shape="rect" id="node2" href="$d0/d12/structm0__chan.html" title="{m0_chan\n||}" alt="" coords="159,285,234,363"/>
+<area shape="rect" id="node11" href="$d0/d06/structm0__clink.html" title="{m0_clink\n||}" alt="" coords="294,455,369,532"/>
+<area shape="rect" id="node3" href="$df/d5f/structm0__mutex.html" title="{m0_mutex\n||}" alt="" coords="286,145,369,223"/>
+<area shape="rect" id="node13" href="$d5/d6f/structm0__net__test__nh.html" title="{m0_net_test_nh\n||}" alt="" coords="509,455,623,532"/>
+<area shape="rect" id="node4" href="$d1/d67/structm0__thread.html" title="{m0_thread\n||}" alt="" coords="1235,5,1318,83"/>
+<area shape="rect" id="node6" href="$d3/d83/structserver__status__bulk.html" title="{server_status_bulk\n||}" alt="" coords="1316,455,1448,532"/>
+<area shape="rect" id="node8" href="$d5/d1e/structbuf__status__ping.html" title="{buf_status_ping\n||}" alt="" coords="1038,455,1153,532"/>
+<area shape="rect" id="node15" href="$d3/d2c/structbuf__status__bulk.html" title="{buf_status_bulk\n||}" alt="" coords="1177,455,1291,532"/>
+<area shape="rect" id="node9" href="$d9/d6d/structm0__net__test__ringbuf.html" title="{m0_net_test_ringbuf\n||}" alt="" coords="1667,455,1807,532"/>
+<area shape="rect" id="node10" href="$d7/d9d/structm0__atomic64.html" title="{m0_atomic64\n||}" alt="" coords="1757,285,1857,363"/>
+<area shape="rect" id="node14" href="$d4/dbd/structm0__net__test__service.html" title="{m0_net_test_service\n||}" alt="" coords="1973,455,2116,532"/>
+<area shape="rect" id="node16" href="$de/d31/structm0__net__test__network__ctx.html" title="{m0_net_test_network_ctx\n||}" alt="" coords="2192,455,2364,532"/>
+</map>

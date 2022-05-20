@@ -1,0 +1,12 @@
+<map id="m0_chan_is_locked" name="m0_chan_is_locked">
+<area shape="rect" id="node2" href="$d5/d25/group__confc__dlspec.html#ga35925f822d21af7791e4fb5a0356fa1f" title="clink_cleanup_fini" alt="" coords="424,7,549,34"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga7bac31f42a103a8135eecf056ae17892" title="m0_chan_fini" alt="" coords="223,336,321,363"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga7e83aeee7f2b7883c8381c8633f62fc3" title="chan_signal_nr" alt="" coords="217,387,327,414"/>
+<area shape="rect" id="node5" href="$df/da0/group__chan.html#ga919d9e6111bd9c6e1f0c0e18a8139097" title="m0_clink_add" alt="" coords="221,134,323,160"/>
+<area shape="rect" id="node6" href="$da/dea/group__cond.html#ga528fb5a1fe32776af5bba9ecacf26b6b" title="m0_cond_wait" alt="" coords="433,83,540,110"/>
+<area shape="rect" id="node7" href="$da/dea/group__cond.html#ga3e4e4ec5b200b90e7fb6f8eeb4e10fc7" title="m0_cond_timedwait" alt="" coords="417,134,556,160"/>
+<area shape="rect" id="node8" href="$d1/dc1/group__sm.html#gaa7f51358c062449485211bd02b3edb66" title="m0_sm_ast_wait_prepare" alt="" coords="401,260,572,287"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga7abfc22f2c6f33620e68c77a1ade46cb" title="m0_clink_del" alt="" coords="223,83,321,110"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#ga5ccfc2b9d9cdce43a1afc9137d6faa68" title="m0_clink_cleanup_locked" alt="" coords="401,196,572,223"/>
+<area shape="rect" id="node11" href="$d1/dc1/group__sm.html#ga7424a3342ec52a9a890cd46d96f4a9c6" title="m0_sm_ast_wait_signal" alt="" coords="191,438,353,464"/>
+</map>

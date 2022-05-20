@@ -1,0 +1,6 @@
+<map id="dix_cli_state_set" name="dix_cli_state_set">
+<area shape="rect" id="node2" href="$dd/d33/group__dix.html#gabd012320ee0b24c361397eb74c93a122" title="dix_meta_read_ast_cb" alt="" coords="173,5,327,32"/>
+<area shape="rect" id="node3" href="$dd/d33/group__dix.html#gae86100ced0bac837e10baef44297fa31" title="dix_cli_start_ast_cb" alt="" coords="181,56,319,83"/>
+<area shape="rect" id="node4" href="$dd/d33/group__dix.html#ga3331eb9e06516fab577b9dce8e9236c7" title="m0_dix_cli_bootstrap" alt="" coords="177,107,323,133"/>
+<area shape="rect" id="node5" href="$dd/d33/group__dix.html#gac1f6c7b019fc6d3945033cc3b399a267" title="m0_dix_cli_stop" alt="" coords="192,157,308,184"/>
+</map>

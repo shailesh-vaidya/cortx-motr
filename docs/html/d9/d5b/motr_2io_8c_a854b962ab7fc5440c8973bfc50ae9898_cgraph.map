@@ -1,0 +1,12 @@
+<map id="obj_io_cb_fini" name="obj_io_cb_fini">
+<area shape="rect" id="node2" href="$d9/d5b/motr_2io_8c.html#a037ed12fcc1576356d3dff7457cff1f4" title="m0_op_io_invariant" alt="" coords="336,114,471,140"/>
+<area shape="rect" id="node3" href="$df/da0/group__chan.html#ga005725ac0a4cb914289fa63d36827df8" title="m0_clink_init" alt="" coords="172,38,271,64"/>
+<area shape="rect" id="node4" href="$df/da0/group__chan.html#ga92e0383d9a40b90bf5b0c4246c78c926" title="m0_clink_add_lock" alt="" coords="155,88,288,115"/>
+<area shape="rect" id="node5" href="$d9/d5b/motr_2io_8c.html#a9e161863eef7ca2d8b2ed859eaf58043" title="obj_io_ast_fini" alt="" coords="169,139,274,166"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="359,164,448,191"/>
+<area shape="rect" id="node7" href="$d1/dc1/group__sm.html#ga3af9c51bdc59b52e62f0b1dd58c5c05d" title="m0_sm_ast_post" alt="" coords="160,240,283,267"/>
+<area shape="rect" id="node8" href="$df/da0/group__chan.html#ga2370fce32196fcfe356cbb47046449de" title="m0_chan_wait" alt="" coords="168,291,275,318"/>
+<area shape="rect" id="node9" href="$df/da0/group__chan.html#ga9d7601e5f75b183b038d5ad8e99150fb" title="m0_clink_del_lock" alt="" coords="157,342,286,368"/>
+<area shape="rect" id="node10" href="$df/da0/group__chan.html#gad8b6e84d3a71f296b398a9c83acea322" title="m0_clink_fini" alt="" coords="172,392,271,419"/>
+<area shape="rect" id="node11" href="$df/da0/group__chan.html#ga504531d5c2d9696fff877d01cb05cf11" title="m0_chan_fini_lock" alt="" coords="156,443,287,470"/>
+</map>

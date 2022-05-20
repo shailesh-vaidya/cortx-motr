@@ -1,0 +1,8 @@
+<map id="process_fdmi_record" name="process_fdmi_record">
+<area shape="rect" id="node2" href="$d1/d12/group__fol.html#ga6ee0cdc7b06bb4d36e934a25bf23a5bb" title="m0_fol_rec_init" alt="" coords="223,5,333,32"/>
+<area shape="rect" id="node3" href="$d1/d12/group__fol.html#ga240300d5ac437dd9b6b354a94848807e" title="m0_fol_rec_decode" alt="" coords="211,56,345,83"/>
+<area shape="rect" id="node4" href="$d0/d50/group__fdmi__pd__int.html#ga2d7575e46239203aafcce369fc9c989c" title="m0_fdmi__pdock_record\l_reg_find" alt="" coords="196,107,360,149"/>
+<area shape="rect" id="node5" href="$d4/de4/refs_8c.html#ad4ed148978270f86b1af2ea8697f8aae" title="m0_ref_get" alt="" coords="235,173,321,200"/>
+<area shape="rect" id="node6" href="$d0/d06/fdmi__sample__plugin_8c.html#a052ed416b3a56d3cc945e2cd4e27c38c" title="dump_fol_rec_to_json" alt="" coords="203,224,353,251"/>
+<area shape="rect" id="node7" href="$d1/d12/group__fol.html#ga3f4f1a824e9a9f69cc897392f01ae9d2" title="m0_fol_rec_fini" alt="" coords="223,275,333,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rwlock_acquire" name="rwlock_acquire">
+<area shape="rect" id="node2" href="$de/d51/ut_2rm__rwlock_8c.html#a88abbc46a8462d93d280a3dcfca911cc" title="rwlock_acquire_nowait" alt="" coords="163,5,317,32"/>
+<area shape="rect" id="node3" href="$de/d51/ut_2rm__rwlock_8c.html#a16c943ab22cb131e4b5869ca2e8b2fd5" title="rwlock_req_wait" alt="" coords="182,56,298,83"/>
+<area shape="rect" id="node4" href="$d3/deb/rm__internal_8h.html#a74d9dfabd7a6d611a7b0ea870dbeab6f" title="incoming_state" alt="" coords="185,107,295,133"/>
+</map>

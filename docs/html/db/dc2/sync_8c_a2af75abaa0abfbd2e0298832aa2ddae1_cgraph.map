@@ -1,0 +1,5 @@
+<map id="sync_request_done_locked" name="sync_request_done_locked">
+<area shape="rect" id="node2" href="$d1/dc1/group__sm.html#ga967aa22530257d6ca04a5f3a956bdee6" title="m0_sm_move" alt="" coords="242,5,346,32"/>
+<area shape="rect" id="node3" href="$d6/db6/motr_2client_8c.html#a9d859146726a6fd21326b93786323055" title="m0_op_executed" alt="" coords="233,56,355,83"/>
+<area shape="rect" id="node4" href="$d6/db6/motr_2client_8c.html#a95d835f22f66e52e5ff327665b6a35ca" title="m0_op_stable" alt="" coords="243,107,345,133"/>
+</map>

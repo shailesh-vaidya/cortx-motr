@@ -1,0 +1,14 @@
+<map id="fini_io" name="fini_io">
+<area shape="rect" id="node2" href="$dc/d74/addb2_2ut_2storage_8c.html#ab11d2730c5c88e8b12c7c0dc56604a4c" title="io_idle" alt="" coords="162,5,221,32"/>
+<area shape="rect" id="node3" href="$dc/d74/addb2_2ut_2storage_8c.html#a67d2220e73b8f50c7ce30880f56a15e8" title="io_done" alt="" coords="158,56,225,83"/>
+<area shape="rect" id="node4" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="124,107,259,133"/>
+<area shape="rect" id="node5" href="$dc/d74/addb2_2ut_2storage_8c.html#aee94396c9a7cf36fcdf4f1f0dcc88217" title="io_thread" alt="" coords="154,259,229,285"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="321,208,471,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#gaec2688b125e30e354e0d388c6381b81d" title="m0_semaphore_up" alt="" coords="330,360,462,387"/>
+<area shape="rect" id="node8" href="$d0/d9e/group__addb2.html#ga8e8e54e49f4d435b5d097cf22e010005" title="m0_addb2_storage_init" alt="" coords="113,309,269,336"/>
+<area shape="rect" id="node9" href="$d0/d9e/group__addb2.html#ga7cfd5628d8e7480196a3c3e1ad8f3612" title="m0_addb2_storage_stop" alt="" coords="109,360,273,387"/>
+<area shape="rect" id="node10" href="$d0/d9e/group__addb2.html#gadc4647d6cc4fff779ca2c152431357ba" title="m0_addb2_storage_fini" alt="" coords="113,411,269,437"/>
+<area shape="rect" id="node11" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="329,537,463,564"/>
+<area shape="rect" id="node12" href="$db/d41/group__kthread.html#ga250c810f6cc1aad898687f5282314713" title="m0_thread_join" alt="" coords="136,208,247,235"/>
+<area shape="rect" id="node13" href="$da/dd8/group__thread.html#ga2a9d1d0b44cfa91b6fd83f66d2f4fc00" title="m0_thread_fini" alt="" coords="138,563,245,589"/>
+</map>

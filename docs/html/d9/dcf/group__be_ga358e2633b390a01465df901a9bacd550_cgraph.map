@@ -1,0 +1,7 @@
+<map id="m0_be_fmt_log_record_header__invariant" name="m0_be_fmt_log_record_header__invariant">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga6e515ed083234c0f72e0952c880d7790" title="be_log_record_header_size" alt="" coords="208,5,388,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga7d95ee41dba856f2a53bd3f0ed7900c9" title="be_log_record_footer_size" alt="" coords="211,56,385,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gac407a948b328d84a82e6eeeb2377bb1f" title="m0_be_log_bshift" alt="" coords="236,107,360,133"/>
+<area shape="rect" id="node5" href="$db/dc9/group__arith.html#ga6b0a1a964e8ba784af616450952a9387" title="m0_align" alt="" coords="261,157,335,184"/>
+<area shape="rect" id="node6" href="$db/dc9/group__arith.html#ga4b70d9b4cc8a2228f5cb90ecf967ada5" title="m0_is_aligned" alt="" coords="245,208,351,235"/>
+</map>

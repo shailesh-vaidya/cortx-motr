@@ -1,0 +1,7 @@
+<map id="buf_done" name="buf_done">
+<area shape="rect" id="node2" href="$d5/d16/group__netsock.html#ga87fceeb0675eca3bdc635f0be855673f" title="ma_buf_timeout" alt="" coords="129,5,244,32"/>
+<area shape="rect" id="node3" href="$d5/d16/group__netsock.html#ga53079337909bf84060a165ba7eb1fc5d" title="buf_del" alt="" coords="155,56,219,83"/>
+<area shape="rect" id="node4" href="$d5/d16/group__netsock.html#gae0d835e5b33df4f26664af2f5c067f25" title="pk_header_done" alt="" coords="128,107,245,133"/>
+<area shape="rect" id="node5" href="$d5/d16/group__netsock.html#gabcf3ea8f28ad69325421a0cd066c8537" title="pk_done" alt="" coords="151,157,222,184"/>
+<area shape="rect" id="node6" href="$d5/d16/group__netsock.html#gaa0e13143fda3ace8485c788fa68c2655" title="writer_error" alt="" coords="143,208,230,235"/>
+</map>

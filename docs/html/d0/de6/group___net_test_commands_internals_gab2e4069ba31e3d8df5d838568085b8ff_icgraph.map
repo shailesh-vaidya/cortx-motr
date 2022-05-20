@@ -1,0 +1,9 @@
+<map id="m0_net_test_commands_invariant" name="m0_net_test_commands_invariant">
+<area shape="rect" id="node2" href="$d0/de6/group___net_test_commands_internals.html#ga8bc6855d3e897cede08dcd6b5167030d" title="commands_cb_msg_recv" alt="" coords="233,5,404,32"/>
+<area shape="rect" id="node3" href="$d0/de6/group___net_test_commands_internals.html#gaa4df15a1390897c7cc06c2c159e7e1f3" title="commands_cb_msg_send" alt="" coords="231,56,406,83"/>
+<area shape="rect" id="node4" href="$d0/de6/group___net_test_commands_internals.html#ga7b2672e77e7a8bd0429f9496d2bba2ff" title="commands_initfini" alt="" coords="467,161,593,188"/>
+<area shape="rect" id="node5" href="$d9/d9e/group___net_test_commands_d_f_s.html#ga267303fbdaad9163f717966c1f6ee6b1" title="m0_net_test_commands_send" alt="" coords="219,157,419,184"/>
+<area shape="rect" id="node6" href="$d9/d9e/group___net_test_commands_d_f_s.html#gafc360d66f3d8a7ae5f26c87badcd099f" title="m0_net_test_commands\l_send_wait_all" alt="" coords="236,209,401,250"/>
+<area shape="rect" id="node7" href="$d9/d9e/group___net_test_commands_d_f_s.html#gadbec1cc50906a917313bfba98ebd6c23" title="m0_net_test_commands_recv" alt="" coords="220,275,417,301"/>
+<area shape="rect" id="node8" href="$d9/d9e/group___net_test_commands_d_f_s.html#gae26273ad4e435fbc05bf6848a9aea6e2" title="m0_net_test_commands\l_recv_enqueue" alt="" coords="236,326,401,367"/>
+</map>

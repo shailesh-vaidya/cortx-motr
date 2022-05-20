@@ -1,0 +1,28 @@
+<map id="m0_xcode_ctx_init" name="m0_xcode_ctx_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#gace61a39e1674a4fae33d1d077be12c2e" title="be_fmt_xcoded_size" alt="" coords="198,5,341,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gaf4965a009a019381f29ab293f0569f3b" title="be_fmt_encode" alt="" coords="214,56,325,83"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gafb9d9dde0a1a8a5ebf80c5927829578d" title="be_fmt_decode" alt="" coords="214,107,325,133"/>
+<area shape="rect" id="node5" href="$d2/db5/db_8c.html#a8a61411f318bc39c0450561a25b1079c" title="xcode_ctx_init" alt="" coords="216,157,323,184"/>
+<area shape="rect" id="node6" href="$d2/db5/db_8c.html#ad2c831b68132c44c86601aba245c336a" title="confx_obj_dup" alt="" coords="216,208,323,235"/>
+<area shape="rect" id="node7" href="$d1/db1/group__console__it.html#ga14d7cd9735ac07f3e932c197090d446b" title="cons_fop_iterate" alt="" coords="210,259,329,285"/>
+<area shape="rect" id="node8" href="$dc/d8b/filter__eval_8c.html#a4da6cc5e1095822f4dea192b354aef1d" title="flt_str_ops" alt="" coords="403,1201,485,1228"/>
+<area shape="rect" id="node9" href="$da/ddd/group___file_lock_internal.html#ga6d78f3f83dac9de08d4a1096b5673c96" title="file_lock_len" alt="" coords="222,360,317,387"/>
+<area shape="rect" id="node10" href="$da/ddd/group___file_lock_internal.html#ga517cfe410bc042fec16b502566cd02e7" title="file_lock_cr_len" alt="" coords="213,411,325,437"/>
+<area shape="rect" id="node11" href="$db/d84/iterator__test_8c.html#a46a0e249a08027fb4a882c90f0f77d6f" title="fit_test" alt="" coords="238,461,301,488"/>
+<area shape="rect" id="node12" href="$dd/d3e/io__fops_8h.html#ab72163231e783da4af191577073629a0" title="m0_io_fop_size_get" alt="" coords="200,512,339,539"/>
+<area shape="rect" id="node13" href="$d0/ddf/group___r_w_lock_internal.html#gaa2a75774214c0ca8d557bfe2bd1861df" title="rwlockable_len" alt="" coords="215,563,323,589"/>
+<area shape="rect" id="node14" href="$d0/ddf/group___r_w_lock_internal.html#ga79e889c1ab3327679f55c759f5911119" title="rwlock_cr_len" alt="" coords="218,613,321,640"/>
+<area shape="rect" id="node15" href="$d5/d68/rings_8c.html#a457521da86bbbc821f43e14942efd7c8" title="rings_credit_len" alt="" coords="213,664,326,691"/>
+<area shape="rect" id="node16" href="$db/de9/group__rpc.html#gaeeb1875bf846323206a4af8cf47dd588" title="m0_rpc_item_module_init" alt="" coords="184,715,355,741"/>
+<area shape="rect" id="node17" href="$db/de9/group__rpc.html#gaab5329dd450401479f61156096d0f578" title="m0_rpc_packet_onwire\l_header_size" alt="" coords="191,766,347,807"/>
+<area shape="rect" id="node18" href="$db/de9/group__rpc.html#gab960157f466ea292e5218bc3ce09ab79" title="m0_rpc_packet_onwire\l_footer_size" alt="" coords="191,831,347,873"/>
+<area shape="rect" id="node19" href="$d6/d0c/ut_2xcode_8c.html#abd29dbe4d7481e6ddb5e3c1944ddd45b" title="xcode_length_test" alt="" coords="205,897,333,924"/>
+<area shape="rect" id="node20" href="$d6/d0c/ut_2xcode_8c.html#a979b8f9d3d581523754f6401367e9385" title="xcode_encode_test" alt="" coords="202,948,337,975"/>
+<area shape="rect" id="node21" href="$d6/d0c/ut_2xcode_8c.html#ab849e707d065643a0cac9b531432bab3" title="xcode_opaque_test" alt="" coords="202,999,337,1025"/>
+<area shape="rect" id="node22" href="$d6/d0c/ut_2xcode_8c.html#a84b7409e6ad79b6cd898e242552ff460" title="decode" alt="" coords="237,1049,301,1076"/>
+<area shape="rect" id="node23" href="$d6/d0c/ut_2xcode_8c.html#a8a1b280fdff08be090164cc8689a1801" title="xcode_nonstandard_test" alt="" coords="187,1100,351,1127"/>
+<area shape="rect" id="node24" href="$dd/d6d/group__xcode.html#gab1eed6dc3c3adedfe95e8e82af9e0058" title="m0_xcode_free_obj" alt="" coords="202,1151,337,1177"/>
+<area shape="rect" id="node25" href="$dd/d6d/group__xcode.html#ga122dadd35bc9d49194cd6035cb9d50e7" title="m0_xcode_encdec" alt="" coords="204,1201,335,1228"/>
+<area shape="rect" id="node26" href="$dd/d6d/group__xcode.html#gaeb2b7933eff28b18371b9fd03d237fac" title="m0_xcode_data_size" alt="" coords="197,1252,342,1279"/>
+<area shape="rect" id="node27" href="$d0/def/xcode__fop__test_8c.html#a251de5492248e907618fc1268896c7a0" title="test_fop_encdec" alt="" coords="210,1303,329,1329"/>
+</map>

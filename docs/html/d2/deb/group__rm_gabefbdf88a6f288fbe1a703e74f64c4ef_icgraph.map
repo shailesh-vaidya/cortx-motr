@@ -1,0 +1,30 @@
+<map id="m0_rm_owner_unlock" name="m0_rm_owner_unlock">
+<area shape="rect" id="node2" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a222187f12b9864c7b35e607d27198848" title="file_lock_acquire" alt="" coords="247,5,365,32"/>
+<area shape="rect" id="node3" href="$db/d90/group__rconfc__dlspec.html#ga773b83842608e7994de0a7a16fa30b6d" title="rconfc_conductor_disconnected" alt="" coords="203,56,409,83"/>
+<area shape="rect" id="node4" href="$d2/dab/file_2ut_2file_8c.html#ad756b744433ad411084e7eee4d191951" title="wait_lock" alt="" coords="267,107,345,133"/>
+<area shape="rect" id="node5" href="$d2/dab/file_2ut_2file_8c.html#acb45866479a1a04ecf281d1a6158a742" title="test_verify" alt="" coords="265,157,347,184"/>
+<area shape="rect" id="node6" href="$d2/dab/file_2ut_2file_8c.html#a4fcd4c353c2b1d293dc86a960a2d5d53" title="dlock" alt="" coords="502,183,555,209"/>
+<area shape="rect" id="node7" href="$d0/dec/m0t1fs_2linux__kernel_2file_8c.html#a1205c05cda7eae0eba74c03267e55d6a" title="ioreq_file_lock" alt="" coords="253,259,359,285"/>
+<area shape="rect" id="node8" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga3b389851aad13103ae1d974bf79b69cf" title="sns_cm_fctx_rm_fini" alt="" coords="457,385,600,412"/>
+<area shape="rect" id="node9" href="$d3/d25/group___s_n_s_c_m_f_i_l_e.html#ga0057296c5a78cb5d7b4004656e8cd7d7" title="m0_sns_cm_file_lock_wait" alt="" coords="217,360,395,387"/>
+<area shape="rect" id="node10" href="$d2/deb/group__rm.html#ga66f0aa542468273007b2324acc60bd86" title="m0_rm_owner_init" alt="" coords="242,411,370,437"/>
+<area shape="rect" id="node11" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="223,629,389,656"/>
+<area shape="rect" id="node12" href="$de/d32/ut_2rm__service_8c.html#a64fcd124920f0e308e439f313c3b3d89" title="test_flock" alt="" coords="489,512,568,539"/>
+<area shape="rect" id="node13" href="$d2/deb/group__rm.html#gafb68d3dd01c57888005c41b5db608fea" title="m0_rm_owner_creditor\l_reset" alt="" coords="229,563,383,605"/>
+<area shape="rect" id="node14" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="230,461,382,488"/>
+<area shape="rect" id="node15" href="$d2/deb/group__rm.html#ga35b16fb825a3e37b39bace544db5abe5" title="m0_rm_credit_get" alt="" coords="243,731,369,757"/>
+<area shape="rect" id="node16" href="$db/d70/group_8c.html#ace4b590227394eff6e40595fc86fb0d3" title="ring_get" alt="" coords="495,731,563,757"/>
+<area shape="rect" id="node17" href="$d2/deb/group__rm.html#ga5642217a5a12914f27500be7aa65154a" title="m0_rm_credit_put" alt="" coords="243,680,369,707"/>
+<area shape="rect" id="node18" href="$d2/deb/group__rm.html#gabc25dfe6da84cb414f024cf16a532cef" title="cancel_process" alt="" coords="249,832,363,859"/>
+<area shape="rect" id="node19" href="$dd/d39/ut_2rm__foms_8c.html#a4d76dcaaf51ca627c4326ac225ee621c" title="brw_fom_state_validate" alt="" coords="226,883,386,909"/>
+<area shape="rect" id="node20" href="$dd/d39/ut_2rm__foms_8c.html#aa27127c4e4c22db55121ae785476f185" title="rvk_data_setup" alt="" coords="251,933,361,960"/>
+<area shape="rect" id="node21" href="$dd/d39/ut_2rm__foms_8c.html#ade121e0b9d13bcd17dc6740049cf84ec" title="rvk_fom_state_validate" alt="" coords="227,984,385,1011"/>
+<area shape="rect" id="node22" href="$d0/d11/ut_2rm__fops_8c.html#aeef6e7b4fc29ede19fa124ec0022077a" title="rm_reply_create" alt="" coords="249,1237,363,1264"/>
+<area shape="rect" id="node23" href="$d0/d11/ut_2rm__fops_8c.html#abc5f90605217828a5ba1408fcdf74e2f" title="reply_test" alt="" coords="489,1161,568,1188"/>
+<area shape="rect" id="node24" href="$d0/d11/ut_2rm__fops_8c.html#a4e4cba127890b602c337c41bfaf8d72c" title="post_borrow_validate" alt="" coords="233,1035,379,1061"/>
+<area shape="rect" id="node25" href="$d0/d11/ut_2rm__fops_8c.html#ae37b1a004277d8a646420af4501142d7" title="post_borrow_cleanup" alt="" coords="233,1085,379,1112"/>
+<area shape="rect" id="node26" href="$d0/d11/ut_2rm__fops_8c.html#ad5fdad2c0e004ba5fbdca686300daff5" title="post_revoke_validate" alt="" coords="233,1136,379,1163"/>
+<area shape="rect" id="node27" href="$d0/d11/ut_2rm__fops_8c.html#ab8b489ca077c6e96639b113edb6b1434" title="post_revoke_cleanup" alt="" coords="233,1187,379,1213"/>
+<area shape="rect" id="node28" href="$de/d51/ut_2rm__rwlock_8c.html#a16c943ab22cb131e4b5869ca2e8b2fd5" title="rwlock_req_wait" alt="" coords="248,1339,364,1365"/>
+<area shape="rect" id="node29" href="$d1/d9b/flock_8c.html#a4b160229d793689212160606070e1c01" title="file_lock_wait" alt="" coords="255,1389,357,1416"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="node_init_fini" name="node_init_fini">
+<area shape="rect" id="node2" href="$d1/dc0/group__crate__utils.html#ga7ba4301f569cef87364477120b264bda" title="fini" alt="" coords="227,5,266,32"/>
+<area shape="rect" id="node3" href="$dd/d18/group___net_test_s_list_internals.html#gaa23aef54cae1d9629a8c594f96503710" title="m0_net_test_slist_init" alt="" coords="172,56,321,83"/>
+<area shape="rect" id="node4" href="$d0/de6/group___net_test_commands_internals.html#ga24490a39cfe284a45dc4a42c936b2a23" title="m0_net_test_commands_init" alt="" coords="152,107,341,133"/>
+<area shape="rect" id="node5" href="$dd/d18/group___net_test_s_list_internals.html#ga00f3b676f59cf66c1978a572e34527ff" title="m0_net_test_slist_fini" alt="" coords="172,157,321,184"/>
+<area shape="rect" id="node6" href="$d1/d5d/group__semaphore.html#gafd41b84576d421f207cccf02190ca3ad" title="m0_semaphore_init" alt="" coords="179,208,314,235"/>
+<area shape="rect" id="node7" href="$d1/d5d/group__semaphore.html#ga591af22ea97e46e634dc4379d87e5f2f" title="m0_semaphore_fini" alt="" coords="179,259,314,285"/>
+<area shape="rect" id="node8" href="$d0/de6/group___net_test_commands_internals.html#ga5acb2612e82446e6416782dbd6d73bb7" title="m0_net_test_commands_fini" alt="" coords="152,309,341,336"/>
+</map>

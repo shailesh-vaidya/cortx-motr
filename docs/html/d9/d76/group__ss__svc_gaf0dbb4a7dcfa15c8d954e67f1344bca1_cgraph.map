@@ -1,0 +1,11 @@
+<map id="m0_ss_svc_init" name="m0_ss_svc_init">
+<area shape="rect" id="node2" href="$da/ddc/group__reqhservice.html#gabb668cfa383c0168dd893af4fa2e0507" title="m0_reqh_service_type\l_register" alt="" coords="175,5,329,47"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a01283f6c481bc4a3d0f204e957179d6e" title="M0_ERR" alt="" coords="385,42,461,69"/>
+<area shape="rect" id="node4" href="$d0/df3/group__ss__fop.html#ga4796856587d62190112f88c8766694c6" title="m0_ss_fops_init" alt="" coords="193,122,311,149"/>
+<area shape="rect" id="node5" href="$d0/d9c/group__process__fop.html#ga7e79213d365f230e545a60c4ccae5700" title="m0_ss_process_fops_init" alt="" coords="167,173,337,199"/>
+<area shape="rect" id="node6" href="$d8/d65/group___d_l_d_g_r_p__sss__device.html#ga9d4917dd2c411638cd8496aeb92dfa2e" title="m0_sss_device_fops_init" alt="" coords="167,223,337,250"/>
+<area shape="rect" id="node7" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="219,274,285,301"/>
+<area shape="rect" id="node8" href="$d0/d9c/group__process__fop.html#gaf84673cd3cb1f66e46c2cdaa50c5ddc1" title="m0_ss_process_fops_fini" alt="" coords="167,325,337,351"/>
+<area shape="rect" id="node9" href="$d0/df3/group__ss__fop.html#ga85f420c40b60899a8606fb721940cb0c" title="m0_ss_fops_fini" alt="" coords="193,375,311,402"/>
+<area shape="rect" id="node10" href="$da/ddc/group__reqhservice.html#ga8ed269a2d1bcb91be82f83a83de3f451" title="m0_reqh_service_type\l_unregister" alt="" coords="175,427,329,468"/>
+</map>

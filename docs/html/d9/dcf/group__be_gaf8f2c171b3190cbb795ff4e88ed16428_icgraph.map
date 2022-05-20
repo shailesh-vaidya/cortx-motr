@@ -1,0 +1,5 @@
+<map id="bq_queue_items_max" name="bq_queue_items_max">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga06da2dba36d0d7e0bae7b1a009b9a196" title="be_queue_qitem" alt="" coords="203,31,320,57"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#ga09afbff8ab20ddc0cc9334a2388611fc" title="m0_be_queue_init" alt="" coords="368,5,495,32"/>
+<area shape="rect" id="node4" href="$d9/dcf/group__be.html#gabbca48a9fef1c94d78bb1b6552eaa667" title="m0_be_queue_fini" alt="" coords="368,68,495,95"/>
+</map>

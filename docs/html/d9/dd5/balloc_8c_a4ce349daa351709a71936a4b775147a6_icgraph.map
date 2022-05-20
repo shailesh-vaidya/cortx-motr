@@ -1,0 +1,5 @@
+<map id="btree_insert_sync" name="btree_insert_sync">
+<area shape="rect" id="node2" href="$d9/dd5/balloc_8c.html#a0ebc45c43a3866f98f37e64ddbb492e7" title="balloc_group_write_do" alt="" coords="182,5,333,32"/>
+<area shape="rect" id="node3" href="$d9/dd5/balloc_8c.html#a2095abc25d1a24f693753198a5adf2bd" title="balloc_alloc_db_update" alt="" coords="179,56,336,83"/>
+<area shape="rect" id="node4" href="$d9/dd5/balloc_8c.html#ac668388d836c6992afda9a3b39291360" title="balloc_free_db_update" alt="" coords="181,107,333,133"/>
+</map>

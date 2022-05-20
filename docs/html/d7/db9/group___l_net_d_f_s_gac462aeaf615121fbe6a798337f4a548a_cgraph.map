@@ -1,0 +1,8 @@
+<map id="m0_netst_init_k" name="m0_netst_init_k">
+<area shape="rect" id="node2" href="$de/dec/lnet_2st_2ping_8c.html#a3d112c0ee9bfb841d22054c72fd7e95d" title="nlx_ping_parse_uint64" alt="" coords="172,5,323,32"/>
+<area shape="rect" id="node3" href="$de/dec/lnet_2st_2ping_8c.html#abf634abed8b5c8a749256ccd315665c6" title="nlx_ping_init" alt="" coords="200,56,295,83"/>
+<area shape="rect" id="node4" href="$d0/d04/group__mutex.html#ga342a63c7734a82930710cafbe895013f" title="m0_mutex_init" alt="" coords="375,107,481,133"/>
+<area shape="rect" id="node5" href="$da/dea/group__cond.html#ga8436bdca6685af2a26b04da33d516cb2" title="m0_cond_init" alt="" coords="379,208,477,235"/>
+<area shape="rect" id="node6" href="$de/dec/lnet_2st_2ping_8c.html#af1f94a628212d9241d052a03220d8701" title="nlx_ping_server_spawn" alt="" coords="168,208,327,235"/>
+<area shape="rect" id="node7" href="$de/dec/lnet_2st_2ping_8c.html#a03ae2817a799defb2f17593399b73320" title="nlx_ping_client" alt="" coords="193,157,301,184"/>
+</map>

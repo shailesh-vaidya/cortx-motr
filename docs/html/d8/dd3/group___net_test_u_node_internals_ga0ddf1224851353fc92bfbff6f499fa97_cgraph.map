@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$d5/dc5/group___net_test_u_common_internals.html#ga975f09153b1f8a41c8048e0d84acc62e" title="m0_net_test_u_printf_v" alt="" coords="107,5,265,32"/>
+<area shape="rect" id="node3" href="$d9/d54/group__init.html#ga2cf31aef5d867c9769e7fef5e1d71206" title="m0_init" alt="" coords="154,56,218,83"/>
+<area shape="rect" id="node4" href="$d5/dc5/group___net_test_u_common_internals.html#ga2af9778819716892f00ac96d7bae7f1a" title="m0_net_test_u_print\l_error" alt="" coords="116,107,256,149"/>
+<area shape="rect" id="node5" href="$da/d19/group___net_test_init_fini_internals.html#ga2c7dba8bbb8c340b32812da21c76d48c" title="m0_net_test_init" alt="" coords="127,173,245,200"/>
+<area shape="rect" id="node6" href="$d8/dd3/group___net_test_u_node_internals.html#gaea039ef8a77536b1d0a6de49b3aa4242" title="configure" alt="" coords="149,224,223,251"/>
+<area shape="rect" id="node7" href="$d5/dc5/group___net_test_u_common_internals.html#gafea36420e1e3f4b2ada0bf1ae774b56e" title="m0_net_test_u_lnet_info" alt="" coords="104,275,268,301"/>
+<area shape="rect" id="node8" href="$d5/dc5/group___net_test_u_common_internals.html#gab183ae53b13a6ef2ecc530b1e42ce7fb" title="m0_net_test_u_printf" alt="" coords="316,300,460,327"/>
+<area shape="rect" id="node9" href="$d8/dd3/group___net_test_u_node_internals.html#gaf8198c2a4d09c94857795fa854c12320" title="config_free" alt="" coords="143,376,229,403"/>
+<area shape="rect" id="node10" href="$df/d8f/net_2test_2ut_2main_8c.html#a4748530f3923c3ee1b279b39152b67a6" title="net_test_fini" alt="" coords="139,427,233,453"/>
+<area shape="rect" id="node11" href="$da/d19/group___net_test_init_fini_internals.html#ga6619efcca91ebaef9d8bb112d9b7301e" title="m0_net_test_fini" alt="" coords="329,452,447,479"/>
+<area shape="rect" id="node12" href="$d2/d9a/group___net_test_node_internals.html#ga8ba55d2661f8f03306fa6f5fe9397440" title="m0_net_test_node_init" alt="" coords="109,528,263,555"/>
+<area shape="rect" id="node13" href="$d2/d9a/group___net_test_node_internals.html#gafe05512ba659d74f1982ae5219fa2390" title="m0_net_test_node_start" alt="" coords="105,579,267,605"/>
+<area shape="rect" id="node14" href="$d1/d5d/group__semaphore.html#ga13cc25845a0d00f79cc3397e12881c76" title="m0_semaphore_down" alt="" coords="111,629,261,656"/>
+<area shape="rect" id="node15" href="$d2/d9a/group___net_test_node_internals.html#ga7708df11be36d38ad2d8c0094b96f0f9" title="m0_net_test_node_stop" alt="" coords="105,680,267,707"/>
+<area shape="rect" id="node16" href="$d2/d9a/group___net_test_node_internals.html#ga302ad10cee5b68b976f65cc62fe5d5e9" title="m0_net_test_node_fini" alt="" coords="109,731,263,757"/>
+<area shape="rect" id="node17" href="$d9/d54/group__init.html#gaedfc69ef15debd2675b7670a44bb3820" title="m0_fini" alt="" coords="154,781,218,808"/>
+</map>

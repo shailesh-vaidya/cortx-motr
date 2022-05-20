@@ -1,0 +1,7 @@
+<map id="m0_rpc_conn_timedwait" name="m0_rpc_conn_timedwait">
+<area shape="rect" id="node2" href="$db/de9/group__rpc.html#ga86ec7048d97f3952bfd87ac8180b299e" title="m0_rpc_machine_lock" alt="" coords="223,5,375,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga8c51e6ab0057f9c3425b49da15e8b43e" title="m0_rpc_conn_invariant" alt="" coords="221,56,377,83"/>
+<area shape="rect" id="node4" href="$d1/dc1/group__sm.html#ga6fccf375389b1976365de53a5517da37" title="m0_sm_timedwait" alt="" coords="235,107,363,133"/>
+<area shape="rect" id="node5" href="$db/de9/group__rpc.html#gae23f8ab8eaae6024417940c87b3cd43d" title="m0_rpc_machine_unlock" alt="" coords="216,157,383,184"/>
+<area shape="rect" id="node6" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#a9a02a790ad457506f9f3bc12121e6079" title="M0_RC" alt="" coords="266,208,333,235"/>
+</map>

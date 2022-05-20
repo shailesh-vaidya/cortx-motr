@@ -1,0 +1,5 @@
+<map id="spiel_process_command" name="spiel_process_command">
+<area shape="rect" id="node2" href="$d9/d50/group__spiel-api-fspec.html#ga81a6217a2bb6d41a3eb8072657ef82cc" title="m0_spiel_process_stop" alt="" coords="231,5,389,32"/>
+<area shape="rect" id="node3" href="$d9/d50/group__spiel-api-fspec.html#ga0e4bf9f708f384899d4f4d710acabea6" title="m0_spiel_process_reconfig" alt="" coords="220,56,400,83"/>
+<area shape="rect" id="node4" href="$d9/d50/group__spiel-api-fspec.html#ga8f97e0ad7876fdb64d1d359319848896" title="m0_spiel_process_quiesce" alt="" coords="221,107,399,133"/>
+</map>

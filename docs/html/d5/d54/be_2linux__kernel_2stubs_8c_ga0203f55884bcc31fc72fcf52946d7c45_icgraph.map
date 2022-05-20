@@ -1,0 +1,7 @@
+<map id="m0_be_seg_init" name="m0_be_seg_init">
+<area shape="rect" id="node2" href="$d9/dcf/group__be.html#ga860c313e0dd6ba2d6b49482b439839e5" title="be_domain_seg_open" alt="" coords="167,5,315,32"/>
+<area shape="rect" id="node3" href="$d9/dcf/group__be.html#gacab94f4f1b607ea6f83eae246b0ca842" title="be_domain_seg_create" alt="" coords="363,31,519,57"/>
+<area shape="rect" id="node4" href="$d2/dd6/be_2ut_2helper_8h.html#a80a5b6e36aa3b29deea743705b379b62" title="m0_be_ut_seg_init" alt="" coords="175,107,306,133"/>
+<area shape="rect" id="node5" href="$d9/d30/ut_2tx__group__format_8c.html#a007d6340676de4ad155d5d18e0838558" title="be_ut_tgf_seg_init" alt="" coords="177,157,305,184"/>
+<area shape="rect" id="node6" href="$d9/d30/ut_2tx__group__format_8c.html#a48fa2ea678d47ef64d0e1a80f2cf1ded" title="be_ut_tgf_group_read\l_check" alt="" coords="167,209,314,250"/>
+</map>

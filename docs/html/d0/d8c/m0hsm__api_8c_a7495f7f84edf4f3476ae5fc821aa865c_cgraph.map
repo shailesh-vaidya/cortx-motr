@@ -1,0 +1,8 @@
+<map id="do_io_op" name="do_io_op">
+<area shape="rect" id="node2" href="$d2/def/group__client.html#ga06a0cb3de2e09c556cbc28a7e56f7a1b" title="m0_obj_op" alt="" coords="139,35,224,62"/>
+<area shape="rect" id="node3" href="$d2/def/group__client.html#ga77292cdc924362f8a16b81ad1d942d70" title="m0_op_fini" alt="" coords="285,10,371,36"/>
+<area shape="rect" id="node4" href="$d2/def/group__client.html#ga156a7ce57cba209f6f1fc0e175bb664b" title="m0_op_free" alt="" coords="283,60,373,87"/>
+<area shape="rect" id="node5" href="$d2/def/group__client.html#ga9cab002e29775f42131155fe9d41c8c3" title="m0_op_launch" alt="" coords="128,136,235,163"/>
+<area shape="rect" id="node6" href="$d2/def/group__client.html#ga59cc93b0a6af3a010310b092ee370ced" title="m0_op_wait" alt="" coords="135,187,227,214"/>
+<area shape="rect" id="node7" href="$d2/def/group__client.html#gae85670fb0d8874eda3ae11c8b36ae057" title="m0_rc" alt="" coords="152,238,211,264"/>
+</map>

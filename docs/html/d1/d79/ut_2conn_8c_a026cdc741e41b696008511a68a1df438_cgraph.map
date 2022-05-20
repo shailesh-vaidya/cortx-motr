@@ -1,0 +1,6 @@
+<map id="conn_terminate" name="conn_terminate">
+<area shape="rect" id="node2" href="$df/db4/group__rpc__session.html#ga5e60eacb678413b3d9969d827bccbfa9" title="m0_rpc_conn_terminate" alt="" coords="164,5,325,32"/>
+<area shape="rect" id="node3" href="$df/db4/group__rpc__session.html#ga793d1af126fc12fc2f48a2ed0e623453" title="conn_state" alt="" coords="373,31,460,57"/>
+<area shape="rect" id="node4" href="$d9/d7d/group__time.html#ga6cb802eb5e4cee7f6e5efc86da091145" title="m0_time_from_now" alt="" coords="177,107,313,133"/>
+<area shape="rect" id="node5" href="$d1/d79/ut_2conn_8c.html#a56c331abc953fd55fbbed8f8c62a8e11" title="fop_set_session" alt="" coords="186,157,303,184"/>
+</map>

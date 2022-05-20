@@ -1,0 +1,9 @@
+<map id="rm_ctx_fini" name="rm_ctx_fini">
+<area shape="rect" id="node2" href="$d2/deb/group__rm.html#gac98a08b5e4ff735e319304efbad7b67c" title="m0_rm_owner_windup" alt="" coords="151,5,303,32"/>
+<area shape="rect" id="node3" href="$db/dcd/m0t1fs_2linux__kernel_2dir_8c.html#ad1c2b8b0cf1cc0d319e690c0bef9569e" title="M0_LEAVE" alt="" coords="361,56,451,83"/>
+<area shape="rect" id="node4" href="$d2/deb/group__rm.html#ga56fa2cf03c2ed2d3845aed707deb2860" title="m0_rm_owner_timedwait" alt="" coords="143,107,310,133"/>
+<area shape="rect" id="node5" href="$da/d7a/group___r_w_lock.html#ga43d649ef422c37e25065f6c9d6bc122e" title="m0_rm_rwlock_owner_fini" alt="" coords="140,157,313,184"/>
+<area shape="rect" id="node6" href="$d2/deb/group__rm.html#gae5923a38936671693fed204530c5ed4c" title="m0_rm_remote_fini" alt="" coords="160,208,293,235"/>
+<area shape="rect" id="node7" href="$da/d7a/group___r_w_lock.html#ga9f8c4a76d62db4a60d53af206579d2fc" title="m0_rw_lockable_fini" alt="" coords="157,259,297,285"/>
+<area shape="rect" id="node8" href="$d7/ded/group__memory.html#ga0b8533a3024754008602759e71337eb3" title="m0_free" alt="" coords="192,309,261,336"/>
+</map>
